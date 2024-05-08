@@ -50,7 +50,7 @@ void newuser(){
 	char p1[30],p2[30];
 	printf("Enter name:");
 	scanf("%[^\n]%*c",users.name);
-	printf("Enter a username:");
+	printf("\nEnter a username:");
 	scanf("%s",users.username);
 try:	
 	printf("Enter Password:");

@@ -1,13 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = r"view-source:https://www.tripadvisor.in/Restaurants-g304556-oa60-Chennai_Madras_Chennai_District_Tamil_Nadu.html"
+# url = r"view-source:https://www.tripadvisor.in/Restaurants-g304556-oa60-Chennai_Madras_Chennai_District_Tamil_Nadu.html"
 
-r = requests.get(url=url)
+# r = requests.get(url=url)
 
-print(r.text)
+# print(r.text)
 
-f = open("thirtytosixty.txt", 'r')
+fn = "page_source.html"
+
+f = open(fn, 'r')
 
 content = f.read()
 

@@ -1,0 +1,501 @@
+The Pluto Cafe : 4.3 : Fast Food, Pizza, Ice Cream, Desserts, Tea, Shake, Beverages : ₹300 for two :  Malakpet, Hyderabad
+Imli Sarai : 3.4 : Cafe, Coffee, Italian, Tea, French : ₹1,000 for two :  Banjara Hills, Hyderabad
+Ohri's Uppu : 4.3 : Andhra, South Indian, Desserts, Beverages : ₹1,200 for two :  Banjara Hills, Hyderabad
+Amritsar Haveli : 3.9 : North Indian, Chinese, Fast Food, Ice Cream, Tea, Desserts, Beverages : ₹800 for two :  Attapur, Hyderabad
+Aish - The Park : 4.3 : Hyderabadi, Andhra, Biryani, Desserts : ₹4,500 for two :  The Park, Somajiguda, Hyderabad
+Makau : 4.2 : North Indian, Beverages, Asian, Desserts, Continental, Italian, Modern Indian, Sushi : ₹2,200 for two :  Road 36, Jubilee Hills, Hyderabad
+Xena Brewery & Kitchen : 4.3 : Modern Indian, Continental, Asian : ₹2,500 for two :  Jubilee Hills, Hyderabad
+AnTeRa Courtyard : 4.3 : South Indian, Kebab, Biryani, Desserts : ₹1,600 for two :  Financial District, Hyderabad
+Mamalola Penthouse Bar & Kitchen : 4.4 : Continental, Modern Indian, Asian, Pizza, Fast Food, Chinese, Lebanese, Sushi : ₹1,700 for two :  Gachibowli, Hyderabad
+AnTeRa Kitchen And Bar : 4.4 : South Indian, North Indian, Biryani, Chinese, Desserts, Beverages : ₹1,600 for two :  Jubilee Hills, Hyderabad
+Red Rhino : 4.5 : Sushi, Italian, Oriental, Asian, Bar Food, Desserts, Coffee, Beverages : ₹2,400 for two :  Hitech City, Hyderabad
+36 Downtown Brew Pub : 4.3 : Continental, Hyderabadi, Finger Food, Pizza, Beverages : ₹3,000 for two :  Road 36, Jubilee Hills, Hyderabad
+ZYTHUM Brewing Co. : 4.4 : Continental, Pizza, North Indian, Asian, Desserts, Grilled Chicken, Pasta : ₹2,500 for two :  Jubilee Hills, Hyderabad
+Barbeque Holic : 4.6 : Chinese, Salad, Fast Food, North Indian, Desserts, Beverages : ₹1,500 for two :  Kondapur, Hyderabad
+Halo Cocktail Bar & Kitchen : 4.2 : Bar Food, North Indian, Chinese, Italian, Japanese, Desserts, Continental, Beverages : ₹2,200 for two :  Jubilee Hills, Hyderabad
+ASF - Ancient Stone Flames BBQ & Grill : 4.4 : North Indian, Mediterranean, Desserts, Beverages : ₹1,500 for two :  Gachibowli, Hyderabad
+Luno - Lounge Bar & Kitchen : 4.3 : North Indian, Chinese, Sushi, Pizza, Fast Food, Bar Food, Asian, Desserts : ₹1,100 for two :  Financial District, Hyderabad
+The Glass House : 4.3 : Modern Indian, Cafe, Asian, Coffee, Desserts, Beverages : ₹2,000 for two :  Jubilee Hills, Hyderabad
+Hard Rock Cafe : 4.6 : American, Continental, Italian, Burger, Salad, Wraps, Desserts, Beverages : ₹2,000 for two :  Hitech City, Hyderabad
+Firestone Grill : 4.3 : BBQ, North Indian, South Indian, Desserts, Continental, Italian : ₹1,600 for two :  Kukatpally, Hyderabad
+Air Live : 4.3 : North Indian, Salad, Fast Food, Pizza, Pasta, Biryani, Bar Food : ₹2,000 for two :  Sarath City Capital Mall, Kondapur, Hyderabad
+Raise The Bar : 4.3 : Finger Food, Chinese, Mughlai, North Indian, Fast Food, Beverages : ₹1,900 for two :  Manikonda, Hyderabad
+BBM - Buffet Bar & Music : 4.1 : Andhra, South Indian, Biryani, Seafood, Ice Cream, Beverages : ₹1,400 for two :  Gachibowli, Hyderabad
+Anthm : 4.3 : Continental, North Indian, Asian, Italian, South Indian, BBQ, Desserts : ₹2,500 for two :  Gachibowli, Hyderabad
+Masterpiece : 4.0 : South Indian, North Indian, Salad, Chinese, Italian, Middle Eastern, Momos, Desserts : ₹2,500 for two :  Preston Prime Mall,Gachibowli, Hyderabad
+Dhaba - Estd 1986 Delhi : 4.6 : North Indian, Mughlai, Kebab, Paan, Desserts, Beverages : ₹950 for two :  Kondapur, Hyderabad
+Mindspace Social : 4.2 : Hyderabadi : ₹1,500 for two :  Hitech City, Hyderabad
+Insomnia : 4.2 : North Indian, Italian, Chinese, Finger Food, Continental, Beverages, Bar Food : ₹1,900 for two :  Road 36, Jubilee Hills, Hyderabad
+Lake District Bar & Kitchen : 4.0 : North Indian, Chinese, Salad, Biryani, Fast Food, Bar Food, Seafood, Desserts : ₹1,300 for two :  Necklace Road, Hyderabad
+Kairos Bar & Kitchen : 4.3 : North Indian, Chinese, Italian, Pizza, Asian, Continental : ₹2,000 for two :  Sainikpuri, Secunderabad
+Nataka Global Kitchen And Cafe : 4.3 : Continental, Asian, Thai, Andhra, Italian, Chinese, Momos, Desserts : ₹1,500 for two :  Jubilee Hills, Hyderabad
+Frat House : 4.2 : Continental, Asian, Chinese, North Indian, Italian, Biryani, Bar Food : ₹2,500 for two :  SLN Terminus, Gachibowli, Hyderabad
+Anthe Kitchen : 4.4 : Biryani, South Indian, North Indian, Andhra, Desserts, Kebab : ₹1,500 for two :  Hitech City, Hyderabad
+Tiki Shack : 3.9 : North Indian, Asian, Chinese, Seafood, Biryani, Fast Food, Desserts, Beverages : ₹2,500 for two :  Gachibowli, Hyderabad
+PaPaYa  - Modern Asian Bistro : 4.2 : Bar Food, Asian, Korean, Chinese, Sushi, Mexican, Seafood, Desserts : ₹2,000 for two :  Film Nagar, Hyderabad
+Luft Bar & Kitchen : 4.2 : Asian, Continental, Italian, Japanese, North Indian, Chinese, Mughlai, Desserts : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Authentic Belgian Waffles : - : Desserts, Fast Food, Shake, Waffle, Pancake : ₹300 for two :  Sangareddy, Hyderabad
+Post Card - Global Tapas Bar : 4.5 : Bar Food, North Indian, Modern Indian, Asian, Finger Food, Pizza, Continental, Pasta : ₹2,500 for two :  Madhapur, Hyderabad
+Habitat Cafe : 4.2 : Cafe, Coffee, Beverages : ₹300 for two :  Banjara Hills, Hyderabad
+Voila : 4.5 : European, Modern Indian, Biryani, Italian, Desserts, Beverages : ₹1,800 for two :  Road 36, Jubilee Hills, Hyderabad
+Naomi - Patisserie & Bakehouse : 4.3 : Cafe, Coffee, European, Bakery, Italian, Beverages, Desserts : ₹900 for two :  Jubilee Hills, Hyderabad
+Chirp : 4.3 : Modern Indian, Asian, Continental, Sushi, Italian, North Indian, Chinese, Desserts : ₹1,000 for two :  SLN Terminus, Gachibowli, Hyderabad
+Anaga  Spice Kitchen & Bar : 4.5 : Andhra, North Indian, Biryani, Desserts, South Indian : ₹1,200 for two :  Jubilee Hills, Hyderabad
+Sakura - A Far Eastern Kitchen : New : Japanese, Asian, Thai, Sushi, Korean, Chinese : ₹1,600 for two :  Jubilee Hills, Hyderabad
+Jathara : New : South Indian, North Indian, Biryani, Chinese, Seafood, Desserts, Beverages : ₹1,500 for two :  Jubilee Hills, Hyderabad
+63 Degrees Modern Regional Buffet : 4.1 : North Indian, Desserts, Chinese, South Indian, BBQ : ₹2,100 for two :  Hitech City, Hyderabad
+Tabula Rasa : 4.4 : North Indian, South Indian, Asian, Chinese, Continental, Italian, Desserts : ₹1,000 for two :  Gachibowli, Hyderabad
+Burma Burma - Hitech City : 4.5 : Burmese, Asian, Salad, Bubble Tea, Desserts, Tea : ₹1,800 for two :  Hitech City, Hyderabad
+Itlu : 4.1 : South Indian, North Indian, Biryani, Desserts, Beverages, Andhra : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Amnesia Lounge Bar : 4.2 : Bar Food, American, Pasta, Street Food, Pizza, Asian, Beverages, Desserts : ₹1,800 for two :  Road 36, Jubilee Hills, Hyderabad
+Cross Breed Club & Kitchen : New : South Indian, North Indian, Continental, Chinese, Pizza, Fast Food, Salad, Beverages : ₹1,500 for two :  Gachibowli, Hyderabad
+White Hart : 4.2 : North Indian, Mughlai, Continental, Italian, Seafood, Asian, Fast Food, Desserts : ₹1,500 for two :  Gachibowli, Hyderabad
+Prism Club & Kitchen : 4.0 : Finger Food, North Indian, Continental, European, Italian, Chinese, Sichuan, Pizza : ₹2,500 for two :  Gandipet, Hyderabad
+Xora Bar & Kitchen : 3.8 : Bar Food, Asian, Chinese, Italian, South Indian, Continental, Desserts : ₹2,000 for two :  Jubilee Hills, Hyderabad
+Roastery Coffee House : 4.5 : Cafe, American, Continental, Italian, Coffee, Beverages, Pizza, Burger : ₹950 for two :  Banjara Hills, Hyderabad
+Prost : New : Continental, Pasta, Fast Food, Pizza, Burger, American, Desserts : ₹2,500 for two :  Jubilee Hills, Hyderabad
+Tevar-The Progressive Indian Kitchen & Bar : 4.5 : North Indian, Modern Indian, Desserts : ₹4,000 for two :  Hitech City, Hyderabad
+Aura Cafe & Infusion Bar : 4.5 : Coffee, Italian, Chinese, Oriental, Continental, Bar Food, Beverages, Desserts : ₹2,000 for two :  Jubilee Hills, Hyderabad
+Ko Ko Kai - Asian Kitchen And Cocktails : 4.5 : Japanese, Asian, Sushi, Chinese, Oriental, Beverages, Desserts : ₹1,000 for two :  Gandipet, Hyderabad
+Oka Bar & Bistro : New : Bar Food, Italian, Asian, Finger Food, North Indian, Continental, Coffee, Beverages : ₹2,000 for two :  Jubilee Hills, Hyderabad
+Renao Cafe & Bistro : 4.4 : Cafe, Continental, Pasta, North Indian, Asian, Pizza : ₹1,400 for two :  Madhapur, Hyderabad
+Akan : 3.9 : North Indian, Mexican, Afghan, Chinese, Italian, Chettinad, South Indian : ₹2,500 for two :  Hitech City, Hyderabad
+Sobremesa- Bakehouse Cafe Kitchen : 4.4 : Coffee, Continental, Desserts, Italian, Pasta, Beverages, Bakery, Salad : ₹1,800 for two :  Jubilee Hills, Hyderabad
+Pandaga : New : South Indian, Chinese, North Indian, Andhra, Fast Food, Biryani, Italian, Hyderabadi : ₹1,000 for two :  Kondapur, Hyderabad
+Turquoise - Le Meridien : 4.3 : Asian, North Indian, Hyderabadi, South Indian, Burger, Biryani, Desserts, Beverages : ₹1,400 for two :  Le Meridien, Gachibowli, Hyderabad
+Aqua - The Park : 4.3 : North Indian, Continental, Fast Food, Finger Food, Desserts, Beverages : ₹2,500 for two :  The Park, Somajiguda, Hyderabad
+Forge Breu - Hous : 4.5 : Finger Food, Continental, North Indian, Italian, Desserts : ₹2,500 for two :  Jubilee Hills, Hyderabad
+Kortyard Cafe : New : Cafe, Coffee, Asian, Continental, Chinese, Salad, Turkish, Beverages : ₹1,400 for two :  Jubilee Hills, Hyderabad
+Manchi Baphe : 4.0 : Continental, North Indian, Fast Food, Chinese, Desserts, Beverages : ₹3,000 for two :  Kondapur, Hyderabad
+Heart Cup Coffee : 4.4 : Asian, North Indian, Chinese, Italian, Continental, Japanese, Desserts, Beverages : ₹2,000 for two :  Kompally, Hyderabad
+Animal Club and Kitchen : New : Continental, Hyderabadi : ₹1,500 for two :  Gachibowli, Hyderabad
+AB's - Absolute Barbecues : 4.3 : BBQ, North Indian, Kebab, Salad, Desserts : ₹1,650 for two :  Miyapur, Hyderabad
+Krishnapatnam : 4.2 : Andhra, Chinese, North Indian, Seafood, Biryani, Desserts, Beverages : ₹1,300 for two :  Road 36, Jubilee Hills, Hyderabad
+Okra - Hyderabad Marriott Hotel & Convention Centre : 4.2 : Continental, North Indian, Chinese, Hyderabadi, Andhra, Asian, Beverages : ₹4,000 for two :  Hyderabad Marriott Hotel & Convention Centre, Hyderabad
+Babylon Bar And Kitchen : 4.4 : Asian, Sushi, Chinese, Italian, Biryani, Turkish, Desserts, Beverages : ₹3,500 for two :  Jubilee Hills, Hyderabad
+Brewsters Fine Dine Resto Bar : 4.3 : Bar Food, Pizza, Beverages : ₹1,000 for two :  Gachibowli, Hyderabad
+Nouba - Bar & Kitchen : New : Continental, Asian, Modern Indian, Finger Food, Bar Food : ₹1,500 for two :  Medchal Road, Hyderabad
+Mamagoto : 4.5 : Asian, Japanese, Thai, Salad, Desserts : ₹1,500 for two :  Kondapur, Hyderabad
+Echoes Living Room : 4.7 : Pizza, Coffee, Momos, Shake, Continental : ₹1,100 for two :  Madhapur, Hyderabad
+Zindagi : 4.3 : North Indian, Chinese, Japanese, Pizza, Desserts, Beverages, Italian : ₹3,100 for two :  Jubilee Hills, Hyderabad
+Carpe Diem : 4.4 : Continental, North Indian, Oriental, Fast Food, Pizza : ₹2,500 for two :  Jubilee Hills, Hyderabad
+Verandah - The Park : 4.3 : North Indian, Continental, Chinese, Biryani, Oriental, Desserts, Beverages : ₹3,000 for two :  Somajiguda, Hyderabad
+Bakelore : 4.2 : Bakery, Desserts : ₹400 for two :  Madhapur, Hyderabad
+Vaikuntapuram : 4.0 : Andhra, Biryani, North Indian : ₹1,000 for two :  Kondapur, Hyderabad
+Chiguru : 4.1 : South Indian, North Indian, Chinese, Biryani, Desserts, Beverages : ₹1,200 for two :  Jubilee Hills, Hyderabad
+President Dhaba : 3.9 : North Indian, Chinese, Mughlai, Seafood, Desserts, Beverages : ₹950 for two :  Madhapur, Hyderabad
+Naatu Kitchen And Bar : 4.6 : Andhra, North Indian, Biryani, South Indian, Desserts, Chinese : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Exotica : 4.8 : North Indian, Biryani, Kebab, Chinese, Oriental, Desserts, Shake, Beverages : ₹2,500 for two :  Hitech City, Hyderabad
+ASF - Ancient Stone Flames BBQ & Grill : 4.5 : South Indian, North Indian, Continental, Beverages, Chinese, Desserts : ₹1,700 for two :  Madhapur, Hyderabad
+Kavyam The Telugu Table : 4.4 : South Indian, North Indian, Biryani, Chinese, Kebab, Desserts, Beverages : ₹1,500 for two :  Jubilee Hills, Hyderabad
+Onegolf Brewery : 4.6 : Continental, North Indian, Asian, Pizza, Pasta, Burger, Desserts : ₹2,500 for two :  Gachibowli, Hyderabad
+House Of Bagaara : 4.5 : Biryani, Chinese, Hyderabadi : ₹1,500 for two :  Madhapur, Hyderabad
+Aidu : 4.1 : South Indian, Andhra, Kerala, Hyderabadi, Chettinad, Mangalorean : ₹1,600 for two :  Jubilee Hills, Hyderabad
+Theth Masala : 4.6 : North Indian, Chinese, Continental, Mughlai, Kebab, Seafood, Desserts, Beverages : ₹1,400 for two :  Lingampally, Hyderabad
+Komma - The Club : 3.9 : Italian, Fast Food, North Indian, Beverages, Chinese : ₹1,700 for two :  Kothaguda, Hyderabad
+Ukusa : 4.0 : Cafe, Coffee, South Indian, Asian, Continental, Beverages : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Dum Matka : New : North Indian, Mughlai, Chinese, Italian, Desserts, Continental, Belgian, South Indian : ₹1,000 for two :  Kondapur, Hyderabad
+Broadway : 4.2 : Continental, Pizza, Chinese, Italian, Burger, Asian, Beverages, Bar Food : ₹3,000 for two :  Jubilee Hills, Hyderabad
+Tara - South Indian Kitchen : 4.2 : South Indian, Shake, Beverages : ₹1,000 for two :  Kothaguda, Hyderabad
+Ishtaa : 4.3 : South Indian, North Indian, Chinese, Biryani, Desserts, Beverages : ₹700 for two :  Gachibowli, Hyderabad
+Amnesia Sky Bar : 4.2 : Finger Food, Italian, Sushi, Fast Food, Oriental, Biryani, Desserts, Beverages : ₹2,000 for two :  Inorbit Mall, Hitech City, Hyderabad
+Roast 24 Seven : 4.1 : Cafe, Beverages, Italian, Continental, North Indian, Fast Food, Asian, Coffee : ₹1,000 for two :  Gachibowli, Hyderabad
+Ohri's Rubaiyat : 4.2 : North Indian, Mughlai, Biryani, Desserts, Beverages : ₹1,200 for two :  Hitech City, Hyderabad
+Cafe Marka : 3.9 : Pizza, Pasta, Sandwich, Fast Food, Continental, North Indian : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Pause : 4.0 : North Indian, Italian, Asian, Continental, Bar Food, Desserts : ₹1,600 for two :  Hitech City, Hyderabad
+Jonathan's Kitchen : 4.3 : North Indian, Japanese, Italian, Sushi, Chinese, Continental, Beverages, Desserts : ₹3,600 for two :  Fairfield by Marriot, Gachibowli, Hyderabad
+Flechazo : 4.3 : North Indian, Italian, Mangalorean, Mediterranean, Salad, Asian, Desserts : ₹1,400 for two :  Banjara Hills, Hyderabad
+RU - Craft Bar : 4.0 : Modern Indian, South Indian, North Indian, Bar Food, Seafood, Coffee, Beverages : ₹3,100 for two :  Jubilee Hills, Hyderabad
+PS Cheese Cafe : 4.5 : Cafe, Coffee, Italian, Continental, Burger, Sandwich, Beverages, Desserts : ₹1,100 for two :  Madhapur, Hyderabad
+Sahib’s Barbeque By Ohri’s : 4.2 : Hyderabadi, Awadhi, North Indian, Mughlai, Ice Cream, Desserts : ₹1,700 for two :  Hitech City, Hyderabad
+Moyaaah! : 4.5 : Cafe, Burger, Fast Food, Sandwich, American, Desserts, Beverages : ₹1,150 for two :  Banjara Hills, Hyderabad
+Koi & Co. Bar And Kitchen : 4.3 : Continental, Seafood : ₹2,000 for two :  Sainikpuri, Secunderabad
+Elsewhere Lounge & Kitchen : 4.2 : North Indian, Mughlai, Continental, Pizza, Pasta, Salad, Desserts, Beverages : ₹2,000 for two :  Gachibowli, Hyderabad
+Nicos Cafe Lounge Bar : 4.1 : North Indian, Continental, Finger Food, Pizza, Fast Food, Biryani, Desserts : ₹1,400 for two :  Jubilee Hills, Hyderabad
+Pizza Zone Signature : 4.5 : Pizza, Chinese, Fast Food, Street Food, Bakery, Desserts, Beverages : ₹1,000 for two :  Medchal Road, Hyderabad
+Sorrel : New : North Indian, Chinese, Continental, Italian, Desserts, Shake, Beverages : ₹1,000 for two :  Madhapur, Hyderabad
+Forefathers : New : Italian, Pizza, Pasta, Asian, North Indian, Continental, Desserts, Bar Food : ₹3,000 for two :  Jubilee Hills, Hyderabad
+Pancharasa Kitchen : 4.2 : Andhra, South Indian, Biryani : ₹1,000 for two :  Manikonda, Hyderabad
+Punjab Grill : 4.3 : North Indian, Kebab, Biryani, Mughlai : ₹1,800 for two :  Hitech City, Hyderabad
+Vivaha Bhojanambu Kitchen & Bar : 4.0 : Andhra, Biryani, South Indian, Desserts, Beverages : ₹1,400 for two :  Jubilee Hills, Hyderabad
+Blue Block Club : 4.2 : Continental, North Indian, Fast Food : ₹1,400 for two :  Jubilee Hills, Hyderabad
+Chili's American Grill & Bar : 4.4 : American, Mexican, Burger, Tex-Mex, Pasta, Desserts, Beverages : ₹1,800 for two :  Inorbit Mall, Hitech City, Hyderabad
+Telugu Medium : 4.1 : South Indian, North Indian, Andhra, Hyderabadi, Biryani, Modern Indian : ₹1,500 for two :  Jubilee Hills, Hyderabad
+Mezbaan Authentic Vegetarian Cuisine : 4.1 : Biryani, Chinese, North Indian, Ice Cream, Beverages : ₹1,200 for two :  S P Road, Secunderabad
+Signature Grills : 4.4 : BBQ, North Indian, Italian, Street Food, Desserts, Beverages : ₹1,600 for two :  Necklace Road, Hyderabad
+Trops Kitchen & Tavern : 4.0 : South Indian, North Indian, Oriental, Italian, Fast Food, Desserts : ₹2,500 for two :  Madhapur, Hyderabad
+A19 Klub & Kitchen : 4.1 : Bar Food, Pizza, Fast Food, Finger Food, Biryani, Chinese, North Indian, Pasta : ₹2,000 for two :  Sarath City Capital Mall, Kondapur, Hyderabad
+Aaromale : 4.3 : Cafe, Mexican, Italian, Pizza, Coffee, Tea, Desserts, Burger : ₹1,100 for two :  Film Nagar, Hyderabad
+Yummy Bee : 4.6 : Cafe, Pizza, Continental, Coffee, Desserts, Pasta, Healthy Food, Fast Food : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Chowman : 4.5 : Chinese, Thai, Asian, Seafood, Sichuan, Desserts, Beverages : ₹1,400 for two :  Kukatpally, Hyderabad
+Sesame : 4.5 : Asian, Chinese, Sushi, Japanese, Oriental, Desserts : ₹1,200 for two :  Gachibowli, Hyderabad
+7 Sisters : 4.6 : North Eastern, Sushi, Tibetan : ₹1,800 for two :  Kondapur, Hyderabad
+MoMo Cafe - Courtyard By Marriott : 4.0 : North Indian, Italian, Asian, Momos : ₹2,400 for two :  Courtyard By Marriott Necklace Road, Hyderabad
+Brews & Blends : 4.5 : Continental, Italian, Pizza, Burger, Fast Food, Salad : ₹1,500 for two :  Kondapur, Hyderabad
+Nidhivan : 4.0 : North Indian, South Indian : ₹1,500 for two :  Moosapet, Hyderabad
+Erra Karam - South Indian Resto Bar : 4.3 : Andhra, Chinese, Kebab, North Indian, South Indian, Bar Food, Biryani, Desserts : ₹1,400 for two :  Jubilee Hills, Hyderabad
+Olive Bistro & Bar : 4.5 : Italian, European, Desserts, Beverages : ₹1,800 for two :  Jubilee Hills, Hyderabad
+Farzi Cafe : 4.5 : Modern Indian, North Indian, Mexican, Desserts : ₹2,000 for two :  Jubilee Hills, Hyderabad
+Barkaas Indo Arabic Restaurant : 4.5 : North Indian, Mandi, Biryani, Mughlai, Desserts : ₹1,300 for two :  Kukatpally, Hyderabad
+Simply South : 4.3 : South Indian, Andhra, Tamil, Desserts, Kerala, Seafood, Hyderabadi, Beverages : ₹1,400 for two :  Jubilee Hills, Hyderabad
+Moti Mahal Barbecues : 4.4 : BBQ, North Indian, Street Food, Desserts : ₹1,800 for two :  Gachibowli, Hyderabad
+The Bougainvillea & Zuci : 4.5 : Continental, Asian, Sushi, Italian, North Indian, Kebab, Seafood, Desserts : ₹2,000 for two :  Jubilee Hills, Hyderabad
+Guntur Kaaram : 4.4 : Andhra, North Indian, Biryani, Chinese, Desserts, Beverages, Asian, South Indian : ₹1,100 for two :  Chanda Nagar, Hyderabad
+The Glass Onion : 4.2 : North Indian, Asian, Fast Food, Italian, Beverages : ₹2,500 for two :  Gachibowli, Hyderabad
+Coffee Cup : 4.3 : Cafe, Tea, Beverages, American, Pizza, Burger, Continental, Italian : ₹950 for two :  Somajiguda, Hyderabad
+Cara Cara : 3.8 : Bar Food, Chinese, North Indian, Italian, Japanese, Continental, Desserts, Beverages : ₹2,500 for two :  Jubilee Hills, Hyderabad
+So The Sky Kitchen : 4.2 : North Indian, Chinese, Asian, Mughlai, Fast Food, Beverages : ₹1,900 for two :  Jubilee Hills, Hyderabad
+Flechazo : 4.1 : Hyderabadi, Fast Food : ₹1,000 for two :  Kondapur, Hyderabad
+Ta.Ma.Sha - Restro Cafe : 3.5 : Asian, Thai, Korean, Chinese, Continental, Pizza, Coffee, Desserts : ₹1,200 for two :  Jubilee Hills, Hyderabad
+Feast - Sheraton Hyderabad Hotel : 4.1 : Modern Indian, Asian, Continental, Italian, Desserts : ₹4,200 for two :  Sheraton Hyderabad Hotel, Gachibowli, Hyderabad
+Navika Cafe : 4.1 : Pizza, Burger, Pasta, Sandwich, Fast Food, Healthy Food : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Lord Of The Drinks : 4.5 : North Indian, Asian, Desserts, Sushi, Italian, Continental, BBQ, Beverages : ₹2,500 for two :  Jubilee Hills, Hyderabad
+Food Exchange - Novotel Hyderabad Convention Centre : 4.0 : North Indian, Asian, American, Chinese, Italian, Desserts : ₹4,000 for two :  Novotel Hyderabad Convention Centre, Hitech City, Hyderabad
+Terra Cafe & Bistro : 4.2 : North Indian, Continental, Italian, Pizza, Fast Food, Beverages : ₹1,000 for two :  Jubilee Hills, Hyderabad
+F Cafe & Bar : New : North Indian, Chinese, Sushi, Continental, Pizza, Italian, Biryani, Desserts : ₹2,000 for two :  Madhapur, Hyderabad
+Tales of Telugu : 3.9 : South Indian : ₹1,500 for two :  Madhapur, Hyderabad
+The Neighbourhood : 4.3 : North Indian, Continental, Oriental, Fast Food, Bar Food : ₹2,000 for two :  Himayath Nagar, Hyderabad
+ASIE : New : Chinese, Sushi, Asian, Japanese, Beverages : ₹1,400 for two :  Gachibowli, Hyderabad
+Monastery : 4.2 : Continental, Mexican, Asian, Italian, Sushi, Fast Food, Desserts : ₹1,700 for two :  Hitech City, Hyderabad
+Little Italy : 4.6 : Italian, Pizza, Pasta, Continental, Desserts, Healthy Food, Beverages : ₹1,700 for two :  Gandipet, Hyderabad
+Yummy Bee : 4.4 : Cafe, Pizza, Continental, Coffee, Pasta, Desserts, Healthy Food, Fast Food : ₹1,000 for two :  A S Rao Nagar, Secunderabad
+Medoe Curated Buffet : 3.6 : North Indian, Chinese, Continental, Italian, Asian, South Indian, Biryani, Desserts : ₹1,000 for two :  The Skyview, Hyderabad
+Ohri's Jiva : 4.3 : North Indian, Rajasthani, South Indian, Chinese, Desserts : ₹1,300 for two :  Begumpet, Hyderabad
+Cu2 Brewhouse : 4.1 : North Indian, Italian, Chinese, Asian, Continental, Mughlai, Pizza : ₹2,000 for two :  Financial District, Hyderabad
+O'Rica - Tropical Kitchen : 4.5 : Continental, North Indian, Asian, Coffee, Desserts, Beverages : ₹1,700 for two :  Medchal Road, Hyderabad
+The Globe Grub : 4.3 : North Indian, Chinese, Asian, Fast Food, Street Food, Desserts : ₹1,700 for two :  Gachibowli, Hyderabad
+The Fisherman's Wharf : 4.4 : Chinese, Salad, Fast Food, Seafood, Asian, Continental, Desserts : ₹1,800 for two :  Financial District, Hyderabad
+Feu - Dessert.Bar.Kitchen : 4.5 : Cafe, Beverages, Continental, Bakery, Burger, Pizza, Oriental, Desserts : ₹1,300 for two :  Jubilee Hills, Hyderabad
+Taro : 4.5 : Japanese, Asian, Sushi, Chinese, Oriental, Pizza, Beverages, Desserts : ₹3,500 for two :  Jubilee Hills, Hyderabad
+The Dining Room - Park Hyatt : 4.1 : Oriental, North Indian, Mughlai, Italian, Desserts : ₹4,000 for two :  Park Hyatt, Banjara Hills, Hyderabad
+Gabru Di Chaap : 4.0 : North Indian, Kebab, Wraps, Fast Food, Momos, Beverages : ₹450 for two :  Sainikpuri, Secunderabad
+Hummus House : 4.5 : Mediterranean, Lebanese, Asian, Arabian, Pasta, Italian, Continental : ₹1,300 for two :  Banjara Hills, Hyderabad
+Telangana Spice Kitchen : 4.4 : South Indian, North Indian, Biryani, Kebab, Chinese, Desserts : ₹2,500 for two :  Jubilee Hills, Hyderabad
+Mings & Mee : New : Chinese, Sushi, Asian, Desserts, Beverages : ₹1,900 for two :  Banjara Hills, Hyderabad
+Food Exchange : New : North Indian, Italian, Continental, Biryani, Kebab, Desserts : ₹4,000 for two :  Novotel Hyderabad Airport, Hyderabad
+Hibacci -North East Asian Kitchen : 4.5 : Asian, Momos, Korean, Sushi, Beverages, Burmese, Japanese : ₹300 for two :  Banjara Hills, Hyderabad
+Nizami Darbar : 3.7 : South Indian, Mughlai : ₹1,000 for two :  Gachibowli, Hyderabad
+Rayalaseema Ruchulu : 4.3 : Andhra, South Indian, Chinese, North Indian, Biryani, Desserts, Beverages : ₹1,100 for two :  Hitech City, Hyderabad
+Zila : 3.7 : North Indian, Continental : ₹1,500 for two :  Hitech City, Hyderabad
+The Cave : 3.7 : Pizza, North Indian : ₹300 for two :  Manikonda, Hyderabad
+Seasonal Tastes - The Westin : 4.4 : Continental, North Indian, Italian, Asian, Chinese, Salad, Beverages, Desserts : ₹4,000 for two :  The Westin Hyderabad Mindspace, Hitech City, Hyderabad
+45th Avenue : 4.3 : Cafe, Coffee, Burger, Sandwich, Beverages, Desserts, Tea, Continental : ₹950 for two :  Film Nagar, Hyderabad
+Moti Mahal Delux : 4.2 : Chinese, North Indian, Mughlai, Biryani, Seafood, Desserts, Beverages : ₹1,000 for two :  Gachibowli, Hyderabad
+China Bistro : 4.6 : Chinese, Asian, Sushi, Japanese, Korean, Thai, Seafood, Desserts : ₹1,500 for two :  Jubilee Hills, Hyderabad
+Telangana Express - The Train Restaurant : 3.8 : South Indian, North Indian, Chinese, Biryani, Desserts : ₹700 for two :  A S Rao Nagar, Secunderabad
+Dakshin - ITC Kakatiya : 4.5 : South Indian, Andhra, Tamil, Kerala : ₹4,500 for two :  ITC Kakatiya, Begumpet, Hyderabad
+Vyaami Srena Cafe & Restaurant : 4.4 : North Indian, Chinese, Kebab, Biryani, Sichuan, Pizza, Sandwich, South Indian : ₹1,200 for two :  Jubilee Hills, Hyderabad
+ATG - Across The Globe : 4.5 : Salad, Continental, Asian, Mediterranean, Biryani, Chinese, Pizza, Beverages : ₹1,000 for two :  Lingampally, Hyderabad
+Yello Life Cafe : 4.3 : Cafe, Beverages, Continental, Asian, Healthy Food, Desserts : ₹700 for two :  Jubilee Hills, Hyderabad
+Jewel of Nizam - The Minar - The Golkonda Resort : 4.6 : Hyderabadi, Mughlai : ₹3,000 for two :  The Golkonda Resorts & Spa, Gandipet, Hyderabad
+Jalpaan : 4.1 : North Indian, Biryani, Italian, Continental, Fast Food, Desserts, Beverages : ₹1,100 for two :  Begumpet, Hyderabad
+The Lal Street - Bar Exchange : 4.1 : Finger Food, North Indian, Chinese, Hyderabadi, Fast Food, Continental, Bar Food, Beverages : ₹1,300 for two :  SLN Terminus, Gachibowli, Hyderabad
+Sachii : 4.2 : North Indian, Chinese, Mughlai, Seafood, Pizza, Desserts : ₹2,000 for two :  Banjara Hills, Hyderabad
+Altitude - Hyderabad Marriott Hotel & Convention Centre : 4.5 : Bar Food, North Indian, Rolls : ₹3,000 for two :  Hyderabad Marriott Hotel & Convention Centre, Hyderabad
+Delicia : 3.9 : Biryani, North Indian, South Indian, Chinese, Thai : ₹1,000 for two :  Madhapur, Hyderabad
+Plan B : 4.0 : Fast Food, Continental, American, Burger, Pizza, Desserts : ₹1,000 for two :  Begumpet, Hyderabad
+Odeum : 4.2 : North Indian, Chinese, Biryani, Street Food, Fast Food : ₹2,500 for two :  Gachibowli, Hyderabad
+Parampara - Flavours Of India : 3.9 : North Indian, South Indian, Chinese : ₹1,300 for two :  Banjara Hills, Hyderabad
+Over The Moon Brew Company : 4.9 : Asian, Continental, North Indian, Italian, Momos, Fast Food, Desserts, Beverages : ₹3,000 for two :  Gachibowli, Hyderabad
+La Vie En Rose : 4.1 : Cafe, Coffee, Continental, Pasta, Sandwich : ₹950 for two :  Sainikpuri, Secunderabad
+The Beanery Cafe : 4.2 : Continental, Italian : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Last House Coffee By The lake : 3.4 : Cafe, Coffee, Tea, Juices, Sandwich, Fast Food, Continental, Waffle : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Tiger Lily Bistro : 4.3 : Continental, Pizza, Pasta, Desserts, Beverages : ₹2,500 for two :  Jubilee Hills, Hyderabad
+Zega - Sheraton Hyderabad Hotel : 4.6 : Chinese, Asian, Sushi, Finger Food, Japanese, Thai, Ice Cream, Desserts : ₹2,000 for two :  Sheraton Hyderabad Hotel, Gachibowli, Hyderabad
+Roast The Caffeine Capital : 4.1 : Cafe, Continental, Italian, Fast Food, Pizza, Desserts, Beverages, Coffee : ₹800 for two :  Hitech City, Hyderabad
+The Big Cup Theory : 4.1 : Cafe, Continental, Pizza, Burger, Waffle, Tea, Pancake, Beverages : ₹1,200 for two :  Madhapur, Hyderabad
+Nove - The Italian Kitchen : 4.8 : Italian, Salad, Desserts, Coffee, Beverages : ₹1,700 for two :  Banjara Hills, Hyderabad
+Zero40 Brewing : 4.3 : American, Pizza, North Indian, Fast Food, Continental : ₹3,000 for two :  Jubilee Hills, Hyderabad
+Xero Degrees : 3.8 : Cafe, Coffee, Sandwich, Burger, Pasta, Fast Food, Waffle, Beverages : ₹1,100 for two :  Madhapur, Hyderabad
+Katha  Specialty Coffee & Bakehouse : 3.7 : Cafe, Coffee, Fast Food, Continental, Desserts, Juices, Tea, Beverages : ₹800 for two :  Banjara Hills, Hyderabad
+Yummy Bee : 4.5 : Cafe, Pizza, Continental, Coffee, Desserts, Pasta, Healthy Food, Fast Food : ₹1,000 for two :  Manikonda, Hyderabad
+The Spicy Venue : 4.1 : Andhra, North Indian, Biryani, Mughlai, Chinese, Desserts : ₹1,200 for two :  Jubilee Hills, Hyderabad
+Paradise Biryani - A Legend Since 1953 : 4.2 : Biryani, Kebab, North Indian, Rolls, Desserts, Chinese : ₹1,000 for two :  Bowenpally, Secunderabad
+X Lounge : 4.5 : North Indian, Chinese, Fast Food, Finger Food, Salad, Desserts, Beverages : ₹2,000 for two :  Hitech City, Hyderabad
+Wild Goat : New : Cafe, Coffee, Continental, Asian, Pizza, Burger, Desserts, South Indian : ₹1,800 for two :  Madhapur, Hyderabad
+Bel Posto The Cafe : 4.1 : Cafe, Salad, Healthy Food, Continental, Fast Food, Beverages, Shake, Pizza : ₹950 for two :  Jubilee Hills, Hyderabad
+Naomi Patisserie & Bistro : 4.1 : Desserts, Cafe, Coffee, Shake, Beverages, Pizza, Pasta, Continental : ₹1,000 for two :  Banjara Hills, Hyderabad
+Bellinie & Bae - The Culinary Bar : 4.0 : Bar Food, Continental, North Indian, Chinese, Oriental, Pizza, Desserts, Beverages : ₹1,800 for two :  Jubilee Hills, Hyderabad
+The Nawaabs Restaurant : 3.9 : Hyderabadi, Arabian, Mughlai, North Indian, Lucknowi, Mandi, Desserts, Beverages : ₹850 for two :  Gachibowli, Hyderabad
+The Sanctuary Bar & Kitchen : 3.8 : Continental, Italian, Asian, North Indian, South Indian, Pizza, Desserts, Beverages : ₹2,500 for two :  Film Nagar, Hyderabad
+Asian Treat : 4.4 : Korean, Japanese, Thai, Burmese, Sushi, Nepalese, Singaporean, Indonesian : ₹1,200 for two :  Banjara Hills, Hyderabad
+Fluke Curry : 4.5 : North Indian, Kebab, Biryani, Ice Cream, Coffee, Shake : ₹1,000 for two :  Sainikpuri, Secunderabad
+WOW! Momo : 4.1 : Momos, Fast Food, Beverages, Desserts : ₹400 for two :  Habsiguda, Hyderabad
+Minyu - The Asian Affair : 4.6 : Chinese, Seafood, Desserts, Beverages, Asian : ₹1,200 for two :  Madhapur, Hyderabad
+Hyba : 4.2 : Salad, Middle Eastern, Arabian, BBQ, Kebab, Desserts : ₹2,000 for two :  Kothaguda, Hyderabad
+Dine O China : 4.1 : Chinese, Seafood, Thai, Desserts, Beverages : ₹950 for two :  Gachibowli, Hyderabad
+Cafe Twenty One : New : Cafe, Coffee, Pizza, Pasta, Burger, Salad, Chinese, Tea : ₹1,200 for two :  Gandipet, Hyderabad
+Mrs. Mage - Hyatt Hyderabad : 4.5 : Asian, Oriental : ₹2,400 for two :  Hyatt Hyderabad, Gachibowli, Hyderabad
+Pakka Local : 4.2 : Andhra, Kebab, Chinese, North Indian, Biryani, Chettinad, Mughlai : ₹1,200 for two :  Kondapur, Hyderabad
+Amogham Restaurant : 3.8 : North Indian, Chinese : ₹1,600 for two :  Necklace Road, Hyderabad
+Cock & Bull : 4.9 : Italian, Mediterranean, British, Continental, Pizza, Waffle, Bar Food, Beverages : ₹3,000 for two :  The Skyview, Hyderabad
+Whisky Samba : 3.4 : North Indian, Mughlai, Desserts, Japanese : ₹2,200 for two :  Hitech City, Hyderabad
+Vibeyard : 4.6 : Italian, Continental, Chinese, Sandwich, Seafood, Salad, Fast Food : ₹1,800 for two :  Film Nagar, Hyderabad
+Posh Nosh : 3.9 : North Indian, Chinese, Italian, Biryani, Fast Food, Desserts, Beverages : ₹1,000 for two :  Road 36, Jubilee Hills, Hyderabad
+Tosh E Daan : 4.5 : North Indian, Kebab, Biryani, Desserts, Beverages : ₹1,400 for two :  Gachibowli, Hyderabad
+Makobrew World Coffee Bar : 4.2 : Cafe, Continental, Italian, Chinese, Fast Food, Desserts, Coffee, Beverages : ₹600 for two :  Jubilee Hills, Hyderabad
+Journey 1853 : 4.2 : North Indian, Mughlai : ₹2,000 for two :  City Center Mall, Banjara Hills, Hyderabad
+Mazzo - Marriott Executive Apartments : 4.2 : North Indian, Continental, Italian, Fast Food, Desserts, Beverages : ₹3,000 for two :  Marriott Executive Apartments Hyderabad, Hyderabad
+Flying Tortoise : 4.1 : Cafe, Continental, Italian, Burger, Fast Food, Beverages, Desserts : ₹850 for two :  Hitech City, Hyderabad
+Stone Waters - Kitchen & Lounge : 4.2 : North Indian, Continental, Asian, Pizza : ₹2,000 for two :  Jubilee Hills, Hyderabad
+Kebabs & Kurries - ITC Kakatiya : 4.4 : Hyderabadi, North Indian, Kebab, Biryani, Desserts : ₹3,500 for two :  ITC Kakatiya, Begumpet, Hyderabad
+Punjabi Haveli : 3.9 : North Indian, Chinese, Beverages, Biryani, Desserts : ₹600 for two :  Shamirpet, Hyderabad
+Rika - Park Hyatt : 4.3 : Asian, Sushi, Chinese : ₹2,500 for two :  Park Hyatt, Banjara Hills, Hyderabad
+Lé Vantage Cafe Bar : 4.4 : Cafe, Continental, Coffee, Fast Food, Beverages, Desserts, Pizza : ₹2,000 for two :  Jubilee Hills, Hyderabad
+TGI Fridays : 4.1 : American, Burger, Italian, Beverages, Desserts, Pizza : ₹2,500 for two :  Nexus Hyderabad, Kukatpally, Hyderabad
+Salvia A Fine Dine Restaurant : 3.9 : North Indian, Chinese, Italian, Pizza, Pasta, Salad, Desserts, Beverages : ₹950 for two :  Lingampally, Hyderabad
+Cravery Cafe : 4.4 : Cafe, Coffee, North Indian, Mughlai, Seafood, Chinese, Desserts, Beverages : ₹1,000 for two :  Financial District, Hyderabad
+Mirosa Cafe & Kitchen : 4.1 : Pizza, Burger, Fast Food, Continental, Healthy Food, Pasta, Sandwich, Beverages : ₹1,200 for two :  Himayath Nagar, Hyderabad
+Sattvam : 4.5 : South Indian, North Indian, Salad, Street Food, Desserts : ₹250 for two :  Banjara Hills, Hyderabad
+Gudgudee - Tickle Your Tastebuds : 4.6 : Continental, Chinese, North Indian, Beverages, Desserts : ₹1,400 for two :  Madhapur, Hyderabad
+Maredumilli : 3.6 : Seafood, Andhra, Hyderabadi, South Indian, Desserts : ₹600 for two :  Gachibowli, Hyderabad
+President Dhaba Bar & Kitchen : 4.2 : North Indian, Chinese, Seafood, Mughlai, Biryani, Street Food : ₹1,700 for two :  Road 36, Jubilee Hills, Hyderabad
+Rasyumm Multi Cuisine Restaurant : 3.9 : South Indian, North Indian, Kebab, Chinese, Biryani, Desserts : ₹1,100 for two :  Chanda Nagar, Hyderabad
+Theia Bistro & Bar : 4.4 : Continental, Italian, Greek, Beverages, Chinese, Modern Indian, Asian, Pizza : ₹1,200 for two :  Gandipet, Hyderabad
+A'la Liberty : 4.1 : North Indian, Continental, Asian, Pizza, Italian, Oriental, Desserts, Beverages : ₹1,600 for two :  Banjara Hills, Hyderabad
+Chittimuthyalu : New : Andhra, Desserts, Beverages : ₹400 for two :  Madhapur, Hyderabad
+Fly - Feel The High : 4.3 : Continental, Chinese, Pizza, North Indian, Beverages : ₹2,500 for two :  Jubilee Hills, Hyderabad
+By The Bay : 4.3 : Finger Food, Pizza, Continental, Sandwich, North Indian, Desserts, Beverages, Seafood : ₹1,600 for two :  Eat Street, Necklace Road, Hyderabad
+Loko Rooftop Bistro & Bar : 4.3 : Continental, Bar Food, North Indian, Japanese, Biryani, Chinese, Fast Food, Desserts : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Tasca Bar & Kitchen : 4.5 : Asian, Continental, North Indian, Biryani, Fast Food, Chinese, Desserts : ₹2,500 for two :  Gandipet, Hyderabad
+Ouvra Telugu Kitchen : New : South Indian, North Indian : ₹1,000 for two :  Madhapur, Hyderabad
+Pousada Kitchen : 3.9 : Goan, Biryani, Asian, South Indian : ₹1,000 for two :  Gandipet, Hyderabad
+Fusion 9 : 4.2 : Continental, Italian, Oriental, Biryani, North Indian, Sushi, Desserts, Beverages : ₹2,500 for two :  Inorbit Mall, Hitech City, Hyderabad
+USPizza : 2.9 : Pizza, Pasta, Fast Food, Desserts, Beverages : ₹700 for two :  Adikmet, Hyderabad
+Urban Munchies : 3.0 : Pizza, Burger, Fast Food, Beverages, Desserts, Shake : ₹350 for two :  Amberpet, Hyderabad
+Haiku : 4.8 : Oriental, Chinese, Sushi, Japanese, Korean, Malaysian, Beverages : ₹2,400 for two :  Gachibowli, Hyderabad
+Globe Buffetio : 3.7 : South Indian, Asian, North Indian, Continental, Desserts, Mughlai : ₹1,700 for two :  Financial District, Hyderabad
+Deccan Pavilion - ITC Kakatiya : 4.2 : North Indian, South Indian, Continental, Chinese : ₹3,500 for two :  ITC Kakatiya, Begumpet, Hyderabad
+Chama Gaucha : 4.0 : Continental, Tex-Mex, Brazilian, Mexican, Desserts, Beverages : ₹3,000 for two :  Radisson Hyderabad Hitec City, Gachibowli, Hyderabad
+Ala Dakshinapuramlo : 4.0 : South Indian, Andhra, Biryani, Seafood, Chinese, Ice Cream : ₹1,300 for two :  Hitech City, Hyderabad
+Amritsari Aangan : 4.2 : North Indian, Beverages : ₹950 for two :  Gandipet, Hyderabad
+Chaitanya Food Court : 4.0 : Andhra, South Indian, Biryani, North Indian, Chinese, Beverages, Desserts : ₹950 for two :  Kukatpally, Hyderabad
+TSK - The Spice Kitchen : 3.5 : Biryani, South Indian, Kebab, Chinese, Desserts : ₹1,000 for two :  Kukatpally, Hyderabad
+Chickpet Donne Biryani House : 4.0 : Biryani, Chinese, Seafood : ₹1,000 for two :  Gandipet, Hyderabad
+Enchanté Café & Confectionery : 4.2 : Cafe, Italian, Continental, Burger, Fast Food, Desserts, Beverages, Pizza : ₹700 for two :  Film Nagar, Hyderabad
+Frosty Den : 3.4 : Pizza, Desserts, Ice Cream, Beverages, Fast Food, Shake, Burger : ₹300 for two :  Amberpet, Hyderabad
+Barbeque Spice : 4.2 : BBQ, North Indian, Desserts, Chinese : ₹1,900 for two :  Abids, Hyderabad
+The Grand Trunk Road : 4.0 : North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages : ₹1,200 for two :  Madhapur, Hyderabad
+Chubby Cho : 4.3 : Chinese, Japanese, Oriental, Desserts, Beverages : ₹1,200 for two :  Jubilee Hills, Hyderabad
+Ironhill : 4.4 : North Indian, Continental, Asian, Finger Food, Pizza, Biryani, Desserts, Beverages : ₹1,900 for two :  PNR Empire, Kukatpally, Hyderabad
+Masquerade By Mystery Rooms : 4.1 : Chinese, Fast Food, Biryani, Burger, Pizza, Tea, Desserts, Beverages : ₹950 for two :  Gachibowli, Hyderabad
+E'woke - The Vegan Cafe : 4.7 : Cafe, Middle Eastern, Asian, European, Italian, Beverages, Desserts, Tea : ₹1,200 for two :  Sainikpuri, Secunderabad
+Noho : New : Bar Food, Asian, Japanese, Continental, Oriental, Chinese, Desserts : ₹1,800 for two :  Jubilee Hills, Hyderabad
+Sounds & Spirits : 3.9 : Finger Food, Continental, Pizza, North Indian, Chinese, Beverages : ₹1,300 for two :  Madhapur, Hyderabad
+Habibo : 4.4 : North Indian, Arabian, Mughlai, Mandi, Chinese, Salad, Ice Cream, Desserts : ₹1,500 for two :  Ameerpet, Hyderabad
+Rajthali : 4.1 : Rajasthani, North Indian, Desserts : ₹1,000 for two :  Himayath Nagar, Hyderabad
+Tabla : 3.6 : North Indian, Chinese, Andhra, Mughlai, Kebab, Biryani, South Indian, Desserts : ₹1,250 for two :  Kukatpally, Hyderabad
+Spice It - ibis Hyderabad HITEC City : 4.0 : North Indian, Chinese, Biryani, Desserts, Beverages : ₹1,600 for two :  ibis Hyderabad HITEC City, Hyderabad
+Shanghai - Flavours of China Town : New : Chinese, Asian : ₹1,000 for two :  S P Road, Secunderabad
+Ironhill Cafe : 4.1 : Cafe, Beverages, Coffee, Shake, Tea, Bubble Tea : ₹700 for two :  Madhapur, Hyderabad
+Prego - The Westin : 4.2 : Italian, Pizza, Seafood, Pasta, Desserts : ₹4,000 for two :  The Westin Hyderabad Mindspace, Hitech City, Hyderabad
+Deccan Kitchen : 4.0 : Hyderabadi, Biryani : ₹1,800 for two :  Jubilee Hills, Hyderabad
+Bidri - Hyderabad Marriott Hotel & Convention Centre : 4.4 : Hyderabadi, North Indian, Mughlai, Desserts : ₹3,500 for two :  Hyderabad Marriott Hotel & Convention Centre, Hyderabad
+Kami Hyderabad Cafe & Patisserie : 4.3 : Sandwich, Burger, Pasta, Fast Food, Mexican, Healthy Food, Beverages : ₹1,000 for two :  Kondapur, Hyderabad
+Churrolto : 4.0 : Italian, Pizza, Burger, Healthy Food, Desserts, Beverages : ₹1,400 for two :  Banjara Hills, Hyderabad
+Platform 65 : 4.1 : Chinese, Sichuan, South Indian, North Indian, Biryani, Desserts, Shake, Beverages : ₹1,100 for two :  Kompally, Hyderabad
+Teluguness : 4.4 : Andhra, South Indian, Biryani, North Indian, Ice Cream, Desserts : ₹1,000 for two :  Hitech City, Hyderabad
+Tre-Forni Restaurant And Bar - Park Hyatt : 4.8 : Italian, Desserts, Beverages, Bar Food : ₹7,000 for two :  Park Hyatt, Banjara Hills, Hyderabad
+Kefi : 3.4 : Cafe, Continental, Italian : ₹700 for two :  Nagole, Hyderabad
+Prezmo : 3.8 : Cafe, Coffee, Pizza : ₹1,500 for two :  Gandipet, Hyderabad
+Shiso Cafe : 3.9 : Cafe, Coffee, Continental : ₹800 for two :  Madhapur, Hyderabad
+Aahana Multi Cuisine Restaurant : 3.9 : South Indian, North Indian, Chinese, Kebab, Biryani : ₹1,000 for two :  Gachibowli, Hyderabad
+The Hoppery : 4.2 : Continental, Pizza, Fast Food, Desserts, Beverages : ₹2,000 for two :  Jubilee Hills, Hyderabad
+The Palm Banjara : New : North Indian, Cafe, Chinese, Mughlai, Mandi, Biryani, Desserts, Coffee : ₹1,500 for two :  Jubilee Hills, Hyderabad
+Serai Kitchen's : 3.7 : Chinese, North Indian, South Indian, Continental, Desserts, Beverages : ₹1,000 for two :  Hitech City, Hyderabad
+Thangedu : 3.1 : South Indian, Biryani, Chinese, Hyderabadi, Andhra, Thai, Japanese : ₹1,200 for two :  Madhapur, Hyderabad
+Over The Flow : 4.2 : North Indian, Italian, Continental, South Indian, Pizza, Burger, Biryani, Desserts : ₹1,500 for two :  Kothapet, Hyderabad
+Simhapuri Kitchen & Bar : 4.1 : South Indian, Chinese, North Indian, Biryani, Desserts, Beverages : ₹1,700 for two :  Gandipet, Hyderabad
+Delicia Multi Cuisine Restaurant : 4.1 : North Indian, Pizza, Sandwich, Mughlai, Chinese, Desserts, Beverages : ₹1,000 for two :  Financial District, Hyderabad
+Amro Cafe : 4.3 : Cafe, Coffee, Continental, Bakery, Beverages : ₹1,200 for two :  Gachibowli, Hyderabad
+Encanto : 3.3 : Cafe, Coffee, Pizza, Desserts, Beverages : ₹1,500 for two :  Nagole, Hyderabad
+Palace Heights : 2.9 : North Indian, Mughlai, Continental, Chinese, Bar Food, Salad, Desserts, Beverages : ₹1,400 for two :  Banjara Hills, Hyderabad
+The Funnel Hill Creamery : 4.4 : Pizza, Burger, Fast Food, Seafood, Sandwich, Pasta, Continental, Desserts : ₹800 for two :  Begumpet, Hyderabad
+Autumn Leaf Cafe : 3.9 : Cafe, Coffee, Salad, Burger, Sandwich, Continental, Fast Food, Desserts : ₹1,200 for two :  Jubilee Hills, Hyderabad
+Naani’s Pure Veg : 3.0 : South Indian : ₹600 for two :  Jubilee Hills, Hyderabad
+California Burrito : 4.5 : Mexican, Healthy Food, American, Salad, Fast Food, Beverages : ₹450 for two :  Himayath Nagar, Hyderabad
+Tatva : 4.0 : Continental, North Indian, Chinese, Oriental, Pizza, Pasta, Desserts : ₹1,900 for two :  S P Road, Secunderabad
+Ishtaa Vegetarian Cuisine : 4.0 : South Indian, North Indian, Chinese, Desserts, Beverages : ₹1,000 for two :  Basheer Bagh, Hyderabad
+Lush Cafe By The Lake : 3.1 : Cafe, Coffee, Continental, Italian, Fast Food, Chinese, Desserts, Beverages : ₹1,400 for two :  Madhapur, Hyderabad
+Mairu Bistro : 3.6 : Cafe, Coffee, Fast Food, Chinese, North Indian, Mexican, Italian, Beverages : ₹1,500 for two :  Jubilee Hills, Hyderabad
+Sadda Punjabi Cafe : 4.2 : North Indian, Desserts, Beverages : ₹500 for two :  Madhapur, Hyderabad
+Kapoor's Cafe : 3.5 : North Indian, Desserts, Beverages : ₹1,000 for two :  Madhapur, Hyderabad
+The Next Round : 4.4 : North Indian, Asian, Continental, Sushi, Japanese, Seafood, Pizza, Desserts : ₹1,500 for two :  Lingampally, Hyderabad
+Ohri's Ming's Court : 4.6 : Asian, Chinese, Seafood, Thai, Desserts, Beverages : ₹1,000 for two :  Basheer Bagh, Hyderabad
+Nidhi Ki Rasoi Se : 4.7 : North Indian, Chinese, Fast Food : ₹700 for two :  Lingampally, Hyderabad
+Sip Of Sky : 3.8 : Italian, Seafood, Continental, Fast Food, Salad, Desserts : ₹1,100 for two :  Aero Plaza, RGI Airport, Hyderabad, Hyderabad
+The Moonshine Project : 4.3 : Bar Food, Oriental, North Indian, Seafood, Chinese, Pizza, Desserts, Beverages : ₹2,500 for two :  Film Nagar, Hyderabad
+Nannayya : New : South Indian, North Indian : ₹800 for two :  Madhapur, Hyderabad
+ZING - Sky Bar + Lounge : 4.3 : Finger Food, North Indian, Asian, Pizza : ₹2,500 for two :  Hyatt Place, Banjara Hills, Hyderabad
+Mirame Cafe & Kitchen : 3.9 : Cafe, Coffee, Beverages, North Indian, Chinese, Pizza, Fast Food : ₹1,400 for two :  RTC X roads, Hyderabad
+The Punjabis Swag : 4.4 : North Indian, Mughlai : ₹1,000 for two :  Kondapur, Hyderabad
+Shanghai Chef : 4.1 : Asian, Continental, Italian, Thai, Sichuan, Seafood, Oriental, Desserts : ₹1,200 for two :  Film Nagar, Hyderabad
+Chinese Wok : 3.8 : Chinese, Sichuan, Momos, Asian : ₹500 for two :  A S Rao Nagar, Secunderabad
+True Black Specialty Coffee : 3.8 : Cafe, Coffee, Fast Food, Beverages : ₹550 for two :  Jubilee Hills, Hyderabad
+The Avenue Bar & Kitchen : 4.3 : South Indian, Fast Food, Biryani, Desserts : ₹1,200 for two :  Saroor Nagar, Hyderabad
+Tollgate : 4.2 : North Indian, Chinese, Mandi, Biryani, Waffle, Desserts, Beverages, Shake : ₹1,100 for two :  Medchal Road, Hyderabad
+10 Downing Street : 4.5 : Chinese, North Indian, Continental, Italian, Beverages : ₹2,000 for two :  Jeedimetla, Hyderabad
+Krishnas Kitchen : 4.4 : Chinese, Andhra, North Indian, Biryani, Desserts, Beverages : ₹1,400 for two :  Madhapur, Hyderabad
+Chandigarh Dhaba : 4.5 : North Indian, Mughlai : ₹800 for two :  Kondapur, Hyderabad
+Barbeque Nation : 4.5 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,850 for two :  Panjagutta, Hyderabad
+Koliba Bar & Cafe : 4.0 : Chinese, North Indian, Pizza, Fast Food, Bar Food : ₹1,800 for two :  Begumpet, Hyderabad
+Cream Centre : 3.1 : North Indian, Street Food, Mexican, Italian, Chinese, Pizza, Beverages : ₹1,200 for two :  Hitech City, Hyderabad
+Naaz Mandi : 3.6 : Arabian, Mandi, Desserts, Kebab, Chinese, Modern Indian : ₹2,500 for two :  Gachibowli, Hyderabad
+Punjabi Affair : 4.3 : North Indian, Chinese, Seafood, Goan, Sichuan : ₹1,200 for two :  Madhapur, Hyderabad
+Mainland China : 4.1 : Chinese, Momos, Thai, Asian, Seafood, Sushi, Desserts, Beverages : ₹2,000 for two :  Hitech City, Hyderabad
+Grease Monkey : 3.8 : Bar Food, North Indian, Italian, Chinese, Kebab, Fast Food, Beverages : ₹2,500 for two :  Road 36, Jubilee Hills, Hyderabad
+Thyme & Whisk : 4.2 : Chinese, Italian, Asian, North Indian, Biryani, Fast Food, Pizza, Salad : ₹1,400 for two :  Jubilee Hills, Hyderabad
+Game Theory- Cafe & Restaurant : New : Chinese, Fast Food, Pizza : ₹1,000 for two :  Kompally, Hyderabad
+Aster Cafe & Kitchen : 4.0 : Cafe, Coffee, Continental, Italian, Chinese, Salad, Desserts, Beverages : ₹1,000 for two :  Banjara Hills, Hyderabad
+Dasara : 3.6 : South Indian, North Indian, Biryani, Mughlai, Chinese, Shake, Beverages : ₹1,200 for two :  Nagole, Hyderabad
+Ohri's Gufaa : 4.3 : North Indian, Mughlai, Biryani, Kebab, Chinese, Desserts : ₹1,500 for two :  Basheer Bagh, Hyderabad
+Shanghai Chef : 3.4 : Chinese, Thai, Asian, Seafood : ₹1,000 for two :  Gachibowli, Hyderabad
+WOW! China : 4.1 : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹600 for two :  GVK One Mall, Banjara Hills, Hyderabad
+Samjohn's Pizza : 3.9 : Pizza, Chinese, Fast Food, Beverages, Desserts : ₹1,200 for two :  Kukatpally, Hyderabad
+Zouq : 3.8 : Salad, Turkish, Lebanese, Kebab, Middle Eastern, Parsi, Wraps, Sandwich : ₹1,000 for two :  Banjara Hills, Hyderabad
+Alanati : 4.7 : Andhra, North Indian, Chinese, Biryani, Hyderabadi, Desserts : ₹1,400 for two :  Jubilee Hills, Hyderabad
+Pallevindu : 4.0 : Andhra : ₹600 for two :  Gachibowli, Hyderabad
+The Labyrinth Lakefront : 4.4 : Italian, Japanese, Pizza, Pasta, Desserts : ₹1,200 for two :  Gandipet, Hyderabad
+Firefly Club And Social Room : 4.1 : Asian, North Indian, Chinese, Mughlai, Biryani, Kebab, Pizza, Seafood : ₹1,100 for two :  Sarath City Capital Mall, Kondapur, Hyderabad
+Haldiram's Restaurant : 4.1 : Mithai, South Indian, North Indian, Biryani, Sandwich, Street Food, Beverages : ₹400 for two :  S P Road, Secunderabad
+Swaad Of South : 4.0 : South Indian, Beverages : ₹400 for two :  Hitech City, Hyderabad
+Naomi - Patisserie & Bistro : New : Italian, Continental, Pizza, Shake, Coffee, Beverages, Cafe, Desserts : ₹1,000 for two :  Gachibowli, Hyderabad
+UTK - United Telugu Kitchens : 3.5 : South Indian : ₹1,000 for two :  Chanda Nagar, Hyderabad
+Mist - The Poolside Kitchen - The Golkonda Resort : 4.3 : Continental, Chinese, Indonesian, Asian, Thai, Beverages : ₹4,000 for two :  The Golkonda Resorts & Spa, Gandipet, Hyderabad
+Milano Ice Cream : 3.8 : Ice Cream, Desserts, Shake, Waffle, Coffee : ₹400 for two :  Jubilee Hills, Hyderabad
+1944 - The Hocco Kitchen : 3.0 : North Indian, Continental, Pizza, Ice Cream, Shake, Beverages : ₹300 for two :  Banjara Hills, Hyderabad
+Cafe Niloufer : 4.3 : Cafe, Tea, Shake, Beverages, Bakery, Sandwich, Pizza, Fast Food : ₹500 for two :  Banjara Hills, Hyderabad
+Pind Balluchi Restaurant : 4.2 : North Indian, Mughlai, Kebab, Beverages : ₹1,000 for two :  Nexus Hyderabad, Kukatpally, Hyderabad
+Good Vibes Only Cafe : 4.3 : Cafe, Continental, Fast Food, Desserts, Pizza, Burger, Beverages, Shake : ₹1,100 for two :  Manikonda, Hyderabad
+Ishtaa : 3.8 : South Indian, North Indian : ₹300 for two :  Jubilee Hills, Hyderabad
+Conçu : 3.8 : Cafe, Coffee, Continental, Italian, Pizza, Burger, Sandwich, Beverages : ₹1,000 for two :  Manikonda, Hyderabad
+The Tree Stories : 3.4 : Chinese, Italian, Asian, Fast Food, Sandwich, Desserts, Coffee, Beverages : ₹1,000 for two :  L B Nagar, Hyderabad
+Cafe Melange : 3.7 : Continental, Sandwich, Fast Food, Chinese, Salad, North Indian, South Indian, Beverages : ₹950 for two :  Film Nagar, Hyderabad
+Lillies - The Boho Cafe : 3.7 : Cafe, Coffee, Tea, Sandwich, Beverages, Pizza, Pasta, Continental : ₹1,300 for two :  Jubilee Hills, Hyderabad
+Cartel Cafe & Bistro : 4.0 : Cafe, Coffee, Italian, Fast Food, North Indian, Desserts, Shake, Beverages : ₹800 for two :  Habsiguda, Hyderabad
+Chika A Coffee Collective : New : Cafe, Coffee : ₹300 for two :  Srinagar Colony, Hyderabad
+The White Cashew : 3.9 : North Indian, Continental, Chinese, Mughlai, Italian, Fast Food, Biryani, Beverages : ₹1,700 for two :  Sainikpuri, Secunderabad
+Coalspark Restaurant : 4.0 : North Indian, Arabian, Chinese, BBQ, Mughlai, Seafood, Biryani, Beverages : ₹850 for two :  Gachibowli, Hyderabad
+KFC : 4.2 : Burger, Fast Food, Rolls : ₹500 for two :  Kukatpally, Hyderabad
+This Is It : 4.4 : Continental, Asian, Cafe, Salad, Sushi, Italian, Desserts, Beverages : ₹1,000 for two :  Sainikpuri, Secunderabad
+Medley : 4.2 : Continental, Chinese, North Indian, Italian, Desserts, Tea, Beverages : ₹1,400 for two :  Jubilee Hills, Hyderabad
+Collage - Hyatt Hyderabad Gachibowli : 4.0 : Continental, North Indian, Chinese, Beverages, South Indian, Mughlai, Desserts, Italian : ₹3,200 for two :  Hyatt Hyderabad, Gachibowli, Hyderabad
+10 Biryanis : 4.3 : Biryani, Mughlai, North Indian : ₹1,500 for two :  Jubilee Hills, Hyderabad
+Raasta : 3.1 : Andhra, North Indian, Asian, Pasta, Pizza, Italian, Seafood, Desserts : ₹1,200 for two :  Hitech City, Hyderabad
+The Bar - Novotel Hyderabad Convention Centre : 4.5 : Finger Food, Continental, Beverages : ₹2,500 for two :  Novotel Hyderabad Convention Centre, Hitech City, Hyderabad
+Drunkyard : 4.3 : Continental, North Indian, Chinese, Fast Food, Desserts : ₹1,700 for two :  Gachibowli, Hyderabad
+Auberry The Bake Shop : 4.1 : Desserts, Coffee, Beverages : ₹600 for two :  The Next Galleria Mall, Malakpet, Hyderabad
+The Cascade : 4.5 : Chinese, Japanese, Asian, Seafood, Desserts : ₹1,200 for two :  Kompally, Hyderabad
+Yi Jing - ITC Kohenur : 4.5 : Chinese : ₹3,000 for two :  ITC Kohenur, Hitech city, Hyderabad
+Pista House : 4.0 : Biryani, North Indian, Chinese, Kebab, Seafood, Ice Cream, Desserts, Beverages : ₹1,000 for two :  Gachibowli, Hyderabad
+3B's - Buddies, Bar & Barbecue : 4.4 : North Indian, Biryani, Desserts, Beverages : ₹1,300 for two :  Road 36, Jubilee Hills, Hyderabad
+Theory Cafe & Dessert Bar : 4.1 : Cafe, Fast Food, Desserts, Beverages, Shake, Tea : ₹1,300 for two :  Jubilee Hills, Hyderabad
+Haldiram's Sweets And Namkeen : 3.9 : Mithai, Desserts : ₹400 for two :  S P Road, Secunderabad
+Cascade - Radisson Hyderabad Hitec City : 3.9 : Continental, North Indian, Italian, Fast Food, Desserts : ₹4,000 for two :  Radisson Hyderabad Hitec City, Gachibowli, Hyderabad
+The English Cafe : 4.1 : Bar Food, Fast Food, Chinese, Beverages, Burger : ₹1,900 for two :  Financial District, Hyderabad
+Back Local Speciality Coffee House : 4.0 : Cafe, Coffee, Continental, Fast Food, Desserts, Beverages : ₹700 for two :  Marredpally, Secunderabad
+Mandi@36 : 3.3 : Arabian, Mandi, Fast Food, Desserts, Beverages : ₹1,100 for two :  Banjara Hills, Hyderabad
+Spudato : 4.1 : Continental, Arabian, North Indian, Mandi, Pasta, Fast Food, Desserts, Beverages : ₹1,300 for two :  Gachibowli, Hyderabad
+Casbah - The Westin : 3.9 : Mediterranean, Wraps, Biryani, Desserts : ₹3,500 for two :  The Westin Hyderabad Mindspace, Hitech City, Hyderabad
+The Big Cup Theory : 4.5 : Cafe, Coffee, Pizza, Sandwich, Street Food, Fast Food, Beverages : ₹1,200 for two :  Lingampally, Hyderabad
+The Rolling Pin : New : Fast Food, Shake, Beverages : ₹1,000 for two :  Hitech City, Hyderabad
+1989 Pizza & Thick Shake's : 3.7 : Pizza, Sandwich, Burger, Pasta, Fast Food, Desserts, Shake, Beverages : ₹400 for two :  L B Nagar, Hyderabad
+The Weekend Café : 4.4 : Cafe : ₹850 for two :  Karkhana, Secunderabad
+Desi Bytes : 3.8 : North Indian, Chinese, Momos, Bihari : ₹400 for two :  Kondapur, Hyderabad
+Central Biryani Pointe : 4.1 : North Indian, Biryani, Chinese, Mughlai, BBQ, Street Food : ₹950 for two :  Boduppal, Hyderabad
+Mekong : 4.9 : Chinese, Thai, Burmese, Vietnamese, Tibetan, Japanese : ₹3,500 for two :  Marigold Hotel, Begumpet, Hyderabad
+The Funnel Hill Creamery : 4.0 : Cafe, Fast Food, Waffle, Pancake, Coffee, Beverages : ₹950 for two :  Jubilee Hills, Hyderabad
+House Of Gourmet : 4.3 : Continental, Asian, Pizza, Pasta, Cafe, Coffee, Beverages : ₹1,200 for two :  Jubilee Hills, Hyderabad
+Chopsticks : 3.6 : Chinese, Asian, Thai, Korean, Japanese, Sushi, Desserts, Beverages : ₹1,700 for two :  Lingampally, Hyderabad
+Burger's Wharf : 4.2 : Burger, Bubble Tea, Desserts, Fast Food, Shake, Beverages : ₹400 for two :  Kukatpally, Hyderabad
+F3 Cafē & Bistro : 4.2 : Cafe, Sandwich, Burger, Pizza, Italian, Continental, Pasta, Chinese : ₹850 for two :  Sainikpuri, Secunderabad
+Zenbowls : 4.9 : Healthy Food, Salad, Continental, Fast Food, Wraps, Desserts, Beverages : ₹1,000 for two :  Manikonda, Hyderabad
+Verandah By TSK : 4.1 : Bar Food, Continental, Oriental, North Indian, Biryani, Shake, Coffee, Beverages : ₹2,300 for two :  S D Road, Secunderabad
+Seoul In Town : 3.0 : Korean, Chinese, Cafe, Asian, Bubble Tea, Beverages, Burger, Coffee : ₹600 for two :  Yapral, Secunderabad
+Adaa - Taj Falaknuma Palace : 4.5 : Hyderabadi : ₹15,500 for two :  Taj Falaknuma Palace, Falaknuma, Hyderabad
+Aromas Cafe & Lounge : New : Cafe, Coffee, Seafood, Chinese, Pizza, Fast Food, Shake, Beverages : ₹700 for two :  Rajendra Nagar, Hyderabad
+Haldiram's Restaurant : 4.1 : South Indian, North Indian, Beverages : ₹550 for two :  Malakpet, Hyderabad
+Lakshmi's United Kitchen : 4.0 : North Indian, Chinese, Continental, Biryani, Pasta, Pizza, Salad : ₹1,000 for two :  Madhapur, Hyderabad
+Hotel Shubham Palace : 4.4 : North Indian, South Indian, Biryani, Chinese, Ice Cream, Beverages : ₹1,100 for two :  Gandipet, Hyderabad
+Old Trees Cafe : 4.3 : Italian, Continental, Pizza, Burger, Sandwich, Fast Food, Salad, Chinese : ₹1,200 for two :  Kompally, Hyderabad
+Kritunga : 4.1 : South Indian, North Indian, Andhra, Biryani, Seafood, Mughlai : ₹1,800 for two :  Film Nagar, Hyderabad
+Club Rogue : 3.7 : Fast Food, North Indian, Chinese : ₹2,000 for two :  SLN Terminus, Gachibowli, Hyderabad
+Haldiram's Sweets And Namkeen : 4.1 : Mithai, Desserts : ₹400 for two :  Malakpet, Hyderabad
+Lucifer Bar & Kitchen : 3.9 : Bar Food, South Indian, Beverages : ₹1,300 for two :  Manikonda, Hyderabad
+Srikalinga Raacharika Ruchulu : 4.2 : South Indian, North Indian, Mughlai, Seafood, Kebab, Biryani, Chinese : ₹800 for two :  Sainikpuri, Secunderabad
+The Chocolate Room Cafe & Lounge : 4.2 : Cafe, Italian, Mexican, Fast Food, Beverages, Desserts, Pizza, Burger : ₹1,200 for two :  Hitech City, Hyderabad
+Mustang Terrace Lounge : 4.1 : Mexican, Italian, North Indian, Pizza, Desserts : ₹2,000 for two :  Gachibowli, Hyderabad
+SKYHY Live : 4.1 : Chinese, Continental, Fast Food, Pizza, Burger : ₹2,000 for two :  Gachibowli, Hyderabad
+BRC Bavarian Roast Cafe : 4.3 : Bar Food, German, Mexican, Continental, Fast Food, Roast Chicken, Coffee, Beverages : ₹1,400 for two :  Madhapur, Hyderabad
+Palamuru Grill & Bar : 4.0 : BBQ, Andhra, Biryani, Oriental, Beverages : ₹1,000 for two :  Kondapur, Hyderabad
+Chaayos Chai+Snacks=Relax : 3.7 : Tea, Street Food : ₹300 for two :  Manikonda, Hyderabad
+The Symphony : 4.3 : North Indian, Continental, Asian, Chinese, Italian, Biryani, Desserts, Beverages : ₹1,400 for two :  Film Nagar, Hyderabad
+Masala Republic : 4.2 : Healthy Food, Italian, North Indian, Desserts, Beverages : ₹1,700 for two :  Himayath Nagar, Hyderabad
+Ha - Luo Oriental Cafe & Kitchen : 4.3 : Oriental, Chinese, Japanese, Sichuan, Desserts, Thai, Korean, Asian : ₹1,400 for two :  Hitech City, Hyderabad
+Devamrutham : New : South Indian, North Indian, Desserts, Beverages : ₹300 for two :  Jubilee Hills, Hyderabad
+Mandistan : 4.1 : Arabian, Mandi, Desserts, BBQ, Chinese, Fast Food : ₹500 for two :  Kothaguda, Hyderabad
+Illuzion Club & Kitchen : New : Hyderabadi : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Swach : 3.8 : South Indian, Beverages, Juices : ₹150 for two :  Madhapur, Hyderabad
+House Party Bar & Kitchen : 4.4 : Bar Food, Asian, Continental : ₹1,500 for two :  Sainikpuri, Secunderabad
+Tasty + : 3.8 : Chinese, Sichuan : ₹300 for two :  Nizampet, Hyderabad
+Terrace : 4.4 : Salad, North Indian, Chinese, Fast Food : ₹1,000 for two :  Khairatabad, Hyderabad
+Chill Restaurant And Terrace - Radisson Blu Plaza Hotel : 4.0 : Continental, North Indian, South Indian, Hyderabadi, Biryani, Seafood, Fast Food, Desserts : ₹5,000 for two :  Radisson Blu Plaza Hotel, Banjara Hills, Hyderabad
+La Sabroso : 4.2 : Momos, Continental : ₹600 for two :  Madhapur, Hyderabad
+Saffron Soul - Marigold Hotel : 4.2 : North Indian, Continental, Italian, Chinese, South Indian, Biryani, Desserts, Beverages : ₹2,200 for two :  Marigold Hotel, Begumpet, Hyderabad
+Mirai : 3.8 : Chinese, Salad, North Indian, Kebab, Burger, Pizza : ₹1,000 for two :  Jubilee Hills, Hyderabad
+Chinese Pavilion : 4.1 : Chinese, Seafood, Desserts, Beverages : ₹1,200 for two :  Gachibowli, Hyderabad
+Hotel Nayaab : 4.3 : North Indian, Mughlai, Chinese, Biryani, Hyderabadi, Desserts : ₹850 for two :  Charminar, Hyderabad
+Soul Of South : 4.3 : South Indian, Seafood, Biryani, Chinese, Desserts : ₹1,200 for two :  Jubilee Hills, Hyderabad
+Ice Cafe & Lassi Shop : 3.6 : Desserts, Shake, Juices, Beverages, Salad : ₹200 for two :  Nampally, Hyderabad
+Shree Tatva Vegetarian Restaurant : 4.0 : South Indian, North Indian, Biryani, Chinese, Beverages : ₹1,000 for two :  Kukatpally, Hyderabad
+Brew Haven Cafe : 3.9 : Cafe, Coffee, Tea, Beverages, Pizza, Burger, Sandwich, Fast Food : ₹350 for two :  Himayath Nagar, Hyderabad
+Humming Bird Cafe : 3.7 : Cafe, Continental, Italian, Fast Food, Healthy Food, Beverages, Pizza, Burger : ₹700 for two :  Madhapur, Hyderabad
+Haldiram’s Restaurant : 3.8 : South Indian, North Indian : ₹300 for two :  Moosapet, Hyderabad
+Wool Cup - Urban Cafe & Bistro : 3.4 : Cafe, Coffee, Continental, North Indian, Italian, Fast Food, Desserts, Tea : ₹1,400 for two :  Jubilee Hills, Hyderabad
+Ambaram - The Rooftop Kitchen : 4.0 : South Indian, Andhra, Chinese, Asian, North Indian, Coffee, Shake, Beverages : ₹1,000 for two :  Kompally, Hyderabad
+Aromas Of Golconda : 4.1 : Chinese, Biryani, Hyderabadi, Seafood, North Indian : ₹1,000 for two :  Himayath Nagar, Hyderabad
+Namchi - Fusion Of Taste Buds : 4.3 : North Indian, Chinese, Momos, Desserts, Beverages : ₹1,200 for two :  Banjara Hills, Hyderabad
+Indus - Ellaa Hotels : 3.1 : Continental, North Indian, Chinese, Biryani, Fast Food, Desserts, Beverages : ₹2,000 for two :  Ellaa Hotels, Gachibowli, Hyderabad
+Southern Stories : 4.2 : South Indian, Andhra, Desserts : ₹1,000 for two :  Kondapur, Hyderabad
+Bawarchi : 4.3 : Biryani, North Indian, Seafood, Mughlai, Desserts : ₹300 for two :  RTC X roads, Hyderabad
+Swing Lounge : New : Continental, Desserts : ₹1,000 for two :  Financial District, Hyderabad
+Lassi 'N' Momos : 3.6 : Momos, Pizza, Burger, Rolls, Sandwich, Ice Cream, Shake, Juices : ₹400 for two :  Ameerpet, Hyderabad
+Palle Vindu : 3.6 : Andhra, Biryani : ₹500 for two :  Kukatpally, Hyderabad
+The Terrakota Kitchen : 3.8 : South Indian, North Indian, Chinese, Seafood, Mexican : ₹1,000 for two :  RTC X roads, Hyderabad
+Van Lavino : 4.4 : Mexican, Salad, Continental, Sandwich, Pasta, Pizza, Burger, Beverages : ₹1,400 for two :  Road 36, Jubilee Hills, Hyderabad
+Samskruthi South Kitchen : 3.9 : South Indian, Biryani : ₹1,000 for two :  Kondapur, Hyderabad
+Spade Coffee : - : Cafe, Coffee, Tea, Shake : ₹400 for two :  Jubilee Hills, Hyderabad
+Room Two : 4.5 : Italian, Beverages : ₹2,000 for two :  Jubilee Hills, Hyderabad
+Sarvi Restaurant : 4.2 : North Indian, Mughlai, Kebab, Chinese, Seafood, Desserts, Beverages : ₹1,000 for two :  Banjara Hills, Hyderabad
+Neos Steel Dabba Biryani : 3.9 : Biryani, Chinese : ₹400 for two :  Vanasthalipuram, Hyderabad
+Kadali Kitchen : New : South Indian : ₹500 for two :  Jubilee Hills, Hyderabad
+Chennapatnam : 3.1 : South Indian, Biryani, North Indian : ₹1,000 for two :  Gachibowli, Hyderabad
+Hodd'S Cocktail Bar - Hyatt : 4.0 : American, Continental, Bar Food : ₹2,000 for two :  Hyatt Hyderabad, Gachibowli, Hyderabad
+Telankhana : 4.2 : Kebab, Biryani, Hyderabadi, North Indian, Chinese : ₹400 for two :  Kondapur, Hyderabad
+Holy Basil : 4.4 : Asian, Chinese, Thai, Japanese : ₹2,000 for two :  Radisson Blu Plaza Hotel, Banjara Hills, Hyderabad
+Shoyu : 3.0 : Asian, Japanese : ₹1,000 for two :  Madhapur, Hyderabad
+2 Chefs Cafe : 4.1 : American, Chinese, Salad, Fast Food, Street Food, Desserts, Shake, Beverages : ₹400 for two :  Ameerpet, Hyderabad
+Girlfriend Arabian Mandi Restaurant : 3.1 : Mandi, Arabian : ₹600 for two :  Madhapur, Hyderabad
+UBQ by Barbeque Nation : 3.7 : North Indian, BBQ, Biryani, Street Food, Kebab, Beverages, Desserts : ₹500 for two :  Abids, Hyderabad
+Mr Shawarma : New : Shawarma, Sandwich, Rolls : ₹400 for two :  Dilsukhnagar, Hyderabad
+Usha Mulpuri's Kitchen : 2.9 : South Indian, North Indian : ₹1,200 for two :  Madhapur, Hyderabad
+Jasper - Le Meridien : 4.1 : North Indian, Biryani, Beverages : ₹1,900 for two :  Le Meridien, Gachibowli, Hyderabad
+Thinespo : 4.4 : Continental, Fast Food, Burger, Sandwich, Pizza, Beverages : ₹950 for two :  Kompally, Hyderabad
+Pachi Pulusu : 3.9 : Andhra, Biryani, North Indian, Chinese : ₹1,000 for two :  Bachupally, Hyderabad
+Levant : 4.3 : Lebanese, Turkish, Armenian : ₹1,300 for two :  Banjara Hills, Hyderabad
+Pulaos & Pakoda : 3.6 : Biryani, Andhra, Chinese : ₹500 for two :  Kondapur, Hyderabad
+Angaara Restaurant : 3.2 : North Indian, Mughlai, Kebab, Seafood, Chinese, Biryani, Desserts, Beverages : ₹850 for two :  Miyapur, Hyderabad
+Feranoz : 4.5 : Cafe, Bakery, Desserts, Pizza, Fast Food, Beverages, Italian : ₹700 for two :  Banjara Hills, Hyderabad
+Pizza Hut : 4.0 : Pizza, Pasta, Italian, Desserts, Beverages : ₹500 for two :  L B Nagar, Hyderabad
+MBA Biryani : 3.7 : Biryani : ₹550 for two :  Kukatpally, Hyderabad
+Oh! Calcutta : 4.6 : Bengali, North Indian, Seafood, Mughlai : ₹1,100 for two :  Hitech City, Hyderabad
+Lifafa Cafe & Bistro : 4.2 : Cafe, Chinese, Asian, Sandwich, Continental, Coffee, Shake, Desserts : ₹1,000 for two :  Uppal, Secunderabad
+Boiler Room Club & Kitchen : 3.9 : American, Modern Indian, European, Asian : ₹1,400 for two :  Sarath City Capital Mall, Kondapur, Hyderabad
+Bambai Tapri : 4.0 : Chinese, Fast Food, Pizza, Street Food, Ice Cream, Juices, Shake : ₹350 for two :  Lingampally, Hyderabad
+L'Affaire Café & Bistro : New : Cafe, Coffee, Beverages : ₹1,500 for two :  Jubilee Hills, Hyderabad
+C53 - The World Cuisine : 3.5 : North Indian, Chinese, Pizza, Pasta, Fast Food, Desserts : ₹1,800 for two :  Sarath City Capital Mall, Kondapur, Hyderabad
+The Friger Co. : 3.8 : Burger, Fast Food, Beverages, Shake : ₹500 for two :  Madhapur, Hyderabad
+Ming Ustad : 4.4 : North Indian, Chinese : ₹1,400 for two :  Hitech City, Hyderabad
+Mehfil : 3.9 : Biryani, Chinese, Kebab, Mughlai, North Indian : ₹700 for two :  Hitech City, Hyderabad
+Purani Dilli : 3.9 : North Indian, Beverages : ₹1,000 for two :  Miyapur, Hyderabad
+9th Avenue : 3.5 : Biryani, Chinese, Kebab, North Indian : ₹1,000 for two :  Ghatkesar, Secunderabad

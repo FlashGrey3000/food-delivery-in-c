@@ -1,0 +1,453 @@
+Molecule : 4.4 : Asian, Chinese, Bar Food : ₹1,000 for two :  Lashkar, Gwalior
+Kwality Restaurant : 4.9 : North Indian, Chinese, Continental, Biryani, Desserts : ₹700 for two :  City Center, Gwalior
+Biryani By Kilo : 4.5 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹700 for two :  City Center, Gwalior
+McDonald's : 4.1 : Burger, Fast Food, Beverages, Coffee : ₹500 for two :  DD City Mall, Lashkar, Gwalior
+Xero Degrees : 3.9 : Cafe, Coffee, Fast Food, Burger, Sandwich, Italian, Shake, Beverages : ₹450 for two :  City Center, Gwalior
+Param Food Complex : 4.4 : Chinese, South Indian, North Indian, Italian, Fast Food, Street Food, Bakery, Beverages : ₹500 for two :  City Center, Gwalior
+The Bakery Next Door : New : Bakery, Pizza, Sandwich, Burger, Fast Food, Chinese, Coffee, Beverages : ₹250 for two :  City Center, Gwalior
+VYB - Cafe, Bar, Rooftop, Kitchen : - : Bar Food, Continental, North Indian, Italian, Middle Eastern, Chinese, Fast Food, Desserts : ₹1,400 for two :  City Center, Gwalior
+Alfanzo : 4.3 : North Indian, Chinese, Mithai, South Indian, Pizza, Momos, Continental, Bakery : ₹500 for two :  City Center, Gwalior
+KFC : 3.5 : Burger, Fast Food, Rolls : ₹450 for two :  Lashkar, Gwalior
+Burger King : 4.0 : Burger, Fast Food, Beverages, Desserts : ₹400 for two :  DB City Mall, Birla Nagar, Gwalior
+Sagar Gaire Fast Food : New : Fast Food, North Indian, South Indian, Chinese : ₹350 for two :  City Center, Gwalior
+ChotiWala Restaurant : 4.0 : North Indian, Chinese : ₹350 for two :  City Center, Gwalior
+Velkim - Welcome Bakery : - : Bakery, South Indian, Chinese, North Indian, Fast Food, Pizza, Sandwich, Desserts : ₹500 for two :  Lashkar, Gwalior
+Rolls Mania : 3.7 : Rolls, North Indian, Fast Food, Street Food, Beverages : ₹400 for two :  City Center, Gwalior
+Alice In Gelatoland Shahi Durbar : 3.9 : Ice Cream, Desserts, Pancake, Waffle, Coffee, Shake : ₹300 for two :  City Center, Gwalior
+Delight Hotel - Nayi Sadak : 3.1 : North Indian : ₹400 for two :  Lashkar, Gwalior
+Taste Of Punjab : 4.1 : North Indian, Chinese, Fast Food : ₹500 for two :  Thatipur, Gwalior
+Domino's Pizza : 4.0 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  DD City Mall, Lashkar, Gwalior
+Bhakti Bhojnalaya & Family Restaurant : New : North Indian : ₹350 for two :  Deen Dayal Nagar, Gwalior
+The Noodles Co. : 3.5 : Chinese, Thai, Healthy Food, Momos, Fast Food, Shake, Beverages : ₹1,200 for two :  Gulmohar City, Gwalior
+Veer ji Malai Chaap Wale : 3.8 : North Indian, Rolls, Chinese : ₹350 for two :  City Center, Gwalior
+La Pino'z Pizza : 3.0 : Pizza, Pasta, Italian, Fast Food : ₹600 for two :  Lashkar, Gwalior
+Lords Of Grill : - : North Indian, Mughlai : ₹1,000 for two :  City Center, Gwalior
+Chops N Hops : 3.7 : North Indian, Mughlai, Chinese, Fast Food, Street Food, Biryani, Beverages, Desserts : ₹500 for two :  City Center, Gwalior
+Pizza Hut : 4.1 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  DD City Mall, Lashkar, Gwalior
+Pizza Stop Cafe : 4.3 : Pizza, Fast Food : ₹300 for two :  Madhav Ganj, Gwalior
+Bistro 57 : 4.3 : Pizza, Pasta, North Indian, Beverages, Chinese, Italian, Continental, Desserts : ₹700 for two :  City Center, Gwalior
+The Royal Punjab : 3.3 : North Indian, South Indian, Chinese, Fast Food, Beverages : ₹700 for two :  City Center, Gwalior
+Hangout Cafe : 4.2 : Cafe, North Indian, Fast Food, Italian, Chinese, Pasta, Desserts, Beverages : ₹800 for two :  City Center, Gwalior
+The Bridge - Clark's Inn Suites : 4.1 : Thai, North Indian, Mughlai, Continental, Chinese, Shake : ₹1,500 for two :  Clarks Inn Suites, Lashkar, Gwalior
+Goila Butter Chicken : - : North Indian, Kebab : ₹200 for two :  City Center, Gwalior
+Karishma Hotel : 3.9 : North Indian : ₹200 for two :  Birla Nagar, Gwalior
+Bansiwala : 4.0 : North Indian, Desserts : ₹300 for two :  City Center, Gwalior
+Happiness : 4.0 : North Indian, South Indian, Chinese, Street Food, Fast Food, Beverages : ₹400 for two :  Lashkar, Gwalior
+Burger Boys Restaurant : 3.5 : Burger, Fast Food, Momos, Pizza, Wraps, Shake, Beverages : ₹200 for two :  City Center, Gwalior
+Indish - Radisson : 4.9 : North Indian, Mughlai, Continental : ₹1,500 for two :  Radisson, Mahalgaon, Gwalior
+The Moziac : 3.2 : North Indian, Chinese, South Indian, Continental, Fast Food, Biryani, Desserts, Beverages : ₹1,200 for two :  City Center, Gwalior
+House Of K : 3.9 : North Indian, Biryani, Mughlai, Rolls : ₹1,000 for two :  City Center, Gwalior
+Parth Juice Cafe Centre : 4.0 : Beverages, Pizza, Sandwich, Chinese, Fast Food, Ice Cream, Desserts, Burger : ₹300 for two :  Morar, Gwalior
+Udupi's Kitchen : 2.7 : South Indian, Shake, Tea, Beverages : ₹250 for two :  City Center, Gwalior
+Plan B : New : Pizza, Burger, Sandwich, Fast Food, Street Food, Tea, Coffee, Shake : ₹400 for two :  Madhav Ganj, Gwalior
+Captain's Cafe : 3.2 : Coffee, Cafe, Italian, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹600 for two :  City Center, Gwalior
+Panchvati Gaurav : 4.2 : North Indian, Rajasthani : ₹500 for two :  City Center, Gwalior
+Raj Bhoj : 4.1 : North Indian, Chinese, Fast Food, Beverages : ₹700 for two :  City Center, Gwalior
+Alfredo's Pizza : - : Pizza, Burger, Fast Food : ₹300 for two :  Ghosipura, Gwalior
+Bake N Shake : - : Cafe, Bakery : ₹1,200 for two :  City Center, Gwalior
+Victorian Vantage : 4.3 : North Indian, Biryani, Italian, Continental, Chinese, Mughlai, Desserts, Pizza : ₹800 for two :  Lashkar, Gwalior
+Subway : 3.7 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  City Center, Gwalior
+Shere Punjab Restaurant : 4.1 : North Indian, Chinese, Fast Food : ₹600 for two :  Shinde Ki Chhawani, Gwalior
+Indian Coffee House : - : South Indian, Fast Food, Chinese, North Indian, Mughlai, Biryani, Beverages : ₹1,000 for two :  Lashkar, Gwalior
+Jain's Sita Rasoi : 3.2 : North Indian, Chinese, Fast Food : ₹450 for two :  Morar, Gwalior
+Hotel Natraj : 4.0 : North Indian, Mughlai, Biryani : ₹600 for two :  Thatipur, Gwalior
+Lub Lub World Of Shawarmas : 3.8 : Shawarma, Middle Eastern, Burger, Beverages : ₹550 for two :  City Center, Gwalior
+Cook's Bakery Cafe : 4.0 : Chinese, Fast Food, Rolls, Italian, Sandwich, Wraps, Desserts, Beverages : ₹500 for two :  City Center, Gwalior
+Food Costa : New : Pizza, Burger, Fast Food, South Indian, Biryani, Momos, Shake, Beverages : ₹350 for two :  City Center, Gwalior
+Anand Bhoj : 3.2 : North Indian, Fast Food, Beverages : ₹500 for two :  Thatipur, Gwalior
+Hotel Centella : 3.4 : North Indian, Kebab, Chinese, Mughlai, South Indian, Fast Food, Desserts, Beverages : ₹500 for two :  City Center, Gwalior
+Cook's Fast Food & Bakery : 3.9 : Bakery, Pizza, Burger, Fast Food, Chinese, North Indian, Sandwich, Beverages : ₹500 for two :  Lashkar, Gwalior
+Vadilal Hangout : 3.1 : Ice Cream, Desserts, Shake : ₹200 for two :  Birla Nagar, Gwalior
+NH-44 Cafe : 3.3 : Chinese, Fast Food, Pizza, Pasta, Sandwich, Street Food, Shake, Beverages : ₹400 for two :  Deen Dayal Nagar, Gwalior
+Burger Point : 3.4 : Burger, Sandwich, Wraps, Fast Food, Shake, Beverages : ₹350 for two :  City Center, Gwalior
+Radha Ki Rasoi : 4.2 : Fast Food, North Indian, Burger, South Indian, Chinese, Beverages : ₹400 for two :  City Center, Gwalior
+Volga Restaurant : 4.1 : North Indian, Chinese, Mughlai, Biryani, Fast Food, Desserts, Beverages : ₹800 for two :  Lashkar, Gwalior
+The Beans Cafe : 4.9 : Cafe, Fast Food, Pizza, Sandwich, Street Food, Chinese, Beverages : ₹500 for two :  City Center, Gwalior
+Meet Up Cafe And Restaurant : - : North Indian, Chinese, Pizza, Sandwich, Fast Food, Street Food : ₹300 for two :  City Center, Gwalior
+Hide & Seek Cafe : New : Chinese, North Indian, Pizza, Sandwich, Burger, Fast Food, Street Food, Shake : ₹250 for two :  Shinde Ki Chhawani, Gwalior
+Pop's Pizza : - : Pizza : ₹300 for two :  Anand Nagar, Gwalior
+Chat On Chaat - The City Food Court : 3.3 : Street Food : ₹200 for two :  DD City Mall, Lashkar, Gwalior
+Ashoka Family Restaurant : 4.1 : North Indian : ₹300 for two :  Thatipur, Gwalior
+Pizza Fuel Cafe : 4.4 : Pizza, Fast Food, Burger : ₹300 for two :  Thatipur, Gwalior
+Riceley : - : Biryani, North Indian, Chinese, Mexican, Fast Food, Desserts, Korean, Italian : ₹300 for two :  City Center, Gwalior
+Shan-Shaukat : 4.0 : Mithai, Street Food : ₹150 for two :  Shinde Ki Chhawani, Gwalior
+PizzaLay : 3.8 : Pizza, Italian, Burger, Sandwich, Fast Food : ₹400 for two :  City Center, Gwalior
+Burger Buddy : - : Burger, Sandwich, Pizza, Fast Food, Shake, Beverages : ₹300 for two :  Deen Dayal Nagar, Gwalior
+Mughal Darbar : 4.0 : North Indian, Mughlai, Chinese, Desserts, Ice Cream, Beverages : ₹700 for two :  The Central Mall, Lashkar, Gwalior
+Mayur Restaurant : 3.5 : North Indian, Fast Food, Chinese, Beverages, Shake : ₹500 for two :  Lashkar, Gwalior
+Singh D sigdi : 3.3 : North Indian, Sandwich, Street Food, Chinese, Shake, Tea, Fast Food, Beverages : ₹400 for two :  Birla Nagar, Gwalior
+The Central Park : 3.9 : Chinese, North Indian, Mughlai, Continental, Salad, Desserts, Beverages : ₹1,000 for two :  City Center, Gwalior
+Laziz Pizza : 3.6 : Pizza, Burger, Fast Food, Beverages : ₹500 for two :  City Center, Gwalior
+Chatar Patar : 3.7 : Street Food, Beverages : ₹200 for two :  City Center, Gwalior
+Mahalaxmi Restaurant : 4.6 : North Indian, Chinese : ₹600 for two :  Shinde Ki Chhawani, Gwalior
+Haridwar Chotiwala : - : North Indian, Chinese, Biryani, Street Food, Desserts, Shake, Beverages : ₹500 for two :  City Center, Gwalior
+The Road Chef's : 3.8 : Chinese : ₹300 for two :  Lashkar, Gwalior
+Pizza & Burger Hub : 3.7 : Pizza, Burger, Fast Food, Beverages : ₹350 for two :  Lashkar, Gwalior
+Hashtag Cafe & Restro : 3.3 : Fast Food, North Indian, Chinese, Mughlai, Desserts, Beverages : ₹600 for two :  Lashkar, Gwalior
+Paarivar Cafeteria & Bakery : 4.3 : Fast Food, Street Food, Beverages : ₹250 for two :  Naya Bazaar, Gwalior
+The Sigdi Food Hub : 3.9 : Fast Food, Pizza, Sandwich, Chinese, Street Food : ₹400 for two :  Lashkar, Gwalior
+Moti Mahal Delux : 3.5 : North Indian, Mughlai, Chinese, Seafood, Biryani : ₹1,000 for two :  City Center, Gwalior
+Masala Darbar : 4.4 : North Indian, Chinese : ₹350 for two :  Lashkar, Gwalior
+Landmark : 3.9 : North Indian, Mughlai, Chinese, Continental, Desserts, Beverages : ₹1,500 for two :  City Center, Gwalior
+Pizza Hub : 4.0 : Pizza, Burger, Fast Food, Chinese, South Indian, Beverages : ₹400 for two :  Deen Dayal Nagar, Gwalior
+Bawarchi Club : 3.9 : Fast Food, Burger, Sandwich : ₹250 for two :  Deen Dayal Nagar, Gwalior
+Avadh Food : - : Biryani, Kebab, Rolls : ₹150 for two :  City Center, Gwalior
+Chaa-Hut : 3.6 : Fast Food, Beverages, Sandwich, Tea : ₹200 for two :  Deen Dayal Nagar, Gwalior
+S And V : 3.3 : Chinese, Fast Food, Sandwich, Pizza, Street Food, Beverages : ₹250 for two :  Lashkar, Gwalior
+Shere Punjab Maharaja Express Restaurant : - : North Indian, Chinese, Desserts, Beverages : ₹1,000 for two :  Shinde Ki Chhawani, Gwalior
+Flirty Owl : - : Sandwich, Burger, Fast Food, Street Food : ₹300 for two :  Lashkar, Gwalior
+The Mansingh : 4.0 : North Indian, Mughlai, Biryani, Beverages, Desserts : ₹1,000 for two :  Lashkar, Gwalior
+Urban Dhaba : 3.4 : Cafe, Coffee, Tea, Continental, North Indian, Chinese, Fast Food, Beverages : ₹600 for two :  City Center, Gwalior
+7 Spice : 3.8 : North Indian, Fast Food, Chinese, South Indian, Biryani, Street Food, Desserts, Beverages : ₹400 for two :  Lashkar, Gwalior
+Sweet Sins  Shakes & Desserts : 4.6 : Beverages, Street Food, Fast Food, Waffle, North Indian : ₹400 for two :  City Center, Gwalior
+Shere Punjab Restaurant : 4.0 : North Indian, Chinese, Fast Food, Pizza, South Indian : ₹400 for two :  Morar, Gwalior
+Gurukripa Family Restaurant : 3.7 : North Indian, South Indian, Chinese, Fast Food : ₹500 for two :  Lashkar, Gwalior
+Pragyan Chinese Food : 3.7 : Chinese, South Indian, Fast Food : ₹300 for two :  Lashkar, Gwalior
+Cafe Frespresso : 3.7 : Cafe, Tea, Beverages, Pizza, Sandwich, Pasta, Fast Food, Desserts : ₹750 for two :  City Center, Gwalior
+The Golden Cafee : New : Fast Food, Sandwich, Pizza, Street Food, Shake, Beverages : ₹350 for two :  Naya Bazaar, Gwalior
+Punjabi Zayka : - : North Indian, Chinese, Fast Food : ₹300 for two :  Morar, Gwalior
+Handi Chula Taste Of Village : - : North Indian, Mughlai, Biryani : ₹500 for two :  Model Town, Gwalior
+Taste Of Chambal : - : North Indian, Biryani : ₹350 for two :  Deen Dayal Nagar, Gwalior
+Pizza Kitchen : - : Pizza, Fast Food, Desserts, Shake : ₹500 for two :  Lashkar, Gwalior
+Chawla Chicken : 3.9 : North Indian, Mughlai, Biryani : ₹500 for two :  City Center, Gwalior
+Shri Ram Sweets And Snacks : 4.1 : Street Food : ₹100 for two :  City Center, Gwalior
+Baskin Robbins - Ice Cream Desserts : 4.8 : Ice Cream, Desserts, Beverages : ₹500 for two :  Lashkar, Gwalior
+Teagather Grand : 2.5 : Fast Food, North Indian, Pizza, Beverages : ₹450 for two :  Model Town, Gwalior
+Momo Adda : 3.9 : Momos, Fast Food, Beverages, Chinese : ₹300 for two :  Lashkar, Gwalior
+Non Veg Parcel Counter & Hotel : New : North Indian : ₹300 for two :  Morar, Gwalior
+Raj Restaurant : 4.1 : North Indian, Biryani, Mughlai : ₹400 for two :  Lashkar, Gwalior
+Indian Coffee House : - : Coffee, North Indian : ₹400 for two :  Madhav Ganj, Gwalior
+Jatashankar Nashta & Bhojanalya : - : North Indian : ₹250 for two :  Anand Nagar, Gwalior
+Trend Pizza Cafe : New : Fast Food, Pizza : ₹400 for two :  Lashkar, Gwalior
+Agrawal Restaurant : - : North Indian : ₹200 for two :  Anand Nagar, Gwalior
+Phalsafa - Cafe Fruit Bar : 4.1 : Coffee, Beverages, Desserts, Italian, Continental : ₹500 for two :  City Center, Gwalior
+Swaad The Taste : 4.0 : North Indian, Chinese, Fast Food, South Indian, Street Food, Desserts, Beverages : ₹500 for two :  Morar, Gwalior
+Royal Chaska Malai Chap : New : North Indian : ₹300 for two :  Naya Bazaar, Gwalior
+The Belgian Waffle Co. : 3.2 : Waffle, Pancake, Desserts, Beverages, Ice Cream : ₹300 for two :  City Center, Gwalior
+Udupis Junction : - : North Indian : ₹200 for two :  City Center, Gwalior
+Hotel Gold - Inn : - : North Indian, Chinese, Fast Food, Street Food, Beverages : ₹800 for two :  Lashkar, Gwalior
+Baba Shyam Family Resturant : - : North Indian, Chinese, South Indian : ₹200 for two :  Lashkar, Gwalior
+Patel Family Restaurant : - : North Indian, Chinese : ₹300 for two :  Prasad Nagar, Gwalior
+Hey  Dosai : - : South Indian : ₹200 for two :  City Center, Gwalior
+Rajkot Hills View Family Restaurant : - : North Indian, Street Food, Chinese, Beverages : ₹250 for two :  Morar, Gwalior
+Seth Ji Ka Dhaba And Family Restaurant : New : North Indian, Chinese : ₹400 for two :  Model Town, Gwalior
+Chai Sutta Bar : - : Sandwich, Fast Food, Coffee, Beverages : ₹350 for two :  Lashkar, Gwalior
+Muscle Vision Nutrition : 3.2 : Continental, North Indian, Chinese, Sandwich, Fast Food, Shake, Juices, Beverages : ₹450 for two :  City Center, Gwalior
+Pizza Hot Cafe : - : Pizza, Burger, Sandwich, Fast Food, Shake : ₹150 for two :  Shinde Ki Chhawani, Gwalior
+Burger Bytes : 3.9 : Burger, Sandwich, Fast Food, Beverages : ₹300 for two :  Morar, Gwalior
+Masala Delight : 3.0 : North Indian, Chinese, Fast Food : ₹350 for two :  Lashkar, Gwalior
+Kings Restaurant : - : North Indian, Chinese, Biryani : ₹550 for two :  Madhav Ganj, Gwalior
+Apratim Swad : New : North Indian, Chinese, Pizza, Sandwich, Burger, Shake : ₹300 for two :  Lashkar, Gwalior
+Jain Family Restaurant : 3.9 : North Indian : ₹400 for two :  Thatipur, Gwalior
+Social Eatia : 3.6 : North Indian, Chinese, Italian, Fast Food, Beverages, Healthy Food : ₹1,100 for two :  City Center, Gwalior
+Spice N Handi : 3.9 : North Indian, Mughlai, Kebab, Pizza, Fast Food, Biryani, Desserts : ₹1,000 for two :  Morar, Gwalior
+Hotel Narayanam : 3.6 : North Indian, South Indian, Chinese, Mughlai, Fast Food, Desserts, Beverages, Sichuan : ₹700 for two :  Morar, Gwalior
+Teagather Lounge : 2.8 : Fast Food, Chinese, North Indian, Italian, Beverages : ₹400 for two :  Lashkar, Gwalior
+Quality Bakers & Sweets : - : Bakery, Fast Food : ₹300 for two :  Vinay Nagar, Gwalior
+Anger Soul's : New : Chinese, Pizza, Sandwich, Momos, Fast Food, Street Food, Shake, Beverages : ₹250 for two :  Model Town, Gwalior
+Anna Masala Dosa : 3.9 : South Indian, Fast Food : ₹200 for two :  Thatipur, Gwalior
+Delhi Paranthe Wale : 3.9 : North Indian : ₹400 for two :  Naya Bazaar, Gwalior
+SS Kachori Wala : 4.2 : Street Food, Mithai : ₹300 for two :  Naya Bazaar, Gwalior
+Pakwan : 4.3 : North Indian, Fast Food, Chinese, Mughlai : ₹500 for two :  City Center, Gwalior
+Kings Pizza : 4.4 : Pizza, Burger, Sandwich, Shake : ₹350 for two :  Vinay Nagar, Gwalior
+Shivam Pav Bhaji And Pulav Centre : 2.9 : South Indian, Chinese, Sichuan : ₹200 for two :  Shinde Ki Chhawani, Gwalior
+Cakes & More Restaurant : 3.8 : Bakery, Sandwich, Fast Food, Chinese, North Indian, Street Food, Desserts, Beverages : ₹400 for two :  Lashkar, Gwalior
+Haldiram's Sweets and Namkeen : - : Mithai, Beverages,  : ₹200 for two :  Shinde Ki Chhawani, Gwalior
+Ashok Hotel : 3.8 : North Indian : ₹250 for two :  Lashkar, Gwalior
+Dosa Corner : 4.1 : South Indian, Fast Food, North Indian, Chinese, Street Food, Beverages, Sichuan : ₹400 for two :  Lashkar, Gwalior
+34 Chowringhee Lane : 3.2 : Rolls, Fast Food : ₹400 for two :  City Center, Gwalior
+Ashoka Restaurant : 4.0 : North Indian : ₹300 for two :  Lashkar, Gwalior
+Chef Direct : 4.0 : Coffee, Cafe, Chinese, Fast Food, Pizza, Sandwich, Ice Cream, Beverages : ₹350 for two :  Morar, Gwalior
+Anand Restaurant : 4.4 : North Indian, Chinese, Pizza, Fast Food, South Indian, Mughlai, Beverages : ₹600 for two :  Naya Bazaar, Gwalior
+Prabha International Hotel : 3.6 : North Indian, Shake : ₹700 for two :  Lashkar, Gwalior
+Chicken Station : 3.9 : North Indian : ₹400 for two :  City Center, Gwalior
+MPT Tansen Residency : 3.4 : North Indian, Chinese, Seafood, Fast Food, Desserts, Beverages : ₹700 for two :  Birla Nagar, Gwalior
+La' Atmos : 3.0 : Pasta, Fast Food, Pizza, Sandwich, Shake, Beverages, Desserts : ₹700 for two :  City Center, Gwalior
+Hotel Ambience : 3.4 : North Indian, Chinese, Fast Food, Shake, Biryani, Mughlai, Continental : ₹1,000 for two :  City Center, Gwalior
+Zakir Qureshi Kabab Wale : 3.9 : North Indian, Mughlai : ₹500 for two :  Naya Bazaar, Gwalior
+Barista Coffee : 3.8 : Cafe, Coffee, Beverages, Fast Food : ₹600 for two :  Gulmohar City, Gwalior
+Punjabi Dhaba : 4.0 : North Indian : ₹300 for two :  Lashkar, Gwalior
+Icy Spicy Restaurant & Cafe : 4.1 : North Indian, South Indian, Fast Food, Chinese, Pizza, Desserts, Beverages, Shake : ₹500 for two :  Anand Nagar, Gwalior
+FNP Cakes N More : 3.3 : Bakery, Desserts, Beverages : ₹300 for two :  City Center, Gwalior
+Punjabi Rasoi : 4.3 : North Indian, Chinese, Beverages, Street Food : ₹300 for two :  City Center, Gwalior
+Bapu Di Rasoi : 4.1 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹400 for two :  City Center, Gwalior
+Shriram Misthan Bhandar : 3.7 : Mithai, Desserts, Street Food : ₹200 for two :  Deen Dayal Nagar, Gwalior
+Shri Ram Paties Corner : 3.6 : Fast Food, Sandwich, Beverages : ₹250 for two :  Lashkar, Gwalior
+Dairyman's Natural Ice Cream : 4.1 : Ice Cream, Desserts, Fast Food, Bakery, Beverages : ₹200 for two :  Lashkar, Gwalior
+Indian Rasoi : 3.6 : North Indian, South Indian, Chinese, Fast Food, Beverages : ₹300 for two :  City Center, Gwalior
+Burger Budds : 3.6 : Burger : ₹400 for two :  Vinay Nagar, Gwalior
+The Royal Class Hotel : - : North Indian, Chinese : ₹1,000 for two :  Deen Dayal Nagar, Gwalior
+Momo Mafia : 3.7 : Momos, Fast Food, Sandwich, Beverages : ₹250 for two :  Lashkar, Gwalior
+Maddy’s Cafe : 3.9 : Cafe, Italian, Chinese, Sandwich, Rolls, Desserts, Shake, Beverages : ₹700 for two :  City Center, Gwalior
+Avadh Foods : 3.8 : North Indian, Fast Food, Biryani : ₹100 for two :  Lashkar, Gwalior
+Bamboo Restaurant : 3.5 : North Indian, Fast Food, Chinese, Desserts, Beverages : ₹600 for two :  Lashkar, Gwalior
+Bhopat Nasir Seekh Kabab : 4.1 : Mughlai, Kebab, Biryani, North Indian : ₹500 for two :  City Center, Gwalior
+Cakeachino Cafe Au Lait : 3.6 : Coffee, Shake : ₹500 for two :  Mahalgaon, Gwalior
+Chaatizza : 3.9 : Pizza, Pasta, Burger, Sandwich, Fast Food, Street Food, Desserts, Beverages : ₹300 for two :  City Center, Gwalior
+MBA Chai Wala : 3.7 : Tea, Pizza, Fast Food, Street Food, Shake, Beverages : ₹350 for two :  City Center, Gwalior
+Parmanand Sweets : 4.8 : Mithai, Street Food, Fast Food, Bakery : ₹250 for two :  Lashkar, Gwalior
+Punjabi Darbar : 3.5 : North Indian, Chinese : ₹350 for two :  Lashkar, Gwalior
+The Ved Mantra : 3.6 : North Indian, Continental, Fast Food : ₹900 for two :  Lashkar, Gwalior
+The Fortunaa Avenue : 2.8 : North Indian, Fast Food : ₹500 for two :  City Center, Gwalior
+Pizza By The Way : 2.3 : Pizza, Fast Food : ₹500 for two :  City Center, Gwalior
+Safari Ice Cream : 3.6 : Ice Cream : ₹100 for two :  City Center, Gwalior
+Yara The Buffet : 3.3 : North Indian : ₹300 for two :  City Center, Gwalior
+Apsara Happy Hours : 3.9 : North Indian, Chinese, Fast Food, Beverages : ₹700 for two :  Shinde Ki Chhawani, Gwalior
+Hunger's Snacks : 3.1 : Fast Food, Chinese, South Indian, Beverages, Pizza : ₹300 for two :  Lashkar, Gwalior
+Jodhpur Wala Restaurant : 2.8 : Street Food, Fast Food, Chinese, North Indian, Pizza, Shake, South Indian : ₹400 for two :  Morar, Gwalior
+Karchi Kadhai Restaurant : - : North Indian, Chinese, Mughlai, Beverages : ₹500 for two :  City Center, Gwalior
+Pandit Zayka : 4.0 : North Indian, South Indian, Chinese, Fast Food : ₹350 for two :  Morar, Gwalior
+Hotel Mahima : 3.9 : North Indian, Chinese, Mughlai, Fast Food, Finger Food, Beverages : ₹700 for two :  City Center, Gwalior
+Masala Kraft : 3.7 : North Indian, Chinese, Fast Food, Beverages, Desserts : ₹800 for two :  Lashkar, Gwalior
+The Road Food : 3.8 : Rolls, Sandwich, Sichuan, Chinese, Momos, Fast Food, Street Food, Beverages : ₹500 for two :  Lashkar, Gwalior
+Jiwaji Club - The Club's Kitchen : 3.6 : Chinese, Fast Food, Street Food, North Indian, Mughlai, Beverages : ₹400 for two :  Lashkar, Gwalior
+Shake It Baby : 4.0 : Beverages, Fast Food, Desserts : ₹300 for two :  Shinde Ki Chhawani, Gwalior
+The Vedas : 3.1 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹900 for two :  City Center, Gwalior
+F & C Bakery : 3.2 : Bakery, Fast Food, Sandwich, Pizza, North Indian : ₹350 for two :  Lashkar, Gwalior
+Adhura Engineer Food Lab : 3.8 : South Indian, North Indian, Chinese, Fast Food, Street Food, Rolls, Shake : ₹300 for two :  Deen Dayal Nagar, Gwalior
+F For Fries : 4.5 : Fast Food : ₹250 for two :  DB City Mall, Birla Nagar, Gwalior
+Patel Family Restaurant : 3.8 : North Indian, Chinese, Fast Food, Pizza, Desserts : ₹250 for two :  Birla Nagar, Gwalior
+The Treat Fast Food : 3.6 : Fast Food, Chinese, South Indian, North Indian, Beverages : ₹300 for two :  Lashkar, Gwalior
+Sankalp : 3.6 : North Indian, South Indian, Street Food : ₹400 for two :  Birla Nagar, Gwalior
+Gurukripa Restaurant And Paratha House : 3.1 : North Indian, Fast Food, Street Food : ₹300 for two :  City Center, Gwalior
+Shri Jodhpur Mishthan Bhandar : - : Mithai, Desserts : ₹300 for two :  Thatipur, Gwalior
+Sai Bhoj : 4.5 : North Indian, Fast Food, Beverages : ₹450 for two :  Lashkar, Gwalior
+Mom's Cafe : 4.0 : Cafe, North Indian, Fast Food, Sandwich, Beverages, Coffee, Chinese, Shake : ₹350 for two :  City Center, Gwalior
+The Bellevue : 3.7 : North Indian, Chinese, South Indian, Continental : ₹850 for two :  City Center, Gwalior
+Hotel Sudarshan : 4.4 : North Indian, Chinese, South Indian, Fast Food, Mughlai, Biryani, Desserts : ₹550 for two :  Lashkar, Gwalior
+P Punjabi Tadka : 3.9 : Street Food, North Indian, Beverages, Chinese, Salad : ₹400 for two :  City Center, Gwalior
+Amrit Bhoj : 4.7 : North Indian : ₹300 for two :  Lashkar, Gwalior
+Pepper Street : 3.9 : Chinese, North Indian, Mughlai, Pizza, Burger, Sandwich, Desserts, Beverages : ₹650 for two :  Gulmohar City, Gwalior
+Rangla Punjab : 3.3 : North Indian, Fast Food, Beverages : ₹400 for two :  City Center, Gwalior
+Traffic Jam Cafe : 3.7 : Fast Food, Chinese, Sandwich, Pizza, Beverages : ₹350 for two :  Vinay Nagar, Gwalior
+CloudX Cafe : - : Cafe, Coffee, Tea, Shake, Beverages, Chinese, Fast Food, Pizza : ₹400 for two :  City Center, Gwalior
+Eat Street : 3.7 : North Indian, Fast Food, Chinese, South Indian : ₹300 for two :  Deen Dayal Nagar, Gwalior
+Cook's 2.0 : - : Cafe, Coffee, Sandwich, Fast Food, Pizza, Pasta, Shake, Beverages : ₹1,000 for two :  Gulmohar City, Gwalior
+Khana Khajana Family Restaurant : 3.8 : North Indian, Chinese, Mughlai, Fast Food : ₹550 for two :  Lashkar, Gwalior
+Rohit Bakers : 3.9 : Bakery, Desserts : ₹200 for two :  Naya Bazaar, Gwalior
+Vadilal : 3.8 : Fast Food, Ice Cream, Desserts : ₹300 for two :  City Center, Gwalior
+Pizza Stop Cafe : 2.9 : Pizza, Fast Food, Beverages : ₹300 for two :  Lashkar, Gwalior
+Chawla Punjabi Junction : 3.8 : North Indian, Mughlai, Biryani : ₹400 for two :  City Center, Gwalior
+New Anand Bhoj : 3.4 : North Indian, Chinese : ₹500 for two :  Mahalgaon, Gwalior
+Hotel Shelter - The Aroma Kitchen : 3.9 : North Indian, Chinese, Seafood, Beverages, Mughlai, Biryani : ₹2,000 for two :  Lashkar, Gwalior
+Patiala Shahi : 3.4 : Pizza, Fast Food, Desserts : ₹400 for two :  City Center, Gwalior
+Cakes And Cravings : - : Bakery, Desserts, Street Food, Fast Food : ₹300 for two :  Mahalgaon, Gwalior
+Lovely Fruit Shake & Icecream : 3.5 : Beverages, Ice Cream, Shake : ₹200 for two :  Thatipur, Gwalior
+New Annapurna Bhojnalaya : 3.6 : North Indian : ₹150 for two :  Birla Nagar, Gwalior
+Dill's Chawla Restaurant - Since 1998 : 3.1 : North Indian, Mughlai, Chinese, Fast Food : ₹400 for two :  Lashkar, Gwalior
+Balaji Soya Chaap Corner : - : North Indian, Fast Food, Beverages : ₹250 for two :  Prasad Nagar, Gwalior
+Cafe Connection : - : Fast Food, Chinese, Desserts, Beverages, Sichuan : ₹300 for two :  Vinay Nagar, Gwalior
+Day & Night Cafe : 3.2 : Fast Food, Desserts, Beverages : ₹300 for two :  Model Town, Gwalior
+Haridwar Chotiwala : - : North Indian, Chinese, Biryani, Beverages : ₹450 for two :  Lashkar, Gwalior
+Dawat Family Restaurant : 3.7 : North Indian, Chinese, Beverages : ₹400 for two :  Vinay Nagar, Gwalior
+Uzbekk : 3.8 : Fast Food, Rolls, Burger, North Indian, Kebab : ₹350 for two :  City Center, Gwalior
+IAG Food Court (IFC) : 4.1 : Pizza, Fast Food, North Indian, Sandwich : ₹300 for two :  Deen Dayal Nagar, Gwalior
+Pandit's Rolls & Momos : 3.9 : Momos, Fast Food : ₹100 for two :  Lashkar, Gwalior
+Shiv Shakti Pav Bhaji : 3.9 : South Indian, Chinese, Street Food : ₹200 for two :  Vinay Nagar, Gwalior
+Chawla Chicken : 3.8 : North Indian, Mughlai, Seafood, Fast Food, Chinese : ₹400 for two :  Morar, Gwalior
+Litti Chokha House : 3.2 : Bihari, Biryani, North Indian : ₹300 for two :  Deen Dayal Nagar, Gwalior
+Hello Hunger Foods : 3.9 : North Indian, Fast Food, Street Food, Sandwich, Burger, Beverages : ₹300 for two :  Shinde Ki Chhawani, Gwalior
+Khatirdari : 3.7 : North Indian, Chinese, Mughlai, Biryani, Kebab, Momos : ₹700 for two :  Lashkar, Gwalior
+City Darbar Restaurant : 3.9 : North Indian, Chinese, Fast Food, Sandwich, Desserts, Beverages : ₹700 for two :  Lashkar, Gwalior
+Bhukha : 3.1 : North Indian, Chinese, Thai, Cuisine Varies, Shake : ₹400 for two :  Thatipur, Gwalior
+Pandit Sweets : 4.1 : Mithai, Street Food, Desserts, Beverages : ₹300 for two :  Shinde Ki Chhawani, Gwalior
+Aggarwal Puri Bhandar : 3.8 : North Indian : ₹150 for two :  Shinde Ki Chhawani, Gwalior
+Chaudhary Ka Dhaba (C.K.D) : 3.9 : North Indian, Beverages : ₹300 for two :  Thatipur, Gwalior
+Stockswala Cafe : 3.9 : Cafe, Coffee, Shake, Beverages, Pizza, Fast Food, Street Food, Desserts : ₹700 for two :  City Center, Gwalior
+Bhopat Nasir Seekh Kebab Center : 3.7 : North Indian : ₹350 for two :  Lashkar, Gwalior
+Shere Hind Hotel : 4.6 : North Indian : ₹300 for two :  Ghosipura, Gwalior
+Shere Punjab : - : North Indian, Fast Food, Chinese, Shake : ₹300 for two :  Ghosipura, Gwalior
+Hotel Maharaja : 3.7 : North Indian, Mughlai : ₹500 for two :  Madhav Ganj, Gwalior
+Boxo Burger : 3.6 : Burger, Pizza, Sandwich, Fast Food, Beverages : ₹200 for two :  City Center, Gwalior
+The Golden Village : 4.2 : North Indian, Chinese, Fast Food, Mughlai, Desserts, Beverages : ₹700 for two :  Lashkar, Gwalior
+Atithi Inn : 3.7 : North Indian, Chinese, Fast Food, Beverages, Desserts : ₹600 for two :  Shinde Ki Chhawani, Gwalior
+Burger House : 3.8 : Burger, Wraps, Fast Food, Sandwich, Beverages : ₹350 for two :  Shinde Ki Chhawani, Gwalior
+7 Square : 3.7 : Burger, Pizza, Fast Food, Street Food, Chinese, North Indian, Desserts, Beverages : ₹300 for two :  Thatipur, Gwalior
+Dr Burger : 3.2 : Burger, Momos, Sandwich, Pizza, Street Food, Shake, Beverages : ₹300 for two :  Morar, Gwalior
+Aangan Restaurant : 4.3 : Street Food, North Indian, Mithai, Chinese : ₹400 for two :  Prasad Nagar, Gwalior
+The Pizza Maxx : 3.2 : Pizza, Fast Food, Italian, Shake, Beverages : ₹500 for two :  Lashkar, Gwalior
+The Gwalior Family Restaurant : 3.2 : Chinese, North Indian, Sandwich, Fast Food, Shake, Beverages : ₹400 for two :  Mahalgaon, Gwalior
+Madhuram Fast Food Corner : 3.9 : North Indian : ₹250 for two :  Vinay Nagar, Gwalior
+Shree Balaji Sweet Bakery Restaurant : 3.4 : Mithai, Desserts, North Indian, Street Food, Chinese, Pizza, Fast Food, Beverages : ₹400 for two :  Deen Dayal Nagar, Gwalior
+New Mangu Chicken Punjabi Chicken : - : North Indian, Mughlai : ₹500 for two :  Lashkar, Gwalior
+Relish Bakers : 3.1 : Bakery, Desserts, Fast Food, Pizza, Burger, Beverages : ₹500 for two :  Mahalgaon, Gwalior
+Hemu Ji - Chat Bhandar : 3.9 : Pizza, Fast Food : ₹250 for two :  Madhav Ganj, Gwalior
+Tealogy : 4.0 : Sandwich, Fast Food, Street Food, Beverages : ₹200 for two :  City Center, Gwalior
+Kalp Vriksha- Hotel Vivek Continental : 4.0 : North Indian, South Indian, Continental, Chinese, Desserts, Beverages : ₹700 for two :  Naya Bazaar, Gwalior
+Pakiza Hotel : 3.8 : North Indian, Mughlai : ₹300 for two :  Naya Bazaar, Gwalior
+Hotel Royal Inn : 3.7 : Fast Food, Chinese, North Indian, Mughlai, Desserts, Beverages : ₹700 for two :  City Center, Gwalior
+Hotel Dessert Palm : 4.0 : North Indian, Chinese, Mughlai, Beverages, Desserts, Kebab : ₹900 for two :  City Center, Gwalior
+Infinity Cafe : 3.7 : Pizza, Sandwich, Fast Food, Street Food : ₹300 for two :  City Center, Gwalior
+Braj Ki Rasoi & Restaurant : 3.9 : North Indian : ₹350 for two :  Shinde Ki Chhawani, Gwalior
+Baba Bakers : 3.7 : Bakery : ₹300 for two :  Madhav Ganj, Gwalior
+Punjabi Food Factory : 3.8 : North Indian, Rolls, Biryani : ₹400 for two :  Lashkar, Gwalior
+Ashok Restaurant : - : North Indian : ₹300 for two :  Mahalgaon, Gwalior
+Jain Dabeli Centre : 3.8 : Street Food : ₹100 for two :  Morar, Gwalior
+Pandit Ji Paranthe Wale : 3.9 : North Indian, Fast Food, Sandwich, Beverages : ₹300 for two :  Mahalgaon, Gwalior
+Kaptain's Kitchen : 4.2 : Fast Food, Chinese : ₹300 for two :  Morar, Gwalior
+Cake House In Gwalior : - : Bakery : ₹350 for two :  Madhav Ganj, Gwalior
+Rakesh Juice & Shakes Parlour : 3.8 : Beverages, Ice Cream, Desserts : ₹200 for two :  Lashkar, Gwalior
+Brij Bhog Sweets & Namkeen : 3.5 : Mithai, Desserts : ₹300 for two :  Naya Bazaar, Gwalior
+Delhi-6 Ke Lajabab Parathe : 3.5 : North Indian : ₹300 for two :  Shinde Ki Chhawani, Gwalior
+Venky's Chicken Xperience : 3.7 : Biryani, Fast Food, North Indian, Burger, Beverages : ₹400 for two :  City Center, Gwalior
+Balaji Soya Chaap Corner : - : North Indian, Momos : ₹200 for two :  Morar, Gwalior
+Food Station : 4.1 : Fast Food, Pizza : ₹150 for two :  Madhav Ganj, Gwalior
+Food Mafia : 3.8 : Chinese, Fast Food, Rolls, Pizza, Sandwich, Shake, Beverages : ₹400 for two :  Lashkar, Gwalior
+Shri Ram Dabeli Center : - : Maharashtrian, Street Food : ₹100 for two :  Shinde Ki Chhawani, Gwalior
+Shri Banke Bihari : 3.5 : Juices, Beverages : ₹250 for two :  Thatipur, Gwalior
+Angel Dhaba : 3.6 : North Indian : ₹200 for two :  Thatipur, Gwalior
+Food Junction : 3.9 : North Indian, Chinese, Biryani : ₹450 for two :  Deen Dayal Nagar, Gwalior
+Chicken Kraft : 3.5 : North Indian : ₹700 for two :  Lohamandi, Gwalior
+Shri Krishna Family Restaurant : 3.7 : North Indian : ₹250 for two :  Shinde Ki Chhawani, Gwalior
+Mini Cafe : 3.7 : Fast Food : ₹300 for two :  City Center, Gwalior
+The Hope Cafe : 3.7 : Chinese, South Indian, Fast Food, Sandwich, North Indian, Desserts, Beverages : ₹400 for two :  Lashkar, Gwalior
+Real Momos Taste Of Bhutan : - : Momos, Sandwich : ₹200 for two :  Gulmohar City, Gwalior
+Siddhi Vinayak Restaurant : 4.2 : North Indian : ₹350 for two :  Prasad Nagar, Gwalior
+Nainital's Testie Basket : 3.3 : Fast Food, Biryani, Ice Cream : ₹200 for two :  City Center, Gwalior
+Shere Punjab : - : North Indian, Fast Food, Pizza, Pasta, Beverages : ₹400 for two :  Lashkar, Gwalior
+Punjabi Mirch Masala : 3.8 : North Indian, Street Food : ₹300 for two :  Naya Bazaar, Gwalior
+The Star Roof Cafe : 3.2 : Fast Food, Pizza, Sandwich, Street Food, Chinese, Beverages, Shake : ₹400 for two :  City Center, Gwalior
+Gwalior Darbar : 3.3 : North Indian, Chinese, Street Food : ₹250 for two :  Lashkar, Gwalior
+Chinese Rasoi & Pizza Station : 3.8 : Pizza, Sandwich, Chinese, Fast Food, Beverages : ₹500 for two :  City Center, Gwalior
+Sita Manor Restaurant : 3.9 : North Indian, Chinese, Sandwich, Fast Food, Desserts, Beverages : ₹800 for two :  City Center, Gwalior
+Asgardian The Party World : 3.4 : Fast Food, Chinese : ₹200 for two :  Vinay Nagar, Gwalior
+Jain Choice Family Restaurant : 3.8 : North Indian, Chinese, South Indian, Fast Food : ₹300 for two :  Vijaynagar, Gwalior
+Ambersariya : 3.9 : North Indian : ₹300 for two :  Thatipur, Gwalior
+Hotel Celebration Inn : 3.7 : North Indian, Chinese, Fast Food, Beverages, Shake : ₹700 for two :  Thatipur, Gwalior
+Tandoori Chai : 3.7 : Fast Food, Beverages : ₹200 for two :  City Center, Gwalior
+The Midnight Cafe & Restro : 3.7 : Fast Food, North Indian, Chinese, Beverages : ₹500 for two :  Mahalgaon, Gwalior
+Rishav Pizza Cafe : 3.2 : Pizza, Fast Food, Burger, Sandwich : ₹300 for two :  Madhav Ganj, Gwalior
+Nine Tea Nine : 3.9 : Burger, Sandwich, Fast Food : ₹350 for two :  Lashkar, Gwalior
+The Royal Maharaja Restaurant & Cafe : 3.8 : Rolls, Fast Food, Shake : ₹250 for two :  City Center, Gwalior
+Madan Namkeen & Gajak Bhandar : 3.8 : Mithai, Street Food : ₹150 for two :  Ghosipura, Gwalior
+The Metro Food Junction : 3.2 : Chinese, Fast Food : ₹250 for two :  Lashkar, Gwalior
+Khilona Atithi Bhoj : 4.0 : North Indian : ₹400 for two :  Lashkar, Gwalior
+Snacks And Cool Point : 3.9 : Fast Food : ₹200 for two :  Deen Dayal Nagar, Gwalior
+Choice Family Restaurant : 3.9 : North Indian, Chinese, South Indian : ₹300 for two :  Lashkar, Gwalior
+Golden Food : 4.4 : Street Food, North Indian, Chinese, Beverages : ₹300 for two :  Lashkar, Gwalior
+Bawarchi : - : North Indian, Chinese : ₹500 for two :  Thatipur, Gwalior
+Shree Adinath Sweets : 3.5 : Mithai : ₹200 for two :  Shinde Ki Chhawani, Gwalior
+Shree Jodhana Misthan Bhandaar : - : Mithai, Street Food : ₹200 for two :  Lashkar, Gwalior
+Alfa The Cafe : 3.6 : Pizza, Burger, Sandwich, Pasta, Momos, Street Food, Beverages : ₹250 for two :  Thatipur, Gwalior
+Spicy Indian Cafe & Restaurant : 3.1 : North Indian, Chinese, Fast Food : ₹400 for two :  Naya Bazaar, Gwalior
+Cafe Brew Together : - : Pizza, Sandwich, Italian, Chinese, Fast Food, South Indian, Shake, Beverages : ₹600 for two :  City Center, Gwalior
+Flavourush : New : Fast Food, Chinese : ₹250 for two :  Shinde Ki Chhawani, Gwalior
+Anil Family Restaurant : 3.7 : North Indian, Mughlai, Biryani, Chinese, Fast Food : ₹300 for two :  Vinay Nagar, Gwalior
+Hot Pizza : 3.5 : Pizza, Fast Food : ₹300 for two :  Thatipur, Gwalior
+Foodz Inn : 4.0 : North Indian, Chinese, Fast Food, South Indian, Desserts, Beverages, Shake, Ice Cream : ₹500 for two :  Mahalgaon, Gwalior
+Lazeez  Cafe & Restro : 3.0 : North Indian, Chinese : ₹650 for two :  Lashkar, Gwalior
+KGN Fresh Juice Centre & Restaurant : 3.8 : Fast Food, Beverages, Shake, Juices : ₹200 for two :  Lashkar, Gwalior
+Mangalam Inn Restaurant : - : South Indian, Chinese, Italian, Rolls, Fast Food, Desserts, Juices, Beverages : ₹1,000 for two :  Deen Dayal Nagar, Gwalior
+The Triangle Restaurant & Cafe : 3.3 : North Indian, Chinese, Beverages, Biryani, Desserts : ₹800 for two :  Thatipur, Gwalior
+Happy Da Pizza & Patties Cafe : 3.4 : Pizza, Fast Food, Street Food : ₹350 for two :  Vinay Nagar, Gwalior
+Kaurav Sweets : 3.2 : Mithai : ₹300 for two :  Naya Bazaar, Gwalior
+Punjab Da Tadka : 3.6 : Chinese, Kebab : ₹300 for two :  Mahalgaon, Gwalior
+Raj Cool Zone : 3.7 : Desserts, Beverages : ₹100 for two :  Naya Bazaar, Gwalior
+Handi - Hotel Banjara : 3.1 : North Indian, Chinese, Pasta, Desserts, Fast Food, Street Food, Beverages : ₹400 for two :  Lashkar, Gwalior
+Chhappan Bhog : 3.6 : Mithai, Desserts : ₹400 for two :  The Central Mall, Lashkar, Gwalior
+Bake Bihari Juice Centre : 3.6 : Beverages, Shake, Juices, Ice Cream : ₹200 for two :  City Center, Gwalior
+The Adityaz Hotel Limited : - : North Indian, Chinese : ₹600 for two :  Deen Dayal Nagar, Gwalior
+Perk & Puff : 3.8 : Fast Food, Pizza, Chinese, Sandwich, Desserts, Beverages : ₹350 for two :  Lashkar, Gwalior
+Grains 'n' Beans : 3.8 : Bakery, Fast Food : ₹300 for two :  Deen Dayal Nagar, Gwalior
+The Roasted Life Cafe : 3.8 : Chinese, Sandwich, Pizza, Pasta, Fast Food, Street Food, Shake, Beverages : ₹300 for two :  Mahalgaon, Gwalior
+Best Bakers : 4.0 : Bakery, Desserts : ₹200 for two :  Shinde Ki Chhawani, Gwalior
+Waffles Pizza Company : 3.0 : Fast Food, Pizza, Desserts : ₹400 for two :  Lashkar, Gwalior
+Sector-17 Restaurant : 3.8 : Fast Food, North Indian, Chinese, Mughlai, Seafood, South Indian, Biryani, Beverages : ₹550 for two :  Model Town, Gwalior
+Spice 13 : 3.5 : North Indian : ₹300 for two :  Lashkar, Gwalior
+Sat Sahib Fast Food Corner : 3.5 : Fast Food, North Indian : ₹350 for two :  Deen Dayal Nagar, Gwalior
+Taj Chicken Corner : 3.9 : North Indian, Mughlai : ₹300 for two :  Vinay Nagar, Gwalior
+V Rasoi Restaurant : 3.1 : North Indian, South Indian, Chinese, Street Food, Fast Food : ₹400 for two :  Birla Nagar, Gwalior
+The Sandwich Hub : 3.3 : Sandwich, Rolls, Fast Food, Beverages : ₹350 for two :  Shinde Ki Chhawani, Gwalior
+Pizza Crunchy Cafe Burger : 3.3 : Pizza, Fast Food : ₹300 for two :  Prasad Nagar, Gwalior
+Mid City Café : 3.9 : Beverages, Fast Food, Street Food, Italian, Sandwich, Pizza, Shake : ₹250 for two :  Prasad Nagar, Gwalior
+Dig N Dine : 3.5 : North Indian, Fast Food, Wraps, Pizza, Beverages, Sandwich, Pasta, Burger : ₹500 for two :  Deen Dayal Nagar, Gwalior
+Vital Restaurant : 3.2 : Biryani, North Indian : ₹350 for two :  Birla Nagar, Gwalior
+Bakers Villa : 3.5 : Bakery, Desserts, Fast Food : ₹200 for two :  Deen Dayal Nagar, Gwalior
+Sagar Foodz : - : North Indian : ₹400 for two :  Vijaynagar, Gwalior
+Sweet & Salt Restaurant : 3.1 : North Indian, Fast Food, Chinese, South Indian, Desserts, Beverages : ₹500 for two :  Morar, Gwalior
+Vansi Fast Food : 3.6 : Fast Food, South Indian, Pizza, Street Food, Chinese : ₹200 for two :  Anand Nagar, Gwalior
+The Food Khor : 3.8 : Fast Food, North Indian : ₹200 for two :  Lashkar, Gwalior
+Choice Fast Food : 3.6 : North Indian, Fast Food, Chinese, South Indian : ₹300 for two :  Lashkar, Gwalior
+Agrawal Family Restaurant : 3.3 : North Indian, Chinese, Mughlai, Fast Food, Street Food, South Indian, Desserts, Beverages : ₹400 for two :  Lashkar, Gwalior
+Vishnu Bakery : 3.8 : Bakery : ₹300 for two :  Madhav Ganj, Gwalior
+The Veg Factory : 3.8 : Chinese, Street Food, Sandwich, Pizza, Burger, Rolls, North Indian, Shake : ₹200 for two :  City Center, Gwalior
+Dream Arena : 4.3 : Sandwich, Pizza, Fast Food, Chinese, Cafe, North Indian : ₹600 for two :  Lashkar, Gwalior
+K Cube Restaurant : 3.6 : South Indian, Chinese, North Indian, Street Food, Fast Food, Beverages : ₹300 for two :  Lashkar, Gwalior
+Little Gwalior Cafe Restaurant : 2.4 : Fast Food, Street Food, Chinese, North Indian, South Indian, Rolls, Desserts, Beverages : ₹400 for two :  Lashkar, Gwalior
+Delicious Pizza : 3.5 : Pizza, Fast Food : ₹200 for two :  Naya Bazaar, Gwalior
+Blueberry Restaurant : 3.5 : North Indian, South Indian, Chinese, Fast Food, Street Food, Desserts : ₹500 for two :  Morar, Gwalior
+Cake Mania : - : Bakery : ₹300 for two :  Morar, Gwalior
+Ashiyana Cafe : 3.3 : Pizza, Chinese, Sandwich, Shake, Coffee, Beverages : ₹200 for two :  Vinay Nagar, Gwalior
+Punjab Di Kitchen : 2.8 : North Indian, South Indian, Chinese, Fast Food : ₹300 for two :  Lashkar, Gwalior
+Pizza Hub & Chinese Centre : - : Pizza : ₹300 for two :  Morar, Gwalior
+Giani Ice Cream : - : Ice Cream, Desserts, Shake, Beverages : ₹350 for two :  Birla Nagar, Gwalior
+Arora's Cafe & Restro : 3.3 : North Indian, Fast Food, Chinese, Beverages : ₹300 for two :  Thatipur, Gwalior
+The Taste Of Chambal : 3.2 : Fast Food, Chinese, North Indian, Shake, Beverages : ₹400 for two :  Vinay Nagar, Gwalior
+Shiv Shakti Bhojanalya : 3.1 : North Indian : ₹200 for two :  Morar, Gwalior
+Fukrey Back Bencher : 3.3 : South Indian, Pizza, Sandwich, Fast Food, Street Food, Chinese, Shake, Beverages : ₹200 for two :  Morar, Gwalior
+Atithi Bhoj Restaurant : 3.6 : North Indian : ₹300 for two :  Shinde Ki Chhawani, Gwalior
+Tommatinos : 3.7 : Pizza, Italian, Burger, Sandwich, Fast Food : ₹400 for two :  Vinay Nagar, Gwalior
+Ajanta Restaurant : 2.6 : North Indian, Mughlai : ₹500 for two :  Thatipur, Gwalior
+Shri Siddhi Vinayak Restaurant : 3.2 : North Indian : ₹300 for two :  Shinde Ki Chhawani, Gwalior
+Bhog Raj Namkeen : 3.3 : Fast Food : ₹250 for two :  Anand Nagar, Gwalior
+Gurukirpa Restaurant : 2.9 : North Indian : ₹400 for two :  Thatipur, Gwalior
+The Kings Inn : 3.3 : North Indian, Chinese : ₹300 for two :  Vinay Nagar, Gwalior
+Ambika Hotel : 3.3 : North Indian, Rolls : ₹400 for two :  Thatipur, Gwalior
+Frontier Restaurent & Parcel Counter : 3.3 : North Indian : ₹400 for two :  Lashkar, Gwalior
+Sri Dauji Misthan Bhandar : - : Mithai, Desserts, Street Food : ₹100 for two :  Shinde Ki Chhawani, Gwalior
+Aarya South Indian Jayka : 3.4 : South Indian : ₹200 for two :  Ghosipura, Gwalior
+Chai Premier League : 3.3 : Fast Food, Pizza, Beverages, Tea, Shake, Sandwich, Burger : ₹300 for two :  Thatipur, Gwalior
+The Graduate Chill Point : 3.2 : Fast Food, Street Food, Shake, Beverages, Ice Cream : ₹250 for two :  Gulmohar City, Gwalior
+Marwadi Bhojnalaya : 3.0 : Rajasthani : ₹200 for two :  Shinde Ki Chhawani, Gwalior
+Food Zo : 3.2 : Fast Food, Chinese, Sandwich, Momos, Beverages : ₹250 for two :  Naya Bazaar, Gwalior
+The Meeting Place : - : North Indian, Chinese, Sandwich, Rolls, Fast Food, Beverages : ₹350 for two :  Lashkar, Gwalior
+V.K Foods : - : Chinese, Fast Food, North Indian, Beverages : ₹400 for two :  Lashkar, Gwalior
+Madrasi Dosa : - : South Indian : ₹250 for two :  Shinde Ki Chhawani, Gwalior
+Spicy Tree - The City Food Court : - : North Indian : ₹400 for two :  DD City Mall, Lashkar, Gwalior
+845 Caffetrow : 2.6 : Chinese, Fast Food, Street Food, Beverages : ₹250 for two :  City Center, Gwalior
+Indian Shake : 3.0 : Fast Food, Juices : ₹250 for two :  City Center, Gwalior
+CASA DE AMOR : - : Cafe, Coffee, North Indian, Chinese, Sandwich, Tea, Beverages : ₹500 for two :  Morar, Gwalior
+MVFC - Shudh Shakahari Bhojan : 2.9 : North Indian : ₹300 for two :  Shinde Ki Chhawani, Gwalior
+Mayur Family Restaurant : - : North Indian, Chinese, Fast Food, Street Food, Healthy Food, Beverages : ₹200 for two :  Lohamandi, Gwalior
+Spoon Of Cravings : - : Pizza, Pasta, Sandwich, Oriental, Fast Food, Street Food, Shake, Beverages : ₹500 for two :  Lashkar, Gwalior
+Tarun Sagar Food Parcel Counter : - : North Indian, South Indian : ₹300 for two :  Shinde Ki Chhawani, Gwalior
+Raghav Food Bistro And Cafe : - : North Indian, Pizza, Sandwich, Burger, Finger Food, Fast Food, Rolls, Wraps : ₹450 for two :  Prasad Nagar, Gwalior
+Raja Ice Cream Parlour : - : Ice Cream, Bakery, Desserts : ₹350 for two :  Lashkar, Gwalior
+Nagpal's Chole Bhature : - : North Indian : ₹200 for two :  City Center, Gwalior
+Natural Shake And Juice : - : Beverages : ₹150 for two :  Morar, Gwalior
+Guru Kripa : - : North Indian : ₹300 for two :  Shinde Ki Chhawani, Gwalior
+Sangat : - : North Indian, Fast Food, Street Food, Beverages, Desserts : ₹700 for two :  City Center, Gwalior
+Burger Bud : - : Pizza, Burger, Sandwich, Pasta, Shake : ₹250 for two :  Birla Nagar, Gwalior
+Jay Bhavani Vadapav : - : Fast Food, Street Food, Sandwich, Pizza, Shake, Beverages : ₹250 for two :  City Center, Gwalior
+Shahi Sweets : - : Mithai, Street Food : ₹400 for two :  City Center, Gwalior
+No Way Home Cafe : - : South Indian, Pizza, Ice Cream, Shake, Beverages : ₹250 for two :  City Center, Gwalior
+TDR Club & Lounge : - : North Indian, Chinese, Burger, Pasta, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  City Center, Gwalior
+Shri Ram's Food Court : - : North Indian, Pizza, Burger, Sandwich, Momos, Street Food, Shake, Tea : ₹300 for two :  Deen Dayal Nagar, Gwalior
+F3 - Food Court : New : North Indian, Chinese, South Indian, Pizza, Fast Food, Desserts, Shake, Beverages : ₹450 for two :  Lashkar, Gwalior
+Tik-Tok Fast Food Restaurant And Bakery : - : Fast Food, North Indian, Chinese, Beverages : ₹300 for two :  Madhav Ganj, Gwalior
+Burger Maxx : New : Burger, Fast Food, Street Food, Shake : ₹250 for two :  Ghosipura, Gwalior
+Natraj Cafe & Restaurant : - : North Indian, Chinese : ₹400 for two :  Model Town, Gwalior
+Devki Grand : - : North Indian, Biryani, Chinese, Kebab, Fast Food, Street Food, Sandwich : ₹1,000 for two :  Gulmohar City, Gwalior
+Jhansi Foods : - : North Indian, Rolls, Biryani : ₹100 for two :  Lashkar, Gwalior
+Satkar Family Restaurant : - : North Indian : ₹250 for two :  Deen Dayal Nagar, Gwalior
+Maxsun Hotel & Banquet : New : North Indian, South Indian, Biryani, Chinese, Seafood, Sandwich, Fast Food, Beverages : ₹1,000 for two :  Thatipur, Gwalior
+Delhi 6 : - : North Indian, Street Food : ₹200 for two :  Thatipur, Gwalior
+Greets & Treats : New : Pizza, Fast Food, Chinese, Momos, Beverages : ₹300 for two :  Gulmohar City, Gwalior
+Desi Chinese Fast Food : - : Chinese, North Indian : ₹250 for two :  Madhav Ganj, Gwalior
+MM Chaap Wale : - : North Indian, Rolls : ₹250 for two :  City Center, Gwalior
+Taste Of Gwalior : - : North Indian, Mughlai, Biryani : ₹500 for two :  City Center, Gwalior
+Cosmo Cafe : - : Pizza, Chinese, North Indian, Fast Food, Shake, Beverages : ₹600 for two :  City Center, Gwalior
+Maggi Adda : - : Fast Food, Street Food, Sandwich : ₹200 for two :  Lashkar, Gwalior
+New Alishan Chicken Biryani Centre : - : North Indian : ₹300 for two :  Anand Nagar, Gwalior
+Urban Tadka Restaurant : - : North Indian, Mughlai, Biryani : ₹200 for two :  Morar, Gwalior
+Tea Lobby Cafe : - : Street Food, Pizza, Beverages, Fast Food, Sandwich, Pasta, Burger : ₹200 for two :  Birla Nagar, Gwalior
+25x7 Thali : - : North Indian : ₹300 for two :  City Center, Gwalior
+Nescafe : - : Cafe, Pizza, Burger, Pasta, Sandwich, Fast Food, Shake, Beverages : ₹500 for two :  Morar, Gwalior
+Shivani Chinese : - : Fast Food, Chinese, Street Food : ₹300 for two :  Lashkar, Gwalior
+Sohan Dairy : - : Mithai : ₹400 for two :  Lashkar, Gwalior
+R.S Pizza : - : Pizza, Burger, Fast Food : ₹300 for two :  Naya Bazaar, Gwalior
+Green Crown  Food Zone & Top N Town Ice Cream Parlour : - : Chinese, Fast Food, Pizza, Pasta, Beverages, Ice Cream : ₹400 for two :  Lashkar, Gwalior
+Uncle Corner : - : Chinese, South Indian : ₹250 for two :  Lashkar, Gwalior
+Mannat Cafe And Family Restaurant : - : North Indian, South Indian, Chinese, Fast Food, Beverages : ₹300 for two :  Morar, Gwalior
+Poonam Sweet And Snacks : - : Mithai, Fast Food : ₹100 for two :  Deen Dayal Nagar, Gwalior
+Shree Ram Kitchen & Cafe : - : North Indian, Pizza, Fast Food, Street Food : ₹300 for two :  Lashkar, Gwalior

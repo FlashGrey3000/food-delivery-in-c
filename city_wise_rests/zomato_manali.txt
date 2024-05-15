@@ -1,0 +1,480 @@
+Fat Plate Cafe : 4.3 : North Indian, Continental, Fast Food : ₹1,200 for two :  Kullu, Manali
+Cafe Evergreen : 4.2 : Cafe : ₹600 for two :  Old Manali, Manali
+Urban Monk - A Luxury Café : 4.5 : Fast Food, Street Food, Chinese, Sandwich, Desserts, Beverages, Shake : ₹1,500 for two :  Old Manali, Manali
+Nathu's Pure Vegetarian Restaurant : 3.9 : Shake, Beverages : ₹150 for two :  Tibetan Colony, Manali
+Sabali : 4.9 : Cafe, Bakery : ₹600 for two :  Old Manali, Manali
+Darjeeling Steamers : 4.7 : Momos, Asian, Korean, Street Food, Beverages : ₹500 for two :  Old Manali, Manali
+il Forno : New : Cafe : ₹200 for two :  Aleo, Manali
+Sher-e-Punjab : 3.9 : North Indian, Mughlai, Chinese, Fast Food, Beverages : ₹700 for two :  Aleo, Manali
+The Pahadi Cafe : 3.9 : North Indian, Mughlai, Chinese, Desserts : ₹1,000 for two :  Aleo, Manali
+Mount View's Noodles : 3.3 : North Indian, Japanese, Italian : ₹650 for two :  Aleo, Manali
+Cafe 1986 : 3.4 : Fast Food, Chinese, Italian, North Indian, Desserts, Bakery, Beverages, Coffee : ₹700 for two :  Tibetan Colony, Manali
+Renaissance : 3.9 : Mexican, Italian, Cafe : ₹800 for two :  Old Manali, Manali
+Kyaroo House : 3.1 : Fast Food : ₹200 for two :  Tibetan Colony, Manali
+La Pino'z Pizza : 3.9 : Pizza, Italian, Pasta, Fast Food : ₹300 for two :  Tibetan Colony, Manali
+Cafe Moon Dance : 3.8 : Cafe : ₹650 for two :  Old Manali, Manali
+Dylan's : 4.9 : Cafe : ₹600 for two :  Old Manali, Manali
+Sa-Ba : 3.6 : North Indian : ₹700 for two :  Old Manali, Manali
+Pizza Hut : 3.9 : Pizza, Fast Food, Desserts, Beverages : ₹800 for two :  Aleo, Manali
+Cafe Indic Vibes : 3.5 : North Indian, Chinese, Pizza, Fast Food : ₹900 for two :  Old Manali, Manali
+Udupi Restaurant : 3.7 : South Indian, North Indian, Chinese, Gujarati : ₹400 for two :  Aleo, Manali
+Ride Inn Cafe : 4.3 : Cafe, North Indian, Chinese, Italian, Desserts, Beverages : ₹900 for two :  Tibetan Colony, Manali
+Khyber : 4.1 : North Indian, Chinese, Continental : ₹1,500 for two :  Aleo, Manali
+Explosion Night Club : 3.7 : Chinese, Cafe, Fast Food : ₹1,000 for two :  Tibetan Colony, Manali
+The Organic Bowl : 4.1 : Cafe, Tea, Coffee, Juices, Desserts, Fast Food, Salad : ₹600 for two :  Old Manali, Manali
+Tasty Bite : 4.4 : North Indian, Chinese, South Indian : ₹350 for two :  Aleo, Manali
+Pizza Olive manali : 4.2 : Pizza, Pasta, Chinese, Fast Food, Desserts : ₹1,200 for two :  Aleo, Manali
+River Music Garden Restaurant & German Bakery : 3.8 : North Indian, Italian, Israeli, Desserts, Chinese, Bakery : ₹800 for two :  Old Manali, Manali
+Offlimits Coffee Manali : 3.6 : North Indian, Pizza, Italian, Momos, Desserts, Shake, Tea, Beverages : ₹1,000 for two :  Old Manali, Manali
+Cafe Amigos : 3.2 : Cafe, Fast Food, Chinese, Italian, Momos, Beverages, Salad, Desserts : ₹550 for two :  Aleo, Manali
+Shahi Dastarkhwan : 4.3 : North Indian, Mughlai, Biryani : ₹500 for two :  Aleo, Manali
+Himalayan Cedar Cafe And Bar : 4.0 : North Indian, Fast Food, Chinese, Mughlai, Biryani, Beverages, Coffee : ₹2,000 for two :  Kullu, Manali
+Cafe Kathmandu : - : Cafe : ₹600 for two :  Old Manali, Manali
+Cafe Energie : 3.9 : North Indian, Chinese : ₹400 for two :  Old Manali, Manali
+Sujan Cafe : 3.7 : Fast Food, North Indian, Chinese, Beverages, Momos : ₹300 for two :  Old Manali, Manali
+Cafe 1987 : - : North Indian : ₹500 for two :  Old Manali, Manali
+Satyam : 3.8 : Chinese, North Indian, South Indian, Fast Food, Beverages : ₹500 for two :  Aleo, Manali
+Backyard Cafe : - : North Indian, Chinese, Pizza, Continental, Italian, Biryani, Desserts, Beverages : ₹1,300 for two :  Old Manali, Manali
+German Bakery : 4.2 : Bakery, Desserts, Chinese, Sandwich, Fast Food, Beverages : ₹400 for two :  Old Manali, Manali
+Taste of India : - : South Indian, Italian, Chinese, North Indian, Pizza : ₹600 for two :  Tibetan Colony, Manali
+Sunshine Cafe : 4.2 : Cafe : ₹650 for two :  Old Manali, Manali
+Backstreet Cafe : 3.8 : North Indian, European, Cafe : ₹1,200 for two :  Old Manali, Manali
+Amigos German Bakery : - : Italian, Fast Food, Bakery : ₹250 for two :  Tibetan Colony, Manali
+The White House : - : Continental, Italian, North Indian, Pizza, Fast Food, Desserts : ₹1,500 for two :  Tibetan Colony, Manali
+Sher-e-Punjab : - : North Indian : ₹400 for two :  Aleo, Manali
+Johnny's Pizza : 3.4 : Italian : ₹400 for two :  Old Manali, Manali
+Alt Cafe Manali : - : Continental, Bakery, Beverages, North Indian, Oriental, Italian : ₹500 for two :  Old Manali, Manali
+People : 3.9 : Cafe : ₹600 for two :  Old Manali, Manali
+Manali Sweets & Bakers : 4.1 : Street Food, North Indian, Mithai : ₹250 for two :  Aleo, Manali
+Tasty Bite : 3.2 : Fast Food : ₹250 for two :  Aleo, Manali
+GOAT - Greatest Of All Time : 4.1 : North Indian, Continental, Chinese : ₹1,300 for two :  Kullu, Manali
+Pizza Olive : 2.7 : Pizza, Fast Food : ₹500 for two :  Aleo, Manali
+Flydining Manali : - : Chinese, North Indian, Desserts, Beverages : ₹1,000 for two :  Old Manali, Manali
+Ruthay Bagad Restaurant : 3.3 : Himachali, North Indian, South Indian, Italian, Chinese : ₹1,000 for two :  Aleo, Manali
+Madras Cafe : 3.9 : Street Food, Fast Food, North Indian : ₹350 for two :  Aleo, Manali
+Mayur Restaurant : 3.8 : North Indian, Continental, Chinese : ₹600 for two :  Aleo, Manali
+Atithi Sweets & Bhojanalya : 4.0 : Mithai, North Indian : ₹400 for two :  Aleo, Manali
+Cafe 1965 : 3.9 : Cafe, North Indian, Fast Food, Beverages, Coffee, Tea : ₹400 for two :  Tibetan Colony, Manali
+Rendez-Vous : 4.0 : Cafe : ₹800 for two :  Old Manali, Manali
+Balaji Restaurant : 3.9 : Chinese, North Indian, South Indian : ₹450 for two :  Aleo, Manali
+Oven In The Garden : - : Italian : ₹500 for two :  Tibetan Colony, Manali
+Adarsh Restaurant : - : South Indian, North Indian, Gujarati, Continental, Chinese : ₹400 for two :  Aleo, Manali
+Anshu Punjabi Dhaba : 3.9 : North Indian, Afghan, Grilled Chicken, Roast Chicken, Fast Food, Healthy Food, Himachali, Street Food : ₹500 for two :  Aleo, Manali
+Qudrat Cafe : 3.0 : Sandwich, Street Food, Beverages, Desserts, North Indian : ₹300 for two :  Old Manali, Manali
+Shan-e-Punjab : 4.3 : Chinese, North Indian, South Indian : ₹400 for two :  Aleo, Manali
+Cafe Del 37 : 3.5 : Fast Food, Beverages : ₹400 for two :  Old Manali, Manali
+Giri’s cafe : 3.0 : Cafe, Coffee, Beverages, Chinese, Fast Food, Desserts : ₹500 for two :  Old Manali, Manali
+Cafe Signature : 3.7 : Cafe : ₹500 for two :  Aleo, Manali
+Chai Sutta Bar Manali : 2.9 : Beverages : ₹100 for two :  Tibetan Colony, Manali
+Freedom Cafe : 3.9 : Tibetan, North Indian, Continental, Chinese : ₹400 for two :  Tibetan Colony, Manali
+Shan E Manali Restaurant : 4.2 : Chinese, North Indian, Fast Food, Desserts, Beverages : ₹450 for two :  Aleo, Manali
+Papa Chao's Cafe : 3.7 : Fast Food : ₹300 for two :  Old Manali, Manali
+Zam Zam Mediterranean : 4.0 : Hyderabadi, Chinese, North Indian, Kebab, Mughlai, Biryani : ₹950 for two :  Kullu, Manali
+Café Live : 3.1 : Cafe, Chinese, Continental, Mexican, North Indian : ₹600 for two :  Old Manali, Manali
+Italian Pizza Hut : 3.8 : Pizza : ₹400 for two :  Aleo, Manali
+Hadimba Dhaba : 2.9 : North Indian : ₹200 for two :  Aleo, Manali
+The Mess : 4.2 : North Indian, Continental, Fast Food, Desserts, Beverages : ₹750 for two :  Kullu, Manali
+Manali Day Restaurant : 3.9 : Fast Food, North Indian : ₹500 for two :  Aleo, Manali
+Rangoli Rooftop : 3.3 : Cafe : ₹800 for two :  Tibetan Colony, Manali
+Punjabi Dhaba : 3.6 : North Indian : ₹400 for two :  Aleo, Manali
+Café Coffee Day : 3.9 : Beverages, Cafe, Sandwich, Fast Food, Desserts : ₹500 for two :  Aleo, Manali
+Yolo Backpackers : - : Cafe : ₹600 for two :  Old Manali, Manali
+Moon Star Cafe : 3.9 : Cafe : ₹650 for two :  Old Manali, Manali
+Hytribe Cafe : 3.6 : Cafe : ₹700 for two :  Old Manali, Manali
+Café Willow : 3.9 : Cafe, Italian : ₹1,400 for two :  Old Manali, Manali
+Chauhan Rooftop : 3.9 : Tibetan, North Indian, Italian : ₹350 for two :  Tibetan Colony, Manali
+Mamba : 3.9 : Cafe, Coffee, Burger, Chinese, Fast Food, Desserts, Shake, Beverages : ₹700 for two :  Aleo, Manali
+Shesh Besh Cafe : 3.9 : Cafe : ₹800 for two :  Old Manali, Manali
+Carrey Project : 3.8 : South Indian : ₹600 for two :  Old Manali, Manali
+Italian Olive & Social Sizzlers : 3.9 : Cafe : ₹1,000 for two :  Old Manali, Manali
+Spice n Ice : 3.7 : Tibetan, North Indian, Israeli, Continental : ₹550 for two :  Old Manali, Manali
+Manali Bistro : 3.5 : Cafe : ₹550 for two :  Old Manali, Manali
+Woods N Foods : 3.6 : Fast Food : ₹300 for two :  Old Manali, Manali
+Manali Momos : 3.9 : Momos : ₹450 for two :  Aleo, Manali
+Kamchatka : 3.9 : Cafe : ₹800 for two :  Old Manali, Manali
+Madras Cafe : 3.9 : South Indian, Beverages : ₹200 for two :  Tibetan Colony, Manali
+Guru Vashisht Food Plaza : 3.9 : Beverages, Fast Food : ₹200 for two :  Tibetan Colony, Manali
+Freedom Dhaba : 3.9 : North Indian : ₹200 for two :  Aleo, Manali
+Cafe Mountain Escape : 3.5 : Tea, Sandwich, Fast Food, Street Food, Shake, Beverages : ₹350 for two :  Old Manali, Manali
+Dosa Plaza : 3.9 : South Indian : ₹500 for two :  Aleo, Manali
+Soma : 3.8 : Cafe : ₹600 for two :  Old Manali, Manali
+Olive Tree : 3.4 : Cafe : ₹800 for two :  Old Manali, Manali
+Non Stop Cafe : - : Cafe, Healthy Food, North Indian : ₹650 for two :  Old Manali, Manali
+The Raydens Lounge : 3.9 : North Indian, Chinese, Italian : ₹350 for two :  Old Manali, Manali
+Adarsh Restaurant : - : Roast Chicken, North Indian, Charcoal Chicken : ₹350 for two :  Aleo, Manali
+Punjabi Plaza : 3.9 : North Indian : ₹500 for two :  Haveli - The Food Court, Mall Road, Manali
+Gozy Restaurant : 3.4 : South Indian, North Indian, Chinese : ₹550 for two :  Aleo, Manali
+Beatroute Cafe & Restaurant : 3.6 : North Indian, Chinese, Fast Food : ₹400 for two :  Aleo, Manali
+Mom Touch Cafe : 3.4 : Fast Food : ₹200 for two :  Aleo, Manali
+New Ashapuri Bhojanalaya : 3.6 : Bengali : ₹300 for two :  Aleo, Manali
+Green Forest Cafe : 3.1 : North Indian, Chinese, Fast Food, Street Food : ₹200 for two :  Old Manali, Manali
+Taste Of India : 3.2 : Fast Food, Chinese, South Indian, Street Food, North Indian, Mughlai, Beverages : ₹600 for two :  Tibetan Colony, Manali
+Raydens Lounge And Cafe : 3.7 : Italian, Fast Food, Desserts, North Indian, Beverages : ₹600 for two :  Old Manali, Manali
+Ocho Kitchen : 3.4 : North Indian : ₹400 for two :  Old Manali, Manali
+Winterfield Cafe : - : North Indian, Oriental, Pasta, Fast Food : ₹250 for two :  Old Manali, Manali
+Little Italy - By Purnima Guest House : 3.4 : North Indian, Israeli, Chinese : ₹900 for two :  Old Manali, Manali
+Burger.in : 3.2 : Burger, Sandwich, Pizza, Rolls, Fast Food, Beverages : ₹350 for two :  Aleo, Manali
+Pam's Kitchen : 3.3 : South Indian, North Indian, Street Food : ₹200 for two :  Tibetan Colony, Manali
+Manali Cake House & Pizza Company : 2.8 : Bakery, Fast Food : ₹400 for two :  Tibetan Colony, Manali
+Cafe Nirvana : - : North Indian, Continental, Chinese, Mexican, Tibetan, Fast Food, Desserts, Beverages : ₹750 for two :  Old Manali, Manali
+Rishi's Cafe : - : Cafe, Beverages, Chinese, North Indian, Fast Food, Street Food, Desserts : ₹500 for two :  Kullu, Manali
+Mount View Restaurant : 3.0 : Fast Food, Cafe, Chinese, Continental, Japanese, North Indian, Tibetan : ₹600 for two :  Tibetan Colony, Manali
+Ibex Lounge & Bar : - : North Indian, Bar Food : ₹1,000 for two :  Tibetan Colony, Manali
+Beas Punjabi Dhaba : New : North Indian, Chinese, Fast Food, Salad : ₹300 for two :  Tibetan Colony, Manali
+Frontier's : - : North Indian, Chinese : ₹450 for two :  Tibetan Colony, Manali
+Frontier's : - : North Indian : ₹400 for two :  Aleo, Manali
+Green Olive Cafe : - : Fast Food : ₹400 for two :  Tibetan Colony, Manali
+Meerut Khana Khazana : - : North Indian : ₹300 for two :  Tibetan Colony, Manali
+Nikole Bakers And Ristorante : - : Bakery, Pizza, Burger, Sandwich, Desserts, Beverages : ₹600 for two :  Old Manali, Manali
+The Kullu Kitchen : - : North Indian, Continental, Chinese : ₹1,400 for two :  Aleo, Manali
+Barista Coffee : - : Cafe, Coffee, Beverages, Fast Food : ₹400 for two :  Tibetan Colony, Manali
+Vaishno Pangi Dhaba : - : North Indian, Fast Food : ₹500 for two :  Tibetan Colony, Manali
+Pure Veg Punjabi Family Dhaba : - : North Indian : ₹300 for two :  Tibetan Colony, Manali
+Cafe Adiyogi : - : Fast Food, Street Food, Chinese, North Indian, Biryani, Beverages : ₹1,000 for two :  Old Manali, Manali
+Ashapuri Village : - : North Indian, Chinese : ₹1,000 for two :  Aleo, Manali
+Valentine's Garman Baker's : - : Bakery, Fast Food : ₹200 for two :  Aleo, Manali
+Urvashi's Retreat : - : Chinese, Continental, Himachali, North Indian, Pizza : ₹1,300 for two :  Old Manali, Manali
+Manali Momoz : - : Momos : ₹100 for two :  Tibetan Colony, Manali
+The Healthy Kitchen : - : North Indian : ₹400 for two :  Old Manali, Manali
+Woodo Cafe : - : North Indian : ₹300 for two :  Old Manali, Manali
+Dolma's Corner : - : Chinese, Tibetan : ₹300 for two :  Tibetan Colony, Manali
+Manali Dhaam : - : North Indian : ₹300 for two :  Tibetan Colony, Manali
+Mountain View : - : North Indian : ₹300 for two :  Kullu, Manali
+Kapital Lounge : - : Continental, Bar Food : ₹1,500 for two :  Aleo, Manali
+Himachali Flavours : - : Himachali, Chinese : ₹200 for two :  Old Manali, Manali
+Green Olive Cafe & Restro : - : Cafe, Coffee, Juices, Beverages, Burger, Sandwich : ₹350 for two :  Tibetan Colony, Manali
+Pronto Pasta & Noodles : - : Pasta, Chinese, Fast Food, Sichuan : ₹200 for two :  Aleo, Manali
+Café Jardin : - : North Indian, Chinese, Continental, Tibetan : ₹1,800 for two :  Tibetan Colony, Manali
+Kathmandu Fast Food : - : Fast Food, Chinese : ₹300 for two :  Old Manali, Manali
+Mount Walkers : - : North Indian, Street Food, Rolls, Continental, Chinese : ₹600 for two :  Old Manali, Manali
+Aashiana Restaurant : - : Chinese, North Indian : ₹250 for two :  Aleo, Manali
+Monkbase Cafe : - : Italian, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹700 for two :  Old Manali, Manali
+Cafe Riverine : - : Fast Food, Street Food, North Indian, Beverages : ₹300 for two :  Tibetan Colony, Manali
+Al - Karim Chicken Point : - : North Indian, Mughlai, Street Food, Biryani : ₹450 for two :  Tibetan Colony, Manali
+Hidden Paradise Cafe : - : Cafe : ₹350 for two :  Old Manali, Manali
+Delhi Darbar : - : North Indian, Mughlai : ₹300 for two :  Aleo, Manali
+Rock Manali By Vivaan : - : North Indian, Oriental, Fast Food, Street Food, Salad, Desserts, Beverages : ₹1,500 for two :  Aleo, Manali
+Taste Of India Express : - : North Indian, Rolls, Biryani : ₹300 for two :  Old Manali, Manali
+Bake Delight : - : Momos, Fast Food, Street Food : ₹200 for two :  Aleo, Manali
+Desi Swaad : - : North Indian, Fast Food, Street Food, Chinese : ₹450 for two :  Tibetan Colony, Manali
+Himachali Dhaba : - : North Indian : ₹250 for two :  Old Manali, Manali
+Tirupati South Indian Cafe : - : South Indian, North Indian, Street Food, Beverages : ₹300 for two :  Old Manali, Manali
+Cocoland : - : South Indian, Biryani, North Indian, Sandwich, Street Food, Beverages : ₹600 for two :  Old Manali, Manali
+Infinity Food Hub : - : North Indian, Chinese, Fast Food, Beverages : ₹400 for two :  Aleo, Manali
+South Spice Kitchen : - : North Indian, South Indian, Chinese, Continental, Shake, Beverages : ₹400 for two :  Tibetan Colony, Manali
+Recipe Hut : - : North Indian, Chinese, Mughlai, Fast Food, Street Food : ₹300 for two :  Tibetan Colony, Manali
+Hotel Avenue Manali Kitchen : New : North Indian : ₹300 for two :  Aleo, Manali
+Rohtang Heights : - : North Indian, Chinese : ₹1,000 for two :  Aleo, Manali
+Himalayan Delights : - : North Indian : ₹350 for two :  Aleo, Manali
+Van Vihar Food Corner : - : North Indian : ₹300 for two :  Tibetan Colony, Manali
+Chinese Fast Food Corner : - : Chinese, Fast Food : ₹300 for two :  Tibetan Colony, Manali
+Tribe : New : Fast Food, North Indian, Oriental, Biryani, Beverages : ₹1,100 for two :  Aleo, Manali
+The Manali Cafe : - : Fast Food, North Indian : ₹250 for two :  Tibetan Colony, Manali
+The Indian Chaat House : - : Street Food : ₹150 for two :  Old Manali, Manali
+Mallu Singh's : New : Kerala : ₹500 for two :  Aleo, Manali
+Cafe Green Olive : - : Cafe, Coffee, Burger, Fast Food, Healthy Food, Juices, Shake, Beverages : ₹600 for two :  Tibetan Colony, Manali
+Hotel Meadows : New : North Indian, Chinese : ₹300 for two :  Tibetan Colony, Manali
+Molly's : - : North Indian, Chinese, Continental, Pizza, Italian, Tibetan, Desserts, Beverages : ₹1,700 for two :  Tibetan Colony, Manali
+Manalsu Dhaba : - : North Indian, Chinese, Fast Food, Beverages : ₹500 for two :  Old Manali, Manali
+Red Roof : - : Cuisine Varies : ₹1,800 for two :  Kullu, Manali
+91 Highstreet Cafe : - : Bakery, Cafe, Coffee, Beverages, Fast Food, Pizza : ₹600 for two :  Tibetan Colony, Manali
+Tara River Open Cafe : - : North Indian, Chinese, Sandwich, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Tibetan Colony, Manali
+Burgrolls : - : Burger, Rolls, Fast Food, Beverages : ₹400 for two :  Old Manali, Manali
+The Magic Pot Cafe : - : Fast Food, Beverages : ₹500 for two :  Old Manali, Manali
+Adi Place : - : Cafe : ₹500 for two :  Old Manali, Manali
+H.P. Fresh Juice Bar : - : Beverages, Juices, Tea, Coffee, Sandwich : ₹250 for two :  Aleo, Manali
+Cafe Manali Trance : - : Cafe, Fast Food : ₹400 for two :  Old Manali, Manali
+Olive County : - : North Indian, Chinese, Sandwich, Fast Food, Desserts, Beverages : ₹1,400 for two :  Old Manali, Manali
+Park Residency : - : North Indian : ₹500 for two :  Aleo, Manali
+Shrishti Momo's Corner : - : Momos, Chinese : ₹300 for two :  Tibetan Colony, Manali
+OUT Manali Cafe : - : Chinese, Street Food, Fast Food, North Indian, Beverages : ₹450 for two :  Tibetan Colony, Manali
+Sylvan Woods Restaurant And Cafe : New : North Indian, Chinese, Fast Food, Street Food : ₹600 for two :  Tibetan Colony, Manali
+Hotel Mountain Top : - : North Indian, Sandwich, Rolls, Continental, Biryani : ₹600 for two :  Old Manali, Manali
+Hotel Shanti Niketan : - : North Indian, Chinese, Street Food, Bengali, Beverages : ₹400 for two :  Aleo, Manali
+Singh Saab - Food Truck & Riverside Resturant : - : North Indian, Sandwich, Wraps, Burger, Fast Food, Chinese, Beverages : ₹450 for two :  Old Manali, Manali
+Dolma's Kitchen : - : Fast Food : ₹250 for two :  Aleo, Manali
+River Touch Mountain View Cafe : - : North Indian, Beverages : ₹250 for two :  Tibetan Colony, Manali
+Sharma Punjabi Dhaba : - : North Indian, Mughlai : ₹400 for two :  Aleo, Manali
+Romany Restaurant : - : Himachali, North Indian : ₹1,000 for two :  Tibetan Colony, Manali
+Sandhya Resort and Restaurant : - : Biryani, Chinese : ₹600 for two :  Aleo, Manali
+Sunny Fast Food & Chicken Corner : - : Fast Food, North Indian : ₹200 for two :  Old Manali, Manali
+River View Food Corner : - : North Indian : ₹300 for two :  Old Manali, Manali
+The Chocolate Room : - : Bakery, Fast Food : ₹300 for two :  Aleo, Manali
+Whispering River Restaurant : - : North Indian, Chinese : ₹600 for two :  Tibetan Colony, Manali
+Magnolia Bengali Restaurant : - : Bengali : ₹300 for two :  Tibetan Colony, Manali
+Highland Burger Grill : - : Burger, Fast Food : ₹300 for two :  Old Manali, Manali
+Tandoori Night Tadka : - : North Indian, Chinese : ₹200 for two :  Aleo, Manali
+Boho : - : North Indian, Street Food, Fast Food, Chinese, Desserts, Beverages : ₹400 for two :  Old Manali, Manali
+Down Town Veg Food Corner : - : North Indian : ₹400 for two :  Tibetan Colony, Manali
+GK Hotel & Restaurant : - : North Indian, South Indian, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹300 for two :  Tibetan Colony, Manali
+Café River Touch : - : Cafe : ₹600 for two :  Old Manali, Manali
+The Avalon Cafe : - : Coffee : ₹300 for two :  Tibetan Colony, Manali
+On The Rocks - Bar : - : North Indian, Continental, Chinese : ₹700 for two :  Aleo, Manali
+Cafe Dejavu : - : North Indian, Chinese, Fast Food : ₹250 for two :  Old Manali, Manali
+Bengali Restaurant : - : North Indian : ₹200 for two :  Tibetan Colony, Manali
+Quality In Dhaba : - : North Indian : ₹200 for two :  Aleo, Manali
+Cafe Travelfeet : - : Fast Food : ₹250 for two :  Tibetan Colony, Manali
+Chancellor : - : Finger Food : ₹900 for two :  Kullu, Manali
+Food Dude : - : Fast Food : ₹400 for two :  Old Manali, Manali
+Fresco : - : Fast Food, North Indian : ₹1,600 for two :  Tibetan Colony, Manali
+Cafe Dark Zone : - : Cafe : ₹650 for two :  Old Manali, Manali
+Punjabi Bhojanalaya : - : North Indian, Chinese : ₹300 for two :  Tibetan Colony, Manali
+Guns N Roses : - : Biryani, South Indian, BBQ : ₹450 for two :  Old Manali, Manali
+Mehak Food Corner : - : North Indian, Chinese, Fast Food, Street Food, Momos, Beverages : ₹450 for two :  Old Manali, Manali
+Manali Chaat Corner : - : North Indian, South Indian, Chinese, Street Food : ₹200 for two :  Old Manali, Manali
+Sashas : - : North Indian : ₹500 for two :  Old Manali, Manali
+Non Stop Cafe And Homestays : - : North Indian, Continental, Italian, Pizza, Sandwich, Fast Food, Desserts, Beverages : ₹500 for two :  Old Manali, Manali
+Palden Lhamo Khenno - Food Zone : - : North Indian, Street Food : ₹300 for two :  Tibetan Colony, Manali
+Cafe Himalayan Monkey : - : Italian, Pasta : ₹1,000 for two :  Old Manali, Manali
+Sarthak Regency : - : Chinese, North Indian, Fast Food, Street Food, Juices, Beverages : ₹1,000 for two :  Aleo, Manali
+Quantimo Restro : - : North Indian, Chinese, Seafood, South Indian, Mughlai, Fast Food, Shake, Beverages : ₹250 for two :  Old Manali, Manali
+Eagle Cafe : - : Cafe : ₹500 for two :  Old Manali, Manali
+Piyush Cafe : - : North Indian : ₹300 for two :  Old Manali, Manali
+Cider Lounge : - : Bar Food, Mughlai : ₹1,000 for two :  Aleo, Manali
+Mezbaan Khana Khazana : - : North Indian : ₹400 for two :  Tibetan Colony, Manali
+Tyson Place : - : Cafe : ₹550 for two :  Old Manali, Manali
+Komal Dhaba : - : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹300 for two :  Old Manali, Manali
+Hotel Broad View : - : North Indian, South Indian, Chinese, Italian, Momos, Tea, Shake, Beverages : ₹400 for two :  Old Manali, Manali
+Rahul Dhaba : - : North Indian : ₹300 for two :  Old Manali, Manali
+Butter Thief : - : North Indian, Chinese, Continental : ₹600 for two :  Old Manali, Manali
+Everyday Fresh BBQ Corner : - : North Indian : ₹600 for two :  Old Manali, Manali
+The Hill View Restaurant : - : North Indian : ₹300 for two :  Old Manali, Manali
+Born Free Cafe : - : Sandwich, Cafe : ₹500 for two :  Old Manali, Manali
+Manu Cafe : - : North Indian : ₹200 for two :  Old Manali, Manali
+Baba Chai Bar : - : Tea, Coffee, Beverages, Pizza : ₹350 for two :  Tibetan Colony, Manali
+Manali Diaries Cafe : - : North Indian, Chinese, South Indian, Pizza, Fast Food, Desserts : ₹1,000 for two :  Old Manali, Manali
+Escape Town Kitchen : - : Fast Food, Street Food, Chinese, Desserts, Juices, Beverages : ₹350 for two :  Aleo, Manali
+Hotel Red Fort : - : North Indian : ₹250 for two :  Old Manali, Manali
+Machaan View Cafe : - : North Indian, Street Food, Beverages : ₹300 for two :  Old Manali, Manali
+Loka Cafe : - : Kerala, Biryani, Fast Food : ₹300 for two :  Tibetan Colony, Manali
+King's Cafe By AK : - : Chinese, Continental, North Indian : ₹400 for two :  Aleo, Manali
+The Husky Cafe : - : Chinese, Fast Food, North Indian, Beverages : ₹650 for two :  Aleo, Manali
+The Frangipani : - : Continental, North Indian, Italian, Chinese, Mexican, Fast Food, Pizza, Shake : ₹1,200 for two :  Aleo, Manali
+Hotel Neelam : - : Chinese, North Indian, Street Food, South Indian, Fast Food, Mughlai, Desserts, Beverages : ₹700 for two :  Aleo, Manali
+Chai Chillam Bar & Chillam Chinese : - : Tea, Fast Food : ₹250 for two :  Tibetan Colony, Manali
+Hotel Hill Top : - : North Indian, Chinese, Fast Food, Biryani, Street Food, Desserts, Shake, Beverages : ₹550 for two :  Old Manali, Manali
+Divine Cafe : - : Chinese, North Indian, Mughlai, Street Food, Desserts, Tea : ₹350 for two :  Old Manali, Manali
+Sharma Dhaba : - : North Indian, Beverages : ₹300 for two :  Aleo, Manali
+Hadimba Coffee Shop : - : Coffee, Street Food : ₹200 for two :  Old Manali, Manali
+Monarch Restaurant : - : North Indian, South Indian, Chinese : ₹800 for two :  Aleo, Manali
+Manjit Punjabi Dhaba : - : North Indian : ₹300 for two :  Tibetan Colony, Manali
+The Aa-Ka-Ma Cafe : - : Cafe : ₹600 for two :  Old Manali, Manali
+New Hadimba Bhojnalaya : - : North Indian : ₹250 for two :  Tibetan Colony, Manali
+Cafe Patatas : - : Chinese, Fast Food, Sandwich, Street Food, North Indian : ₹200 for two :  Aleo, Manali
+Page 3 - Bar & Lodge : - : North Indian : ₹1,000 for two :  Old Manali, Manali
+Negi Dhaba : - : North Indian : ₹200 for two :  Aleo, Manali
+Shitse Corner : - : Chinese : ₹100 for two :  Kullu, Manali
+Wabi-Sabi : - : Cafe, Fast Food : ₹300 for two :  Old Manali, Manali
+Taste Vashisht : - : Fast Food, Beverages : ₹250 for two :  Tibetan Colony, Manali
+Samrat Restaurant : - : Chinese, North Indian : ₹700 for two :  Aleo, Manali
+Thakur Fast Food : - : North Indian, Chinese, Tea : ₹200 for two :  Aleo, Manali
+Purple Hey-z : - : Cafe, Fast Food : ₹500 for two :  Old Manali, Manali
+Andhra Bhojnalayam : - : South Indian : ₹200 for two :  Tibetan Colony, Manali
+Lovisha Fast Food : - : Fast Food, North Indian : ₹200 for two :  Tibetan Colony, Manali
+Ankit Dhaba : - : Fast Food : ₹400 for two :  Aleo, Manali
+Mount Walkers : - : Fast Food, Pizza, Chinese, North Indian, Street Food, Continental, Desserts, Beverages : ₹500 for two :  Old Manali, Manali
+Avishi Greens : - : North Indian, Mughlai, Chinese, Fast Food, Biryani, Street Food, Desserts, Beverages : ₹1,200 for two :  Aleo, Manali
+Gazibo Cafe : - : Ice Cream, Momos, Pizza, Pasta, Beverages : ₹200 for two :  Old Manali, Manali
+Sharma Food Corner : - : North Indian : ₹500 for two :  Aleo, Manali
+B-Eat Inn : - : Chinese, Continental, North Indian : ₹500 for two :  Old Manali, Manali
+Chai Shaukeens : - : Tea, Street Food, Fast Food, Beverages : ₹200 for two :  Aleo, Manali
+Hangout 2020 Cafe : - : North Indian : ₹300 for two :  Old Manali, Manali
+Andhra Bhojnalya : - : Andhra, South Indian : ₹300 for two :  Tibetan Colony, Manali
+Mumbai Spices : - : Fast Food, North Indian : ₹400 for two :  Haveli - The Food Court, Mall Road, Manali
+Mugal Darbar : - : North Indian, Mughlai, Biryani : ₹500 for two :  Tibetan Colony, Manali
+Hotel The Conifer : - : North Indian, Chinese : ₹250 for two :  Old Manali, Manali
+Taste Of HighQ : - : North Indian : ₹600 for two :  Tibetan Colony, Manali
+Mansi's Cafe : - : South Indian, Chinese, Fast Food, Street Food, Beverages : ₹400 for two :  Old Manali, Manali
+The Culture Nation Restaurant : - : Himachali, North Indian, Chinese, Street Food, Pancake, Desserts, Tea, Shake : ₹600 for two :  Old Manali, Manali
+The Food Club : - : North Indian, Fast Food : ₹300 for two :  Tibetan Colony, Manali
+Rose Garden Restaurant : - : North Indian : ₹400 for two :  Old Manali, Manali
+La Heim : - : North Indian, Chinese, Rolls, Fast Food, Beverages : ₹500 for two :  Tibetan Colony, Manali
+Cafe Filter Kaapi : - : Street Food, Beverages : ₹150 for two :  Old Manali, Manali
+Apna Dhaba : - : North Indian : ₹300 for two :  Tibetan Colony, Manali
+Tanishq Haweli : - : North Indian, Chinese, South Indian, Street Food, Ice Cream, Beverages, Shake, Sichuan : ₹500 for two :  Kullu, Manali
+Soma Caves : - : North Indian, Continental, Chinese, Pasta, Salad, Sandwich, Pancake, Beverages : ₹1,000 for two :  Aleo, Manali
+Orchard : - : North Indian : ₹1,200 for two :  Aleo, Manali
+Madan Dhaba : New : North Indian, Beverages : ₹300 for two :  Tibetan Colony, Manali
+Hotel Malabar : - : North Indian : ₹1,000 for two :  Kullu, Manali
+D'Jong : - : North Indian, Tibetan, South Indian, Continental, Chinese : ₹1,800 for two :  Tibetan Colony, Manali
+Red Chilly Multicuisine Restaurant : - : Himachali, North Indian : ₹400 for two :  Aleo, Manali
+The Apple House : - : North Indian, Chinese, Fast Food, Beverages : ₹500 for two :  Aleo, Manali
+New Punjabi Dhaba : - : North Indian, Chinese, Seafood, Beverages : ₹400 for two :  Aleo, Manali
+Young Monk Cafe : - : Asian, Continental, Mughlai : ₹800 for two :  Old Manali, Manali
+Shisha Restaurant : - : Chinese, North Indian : ₹600 for two :  Aleo, Manali
+Janta Dhaba : - : North Indian : ₹200 for two :  Old Manali, Manali
+Highway 21 : - : Fast Food : ₹250 for two :  Tibetan Colony, Manali
+Open Hand Cafe : - : North Indian : ₹400 for two :  Old Manali, Manali
+Mahalakshmi Restaurant & Cafe : - : North Indian, South Indian : ₹200 for two :  Aleo, Manali
+Kundan Inn - Hotel And Restaurant : - : North Indian, Chinese, Sandwich, Fast Food, Street Food, Desserts, Tea, Beverages : ₹500 for two :  Aleo, Manali
+Timberwolves Cafe : New : North Indian, Chinese : ₹1,000 for two :  Old Manali, Manali
+Ishaan : - : North Indian : ₹800 for two :  Aleo, Manali
+Vishnu Family Dhaba : - : North Indian, Chinese : ₹300 for two :  Old Manali, Manali
+Blue Elephant : - : Fast Food, Beverages : ₹600 for two :  Old Manali, Manali
+Krishna Dhaba : - : North Indian, Chinese, Street Food, Beverages : ₹300 for two :  Old Manali, Manali
+Manali Highway Dhaba : - : North Indian, Fast Food, Beverages : ₹500 for two :  Tibetan Colony, Manali
+Foodies Nation : - : North Indian : ₹1,000 for two :  Old Manali, Manali
+Red House Cafe : - : North Indian : ₹500 for two :  Old Manali, Manali
+Vaishali Restaurant : - : North Indian, Continental : ₹500 for two :  Aleo, Manali
+Cafe Wanderer : - : Cafe : ₹500 for two :  Old Manali, Manali
+Tandoor Se : - : North Indian : ₹300 for two :  Tibetan Colony, Manali
+Anita Dhaba : - : North Indian, Chinese : ₹300 for two :  Aleo, Manali
+Manali Day Cafe : - : North Indian, Chinese, Fast Food, Shake : ₹350 for two :  Aleo, Manali
+Full On Cafe & Restaurant : - : Chinese, Continental, Thai, North Indian, Fast Food, Desserts, Beverages : ₹1,200 for two :  Tibetan Colony, Manali
+Vipasha Restaurant : - : North Indian : ₹300 for two :  Old Manali, Manali
+Kalath Hot Spring Food Point : - : North Indian, Fast Food : ₹300 for two :  Tibetan Colony, Manali
+ANV Kitchen : - : North Indian : ₹300 for two :  Tibetan Colony, Manali
+Him Homestay Cottage : - : Chinese, North Indian, Desserts, Beverages : ₹350 for two :  Aleo, Manali
+Tamanna Dhaba : - : North Indian, Street Food : ₹300 for two :  Aleo, Manali
+The Surya Cafe : - : North Indian, Chinese : ₹200 for two :  Old Manali, Manali
+Chop King : - : Fast Food : ₹500 for two :  Aleo, Manali
+Tandav Cafe And Restaurant : - : North Indian, Chinese, Biryani, Pizza, Fast Food, Desserts, Bar Food, Beverages : ₹1,200 for two :  Old Manali, Manali
+Leli's Garden : - : North Indian, Chinese : ₹500 for two :  Old Manali, Manali
+Sitaare : - : North Indian, Street Food : ₹400 for two :  Aleo, Manali
+Hot Springs Cafe : - : Himachali, North Indian, Gujarati, Chinese, Pizza, Sandwich, Desserts, Tea : ₹600 for two :  Aleo, Manali
+Cafe Nush : - : North Indian, Chinese, Desserts, Beverages : ₹1,000 for two :  Aleo, Manali
+Chandertal Regency : - : North Indian, Chinese, Street Food, Fast Food, South Indian, Mithai, Desserts : ₹1,100 for two :  Aleo, Manali
+Jhecha Multi Cuisine Restaurant : - : North Indian, Mughlai, Sandwich, Chinese, Fast Food, Beverages : ₹600 for two :  Old Manali, Manali
+Fox Den : - : North Indian, Fast Food, Beverages : ₹1,000 for two :  Tibetan Colony, Manali
+Day & Night Cafe : - : North Indian, Mughlai, Chinese, Fast Food, Street Food, Desserts, Shake : ₹400 for two :  Aleo, Manali
+Quantimo Restoa : - : North Indian : ₹300 for two :  Old Manali, Manali
+Loop Inn : - : North Indian, Chinese, Desserts, Beverages : ₹1,000 for two :  Aleo, Manali
+Fire : - : North Indian, Chinese : ₹300 for two :  Tibetan Colony, Manali
+Thangbucha Fast Food : New : Momos, Chinese, Fast Food : ₹200 for two :  Tibetan Colony, Manali
+Healing Stone Cafe & Restaurant : - : Beverages, Chinese, Pizza, Pasta, Mughlai, Street Food : ₹1,500 for two :  Aleo, Manali
+Symphony : - : Cuisine Varies : ₹900 for two :  Kullu, Manali
+Food & Travel Cafe : - : North Indian, Street Food, Fast Food, Desserts, Beverages : ₹700 for two :  Old Manali, Manali
+Gumpa Monastery Dharamsala : - : Bengali : ₹300 for two :  Tibetan Colony, Manali
+Alchemy House : - : North Indian, Chinese, Fast Food : ₹1,000 for two :  Aleo, Manali
+Santi Bhojonaloy : New : Bengali, Chinese : ₹400 for two :  Tibetan Colony, Manali
+Guru House Cafe And Stay : - : Chinese, Continental : ₹500 for two :  Tibetan Colony, Manali
+Vickram Dhaba : - : North Indian, Fast Food : ₹300 for two :  Old Manali, Manali
+Freshco Manali : - : North Indian : ₹300 for two :  Old Manali, Manali
+Honey House : - : North Indian : ₹200 for two :  Old Manali, Manali
+Chill & Lounge : - : Fast Food : ₹300 for two :  Old Manali, Manali
+Yenni’s Cafe : - : Coffee, Tea, Beverages, Fast Food, Chinese, Desserts : ₹250 for two :  Aleo, Manali
+Chill Om Cafe : - : Israeli, Fast Food : ₹400 for two :  Old Manali, Manali
+Shangrila Cafe : - : North Indian, Chinese, Street Food, Fast Food, Beverages : ₹500 for two :  Tibetan Colony, Manali
+Bliss Villa & Cafe : - : Fast Food, Pizza, North Indian : ₹400 for two :  Aleo, Manali
+OYO 13464 Kanchanikoot : - : North Indian : ₹400 for two :  Tibetan Colony, Manali
+Asha Food Corner : - : Street Food : ₹300 for two :  Old Manali, Manali
+The Village Cafe : New : Fast Food : ₹500 for two :  Aleo, Manali
+Cafe Buddy's Espresso : - : Sandwich, Burger, Pizza, Fast Food : ₹700 for two :  Tibetan Colony, Manali
+Rangoli Cafe : - : Himachali : ₹300 for two :  Old Manali, Manali
+Rockland Inn : - : North Indian, Chinese : ₹1,000 for two :  Aleo, Manali
+Dreams Cafe by Mallu Singh : - : South Indian, Biryani : ₹400 for two :  Kullu, Manali
+Family Punjabi Dhaba : - : North Indian : ₹300 for two :  Tibetan Colony, Manali
+Hot Springs Cafe And Homestay : - : Himachali, North Indian, Gujarati, Beverages : ₹1,000 for two :  Aleo, Manali
+MS Fast Food : - : Fast Food : ₹200 for two :  Aleo, Manali
+Nature Vista : - : North Indian : ₹300 for two :  Aleo, Manali
+Anshika Dhaba : - : North Indian, Chinese, Beverages : ₹350 for two :  Aleo, Manali
+More Than Coffee : - : Coffee, Shake, Beverages, Fast Food, Sandwich, Chinese, Momos : ₹250 for two :  Aleo, Manali
+Super Bake : New : Fast Food, Desserts, Bakery : ₹300 for two :  Tibetan Colony, Manali
+Indian Flavours : - : North Indian, South Indian, Pizza, Chinese, Mughlai, Fast Food, Desserts, Beverages : ₹1,000 for two :  Aleo, Manali
+Sky Garden Manali Cafe : New : North Indian, Chinese, Italian, Continental, Gujarati : ₹500 for two :  Old Manali, Manali
+Aroma : - : South Indian, Beverages : ₹300 for two :  Old Manali, Manali
+Southern Souls Cafe And Eatery : New : South Indian : ₹400 for two :  Old Manali, Manali
+The Mad King’s House & Cafe : - : North Indian, Chinese, Burger, Pizza, Sandwich, Fast Food, Beverages : ₹650 for two :  Old Manali, Manali
+German Bakery : New : Desserts, Bakery, Fast Food : ₹250 for two :  Tibetan Colony, Manali
+Canada Pizza : New : Pizza, Beverages, Fast Food : ₹700 for two :  Aleo, Manali
+Mama Unicorn Bakery : New : Bakery, Desserts : ₹600 for two :  Old Manali, Manali
+Delhi Chat Bhandar : 3.4 : Street Food : ₹200 for two :  Aleo, Manali
+Yumm! Thai Cafe : 4.0 : Thai, North Indian, Beverages : ₹700 for two :  Old Manali, Manali
+Kilta Cafe : 3.5 : Cafe : ₹500 for two :  Aleo, Manali
+Delhi Mughlai : - : North Indian, Mughlai : ₹650 for two :  Aleo, Manali
+Himalayan Dhaba : 4.4 : North Indian : ₹400 for two :  Tibetan Colony, Manali
+Vaango! : 3.8 : South Indian : ₹300 for two :  Aleo, Manali
+Lagom Cafe : 3.5 : Pizza, Pasta, Sandwich, Shake, Beverages : ₹500 for two :  Aleo, Manali
+Bread Of Life The South American Bakery & Cafe : 3.7 : Cafe, Coffee, Beverages : ₹300 for two :  Aleo, Manali
+Mingma's : 3.8 : Cafe, Fast Food : ₹500 for two :  Old Manali, Manali
+Meezo's Kitchen : 3.9 : Pizza, Burger, Sandwich, Fast Food, Desserts, Beverages : ₹1,000 for two :  Aleo, Manali
+Treat : 3.8 : Chinese, Pizza : ₹1,200 for two :  Old Manali, Manali
+Bombay Rasoi : 3.9 : Fast Food, South Indian, Beverages : ₹200 for two :  Tibetan Colony, Manali
+Neel Kanth - The Byke Hospitality : 2.9 : North Indian, Chinese, Beverages, Oriental : ₹800 for two :  Aleo, Manali
+Sun Shine Cafe : 3.5 : North Indian, Chinese, Street Food, Sandwich, Desserts, Beverages : ₹500 for two :  Aleo, Manali
+Manali Top Café : - : North Indian, Continental : ₹300 for two :  Old Manali, Manali
+Lakshmi Tea Stall : - : Beverages, Street Food, North Indian : ₹200 for two :  Old Manali, Manali
+Bring Your Own Vibe - BYOV : New : Fast Food, Street Food, North Indian, Chinese, Beverages, Shake : ₹300 for two :  Old Manali, Manali
+The BootStrap Cafe : - : Fast Food, Chinese, North Indian, Healthy Food, Beverages : ₹500 for two :  Tibetan Colony, Manali
+MH12 Cha Swad : - : Maharashtrian : ₹150 for two :  Tibetan Colony, Manali
+Ladakhi Dhaba : - : Chinese, Nepalese : ₹300 for two :  Tibetan Colony, Manali
+Apple Nest : - : Chinese, North Indian : ₹600 for two :  Aleo, Manali
+Doghari Cafe : - : Fast Food, Beverages, North Indian : ₹400 for two :  Old Manali, Manali
+Chinese Fast Food Corner : - : Chinese : ₹300 for two :  Old Manali, Manali
+Friday's Rooftop Cafe & Library : - : Fast Food, Pizza, Sandwich, North Indian, Street Food, Tea, Beverages : ₹400 for two :  Old Manali, Manali
+Food Blog : - : Chinese, North Indian, Street Food, Fast Food, Tea, Beverages : ₹350 for two :  Aleo, Manali
+Outside In : - : North Indian, Salad, Pizza, Beverages : ₹550 for two :  Tibetan Colony, Manali
+Rocky's Cafe : - : Cafe, Coffee, Beverages, Chinese, Fast Food : ₹500 for two :  Old Manali, Manali
+Offlimits Coffee : - : Cafe, Continental, North Indian, Italian, Chinese, Fast Food, Desserts, Beverages : ₹1,500 for two :  Kullu, Manali
+KFC Food Corner : - : Mughlai, Fast Food : ₹400 for two :  Kullu, Manali
+Cafe Kasol 30 : - : North Indian, Pizza, Pasta : ₹400 for two :  Kullu, Manali
+Dominos : - : Pizza, Fast Food, Desserts : ₹500 for two :  Kullu, Manali
+Sl's Restaurant : - : North Indian, Chinese : ₹300 for two :  Tibetan Colony, Manali
+Bella River Banks : - : North Indian, Fast Food : ₹300 for two :  Kullu, Manali
+Root : - : North Indian, South Indian, Chinese : ₹500 for two :  Kullu, Manali
+Zaika Restaurant : - : North Indian, Chinese : ₹500 for two :  Kullu, Manali
+Grillz Fast Food : - : Fast Food : ₹300 for two :  Kullu, Manali
+Sapna Sweet : - : North Indian, Mithai : ₹250 for two :  Kullu, Manali
+Rasoi Himachali : 3.8 : North Indian : ₹400 for two :  Kullu, Manali
+Zaika Restaurant : 3.2 : North Indian, Chinese, Shake : ₹400 for two :  Kullu, Manali
+Sapna food corner : 3.9 : South Indian, Pizza, North Indian, Continental, Chinese, Burger, Shake : ₹200 for two :  Kullu, Manali
+City Food Stuff : 3.9 : North Indian, Mughlai : ₹250 for two :  Kullu, Manali
+Moon Light Restaurant : 3.9 : North Indian : ₹500 for two :  Kullu, Manali
+Fresh Roast Chicken : 3.9 : Roast Chicken : ₹600 for two :  Kullu, Manali
+Edden By Gastronomica Kitchen & Bar : 3.9 : Mexican, Sandwich, North Indian : ₹1,000 for two :  Old Manali, Manali
+Hot spice : 3.5 : North Indian, Chinese, Fast Food, Beverages : ₹400 for two :  Kullu, Manali
+Manali Meals : 3.9 : North Indian, Chinese, Beverages, Fast Food, Pizza, Street Food : ₹400 for two :  Kullu, Manali
+Walk Around the World : 3.9 : North Indian, Continental : ₹500 for two :  Kullu, Manali
+Cafe Bela : 3.7 : North Indian : ₹300 for two :  Kullu, Manali
+Kullu Manali Food Corner : 3.9 : Roast Chicken : ₹500 for two :  Kullu, Manali
+The Rainbow Cafe : 3.8 : Fast Food, Pizza : ₹1,000 for two :  Kullu, Manali
+Anand Vardhan Resort : - : North Indian, Continental, Sandwich, Chinese, Fast Food, Coffee, Desserts, Beverages : ₹1,000 for two :  Kullu, Manali
+Shri Salasar Dhaba : - : North Indian : ₹300 for two :  Aleo, Manali
+Orchid : New : North Indian : ₹600 for two :  Kullu, Manali
+Cindrella Restaurant : - : North Indian, Chinese, Italian : ₹500 for two :  Aleo, Manali
+Saffron Court Restaurant : - : North Indian : ₹250 for two :  Kullu, Manali
+Forest Bean Cafe : - : Cafe, Coffee, Pizza, Pasta, Sandwich, Chinese, Desserts, Shake : ₹700 for two :  Kullu, Manali
+Hotel Sidhartha : - : Cuisine Varies : ₹200 for two :  Kullu, Manali
+rasoi himachali : - : Cuisine Varies : ₹200 for two :  Kullu, Manali
+Suruchi Bakers : - : Cuisine Varies : ₹200 for two :  Kullu, Manali
+Destination Of Peace : - : Tea, Coffee, Beverages, Fast Food, Burger, Sandwich, Pizza, North Eastern : ₹500 for two :  Kullu, Manali
+The Spice House : - : North Indian, Chinese : ₹500 for two :  Kullu, Manali
+Malana Restaurant : - : Chinese, North Indian : ₹400 for two :  Kullu, Manali
+Rajaani Food Corner : - : North Indian : ₹250 for two :  Kullu, Manali
+Cycler Bar : - : North Indian, Finger Food : ₹800 for two :  Kullu, Manali
+Cheers Cafe : - : North Indian, Chinese : ₹500 for two :  Kullu, Manali
+Sandhya Restaurant : - : North Indian, Chinese : ₹300 for two :  Kullu, Manali
+Royal Delicious : - : North Indian : ₹500 for two :  Kullu, Manali
+River Wing Cafe : - : Himachali, Chinese : ₹400 for two :  Kullu, Manali
+Hot Spice Cafe : - : North Indian : ₹300 for two :  Kullu, Manali
+Throttle Shrottle Moto Cafe : - : Chinese, Sandwich, Pizza, Fast Food, Street Food, Beverages : ₹450 for two :  Aleo, Manali
+Sanjeevny Restaurant : - : Seafood, North Indian, Asian : ₹1,000 for two :  Kullu, Manali
+Beas Restro : - : North Indian, Italian, Mexican, Chinese : ₹600 for two :  Kullu, Manali
+Hot Spice Cafe : - : North Indian : ₹400 for two :  Kullu, Manali
+Musical Island Cafe : - : North Indian, Fast Food, Pizza, Sandwich, Italian, Chinese, Desserts, Beverages : ₹1,000 for two :  Kullu, Manali
+Hidden Forest Cafe And Loungue : - : North Indian, Mughlai, Chinese, Biryani, Pizza, Fast Food, Desserts, Shake : ₹1,000 for two :  Aleo, Manali
+Hot Spice : - : Cuisine Varies : ₹200 for two :  Kullu, Manali
+Rishi Fast Food Corner : - : Cuisine Varies : ₹200 for two :  Kullu, Manali
+Rasoi Himachali : - : Cuisine Varies : ₹200 for two :  Kullu, Manali
+Hotel Nest : - : North Indian, Chinese, Fast Food, Beverages : ₹600 for two :  Kullu, Manali
+Cafe HP 49 : - : Chinese, North Indian : ₹1,000 for two :  Kullu, Manali
+Srishti Momos Corner : - : Momos, Chinese : ₹350 for two :  Old Manali, Manali
+Mountain View : - : North Indian : ₹500 for two :  Kullu, Manali
+Punjabi Tadka : - : Cuisine Varies : ₹200 for two :  Kullu, Manali
+Stoney's Restaurant : - : North Indian : ₹350 for two :  Kullu, Manali
+The Himalayan Bites : - : North Indian, Momos, Chinese, Beverages : ₹250 for two :  Kullu, Manali
+Sanjha Chulha Restaurant : - : North Indian, Continental : ₹500 for two :  Kullu, Manali
+Havemore Restaurant : - : North Indian, Chinese, Sandwich, Street Food, Fast Food, Beverages, Desserts : ₹500 for two :  Kullu, Manali
+Pomona Restaurant : - : North Indian : ₹300 for two :  Kullu, Manali
+Monsoon : - : North Indian, Chinese : ₹1,000 for two :  Kullu, Manali
+Parvati Food Point : - : North Indian, Fast Food : ₹200 for two :  Kullu, Manali
+Humblebee Cafe : - : Chinese, North Indian, Fast Food, Street Food, Shake, Beverages, Desserts : ₹600 for two :  Kullu, Manali
+Khushi Restaurant : - : North Indian : ₹380 for two :  Kullu, Manali
+FFC Dhaba : - : North Indian : ₹400 for two :  Kullu, Manali
+Kebabs N Curries : - : North Indian : ₹1,000 for two :  Kullu, Manali
+Rakha Cafe : - : North Indian : ₹200 for two :  Kullu, Manali
+Young Monk Cafe : - : North Indian, Chinese, Sandwich, Continental, Desserts, Tea, Shake, Beverages : ₹1,000 for two :  Kullu, Manali
+Valentino's Cooking With Herbs : - : Italian : ₹500 for two :  Kullu, Manali
+Maitre Point : - : Italian, Fast Food : ₹500 for two :  Kullu, Manali
+Zorba Restaurant : - : North Indian, Chinese, Continental : ₹500 for two :  Kullu, Manali
+Pizzeria : - : Pizza : ₹400 for two :  Kullu, Manali

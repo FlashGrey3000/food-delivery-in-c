@@ -1,0 +1,492 @@
+The Five Elements : 4.2 : North Indian, Chinese, Pizza, Fast Food : ₹600 for two :  Parijat Nagar, Nashik
+Italian Ecstasy : 4.0 : Italian, Pasta : ₹300 for two :  College Road, Nashik
+GPS 99 Restaurant : 4.3 : South Indian, Chinese, North Indian, Street Food, Biryani, Kebab, Sichuan : ₹450 for two :  Nashik Road, Nashik
+Barrel Tap Brewery : 4.1 : North Indian, Chinese, Sandwich, Fast Food, Biryani, Kebab, Desserts, Beverages : ₹1,500 for two :  Hotel Express Inn, Pathardi Phata, Nashik
+Barbeque Nation : 4.9 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,850 for two :  City Center, Parijat Nagar, Nashik
+HOG - Courtyard by Marriott : 4.4 : North Indian, Modern Indian, Continental, Italian, Asian : ₹1,200 for two :  Courtyard by Marriott Mumbai Naka, Nashik
+Strato - Courtyard By Marriott : 4.7 : North Indian, Bar Food, Kebab, Continental, Rolls, Pizza : ₹2,000 for two :  Courtyard by Marriott Mumbai Naka, Nashik
+Asian Wok And Grill : 4.3 : Asian, Chinese, Seafood, Tibetan, Thai, Korean, Desserts, Sichuan : ₹850 for two :  Anand Wali Goan, Nashik
+Aster : 4.3 : North Indian, Chinese, Fast Food, Continental, Oriental, Beverages, Sichuan : ₹3,500 for two :  Hotel Express Inn, Pathardi Phata, Nashik
+The One Hotel by Five Elements : 3.7 : North Indian, Chinese : ₹1,000 for two :  Parijat Nagar, Nashik
+Brick Wall Bistro : 4.2 : North Indian, Chinese, Continental, Pasta, Biryani, Fast Food, Desserts, Coffee : ₹1,200 for two :  Anand Wali Goan, Nashik
+Le-Bistro By Radisson Blu Hotel & Spa Nashik : 4.0 : Desserts, Fast Food : ₹1,000 for two :  Radisson Pathardi Phata, Nashik
+Angrezi Dhaba : 4.5 : North Indian, Mughlai, Biryani, Chinese, Pasta, Kebab, Seafood, Desserts : ₹1,200 for two :  Pathardi Phata, Nashik
+Nibbles : 4.6 : Fast Food, Beverages, Shake, Wraps, Sandwich, Desserts : ₹400 for two :  Dwarka, Nashik
+Flavor Oasis : 4.4 : Cafe, Coffee, North Indian, Chinese, Salad, Fast Food, Desserts, Beverages : ₹1,000 for two :  College Road, Nashik
+Sula Vineyards : 4.4 : Bar Food, Pizza, North Indian : ₹1,500 for two :  Satpur, Nashik
+Anna's House Of Dosa : 4.8 : South Indian : ₹500 for two :  College Road, Nashik
+Majhali Fine - Dine Seafood Restaurant : 4.4 : North Indian, Seafood, Chinese, Biryani, Continental, Desserts : ₹1,200 for two :  College Road, Nashik
+Barbeque Ville : 3.5 : North Indian : ₹1,100 for two :  Cidco, Nashik
+The Terotale : New : North Indian, Continental : ₹1,000 for two :  Parijat Nagar, Nashik
+Vintage Asia - Courtyard By Marriott : 3.9 : Chinese, Thai, Indonesian, Malaysian, Asian : ₹1,500 for two :  Courtyard by Marriott Nashik, Nashik
+Bigg Burger Bite : 4.0 : Burger, Sandwich, Fast Food, Shake : ₹200 for two :  Parijat Nagar, Nashik
+Coffee Meets Waffle : 4.1 : Cafe, Fast Food : ₹650 for two :  City Center, Parijat Nagar, Nashik
+Cafe TTMM : 3.7 : Cafe, Chinese, Sandwich, Burger, Beverages : ₹400 for two :  Indira Nagar, Nashik
+Origin Barbeque : 4.5 : North Indian, Mughlai, Continental, Chinese, Biryani, BBQ, Desserts : ₹1,000 for two :  Anand Wali Goan, Nashik
+Sadhana Rajeshahi : 3.9 : Maharashtrian, North Indian, Chinese, Beverages : ₹450 for two :  Satpur, Nashik
+Kantara Fast Food : 4.2 : South Indian, Chinese, Pizza, Sandwich, Street Food, Shake, Beverages : ₹300 for two :  Cidco, Nashik
+Mohanlal Ji Thali : 4.3 : Gujarati, North Indian : ₹1,000 for two :  Anand Wali Goan, Nashik
+Nashik Lunch Home : 3.5 : North Indian, Seafood, Chinese, Kebab, Mughlai : ₹1,100 for two :  Anand Wali Goan, Nashik
+Curry Leaves : 4.5 : North Indian, Chinese, Fast Food, Maharashtrian : ₹600 for two :  College Road, Nashik
+Le Bar Salon : - : North Indian, Chinese, Mughlai, Seafood, Fast Food, Salad, Desserts, Beverages : ₹1,500 for two :  Pathardi Phata, Nashik
+Malaka Spice : 3.9 : Asian, Chinese, Thai : ₹1,500 for two :  Veer Sawarkar Nagar, Nashik
+Le Cafetino : 3.9 : Cafe, Coffee, Pizza, Fast Food, Desserts, Shake, Beverages : ₹500 for two :  SSK Solitaire, Satpur, Nashik
+Hotel Wansh : 3.6 : Malwani, North Indian, Mughlai, Seafood, Kebab, Biryani, Chinese : ₹550 for two :  College Road, Nashik
+River Dine Restaurant & Bar : 4.3 : North Indian, Malwani, Oriental, Biryani, Beverages, Desserts : ₹1,600 for two :  College Road, Nashik
+Citrine - The Gateway Hotel : 3.9 : Continental, North Indian, Chinese, Fast Food, Pizza, Asian, Biryani, Desserts : ₹1,800 for two :  The Gateway Hotel, Pathardi Phata , Nashik
+Amar Restaurant : 2.9 : Maharashtrian, North Indian, South Indian, Sandwich, Fast Food, Chinese, Biryani, Desserts : ₹1,000 for two :  Parijat Nagar, Nashik
+Turmeric : 3.9 : Chinese, North Indian, Mughlai, Beverages, Desserts : ₹700 for two :  Satpur, Nashik
+Tamarind By Hotel Triton : 3.9 : North Indian, Chinese, Sandwich, Beverages, Shake, Sichuan : ₹500 for two :  Dwarka, Nashik
+Let's Shawarma : 3.9 : Shawarma, Salad, Kebab : ₹350 for two :  College Road, Nashik
+KFC : 3.9 : Burger, Fast Food, Rolls : ₹450 for two :  College Road, Nashik
+Korean Food By Baristo : 4.4 : Cafe, Coffee, Japanese, Chinese, Pizza, Pasta, Fast Food, Shake : ₹700 for two :  Anand Wali Goan, Nashik
+The Leaf Cafe : New : Chinese, Pasta, Street Food, Fast Food, Burger, Sandwich, Desserts, Beverages : ₹500 for two :  College Road, Nashik
+Four Lost Cats : 4.1 : Sandwich, Wraps, Fast Food, Street Food, Italian, Desserts, Shake, Beverages : ₹500 for two :  College Road, Nashik
+Inara Bar & Kitchen : 4.0 : Bar Food, North Indian, Mughlai, Kebab, Seafood, Chinese, Biryani : ₹1,500 for two :  Nashik Road, Nashik
+Veg Aroma : 3.3 : Maharashtrian, Chinese : ₹1,000 for two :  Anand Wali Goan, Nashik
+Horizon : 3.9 : North Indian, Chinese, Pizza, Fast Food, Desserts, Beverages : ₹1,200 for two :  Indira Nagar, Nashik
+Myfroyoland Premium Frozen Yogurt : 3.9 : Ice Cream, Desserts, Frozen Yogurt : ₹300 for two :  Anand Wali Goan, Nashik
+Divtya Budhlya Wada Restaurant : 3.9 : Maharashtrian : ₹700 for two :  Anand Wali Goan, Nashik
+Aaudumbar Food Corner : 3.0 : Chinese : ₹250 for two :  Cidco, Nashik
+Hotel Mughal Darbar : 4.2 : Mughlai, North Indian : ₹450 for two :  Doodh Bazar, Nashik
+Yahoo Family Restaurant : 3.9 : North Indian, Chinese, Seafood, Biryani, Kebab, Maharashtrian, Desserts, Sichuan : ₹1,000 for two :  Sharanpur, Nashik
+21st Century Bar & Restaurant : 3.2 : North Indian, Shake, Biryani, Mughlai : ₹800 for two :  Sharanpur, Nashik
+The Liquor Embassy : New : Bar Food, North Indian, Pizza, Pasta, Seafood, Desserts : ₹1,500 for two :  College Road, Nashik
+Vill Delicious : 4.0 : North Indian, Chinese, Kebab, Maharashtrian : ₹350 for two :  College Road, Nashik
+Al Arabian Express : 3.4 : Shawarma, North Indian, Rolls, Mughlai : ₹800 for two :  College Road, Nashik
+Asian Wok & Grill : 3.9 : Chinese, Asian, Sichuan, Beverages : ₹1,000 for two :  Upnagar, Nashik
+The Woodfired Eatery : 4.2 : North Indian, Fast Food : ₹600 for two :  College Road, Nashik
+Redchilly's Levels Restaurant : New : North Indian, Mughlai, Chinese, Pizza, Biryani, Fast Food, Oriental, Desserts : ₹1,200 for two :  Satpur, Nashik
+Hotel Kewal By The Five Elements : 4.1 : North Indian, Chinese, Biryani, Pizza, Desserts, Ice Cream, Beverages : ₹400 for two :  Nashik Road, Nashik
+Redchilly's Amar's Pure Veg Restaurant : 4.2 : Maharashtrian, North Indian, South Indian, Fast Food, Street Food, Biryani, Desserts, Beverages : ₹450 for two :  Satpur, Nashik
+Burger King : 4.2 : Burger, Fast Food, Wraps, Desserts, Beverages : ₹400 for two :  College Road, Nashik
+The Second Empire : 4.9 : North Indian, Chinese, Thai, Sichuan : ₹1,200 for two :  College Road, Nashik
+Spice Route : 3.8 : North Indian, Chinese, Oriental, Kebab, Mughlai, Biryani : ₹1,000 for two :  Anand Wali Goan, Nashik
+Sivanta Family Restaurant : 4.4 : North Indian, Maharashtrian : ₹500 for two :  Panchavati, Nashik
+Flying Monk : 3.9 : North Indian, Chinese, Biryani, Kebab : ₹700 for two :  College Road, Nashik
+The Friends Bistro : 3.9 : Cafe, Coffee, Fast Food, Sandwich, Burger : ₹500 for two :  College Road, Nashik
+The Lolo Cafe : 3.9 : Cafe, Coffee, Pizza, Sandwich, Pasta, Fast Food, Shake, Beverages : ₹500 for two :  College Road, Nashik
+Moti Mahal : 2.9 : North Indian, Mughlai, Chinese : ₹800 for two :  Pathardi Phata, Nashik
+Garvaa Biryani : 3.1 : Biryani, North Indian : ₹300 for two :  Mumbai Naka, Nashik
+Rangat Restro Bar - Hotel Panchavati Yatri : 4.1 : North Indian, Beverages : ₹1,000 for two :  Panchavati, Nashik
+The Renaissance Of Modern Cafe : 4.4 : Maharashtrian, Sandwich, Pizza, Desserts : ₹250 for two :  College Road, Nashik
+Zaika by Treat Hotel : 4.2 : North Indian, Oriental, Chinese : ₹1,200 for two :  Indira Nagar, Nashik
+Freesia By Express Inn : 3.9 : North Indian, Biryani, Chinese, Pizza, Sandwich, Kebab, Fast Food, Desserts : ₹1,250 for two :  College Road, Nashik
+Chote Miya Restaurant : 3.3 : North Indian, Mughlai, Chinese, Seafood, Biryani, Desserts : ₹550 for two :  Doodh Bazar, Nashik
+Dessertino Shakes and More : 4.3 : Shake, Pizza, Waffle, Ice Cream, Italian, Coffee, Desserts : ₹550 for two :  Parijat Nagar, Nashik
+Eastern Spice - Bon Vivant : 3.2 : North Indian : ₹1,000 for two :  Bon Vivant, College Road, Nashik
+Ambas Chinese Corner Family Restaurant : 4.0 : Chinese, Sichuan : ₹500 for two :  Panchavati, Nashik
+Cellar Door @ York : - : North Indian, Mughlai, Seafood, Biryani, Chinese, Fast Food : ₹1,000 for two :  Satpur, Nashik
+The Dough Hook : 4.0 : Pizza, Sandwich, Fast Food, Desserts, Beverages : ₹500 for two :  College Road, Nashik
+Dairy Don : 4.4 : Ice Cream, Desserts, Shake, Beverages : ₹300 for two :  College Road, Nashik
+Ammas Tiffin Kaapi : New : South Indian, Desserts, Beverages : ₹250 for two :  College Road, Nashik
+S K Chinese Corner : - : North Indian, Mughlai, Fast Food, Chinese, Rolls : ₹350 for two :  Pathardi Phata, Nashik
+Luscious Layers : 4.1 : Cafe, Coffee, Chinese, Italian, Fast Food, Mexican, Desserts, Beverages : ₹650 for two :  College Road, Nashik
+Royal Family Restaurant : 3.4 : Chinese, Biryani, Kebab : ₹450 for two :  Pathardi Phata, Nashik
+Dil Se Desi : 3.7 : North Indian, Mughlai, Chinese, Seafood, Kebab, Biryani, Sichuan : ₹1,000 for two :  Anand Wali Goan, Nashik
+Mazda Cafe : New : Fast Food, North Indian, Chinese, Desserts, Sichuan : ₹400 for two :  Panchavati, Nashik
+Saheba Restaurant : 4.1 : North Indian, Maharashtrian, Chinese : ₹950 for two :  Doodh Bazar, Nashik
+Banjara Restaurant & Bar : 3.8 : North Indian, Finger Food, Bar Food, Chinese, Shake, Sichuan, Kebab, Sandwich : ₹900 for two :  Parijat Nagar, Nashik
+Hotel Fodni : 4.3 : Maharashtrian, North Indian : ₹300 for two :  College Road, Nashik
+Pizza Hut : 3.9 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Pathardi Phata, Nashik
+Thakur Ji : 3.6 : Gujarati : ₹500 for two :  College Road, Nashik
+Charlie's Deck : 4.1 : Chinese, Pizza, Burger, Sandwich, Fast Food, Beverages : ₹1,000 for two :  College Road, Nashik
+Grill & Chill : 3.7 : Pizza, Burger, Sandwich, Shawarma, Momos, Biryani, Desserts, Beverages : ₹300 for two :  College Road, Nashik
+Albion Bakers And Cafe : 3.1 : Bakery, Fast Food, Shake : ₹500 for two :  College Road, Nashik
+Divtya Budhlya Machi : 4.4 : Maharashtrian, Mughlai : ₹300 for two :  Mumbai Naka, Nashik
+Giriraj Chinese -  since 1999 : 4.1 : Chinese, Sichuan, North Indian, Fast Food : ₹500 for two :  Patil Nagar, Nashik
+Vinayaka Veg - Non Veg : 3.5 : Maharashtrian, Biryani, Mughlai : ₹550 for two :  Anand Wali Goan, Nashik
+Udupi Tadka's Gokul : - : North Indian, South Indian, Chinese, Shake : ₹550 for two :  Mumbai Naka, Nashik
+Samarth Juice Center : 3.9 : Juices, Shake, Beverages, Ice Cream, Desserts : ₹200 for two :  Ravivar Nagar, Nashik
+Shree Rajbhog Thali : 3.9 : Rajasthani : ₹500 for two :  Mumbai Naka, Nashik
+Biryani By Kilo : - : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  College Road, Nashik
+Air Bar : - : Bar Food, North Indian, Mughlai, Seafood, Kebab, Oriental, Italian, Desserts : ₹1,000 for two :  College Road, Nashik
+Pure-Veg Chinese & Pizza Corner : 3.9 : Chinese, Pizza, Fast Food, Momos : ₹300 for two :  Amrutdham, Nashik
+Namastey Nashik : 2.8 : Chinese, North Indian, Fast Food, Pizza, Biryani, Desserts, Beverages : ₹850 for two :  Parijat Nagar, Nashik
+Saanjh - Bon Vivant : 4.3 : North Indian, Continental, Chinese, Salad, Beverages : ₹700 for two :  Bon Vivant, College Road, Nashik
+Kaka Ka Dhaba : 3.4 : North Indian, Chinese, Desserts, Beverages : ₹800 for two :  Indira Nagar, Nashik
+Natural Ice Cream : 4.3 : Ice Cream, Desserts : ₹200 for two :  College Road, Nashik
+Pangat Thali : 4.6 : North Indian : ₹400 for two :  Panchavati, Nashik
+Purohit's Thali : 4.0 : North Indian : ₹500 for two :  Nashik Road, Nashik
+Shri Krishna - Since 1999 : 4.3 : Chinese, Beverages, Juices, Sichuan : ₹600 for two :  College Road, Nashik
+Hotel Surbhi Pure Veg - since 1995 : New : South Indian, Chinese, North Indian, Sandwich, Ice Cream, Shake, Beverages : ₹1,000 for two :  Mumbai Naka, Nashik
+Anna Idli : New : South Indian, Sandwich, Desserts, Shake, Beverages : ₹400 for two :  College Road, Nashik
+Chai Pyala : 3.9 : Tea, Coffee, Shake, Beverages, Pizza, Street Food, Fast Food, Sandwich : ₹350 for two :  Pathardi Phata, Nashik
+Grill Master : 3.9 : Fast Food, Sandwich, Pizza, Beverages, Shake : ₹400 for two :  College Road, Nashik
+Bakes N Brews - Courtyard by Marriott : 4.2 : North Indian, Cafe, Coffee, Healthy Food, Fast Food, Pasta, Desserts, Beverages : ₹800 for two :  Courtyard by Marriott Nashik, Nashik
+99 Pancakes : 4.8 : Pancake, Desserts, Bakery, Cafe, Beverages, Finger Food : ₹650 for two :  College Road, Nashik
+Persia by Inayat Café : 3.3 : Mughlai, North Indian, Chinese, Street Food : ₹700 for two :  Pathardi Phata, Nashik
+Banjos ,College Road : 4.2 : Pizza, Burger, Sandwich, Momos, Fast Food, Street Food, Shake, Beverages : ₹300 for two :  College Road, Nashik
+Fat Tiger : 3.7 : Pizza, Pasta, Burger, Sandwich, Fast Food, Momos, Ice Cream, Beverages : ₹400 for two :  College Road, Nashik
+Manbhavan Premium Thali Restaurant : 3.9 : North Indian, Beverages : ₹600 for two :  College Road, Nashik
+Layerss Cafeteria : 3.2 : Pizza, Burger : ₹350 for two :  Amrutdham, Nashik
+Shree Khodiyar Kathiyawadi Dhaba : 3.6 : Kathiyawadi, North Indian, Street Food, Fast Food : ₹450 for two :  College Road, Nashik
+Hari Om Dhaba : 4.0 : Maharashtrian, North Indian, Chinese : ₹300 for two :  Indira Nagar, Nashik
+The Callisto Multi Cuisine Restaurant : 3.9 : North Indian, Chinese, Continental, Kebab, Sandwich, Pizza, Desserts, Beverages : ₹700 for two :  Anand Wali Goan, Nashik
+KAIYI Fast Food Cafe : 3.7 : Fast Food, Street Food : ₹150 for two :  Panchavati, Nashik
+The Beer Cafe : 3.6 : Bar Food, Beverages : ₹1,000 for two :  College Road, Nashik
+Green Inn : 3.8 : Maharashtrian, North Indian, South Indian, Biryani, Fast Food, Chinese, Juices, Beverages : ₹450 for two :  Jail Road, Nashik
+Star Boys Egg Roll : 2.5 : Fast Food, Rolls, Chinese : ₹300 for two :  Pathardi Phata, Nashik
+Pancharatna - The Gateway Hotel : New : North Indian, Maharashtrian, Fast Food, Beverages : ₹2,500 for two :  The Gateway Hotel, Pathardi Phata , Nashik
+Satu's : - : Mithai, North Indian : ₹300 for two :  College Road, Nashik
+Cake Factory : 3.1 : Bakery, Shake : ₹350 for two :  College Road, Nashik
+Shiv Sagar Pure Veg Restaurant : 3.4 : South Indian, Street Food, Sichuan, Beverages : ₹200 for two :  Cidco, Nashik
+Love At Every Bite Cafe And Cakes : 3.2 : North Indian, Chinese, Fast Food, Bakery, Desserts, Beverages : ₹500 for two :  Nashik Road, Nashik
+Cafe Bollywood : 3.9 : Fast Food, Chinese, South Indian, North Indian, Street Food, Beverages, Shake, Sichuan : ₹400 for two :  College Road, Nashik
+Origin Xpress : New : North Indian, Street Food, Desserts, Beverages : ₹300 for two :  College Road, Nashik
+Hakka Tikka : - : North Indian, Mughlai, Biryani, Kebab, Chinese, Sichuan, Seafood : ₹1,000 for two :  College Road, Nashik
+Inayat Cafe - Since 1958 : 3.9 : North Indian, Chinese, Biryani, Kebab, Mughlai, Fast Food, Beverages, Sichuan : ₹600 for two :  Indira Nagar, Nashik
+Bagga Sweets : 4.1 : Mithai, Street Food, Beverages : ₹150 for two :  Mumbai Naka, Nashik
+Hotel Maharashtra Darbar House Of Biryani : - : Maharashtrian, Biryani, Seafood : ₹900 for two :  College Road, Nashik
+M2H Shawarma : 3.8 : Shawarma, Momos, North Indian, Chinese : ₹400 for two :  College Road, Nashik
+Udupi Spice : 4.0 : South Indian, North Indian : ₹500 for two :  College Road, Nashik
+Hotel Amantran : 3.2 : Maharashtrian, Seafood, Mughlai, North Indian : ₹600 for two :  College Road, Nashik
+The Caves : 2.8 : North Indian, Mughlai, Chinese, Sichuan, Salad, Desserts, Rolls : ₹1,000 for two :  Upnagar, Nashik
+Nandan Thali : 2.5 : Gujarati, North Indian : ₹300 for two :  Jail Road, Nashik
+Cliink : 4.2 : Italian, Chinese, Pizza, Desserts : ₹1,000 for two :  Veer Sawarkar Nagar, Nashik
+McDonald's : 3.7 : Burger, Fast Food : ₹400 for two :  College Road, Nashik
+Sigdi Restaurant : 4.8 : North Indian, Mughlai, Fast Food, BBQ, Kebab, Biryani, Desserts : ₹500 for two :  College Road, Nashik
+Shri Jee Ice Cream : 4.0 : Ice Cream, Desserts, Beverages : ₹150 for two :  Panchavati, Nashik
+Poonam Ice Cream & Kulfi : 3.4 : Ice Cream, Desserts : ₹100 for two :  Dwarka, Nashik
+Brewing Tales : 3.7 : Burger, Pizza, Fast Food, Coffee : ₹250 for two :  College Road, Nashik
+Biggies Burger : - : Burger, American, Fast Food, Wraps, Beverages, Shake : ₹350 for two :  Sharanpur, Nashik
+Vedant Dining Hall : - : North Indian, Mughlai, Biryani, Seafood, Malwani, Chinese, Beverages : ₹1,000 for two :  College Road, Nashik
+Maharashtra Darbar Family Restaurant : - : Biryani, North Indian, Maharashtrian : ₹450 for two :  Dwarka, Nashik
+Solterra - The Gateway Hotel : New : Finger Food, Beverages : ₹1,500 for two :  The Gateway Hotel, Pathardi Phata , Nashik
+Bobby's : 4.0 : North Indian, Chinese, Kebab, Mughlai, Seafood, Biryani, Desserts, Beverages : ₹1,000 for two :  Anand Wali Goan, Nashik
+Thalaivaa South Indian Pure Veg : 2.9 : South Indian, Beverages : ₹300 for two :  Sharanpur, Nashik
+Bamboos Family Garden Restaurant : - : North Indian, Chinese, Continental, Mughlai, Beverages, Desserts, Seafood : ₹1,000 for two :  Nashik Road, Nashik
+Hotel Grand Rio : - : Continental, North Indian, Chinese, Fast Food, South Indian, Oriental, Biryani, Desserts : ₹1,500 for two :  Indira Nagar, Nashik
+Majhali : - : Malwani, Chinese, Mughlai, North Indian, Biryani, Seafood, Desserts : ₹1,000 for two :  Indira Nagar, Nashik
+The Saffrons : 3.9 : North Indian, South Indian, Chinese, Fast Food, Salad, Oriental, Desserts, Beverages : ₹1,100 for two :  College Road, Nashik
+Sugras Foods : - : Malwani, North Indian, Sandwich, Seafood, Beverages : ₹350 for two :  Satpur, Nashik
+Patang Restaurant And Bar : 3.6 : North Indian, Chinese, Mughlai : ₹1,000 for two :  Sharanpur, Nashik
+Great Maratha Veg : 4.3 : Maharashtrian, North Indian : ₹350 for two :  Indira Nagar, Nashik
+Kokni Darbar : 3.3 : Chinese, Mughlai, Maharashtrian, North Indian, Biryani, Seafood, Desserts, Sichuan : ₹550 for two :  Doodh Bazar, Nashik
+Big Kadhi Samosa : - : Street Food : ₹300 for two :  College Road, Nashik
+The Blue Leaf : 3.9 : North Indian, Biryani, Seafood, Kebab, Chinese, Fast Food, Desserts, Shake : ₹1,000 for two :  Anand Wali Goan, Nashik
+Yaari Dosti Family Chinese : 4.5 : Chinese, Sichuan : ₹300 for two :  Cidco, Nashik
+Shri Sai Chinese Corner : - : Chinese, Street Food, Sichuan : ₹300 for two :  Panchavati, Nashik
+The Healthy Eatery : 3.8 : Healthy Food, Pasta, Salad, Sandwich, Italian, Street Food : ₹400 for two :  Indira Nagar, Nashik
+My Bruschettas : 4.1 : Cafe, Italian, Pizza, Sandwich, Pasta, French : ₹500 for two :  College Road, Nashik
+Chav Gomantak Chi : 3.5 : Maharashtrian, North Indian, Kebab, Seafood, Biryani : ₹1,200 for two :  Anand Wali Goan, Nashik
+Hotel Aai : - : Maharashtrian, Beverages : ₹200 for two :  Patil Nagar, Nashik
+The Khamang Village : 4.1 : North Indian, Maharashtrian : ₹500 for two :  Panchavati, Nashik
+Shaan Chinese : - : Chinese, Sichuan : ₹500 for two :  Dwarka, Nashik
+The Flavarico Cafe Shop : 3.5 : Fast Food, Pizza, Burger, Sandwich, Street Food, Tea, Coffee, Beverages : ₹350 for two :  Satpur, Nashik
+Chicago Pizza : - : Pizza, Fast Food, Pasta, Beverages : ₹500 for two :  College Road, Nashik
+Golu's Rolls : - : Rolls, Pizza, Sandwich, Burger, Street Food, Fast Food, Shake, Beverages : ₹300 for two :  Amrutdham, Nashik
+Big Tawa : 3.6 : North Indian, Street Food : ₹300 for two :  College Road, Nashik
+Quarter Pillar Bar And Restaurant : 4.2 : Chinese, North Indian, Mughlai, Seafood, Kebab, Biryani, Desserts : ₹1,050 for two :  Indira Nagar, Nashik
+The Bake Studio - Bon Vivant : 3.4 : Bakery, Desserts, Ice Cream : ₹500 for two :  Bon Vivant, College Road, Nashik
+Shagun Dining Hall : - : North Indian : ₹300 for two :  College Road, Nashik
+Hari Om Dhaba : - : North Indian : ₹200 for two :  College Road, Nashik
+Burger Point : - : Burger, Fast Food : ₹300 for two :  College Road, Nashik
+Nektar - Bon Vivant : - : North Indian, Fast Food, Pizza, Pancake, Waffle, Desserts, Juices, Beverages : ₹600 for two :  College Road, Nashik
+Celebrita Restaurant : 2.4 : North Indian, Chinese : ₹700 for two :  Nashik Road, Nashik
+Cinnamon : New : North Indian, South Indian, Fast Food, Beverages : ₹1,000 for two :  Pathardi Phata, Nashik
+Barbeque Misal : 3.9 : Maharashtrian, South Indian, Street Food, North Indian, Desserts, Shake, Tea, Beverages : ₹300 for two :  College Road, Nashik
+Cake Mania : - : Bakery, Sandwich, Chinese, Sichuan, Street Food, Coffee, Tea, Beverages : ₹300 for two :  College Road, Nashik
+Rezala By Hotel Mazda : 4.3 : North Indian, Mughlai, Seafood, Biryani, Continental, Chinese, Asian, Thai : ₹1,000 for two :  Doodh Bazar, Nashik
+Palm Shells : 4.0 : Continental, North Indian, Chinese, Sichuan : ₹950 for two :  College Road, Nashik
+New Punjab Resto & Bar : 3.7 : Fast Food, North Indian : ₹1,000 for two :  Panchavati, Nashik
+Dessert Villa : 3.8 : Desserts, Shake : ₹200 for two :  College Road, Nashik
+Lite Bite Food Hub : 4.1 : North Indian, South Indian, Street Food, Chinese, Sichuan : ₹350 for two :  College Road, Nashik
+East 5 : 3.6 : Maharashtrian, Chinese, Kebab, Desserts : ₹350 for two :  College Road, Nashik
+Pizza Burst : - : Pizza, Fast Food, Pasta : ₹500 for two :  College Road, Nashik
+Al - Baik : 3.7 : Burger, Wraps, Pizza, Fast Food, Street Food : ₹500 for two :  Dwarka, Nashik
+Amul Ice Cream : 3.9 : Desserts, Ice Cream : ₹250 for two :  Amrutdham, Nashik
+Sandy's Recipe : 3.9 : North Indian, Chinese, Fast Food, Biryani, Sichuan : ₹650 for two :  Nashik Road, Nashik
+Hotel Bigcity : 3.4 : Chinese, North Indian, Maharashtrian, Ice Cream, Desserts, Beverages, Kebab, Salad : ₹800 for two :  College Road, Nashik
+Desi Swaad : 3.7 : South Indian, Chinese, Street Food, Sandwich, Fast Food, Beverages, Sichuan : ₹300 for two :  College Road, Nashik
+Malwan : 3.3 : Maharashtrian, Seafood, North Indian, Beverages : ₹900 for two :  College Road, Nashik
+Hotel Tapasvi : New : North Indian : ₹500 for two :  Indira Nagar, Nashik
+Sadichha Grand Seafood Speciality Restaurant : - : Chinese, Seafood, North Indian, Biryani, Maharashtrian : ₹250 for two :  Indira Nagar, Nashik
+Bappas Pavbhaji : - : Street Food, North Indian : ₹250 for two :  Panchavati, Nashik
+Puffs 'n' Rolls : 3.9 : Bakery, Fast Food : ₹400 for two :  College Road, Nashik
+Cocofit : 3.2 : Juices, Shake, Beverages : ₹350 for two :  College Road, Nashik
+Hotel Seven Heaven : 4.0 : North Indian, Chinese, Sichuan : ₹400 for two :  Pathardi Phata, Nashik
+Fire N Flesh- Pizza & Kabab : New : Pizza, Fast Food : ₹500 for two :  City Center, Parijat Nagar, Nashik
+Hotel Rama Heritage : 4.0 : North Indian, South Indian, Maharashtrian, Kebab, Mughlai : ₹500 for two :  Doodh Bazar, Nashik
+Sagar Sweets : 4.1 : Mithai, Street Food : ₹250 for two :  College Road, Nashik
+Hotel Shriniwas Khandeshi Tadka : 4.0 : Maharashtrian, North Indian : ₹250 for two :  Cidco, Nashik
+Peshwa Family Garden Restaurant : 3.0 : North Indian, Chinese, Maharashtrian, Seafood, Mughlai, Biryani, Beverages : ₹800 for two :  Amrutdham, Nashik
+Khandesh Pure Veg Restaurant : 4.1 : Maharashtrian : ₹200 for two :  Parijat Nagar, Nashik
+Fannito Pizza : - : Pizza, Pasta, Desserts : ₹500 for two :  Pathardi Phata, Nashik
+Hotel Sunrise : 3.2 : North Indian, Chinese, South Indian, Sandwich, Healthy Food, Biryani, Desserts, Beverages : ₹400 for two :  Panchavati, Nashik
+Haji Darbar Restaurant : 3.4 : Mughlai, North Indian, Chinese, Seafood, Biryani, Desserts, Beverages : ₹1,000 for two :  Doodh Bazar, Nashik
+Aditya Mutton Bhakri : 3.6 : Maharashtrian, Mughlai : ₹300 for two :  Cidco, Nashik
+Havmor Havfunn Ice Cream : 4.1 : Ice Cream, Desserts : ₹100 for two :  College Road, Nashik
+Next Level : 4.2 : North Indian, Mughlai, Asian, Thai, Pizza, Fast Food, Desserts : ₹1,200 for two :  College Road, Nashik
+Greenfield's Krishna : 4.3 : South Indian, Chinese, Fast Food, Street Food, Pizza : ₹300 for two :  Indira Nagar, Nashik
+King Momos Center : 3.4 : Momos : ₹300 for two :  Indira Nagar, Nashik
+Greenfield's Krishna : 3.4 : South Indian, Chinese, Fast Food, Street Food, Pizza : ₹350 for two :  College Road, Nashik
+Mishthalay : 3.9 : Mithai, Cafe, Coffee, Beverages : ₹550 for two :  College Road, Nashik
+Peshwa Family Restaurant : - : North Indian, Chinese, Mughlai, Seafood, Maharashtrian, Sichuan, Biryani : ₹550 for two :  Amrutdham, Nashik
+Green Olives Pure Veg : 4.3 : North Indian, Chinese, Thai, Street Food, Beverages, Biryani, South Indian : ₹500 for two :  Anand Wali Goan, Nashik
+The Belgian Waffle Co. : 3.6 : Waffle, Pancake, Desserts, Ice Cream, Beverages : ₹300 for two :  College Road, Nashik
+Jalsa Juice : 3.5 : Beverages : ₹300 for two :  College Road, Nashik
+Hotel Sai Saya : - : North Indian, Chinese, Fast Food, Seafood, Biryani, Beverages, Shake, Sichuan : ₹1,000 for two :  Indira Nagar, Nashik
+Hotel Maitreya : 3.0 : Chinese, Fast Food, Street Food : ₹400 for two :  Panchavati, Nashik
+La Pino'z Pizza : 3.0 : Pizza, Pasta, Italian, Fast Food : ₹600 for two :  College Road, Nashik
+Brownie Point : 4.0 : Bakery, Rolls, Fast Food, Desserts, Beverages : ₹300 for two :  College Road, Nashik
+Green Bakes & Cafe : New : Bakery, Cafe, Coffee, North Indian, Chinese : ₹1,000 for two :  Pathardi Phata, Nashik
+La Terraza The Cafe Bar : 3.8 : Maharashtrian, Shake, Sandwich, Pizza, Burger, Desserts, Beverages, Bar Food : ₹1,000 for two :  College Road, Nashik
+Shahi Durbar Ice Cream Factory : 3.8 : Ice Cream, Desserts, Fast Food, Beverages : ₹400 for two :  College Road, Nashik
+Cafe Milano : 3.8 : Sandwich, Pizza, Burger, Pasta, Fast Food, Street Food, Shake, Beverages : ₹300 for two :  College Road, Nashik
+Gabru Tandoor : 3.9 : North Indian, Kebab : ₹350 for two :  Nashik Road, Nashik
+Chirag Biryani : 3.3 : Biryani, North Indian : ₹150 for two :  Ravivar Nagar, Nashik
+Tejal Restaurant : 3.9 : North Indian, Chinese, Beverages : ₹1,000 for two :  Parijat Nagar, Nashik
+Hotel Grand Al Khatib : 3.0 : Mughlai, Chinese : ₹800 for two :  Doodh Bazar, Nashik
+Sai Chinese : 3.5 : Chinese, Sichuan : ₹250 for two :  Panchavati, Nashik
+Jasper's Indian Soul Food Project : - : Burger, Mexican, Fast Food, Pasta, Beverages : ₹450 for two :  College Road, Nashik
+Momentt by Sayaji : 3.8 : North Indian, Chinese, Bar Food : ₹3,500 for two :  Indira Nagar, Nashik
+The Fries Katta : 4.0 : Fast Food, Burger, Sandwich, Pizza, Street Food, Beverages, Shake, Sichuan : ₹400 for two :  Parijat Nagar, Nashik
+Govind Dine In : - : Maharashtrian, Chinese, North Indian, Kebab, South Indian, Biryani, Ice Cream, Beverages : ₹1,000 for two :  Satpur, Nashik
+Sai Chinese Corner : 4.5 : Chinese, Sichuan, South Indian : ₹400 for two :  Panchavati, Nashik
+Malvan Sea Food Restaurant : 3.3 : Malwani, Seafood, Maharashtrian, North Indian, Mughlai, Chinese, Biryani : ₹1,200 for two :  Satpur, Nashik
+Subway : 3.9 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹500 for two :  College Road, Nashik
+Vaidehi Family Restaurant : 4.2 : North Indian, Chinese, South Indian, Sandwich, Mughlai, Biryani, Desserts, Beverages : ₹1,000 for two :  Sharanpur, Nashik
+Samadhan Juice Center : 3.8 : Beverages, Shake : ₹100 for two :  College Road, Nashik
+Muncheese : 3.9 : Burger, Sandwich, Desserts : ₹400 for two :  College Road, Nashik
+Café Nirvana : 4.4 : Cafe, Coffee, Fast Food, Pasta, Pizza, Burger, Sandwich, Desserts : ₹500 for two :  Veer Sawarkar Nagar, Nashik
+Happy Food Corner : 4.1 : Maharashtrian, Pizza, Fast Food, North Indian, Sandwich, Chinese, Shake, Beverages : ₹1,000 for two :  College Road, Nashik
+Hotel Spicy Tadkaa : 3.8 : North Indian, Chinese, South Indian, Street Food, Beverages, Sichuan : ₹400 for two :  Pathardi Phata, Nashik
+Kulkarni's Pav Bhaji : 3.6 : Street Food : ₹250 for two :  College Road, Nashik
+ShamSundar The Spice Yard : - : Maharashtrian, Chinese, Biryani : ₹200 for two :  College Road, Nashik
+Jayesh Khanawal : 2.7 : Maharashtrian, Chinese, North Indian, Mughlai, Sichuan : ₹450 for two :  Amrutdham, Nashik
+Bhatukali - The Thali Zone : 4.0 : Maharashtrian : ₹300 for two :  Anand Wali Goan, Nashik
+Chakki Bakki : 3.7 : South Indian, Chinese, Pizza, Fast Food, Street Food, Shake, Beverages, Ice Cream : ₹450 for two :  College Road, Nashik
+Dingores Veg Curry : 3.9 : North Indian, Chinese, Maharashtrian, Beverages : ₹450 for two :  Amrutdham, Nashik
+Cafe Right Bite : - : Fast Food, Salad, Sandwich, Pizza, Pasta, Wraps, Beverages : ₹500 for two :  Satpur, Nashik
+Swad Foods : 4.4 : Maharashtrian, North Indian, Chinese, South Indian, Seafood, Sichuan : ₹500 for two :  College Road, Nashik
+Baskin Robbins - Ice Cream Desserts : 3.8 : Ice Cream, Desserts, Beverages : ₹500 for two :  City Center, Parijat Nagar, Nashik
+Mad Over Chicken : 3.8 : American, Fast Food, Pizza, Burger, Beverages : ₹400 for two :  College Road, Nashik
+Imperial Food Hub : 4.0 : South Indian, Fast Food : ₹200 for two :  Sharanpur, Nashik
+Amul Ice Cream : 3.2 : Ice Cream, Desserts : ₹200 for two :  Dwarka, Nashik
+Samarkand : 4.0 : North Indian, Bar Food : ₹1,000 for two :  Indira Nagar, Nashik
+Hotel Swad : 3.1 : Chinese, Fast Food, North Indian, Ice Cream, Beverages : ₹650 for two :  Nashik Road, Nashik
+Hotel Radhakrishna : 3.9 : Seafood, North Indian, Chinese, Biryani : ₹1,200 for two :  Satpur, Nashik
+Pizza Makeline : 4.2 : Pizza, Sandwich, Fast Food, Beverages : ₹450 for two :  College Road, Nashik
+Sub's : 3.6 : Sandwich, Wraps, Salad : ₹400 for two :  College Road, Nashik
+Cafe 5 Spices : 3.6 : Burger, Sandwich, Fast Food, Street Food, Shake, Beverages : ₹500 for two :  College Road, Nashik
+Creamist : 4.1 : Desserts, Ice Cream, Street Food, Fast Food, Beverages, Shake : ₹200 for two :  College Road, Nashik
+Rajwadi Kathiyawadi Restaurant : 3.9 : Kathiyawadi, North Indian, Biryani, Chinese, Beverages : ₹350 for two :  Jail Road, Nashik
+Divya Abhilasha : 3.1 : North Indian, Chinese, Mughlai, Seafood, Sichuan : ₹500 for two :  Parijat Nagar, Nashik
+Rock n' Roll : 4.2 : Rolls, Fast Food, Chinese : ₹150 for two :  Cidco, Nashik
+Hind Kesari : 3.9 : Maharashtrian, Seafood : ₹500 for two :  Panchavati, Nashik
+Hotel Priya : 4.6 : North Indian, South Indian : ₹500 for two :  Panchavati, Nashik
+Apsara Ice Creams : 3.8 : Ice Cream, Desserts : ₹400 for two :  Veer Sawarkar Nagar, Nashik
+Delhi Darbar : 3.4 : North Indian, Chinese : ₹500 for two :  College Road, Nashik
+The Front Page : 3.8 : South Indian, Street Food, Fast Food, Sichuan, Chinese, North Indian, Beverages : ₹600 for two :  Sharanpur, Nashik
+Hotel 24 Seven : 3.4 : Chinese, Fast Food, North Indian, Mughlai : ₹600 for two :  Mumbai Naka, Nashik
+Crazy Cheesy : New : Pizza, Sandwich : ₹300 for two :  College Road, Nashik
+Flutter By Cafe : 3.9 : Cafe : ₹700 for two :  Satpur, Nashik
+Mamacha Mala : 3.2 : Street Food, Maharashtrian : ₹450 for two :  Panchavati, Nashik
+Brew Hub - All That's Coffee : 2.6 : Coffee, Beverages, Shake : ₹400 for two :  College Road, Nashik
+Vedant Dining Hall : 3.9 : Seafood, Maharashtrian, Malwani : ₹300 for two :  Dwarka, Nashik
+Krushnai Vada Pav : 4.1 : Street Food : ₹150 for two :  Panchavati, Nashik
+Hotel Suruchi : - : North Indian, South Indian, Chinese, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Doodh Bazar, Nashik
+Swad Restaurant : 3.6 : North Indian : ₹1,000 for two :  Pathardi Phata, Nashik
+Udpi Shuddh Shakahari : 3.9 : North Indian, Chinese : ₹250 for two :  Panchavati, Nashik
+B' Creamy : - : Beverages, Desserts, Ice Cream, Shake : ₹300 for two :  College Road, Nashik
+Pancham : 3.4 : North Indian, Chinese, Desserts, Beverages, Shake : ₹600 for two :  College Road, Nashik
+Dhinchak Pizza Sandwich : 3.9 : Pizza : ₹550 for two :  College Road, Nashik
+Thunder Point Juice Express : 3.6 : Juices, Shake, Beverages, Ice Cream, Desserts : ₹300 for two :  Dwarka, Nashik
+Cafe Coffee Day : 3.9 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹700 for two :  College Road, Nashik
+Radhika Restaurant : 3.9 : South Indian, Fast Food, Sandwich, Ice Cream, Shake, Beverages, North Indian, Chinese : ₹350 for two :  Panchavati, Nashik
+Pal Dhaba : 3.6 : North Indian, Mughlai, Chinese, Street Food, Fast Food, Desserts, Beverages, Shake : ₹550 for two :  Nashik Road, Nashik
+Pizza Hotline : 3.4 : Pizza, Fast Food : ₹350 for two :  Jail Road, Nashik
+Purnabramha Food Hub : 4.0 : Maharashtrian, North Indian, Beverages : ₹300 for two :  Indira Nagar, Nashik
+Kwality Wall’s Frozen Dessert and Ice Cream Shop : 3.8 : Ice Cream, Desserts : ₹300 for two :  Sharanpur, Nashik
+Shree Gurudatta : 3.7 : Street Food, North Indian : ₹400 for two :  College Road, Nashik
+Maharashtra Darbar House Of Biryani : - : Maharashtrian, Mughlai, Kebab, Biryani : ₹500 for two :  Pathardi Phata, Nashik
+Panchavati Elite : 3.9 : Maharashtrian, Fast Food, South Indian, Chinese, North Indian, Biryani, Desserts, Beverages : ₹1,000 for two :  Satpur, Nashik
+High Gardens : 3.9 : North Indian, Chinese, South Indian, Beverages, Desserts : ₹1,000 for two :  Indira Nagar, Nashik
+Cowboy Cafe : 3.8 : Continental, Thai, Mexican : ₹800 for two :  Meuse Jupiter Hotel Pathardi Phata, Nashik
+Shilpa Sandwiches And Burgers : 3.2 : Sandwich, Burger, Street Food : ₹300 for two :  Panchavati, Nashik
+Mughal's Hotel : 3.6 : North Indian, Mughlai, Seafood, Desserts : ₹400 for two :  College Road, Nashik
+Mantra Masala : 3.7 : North Indian, Chinese, Mughlai, Seafood, Biryani : ₹800 for two :  Pathardi Phata, Nashik
+Bhole's Rock & Rolls : 3.7 : Rolls, Street Food, Biryani, Coffee, Shake, Sichuan : ₹350 for two :  College Road, Nashik
+Relax Coffee : 4.0 : Cafe, Coffee, Pizza, Sandwich, Fast Food, Shake, Beverages : ₹550 for two :  College Road, Nashik
+Kebab Corner : 3.1 : Chinese, Sichuan, North Indian, Shawarma, Kebab : ₹350 for two :  Indira Nagar, Nashik
+Noodle Shoodle Family Restaurant : - : North Indian, Chinese, Sichuan : ₹300 for two :  Indira Nagar, Nashik
+Hotel Happy Times : 3.6 : North Indian, Chinese, Mughlai, Kebab, Desserts, Ice Cream, Shake, Beverages : ₹1,400 for two :  Mumbai Naka, Nashik
+Coffee Club : 3.3 : Beverages, Coffee : ₹350 for two :  College Road, Nashik
+Grill Punjab : 3.7 : North Indian, Chinese, BBQ, Kebab, Mughlai, Sichuan : ₹700 for two :  College Road, Nashik
+Chai Tapri : 3.6 : Cafe, Fast Food, Tea : ₹150 for two :  College Road, Nashik
+Khau Galli : - : North Indian, Chinese, Fast Food, Maharashtrian, Desserts, Beverages : ₹450 for two :  Panchavati, Nashik
+Masalaz One Family Restaurant : 4.1 : North Indian, Mughlai, Biryani, Chinese, Mangalorean, Continental, Desserts, Beverages : ₹1,200 for two :  Satpur, Nashik
+Jai Malhar Family Restaurant : - : Maharashtrian, North Indian, South Indian, Chinese, Street Food, Beverages, Sichuan : ₹500 for two :  Panchavati, Nashik
+Little Comets Cafe : 3.9 : Bubble Tea, Tea, Beverages, Sandwich, Pizza : ₹300 for two :  College Road, Nashik
+Hotel Amantran : 3.8 : North Indian, Mughlai, Biryani, Chinese, Sichuan : ₹500 for two :  Satpur, Nashik
+Greenyard Family Diner : 3.5 : North Indian, Chinese, Mughlai, Biryani : ₹550 for two :  Anand Wali Goan, Nashik
+Veg Curry : 3.4 : North Indian, Chinese, Street Food : ₹500 for two :  Veer Sawarkar Nagar, Nashik
+Radhika : 3.8 : North Indian, Chinese, South Indian, Beverages, Fast Food, Juices, Shake : ₹500 for two :  Satpur, Nashik
+Le Garlic Family Restaurant : 4.1 : North Indian, Chinese, Mughlai, Sichuan : ₹300 for two :  Dwarka, Nashik
+Hunger N Thirst : 4.1 : North Indian, Street Food, Beverages, Sichuan : ₹250 for two :  Indira Nagar, Nashik
+Burger Point : - : Burger, Fast Food : ₹400 for two :  College Road, Nashik
+Garden Pavbhaji : 3.6 : Street Food, North Indian : ₹300 for two :  Indira Nagar, Nashik
+Hotel Vandan : - : Maharashtrian, Biryani : ₹200 for two :  Veer Sawarkar Nagar, Nashik
+Udupi Tadka : 3.0 : North Indian, Chinese, South Indian, Pizza, Sandwich, Ice Cream, Shake, Beverages : ₹350 for two :  Dwarka, Nashik
+Smokin' Joe's : - : Pizza, Fast Food : ₹300 for two :  College Road, Nashik
+The Goan Street : 3.2 : Biryani : ₹300 for two :  Sharanpur, Nashik
+Lollypop Restaurant : 3.4 : Chinese, North Indian, Mughlai, Sichuan : ₹400 for two :  Parijat Nagar, Nashik
+Pokket Cafe : 2.9 : Fast Food, Pizza, Sandwich, Street Food, Desserts, Ice Cream, Beverages : ₹400 for two :  Dwarka, Nashik
+Vicky Sagar Restaurant & Bar : 3.9 : North Indian, Chinese, BBQ, Kebab, Biryani, Sichuan, Beverages : ₹600 for two :  College Road, Nashik
+Hotel Vrundavan : 4.6 : North Indian, Maharashtrian, Fast Food, Street Food, Chinese, Beverages : ₹1,000 for two :  Jail Road, Nashik
+Shahi Darbar : 3.4 : Biryani : ₹300 for two :  Panchavati, Nashik
+MD Chinese : 2.8 : Chinese, Sichuan : ₹200 for two :  Panchavati, Nashik
+Brotein Bistro : - : Cafe, Coffee, Healthy Food, Salad, Shake, Beverages : ₹550 for two :  College Road, Nashik
+Madhu's Hungger care Tandoori bites : 3.3 : Chinese, Momos, North Indian, Rolls, Fast Food, Beverages : ₹350 for two :  College Road, Nashik
+Pav Bhaji Panda : 3.4 : North Indian, Chinese, South Indian, Desserts, Biryani, Sandwich : ₹500 for two :  Indira Nagar, Nashik
+Suvarna's Thali : 4.0 : Maharashtrian, Rajasthani : ₹1,200 for two :  Panchavati, Nashik
+Cafe Panchayat : 3.4 : Desserts, Beverages : ₹350 for two :  College Road, Nashik
+Rajasthani Rajwadi Thal : 3.9 : Rajasthani : ₹500 for two :  Panchavati, Nashik
+Pait Pooja : - : North Indian, Mughlai, Chinese, Shake, Fast Food, Seafood, Street Food, Beverages : ₹450 for two :  Dwarka, Nashik
+Petpooja Mutton Bhakri : 3.9 : Maharashtrian, North Indian : ₹500 for two :  Patil Nagar, Nashik
+Shawarma Bite's : 3.6 : Fast Food, Lebanese, Salad : ₹350 for two :  Dwarka, Nashik
+Hunger Wolf : - : Pizza, Fast Food, Shawarma, North Indian, Chinese, Momos : ₹400 for two :  College Road, Nashik
+The Suburb Cafe : 3.7 : Cafe, Fast Food : ₹500 for two :  College Road, Nashik
+Rajyog Udupi Corner Pure Veg : 3.7 : South Indian, Maharashtrian, Fast Food, North Indian, Chinese, Biryani, Desserts, Beverages : ₹600 for two :  Mumbai Naka, Nashik
+CP4 Restro Lounge : 3.9 : North Indian, Chinese, Mughlai, Fast Food, Rolls, Beverages : ₹700 for two :  Mumbai Naka, Nashik
+Swara Mess & Restaurant : 3.7 : North Indian : ₹250 for two :  Panchavati, Nashik
+The News Cafe : - : Cafe, Fast Food, Desserts, Beverages, Coffee : ₹500 for two :  College Road, Nashik
+Udupi Tadka - The Marion : 3.9 : North Indian, South Indian, Chinese, Pizza, Sandwich, Salad, Shake, Beverages : ₹500 for two :  Pathardi Phata, Nashik
+The Indian Kitchen : 4.0 : South Indian, North Indian, Chinese, Beverages, Sichuan : ₹300 for two :  Parijat Nagar, Nashik
+Mahalaxmi Sweets : 3.8 : Mithai, Street Food : ₹150 for two :  Panchavati, Nashik
+Cafe Junction And Ice Cream Parlour : 3.8 : Ice Cream, Fast Food, Beverages, Shake : ₹350 for two :  Indira Nagar, Nashik
+Swarajya Chinese & Pav Bhaji Corner : - : Chinese, Street Food, North Indian : ₹300 for two :  Panchavati, Nashik
+Matka Khichdi : - : North Indian, Fast Food : ₹400 for two :  Mumbai Naka, Nashik
+Toccata : 4.1 : Bakery, Desserts, Fast Food : ₹300 for two :  College Road, Nashik
+V Bakers : 3.5 : Bakery : ₹300 for two :  Amrutdham, Nashik
+Vision Cafe : 3.9 : Fast Food : ₹200 for two :  Indira Nagar, Nashik
+Hotel New Uttam : - : North Indian, Mughlai, Seafood, Biryani, Chinese, Sandwich, Bar Food : ₹1,000 for two :  Panchavati, Nashik
+Bakers Craft : 2.9 : Bakery, Desserts : ₹400 for two :  Parijat Nagar, Nashik
+Shree Swami Samarth Veg Chinese : 3.7 : Chinese, Fast Food, Beverages, Desserts, Shake, Sichuan, Salad, Street Food : ₹350 for two :  College Road, Nashik
+Original Shri Krishna Veg Restaurant : 3.8 : Fast Food, Street Food, Chinese, South Indian : ₹250 for two :  College Road, Nashik
+Shake O Holic : 3.9 : Beverages, Shake : ₹350 for two :  College Road, Nashik
+Purple Yard : 3.9 : Fast Food, North Indian, Street Food, Desserts : ₹400 for two :  College Road, Nashik
+Nashik Coffee House : 3.9 : South Indian, North Indian, Beverages, Maharashtrian, Chinese, Salad, Desserts : ₹300 for two :  Parijat Nagar, Nashik
+Asha Lassi Since 1956 : 4.2 : Beverages, Desserts, Ice Cream, Shake : ₹200 for two :  Ravivar Nagar, Nashik
+Swadyog : 3.8 : North Indian : ₹1,000 for two :  College Road, Nashik
+Chopsticks Chinese And Fast Food : 4.0 : Chinese, Fast Food, North Indian : ₹350 for two :  Sharanpur, Nashik
+Al Quba : 3.7 : Mughlai, Chinese, North Indian, Shawarma : ₹350 for two :  Doodh Bazar, Nashik
+Brewbakes : 3.8 : Cafe, Fast Food, Desserts, Beverages : ₹550 for two :  College Road, Nashik
+Samarth Chinese Corner : 3.8 : Chinese : ₹200 for two :  Veer Sawarkar Nagar, Nashik
+Hotel Yelkot : 4.2 : Maharashtrian, North Indian : ₹400 for two :  College Road, Nashik
+Amul Ice Cream Parlour : 3.7 : Ice Cream : ₹250 for two :  Indira Nagar, Nashik
+Punjabi Tadka Parcel Point : 3.6 : North Indian, Mughlai, Sichuan, Chinese : ₹500 for two :  Nashik Road, Nashik
+The Hunger Lab : - : Pizza, Sandwich, Burger, Beverages : ₹300 for two :  College Road, Nashik
+Shree Sadguru Juice Center : - : Beverages, Desserts, Shake, Salad : ₹200 for two :  College Road, Nashik
+Ruchi Restaurant : 3.9 : South Indian, North Indian, Chinese, Street Food, Beverages : ₹450 for two :  Panchavati, Nashik
+Nawabi Kebab Junction : 4.0 : North Indian, Chinese : ₹600 for two :  College Road, Nashik
+Jai Gajanan Food Corner : 4.1 : Maharashtrian : ₹200 for two :  Indira Nagar, Nashik
+Maharaja Loni Spanj Dosa : 3.5 : South Indian : ₹300 for two :  Patil Nagar, Nashik
+New Garden Pavbhaji : - : Street Food, North Indian : ₹200 for two :  Indira Nagar, Nashik
+The Egg Break : - : Fast Food, Sandwich, Beverages : ₹200 for two :  Indira Nagar, Nashik
+Hotel Sai Kiran : 3.9 : North Indian : ₹300 for two :  Pathardi Phata, Nashik
+Tandoori Bites : 3.9 : Chinese, North Indian : ₹400 for two :  Cidco, Nashik
+C3 Cafe : 3.2 : Shake, Beverages : ₹300 for two :  Parijat Nagar, Nashik
+West In : 3.2 : North Indian, Chinese, Seafood, Mughlai, Beverages, Sichuan : ₹500 for two :  Amrutdham, Nashik
+Chai Bus Cafe : 3.8 : Fast Food, Shake, Sandwich, Chinese, Street Food, Beverages, Sichuan : ₹300 for two :  Panchavati, Nashik
+Wake N Bake Waffles : 3.8 : Desserts, Waffle, Pancake, Bakery, Ice Cream : ₹400 for two :  College Road, Nashik
+Dosa Therapy : 3.4 : South Indian, Fast Food, Beverages : ₹400 for two :  College Road, Nashik
+Sadguru Veg Family Restaurant : 3.3 : North Indian, Chinese : ₹500 for two :  Mumbai Naka, Nashik
+Maratheshahi Darbar : 4.1 : Maharashtrian, North Indian, Mughlai, Seafood, Kebab, Chinese, Asian, Continental : ₹1,200 for two :  College Road, Nashik
+Khana Khazana : 4.0 : North Indian, Chinese, Sichuan : ₹450 for two :  College Road, Nashik
+Chote Miya Restaurant : 3.6 : North Indian, Biryani : ₹1,000 for two :  College Road, Nashik
+Chai Ketali : 3.5 : Tea, Fast Food, Beverages, Pasta, Desserts, Sandwich, Pizza, Street Food : ₹250 for two :  College Road, Nashik
+Hotel Shaolin : 3.3 : Chinese, North Indian, Mughlai, Sichuan : ₹750 for two :  College Road, Nashik
+Veg Lollypop Chinese Restaurant : 3.7 : Chinese, Sichuan, Momos : ₹350 for two :  Parijat Nagar, Nashik
+Rama Fast Food : 3.6 : North Indian, South Indian, Chinese, Sichuan : ₹700 for two :  Doodh Bazar, Nashik
+La Trio Pizza : New : Fast Food, Pizza, Beverages : ₹400 for two :  Parijat Nagar, Nashik
+Living Liquids : - : Beverages, Ice Cream, Tea, Fast Food, Shake : ₹300 for two :  Anand Wali Goan, Nashik
+Hotel Pragati : - : North Indian, South Indian, Chinese, Fast Food, Beverages : ₹550 for two :  Panchavati, Nashik
+Lai Bhari : 3.9 : Maharashtrian : ₹300 for two :  Indira Nagar, Nashik
+Meera Bar & Restaurant : New : North Indian, Maharashtrian : ₹750 for two :  Satpur, Nashik
+Garden Restaurant : 3.0 : North Indian, Maharashtrian, Seafood, Chinese, Biryani, Sichuan : ₹500 for two :  Panchavati, Nashik
+Chavishta J One : 3.9 : Chinese, North Indian, Maharashtrian, Seafood, Biryani, Street Food : ₹550 for two :  Satpur, Nashik
+TRC The Reality Cafe : 3.2 : Fast Food, Chinese, Beverages, Desserts, Sichuan : ₹300 for two :  Indira Nagar, Nashik
+Royal Darbar : 3.9 : North Indian, Mughlai, Chinese, Beverages, Sichuan : ₹500 for two :  Dwarka, Nashik
+Divyas Dosa Corner : 3.9 : South Indian, Street Food : ₹250 for two :  Cidco, Nashik
+Ice N Spice : 3.0 : Seafood, Chinese, Mughlai, Sichuan, Biryani : ₹400 for two :  Dwarka, Nashik
+Hotel Govinda : 3.9 : North Indian, Chinese : ₹300 for two :  Dwarka, Nashik
+Swami Fast Food & Restaurant : 3.7 : Rolls, Chinese, Street Food, Sichuan, Shake, Coffee : ₹300 for two :  Mumbai Naka, Nashik
+Sai Chinese Corner : 3.2 : Chinese : ₹250 for two :  Deolali, Nashik
+Haldiram's Restaurant : 3.2 : North Indian, Fast Food, South Indian, Street Food, Healthy Food, Biryani, Mithai, Beverages : ₹400 for two :  Nashik Road, Nashik
+Haldiram’s Sweets and Namkeen : 3.7 : Mithai, Desserts, North Indian : ₹300 for two :  Nashik Road, Nashik
+Sadhana Village : 3.9 : North Indian, Maharashtrian, Continental : ₹500 for two :  Satpur, Nashik
+Desert Ship : 3.9 : North Indian, Chinese, Mughlai, BBQ, Bar Food : ₹1,400 for two :  Satpur, Nashik
+Freesia Resort By Express Inn : 3.9 : North Indian, Chinese, Pizza, Sandwich, Italian, Seafood, Desserts, Beverages : ₹1,900 for two :  Satpur, Nashik
+# Knowhere : 3.8 : Maharashtrian, North Indian, Mughlai, Chinese, Biryani, Italian, Fast Food, Beverages : ₹1,300 for two :  Satpur, Nashik
+Amber Multicuisine by Palm Springs : 3.8 : North Indian, Oriental, Italian, Continental : ₹1,000 for two :  Veer Sawarkar Nagar, Nashik
+Amchi Mati Amchi Manas : 3.7 : North Indian, Chinese, Fast Food, Beverages, Street Food : ₹500 for two :  Nashik Road, Nashik
+Hotel Mahasagar : - : North Indian, South Indian, Street Food, Beverages : ₹600 for two :  Deolali, Nashik
+Hotel Maharaja Kathiyawadi : 3.9 : Maharashtrian, Fast Food, South Indian, Chinese, Street Food, Gujarati : ₹300 for two :  Panchavati, Nashik
+Tasty Bite : 4.1 : Chinese, Fast Food, Sichuan : ₹250 for two :  Nashik Road, Nashik
+Shri Chintamani : 3.9 : North Indian, South Indian, Maharashtrian : ₹300 for two :  Nashik Road, Nashik
+Domino's Pizza : New : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  Satpur, Nashik
+Ibiza : 3.9 : Chinese, North Indian : ₹500 for two :  Satpur, Nashik
+New Hotel Rasoi : - : North Indian, Chinese, Fast Food, South Indian : ₹400 for two :  Nashik Road, Nashik
+Shalimar Restaurant : New : North Indian, Chinese, Biryani, Sichuan : ₹1,000 for two :  Nashik Road, Nashik
+Caves County Resort : 3.4 : North Indian, Chinese, Kebab : ₹1,000 for two :  Pathardi Phata, Nashik
+Snowbite : 3.1 : Chinese, Sichuan, Street Food : ₹300 for two :  Nashik Road, Nashik
+The Cobble Street : 4.0 : North Indian, Chinese, Italian : ₹1,800 for two :  Satpur, Nashik
+Biryani Hub : 4.1 : Biryani : ₹250 for two :  Nashik Road, Nashik
+Gavran Chull : 3.5 : North Indian, Maharashtrian, Chinese, Biryani : ₹200 for two :  Deolali, Nashik
+Hotel Ramakrishna : 2.3 : North Indian, Chinese, South Indian : ₹400 for two :  Pathardi Phata, Nashik
+Hotel Sanskruti : - : North Indian, Maharashtrian, Chinese, Beverages, Desserts, Salad : ₹700 for two :  Satpur, Nashik
+Athavan Urban Dhaba : 4.1 : Maharashtrian, Chinese, North Indian, Seafood, Mughlai, Biryani, Kebab, Street Food : ₹600 for two :  Nashik Road, Nashik
+Shyam Sundar : 4.0 : Fast Food, Street Food : ₹400 for two :  Satpur, Nashik
+Hotel Samrat : New : BBQ, Biryani, Chinese, Grilled Chicken, Kebab, Maharashtrian, Mughlai, North Indian : ₹500 for two :  Deolali, Nashik
+The Bake World : 2.8 : Bakery : ₹300 for two :  Nashik Road, Nashik
+Hotel Radhika : 4.0 : North Indian, South Indian, Mughlai, Seafood, Maharashtrian : ₹400 for two :  Nashik Road, Nashik
+The Eateria By Metkar's : - : Kebab, Maharashtrian, North Indian, Chinese, Beverages : ₹500 for two :  Veer Sawarkar Nagar, Nashik
+Taj Restaurant : - : Mughlai, Chinese : ₹400 for two :  Nashik Road, Nashik
+Hotel Pavan : - : North Indian, Shake : ₹300 for two :  Nashik Road, Nashik
+Sai Leela Family Restuarant : 4.0 : Chinese, Maharashtrian, North Indian : ₹600 for two :  Jail Road, Nashik
+The Momo Factory : 4.6 : Momos, Chinese, Beverages, Sichuan : ₹400 for two :  Nashik Road, Nashik
+Sierra Vista : 4.3 : Salad, Continental, Pizza, Pasta, North Indian, Asian, Desserts : ₹1,700 for two :  Satpur, Nashik
+Sainath Pavbhaji & Chinese Center : 4.0 : Chinese, North Indian, Street Food : ₹250 for two :  Nashik Road, Nashik
+Sufiaana : 4.0 : North Indian, Mughlai, Continental, Oriental, Desserts, Beverages : ₹1,000 for two :  Satpur, Nashik
+Karishma Dhaba : 4.1 : North Indian, Chinese, Biryani, Street Food, Mughlai, Seafood, Beverages : ₹900 for two :  Cidco, Nashik
+Sardar Restaurant : 4.3 : North Indian, Mughlai, Biryani, Maharashtrian, Chinese, Seafood, Desserts : ₹700 for two :  Nashik Road, Nashik
+New Sher-e-Punjab Restaurant : - : North Indian : ₹350 for two :  Panchavati, Nashik
+Hotel Sadguru : 3.9 : North Indian, South Indian : ₹450 for two :  Nashik Road, Nashik
+Shanghai Family Restaurant : 4.1 : Chinese, Biryani, North Indian, Maharashtrian, Mughlai, Kebab, Sichuan : ₹450 for two :  Deolali, Nashik
+Sandip Mutton Bhakri : 3.9 : North Indian, Mughlai : ₹400 for two :  Jail Road, Nashik
+Navratna Pure Veg Family Restaurant : 2.9 : North Indian, South Indian, Fast Food, Shake : ₹300 for two :  Deolali, Nashik
+Poonam Pavbhaji And Chinese Centre : 4.1 : Chinese, Street Food : ₹250 for two :  Nashik Road, Nashik
+Regenta Resort : 3.4 : North Indian, Mughlai, Biryani : ₹1,000 for two :  Satpur, Nashik
+Devendra Pavbhaji and Pulav Cente : - : Street Food, North Indian : ₹200 for two :  Nashik Road, Nashik
+Gazzebo The World Of Fine Veg : 4.1 : North Indian, Chinese, Biryani, Kebab, Desserts, Beverages, Sichuan : ₹500 for two :  Deolali, Nashik
+Bharkadevi Icecream Cafe : - : Ice Cream, Desserts, Beverages : ₹350 for two :  Nashik Road, Nashik
+Cake Factory and Cafe : 3.6 : Bakery, Desserts : ₹200 for two :  Nashik Road, Nashik
+Pushpavihar Hotel : 3.6 : North Indian, South Indian : ₹200 for two :  Deolali, Nashik
+Bhagur County : 3.9 : North Indian : ₹1,000 for two :  Pathardi Phata, Nashik
+Hotel Grape City : 3.8 : North Indian, Chinese, Mughlai, Continental, Biryani, Fast Food : ₹700 for two :  Nashik Road, Nashik
+Badshah Cold Drink House : 3.9 : Street Food, Fast Food, Desserts, Shake, Beverages : ₹300 for two :  Nashik Road, Nashik
+Hotel Good Karma : - : North Indian, Chinese, Street Food : ₹350 for two :  Nashik Road, Nashik
+Shalimar Restaurant : 4.0 : North Indian, Chinese, Mughlai, Sichuan, Kebab, Seafood : ₹600 for two :  Nashik Road, Nashik
+Nakshtra's Chinese Corner : 2.9 : Chinese, Sichuan : ₹300 for two :  Nashik Road, Nashik
+New Ambika Sweets : 4.4 : Mithai, Street Food : ₹150 for two :  Satpur, Nashik
+Sai Jagat : 3.9 : North Indian, Chinese, South Indian, Maharashtrian, Street Food, Beverages : ₹400 for two :  Nashik Road, Nashik
+Pizza Burst : 3.4 : Pizza : ₹300 for two :  Amrutdham, Nashik
+Bhau's Chinese Restaurant : 3.7 : Chinese, Sichuan : ₹300 for two :  Nashik Road, Nashik
+Hotel Mathura : - : North Indian, South Indian, Chinese, Street Food, Fast Food : ₹600 for two :  Nashik Road, Nashik
+Cafe 99 : 3.0 : Chinese, Fast Food, Beverages : ₹300 for two :  Deolali, Nashik
+Om Kutchi Dabeli : 3.0 : Street Food : ₹150 for two :  Nashik Road, Nashik
+Leafy Veg Restaurant : 3.2 : North Indian, Chinese, Maharashtrian, Pasta, Pizza, Beverages, Desserts, Shake : ₹650 for two :  Nashik Road, Nashik
+Leafy Veg Restaurant : 3.7 : North Indian, Chinese, Maharashtrian, Pasta, Pizza, Beverages, Desserts, Shake : ₹650 for two :  Nashik Road, Nashik
+The Chinese Nook : 3.5 : Chinese, Sichuan : ₹300 for two :  Jail Road, Nashik
+Sai Pavbhaji & Nashta Center : 3.9 : Chinese, Street Food, South Indian, Fast Food, Beverages, Sichuan : ₹250 for two :  Jail Road, Nashik
+Café 432 : - : Coffee, South Indian, North Indian, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Deolali, Nashik
+Ekdum Authentic : 3.3 : South Indian, Beverages : ₹200 for two :  Nashik Road, Nashik
+Sai Family Restaurant : 3.1 : Chinese, Sichuan : ₹250 for two :  Jail Road, Nashik
+Hotel Raj Darbar : 3.4 : North Indian, Chinese, Maharashtrian, Biryani, Sichuan : ₹350 for two :  Deolali, Nashik
+Hotel Express Resto and Bar : 3.9 : North Indian, Finger Food, Continental : ₹900 for two :  Pathardi Phata, Nashik
+Babaj Chinese Corner : 3.7 : Chinese, Sichuan : ₹300 for two :  Jail Road, Nashik
+Kool Bites : 3.7 : North Indian, Pizza, Street Food, Fast Food : ₹400 for two :  Amrutdham, Nashik
+Goli Vada Pav No. 1 : 2.7 : Fast Food, Street Food, Maharashtrian : ₹300 for two :  Deolali, Nashik
+South Indian Foods : 3.8 : South Indian, North Indian : ₹100 for two :  Deolali, Nashik

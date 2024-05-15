@@ -1,0 +1,369 @@
+Scottish Pub : 4.4 : Finger Food : ₹700 for two :  St. Marks Road, Bangalore
+Moglu - The Edgy Veggie Restaurant : 3.7 : Bakery, Modern Indian, Desserts, Beverages, American, Coffee, Sandwich, Pasta : ₹1,800 for two :  St. Marks Road, Bangalore
+Alchemy : 4.3 : Bar Food, North Indian, Seafood, Biryani, Desserts, Beverages : ₹2,500 for two :  The Chancery Pavilion, Residency Road, Bangalore
+Over Coffee Cafe & Wine Bar : 4.7 : European, Italian, Continental, Cafe, Coffee : ₹1,200 for two :  Lavelle Road, Bangalore
+Kling Brewery : 4.2 : Continental, European, Asian, Chinese, North Indian, South Indian, Seafood : ₹1,500 for two :  Church Street, Bangalore
+Muro : 4.1 : Thai, Cantonese : ₹3,000 for two :  Church Street, Bangalore
+Just BLR : 4.4 : North Indian, Chinese, Biryani, Beverages : ₹2,500 for two :  Brigade Road, Bangalore
+Dishkeyaun : 4.0 : Modern Indian, Biryani, Desserts : ₹2,000 for two :  Forum Rex Walk, Bangalore
+Flo : 4.2 : Asian, Thai, Continental, Finger Food, Sushi, Desserts, Beverages : ₹1,900 for two :  Church Street, Bangalore
+By Chance : 4.1 : Italian, Continental : ₹1,500 for two :  Brigade Road, Bangalore
+Toca Brigade : 4.0 : Chinese, Fast Food, Steak, Pasta, Asian, Biryani, Desserts : ₹1,200 for two :  Brigade Road, Bangalore
+Long Boat Brewing Co. : 4.3 : Asian, Chinese, North Indian, Pizza, South Indian, Continental : ₹2,600 for two :  Marathahalli, Bangalore
+ShakesBierre : 4.4 : Finger Food, North Indian, Continental, Italian, Desserts, Beverages : ₹1,800 for two :  Eva Mall, Brigade Road, Bangalore
+Oia : 4.1 : Continental, Asian, Seafood, Salad, Pizza, North Indian, Desserts : ₹2,500 for two :  Hennur, Bangalore
+Down Town Diner : 4.5 : Cafe, Coffee, Fast Food, Pizza, Burger, Sandwich, Desserts, Beverages : ₹750 for two :  Brigade Road, Bangalore
+Ironhill Bengaluru : 4.5 : North Indian, Continental, Asian, Pizza, Fast Food, Biryani, Beverages, Desserts : ₹2,000 for two :  Marathahalli, Bangalore
+Mannheim Craft Brewery : 4.4 : South Indian, North Indian, Continental, Desserts, Asian : ₹1,500 for two :  Garuda Mall, Magrath Road, Bangalore
+Magic Mocktails Cafe : New : Beverages, Pizza, Burger, Sandwich, Fast Food, Chinese, Street Food, Shake : ₹200 for two :  Chanapatna, Bangalore
+SkyDeck By Sherlock's : 4.2 : Continental, Chinese, Finger Food, North Indian, Fast Food, Beverages, Desserts : ₹1,800 for two :  MG Road, Bangalore
+Roxie : 4.6 : Continental, Asian, North Indian, European, American, Italian, Pizza, Beverages : ₹2,600 for two :  Sarjapur Road, Bangalore
+No Limmits Lounge And Club : 3.8 : Chinese, Continental, North Indian, Fast Food, Pizza, Beverages : ₹2,500 for two :  Brigade Road, Bangalore
+Absolute Shawarma : - : Shawarma, Fast Food, Burger, Pizza, Wraps, Momos, Waffle, Shake : ₹300 for two :  Chanapatna, Bangalore
+Tandoor | A Heritage Indian Restaurant & Bar : 3.5 : North Indian, Mughlai, Kebab, Kashmiri, Seafood, Biryani, Grilled Chicken, Bar Food : ₹1,700 for two :  MG Road, Bangalore
+Phurr : 4.3 : North Indian, Continental : ₹2,000 for two :  Jayanagar, Bangalore
+Oney Brewhouse : 4.1 : American, Continental, Italian, South Indian, North Indian, Asian, Chinese : ₹1,500 for two :  Cunningham Road, Bangalore
+Bastian : New : Continental, Greek : ₹2,000 for two :  St. Marks Road, Bangalore
+Farzi Cafe : 4.2 : North Indian, Desserts : ₹1,900 for two :  UB City, Bangalore
+Prime Golf - Brewing & Golfing : New : Modern Indian, Beverages : ₹2,000 for two :  Seegehalli, Bangalore
+2 MOONS : 4.4 : Modern Indian, Continental, Asian : ₹2,100 for two :  1 MG Road Mall, MG Road, Bangalore
+BLR Brewing Co : 4.3 : North Indian, Continental, Chinese, Italian, BBQ, Bar Food, Desserts : ₹1,500 for two :  Whitefield, Bangalore
+Foo Brigade Road : 4.6 : Chinese, Sushi, Asian, Japanese, Desserts : ₹2,000 for two :  Forum Rex Walk, Bangalore
+Nusa : 3.9 : North Indian, Asian, Continental, European, South Indian, Indonesian, Bar Food, Finger Food : ₹1,500 for two :  Varthur Main Road, Whitefield, Bangalore
+Kari Theory - Namma Bar & Kitchen : 4.3 : South Indian, North Indian, Street Food, Biryani, Continental, Asian, Italian, Bar Food : ₹3,500 for two :  Radisson Bangalore City Centre, Ulsoor, Bangalore
+Uru Brewpark : 4.3 : Continental, North Indian, Italian, Chinese, Asian, Pizza, Lebanese, Beverages : ₹2,200 for two :  JP Nagar, Bangalore
+Hydra Club & Kitchen : New : Continental, Biryani, North Indian, South Indian, Japanese, Chinese : ₹1,200 for two :  Koramangala 5th Block, Bangalore
+Hoot : 4.2 : Continental, Italian, North Indian, Beverages : ₹2,000 for two :  Sarjapur Road, Bangalore
+Street Storyss : 4.6 : North Indian, Chinese, Street Food, Desserts, Beverages : ₹2,500 for two :  Indiranagar, Bangalore
+Candles  Brewhouse : 4.3 : Italian, Continental, American, Pizza, North Indian : ₹2,500 for two :  RMZ Azure, Bangalore
+K-OS TheGameBar : 4.3 : Continental, Italian, North Indian, Finger Food, Asian, Fast Food : ₹1,700 for two :  Koramangala 7th Block, Bangalore
+Mykos Craft Kitchen & Bar : 4.3 : Continental, Greek, Asian, Mediterranean, North Indian : ₹1,600 for two :  Bannerghatta Road, Bangalore
+Toca Koramangala : 4.1 : Chinese, Fast Food, Steak, Pasta, Asian, Biryani, Desserts : ₹1,400 for two :  Koramangala 5th Block, Bangalore
+One8 Commune : 3.9 : North Indian, Chinese, Pasta, Sushi, Continental, Desserts, Beverages : ₹3,000 for two :  Lavelle Road, Bangalore
+Ouzo By Fire : New : Goan, Mangalorean, Beverages : ₹1,000 for two :  Indiranagar, Bangalore
+Sky Garden : 4.1 : Continental, North Indian, Pizza, Asian, Pasta, Chinese, Desserts, Beverages : ₹2,000 for two :  Whitefield, Bangalore
+Biergarten : 4.6 : Continental, European, BBQ, Chinese, Asian, Beverages : ₹2,500 for two :  Koramangala 5th Block, Bangalore
+Macaw By Stories : 4.1 : South Indian, North Indian, Chinese, Pasta, Pizza, Fast Food, Salad, Desserts : ₹1,800 for two :  Bommanahalli, Bangalore
+Mitico Coffee Roasters : 4.4 : Cafe, Continental, Italian, Burger, North Indian, Salad, Shake, Beverages : ₹900 for two :  Koramangala 5th Block, Bangalore
+Stories Brewery & Kitchen : 4.5 : North Indian, Continental, Chinese, Finger Food, Beverages, Desserts : ₹1,600 for two :  BTM, Bangalore
+Ganbeii : New : Modern Indian, Continental, Chinese, Beverages : ₹1,000 for two :  Koramangala 5th Block, Bangalore
+Aurum Brew Works : 4.3 : North Indian, Mughlai, Continental, Asian, Beverages, Desserts : ₹1,500 for two :  Sarjapur Road, Bangalore
+Kappa Chakka Kandhari : 4.3 : Kerala, South Indian, Desserts, Beverages : ₹1,800 for two :  Koramangala 6th Block, Bangalore
+Sarjapur SOCIAL : 4.4 : North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Desserts, Beverages : ₹1,000 for two :  Sarjapur Road, Bangalore
+SodaBottleOpenerWala : 4.4 : Parsi, North Indian, Street Food, Desserts, Beverages : ₹1,800 for two :  Lavelle Road, Bangalore
+High Ultra Lounge - Sheraton Grand Bangalore Hotel : 4.3 : North Indian, Continental, Finger Food, Desserts : ₹3,600 for two :  Sheraton Grand Bangalore, Brigade Gateway, Bangalore
+21st Amendment Gastrobar : 4.3 : North Indian, Fast Food, Chinese, Bar Food, Sichuan, Beverages : ₹1,700 for two :  Indiranagar, Bangalore
+Byg Brewski Brewing Company : 4.6 : Continental, North Indian, Asian, Fast Food, Pizza, Pasta, Burger, Desserts : ₹2,000 for two :  Sarjapur Road, Bangalore
+Bamey's Gastro Bar : 4.3 : Nepalese, Chinese, North Indian, Momos, Bar Food, Asian, Desserts, Tibetan : ₹1,000 for two :  Koramangala 5th Block, Bangalore
+Feast - Sheraton Grand Bangalore Hotel at Brigade Gateway : 4.4 : North Indian, Continental, Fast Food, Asian, Beverages : ₹3,500 for two :  Sheraton Grand Bangalore, Brigade Gateway, Bangalore
+Three Dots & A Dash : 4.0 : Bar Food, North Indian, Chinese, Continental, Italian, Fast Food, Desserts, Beverages : ₹1,800 for two :  Indiranagar, Bangalore
+Taproom By Sherlock's : 4.3 : North Indian, Oriental, Continental, Biryani, Pizza, Pasta, Desserts, Beverages : ₹1,800 for two :  JP Nagar, Bangalore
+Swwing : 4.0 : Seafood, Modern Indian : ₹2,500 for two :  Indiranagar, Bangalore
+Pizza 4P's : 4.5 : Pizza : ₹1,000 for two :  Indiranagar, Bangalore
+Maffei Kitchen : 4.6 : Lebanese, Greek, Moroccan, Desserts, Beverages : ₹1,700 for two :  Koramangala 5th Block, Bangalore
+Red Rhino : 4.4 : Continental, North Indian, Asian, Oriental, Mediterranean, Mangalorean, Beverages, Desserts : ₹2,000 for two :  Whitefield, Bangalore
+The Terrace at Gilly's Redefined : 4.4 : Continental, Finger Food, Chinese, North Indian, Italian, Beverages, Desserts : ₹2,000 for two :  Gilly's Redefined, Koramangala 4th Block, Bangalore
+Raahi : 4.2 : North Indian, Pasta, Pizza, Desserts, Beverages : ₹2,000 for two :  St. Marks Road, Bangalore
+Cafe Grey By Dongle & Co : 4.4 : Cafe, Coffee, Beverages, Continental, Pizza, Italian, Salad, Desserts : ₹1,200 for two :  Indiranagar, Bangalore
+Butterfly Brew Bite & Fly : 4.3 : North Indian, Continental, Pizza, Italian, Asian, Desserts, Beverages : ₹1,500 for two :  JP Nagar, Bangalore
+The Lazy Turtle : 4.1 : North Indian, Chinese, Seafood, Fast Food, Pizza, Bar Food, Desserts : ₹1,200 for two :  Koramangala 4th Block, Bangalore
+Toit : 4.9 : Italian, American, European, Continental, Desserts : ₹2,500 for two :  Indiranagar, Bangalore
+Bhangra Bistro : 4.3 : North Indian, Mughlai, Desserts : ₹1,000 for two :  Indiranagar, Bangalore
+Float Brewery : 4.4 : Bar Food, Continental, Italian, Asian, North Indian, Desserts, Pizza, Beverages : ₹1,500 for two :  Kalyan Nagar, Bangalore
+Hangover Brewery : 4.0 : Continental, North Indian, Chinese, Finger Food, Burger, Pizza, Desserts : ₹2,000 for two :  Koramangala 7th Block, Bangalore
+Hard Rock Cafe : 4.6 : American, Continental, Burger, Sandwich, Fast Food, Desserts, Beverages : ₹2,500 for two :  St. Marks Road, Bangalore
+Tycoons - Fine Dine & Retro Bar : 4.0 : Continental, North Indian, Asian, Mughlai, Italian, Beverages, Desserts : ₹1,600 for two :  Indiranagar, Bangalore
+TYD : 4.4 : Asian, European, Sushi, Continental, Italian, Mexican, Beverages, Desserts : ₹1,900 for two :  Hennur, Bangalore
+1131 Bar + Kitchen By House Of Commons : 4.5 : Finger Food, North Indian, Continental, Chinese, Italian, Asian, Desserts, Beverages : ₹2,200 for two :  Indiranagar, Bangalore
+Indian Biere House : 4.5 : Continental, Mediterranean, North Indian, Asian, Bar Food, Italian, Desserts, Beverages : ₹2,500 for two :  JP Nagar, Bangalore
+Shokudo : 4.0 : Japanese, Thai, Chinese, Asian, Sushi, Desserts, Beverages, Korean : ₹1,500 for two :  Jayanagar, Bangalore
+The Black Pearl : 4.2 : BBQ, North Indian, Biryani : ₹2,100 for two :  Kadubeesanahalli, Bangalore
+Jook Taproom : 4.4 : North Indian, South Indian, Chinese, Pizza, Fast Food, Biryani, Asian, Bar Food : ₹1,600 for two :  Indiranagar, Bangalore
+Zodiac Bar & Kitchen : 4.3 : Continental, North Indian, Pizza, Italian, Chinese, Fast Food, Biryani, Desserts : ₹1,800 for two :  Brookefield, Bangalore
+Secret Story : 4.0 : Continental, Asian, North Indian, Fast Food, Desserts, Beverages, Vietnamese, Italian : ₹1,500 for two :  Indiranagar, Bangalore
+Street 1522 : 4.3 : North Indian, Asian, Seafood, Continental, Mughlai, Kebab, Street Food, Beverages : ₹2,200 for two :  Sarjapur Road, Bangalore
+Fia's Lounge : 4.3 : Parsi, Lebanese, Beverages : ₹1,500 for two :  Richmond Road, Bangalore
+Pangeo : 4.5 : Sushi, Continental, Mediterranean, Pizza, Pasta, North Indian, Desserts, Asian : ₹3,500 for two :  Forum Rex Walk, Bangalore
+The Bier Library : 4.5 : North Indian, Pizza, European, American, Bar Food, Oriental, Desserts, BBQ : ₹1,800 for two :  Koramangala 6th Block, Bangalore
+Big Pitcher : 4.5 : North Indian, Continental, Mughlai, Chinese, Italian, Biryani, Desserts, Beverages : ₹1,800 for two :  Sarjapur Road, Bangalore
+Zen - The Leela Palace : 4.1 : Thai, Japanese, Chinese, Rolls : ₹3,500 for two :  The Leela Palace, Old Airport Road, Bangalore
+JW Kitchen - JW Marriott Bengaluru : 4.2 : North Indian, Continental, Mughlai, Beverages, Desserts : ₹5,000 for two :  JW Marriott Bengaluru, Lavelle Road, Bangalore
+Magique : 4.1 : Asian, Modern Indian, Continental, Italian, North Indian, Sushi, Desserts, Beverages : ₹1,700 for two :  Koramangala 6th Block, Bangalore
+Backstreet Brewery : 4.4 : Italian, Bar Food, Pizza, North Indian, Asian, Desserts, Beverages : ₹1,800 for two :  Sarjapur Road, Bangalore
+Citrus - The Leela Palace : 4.0 : North Indian, Continental, Asian, Desserts : ₹4,700 for two :  The Leela Palace, Old Airport Road, Bangalore
+TBC- Sky Lounge : 4.5 : Continental, Italian, Asian, North Indian, South Indian, Biryani, Desserts, Beverages : ₹1,500 for two :  HSR, Bangalore
+Le Cirque Signature - The Leela Palace : 4.4 : French, Italian, Desserts : ₹7,000 for two :  The Leela Palace, Old Airport Road, Bangalore
+XOOX Brewmill : 4.3 : North Indian, Continental, American, Italian, Asian, Modern Indian, Pizza, Desserts : ₹2,500 for two :  Koramangala 5th Block, Bangalore
+The Bangalore Cafe : 4.2 : North Indian, Italian, Continental, Biryani, Chinese, Desserts : ₹950 for two :  Shanti Nagar, Bangalore
+Gold Rush Brews : 4.4 : North Indian, Italian, Asian, Continental, American, South Indian, Beverages, Desserts : ₹1,900 for two :  KR Puram, Bangalore
+Daddy : 4.3 : Continental, North Indian, Asian, Italian, Chinese, European, Bar Food, Beverages : ₹1,700 for two :  Indiranagar, Bangalore
+Oyster Bar & Kitchen : 4.5 : Continental, Bar Food, Chinese, North Indian, Beverages, Desserts : ₹1,600 for two :  HSR, Bangalore
+Ministry of Food - Hilton Bangalore Embassy GolfLinks : 3.9 : Asian, Continental, Italian, North Indian, Mughlai, Desserts, Beverages : ₹3,500 for two :  Hilton Bangalore Embassy GolfLinks, Domlur, Bangalore
+Boho : 4.1 : Bar Food, North Indian, Continental, Asian, Desserts, Beverages, Korean, Italian : ₹2,500 for two :  Brookefields Mall, Brookefield, Bangalore
+Geometry Brewery & Kitchen : 4.3 : Chinese, North Indian, Italian, Continental, Pizza, Desserts, Beverages : ₹1,800 for two :  Malleshwaram, Bangalore
+Brahma Brews : 4.5 : Asian, North Indian, South Indian : ₹2,500 for two :  JP Nagar, Bangalore
+Mayuri : 4.5 : Andhra, Biryani, North Indian, Chinese, Desserts : ₹1,200 for two :  JP Nagar, Bangalore
+Amintiri : 4.4 : Desserts, Bakery, Fast Food, Beverages, Pasta, Italian, Cafe, Finger Food : ₹1,100 for two :  Church Street, Bangalore
+Bramble : 4.4 : Continental, Asian, North Indian, Italian, Bar Food, Beverages : ₹1,800 for two :  Jayanagar, Bangalore
+Fox In The Field : 4.2 : Modern Indian, Continental, North Indian, Pizza, American, Italian, Desserts, Beverages : ₹2,000 for two :  Forum Shantiniketan Mall, Whitefield, Bangalore
+Sly Granny : 4.4 : Continental, Italian, Salad, Sandwich, Pizza, Middle Eastern, Desserts : ₹2,500 for two :  Indiranagar, Bangalore
+Miso Sexy : 4.8 : Japanese, Chinese, Sushi, Beverages : ₹1,800 for two :  Indiranagar, Bangalore
+Terrace By House Of Commons : 4.6 : Modern Indian, Continental, Asian, Chinese, North Indian, Seafood, Bar Food, Beverages : ₹2,000 for two :  JP Nagar, Bangalore
+Jamming Goat 3.0 : 4.3 : North Indian, Asian, Desserts : ₹1,500 for two :  JP Nagar, Bangalore
+Ambedo Kitchen|Taproom : 4.5 : Continental, Asian, North Indian, Italian, Pizza, Sushi : ₹1,500 for two :  JP Nagar, Bangalore
+The Scene - Craft Kitchen & Bar : 4.2 : North Indian, Continental, Asian, Desserts, Beverages : ₹1,500 for two :  JP Nagar, Bangalore
+VYANA - World Cuisine : 4.0 : Italian, Oriental, Continental, Chinese, Salad, Pizza, North Indian, Desserts : ₹1,700 for two :  JP Nagar, Bangalore
+Badmaash : 4.2 : Bar Food, North Indian, Italian, Mughlai, Desserts : ₹2,500 for two :  Koramangala 5th Block, Bangalore
+KOKO : 4.3 : Asian, Sushi, Desserts, Chinese, Beverages : ₹3,500 for two :  Old Airport Road, Bangalore
+White Garden : 4.3 : North Indian, Italian, Lebanese, Asian, Continental, Desserts : ₹1,600 for two :  Kalyan Nagar, Bangalore
+Chowman : 4.5 : Chinese, Thai, Asian, Seafood, Sichuan, Desserts, Beverages : ₹1,400 for two :  Indiranagar, Bangalore
+Hashtag 88 : 4.4 : Asian, Chinese, Salad, North Indian, Fast Food, Biryani, Desserts : ₹1,400 for two :  Marathahalli, Bangalore
+Nomad PizzaBar : 4.5 : Pizza, Italian : ₹1,000 for two :  Indiranagar, Bangalore
+Omega IX Cocktail Bar And Global Kitchen : 4.2 : North Indian, Continental, Asian, Sushi, Italian, Desserts, Beverages : ₹1,800 for two :  Sahakara Nagar, Bangalore
+Smoke House Deli : 4.5 : Continental, Italian, BBQ, Fast Food, Ice Cream, Salad, Desserts, Beverages : ₹3,600 for two :  Indiranagar, Bangalore
+Gawky Goose : 4.4 : Italian, Biryani, North Indian, Fast Food, Seafood, Asian, Desserts, Beverages : ₹2,200 for two :  Old Airport Road, Bangalore
+Aromas Of Biryani : 4.3 : Biryani, North Indian, South Indian, Hyderabadi : ₹1,000 for two :  Jayanagar, Bangalore
+Nevermind - Bar & Social : 4.1 : Bar Food, North Indian, Chinese, Continental, Burger : ₹1,800 for two :  Indiranagar, Bangalore
+Brooks And Bonds Brewery : 4.2 : Continental, American, North Indian, Italian, Fast Food, Beverages, Desserts : ₹2,000 for two :  Koramangala 5th Block, Bangalore
+Orah Brew Garden : 4.3 : Asian, Continental, Desserts, European, Modern Indian : ₹1,300 for two :  Yelahanka, Bangalore
+Burma Burma - Indiranagar : 4.8 : Burmese, Asian, Salad, Bubble Tea, Ice Cream, Desserts : ₹1,800 for two :  Indiranagar, Bangalore
+Punjab Grill : 4.3 : North Indian, Kebab, Biryani, Mughlai : ₹2,000 for two :  Forum Shantiniketan Mall, Whitefield, Bangalore
+Rajdhani : 4.0 : Gujarati, North Indian, Rajasthani : ₹1,200 for two :  Phoenix Marketcity Bangalore, Whitefield, Bangalore
+The Pump House : 4.4 : Continental, Chinese, North Indian, Italian, Asian, Salad, Pizza, Desserts : ₹2,500 for two :  Whitefield, Bangalore
+Geometry Gastropub : 4.4 : Continental, North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages : ₹1,600 for two :  New BEL Road, Bangalore
+The Fixx : 4.1 : North Indian, Continental, Chinese, Seafood, Pasta, Pizza, Biryani, Beverages : ₹1,800 for two :  Koramangala 4th Block, Bangalore
+The Watering Hole : New : Continental, North Indian, European, Asian, Desserts, Beverages : ₹1,400 for two :  BTM, Bangalore
+Brother Barley Brewing Company : 4.2 : Finger Food, Continental, North Indian, Chinese, Italian, Beverages, Desserts : ₹1,800 for two :  HSR, Bangalore
+The Groot : 3.9 : Italian, North Indian, Chinese, Burger, Pasta, Pizza, Salad, Desserts : ₹1,000 for two :  Bhartiya Mall of Bengaluru, Bangalore
+Deck Of Brews : 4.3 : Continental, North Indian, Italian, Asian, Desserts, Pizza, Pasta, South Indian : ₹1,500 for two :  Kadubeesanahalli, Bangalore
+Tim Hortons : 4.2 : Coffee, Cafe, Continental, Sandwich, Fast Food, Beverages, Desserts : ₹1,000 for two :  Koramangala 8th Block, Bangalore
+Flyover Drinkery : 4.4 : Bar Food, Continental, Oriental, Asian, Pasta, North Indian, South Indian, Desserts : ₹1,800 for two :  Esteem Mall, Hebbal, Bangalore
+Pasta Street : 4.5 : Pasta, Pizza, Italian, Salad, Desserts, Beverages : ₹1,800 for two :  JP Nagar, Bangalore
+Plan B : 4.1 : American, Continental, Burger, Pizza, Tex-Mex, Fast Food : ₹1,600 for two :  Koramangala 7th Block, Bangalore
+Proxy : 4.4 : Finger Food, Street Food, Pasta, Bar Food, Desserts : ₹1,200 for two :  Mahadevapura, Bangalore
+Vapour Brewpub And Diner : 4.3 : North Indian, Continental, Italian, European, Biryani, Salad, Desserts, Beverages : ₹2,200 for two :  Sarjapur Road, Bangalore
+JULIET : 4.2 : Asian, Continental, Sushi, Thai, Japanese, Desserts : ₹2,500 for two :  1 MG Road Mall, MG Road, Bangalore
+Plan B X Hangover : 4.1 : American, Burger, Pizza, Continental, Bar Food, Desserts, Beverages : ₹2,000 for two :  HSR, Bangalore
+The Soda Factory : 4.3 : North Indian, Chinese, Pasta, Pizza, Fast Food, Biryani, Desserts, Beverages : ₹1,100 for two :  Nagarbhavi, Bangalore
+Suku Japanese And Thai Restaurant : 4.7 : Japanese, Thai, Sushi, Salad, Desserts, Beverages : ₹800 for two :  HSR, Bangalore
+The Persian Terrace - Sheraton Grand Bangalore Hotel at Brigade Gateway : 4.1 : Iranian, Mediterranean, Afghan, Seafood, Desserts : ₹3,500 for two :  Sheraton Grand Bangalore, Brigade Gateway, Bangalore
+Levels Pub & Kitchen : 4.4 : Asian, South Indian, North Indian : ₹1,700 for two :  JP Nagar, Bangalore
+Daysie - All Day Casual Bar : 4.5 : North Indian, Italian, Continental, Asian, Chinese, Bar Food, Desserts : ₹1,300 for two :  MG Road, Bangalore
+Chapter One Bar | Maiin : 4.3 : North Indian, South Indian, Chinese, Italian, Fast Food, Finger Food, Desserts, Beverages : ₹1,400 for two :  New BEL Road, Bangalore
+Communiti : 4.5 : American, Continental, European, Italian, Oriental, Burger, Beverages : ₹1,800 for two :  Brigade Road, Bangalore
+The Reservoire : 4.4 : North Indian, Biryani, Asian, Italian, Continental, Bar Food, Desserts, Beverages : ₹2,000 for two :  Koramangala 5th Block, Bangalore
+Yuki : 4.5 : Asian, Japanese, Sushi, Thai, Chinese, Salad, Desserts : ₹1,600 for two :  Indiranagar, Bangalore
+Hitchki : 4.3 : North Indian, Chinese, Continental, Biryani, Finger Food, Bar Food, Desserts, Beverages : ₹2,000 for two :  Phoenix Marketcity Bangalore, Whitefield, Bangalore
+House Of Commons : 4.5 : Bar Food, Fast Food, North Indian, Continental, Seafood, Italian, Chinese, Desserts : ₹1,200 for two :  HSR, Bangalore
+Cocobolo : 4.3 : Bar Food, North Indian, Continental, Italian, Chinese, BBQ, Desserts, Beverages : ₹1,000 for two :  New BEL Road, Bangalore
+Poco A Poco - Global Food & Music : 4.4 : Continental, Chinese, North Indian, Italian, Cafe, Asian, South Indian, Beverages : ₹1,000 for two :  Whitefield, Bangalore
+Ishaara : 4.5 : North Indian, Mughlai, Kebab, Biryani : ₹2,500 for two :  Phoenix Mall of Asia, Hebbal, Bengaluru, Bangalore
+Flechazo : 4.3 : North Indian, Chinese, Pizza, Continental, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Marathahalli, Bangalore
+Horizon : 4.5 : Chinese, Japanese, Asian, Salad, Thai, Desserts, Beverages : ₹3,000 for two :  World Trade Center, Bangalore
+TOY BOY : New : Bar Food, North Indian, Pizza, Oriental : ₹2,000 for two :  Majestic, Bangalore
+Geist Brewing Co. : 4.3 : Continental, Italian, North Indian, South Indian, Bar Food, Beverages : ₹1,800 for two :  Bhartiya Mall of Bengaluru, Bangalore
+Bologna : 4.9 : Italian, Pasta, Pizza, Desserts : ₹1,500 for two :  Indiranagar, Bangalore
+Sashay-Taproom Kitchen : 4.8 : Asian, Modern Indian, Continental, Sushi, North Indian, Chinese, Desserts, Beverages : ₹2,000 for two :  Whitefield, Bangalore
+Pincode 24 Bar & Bistro : 4.5 : Bar Food, Continental, North Indian, Burger, Sandwich, Panini, Beverages : ₹1,000 for two :  Hebbal, Bangalore
+Rumi : 4.0 : Awadhi, Mughlai, North Indian, Kebab, Desserts : ₹1,100 for two :  Indiranagar, Bangalore
+BumbleBee Brauhaus : 3.9 : Thai, Chinese, South Indian, Continental, North Indian, Italian, Desserts, Beverages : ₹2,600 for two :  Indiranagar, Bangalore
+Foxtrot : 4.2 : North Indian, Mughlai, Biryani, Desserts, Beverages : ₹1,900 for two :  Marathahalli, Bangalore
+Tales Of Flamingo : 4.5 : Continental, Asian, North Indian, Desserts : ₹1,500 for two :  Bannerghatta Road, Bangalore
+AB's - Absolute Barbecues : 4.5 : Biryani, BBQ, Kebab, North Indian, Desserts : ₹1,600 for two :  Marathahalli, Bangalore
+Gilly's Restobar : 4.3 : North Indian, European, Bar Food, Italian, Fast Food, Desserts, Beverages : ₹2,000 for two :  Bannerghatta Road, Bangalore
+Chianti : 4.8 : Italian, Pizza, Pasta, Desserts, Salad : ₹1,800 for two :  Forum Falcon City Mall, Kanakapura Roaad, Bangalore
+Dhaba - Estd 1986 Delhi : 4.3 : North Indian, Mughlai, Desserts, Paan : ₹1,500 for two :  Indiranagar, Bangalore
+Peepai : 4.5 : North Indian, Pizza, Chinese, European, Bar Food, Biryani, Desserts, Beverages : ₹2,500 for two :  Hebbal, Bangalore
+Mezera Brewery & Kitchen : New : Continental : ₹1,600 for two :  JP Nagar, Bangalore
+Gatsby : 4.4 : Finger Food, Healthy Food, North Indian, Asian, Sushi, Chinese, South Indian, Pizza : ₹2,500 for two :  Bannerghatta Road, Bangalore
+Grazers Resto - Bar : 4.2 : North Indian, Salad, Continental, Burger, Pizza, Fast Food, Asian, Bar Food : ₹1,200 for two :  Jayanagar, Bangalore
+North Star Cafe : 4.3 : Cafe, Bakery, Beverages, Desserts, Continental, Healthy Food : ₹800 for two :  HSR, Bangalore
+Chili's American Grill & Bar : 4.3 : Continental, Mexican, American, Italian, Desserts, Beverages : ₹1,800 for two :  Orion Mall, Malleshwaram, Bangalore
+Skyline Rooftop Bar & Kitchen : 4.4 : Chinese, Italian, Fast Food, North Indian, Kebab, Biryani, Continental, Beverages : ₹1,800 for two :  Livin Hub Hotel, Bangalore
+Barrys Sky Lounge : 4.3 : Chinese, North Indian, Oriental, Mughlai, Biryani : ₹1,000 for two :  Kalyan Nagar, Bangalore
+The 13th Floor : 4.3 : North Indian, Asian, Kebab, Chinese, Salad, Beverages, Desserts : ₹2,500 for two :  Barton Centre, Bangalore
+Umbaa Pub And Kitchen : 4.5 : Bar Food, North Indian, Mughlai, Continental, Beverages : ₹1,500 for two :  ITPL Main Road, Whitefield, Bangalore
+Shift Lounge & Bar : 4.1 : Finger Food, Continental, North Indian, Salad, Seafood, Mughlai : ₹1,400 for two :  HSR, Bangalore
+Public - The Rooftop Bar And Kitchen : 4.1 : North Indian, Biryani, Oriental, Pizza, Continental : ₹1,200 for two :  Bannerghatta Road, Bangalore
+Homiga : 4.4 : Korean, Asian : ₹1,500 for two :  Forum Rex Walk, Bangalore
+Celeb’s Restobar : 4.3 : Bar Food : ₹1,300 for two :  Brookefield, Bangalore
+You Mee : 4.5 : Asian, Sushi, Japanese, Chinese, Desserts, Beverages : ₹2,200 for two :  Phoenix Mall of Asia, Hebbal, Bengaluru, Bangalore
+Hitchki : 4.1 : Bar Food, Continental, North Indian, Asian, Biryani, Desserts : ₹1,900 for two :  Sarjapur Road, Bangalore
+Garden City Beer Collective : 4.4 : Pizza, Continental, Sushi, Asian, South Indian, Pasta, Desserts : ₹2,000 for two :  Yelahanka, Bangalore
+Secret Of Bangalore : 4.3 : Italian, Continental, Asian, Pizza, Pasta, Desserts, Beverages : ₹1,600 for two :  Rajarajeshwari Nagar, Bangalore
+LUPA : 3.2 : Mediterranean, European, Italian, Salad, Desserts, Beverages : ₹5,000 for two :  MG Road, Bangalore
+The Hole In The Wall Cafe : 4.4 : Cafe, Continental, Burger, Sandwich, Shake, Beverages, Desserts : ₹700 for two :  Koramangala 4th Block, Bangalore
+The Big Barbeque : 4.3 : BBQ, Pizza, North Indian, Pasta, Desserts, Beverages : ₹2,000 for two :  Marathahalli, Bangalore
+Arbor Brewing Company : 4.6 : American, Continental, Fast Food, Beverages : ₹1,800 for two :  Brigade Road, Bangalore
+Altitude Kitchen & Bar : 4.2 : Chinese, Seafood, North Indian, Kebab, Pizza, Finger Food, Biryani, Desserts : ₹1,800 for two :  Basaveshwara Nagar, Bangalore
+Lush - Renaissance Hotel : 4.4 : North Indian, Continental, Chinese, Fast Food : ₹3,500 for two :  Renaissance Hotel, Race Course Road, Bangalore
+Jugni Kitchen & Bar : New : North Indian, Modern Indian, Bar Food : ₹1,600 for two :  Koramangala 5th Block, Bangalore
+Fenny's Lounge And Kitchen : 4.5 : Mediterranean, Continental, Italian, Desserts, Beverages : ₹1,900 for two :  Koramangala 7th Block, Bangalore
+Thelagram : 4.3 : North Indian, Street Food, Desserts, Beverages : ₹800 for two :  JP Nagar, Bangalore
+The Irish House : 4.2 : European, American, Italian, BBQ, Beverages, Desserts : ₹2,000 for two :  RMZ Ecoworld, Bellandur, Bangalore
+Chowki Multicuisine Restaurant : 4.1 : North Indian, Chinese, Seafood, Fast Food, Biryani, Sichuan, Desserts, Beverages : ₹700 for two :  Whitefield, Bangalore
+Aroma's Hyderabad House : 4.2 : Hyderabadi, Biryani, North Indian, Mughlai, Chinese, Seafood, Kebab, Beverages : ₹950 for two :  Marathahalli, Bangalore
+Shelby Rooftop Taproom & Kitchen : 4.2 : Asian, North Indian : ₹1,400 for two :  Nagarbhavi, Bangalore
+Barbecue By Punjab Grill : 4.2 : BBQ, Mughlai, North Indian, Salad, Desserts : ₹1,600 for two :  Mantri Square, Malleshwaram, Bangalore
+La Casa Brewery And Kitchen : 4.3 : Continental, North Indian, Mughlai, Chinese, Finger Food, Steak, Desserts, Beverages : ₹2,000 for two :  Sarjapur Road, Bangalore
+Windmills : 4.7 : Continental, North Indian, Mughlai, Kebab, Desserts : ₹3,500 for two :  Craftworks, Bangalore
+154 Breakfast Club : 3.9 : Burger, Cafe, Sandwich, Street Food, Fast Food, Pancake, Asian, Desserts : ₹1,100 for two :  Koramangala 4th Block, Bangalore
+Kampot : 4.5 : Vietnamese, Asian, Chinese, Desserts, Beverages, Salad, Korean : ₹1,800 for two :  RMZ Ecoworld, Bellandur, Bangalore
+Hakuna Matata : 4.4 : North Indian, Asian, Seafood, Chinese, Biryani, Fast Food, Desserts, Beverages : ₹1,700 for two :  JP Nagar, Bangalore
+Full Circle : 4.3 : Continental, Asian, North Indian, South Indian, BBQ, Bar Food, Desserts, Cafe : ₹2,200 for two :  Rajarajeshwari Nagar, Bangalore
+The Peak : 4.3 : Continental, Mangalorean : ₹1,000 for two :  Sahakara Nagar, Bangalore
+Paragon Restaurant - Since 1939 : 4.0 : Kerala, Oriental, South Indian, Chinese, Seafood, Desserts, Beverages : ₹1,000 for two :  1 Sobha, Bangalore
+Masala Mandi : 4.3 : North Indian, BBQ, Biryani, Desserts, Beverages, Mughlai : ₹1,800 for two :  Sarjapur Road, Bangalore
+Khmer Kitchen : 4.5 : Chinese, Asian, Thai, Japanese : ₹2,500 for two :  JP Nagar, Bangalore
+Feast - Sheraton Grand Bengaluru Whitefield Hotel & Convention Centre : 4.5 : Continental, South Indian, North Indian, Desserts, Beverages : ₹3,500 for two :  Sheraton Grand Bengaluru, Whitefield, Bangalore
+Dobaraa : 4.4 : Continental, North Indian, Salad, Desserts : ₹1,200 for two :  Phoenix Marketcity Bangalore, Whitefield, Bangalore
+Ouro : 4.2 : European, Mexican, Desserts : ₹3,000 for two :  Forum Rex Walk, Bangalore
+Brik Oven : 4.4 : Pizza, Fast Food, Desserts, Beverages : ₹1,200 for two :  Indiranagar, Bangalore
+District 6 Pub Brewery & Kitchen : 4.5 : North Indian, Pizza, Italian, Bar Food, Continental, Asian, Desserts : ₹2,500 for two :  Malleshwaram, Bangalore
+Stories Bar & Kitchen : 4.3 : Bar Food, Chinese, North Indian, Italian, Pizza, Seafood, Desserts : ₹1,400 for two :  Rajajinagar, Bangalore
+Bombay Adda : 4.2 : Continental, North Indian, Asian, Pizza, Fast Food, Kebab, Desserts, Beverages : ₹2,000 for two :  Koramangala 7th Block, Bangalore
+Inanna Tap Room : 4.2 : Chinese, North Indian, Burger, Pizza, Italian, Desserts : ₹2,000 for two :  Bannerghatta Road, Bangalore
+Zyng - Pan Asian Dining : 4.2 : Asian, Japanese, Korean, Chinese, Thai, Seafood, Desserts : ₹1,200 for two :  Ulsoor, Bangalore
+Toscano : 4.6 : Italian, Pizza, Pasta, Continental, Desserts, Steak, Seafood, Beverages : ₹1,800 for two :  Varthur Main Road, Whitefield, Bangalore
+We: Neighborhood : 4.4 : European, American, North Indian, Burger, Pizza, Desserts, Beverages : ₹1,400 for two :  Brigade Road, Bangalore
+Salt Indian Restaurant Bar & Grill : 4.3 : North Indian, Rolls, Mughlai, Seafood, Biryani, Kebab, Desserts, Beverages : ₹1,800 for two :  Kalyan Nagar, Bangalore
+Dyu Art Cafe : 4.3 : Cafe, Continental, Burger, Sandwich, Pizza, Fast Food, Desserts, Beverages : ₹850 for two :  Koramangala 8th Block, Bangalore
+Asia Alive - DoubleTree Suites By Hilton : 4.2 : North Indian, South Indian, Chinese, Thai, Italian, Burger, Sandwich, Beverages : ₹3,500 for two :  DoubleTree Suites By Hilton, Sarjapur, Bangalore
+The Fisherman's Wharf : 4.1 : North Indian, Chinese, Seafood, Goan, Finger Food, Continental, Desserts, Beverages : ₹1,900 for two :  Sarjapur Road, Bangalore
+Elysium By Stories : 4.4 : South Indian, North Indian, Fast Food, Oriental : ₹1,400 for two :  Sarjapur Road, Bangalore
+Moplah's : 4.4 : Kerala, Biryani, Seafood, Beverages, Ice Cream, Desserts : ₹2,400 for two :  Koramangala 5th Block, Bangalore
+Yellow Door - The Neighbourhood Kitchen : 4.3 : North Indian, Asian, Italian, Fast Food : ₹1,100 for two :  Koramangala 5th Block, Bangalore
+Sstella Asian Kitchen And Bar : 4.5 : Asian, Chinese, Desserts, Beverages, Afghan : ₹1,000 for two :  Royal Meenakshi Mall, Bannerghatta Road, Bangalore
+Rasotsav : 4.3 : Rajasthani, Gujarati, North Indian, Mithai : ₹1,200 for two :  Forum Falcon City Mall, Kanakapura Roaad, Bangalore
+Bistro Claytopia : 3.7 : Cafe, American, Italian, Modern Indian, Continental, Desserts, Beverages : ₹1,100 for two :  Koramangala 1st Block, Bangalore
+Itasian : 4.4 : Italian, Asian, Chinese, Sushi, Burger, Fast Food, Desserts, Beverages : ₹1,000 for two :  Jakkur, Bangalore
+Don't Tell Mama : 4.1 : North Indian, Continental, Chinese, Italian, Oriental, Thai, Biryani : ₹2,000 for two :  HSR, Bangalore
+Conçu : 4.4 : Cafe, Fast Food : ₹500 for two :  Indiranagar, Bangalore
+1522 - The Pub : 4.3 : Chinese, North Indian, Mughlai, Finger Food, Seafood : ₹1,800 for two :  JP Nagar, Bangalore
+White Lotus Club : 3.9 : Continental, North Indian, Chinese, Italian, Asian, Beverages : ₹2,000 for two :  Sarjapur Road, Bangalore
+Gulp Cocktails And Kitchen : 4.1 : North Indian, Continental, Mughlai, South Indian, Modern Indian, Pasta, Pizza, Chinese : ₹1,500 for two :  Banashankari, Bangalore
+Cafe Petriqor : 4.4 : Asian, Continental, Coffee, Pizza, Pasta : ₹700 for two :  JP Nagar, Bangalore
+Toca Terrace : 4.1 : South Indian, North Indian, Continental, Chinese, Seafood, Pasta : ₹1,100 for two :  Brigade Road, Bangalore
+The Kabab Studio - Goldfinch Hotel : 4.0 : North Indian, Chinese, Continental, South Indian, Oriental, Italian, Kebab : ₹1,800 for two :  Goldfinch Hotel, Seshadripuram, Bangalore
+Cha Cha Cha - Dimsum, Sushi, Stir Fry : 4.0 : Asian, Chinese : ₹2,500 for two :  Phoenix Marketcity Bangalore, Whitefield, Bangalore
+Lucky Chan - Dimsum & Sushi Parlour : 4.4 : Japanese, Chinese, Asian, Desserts, Beverages : ₹1,900 for two :  Indiranagar, Bangalore
+Bombay Brasserie : 4.5 : North Indian, Biryani, Fast Food, Desserts, Tea : ₹2,000 for two :  Indiranagar, Bangalore
+Bob's Bar : 4.2 : South Indian, Biryani, Sandwich, Desserts, Bakery, Beverages : ₹1,400 for two :  Indiranagar, Bangalore
+Öz by Kebapci : 4.6 : Turkish, Mediterranean, Middle Eastern : ₹1,800 for two :  UB City, Bangalore
+Yauatcha : 4.3 : Chinese, Asian, Cantonese, Seafood, Tea, Desserts : ₹3,000 for two :  1 MG Road Mall, MG Road, Bangalore
+Soka : 4.2 : Bar Food, Continental : ₹1,000 for two :  Indiranagar, Bangalore
+Tiger Tiger Brewhouse : 4.1 : North Indian, Continental, Oriental, Mughlai, Andhra, European, Beverages, Desserts : ₹1,600 for two :  Sarjapur Road, Bangalore
+LOFT38 : 4.2 : Italian, BBQ, Asian, North Indian, Fast Food, Beverages : ₹2,000 for two :  Indiranagar, Bangalore
+Dock 66 : 4.2 : North Indian, South Indian : ₹1,800 for two :  Whitefield, Bangalore
+Mainland China : 4.4 : Chinese, Sushi, Seafood, Asian, Japanese, Beverages : ₹2,000 for two :  Church Street, Bangalore
+SLAY Coffee Bar : 4.2 : Cafe, Coffee, Beverages, Fast Food : ₹600 for two :  Miraya Rose, Bangalore
+Caffé Allora : 4.4 : Pizza, Italian, Pasta : ₹1,500 for two :  Phoenix Marketcity Bangalore, Whitefield, Bangalore
+Sector 144 : 4.4 : North Indian, Chinese, Kebab, Mughlai, Italian, Fast Food, Desserts, Bar Food : ₹1,100 for two :  Electronic City, Bangalore
+Spettacolare : 3.9 : Italian, Pizza, Pasta : ₹1,000 for two :  Indiranagar, Bangalore
+Jamavar - The Leela Palace : 4.3 : North Indian, South Indian : ₹5,000 for two :  The Leela Palace, Old Airport Road, Bangalore
+Big Barrel BrewPub : 4.3 : Chinese, Salad, North Indian, Oriental, Mexican, Italian, Continental, Beverages : ₹2,000 for two :  Rajarajeshwari Nagar, Bangalore
+The Kind Roastery & Brew Room : 4.5 : Cafe, Coffee, Desserts, Asian, Pizza, Tea, Beverages, Pasta : ₹500 for two :  JP Nagar, Bangalore
+Shiro : 4.4 : Japanese, Sushi, Asian, Desserts, Thai, Korean, Cantonese, Vietnamese : ₹3,500 for two :  UB City, Bangalore
+Mirage : 4.2 : Asian, Chinese, Thai, Beverages, Desserts : ₹3,000 for two :  1 Sobha, Bangalore
+Bhola & Blonde : 3.9 : North Indian, Lucknowi, Mughlai, Biryani, Fast Food, Desserts : ₹1,900 for two :  Indiranagar, Bangalore
+Kathpal's : 4.2 : North Indian, Chinese, Biryani, Street Food, Desserts, Beverages : ₹1,000 for two :  Vega City, Bannerghatta Road, Bangalore
+Enne : 3.9 : South Indian, Andhra, Seafood, Biryani, Continental : ₹1,000 for two :  Malleshwaram, Bangalore
+Boteco Restaurante Brasileiro : New : Brazilian, Steak, Salad, Finger Food, Desserts, Coffee, Beverages : ₹3,500 for two :  MG Road, Bangalore
+Kazé : 4.2 : Japanese, Sushi, Thai, Asian : ₹3,500 for two :  Lavelle Road, Bangalore
+Torye Drink, Dine & Dance : 3.8 : Continental : ₹2,000 for two :  Rajarajeshwari Nagar, Bangalore
+Lono : 4.2 : Chinese, Italian, Continental, North Indian, Seafood, Pizza, Pasta, Fast Food : ₹1,700 for two :  Indiranagar, Bangalore
+Easy Tiger : 4.1 : Finger Food, Continental : ₹1,700 for two :  Church Street, Bangalore
+Kyba- Sushi Dim Sums & More : 4.7 : Chinese, Thai, Sushi, Japanese, Asian, Seafood, Desserts : ₹1,400 for two :  Sahakara Nagar, Bangalore
+Gabru Di Chaap : 4.0 : North Indian, Momos, Fast Food, Wraps, Beverages : ₹500 for two :  Phoenix Marketcity Bangalore, Whitefield, Bangalore
+Delhi Highway : 4.1 : North Indian, Chinese, Street Food, Kebab, Desserts, Beverages : ₹1,800 for two :  Indiranagar, Bangalore
+46 Ounces : 4.4 : North Indian, Asian, Italian, Pizza, Desserts : ₹1,200 for two :  RMZ Infinity, Old Madras Road, Bangalore
+Sugar Factory Reloaded : 3.9 : North Indian, Continental, Italian, Chinese, Asian, American : ₹1,800 for two :  Koramangala 5th Block, Bangalore
+Down Town Pub : 4.6 : Continental, Pizza, Burger, Fast Food, Biryani, Desserts, Bar Food, Beverages : ₹1,700 for two :  Brigade Road, Bangalore
+PizzaExpress : 4.3 : Pizza, Italian, Salad, Bakery, Coffee, Beverages, Pasta : ₹1,400 for two :  Phoenix Mall of Asia, Hebbal, Bengaluru, Bangalore
+Spice Terrace - JW Marriott : 4.2 : North Indian, Mughlai, Desserts : ₹3,500 for two :  JW Marriott Bengaluru, Lavelle Road, Bangalore
+Cafe Centralis : 3.4 : Cafe, Chinese, Italian, Sichuan : ₹950 for two :  New BEL Road, Bangalore
+Kana By Coffee Mechanics : 4.3 : Cafe, Continental, Burger, Italian, Desserts, Beverages, Coffee : ₹1,000 for two :  HBR Layout, Bangalore
+The Biere Club : 4.2 : Bar Food, Continental, Italian, Wraps, Salad, Middle Eastern, Pizza : ₹2,600 for two :  Lavelle Road, Bangalore
+Tuk Tuk Thai - Pure Veg Asian Fine Dine : 4.8 : Thai, Asian, Chinese, Desserts, Beverages : ₹2,000 for two :  Koramangala 5th Block, Bangalore
+Chulha Chauki Da Dhaba : 4.3 : North Indian, Chinese, Kebab, Mughlai, Biryani, Beverages : ₹1,000 for two :  Sarjapur Road, Bangalore
+Cafe Gujjubhai : 3.6 : North Indian, Gujarati, Street Food, Fast Food : ₹300 for two :  Sarjapur Road, Bangalore
+Karigari By Chef Harpal Singh : 4.4 : North Indian, Kebab, Biryani, Mughlai : ₹1,000 for two :  Sahakara Nagar, Bangalore
+Watson's : 4.0 : North Indian, Continental, Italian, European, Asian, Beverages, Desserts : ₹1,600 for two :  Indiranagar, Bangalore
+1947 : 3.6 : North Indian, Chinese, Desserts, Beverages : ₹1,200 for two :  Rajarajeshwari Nagar, Bangalore
+Sanadige - Goldfinch Hotel : 4.2 : Seafood, Mangalorean, Goan, South Indian, North Indian, Chinese, Desserts, Beverages : ₹1,800 for two :  Goldfinch Hotel, Seshadripuram, Bangalore
+Platform 65 : 3.6 : South Indian, North Indian, Biryani, Seafood, Mughlai, Chinese, Ice Cream, Desserts : ₹1,200 for two :  Rajarajeshwari Nagar, Bangalore
+One Night In Bangkok : 4.1 : Asian, Thai, Desserts, Beverages : ₹2,500 for two :  UB City, Bangalore
+The Big Baadshaah : 4.3 : Continental, Chinese, Asian, North Indian, Fast Food, Street Food, Desserts, Beverages : ₹1,900 for two :  Marathahalli, Bangalore
+Bamey's Restro Cafe : 4.2 : Asian, Nepalese, Momos : ₹950 for two :  Koramangala 5th Block, Bangalore
+The Rameshwaram Cafe : 4.2 : South Indian, Beverages : ₹200 for two :  Indiranagar, Bangalore
+Phobidden Fruit : 4.4 : Vietnamese, Asian, Desserts : ₹1,300 for two :  Indiranagar, Bangalore
+Copper Chimney : 4.3 : North Indian, Mughlai, Biryani, Kebab, Beverages : ₹1,700 for two :  Phoenix Marketcity Bangalore, Whitefield, Bangalore
+IGNYT -The Beer Station : New : Continental : ₹2,000 for two :  Kumaraswamy Layout, Bangalore
+Indigo XP : 4.1 : North Indian, Continental, Chinese, Italian, Oriental, Thai, Biryani : ₹2,000 for two :  Koramangala 5th Block, Bangalore
+Maya : 4.4 : Asian, North Indian, Chinese, Thai, Beverages : ₹1,800 for two :  Jayanagar, Bangalore
+Smoor : 4.5 : Asian, Italian, Bakery, Desserts, Beverages, Cafe, Chinese, Ice Cream : ₹600 for two :  Indiranagar, Bangalore
+Dhwani : 4.5 : North Indian, Bar Food, Continental, Chinese, Biryani, Pizza, Momos, Beverages : ₹1,300 for two :  Indiranagar, Bangalore
+Neo Kitchen - Hilton Embassy Manyata Business Park : 4.2 : Asian, Continental, Italian, South Indian, North Indian, Biryani, Desserts, Beverages : ₹3,100 for two :  Hilton Bengaluru Embassy Manyata Business Park, Bangalore
+Nasi And Mee : 4.5 : Asian, Sushi, Thai : ₹1,600 for two :  Koramangala 4th Block, Bangalore
+The Rasoiya Street : 4.1 : North Indian, Continental, Asian, Chinese, Desserts, Beverages : ₹1,100 for two :  JP Nagar, Bangalore
+153 Biere Street : 4.2 : Asian, Continental, North Indian, Malaysian, Italian, Desserts : ₹2,000 for two :  Whitefield, Bangalore
+Tiamo - Conrad Bengaluru : 4.0 : Italian, Mediterranean, Fast Food : ₹3,000 for two :  Conrad Bengaluru, Ulsoor, Bangalore
+Radio Bar : New : Bar Food, North Indian, Seafood, Chinese, Pizza, Italian, Desserts : ₹2,000 for two :  Bellandur, Bangalore
+Light Of Italy : 4.3 : Italian, Pizza, Pasta, Ice Cream, Desserts, Beverages : ₹1,000 for two :  HSR, Bangalore
+Publik : 4.2 : North Indian, Kebab, Chinese, Continental, Mughlai, Seafood, Bar Food, Beverages : ₹1,400 for two :  Bellandur, Bangalore
+Techila : 4.2 : North Indian, Burger, Biryani, Pizza, Chinese, Mexican, Fast Food, Rolls : ₹1,200 for two :  Nagawara, Bangalore
+Hoy Punjab Restaurant : 4.3 : North Indian, Mughlai, Chinese, Street Food, Oriental, Beverages : ₹1,800 for two :  Whitefield, Bangalore
+Travellers Bungalow : 4.3 : Middle Eastern, European, Pizza, Finger Food, Desserts, Beverages : ₹1,400 for two :  Indiranagar, Bangalore
+Mahe Global Kitchen : 4.3 : North Indian, Continental, Asian, Pizza, Chinese, Desserts, Shake, Beverages : ₹1,400 for two :  Koramangala 5th Block, Bangalore
+Olive Beach : 4.4 : Italian, Pizza, Mediterranean, Continental, European, Beverages, Desserts : ₹3,500 for two :  Richmond Road, Bangalore
+The Grill House - Steaks & Sizzlers : 4.2 : American, Mexican, Italian, Steak, Seafood : ₹1,400 for two :  Ulsoor, Bangalore
+Sally By 1522 : 4.2 : South Indian, Chinese, Salad, Continental, Asian, Biryani, Seafood, Pasta : ₹1,600 for two :  Phoenix Mall of Asia, Hebbal, Bengaluru, Bangalore
+Monkey Bar : 3.7 : Continental, North Indian, Beverages : ₹2,000 for two :  Church Street, Bangalore
+The Square - Novotel : 4.0 : Continental, North Indian, Japanese, Italian : ₹3,200 for two :  Novotel Bengaluru, Marathahalli, Bangalore
+The Fatty Bao : 4.5 : Asian, Sushi, Japanese, Chinese : ₹1,400 for two :  Indiranagar, Bangalore
+Just Loaf : New : Mexican, Continental, Fast Food, Desserts : ₹1,500 for two :  Koramangala 3rd Block, Bangalore
+Spice It - ibis Bengaluru Hebbal : 3.6 : North Indian, Chinese, Italian, Continental, Pasta, Desserts, Beverages : ₹1,800 for two :  Ibis Hebbal, Bangalore
+Rooftop at Raw : 4.2 : Continental, Italian, Mexican, Pizza, Pasta, Beverages : ₹1,200 for two :  Koramangala 5th Block, Bangalore
+The Pizza Bakery : 4.3 : Pizza, Pasta, Italian, Continental, Desserts, Beverages : ₹1,500 for two :  JP Nagar, Bangalore
+Santé Spa Cuisine : 4.9 : Pizza, North Indian, Continental, Pasta, Asian, Cafe, Beverages, Desserts : ₹1,800 for two :  Domlur, Bangalore
+Drunken Daddy : 4.3 : North Indian, Continental, Fast Food, Oriental, Finger Food, Biryani, Beverages : ₹1,400 for two :  Koramangala 5th Block, Bangalore
+Saffron : 4.7 : North Indian, Biryani, Mughlai, Desserts : ₹2,500 for two :  Radisson Blu, Marathahalli, Bangalore
+Chin Lung Resto Bar : 4.0 : Bar Food, Chinese, North Indian : ₹1,400 for two :  Koramangala 4th Block, Bangalore
+Glen`s Bakehouse : 3.8 : Bakery, Cafe, Italian, Continental, Fast Food, Beverages, Desserts : ₹800 for two :  Whitefield, Bangalore
+Eight : New : Asian, Chinese, Thai, Japanese, Peruvian : ₹3,000 for two :  Phoenix Mall of Asia, Hebbal, Bengaluru, Bangalore
+Gufha - The President Hotel : 4.1 : North Indian, Mughlai, Biryani, Beverages : ₹1,400 for two :  The President Hotel, Jayanagar, Bangalore
+Noodle Bar : 3.8 : Asian, Oriental, Chinese, Thai, Desserts, Beverages : ₹1,700 for two :  Phoenix Marketcity Bangalore, Whitefield, Bangalore
+Sattvam : 4.2 : Chinese, Continental : ₹1,960 for two :  JP Nagar, Bangalore
+Kebapci : 4.2 : BBQ, Turkish, Kebab, Lebanese, Desserts : ₹1,600 for two :  Koramangala 6th Block, Bangalore
+The Druid Garden : 4.2 : North Indian, Asian, Continental, Italian, Chinese, Fast Food : ₹2,000 for two :  Sahakara Nagar, Bangalore
+Sidewalk Bar & Kitchen : 4.3 : North Indian, Continental, Chinese, Fast Food, Beverages : ₹1,800 for two :  Marathahalli, Bangalore
+Plaka By Chef Ajay Chopra : 4.0 : Italian, North Indian, Mediterranean, Pizza, Continental, Asian, Coffee : ₹1,800 for two :  Phoenix Mall of Asia, Hebbal, Bengaluru, Bangalore
+Neon Market : 4.2 : Cafe, Coffee, Japanese, Tea, Beverages : ₹1,000 for two :  Indiranagar, Bangalore
+Record Room : 4.5 : Sushi, Bar Food, Pizza, Desserts, Beverages : ₹2,500 for two :  MG Road, Bangalore
+Cafe Noir : 4.1 : Italian, Continental, French, Cafe, Pizza, Desserts, Juices, Beverages : ₹1,800 for two :  UB City, Bangalore
+Suzy Q : 4.3 : North Indian, Seafood, Continental, Asian, Chinese, Desserts, Beverages : ₹2,300 for two :  Cunningham Road, Bangalore
+Zoey's : 4.2 : Burger, Beverages, Continental, Pasta, Chinese, Sandwich, Cafe, Desserts : ₹700 for two :  Sarjapur Road, Bangalore
+Harley's Fine Baking : 4.0 : Bakery, Sandwich, Desserts : ₹600 for two :  JP Nagar, Bangalore
+Nando's : 4.4 : Burger, Healthy Food, Portuguese, Desserts : ₹1,500 for two :  Phoenix Marketcity Bangalore, Whitefield, Bangalore
+Iris Cafe & Kitchen : 4.1 : Cafe, Coffee, Chinese, Continental, Modern Indian, Pasta, Fast Food, Desserts : ₹1,200 for two :  JP Nagar, Bangalore
+Smooth Criminal : 3.9 : Chinese, North Indian, Pizza, Biryani, Desserts, Beverages, Continental : ₹1,000 for two :  Koramangala 5th Block, Bangalore
+The Caffeine Baar : 4.3 : Cafe, Italian, Continental, Bakery, Desserts, Beverages : ₹950 for two :  Jayanagar, Bangalore
+Monk's Bar & Social : 4.5 : Bar Food, South Indian, Asian, European, Italian, North Indian, Desserts, Beverages : ₹1,000 for two :  BTM, Bangalore
+Hoppipola : 4.1 : Continental, Italian, Chinese, North Indian, Pizza, Beverages : ₹2,000 for two :  Church Street, Bangalore
+Andrea's Brasserie : 4.5 : Pizza, Pasta, Asian, Salad, Desserts, Sushi, Beverages, Burger : ₹1,600 for two :  Phoenix Mall of Asia, Hebbal, Bengaluru, Bangalore
+HSR High Street : 3.9 : Chinese, Oriental, North Indian, Mughlai, Biryani, Seafood, Desserts : ₹950 for two :  HSR, Bangalore
+Barbeque Nation : 4.3 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,900 for two :  Electronic City, Bangalore
+Oota Bangalore : 4.9 : Mangalorean, South Indian, Salad, Desserts : ₹1,200 for two :  Craftworks, Bangalore
+Barkaas Indo Arabic Restaurant : New : Arabian, North Indian, Biryani, Mandi, Desserts : ₹1,000 for two :  Koramangala 5th Block, Bangalore
+California Burrito : 4.0 : Mexican, Healthy Food, American, Salad, Fast Food, Beverages : ₹450 for two :  Koramangala 5th Block, Bangalore
+Tastique : 4.5 : North Indian, Chinese, Beverages : ₹1,500 for two :  Nagawara, Bangalore
+Ssura Cocktails And Cuisines : 4.5 : Bar Food, Biryani, Continental, Chinese, Modern Indian, American, North Indian : ₹1,000 for two :  Koramangala 6th Block, Bangalore
+Paradise Biryani - A Legend Since 1953 : 3.7 : Biryani, Kebab, North Indian, Rolls, Chinese, Desserts : ₹1,100 for two :  JP Nagar, Bangalore
+Carnival de Goa : 4.3 : Goan, Chinese, Continental, Seafood, Pizza, Desserts, Beverages : ₹1,200 for two :  Ulsoor, Bangalore
+Iza : 4.5 : Asian, Chinese, Seafood, Salad, Desserts : ₹1,200 for two :  Divyasree Technopark, Bangalore
+Tipsy Bull - The Bar Exchange : 4.4 : Finger Food, North Indian, Continental, Italian, Fast Food, Desserts : ₹1,200 for two :  JP Nagar, Bangalore
+NH8 : 4.1 : North Indian, Rajasthani : ₹1,200 for two :  Indiranagar, Bangalore
+Niro : New : Continental, North Indian, Beverages, Asian, Bar Food : ₹2,500 for two :  Hotel Country Inn, Bangalore
+Fat Owl : 4.2 : North Indian, Salad, Fast Food, Chinese, Seafood, Pizza, Italian, Bar Food : ₹1,800 for two :  JP Nagar, Bangalore
+Kebarbiq Restaurant : 4.0 : BBQ, Arabian, Continental, North Indian, Middle Eastern, Chinese, Beverages : ₹1,400 for two :  HSR, Bangalore
+Rim Naam - The Oberoi : 4.9 : Thai, Asian, Seafood, Desserts : ₹5,000 for two :  The Oberoi, Bengaluru, Bangalore

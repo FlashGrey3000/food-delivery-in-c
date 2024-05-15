@@ -1,0 +1,345 @@
+Sangria : 4.2 : Salad, Fast Food, Italian, Continental, Oriental, North Indian, Biryani : ₹2,400 for two :  Fateh Sagar, Udaipur
+O'Brew : 3.8 : Cafe, Coffee, Italian, Beverages, Shake, Sandwich, Pizza, Mexican : ₹450 for two :  Chandpole, Udaipur
+Shekha's Lounge : 4.0 : North Indian, Mughlai, Chinese, Continental, Fast Food, Biryani, Desserts, Beverages : ₹1,500 for two :  Pichola, Udaipur
+Degree 281 By Inder Prakash : 4.1 : North Indian, Mughlai, Biryani, Continental, Chinese, Asian, Desserts, Beverages : ₹1,900 for two :  Pichola, Udaipur
+AmBar : 4.2 : North Indian, Continental, Italian : ₹1,800 for two :  Chandpole, Udaipur
+The Pot Garden : 4.4 : Continental, Italian, Healthy Food, Sandwich, Salad, Pancake, Waffle, Beverages : ₹1,200 for two :  Fateh Sagar, Udaipur
+Bottegaa : 4.5 : Healthy Food, Coffee, Juices, Asian, Pizza, Italian, Continental, Salad : ₹900 for two :  Panchwati, Udaipur
+Cosmo Bar & Bistro : 4.2 : North Indian, Continental, Beverages, Chinese, Cafe, Desserts, Italian, Pizza : ₹1,300 for two :  Bhopalpura, Udaipur
+Manuscript - Page Break : New : North Indian, Desserts : ₹1,000 for two :  Chandpole, Udaipur
+Brahma Kamal : 4.2 : North Indian, Continental, Chinese, Pizza, Pasta, Desserts, Beverages, Italian : ₹1,000 for two :  Fateh Sagar, Udaipur
+Panoramic Palate by The Grand Fateh : New : North Indian, Italian : ₹1,000 for two :  Pichola, Udaipur
+Callisto - Fine Dine, Kitchen & Bar : 4.0 : North Indian, Biryani, Middle Eastern, Asian, Italian, Japanese, Chinese, Desserts : ₹1,800 for two :  Bhuwana, Udaipur
+NIK 94 Bakery Patisserie Boulangerie Cafe : New : Pasta, Oriental, Fast Food, Desserts, Pizza, Mexican, Coffee, Sandwich : ₹850 for two :  Shobhagpura, Udaipur
+Sun & Moon Restaurant : 4.1 : Cafe, Beverages, Sandwich, Pizza, Fast Food, North Indian, Bar Food, Desserts : ₹1,200 for two :  Chandpole, Udaipur
+Kaner Bistro Lounge : 4.5 : North Indian, Chinese, Sandwich, Mexican, Fast Food, Shake, Coffee, Desserts : ₹2,000 for two :  Panchwati, Udaipur
+Verandah by the lake : 4.0 : North Indian, Fast Food, Chinese, Desserts : ₹1,000 for two :  Chandpole, Udaipur
+Tribute : 4.2 : North Indian, Rajasthani, Chinese, Sandwich, Salad, Desserts, Beverages : ₹1,400 for two :  Pichola, Udaipur
+Panna Vilas Restaurant & Lounge : 4.3 : North Indian, Mughlai, Italian, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Fateh Sagar, Udaipur
+Soul : 4.4 : North Indian, Bar Food, Mughlai, Continental, Asian, Pizza, Desserts, Beverages : ₹1,200 for two :  Pichola, Udaipur
+Qalaa : 4.5 : Bar Food, Continental, Coffee, Pasta, Desserts, Beverages, Mediterranean : ₹1,500 for two :  Chandpole, Udaipur
+Kaner Bagh : 4.4 : Rajasthani, North Indian, Chinese, Italian, Pizza, Sandwich, Desserts, Beverages : ₹1,600 for two :  Panchwati, Udaipur
+Khamma Ghani Restaurant : 4.2 : North Indian, Chinese, Continental, Mughlai, Salad, Desserts : ₹1,500 for two :  Pichola, Udaipur
+Baker's Blend Cafe & Patisserie : 4.1 : Asian, Italian, Continental, Coffee, Cafe, Desserts, Burger, Salad : ₹500 for two :  Bhopalpura, Udaipur
+INK - Local Home Bar & Grill : 4.5 : Bar Food, Asian, North Indian, Desserts : ₹1,000 for two :  Panchwati, Udaipur
+Poppy by Royal Repast : 4.9 : Pizza, Italian, North Indian, Beverages, Continental, Rajasthani : ₹1,400 for two :  City Centre, Udaipur
+Meze - Culinary Grill : 3.8 : North Indian, Mediterranean, Italian, Fast Food, Chinese, Bar Food, Desserts, Beverages : ₹1,600 for two :  Chandpole, Udaipur
+Rootage Restaurant and Lounge : 4.3 : North Indian, Chinese, Italian, Pizza, Asian, Salad, Desserts, Beverages : ₹1,000 for two :  City Centre, Udaipur
+OTC - Old Town Cafe : 4.1 : Cafe, North Indian, Chinese, Continental, Sandwich, Healthy Food, Desserts, Beverages : ₹850 for two :  Chandpole, Udaipur
+Zeno Bistro Lounge : 3.9 : North Indian, Bar Food, Salad, Oriental, Asian, Italian, Coffee, Beverages : ₹1,300 for two :  Subhash Nagar, Udaipur
+Upré By 1559 AD : 4.0 : North Indian, Rajasthani, Continental, Chinese, Fast Food, Desserts, Beverages : ₹2,000 for two :  Lake Pichola Hotel, Udaipur
+The Whistling Teal Restaurant : 4.4 : North Indian, Mughlai, Biryani, Chinese, Desserts, Beverages : ₹1,400 for two :  Pichola, Udaipur
+Aosa - Bakehouse & Roastery : 4.5 : Cafe, Continental, Italian, Bakery, Desserts, Coffee, Beverages : ₹900 for two :  Panchwati, Udaipur
+Hook & Irons : 4.2 : North Indian, Fast Food, Italian, Continental, Bar Food : ₹1,600 for two :  City Centre, Udaipur
+The Lily Court : 4.2 : North Indian, Chinese, Fast Food, Street Food, Desserts : ₹1,000 for two :  Sukher, Udaipur
+Arjuna : 4.2 : Modern Indian, North Indian, Desserts : ₹2,100 for two :  Fateh Sagar, Udaipur
+Ambrai - Amet Haveli : 3.9 : North Indian, Mughlai, Continental, Chinese, Desserts, Beverages : ₹1,700 for two :  Amet Haveli, Udaipur
+Maotai : 4.1 : Asian, Sushi, Chinese, Korean, Beverages : ₹1,800 for two :  Fateh Sagar, Udaipur
+Hari Garh Restaurant : 4.2 : North Indian, Rajasthani, Continental, Chinese, Desserts, Beverages : ₹1,400 for two :  Chandpole, Udaipur
+Mr. Tandoor : 3.8 : North Indian, Rolls, Chinese, Biryani, Pizza, Fast Food, Cafe, Beverages : ₹450 for two :  Shobhagpura, Udaipur
+The Forest Flask : 3.9 : Continental, Bar Food, Italian, Pizza, Salad, Fast Food, Desserts, Beverages : ₹2,200 for two :  Chandpole, Udaipur
+Cafe Aura : New : Cafe, Coffee, Pizza, Pasta, Italian, Mexican, Chinese, Beverages : ₹500 for two :  Bhuwana, Udaipur
+Taro : 4.5 : Bar Food, Asian, Continental, Mediterranean, Pizza, Pasta, Desserts, Beverages : ₹2,900 for two :  Panchwati, Udaipur
+The Prism Restaurant : 4.3 : North Indian, Chinese, Rajasthani, Continental, Italian, Salad, Desserts, Beverages : ₹1,200 for two :  Hiran Magri, Udaipur
+Baro Masi : 4.0 : Bar Food, North Indian, Chinese, Asian, Pizza, Rolls, Continental, Desserts : ₹1,900 for two :  Chandpole, Udaipur
+Hangout The Cocktail Room : 4.4 : North Indian, Pizza, Italian, Asian, Bar Food, Coffee, Beverages : ₹1,200 for two :  Shobhagpura, Udaipur
+Deck by Hemang Vachani : 3.9 : North Indian, Mughlai, Chinese, Continental, Italian, Salad, Desserts, Beverages : ₹1,000 for two :  Panchwati, Udaipur
+Malibu The Brew House : 4.9 : Bar Food, North Indian, Pizza, Italian, Asian, Coffee, Beverages : ₹1,500 for two :  Shobhagpura, Udaipur
+Chunda Palace Hotel & Restaurant : 4.6 : North Indian, Continental, Mughlai, Chinese, Pizza, Pasta, Desserts, Beverages : ₹2,500 for two :  Pichola, Udaipur
+Botanical Cafe : 4.1 : Cafe, Coffee, North Indian, Pizza, Pasta, Fast Food, Desserts, Beverages : ₹1,600 for two :  Bhuwana, Udaipur
+Jagat Niwas Palace : 3.4 : North Indian, Italian, Chinese, Continental, Mughlai, Shake, Desserts, Beverages : ₹1,600 for two :  Jagat Niwas, Udaipur
+WOW! China : 3.7 : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹700 for two :  Sukher, Udaipur
+The Artist House : 3.6 : North Indian, Continental, Chinese, Fast Food, Salad, Desserts, Beverages : ₹1,500 for two :  City Centre, Udaipur
+Notomoro : 4.3 : Continental, Rajasthani, Chinese, Pizza, Burger, Fast Food, Desserts : ₹1,200 for two :  The Fern Residency, Hiran Magri, Udaipur
+NY Cafe & Bistro : 4.1 : Cafe, Coffee, Pizza, Sandwich, Fast Food, Desserts, Shake, Beverages : ₹800 for two :  City Centre, Udaipur
+Mathara - The Heights : 3.9 : North Indian, Italian, Chinese, Fast Food : ₹1,200 for two :  Ashok Nagar, Udaipur
+Aranya Vilas : 4.1 : Rajasthani, North Indian, Oriental, Italian, Salad, Biryani, Desserts, Beverages : ₹1,500 for two :  Pichola, Udaipur
+Sheesh Mahal - The Leela : 4.3 : Rajasthani, North Indian : ₹2,200 for two :  Pichola, Udaipur
+Kebabs & Curries Company : 4.2 : Kebab, North Indian, Mughlai, Seafood, Chinese, Biryani, Desserts, Beverages : ₹1,400 for two :  Shobhagpura, Udaipur
+Pracheen By Historia Royal : 3.9 : North Indian, Fast Food, Street Food : ₹1,000 for two :  Ashok Nagar, Udaipur
+Seven Lakes Cafe And Restaurant : 4.1 : Cafe, Beverages, North Indian, Healthy Food, Mexican, Italian, Chinese, Desserts : ₹1,300 for two :  Fateh Sagar, Udaipur
+The Toast House : 3.9 : North Indian, Continental, Mexican, Italian, Biryani, Chinese, Fast Food, Desserts : ₹1,100 for two :  Shobhagpura, Udaipur
+Burger Singh - Big Punjabi Burgers : 3.8 : Burger, Fast Food : ₹400 for two :  Ashok Nagar, Udaipur
+Sardar G Malai Chaap Junction : 3.7 : North Indian, Rolls, Momos : ₹400 for two :  City Centre, Udaipur
+Lakeside Cafe & Restro : 3.7 : Fast Food, Pizza, Sandwich, Chinese, Street Food, North Indian, Desserts, Beverages : ₹700 for two :  Chandpole, Udaipur
+Rajwadi Restaurant : 3.6 : North Indian, Chinese, Street Food, Beverages : ₹350 for two :  City Centre, Udaipur
+Bougainvillea Terrace By The Lake : 4.0 : North Indian, Bar Food : ₹2,000 for two :  Hotel Lakend, Fateh Sagar, Udaipur
+1559 AD : 3.8 : Continental, North Indian, Rajasthani, Chinese, Pizza, Desserts, Beverages : ₹1,700 for two :  Fateh Sagar, Udaipur
+Little Italy : 4.3 : Italian, Pizza, Pasta, Continental, Desserts, Healthy Food, Beverages : ₹2,000 for two :  Bhuwana, Udaipur
+Coffee Culture The Ristorante Lounge : 3.8 : Cafe, Coffee, Pizza, Pasta, Fast Food, Desserts, Beverages, Shake : ₹800 for two :  Shobhagpura, Udaipur
+Veer Ji Dal Baati : 3.6 : Rajasthani, North Indian : ₹200 for two :  City Centre, Udaipur
+PCC - Punjabi Chaap Corner : 4.0 : North Indian, Chinese, Fast Food, Rolls, Beverages, Desserts, Healthy Food, Kebab : ₹400 for two :  Panchwati, Udaipur
+Aamas Cafe : 3.7 : Fast Food, Sandwich, Street Food, Shake, Beverages : ₹300 for two :  Chandpole, Udaipur
+Mewar Haveli Rooftop Restaurant : 3.9 : Rajasthani, North Indian, Chinese, Continental, Sandwich, Salad, Desserts, Beverages : ₹1,100 for two :  Mewar Haveli, Udaipur
+R Adda : 4.8 : North Indian, Italian : ₹2,000 for two :  Hiran Magri, Udaipur
+TMV Restaurant : 3.9 : North Indian, Chinese, Italian, Sandwich, Fast Food, Desserts, Beverages : ₹1,200 for two :  Shakti Nagar, Udaipur
+Natraj Dining Hall & Restaurant : 4.4 : North Indian, Rajasthani, Chinese, Pizza, Sandwich, Fast Food, Salad, Beverages : ₹1,000 for two :  City Centre, Udaipur
+Shamiana Roof Top Restaurant & Coffee Shop : 3.9 : North Indian, Continental, Rajasthani, Biryani, Pizza, Pasta, Fast Food, Salad : ₹1,500 for two :  Chandpole, Udaipur
+Bawarchi : 3.9 : North Indian, Biryani, Chinese, Desserts, Rajasthani, Fast Food, Pizza, Pasta : ₹1,000 for two :  City Centre, Udaipur
+Rooftop By Historia Royale : 3.9 : North Indian, Continental, Fast Food, Desserts, Beverages : ₹1,200 for two :  Shobhagpura, Udaipur
+The Gardenia Restaurant : 4.1 : North Indian, Chinese, Rajasthani, Italian, Desserts, Coffee, Shake, Beverages : ₹1,000 for two :  Shobhagpura, Udaipur
+The Moody Moon By Dheergarh Palace : 4.1 : North Indian, Chinese, Rajasthani, Italian, Biryani, Bar Food, Desserts, Beverages : ₹1,600 for two :  Pichola, Udaipur
+KFC : 3.9 : Burger, Fast Food, Rolls : ₹450 for two :  Lake City Mall, Udaipur
+Seasons Cafe : 4.3 : Continental, Oriental, Rajasthani, North Indian, Chinese, Salad, Biryani, Desserts : ₹1,500 for two :  Lake City Mall, Udaipur
+Navidya : 4.8 : North Indian, Rajasthani, Chinese, Continental : ₹750 for two :  Amantra Comfort Hotel, Udaipur
+Purohit Cafe : 4.1 : South Indian, Street Food, Beverages : ₹600 for two :  Anand Plaza, Udaipur
+Padmini Restaurant : 4.4 : North Indian, Chinese, Fast Food, Rajasthani : ₹700 for two :  City Centre, Udaipur
+Maksa Ri Dhani : New : North Indian, Chinese, Rajasthani, Italian, Fast Food, Desserts, Beverages : ₹300 for two :  Chandpole, Udaipur
+Tapri Niwas : 3.9 : Tea, Healthy Food, Beverages, Desserts, Gujarati, Lebanese, Street Food : ₹750 for two :  Fatehpura, Udaipur
+Dhabalogy : 4.6 : North Indian, Street Food, Fast Food, Desserts, Beverages : ₹1,500 for two :  Sukher, Udaipur
+1944 - The Hocco Kitchen : 2.9 : North Indian, Burger, Pizza, Fast Food, Shake, Beverages : ₹400 for two :  Panchwati, Udaipur
+Barbeque Nation : 4.5 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Desserts : ₹1,750 for two :   Nexus Celebration Mall, Udaipur
+House Of Gourmet : 4.0 : Cafe, Biryani, Continental, North Indian, Italian, Oriental, Chinese, Beverages : ₹1,800 for two :  Panchwati, Udaipur
+Sankalp : 3.8 : South Indian, Desserts, Beverages : ₹1,000 for two :  City Centre, Udaipur
+Jaipur Jungle : 4.1 : North Indian, Chinese, Italian, Mexican, Beverages : ₹1,200 for two :   Nexus Celebration Mall, Udaipur
+KOI All Day Cafe : 4.0 : Cafe, Coffee, Salad, Fast Food, North Indian, Chinese, Desserts, Beverages : ₹800 for two :  Shobhagpura, Udaipur
+The Bake Affair : 4.3 : Cafe, Bakery, Sandwich, Pasta, Pizza, Burger, Fast Food, Beverages : ₹1,000 for two :  Panchwati, Udaipur
+Chandni - Oberoi Udaivilas : 4.9 : North Indian, Continental : ₹5,000 for two :  Oberoi Udaivilas - Chandpole, Udaipur
+Hari Vedas : 4.1 : North Indian, Mexican, Chinese, Italian, Kebab, Desserts, Coffee, Beverages : ₹1,800 for two :   Nexus Celebration Mall, Udaipur
+Frangipani By The Lake : 4.2 : North Indian, Italian, Asian, Bar Food, Beverages : ₹1,200 for two :  Hotel Lakend, Fateh Sagar, Udaipur
+Firki : 4.0 : North Indian, Modern Indian, Asian, Bar Food, Desserts, Beverages : ₹2,000 for two :  Panchwati, Udaipur
+Bhukh Lagi ! : 3.5 : Pizza, Sandwich, Burger, Fast Food, Street Food, Shake, Beverages : ₹200 for two :  Hiran Magri, Udaipur
+Barista Coffee : 4.1 : Cafe, Coffee, Beverages, Italian, Pizza, Fast Food, Bakery, Desserts : ₹1,100 for two :  Panchwati, Udaipur
+Aravindham : 4.4 : South Indian, Street Food, Beverages : ₹350 for two :  Ashok Nagar, Udaipur
+Cafe Therapy : 3.5 : Pizza, Sandwich, Fast Food, Street Food, North Indian, Chinese, Beverages : ₹400 for two :  Bhopalpura, Udaipur
+Mocha Cafe And Bar : - : Cafe, Coffee, North Indian, Continental, Italian, Chinese, Desserts, Shake : ₹1,000 for two :  Panchwati, Udaipur
+Vantage - By Hemang Vachani : 4.3 : North Indian, Mughlai, Italian, Chinese, Fast Food, Biryani, Desserts, Beverages : ₹1,500 for two :  Pichola, Udaipur
+Royal Delicious Cafe & Restaurant : 3.6 : North Indian, South Indian, Chinese, Sandwich, Fast Food, Street Food : ₹1,000 for two :  Bhuwana, Udaipur
+Traditional Khana : 4.7 : Rajasthani, North Indian, Desserts, Beverages : ₹1,000 for two :  Panchwati, Udaipur
+The Maharaja - Vijaygarh Resort : 3.6 : North Indian, Chinese, Continental, Kebab, Mughlai, Beverages : ₹1,000 for two :  Fateh Sagar, Udaipur
+Palasa Patio Bar & Cuisine : 4.3 : Continental, Pizza, Italian, North Indian : ₹1,000 for two :  Hiran Magri, Udaipur
+Mateshwari Restaurant : 3.8 : North Indian, Chinese, Rajasthani, Street Food : ₹300 for two :  Hiran Magri, Udaipur
+Fruit Fit, Juices, Shakes, And Smoothies : 3.9 : Juices, Shake, Beverages, Sandwich : ₹200 for two :  Ashok Nagar, Udaipur
+Sheesh Kebab : 3.9 : Kebab, North Indian, Mughlai, Biryani, Fast Food : ₹450 for two :  City Centre, Udaipur
+Raaj Bagh : 3.7 : North Indian, Continental, Chinese, Oriental, Desserts, Beverages : ₹1,500 for two :  Fateh Sagar, Udaipur
+Sidewalk Barbeque : 3.4 : North Indian, Chinese, Pizza, Fast Food, Street Food, Biryani, Mughlai, Desserts : ₹450 for two :  Hiran Magri, Udaipur
+Zini's Cafe : 3.6 : Continental, Asian, Desserts : ₹1,800 for two :  Fateh Sagar, Udaipur
+Kake Di Hatti : 3.9 : North Indian, Chinese, Rolls, Italian, Desserts : ₹1,000 for two :  Shobhagpura, Udaipur
+Mumbai Amruttulya Chai : 3.3 : Tea, Street Food : ₹100 for two :  Bhopalpura, Udaipur
+Café Pride - Pride Hotel : 3.9 : North Indian, Chinese, Seafood, Mughlai, Beverages, Bar Food : ₹1,500 for two :  Ashok Nagar, Udaipur
+Pizzeria By The Lake : 4.3 : Pizza, Italian, Asian, Beverages : ₹1,500 for two :  Fateh Sagar, Udaipur
+Sheesh Mahal : 4.0 : North Indian, Chinese, Rajasthani, Fast Food, Desserts : ₹1,000 for two :  Hotel Swaroop Villas, Fateh Sagar, Udaipur
+Sky Lounge By D'1981 : 3.9 : Cafe, Coffee, North Indian, Fast Food, Pasta, Pizza, Desserts, Beverages : ₹1,000 for two :  City Centre, Udaipur
+The Chulha Kitchen : 3.1 : North Indian, Biryani : ₹500 for two :  Bhuwana, Udaipur
+The Cups Cafe : 3.0 : Cafe, Coffee, Beverages, Sandwich, Pizza, Fast Food, Mexican, Desserts : ₹800 for two :  Fatehpura, Udaipur
+Darikhana Restaurant : 4.0 : North Indian : ₹4,000 for two :  City Centre, Udaipur
+Jharokha : 4.3 : South Indian, North Indian, Continental : ₹5,500 for two :  Taj Lake Palace, Pichola, Udaipur
+THE BIRYANI REPUBLIC : - : Biryani, Kebab : ₹500 for two :  Sundarwas, Udaipur
+Aravalli - The Trident : 4.1 : Rajasthani, North Indian, Asian, Continental, Italian, Salad, Biryani, Desserts : ₹3,500 for two :  Pichola, Udaipur
+Rajwada Bites : 4.1 : North Indian, Mughlai, Chinese, Biryani, Fast Food, Desserts, Beverages : ₹1,300 for two :  Panchwati, Udaipur
+Prince Faluda Ice Cream : 4.0 : Ice Cream, Desserts, Beverages, Shake : ₹200 for two :  Bombay Market, Sukhadia Circle, Udaipur
+Grasswood Cafe : 4.4 : Cafe, North Indian, Chinese, Pizza, Pasta, Sandwich, Shake, Beverages : ₹850 for two :  Chandpole, Udaipur
+Bhoomi Fine Dine - Ramya Resort And Spa : 3.9 : Chinese, Italian, North Indian, South Indian : ₹1,800 for two :  Hiran Magri, Udaipur
+Jade by The G Snoozebox : 3.8 : North Indian, Chinese, Beverages : ₹1,000 for two :  Sukher, Udaipur
+Tandoor N Tonic : 4.0 : Chinese, Mughlai, North Indian, Biryani, Burger, Rolls, Fast Food : ₹550 for two :  Bhopalpura, Udaipur
+360 Degree Izakaya : 3.5 : Asian, North Indian, Continental, Sandwich, Beverages : ₹1,000 for two :  Subhash Nagar, Udaipur
+The Elevate : 4.4 : Chinese, Italian, North Indian, Continental : ₹800 for two :  City Centre, Udaipur
+Namaste Mewar Restaurant : New : North Indian, South Indian, Pizza, Pasta, Italian, Fast Food, Chinese, Beverages : ₹350 for two :  Panchwati, Udaipur
+Yummy Yoga : 4.5 : Cafe, Coffee, North Indian, Chinese, Pizza, Fast Food, Desserts, Beverages : ₹1,000 for two :  Chandpole, Udaipur
+ZENITH - Bar And Lounge : 4.0 : North Indian : ₹1,500 for two :  Fateh Sagar, Udaipur
+The Hidden Place Cafe : New : Pizza, Burger, Sandwich, Chinese, Fast Food, Street Food, Ice Cream, Beverages : ₹300 for two :  Ganesh Nagar, Udaipur
+Baskin Robbins - Ice Cream Desserts : 3.5 : Ice Cream, Desserts, Beverages : ₹500 for two :  Shobhagpura, Udaipur
+New Santosh Bhojanalaya : 3.4 : North Indian, Mughlai, Chinese, South Indian, Fast Food, Desserts, Beverages : ₹400 for two :  Shakti Nagar, Udaipur
+Boba Bhai : 3.1 : Bubble Tea, Burger, Fast Food, Street Food, Momos, Shake, Beverages : ₹400 for two :  Shakti Nagar, Udaipur
+Wabi Sabi : New : North Indian, Mughlai, Seafood, Biryani, Chinese, Sandwich, Ice Cream, Beverages : ₹1,000 for two :  Hiran Magri, Udaipur
+Dil Punjabi 3 : 3.3 : North Indian, South Indian, Chinese, Sandwich, Pizza, Fast Food, Desserts, Beverages : ₹800 for two :  City Centre, Udaipur
+The Milkyway Ice Cream : 3.5 : Ice Cream, Shake : ₹200 for two :  Bhuwana, Udaipur
+Tapri Satsang : 3.9 : Cafe, Coffee, North Indian, South Indian, Sandwich, Fast Food, Desserts, Beverages : ₹1,000 for two :  Bhuwana, Udaipur
+The Oven Project : 4.1 : Sandwich, Burger, Pasta, Pizza, Fast Food, Chinese, Beverages : ₹1,000 for two :  Panchwati, Udaipur
+The Courtyard by Spectrum : - : North Indian, Italian : ₹2,500 for two :  Fatehpura, Udaipur
+Food Adda : 3.8 : Sandwich, Pizza, Burger, Pasta, Fast Food, Chinese, Tea, Beverages : ₹700 for two :  Panchwati, Udaipur
+Natural View Restaurant : 3.9 : North Indian, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,200 for two :  Hotel Devraj Niwas, Udaipur
+Paantya : 4.2 : Rajasthani, Italian, Fast Food, Desserts, Beverages : ₹5,000 for two :  City Centre, Udaipur
+Burger Farm : 3.2 : Burger, Fast Food, Beverages : ₹350 for two :  Panchwati, Udaipur
+Gulaabo - The Customized Cafe : 3.7 : Cafe, Coffee, Fast Food, Beverages : ₹500 for two :  Bhuwana, Udaipur
+Coffee Ville : 3.9 : Cafe, Coffee, Beverages, Chinese, Pizza, Fast Food, North Indian, Desserts : ₹900 for two :  Panchwati, Udaipur
+Green Grotto Bistro : 4.0 : Mexican, Thai, Cafe, Sandwich, Pizza, Italian, Desserts, Beverages : ₹500 for two :  Shobhagpura, Udaipur
+Rainbow Restaurant : 3.6 : North Indian, Chinese, Continental : ₹800 for two :  Chandpole, Udaipur
+Enigma Fine Dine : 4.0 : North Indian, Chinese, Biryani, Fast Food, Desserts : ₹1,500 for two :  Pichola, Udaipur
+Cafe Boho : 3.4 : Cafe, North Indian, Fast Food, Chinese, Desserts, Beverages : ₹750 for two :  Chandpole, Udaipur
+Spice N Riice : 4.0 : North Indian, Chinese, Pasta, Pizza, Fast Food, Salad, Shake, Beverages : ₹1,200 for two :  Shobhagpura, Udaipur
+The Big Pot : 4.3 : North Indian, Chinese, Mediterranean, Desserts, South Indian, Oriental, Beverages : ₹1,300 for two :  Pichola, Udaipur
+Dosa Plaza : 3.8 : South Indian, North Indian, Chinese, Sichuan, Pizza, Pasta, Desserts, Beverages : ₹800 for two :  Sukher, Udaipur
+Chhappan Bhog : 3.0 : North Indian, Chinese, South Indian, Street Food : ₹650 for two :  Fatehpura, Udaipur
+Cafe Goodfellas : 4.4 : Cafe, Coffee, Fast Food, Sandwich, Burger, Pizza, Pancake, Waffle : ₹700 for two :  Shakti Nagar, Udaipur
+Chinese Wok : New : Chinese : ₹300 for two :  Bhuwana, Udaipur
+Fizzy Fizz Soda & Coffee Shop : 4.6 : Beverages, Shake : ₹200 for two :  Shobhagpura, Udaipur
+Mr. Sandwich : 3.9 : Sandwich, Pizza, Burger, Street Food, Fast Food, Shake, Coffee, Beverages : ₹450 for two :  Ashok Nagar, Udaipur
+Pizzeria Locale : 3.7 : Pizza : ₹1,100 for two :  City Centre, Udaipur
+The Biryani Republic : 3.8 : Biryani, Kebab, North Indian : ₹500 for two :  Shobhagpura, Udaipur
+Padmini - The Lalit Laxmi Vilas Palace : 4.0 : Rajasthani, North Indian, Asian, Chinese, Beverages : ₹3,500 for two :  The LaLiT Laxmi Vilas Palace, Udaipur
+What A Room : New : North Indian, Chinese, Sandwich, Pasta, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Bhuwana, Udaipur
+Giani : 4.8 : Ice Cream, Waffle, Desserts, Beverages : ₹250 for two :  Chandpole, Udaipur
+Coffee Bugs Cafe & Bakery : New : Cafe, Coffee, Pizza, Burger, Sandwich, Fast Food, Beverages, Bakery : ₹300 for two :  Shobhagpura, Udaipur
+Udaipuri Restaurant : 4.3 : North Indian, Chinese, Continental, Mediterranean, Desserts, Beverages : ₹850 for two :  Shakti Nagar, Udaipur
+Z27 Express : 4.1 : Cafe, Coffee, Tea, Shake, Beverages, Fast Food : ₹700 for two :  Panchwati, Udaipur
+Charcoal : 4.2 : Continental, North Indian, Chinese, Mexican, Street Food, Biryani, Desserts, Beverages : ₹1,800 for two :  Chandpole, Udaipur
+Delhi Live Kitchen : 4.5 : North Indian, Chinese, Momos, Pizza, Burger, Fast Food, Beverages : ₹1,000 for two :  Bhuwana, Udaipur
+Shekha's : 3.9 : North Indian, Mughlai, Chinese, Continental, Pasta, Biryani, Desserts, Beverages : ₹2,100 for two :  Chandpole, Udaipur
+Amber - Amet Haveli : 3.9 : Mexican, Continental, North Indian, Salad, Desserts : ₹1,500 for two :  Pichola, Udaipur
+Gurukripa Restaurant : 4.0 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹400 for two :  City Centre, Udaipur
+Sunset Terrace : 3.9 : North Indian, Chinese, Continental, Asian : ₹3,000 for two :  Taj Fateh Prakash Palace, Udaipur
+Blue Box Coffee : - : Cafe, Coffee, Burger, Sandwich, Pizza, Street Food, Shake, Beverages : ₹300 for two :  Sundarwas, Udaipur
+Viraasat The Haveli Restaurant : 3.9 : Rajasthani, North Indian, Chinese, Kebab, Fast Food, Biryani, Desserts, Beverages : ₹1,000 for two :  Chandpole, Udaipur
+Crave Eat Repeat : 4.3 : Sandwich, Rolls, Pizza, Fast Food, Mexican, Street Food, Shake, Beverages : ₹350 for two :  Fatehpura, Udaipur
+Level 5 : 4.0 : Continental, Fast Food, North Indian, Beverages : ₹1,200 for two :  Hotel Horizon, Panchwati, Udaipur
+Pick & Move Restaurant : 3.9 : North Indian, Mughlai, Kebab, Biryani, Seafood, Pizza, Fast Food, Chinese : ₹1,000 for two :  City Centre, Udaipur
+Myra - Ramada Udaipur : 4.2 : Rajasthani, North Indian, Oriental, Continental, Italian, Biryani, Desserts, Beverages : ₹3,500 for two :  Ramada Udaipur Resort & Spa, Udaipur
+Cafe Bliss : 3.7 : North Indian, Chinese, Mughlai, Sandwich, Pasta, Fast Food, Street Food, Beverages : ₹600 for two :  Pichola, Udaipur
+Nova : 3.5 : North Indian, Fast Food, Desserts, Beverages : ₹2,000 for two :  Howard Johnson by Wyndham, Udaipur
+Aishwarya Restaurant : 3.5 : North Indian, Chinese, Continental, Desserts, Ice Cream, Beverages : ₹1,000 for two :  Fateh Sagar, Udaipur
+Wingshub : 3.4 : Pizza, Burger, Fast Food, Beverages : ₹350 for two :  Chandpole, Udaipur
+Tea Post : 3.9 : Tea, Coffee, Shake, Beverages, Chinese, Sandwich, Fast Food, Street Food : ₹300 for two :  Fatehpura, Udaipur
+A2C Pulav Centre : New : North Indian : ₹250 for two :  Bhopalpura, Udaipur
+Shivshakti Chinese Fast Food : 3.8 : Chinese, Momos, Pizza, Sandwich, Burger, Fast Food, Street Food, Beverages : ₹300 for two :  Chandpole, Udaipur
+Spice Hub Restro Cafe : 3.9 : Cafe, Coffee, North Indian, Chinese, Salad, Sandwich, Fast Food, Juices : ₹700 for two :  City Centre, Udaipur
+Panchmukhi Restaurant : 4.0 : North Indian, Chinese, Fast Food, Rajasthani, Biryani, Beverages : ₹450 for two :  Hiran Magri, Udaipur
+Keventers - Milkshakes & Desserts : 3.8 : Shake, Beverages : ₹400 for two :   Nexus Celebration Mall, Udaipur
+Sangri : 3.9 : North Indian, Biryani, Asian, Continental, Chinese, Fast Food, Desserts, Beverages : ₹2,100 for two :  Sukher, Udaipur
+Hotspoon : 3.9 : Chinese, Beverages, Continental, Asian, North Indian, South Indian, Pizza, Pasta : ₹1,000 for two :  Ashok Nagar, Udaipur
+Y Not Momos : 3.9 : Momos, Chinese, Fast Food, Desserts : ₹350 for two :  Panchwati, Udaipur
+Millets Of Mewar : 2.7 : North Indian, Pizza, Pasta, Beverages : ₹1,000 for two :  Pichola, Udaipur
+The F3 Bar- Radisson : 4.2 : North Indian, Chinese, Continental, Pizza, Fast Food, Desserts, Beverages : ₹2,500 for two :  Lake City Mall, Udaipur
+Zest - Amantra Shilpi Resort : 4.4 : North Indian, Mughlai, Chinese, Rajasthani, Continental, Biryani, Desserts, Beverages : ₹1,500 for two :  Amantra Shipi Resort, Udaipur
+Parkview Heights : 3.9 : North Indian, South Indian, Chinese, Continental, Seafood, Biryani, Desserts, Beverages : ₹1,200 for two :  Ashok Nagar, Udaipur
+Panera- By Shiv Niwas Palace : 3.9 : Bar Food, Beverages : ₹2,400 for two :  Chandpole, Udaipur
+Vanda Vada Pav : 3.7 : Street Food, North Indian, Chinese, Pizza, Sandwich, Fast Food, Ice Cream, Beverages : ₹400 for two :  Ashok Nagar, Udaipur
+Saffron - Hotel The Archi : 3.4 : North Indian, South Indian, Chinese, Biryani, Desserts, Shake : ₹750 for two :  Panchwati, Udaipur
+Vegas 69 Bar & Restaurant : 2.8 : North Indian, Mughlai, Continental, Pizza, Fast Food, Biryani, Desserts, Beverages : ₹1,400 for two :  Shobhagpura, Udaipur
+Dhaba Sector 14 : - : North Indian, Salad, Beverages : ₹300 for two :  Hiran Magri, Udaipur
+Cafe Rocks : 3.6 : Chinese, Fast Food : ₹450 for two :  Ashok Nagar, Udaipur
+Shree Kanak Dining Hall : 3.9 : North Indian : ₹350 for two :  City Centre, Udaipur
+Lake City Bakery : 3.7 : Bakery : ₹350 for two :  Shakti Nagar, Udaipur
+Xero Degrees : 3.7 : Cafe, Fast Food, Waffle, Salad, Coffee, Shake, Beverages : ₹600 for two :  Shakti Nagar, Udaipur
+The Blendz : 4.0 : Cafe, Continental, Sandwich, Pizza, Pasta, Wraps, Salad, Beverages : ₹1,300 for two :  Panchwati, Udaipur
+Pannadhay Cruise Restaurant : 3.5 : Cafe, Coffee, Beverages, Sandwich, Fast Food, Chinese, North Indian, Desserts : ₹1,000 for two :  Hiran Magri, Udaipur
+Jannat Rooftop Bar : 4.1 : North Indian, Chinese, Pizza, Fast Food, Biryani : ₹2,200 for two :  Fateh Sagar, Udaipur
+Gaurav Ice Cream & Milk Parlour : - : Ice Cream, Desserts, Juices, Shake, Beverages : ₹200 for two :  Bombay Market, Sukhadia Circle, Udaipur
+Shreenath Pure Veg Special Paratha : 3.6 : North Indian, Rajasthani : ₹200 for two :  City Centre, Udaipur
+The Greek Farm Cafe & Restro : 2.6 : Cafe, Coffee, Fast Food, North Indian, Italian : ₹800 for two :  Fateh Sagar, Udaipur
+Jhumar Restaurant : 3.9 : North Indian, Mughlai, Chinese, Fast Food, Desserts, Beverages : ₹1,200 for two :  Fateh Sagar, Udaipur
+Pizza Hut : 3.5 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Lake City Mall, Udaipur
+The Vue : 3.9 : North Indian, Mughlai, Chinese, Italian, Biryani, Fast Food, Shake, Beverages : ₹1,200 for two :  City Centre, Udaipur
+Manwar Restaurant : 3.2 : North Indian, Mughlai, Rajasthani, Kebab, Biryani, Chinese, Desserts : ₹1,200 for two :  Pichola, Udaipur
+Mr & Mrs Idly : 4.1 : South Indian, North Indian, Chinese, Fast Food, Sichuan : ₹400 for two :  Hiran Magri, Udaipur
+Vinod's Cafe : 3.9 : Sandwich, Fast Food, Street Food, Pizza, Chinese, North Indian, Beverages : ₹400 for two :  Rkay Mall, Udaipur
+Neel Kamal - Taj Lake Palace : 4.5 : North Indian, Mughlai, Kebab, Biryani, Desserts : ₹7,500 for two :  Taj Lake Palace, Pichola, Udaipur
+Black 27 : - : North Indian, Chinese, Italian, Mexican, Japanese, Desserts : ₹1,500 for two :  Bhuwana, Udaipur
+15D Cafe & Restaurant : - : North Indian, Chinese, Pizza, Sandwich, Fast Food, Street Food : ₹500 for two :  Pahada, Udaipur
+Beanery : 3.9 : Pizza, Fast Food, North Indian, Chinese, Momos, Street Food, Shake, Beverages : ₹350 for two :  Sundarwas, Udaipur
+Kunafa Bytes : - : Desserts : ₹600 for two :  Panchwati, Udaipur
+Fateh Garh : 3.2 : North Indian, Chinese, Italian, American, Seafood, Salad, Desserts, Beverages : ₹2,000 for two :  Fateh Sagar, Udaipur
+GetAWay - Ice Creams & Desserts : 4.3 : Ice Cream, Desserts, Bakery : ₹200 for two :  Shakti Nagar, Udaipur
+Ark- juSTa Rajputana : 4.1 : Rajasthani, North Indian, Continental, Salad, Asian, Oriental, Beverages : ₹1,400 for two :  Hiran Magri, Udaipur
+Rajdarshan - A Lake View Hotel : - : Rajasthani, Bar Food : ₹1,000 for two :  Chandpole, Udaipur
+Udaigarh Rooftop Restaurant : 3.9 : North Indian, Continental, Chinese, Italian : ₹1,500 for two :  Chandpole, Udaipur
+Spice Garden : New : North Indian, Chinese, Fast Food, Beverages : ₹1,000 for two :  Hiran Magri, Udaipur
+Akss - India Reimagined : 4.0 : Modern Indian, North Indian, Street Food, Beverages, Desserts : ₹1,200 for two :  Bhuwana, Udaipur
+Z27 Coffee Bar : 4.2 : Cafe, Coffee, Chinese, Pizza, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Shobhagpura, Udaipur
+Jheel's Ginger Coffee Bar And Bakery : 4.0 : Cafe, Coffee, Pizza, Sandwich, Fast Food, Bakery, Pancake, Desserts : ₹900 for two :  Chandpole, Udaipur
+Drunken Monkey : 3.1 : Beverages, Juices, Shake, Coffee, Healthy Food, Sandwich, Mexican, Wraps : ₹300 for two :   Nexus Celebration Mall, Udaipur
+Platform @27 : New : North Indian, Biryani, Chinese, Pizza, Fast Food, Desserts, Beverages : ₹1,000 for two :  Shobhagpura, Udaipur
+China Town : 4.2 : Chinese, Fast Food, Sichuan, Momos, Shake, Beverages, Desserts : ₹1,000 for two :  City Centre, Udaipur
+Burger Farm : New : Burger, Fast Food : ₹300 for two :  Subhash Nagar, Udaipur
+The Deck by Spectrum : - : North Indian, Desserts, Beverages, Rajasthani : ₹1,000 for two :  Fatehpura, Udaipur
+Social Diaries Cafe : 4.1 : North Indian, Chinese, Pizza, Momos, Fast Food, Street Food, Ice Cream, Beverages : ₹300 for two :  Pahada, Udaipur
+Big Shot : 3.9 : North Indian, Fast Food, Pizza, Pasta, Bar Food : ₹1,200 for two :  Ayad Rural, Udaipur
+Blaze Town Cafe : 3.7 : Cafe, Coffee, Tea, Shake, North Indian, Sandwich, Fast Food, Desserts : ₹400 for two :  Panchwati, Udaipur
+Madhuban Pure Veg : - : North Indian, Chinese : ₹300 for two :  Hiran Magri, Udaipur
+Sai Sagar Coffee & More : 4.3 : Chinese, Momos, Pizza, Sandwich, Fast Food, Street Food, Coffee, Shake : ₹350 for two :  Panchwati, Udaipur
+Honey Bhojnalaya And Dal Bati : 3.8 : North Indian, Rajasthani : ₹200 for two :  Hiran Magri, Udaipur
+Frying Out Loud : 4.5 : Fast Food, Momos : ₹300 for two :  Panchwati, Udaipur
+Udaimahal : 3.9 : North Indian, Mughlai : ₹5,000 for two :  Oberoi Udaivilas - Chandpole, Udaipur
+Ice & Spice : 4.8 : North Indian, Chinese, Sandwich, Pizza, Pasta, Fast Food, Shake, Beverages : ₹300 for two :  Rkay Mall, Udaipur
+Neel Mahal - Radisson Blu : 4.1 : Rajasthani, North Indian, Continental, Asian, Desserts : ₹3,500 for two :  Radisson Blu Palace Resort & Spa, Udaipur, Udaipur
+Wrapstick : - : Burger, Wraps, Fast Food, Shawarma, Kebab : ₹300 for two :  Ashok Nagar, Udaipur
+Starbucks Coffee : 3.7 : Cafe, Coffee, Fast Food : ₹800 for two :  Panchwati, Udaipur
+KGN Tawa Fry And Restaurant : - : North Indian, Biryani : ₹400 for two :  Hiran Magri, Udaipur
+McDonald's : 3.9 : Burger, Fast Food, Beverages, Coffee : ₹500 for two :   Nexus Celebration Mall, Udaipur
+JMB Jagdish Misthan Bhandar : 3.9 : Mithai, Street Food : ₹400 for two :  City Centre, Udaipur
+RK Chinese : - : Chinese, Fast Food : ₹250 for two :  Bhopalpura, Udaipur
+Babbuz Coffee Cafe : 3.6 : Coffee, Chinese, Fast Food, Sandwich, Burger, Street Food, Shake, Beverages : ₹300 for two :  Shobhagpura, Udaipur
+Mr Chaap : - : North Indian, Rolls : ₹400 for two :  Hiran Magri, Udaipur
+Moradabadi Zaika : - : North Indian, Mughlai, Biryani, Kebab, Fast Food : ₹500 for two :  Shakti Nagar, Udaipur
+Jaiwana Haveli Rooftop Restaurant : 4.2 : North Indian, Chinese, Fast Food, Desserts : ₹1,000 for two :  Jaiwana Haveli, Udaipur
+La Marina Bistro : 4.1 : North Indian, Chinese, Italian, Mexican, Seafood, Fast Food, Desserts, Beverages : ₹1,100 for two :  Fateh Sagar, Udaipur
+Pulp N Latte : - : Cafe, Coffee : ₹300 for two :  Shobhagpura, Udaipur
+Kabab-E-Hayat : 4.0 : Kebab, North Indian, Chinese, Mughlai, Rolls, Beverages : ₹500 for two :  Chandpole, Udaipur
+New Rajasthan Bakery : - : Bakery : ₹300 for two :  Sundarwas, Udaipur
+Bhairo : 3.8 : European, Desserts : ₹15,000 for two :  Taj Lake Palace, Pichola, Udaipur
+Domino's Pizza : 3.9 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  Shakti Nagar, Udaipur
+The Himalayan Greens Restro & Cafe : - : North Indian, Maharashtrian, Biryani, Pizza, Fast Food, Chinese, Desserts, Beverages : ₹450 for two :  Shobhagpura, Udaipur
+Hariyali Restaurant : 3.3 : North Indian, Fast Food, Chinese : ₹500 for two :  City Centre, Udaipur
+Liquid Lounge - Ramada Udaipur : 4.9 : Finger Food, Beverages, Bar Food : ₹3,000 for two :  Ramada Udaipur Resort & Spa, Udaipur
+Foogle : 4.5 : Fast Food, Street Food, Desserts, Beverages : ₹400 for two :  Panchwati, Udaipur
+Sabor : 4.1 : North Indian, Continental, Italian, Mediterranean, Asian, Biryani, Desserts, Beverages : ₹2,000 for two :  Fateh Sagar, Udaipur
+OTP Restro : 3.9 : North Indian, Italian, Asian, Street Food, Beverages : ₹1,100 for two :  Bhuwana, Udaipur
+TOT - Terrace Of Taste : - : North Indian, Chinese, Rolls, Biryani, Desserts, Beverages : ₹1,000 for two :  Ayad Rural, Udaipur
+Payal Chat : - : Street Food, Chinese, Desserts : ₹150 for two :  Shakti Nagar, Udaipur
+Cake Artaste : - : Bakery, Desserts : ₹450 for two :  Fatehpura, Udaipur
+Blue Coriander The Restaurant : - : North Indian, Rajasthani : ₹1,000 for two :  Transport Nagar, Udaipur
+Jaajam Restaurant : 3.7 : Rajasthani, North Indian, Biryani, Chinese : ₹1,000 for two :  Chandpole, Udaipur
+Captain Cafe & Restro : - : Chinese, Pizza, Sandwich, Street Food, Coffee, Shake, Tea : ₹300 for two :  City Centre, Udaipur
+Sanwariya Food Corner : - : North Indian : ₹200 for two :  Ganesh Nagar, Udaipur
+Sawariya Seth Pizza & Cold : New : Pizza, Sandwich, Burger, Fast Food, Ice Cream, Shake : ₹300 for two :  Bhopalpura, Udaipur
+Sankalp Restaurant : 3.0 : South Indian, Beverages : ₹800 for two :  Shobhagpura, Udaipur
+Pizza Planet & Cafe : - : Pizza, Fast Food : ₹400 for two :  City Centre, Udaipur
+Hotel Vrajraj Palace : New : Rajasthani, North Indian, Chinese, Pizza, Burger, Fast Food, Desserts, Beverages : ₹1,100 for two :  Sundarwas, Udaipur
+Gazebo Fine Dine Restaurant : - : North Indian, Chinese, Sandwich, Fast Food, Street Food, Tea, Beverages : ₹450 for two :  Fateh Sagar, Udaipur
+Break Lo Cafe : - : Pizza, Sandwich, Burger, Fast Food, Chinese, Street Food, Shake, Beverages : ₹350 for two :  Pichola, Udaipur
+The Swizom Cafe And More : - : Cafe, Coffee : ₹300 for two :  Fatehpura, Udaipur
+La Maestro Italian Cafe : - : Pizza, Sandwich, Fast Food, Chinese, Biryani, North Indian, Desserts, Beverages : ₹800 for two :  Sukher, Udaipur
+Seero - City Centre : - : Chinese, Pizza, North Indian, Beverages : ₹500 for two :  Shobhagpura, Udaipur
+Chai N Pani : - : Shake, Tea, Beverages : ₹150 for two :  Subhash Nagar, Udaipur
+The Mini Punjab : 4.2 : North Indian, Chinese, Beverages : ₹1,000 for two :  City Centre, Udaipur
+Baskin Robbins Happyness Shakes : - : Shake, Beverages : ₹450 for two :  Bhopalpura, Udaipur
+Spices Of Udaipur : New : North Indian, Fast Food : ₹350 for two :  Shakti Nagar, Udaipur
+Peacock Restaurant : 4.1 : North Indian, Continental, Chinese, Mexican, Sichuan, Fast Food, Desserts, Beverages : ₹850 for two :  Hotel Vishnu Priya, Udaipur
+Laziz Pizza : 4.1 : Pizza, Fast Food, Italian, Beverages : ₹350 for two :  City Centre, Udaipur
+Kailash Parbat : 3.4 : North Indian, Street Food, Desserts, Beverages : ₹700 for two :  Sukher, Udaipur
+The Urban Tadka : 3.9 : North Indian, Mughlai, Chinese, Rajasthani, Continental, Biryani, Desserts, Beverages : ₹2,400 for two :  Fateh Sagar, Udaipur
+Jajmaan Lake View Restaurant : 3.7 : Rajasthani, North Indian, Chinese, Continental, Fast Food, Biryani, Desserts, Beverages : ₹1,000 for two :  Fateh Sagar, Udaipur
+Aura By Rockkwood : 3.9 : North Indian, Chinese, Continental, Italian, Biryani, Sandwich, Fast Food, Bar Food : ₹1,700 for two :  Pratap Nagar, Udaipur
+South Grills : 3.9 : Fast Food, South Indian, North Indian, Street Food, Ice Cream, Shake, Beverages : ₹550 for two :  Chandpole, Udaipur
+Aab-o-Dana : 3.9 : North Indian, Chinese, Fast Food, Salad, Pasta, Desserts, Beverages : ₹2,000 for two :  Hotel Hilltop Palace, Udaipur
+Daagla Restaurant : 3.9 : North Indian, Chinese, Continental, Italian, Biryani, Fast Food, Desserts, Beverages : ₹1,200 for two :  Pichola, Udaipur
+Twist Family Lounge & Bar : 3.7 : North Indian, Mughlai, Chinese, Pizza, Fast Food, Biryani, Shake, Beverages : ₹1,700 for two :  Shobhagpura, Udaipur
+Hotel Vishal Veg Restaurant : New : North Indian, Chinese, Sandwich, Fast Food, Street Food : ₹300 for two :  Sukher, Udaipur
+The Wine Rack - Amantra Shilpi Resort : 3.9 : Bar Food : ₹1,000 for two :  Amantra Shipi Resort, Udaipur
+Rominus Pizza And Burger : 3.5 : Fast Food, Pizza, Burger : ₹600 for two :  Panchwati, Udaipur
+Delhi Darbar : 3.6 : North Indian, Chinese : ₹1,000 for two :  Fateh Sagar, Udaipur
+Mateshwari 2 Restaurant : 3.7 : North Indian, South Indian, Chinese, Sandwich, Pizza, Fast Food : ₹350 for two :  Hiran Magri, Udaipur
+Punjabi Bites (Chetak Circle) : 3.7 : North Indian, Chinese, BBQ, Seafood, Rolls, Mughlai, Arabian, Biryani : ₹1,000 for two :  City Centre, Udaipur
+Nothing Before Coffee : 3.5 : Cafe, Coffee, Fast Food, Beverages : ₹400 for two :  Bhopalpura, Udaipur
+14C Café & Bistro : 4.2 : Cafe, Sandwich, Pizza, Pasta, Fast Food, Ice Cream, Desserts, Beverages : ₹650 for two :  Panchwati, Udaipur
+Lazeez Restaurant : 3.2 : North Indian, Mughlai, BBQ, Biryani : ₹400 for two :  Ayad Rural, Udaipur
+Paliwal Restaurant : 4.7 : Street Food : ₹100 for two :  Chandpole, Udaipur
+15 A.D. Bakery : - : Bakery, Desserts : ₹300 for two :  Panchwati, Udaipur
+Kabir Bagh : 3.8 : North Indian, Chinese : ₹1,000 for two :  Shobhagpura, Udaipur
+Aurosky - Adventure Restaurant : - : North Indian, Pasta, Wraps, Chinese, Desserts, Coffee, Tea, Beverages : ₹1,000 for two :  Panchwati, Udaipur
+Raj Darbar Family Restaurant : 3.7 : North Indian, Chinese, Salad, Beverages : ₹1,000 for two :  Shobhagpura, Udaipur
+Replay Cafe : 4.3 : North Indian, Chinese, Continental, Pizza, Sandwich, Wraps, Fast Food, Beverages : ₹800 for two :  Hiran Magri, Udaipur
+Amritsari Punjabi Dhaba : 3.0 : North Indian, Chinese, Beverages : ₹300 for two :  Shakti Nagar, Udaipur
+Sargam Restaurant : 3.8 : Rajasthani, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Pichola, Udaipur
+Biryani By Kilo : 4.2 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  Subhash Nagar, Udaipur
+Bhole Chat & Fast Food : 3.8 : Street Food, Fast Food, South Indian, Chinese : ₹250 for two :  Bombay Market, Sukhadia Circle, Udaipur
+Nik94 Bakery & Patisserie : 3.9 : Bakery : ₹300 for two :  Ashok Nagar, Udaipur
+RK Chinese : 4.1 : Chinese, Sichuan, Momos, Pizza, Sandwich, Fast Food, Beverages : ₹300 for two :  City Centre, Udaipur
+Honest : 3.7 : North Indian, Chinese, South Indian, Street Food, Fast Food, Sandwich, Beverages, Ice Cream : ₹800 for two :  Shobhagpura, Udaipur
+Jalsa Lake View Veg Restaurant & Cafe : - : North Indian, Continental, Pizza, Pasta, Chinese, Sandwich, Desserts, Beverages : ₹1,000 for two :  Chandpole, Udaipur
+Jag Niwas Rooftop Restaurant : 2.9 : North Indian, Mughlai, Chinese, Pizza, Fast Food, Pancake, Desserts, Beverages : ₹350 for two :  Chandpole, Udaipur
+Subway : 3.9 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹500 for two :  Shobhagpura, Udaipur
+Dagwal Pav Bhaji : 3.3 : Street Food, North Indian : ₹300 for two :  Bombay Market, Sukhadia Circle, Udaipur
+The Royal Affair By KSR Moti Mahal : 3.7 : Chinese, North Indian, Sandwich, Mughlai, Kebab, Seafood, Fast Food, Beverages : ₹700 for two :  Chandpole, Udaipur
+Open Affair Restaurant : 3.4 : North Indian, Chinese, Italian, Mexican, Shake, Sichuan : ₹1,300 for two :  Pichola, Udaipur
+Kasuri - The Veg Adventure : 4.2 : North Indian, Chinese, Fast Food, Beverages : ₹400 for two :  Shakti Nagar, Udaipur
+Hotel Bhairav Bagh : 3.9 : North Indian : ₹500 for two :  Bhuwana, Udaipur
+Natural Lake View Restaurant : 3.0 : North Indian, Continental, Chinese, Shake : ₹700 for two :  Chandpole, Udaipur
+Rama Bagh Multi Cuisine Restaurant : 4.1 : North Indian, Chinese, Rajasthani, Fast Food, Desserts, Beverages : ₹1,000 for two :  Ashok Nagar, Udaipur
+Amrit Sagar : 3.9 : Asian, Thai : ₹4,000 for two :  Taj Lake Palace, Pichola, Udaipur
+Agariya Haveli Hotel & Restaurant : 3.6 : North Indian, Mughlai, Chinese, Pizza, Sandwich, Fast Food : ₹1,100 for two :  Pichola, Udaipur
+Caffeinate And Chill : 3.9 : Cafe, Coffee, Shake, Beverages, Desserts : ₹500 for two :  Bhopalpura, Udaipur
+Pratap Chinese Corner : 3.9 : Chinese, South Indian, Pizza, Fast Food, Street Food : ₹250 for two :  Panchwati, Udaipur
+Hotel Mandovin : 4.0 : North Indian, South Indian, Rajasthani, Chinese, Pizza, Fast Food, Desserts, Beverages : ₹1,000 for two :  Subhash Nagar, Udaipur
+Chaifeteria : 3.8 : Tea, Coffee, Beverages, Pizza, Sandwich, Fast Food, Street Food, Desserts : ₹500 for two :  Panchwati, Udaipur
+The Sky View Restaurant : 3.6 : North Indian, Chinese, Biryani, Rolls, Pizza, Beverages, Desserts : ₹1,500 for two :  City Centre, Udaipur

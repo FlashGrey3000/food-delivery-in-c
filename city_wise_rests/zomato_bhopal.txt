@@ -1,0 +1,333 @@
+The Dublin Lounge Restaurant And Pub : 3.9 : North Indian, Chinese, Biryani : ₹1,200 for two :  Maharana Pratap Nagar, Bhopal
+Latitude Cafe And Restro : 4.1 : North Indian, Chinese, Fast Food, Pizza, Burger, Thai, Asian, Biryani : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+Pitchers Cafe Bar : 3.1 : North Indian, Chinese, Italian, Burger, Fast Food, Pasta, Biryani, Desserts : ₹1,500 for two :  DB City, Maharana Pratap Nagar, Bhopal
+House Of Delici : 3.2 : North Indian, Chinese, Fast Food, Pizza, Mughlai, Desserts, Beverages : ₹1,600 for two :  Airport Area, Bhopal
+Molecule Air Bar : 4.0 : North Indian, Italian, Asian, European, Finger Food, Pizza, Desserts : ₹1,000 for two :  Arera Colony, Bhopal
+The Bastion : 4.2 : Continental, North Indian, Chinese, Biryani, Mughlai, Desserts : ₹1,200 for two :  Hoshangabad Road, Bhopal
+Poppin' Deli : 4.2 : Cafe, Coffee, Mexican, Pizza, Fast Food, Desserts, Beverages : ₹1,100 for two :  Arera Colony, Bhopal
+Ecko- Artisanal Bistro : 4.3 : North Indian, Continental, Chinese, Biryani, Pizza, Pasta, Desserts, Cafe : ₹1,000 for two :  Gulmohar Colony, Bhopal
+Effotel By Sayaji : 4.5 : North Indian, South Indian, Continental, Seafood, Chinese, Biryani, Desserts, Beverages : ₹2,000 for two :  Hoshangabad Road, Bhopal
+Zoku : 3.9 : Asian, Chinese : ₹1,200 for two :  Habib Ganj, Bhopal
+Momo Cafe - Courtyard Marriot : 4.1 : North Indian, Continental, Italian, Cafe : ₹1,600 for two :  Courtyard By Marriot, Maharana Pratap Nagar, Bhopal
+Ivoryy : 4.2 : Mediterranean, Asian : ₹1,500 for two :  Habib Ganj, Bhopal
+Fusion Cafe - Radisson Hotel : 4.2 : North Indian, Continental, Chinese, Desserts : ₹1,000 for two :  Radisson - Bhopal Gulmohar Colony, Bhopal
+Pirates Of Grill : 4.5 : Chinese, Salad, North Indian, BBQ, Mughlai, Oriental, Desserts : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+Pin And Pan : 4.5 : Cafe, Italian, Asian, Fast Food, Continental, Desserts, Shake, Beverages : ₹1,200 for two :  Gulmohar Colony, Bhopal
+Lamington Cafe Patisserie : 4.0 : Cafe, Coffee, Beverages, Pasta, Pizza, Italian, Bakery, Desserts : ₹650 for two :  Arera Colony, Bhopal
+Zaaiqa - Noor Us Sabah Palace : 4.3 : North Indian, Mughlai, Kebab, Awadhi, Biryani, Desserts, Continental : ₹3,500 for two :  Kohefiza, Bhopal
+Romeo Lane : New : North Indian, Asian, Continental : ₹1,500 for two :  Habib Ganj, Bhopal
+Bhopal Bakehouse & Cafe : 4.0 : Bakery, Italian, Fast Food, Desserts, Beverages, Cafe : ₹400 for two :  Arera Colony, Bhopal
+Ru-Bar-Ru : 4.0 : Modern Indian, Chinese, Mediterranean, Italian : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+Cowboy Restaurant & Lounge : 4.1 : North Indian, Mexican, Chinese, Continental, Biryani, Bar Food, Desserts, Beverages : ₹1,400 for two :  Habib Ganj, Bhopal
+WOW! China : 3.9 : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹550 for two :  Maharana Pratap Nagar, Bhopal
+WOW! Momo : 4.1 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts : ₹350 for two :  Maharana Pratap Nagar, Bhopal
+The Fern Residency : 3.9 : North Indian, Fast Food, Chinese, Desserts, Sandwich, Oriental, Asian : ₹900 for two :  Maharana Pratap Nagar, Bhopal
+Cafe Amado : 3.6 : Cafe, Coffee, Beverages, Italian, Asian, Fast Food, Bakery, Desserts : ₹1,000 for two :  Arera Colony, Bhopal
+Ming Dynasty - Noor Us Sabah : 4.1 : Chinese, Japanese, Thai, Burmese : ₹3,500 for two :  Kohefiza, Bhopal
+Mantar Restaurant : 3.0 : North Indian, Chinese : ₹1,000 for two :  Gulmohar Colony, Bhopal
+Padharo Sa : 3.1 : Rajasthani, North Indian, Mithai : ₹500 for two :  Habib Ganj, Bhopal
+Chalu Chinese : 4.3 : Chinese, Momos, Sichuan : ₹600 for two :  Gulmohar Colony, Bhopal
+Infinity - Taj Lakefront : 3.8 : Mediterranean, Bar Food, Beverages : ₹3,000 for two :  Taj Lakefront TT Nagar, Bhopal
+Manmarziyaan : 3.9 : Biryani, Desserts : ₹500 for two :  Kolar, Bhopal
+Marbal Arch - Noor Us Sabah Palace : 4.3 : North Indian, Chinese, Continental : ₹1,500 for two :  Kohefiza, Bhopal
+Under The Mango Tree - Jehan Numa Palace : 4.2 : North Indian, Kebab, Biryani, Mughlai, Desserts : ₹3,000 for two :  TT Nagar, Bhopal
+The Ten Suites : 4.0 : Cafe, Sandwich, Burger, Pizza, Bakery : ₹600 for two :  TT Nagar, Bhopal
+Golden Tulip : 3.8 : North Indian, Mughlai, Biryani, Chinese, Asian, Continental : ₹1,300 for two :  Maharana Pratap Nagar, Bhopal
+The Eclair Lounge- Courtyard By Marriott Bhopal : 4.2 : Cafe, Coffee, Fast Food, Chinese, Pasta, Shake, Beverages : ₹1,000 for two :  Courtyard By Marriot, Maharana Pratap Nagar, Bhopal
+Mediterranean Rooftop Restaurant : 3.3 : North Indian, Chinese, Thai, Momos, Fast Food, Biryani, Mughlai, Shake : ₹1,000 for two :  Kolar, Bhopal
+Socialite Seven : 4.3 : Mughlai, Biryani, Fast Food, Pasta, Finger Food, Chinese, Continental : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+Kalonji : 3.9 : North Indian, Fast Food, Street Food, Chinese, Biryani, Desserts, Beverages : ₹500 for two :  Hoshangabad Road, Bhopal
+My Bar Headquarter : New : North Indian, Biryani, Mughlai, Kebab, Chinese, Fast Food, Bar Food : ₹1,500 for two :  Maharana Pratap Nagar, Bhopal
+Boscos : 3.9 : Mediterranean, Italian, Mexican : ₹1,400 for two :  Maharana Pratap Nagar, Bhopal
+Farzi Cafe : New : Cafe : ₹1,500 for two :  Arera Colony, Bhopal
+Shahnama - Jehan Numa Palace : 4.6 : North Indian, Chinese, Hyderabadi : ₹2,000 for two :  TT Nagar, Bhopal
+Barbeque Nation : 4.4 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,500 for two :  Gulmohar Colony, Bhopal
+Kebabsville - Sayaji Hotel : 4.6 : North Indian, Bar Food, BBQ, Beverages : ₹1,500 for two :  Sayaji Hotel, Bhopal
+Manohar Dairy And Restaurant : 4.3 : North Indian, South Indian, Burger, Pizza, Sandwich, Fast Food, Desserts, Shake : ₹400 for two :  Maharana Pratap Nagar, Bhopal
+Amer Bakery Hut : 4.1 : Bakery, North Indian, Burger, Pizza, Chinese, Continental, Asian, Beverages : ₹600 for two :  TT Nagar, Bhopal
+Cafe Latte : 4.1 : Cafe, Coffee, Fast Food, Wraps, Bakery, Desserts, Shake, Beverages : ₹600 for two :  Kohefiza, Bhopal
+D-Runch Kitchen Lounge : 3.7 : North Indian, Chinese, Italian, Continental, Kebab, Fast Food, Biryani, Beverages : ₹1,500 for two :  Maharana Pratap Nagar, Bhopal
+Zauq : 3.6 : North Indian, Mughlai, BBQ, Thai, Desserts : ₹900 for two :  TT Nagar, Bhopal
+Green House Bistro : 4.6 : Cafe, Fast Food, Continental, Desserts, Beverages : ₹800 for two :  TT Nagar, Bhopal
+The Pizza Slice : 4.1 : Pizza, Fast Food, Italian, Desserts, Beverages : ₹400 for two :  Arera Colony, Bhopal
+Bageecha Bistro : 3.6 : North Indian, South Indian, Chinese, Fast Food, Pizza, Shake, Beverages, Desserts : ₹350 for two :  Airport Area, Bhopal
+Sagar Gaire Fast Food : 4.1 : Chinese, North Indian, Fast Food : ₹350 for two :  Maharana Pratap Nagar, Bhopal
+Mehfil E Dawat : 3.8 : North Indian, Mughlai, Awadhi : ₹400 for two :  Gulmohar Colony, Bhopal
+KFC : 4.0 : Burger, Fast Food, Rolls : ₹450 for two :  DB City, Maharana Pratap Nagar, Bhopal
+Hong Kong : 4.4 : Chinese, Seafood, Sichuan, Rolls : ₹800 for two :  Maharana Pratap Nagar, Bhopal
+Coffee Cafe : 3.9 : Cafe, Coffee, Tea, Beverages, Pizza, Sandwich, Rolls, Fast Food : ₹600 for two :  Airport Area, Bhopal
+Under The Jamun Tree : 4.4 : North Indian, Mughlai, Continental, Desserts : ₹1,500 for two :  TT Nagar, Bhopal
+Biggies Burger : 4.2 : Burger, Wraps, Fast Food, Desserts, Shake, Beverages : ₹450 for two :  Gulmohar Colony, Bhopal
+Tangelo - Citrus Classic : 4.3 : North Indian, Chinese, Sichuan : ₹700 for two :  Hoshangabad Road, Bhopal
+Jharokha - Hotel Amer Palace : 4.1 : North Indian, Chinese, Biryani, Continental, Rolls, Desserts, Beverages : ₹1,500 for two :  Maharana Pratap Nagar, Bhopal
+Pizza Hut : 4.1 : Pizza, Fast Food, Pasta, Desserts, Italian : ₹1,000 for two :  Kohefiza, Bhopal
+Lord Of The Drinks : New : North Indian, Continental, Pizza, Fast Food, Burger : ₹1,000 for two :  TT Nagar, Bhopal
+CafeChino - Jehan Numa Palace : 4.3 : Cafe, Fast Food, Beverages, Desserts, Sandwich : ₹800 for two :  TT Nagar, Bhopal
+Vrindavan Dhaba : 4.0 : North Indian, Chinese : ₹600 for two :  Hoshangabad Road, Bhopal
+Blue Lagoon Farm : New : North Indian, Chinese, Pasta, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Kohefiza, Bhopal
+La Kuchina - Jehan Numa Palace : 4.5 : Salad, Chinese, Italian, Beverages, Desserts : ₹2,500 for two :  TT Nagar, Bhopal
+Above & Beyond, Garden Kitchen & Club : New : Continental, Italian, Beverages, Bar Food : ₹1,200 for two :  TT Nagar, Bhopal
+Hotel Silver Inn : 4.1 : North Indian, Chinese : ₹1,000 for two :  Jhangirabad, Bhopal
+Biggies Burger : 4.2 : Burger, Wraps, Fast Food, Desserts, Shake, Beverages : ₹300 for two :  Airport Area, Bhopal
+The Brunch House : 4.2 : North Indian, Street Food, South Indian, Beverages : ₹300 for two :  Courtyard By Marriot, Maharana Pratap Nagar, Bhopal
+Club Obello New York : - : North Indian, Chinese : ₹1,000 for two :  Hoshangabad Road, Bhopal
+Twisst Of Tadka : 4.6 : North Indian, Mughlai, Biryani, Fast Food, Sichuan : ₹650 for two :  Aashima Mall, Hoshangabad Road, Bhopal
+TAO - Jehan Numa Palace : 4.9 : Asian, Japanese, Thai, Chinese : ₹2,200 for two :  TT Nagar, Bhopal
+Moti Mahal Delux : 3.8 : North Indian, Chinese, Desserts, Beverages : ₹1,000 for two :  Aashima Mall, Hoshangabad Road, Bhopal
+The Giant Panda : 4.4 : Asian, Fast Food, Chinese, Beverages, Desserts : ₹1,200 for two :  DB City, Maharana Pratap Nagar, Bhopal
+Raasta : New : Asian, Italian, Continental, Pizza, Fast Food, Desserts, Bar Food : ₹1,500 for two :  Habib Ganj, Bhopal
+Taco Bell : 3.8 : Mexican : ₹500 for two :  Maharana Pratap Nagar, Bhopal
+Domino's Pizza : 3.9 : Pizza, Fast Food, American, Chinese, Desserts : ₹500 for two :  JP Nagar, Bhopal
+Khalifah : 3.9 : Burger, Pizza, Sandwich, Fast Food : ₹200 for two :  Kohefiza, Bhopal
+Culture Bakery Cafe : 3.7 : Italian, Bakery, Coffee, Cafe, Wraps, Pizza, Fast Food, Shake : ₹550 for two :  Airport Area, Bhopal
+Icekraft - The Secret Kitchen : 3.6 : Desserts, Ice Cream, Shake, Pasta, Burger, Pizza, Beverages : ₹350 for two :  Maharana Pratap Nagar, Bhopal
+Bapu Ki Kutia : 4.0 : North Indian, Chinese, South Indian, Fast Food, Street Food : ₹400 for two :  TT Nagar, Bhopal
+Rolls Mania : 3.8 : Rolls, Fast Food, Street Food, Beverages : ₹300 for two :  Kohefiza, Bhopal
+32 Degree North East : 4.7 : North Indian, Fast Food : ₹800 for two :  Kajlas, Bhopal
+Machan : 3.9 : Asian, South Indian, Chinese, Continental, Italian, Bar Food, Desserts : ₹3,500 for two :  Taj Lakefront TT Nagar, Bhopal
+Subway : 3.8 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Aashima Mall, Hoshangabad Road, Bhopal
+Countryside Meadows : 3.6 : North Indian, Chinese, Continental, Pasta, Pizza, Desserts, Beverages : ₹1,200 for two :  Kajlas, Bhopal
+Haji Hotel Lassi And Faluda : 3.7 : Beverages : ₹200 for two :  Peer Gate Area, Bhopal
+Shahi Durbar : 4.8 : Ice Cream, Waffle, Beverages, Desserts, Fast Food, Coffee : ₹400 for two :  TT Nagar, Bhopal
+Over The Moon Bistro : 3.9 : Chinese, Italian, Beverages, Desserts, Burger, Sandwich : ₹700 for two :  Gulmohar Colony, Bhopal
+V's Foodie Corner : 4.2 : Chinese, Momos : ₹350 for two :  Gulmohar Colony, Bhopal
+Black Mamba Pub & Club : 3.9 : North Indian : ₹1,000 for two :  Aashima Mall, Hoshangabad Road, Bhopal
+Bay Leaf - Courtyard Marriott : 4.4 : Asian, Italian, North Indian, Lucknowi, Mughlai, Desserts : ₹2,000 for two :  Maharana Pratap Nagar, Bhopal
+Naveen's Bapu Ki Kutia : 4.0 : North Indian, South Indian, Chinese, Fast Food, Desserts, Shake, Beverages : ₹700 for two :  Gulmohar Colony, Bhopal
+Hotel Kavish Mahal : New : North Indian, Chinese, Fast Food : ₹350 for two :  Gulmohar Colony, Bhopal
+Sanchi - Sayaji Hotel : 4.3 : North Indian, Chinese, Continental, Oriental, Salad, Shake, Desserts, Beverages : ₹1,500 for two :  Sayaji Hotel, Bhopal
+Langar Bistro & Restro : 3.9 : Thai, Chinese, North Indian, Seafood, Mughlai, Biryani, Beverages : ₹850 for two :  Kolar, Bhopal
+Smooky Tandoor : 2.5 : North Indian, Mughlai, Chinese, Rolls, Fast Food, Desserts : ₹500 for two :  Gulmohar Colony, Bhopal
+Drinx Exchange : 4.4 : Italian, Mexican, Chinese, North Indian, American, Desserts : ₹1,500 for two :  Maharana Pratap Nagar, Bhopal
+Hongkong Restaurant : 4.6 : Chinese, North Indian, Seafood, Sichuan : ₹500 for two :  Airport Area, Bhopal
+TDS: 10 Downing Street : 4.5 : North Indian, Chinese, Continental, Biryani, Italian, Fast Food : ₹1,500 for two :  DB City, Maharana Pratap Nagar, Bhopal
+Bhopal Udipi Restaurant : 3.2 : North Indian, South Indian, Chinese, Street Food, Beverages : ₹300 for two :  JP Nagar, Bhopal
+Hotel Zorba : - : North Indian, Mughlai, Chinese, Fast Food : ₹700 for two :  Hoshangabad Road, Bhopal
+Land Of Liberty : 3.9 : Chinese : ₹1,000 for two :  BHEL, Bhopal
+The Evening Post : New : Cafe, Coffee, Salad, Italian, Healthy Food, Fast Food : ₹800 for two :  Arera Colony, Bhopal
+Burgerland : 3.1 : Burger, Wraps, Sandwich, Fast Food : ₹300 for two :  BHEL, Bhopal
+Citrus : 3.9 : North Indian : ₹350 for two :  Hoshangabad Road, Bhopal
+Bake N Shake : 4.3 : Bakery : ₹400 for two :  Maharana Pratap Nagar, Bhopal
+Turquoise Kitchen & Cocktail House : New : Continental, Italian, Asian : ₹2,500 for two :  TT Nagar, Bhopal
+Ranjit's Lakeview : 3.5 : North Indian, Mughlai, Chinese : ₹600 for two :  TT Nagar, Bhopal
+Delhi 6 : 3.1 : North Indian, Street Food : ₹350 for two :  DB City, Maharana Pratap Nagar, Bhopal
+Rajhans Thali : 4.1 : North Indian, Rajasthani : ₹500 for two :  Maharana Pratap Nagar, Bhopal
+Atmosphere : 3.5 : North Indian, Continental, Fast Food, Chinese, Beverages : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+Handcrafted Cafe & Roastery : 4.5 : Cafe, Coffee, Pizza, Fast Food, Pasta, Panini : ₹500 for two :  Arera Colony, Bhopal
+1909 Crown of Bhopal : - : Oriental, North Indian, Salad, Kebab, Bar Food : ₹1,800 for two :  Jhangirabad, Bhopal
+Hotel 18 Keys : 3.5 : North Indian, Chinese, BBQ, Street Food, Pasta : ₹1,000 for two :  Habib Ganj, Bhopal
+The Kanha Castle : 3.9 : Italian, South Indian, North Indian, Chinese, Kebab, Biryani, Desserts, Beverages : ₹900 for two :  Maharana Pratap Nagar, Bhopal
+Hotel Rajhans Regent : 4.0 : North Indian, Chinese, Continental, Desserts : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+Marbella's Cafe and Lounge : 3.9 : North Indian, Chinese, Roast Chicken, Fast Food, Street Food : ₹500 for two :  Airport Area, Bhopal
+Kathi Junction : 3.3 : North Indian, Chinese, Mughlai, Biryani, Rolls, Fast Food, Ice Cream, Beverages : ₹1,000 for two :  Hoshangabad Road, Bhopal
+Pepperazzi : 3.9 : North Indian, Chinese, Fast Food, Mughlai, Beverages, Continental, Italian, Wraps : ₹800 for two :  TT Nagar, Bhopal
+Kake Da Dhaba : 3.9 : Chinese, North Indian, Biryani, Mughlai, Desserts, Beverages : ₹650 for two :  Gulmohar Colony, Bhopal
+Hotel Kalonji : 3.3 : Chinese, North Indian, Biryani : ₹700 for two :  BHEL, Bhopal
+NV Cafe Rooftop Restaurant : New : North Indian, Chinese, Mughlai, Sichuan, Beverages : ₹600 for two :  Gulmohar Colony, Bhopal
+Tabbar House : 4.6 : North Indian, Italian, Chinese, Fast Food : ₹1,000 for two :  BHEL, Bhopal
+Khalsa Amritsari Kulche Wala : 3.9 : North Indian : ₹300 for two :  Arera Colony, Bhopal
+Cafe LPK : New : Chinese, North Indian, Salad, Pasta, Pizza, Mediterranean, Mexican, Italian : ₹500 for two :  Maharana Pratap Nagar, Bhopal
+The Celestial Park Hotel : - : North Indian, Chinese : ₹1,000 for two :  Hoshangabad Road, Bhopal
+Khan Sahab : 4.2 : North Indian, Mughlai, Biryani, Desserts : ₹800 for two :  Peer Gate Area, Bhopal
+Divine The Friendly Cafe : New : Sandwich, Fast Food, Chinese, Salad, Street Food, Shake, Beverages : ₹300 for two :  BHEL, Bhopal
+Hungry Burger : 4.0 : Fast Food : ₹250 for two :  JP Nagar, Bhopal
+Hot & Crunchy Fried Chicken : 3.9 : Fast Food, Arabian, Beverages : ₹400 for two :  Aashima Mall, Hoshangabad Road, Bhopal
+SKG Sanjha Chulha : 3.2 : North Indian, Chinese, Fast Food, Street Food, Beverages : ₹500 for two :  Maharana Pratap Nagar, Bhopal
+Sankalp - The Taste of South : 3.8 : South Indian, Beverages : ₹700 for two :  Maharana Pratap Nagar, Bhopal
+Ba Dastoor : 4.3 : North Indian, Biryani, Chinese, Fast Food, Kebab, Mughlai, Mandi, Desserts : ₹1,200 for two :  Jhangirabad, Bhopal
+Barcode - Kwality's Motel Shiraz : 4.2 : North Indian, Kebab, Fast Food, Beverages : ₹1,500 for two :  Maharana Pratap Nagar, Bhopal
+Mr. Taste : New : Sandwich, Pizza, Fast Food, Street Food, Chinese, Momos, Beverages : ₹250 for two :  Peer Gate Area, Bhopal
+Sharma & Vishnu Fast Food : 3.9 : North Indian, Chinese, Fast Food, Biryani, Beverages : ₹300 for two :  BHEL, Bhopal
+Sinner's Bistro : 3.9 : Fast Food, North Indian, Chinese, Street Food, Burger, Pasta, Sandwich, Rolls : ₹400 for two :  Gulmohar Colony, Bhopal
+Monk's Cafe : 3.7 : Pizza, Fast Food, Street Food, Tea, Shake, Beverages : ₹300 for two :  BHEL, Bhopal
+Rahul Meena Momos And More : 3.4 : Momos, Chinese, Fast Food, North Indian, Waffle, Shake, Beverages : ₹300 for two :  Gulmohar Colony, Bhopal
+Anny's Artisan Bistro : 3.5 : North Indian, Oriental, Continental, Italian, Pizza, Chinese, Desserts : ₹1,200 for two :  Arera Colony, Bhopal
+E Square : 4.4 : North Indian, South Indian, Fast Food, Sandwich, Pizza : ₹300 for two :  Arera Colony, Bhopal
+Guilt Trip : - : Bakery, Desserts : ₹400 for two :  TT Nagar, Bhopal
+Chicken Kukduku : 3.9 : Biryani, North Indian : ₹300 for two :  Gulmohar Colony, Bhopal
+Neembry : 3.9 : North Indian : ₹800 for two :  TT Nagar, Bhopal
+Natural Ice Cream : 4.4 : Ice Cream, Desserts : ₹300 for two :  Maharana Pratap Nagar, Bhopal
+Alishan Restaurant : 3.9 : North Indian, Chinese, Mughlai : ₹900 for two :  JP Nagar, Bhopal
+Kaffeine Diet Cafe : 3.5 : Pizza, Pasta, Momos, Fast Food, Street Food, Coffee, Tea, Beverages : ₹350 for two :  Hoshangabad Road, Bhopal
+Eagle Boys Pizzeria And Cafe : 3.4 : Cafe, Coffee, Shake, Beverages, Pizza, Burger, Fast Food : ₹600 for two :  Arera Colony, Bhopal
+Angithi Restaurant : 3.4 : North Indian, Mughlai, Chinese, Biryani : ₹500 for two :  Gulmohar Colony, Bhopal
+The Sambhar Cafe : - : South Indian, Beverages : ₹300 for two :  Maharana Pratap Nagar, Bhopal
+House 230- The Gourmet Kitchen : 3.1 : Chinese, Continental, North Indian, Fast Food, Momos : ₹1,000 for two :  TT Nagar, Bhopal
+Juhnuhnee : New : Asian, Modern Indian, Italian, Pizza, Sushi, Beverages : ₹1,800 for two :  Gulmohar Colony, Bhopal
+House No.230 The Gourmet Kitchen & Bar : - : North Indian, Chinese, Salad, Fast Food, Desserts, Beverages, Shake : ₹1,000 for two :  TT Nagar, Bhopal
+Ganesham Fast Food - Kolar Road : 4.0 : North Indian, Biryani, Sandwich, Pizza, Shake : ₹500 for two :  Kolar, Bhopal
+AL - Amaan : - : North Indian, Beverages, Street Food : ₹500 for two :  Jhangirabad, Bhopal
+Hakeem Restaurant : 4.0 : North Indian, Chinese, Mughlai, Fast Food, Kebab, Pizza, Desserts, Beverages : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+Eco-friendoo Foodzone : - : Pizza : ₹250 for two :  TT Nagar, Bhopal
+McDonald's : 3.9 : Burger, Fast Food, Beverages, Coffee : ₹500 for two :  DB City, Maharana Pratap Nagar, Bhopal
+Haji Hotel : 4.3 : North Indian, Biryani, Mughlai : ₹300 for two :  Peer Gate Area, Bhopal
+Shakes Appeal : 4.4 : Fast Food, Pizza, Sandwich, Street Food, Waffle, Desserts, Shake, Beverages : ₹500 for two :  Kohefiza, Bhopal
+The Brunch House 2.0 : 4.0 : North Indian, Oriental, Fast Food, Chinese, Mughlai, Kebab, Biryani : ₹700 for two :  Hoshangabad Road, Bhopal
+Caffeine Machine : 3.5 : Fast Food, Beverages : ₹400 for two :  Kolar, Bhopal
+Sharma Ji Fast Food Corner & Restaurant : - : Chinese : ₹200 for two :  TT Nagar, Bhopal
+Shikha Greens : - : North Indian, Pizza : ₹1,000 for two :  Kolar, Bhopal
+Lazeez Hakeem : 4.0 : North Indian, Biryani, Chinese, Mughlai : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+Cook Dooh Kooh : 4.1 : North Indian, Mughlai, Chinese, Fast Food : ₹400 for two :  Gulmohar Colony, Bhopal
+Wonder Bread : 4.1 : Bakery, Fast Food : ₹400 for two :  Kohefiza, Bhopal
+Kerala Kitchen Family Restaurant : New : Kerala, South Indian, Biryani, Arabian : ₹350 for two :  Habib Ganj, Bhopal
+Veera Da Malai Chaap : New : North Indian, Rolls : ₹450 for two :  TT Nagar, Bhopal
+The Ministry Of Taste : 2.7 : North Indian, Chinese, Seafood, Biryani, Fast Food : ₹800 for two :  BHEL, Bhopal
+The Rooftree : 2.8 : North Indian, Chinese, Pizza, Fast Food, Beverages, Desserts : ₹400 for two :  Maharana Pratap Nagar, Bhopal
+Tilakrams Sweets Bakery Restaurant : 3.9 : Mithai, South Indian : ₹400 for two :  JP Nagar, Bhopal
+Krispy : New : Fast Food : ₹200 for two :  Gulmohar Colony, Bhopal
+Mr. Idli Ultimate Food House : 3.9 : South Indian : ₹400 for two :  Gulmohar Colony, Bhopal
+The Sky Squad Cafe And Lounge : New : Cafe, Coffee, Fast Food, Pizza, Sandwich, Burger, Chinese, Beverages : ₹1,000 for two :  Jhangirabad, Bhopal
+Moksh Club : - : Chinese, North Indian, Mughlai, Fast Food : ₹850 for two :  Kohefiza, Bhopal
+Panchi Cafe & Restaurant : New : North Indian, Biryani, Chinese, Sandwich, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Jhangirabad, Bhopal
+Pizza Kitchen : 4.0 : Pizza, Pasta, Shake : ₹500 for two :  Maharana Pratap Nagar, Bhopal
+Hotel Ranjeet : 4.0 : North Indian, Mughlai, Chinese, Biryani, Continental, Italian, Desserts, Beverages : ₹800 for two :  Peer Gate Area, Bhopal
+Mitho Wok Street : 4.2 : Chinese, Momos, Fast Food, Desserts, Seafood, Beverages : ₹1,000 for two :  Gulmohar Colony, Bhopal
+Hummus Nest : 3.6 : Healthy Food, Arabian, Lebanese, Wraps, Fast Food, Desserts, Beverages : ₹500 for two :  Arera Colony, Bhopal
+Hot & Crusty Kitchen : - : North Indian, Chinese, Pizza, Rolls, Biryani, Fast Food, Beverages : ₹350 for two :  Hoshangabad Road, Bhopal
+Hotel Atishay : 3.6 : North Indian, Chinese, Desserts : ₹700 for two :  Maharana Pratap Nagar, Bhopal
+Dakshin Foods : - : North Indian, South Indian, Beverages : ₹150 for two :  Hoshangabad Road, Bhopal
+House of Ming : 3.9 : Chinese, Asian, Seafood, Cantonese, Sichuan, Desserts, Ice Cream : ₹3,000 for two :  Taj Lakefront TT Nagar, Bhopal
+Indian Coffee House : 4.1 : Coffee, North Indian, Chinese, Mughlai, South Indian, Fast Food, Street Food, Ice Cream : ₹400 for two :  TT Nagar, Bhopal
+Hotel Shikha : 4.2 : North Indian, Chinese, South Indian, Street Food, Fast Food, Pizza, Biryani, Desserts : ₹600 for two :  Peer Gate Area, Bhopal
+Hong Kong Restaurant : 3.3 : Chinese, Italian, North Indian, Seafood, Shake, Beverages, Sichuan : ₹800 for two :  Gulmohar Colony, Bhopal
+The Public House Café N Restaurant : 4.4 : North Indian, Kebab, Oriental, Fast Food, Mughlai, Chinese, Beverages : ₹800 for two :  Maharana Pratap Nagar, Bhopal
+Memsaheb : 3.4 : North Indian, Continental, Mughlai, Biryani, Desserts : ₹2,000 for two :  Arera Colony, Bhopal
+White Orchid : 2.6 : North Indian, Biryani, Chinese, Fast Food, Desserts, Beverages : ₹600 for two :  TT Nagar, Bhopal
+Vidhi Dhaba : 3.7 : North Indian, Chinese, Street Food, Kebab, Biryani : ₹400 for two :  Airport Area, Bhopal
+Da Pizzeria : 2.7 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Kohefiza, Bhopal
+Street Food By Punjab Grill : 4.2 : North Indian, Biryani, Chinese, Mughlai, Kebab, Desserts, Beverages : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+Rajashthan Sweets & Namkeen : 3.3 : Mithai, Street Food : ₹200 for two :  Kolar, Bhopal
+De Vantage Restro And Lounge : - : North Indian, Sandwich, Kebab, Pizza, Rolls, Fast Food, Biryani, Shake : ₹1,000 for two :  Arera Colony, Bhopal
+Pure : 3.8 : North Indian, Modern Indian, Gujarati, Desserts, Beverages : ₹1,800 for two :  Radisson - Bhopal Gulmohar Colony, Bhopal
+Zaitoon-E-Khaas : 3.4 : North Indian, Chinese, Mughlai, Seafood, Kebab, Biryani, Shake, Beverages : ₹1,000 for two :  Peer Gate Area, Bhopal
+Laxmi Chinese Fast Food : 3.9 : Chinese, Fast Food : ₹150 for two :  Maharana Pratap Nagar, Bhopal
+Thanco's Natural Icecream : 3.6 : Desserts, Beverages, Fast Food, Rolls, Shake, Juices : ₹350 for two :  Kohefiza, Bhopal
+The China Terrace : 3.6 : Chinese, Seafood, Momos, Fast Food : ₹500 for two :  Kolar, Bhopal
+Swaad Times : 2.8 : Pizza, Fast Food, Pasta, Burger, Shake, Beverages : ₹300 for two :  Peer Gate Area, Bhopal
+Rafiq Biryaan : 4.0 : North Indian, Biryani : ₹200 for two :  JP Nagar, Bhopal
+AL Barkat Hotel : 3.9 : North Indian, Mughlai : ₹400 for two :  Peer Gate Area, Bhopal
+Hideout : 3.7 : North Indian, Chinese, Mughlai, Biryani, Seafood, Desserts, Shake, Beverages : ₹1,200 for two :  Airport Area, Bhopal
+Manohar Dairy : 3.6 : Mithai, Bakery, Street Food : ₹650 for two :  Arera Colony, Bhopal
+Ratan's Little Paradise : 3.9 : Fast Food, Beverages, Shake, Desserts : ₹300 for two :  Arera Colony, Bhopal
+Al Amaan : 3.6 : North Indian : ₹300 for two :  Peer Gate Area, Bhopal
+Barco's Restro - Bar : 4.0 : North Indian, Chinese, Continental : ₹1,500 for two :  Maharana Pratap Nagar, Bhopal
+The Garlic Bread : 2.9 : Italian, Fast Food, Beverages : ₹300 for two :  Maharana Pratap Nagar, Bhopal
+Cafe Nadora : 4.3 : Cafe, Coffee, Italian, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹800 for two :  Gulmohar Colony, Bhopal
+R Ambience Cafe & Restro : - : North Indian, Mughlai, Chinese, Fast Food, Pizza, Desserts, Beverages : ₹1,000 for two :  Airport Area, Bhopal
+Coriander Leaf : 4.1 : French, Mediterranean, Asian : ₹1,500 for two :  TT Nagar, Bhopal
+La Pino'z Pizza : - : Pizza, Fast Food : ₹500 for two :  BHEL, Bhopal
+Kanha Restaurant : 3.4 : North Indian, South Indian, Chinese, Fast Food : ₹250 for two :  Hoshangabad Road, Bhopal
+Rice Bowl Thai & Chinese : 4.0 : Chinese, Thai, Sichuan : ₹700 for two :  Habib Ganj, Bhopal
+Hotel Amer Greens : 4.0 : North Indian, Chinese, Bakery : ₹400 for two :  Hoshangabad Road, Bhopal
+Hotel The Oasis : - : North Indian, Fast Food, Chinese, Mughlai : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+Urban Truffles : - : Pizza, Pasta, Fast Food, Shake, Beverages : ₹400 for two :  Gulmohar Colony, Bhopal
+Malhotra's Kitchen : 4.5 : North Indian, Mughlai : ₹500 for two :  Gulmohar Colony, Bhopal
+Hotel Aditya Residency : 4.2 : North Indian, South Indian, Charcoal Chicken, Chinese, Pizza, Fast Food, Desserts, Beverages : ₹1,000 for two :  Maharana Pratap Nagar, Bhopal
+The Belgian Waffle Co. : - : Waffle, Pancake, Ice Cream, Desserts, Beverages : ₹300 for two :  Arera Colony, Bhopal
+High Spirits Pub And Grill : 4.3 : Finger Food, Chinese, Fast Food, North Indian, Beverages : ₹1,000 for two :  TT Nagar, Bhopal
+The Lake City Socialite : - : Continental, Chinese, North Indian, Beverages : ₹1,000 for two :  TT Nagar, Bhopal
+K2 Club & Lounge : 4.0 : North Indian, Continental, Desserts, Beverages : ₹800 for two :  Arera Colony, Bhopal
+Swastik Pure Veg Restaurant : 4.2 : North Indian, Chinese, South Indian, Street Food : ₹400 for two :  BHEL, Bhopal
+Sizzlers Bar & Restaurant : 4.3 : North Indian, Chinese : ₹1,000 for two :  Gulmohar Colony, Bhopal
+Emperor Lounge - Taj : - : Beverages, Desserts : ₹1,000 for two :  Taj Lakefront TT Nagar, Bhopal
+The Spice Table - Kwality's Motel Shiraz : 4.0 : North Indian, Chinese, Mughlai, Biryani, Thai, Oriental, Desserts, Beverages : ₹1,200 for two :  Maharana Pratap Nagar, Bhopal
+Al Zam Zam : 3.7 : North Indian, Fast Food : ₹300 for two :  Peer Gate Area, Bhopal
+Caffeine Mug Cafe : 4.6 : Coffee, Tea, Shake, Beverages, Sandwich, Fast Food, Street Food : ₹150 for two :  Habib Ganj, Bhopal
+The Bhopal Canteen : 3.7 : North Indian, Chinese, Pizza, Fast Food, Street Food, Desserts, Beverages : ₹300 for two :  Maharana Pratap Nagar, Bhopal
+Hotel Ranjit Legacy : 3.2 : North Indian, Chinese, Mughlai, Biryani, Continental, Fast Food, Desserts, Beverages : ₹1,000 for two :  TT Nagar, Bhopal
+Bella Vita Pizzeria : 3.7 : Coffee, Italian, Pizza, Tea, Waffle, Pasta, Pancake, Beverages : ₹500 for two :  Gulmohar Colony, Bhopal
+Nature Cottage : 2.9 : Chinese, Fast Food : ₹300 for two :  Kajlas, Bhopal
+Guptaji Shakahari Bhojnalaya : 4.2 : North Indian, South Indian, Chinese, Fast Food : ₹400 for two :  Maharana Pratap Nagar, Bhopal
+Just Baked - Radisson Hotel : - : Bakery, Desserts, Burger, Pasta, Fast Food : ₹1,100 for two :  Radisson - Bhopal Gulmohar Colony, Bhopal
+Nai Dilli : 4.3 : North Indian : ₹400 for two :  Airport Area, Bhopal
+The Mark Hotel And Club : 4.8 : Bar Food, North Indian, Chinese, Biryani, Oriental, Continental, Rolls, Beverages : ₹1,400 for two :  Hoshangabad Road, Bhopal
+Frozen Bottle - Milkshakes, Desserts And Ice Cream : - : Shake, Beverages, Waffle, Healthy Food, Ice Cream, Desserts : ₹500 for two :  Gulmohar Colony, Bhopal
+Rajhans Restaurant : 3.8 : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages, Pizza : ₹500 for two :  Peer Gate Area, Bhopal
+Starbucks Coffee : 3.5 : Cafe, Coffee, Burger, Desserts, Beverages : ₹600 for two :  DB City, Maharana Pratap Nagar, Bhopal
+Hakeem Restaurant : - : North Indian, Mughlai, Seafood, Chinese, Biryani : ₹450 for two :  TT Nagar, Bhopal
+Coffee Therapy : 3.9 : Cafe, Coffee, Tea, Shake, Beverages : ₹350 for two :  Arera Colony, Bhopal
+The Kyusine Kulture : New : North Indian, Coffee, Modern Indian, Mexican, Oriental, Seafood, Italian, Shake : ₹1,000 for two :  Arera Colony, Bhopal
+Sky 55 : 4.0 : Continental, Chinese, North Indian, Oriental, Biryani, Desserts, Beverages : ₹1,200 for two :  Maharana Pratap Nagar, Bhopal
+Rain Forest : New : North Indian, Chinese, Mughlai, Fast Food, Street Food, Beverages : ₹300 for two :  Arera Colony, Bhopal
+Daawat-E-Khas : - : North Indian, Mughlai : ₹300 for two :  JP Nagar, Bhopal
+Kuber Dairy And Restaurant : 3.8 : North Indian, South Indian, Chinese, Continental, Street Food, Desserts, Shake, Beverages : ₹1,000 for two :  Hoshangabad Road, Bhopal
+Giani Ice Cream : 3.6 : Ice Cream, Shake, Desserts : ₹300 for two :  Arera Colony, Bhopal
+Ace Of Clubs : 3.9 : North Indian, Chinese, Mughlai, Biryani, Pasta, Fast Food : ₹1,200 for two :  Gulmohar Colony, Bhopal
+Urban Tadka : 4.3 : North Indian, Chinese : ₹1,000 for two :  Hoshangabad Road, Bhopal
+Wisteria Blue : - : North Indian, South Indian, Chinese, Pizza, Beverages : ₹800 for two :  Hoshangabad Road, Bhopal
+Barrels Bar & Restro : New : North Indian, Kebab : ₹1,000 for two :  JP Nagar, Bhopal
+Rajhans Thali : 4.1 : North Indian : ₹500 for two :  Hoshangabad Road, Bhopal
+Bista Fast Food : New : Fast Food, Chinese, Street Food : ₹250 for two :  Maharana Pratap Nagar, Bhopal
+SN Classico : New : North Indian, Desserts, Shake, Beverages : ₹1,000 for two :  TT Nagar, Bhopal
+Rajdhani Dhaba : - : North Indian, Chinese : ₹250 for two :  Kolar, Bhopal
+Juice Master : 3.1 : Beverages, Juices, Shake, Fast Food : ₹300 for two :  Gulmohar Colony, Bhopal
+Rhythm On Fire : 3.9 : North Indian, South Indian, Chinese, Continental, Fast Food, Desserts : ₹700 for two :  Hoshangabad Road, Bhopal
+Fusion Meals : 3.9 : North Indian : ₹550 for two :  Gulmohar Colony, Bhopal
+Momos And More : 2.5 : Fast Food, Momos, Street Food, Shake, Sichuan : ₹200 for two :  Arera Colony, Bhopal
+Shri Dakshinam : - : South Indian, Beverages : ₹350 for two :  JP Nagar, Bhopal
+South Tak : 3.7 : South Indian : ₹150 for two :  Arera Colony, Bhopal
+The First Bite RestroCafe : - : North Indian, Chinese, Pasta, Pizza, Fast Food, Momos, Shake, Beverages : ₹400 for two :  BHEL, Bhopal
+Bhoj Inn : 3.6 : North Indian, Fast Food, Desserts : ₹1,000 for two :  Airport Area, Bhopal
+Zam Zam NX Fast Food : - : Chinese, Pasta, Pizza, Burger, Fast Food, Momos, Street Food, Beverages : ₹230 for two :  Maharana Pratap Nagar, Bhopal
+Mio Amore Cake Shop : - : Bakery : ₹500 for two :  BHEL, Bhopal
+The Lunar Stay : - : North Indian, Mughlai, Chinese, Salad, Kebab, Fast Food, Beverages : ₹1,000 for two :  Hoshangabad Road, Bhopal
+Asian Chef House : - : North Indian, South Indian, Fast Food, Pizza, Chinese, Beverages : ₹300 for two :  BHEL, Bhopal
+Twister King : 4.3 : Burger, Fast Food : ₹400 for two :  JP Nagar, Bhopal
+The Kasbah : 3.9 : North Indian, Chinese, Fast Food, Beverages : ₹700 for two :  Kolar, Bhopal
+Tesoro Multicuisine Restaurant : - : North Indian, Chinese, Mughlai, Seafood, Biryani, Fast Food, Beverages : ₹1,200 for two :  Arera Colony, Bhopal
+Bento Kitchen : 4.3 : North Indian, Chinese : ₹300 for two :  Gulmohar Colony, Bhopal
+Habibi's Palace : - : North Indian, BBQ, Biryani, Kebab, Mandi, Mughlai, Hyderabadi : ₹750 for two :  Peer Gate Area, Bhopal
+Arvind Restaurant & Fast Food : New : North Indian, South Indian, Biryani, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹350 for two :  JP Nagar, Bhopal
+Kayravi : - : North Indian, Chinese : ₹350 for two :  BHEL, Bhopal
+Agrawal's Rajbhog : 4.1 : North Indian, Chinese, Beverages : ₹700 for two :  Maharana Pratap Nagar, Bhopal
+Cafe Elixir : 2.4 : Fast Food, Chinese, Shake : ₹350 for two :  Maharana Pratap Nagar, Bhopal
+The Leopard Hill : - : North Indian : ₹600 for two :  Hoshangabad Road, Bhopal
+The Burger Streak : - : Burger, Pizza, Salad, Pasta, Fast Food, Shake, Coffee, Desserts : ₹400 for two :  JP Nagar, Bhopal
+Gokul Bhojanam : - : North Indian : ₹200 for two :  Hoshangabad Road, Bhopal
+Nothing Before Coffee : - : Beverages, Shake, Coffee, Tea, Street Food, Desserts : ₹300 for two :  Gulmohar Colony, Bhopal
+Dezato : New : Shake, Waffle : ₹250 for two :  Gulmohar Colony, Bhopal
+Al-azmi : New : Biryani : ₹300 for two :  Kolar, Bhopal
+Nai Dilli Deshi Tandoor : - : North Indian, Burger, Pizza, Street Food, Tea, Beverages : ₹350 for two :  Airport Area, Bhopal
+Sanjay Fresh Bake : 2.9 : Bakery, Desserts, Fast Food : ₹200 for two :  Kohefiza, Bhopal
+Krishna Restaurant : New : Chinese, Fast Food, North Indian : ₹300 for two :  Airport Area, Bhopal
+Relish Cafe & Bistro : New : Pasta, Pizza, Fast Food, Coffee, Beverages : ₹300 for two :  Gulmohar Colony, Bhopal
+Bawarchi Restaurant : 3.5 : North Indian, Chinese, Beverages, Fast Food, Mughlai, Biryani, Desserts, Sichuan : ₹800 for two :  Hoshangabad Road, Bhopal
+The Sundown Grill : 4.1 : North Indian, Chinese, Continental, Fast Food, Kebab, Biryani, Shake, Beverages : ₹700 for two :  Gulmohar Colony, Bhopal
+Masala Magic Fast Food & Restaurant : - : Chinese, Pasta : ₹150 for two :  Jhangirabad, Bhopal
+Friends Forever : - : South Indian, North Indian, Sandwich, Street Food : ₹150 for two :  Maharana Pratap Nagar, Bhopal
+Moonlight Restaurant : - : North Indian : ₹300 for two :  Peer Gate Area, Bhopal
+Shrutibhog : New : North Indian, South Indian, Sandwich, Fast Food, Chinese, Street Food, Desserts, Beverages : ₹350 for two :  Karond, Bhopal
+Swadam Cafe & Restro : - : Chinese, Momos : ₹200 for two :  Habib Ganj, Bhopal
+Desi Thaat : New : Chinese, Burger, Sandwich, Pasta, Street Food, Tea, Coffee, Shake : ₹200 for two :  BHEL, Bhopal
+Manraj - A Pure Veg Fast Food & Family Restaurant : - : Momos, Chinese, Fast Food, Street Food, Beverages : ₹200 for two :  BHEL, Bhopal
+Zaffran Cafe & Restaurant : New : North Indian : ₹300 for two :  BHEL, Bhopal
+D Feast House : - : Sandwich, Burger, Street Food, Wraps, Shake, Beverages : ₹250 for two :  Kohefiza, Bhopal
+Sagar Restaurant : 4.2 : Chinese, Fast Food : ₹250 for two :  Maharana Pratap Nagar, Bhopal
+Maa Kalka Briyani And Chicken Corner : New : Biryani, North Indian : ₹300 for two :  JP Nagar, Bhopal
+Indian Food Resturant : - : North Indian, South Indian, Chinese, Street Food : ₹450 for two :  Peer Gate Area, Bhopal
+The Yummy Restaurant : - : Chinese, Sichuan, Momos, Burger, Pasta : ₹350 for two :  TT Nagar, Bhopal
+Flavours Cafe And Restaurant : New : Chinese, Momos, Fast Food, Coffee, Shake, Beverages : ₹250 for two :  TT Nagar, Bhopal
+Burger King : 3.7 : Burger, Fast Food, Desserts, Beverages : ₹400 for two :  Aashima Mall, Hoshangabad Road, Bhopal
+The Chai Sutaaa & Cafe : New : Tea, Coffee, Shake, Pizza, Sandwich, Burger, Fast Food, Street Food : ₹200 for two :  BHEL, Bhopal
+Sheetal Cafe & Restaurant : - : North Indian, South Indian, Chinese, Fast Food, Pizza, Street Food, Tea, Beverages : ₹400 for two :  Kolar, Bhopal
+Hotel Awadh Palace : 3.6 : North Indian, South Indian, Continental, Chinese, Italian, Thai, BBQ, Desserts : ₹800 for two :  BHEL, Bhopal
+Olive Green Cafe And Restaurant : - : Italian, Pizza, Pasta, Burger, Sandwich, Wraps, Waffle, Shake : ₹300 for two :  BHEL, Bhopal
+Milan Sweets And Namkeen : 4.0 : Mithai, Street Food : ₹200 for two :  Maharana Pratap Nagar, Bhopal
+Picnik Pure Veg Family Restaurant : 3.9 : North Indian, South Indian, Chinese, Pasta, Fast Food, Salad, Desserts, Beverages : ₹500 for two :  TT Nagar, Bhopal
+Saatvik Restaurant : 4.0 : North Indian, Chinese : ₹750 for two :  TT Nagar, Bhopal
+Ali Baba Caves : 4.1 : North Indian, Chinese, Fast Food, Continental, Italian, Desserts : ₹800 for two :  Gulmohar Colony, Bhopal
+The Palm : 3.9 : North Indian, Mughlai : ₹1,000 for two :  Airport Area, Bhopal
+Black N White Cafe : 3.3 : Cafe, Coffee, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹300 for two :  Arera Colony, Bhopal
+UTC Up Town Cookhouse : 4.0 : North Indian, Chinese, Fast Food, Mexican : ₹500 for two :  Maharana Pratap Nagar, Bhopal
+Winni Cakes & More : 3.6 : Bakery, Desserts, Fast Food : ₹500 for two :  Gulmohar Colony, Bhopal
+Cake Heaven : - : Bakery, Desserts : ₹450 for two :  Arera Colony, Bhopal
+Hotel Afghan : 4.2 : North Indian, Mughlai, Chinese, Fast Food : ₹400 for two :  Kohefiza, Bhopal
+Evergreen Garden & Restaurant : 4.3 : North Indian, Chinese, Mughlai : ₹1,000 for two :  Airport Area, Bhopal
+The Forestaa Bistro, Cafe and Lounge : 3.8 : Fast Food, Beverages : ₹350 for two :  Arera Colony, Bhopal
+Shaan-E-Bhopal : 3.6 : Hyderabadi, North Indian, Maharashtrian : ₹1,000 for two :  TT Nagar, Bhopal
+Shamby's Restaurant & Cafe : 3.8 : North Indian, Sandwich, Pizza, Burger, Chinese, Finger Food, Fast Food, Shake : ₹450 for two :  Kolar, Bhopal
+Hotel Shubh Inn : 3.9 : North Indian, Chinese, Fast Food, Continental, Desserts : ₹800 for two :  Arera Colony, Bhopal
+P2 Hotel and Family Restaurant : 4.1 : North Indian, Chinese, Biryani : ₹600 for two :  JP Nagar, Bhopal
+Corner Cafe Vintage : - : North Indian, South Indian, Chinese, Street Food, Fast Food, Sandwich, Pizza, Biryani : ₹400 for two :  Arera Colony, Bhopal
+Milan Restaurant : 2.6 : North Indian, South Indian, Fast Food, Chinese, Street Food, Desserts : ₹400 for two :  Maharana Pratap Nagar, Bhopal
+Indian Tea House : 3.5 : Beverages, Fast Food : ₹400 for two :  Peer Gate Area, Bhopal

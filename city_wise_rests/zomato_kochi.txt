@@ -1,0 +1,501 @@
+Cafe 17 : 4.7 : Cafe, Sandwich, Burger, Italian, Continental, Desserts, Beverages : ₹1,000 for two :  Ravipuram, Kochi
+Tharavadu Multi Cuisine Restaurant Casino Hotel : 4.4 : Kerala, North Indian, Continental, Chinese, Biryani, Desserts : ₹1,500 for two :  Casino Hotel, Wellington Island, Kochi
+Fiesta : 4.2 : North Indian, Chinese : ₹1,400 for two :  MG Road, Kochi
+Latest Recipe - Le Méridien Kochi : 4.3 : Continental, Chinese, Kerala, South Indian, North Indian, Beverages, Desserts : ₹2,500 for two :  Le Méridien Kochi, Marad, Kochi
+Nasi And Mee : 4.6 : Asian, Japanese, Singaporean, Malaysian, Thai, Desserts, Beverages : ₹1,000 for two :  MG Road, Kochi
+Paragon : 4.4 : Kerala, South Indian, Continental, North Indian, Seafood, Chinese, Desserts, Beverages : ₹900 for two :  Edappally, Kochi
+Luv Cut Let : - : Fast Food : ₹100 for two :  Kacheripady, Kochi
+Restaurant Chef Pillai : 4.1 : South Indian, Kerala : ₹1,000 for two :  Marad, Kochi
+Malabar Cafe - Grand Hyatt Kochi Bolgatty : 4.7 : Kerala, North Indian, Desserts, Beverages : ₹2,400 for two :  Grand Hyatt Kochi Bolgatty, Kochi
+Kochi Kitchen - Kochi Marriott Hotel : 4.5 : South Indian, Asian, North Indian, Continental, Fast Food, Beverages : ₹3,000 for two :  Kochi Marriott Hotel, Edappally, Kochi
+Punjab Grill : 4.4 : North Indian, Kebab, Biryani, Mughlai : ₹2,500 for two :  Edappally, Kochi
+Roastown : 4.3 : Asian, Italian, Pasta, Pizza, Beverages : ₹2,600 for two :  Edappally, Kochi
+You Mee : 4.1 : Sushi, Chinese, Desserts : ₹1,200 for two :  Thevera, Kochi
+Hoy Punjab : 4.3 : North Indian, Street Food, Oriental, Biryani, Desserts, Beverages : ₹1,400 for two :  Kacheripady, Kochi
+Bektash : 4.2 : Arabian, Shawarma, Mandi, Burger, Fast Food, Coffee, Shake, Beverages : ₹350 for two :  Kakkanad, Kochi
+Little Soi : 4.6 : Thai, Sushi, Oriental, Desserts, Beverages : ₹1,000 for two :  Panampilly Nagar, Kochi
+Grand Entrée : 3.9 : South Indian, North Indian, Continental, Asian, Seafood : ₹850 for two :  Vennala, Kochi
+Hamza's Naadan Grill : 3.7 : Kerala : ₹600 for two :  Vennala, Kochi
+Plan B : 4.3 : American, Burger, Pizza, Fast Food, North Indian : ₹1,500 for two :  Fort Kochi, Kochi
+Cassava - Kochi Marriott Hotel : 4.8 : Kerala, South Indian, Desserts : ₹2,800 for two :  Kochi Marriott Hotel, Edappally, Kochi
+Bektash : 4.3 : Turkish, Lebanese, Kebab, Rolls, Beverages, Desserts, Ice Cream, Juices : ₹300 for two :  Chittoor Road, Kochi
+Galaxy Family Restaurant : 4.1 : Kerala, North Indian, Seafood, Chinese : ₹450 for two :  Kakkanad, Kochi
+Thai Soul - Grand Hyatt Kochi Bolgatty : 4.6 : Thai, Asian, Desserts : ₹2,000 for two :  Grand Hyatt Kochi Bolgatty, Kochi
+Velocity : - : Chinese, South Indian, North Indian, Kebab, Asian, Salad, Desserts, Beverages : ₹600 for two :  Marine Drive, Kochi
+Arippa Restaurant : 4.0 : South Indian, Chinese, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Palarivattom, Kochi
+KFC : 4.2 : Burger, Fast Food, Rolls : ₹450 for two :  Kalamassery, Kochi
+Sky Grill Lounge Bar & Restaurant By Crowne Plaza Kochi : 4.6 : Continental, Cuisine Varies, BBQ, Desserts : ₹2,300 for two :  Crowne Plaza Kochi, Marad, Kochi
+Barbeque Nation : 3.6 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,700 for two :  LuLu Mall, Edappally, Kochi
+Chinese Wok : 3.8 : Chinese : ₹300 for two :  Palarivattom, Kochi
+Hotel Seagull : 4.0 : Kerala, Seafood, Chinese, Biryani, Salad : ₹800 for two :  Fort Kochi, Kochi
+WOW! Momo : 3.7 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts : ₹300 for two :  Thopumpady, Kochi
+MoMo Café - Courtyard By Marriott Kochi Airport : 4.0 : North Indian, Continental, Asian, South Indian, Kerala, Momos, Desserts, Beverages : ₹2,600 for two :  Courtyard by Marriott Kochi Airport, Aluva, Kochi
+Burger King : 4.0 : Burger, Fast Food, Beverages : ₹500 for two :  LuLu Mall, Edappally, Kochi
+Watson's : 4.3 : South Indian, North Indian : ₹1,000 for two :  MG Road, Kochi
+French Toast : 4.4 : Beverages, Italian, Continental, Salad, Fast Food : ₹900 for two :  Panampilly Nagar, Kochi
+Dhe Puttu : 4.5 : Kerala, South Indian, Desserts, Beverages : ₹800 for two :  Edappally, Kochi
+Charcoal Shack Restaurant : 3.9 : Arabian, Mandi, Shawarma, North Indian, Desserts, Beverages : ₹1,000 for two :  Kaloor, Kochi
+Lila's Kitchen - Port Muziris, A Tribute Portfolio Hotel : 4.2 : Fast Food, Continental, South Indian, North Indian : ₹2,200 for two :  PortMuziris,Kochi, Kochi
+The Salt : 3.9 : North Indian, Arabian, Chinese, Seafood, Desserts, Shake, Beverages : ₹800 for two :  Thopumpady, Kochi
+Hotel Al - Reem : 4.3 : Mandi, Arabian : ₹500 for two :  Aluva, Kochi
+Grand Pavillion By Grand Hotel : 4.5 : North Indian, Kerala, Chinese, Continental : ₹1,400 for two :  Grand Hotel, MG Road, Kochi
+Fress Trees Garden Cafe : 3.9 : Cafe, Fast Food, Pizza, Beverages : ₹600 for two :  Edappally, Kochi
+Paragon Restaurant : - : Kerala, South Indian, Seafood, Salad, Chinese, Beverages : ₹1,400 for two :  Angamali, Kochi
+Cold Stone Creamery : 4.5 : Ice Cream : ₹400 for two :  LuLu Mall, Edappally, Kochi
+The Little Eatery : 3.9 : Arabian, Shawarma, North Indian, Sandwich, Tea, Shake, Juices, Beverages : ₹350 for two :  Elamkulam, Kochi
+Big Mouth : - : Cafe, Coffee, North Indian, Mughlai, Biryani, Chinese, Seafood, Shake : ₹1,100 for two :  Kakkanad, Kochi
+WOW! China : 3.9 : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹600 for two :  Marad, Kochi
+Westleys Restocafe : 4.3 : Cafe, Coffee, Continental, Fast Food, Burger, Beverages : ₹500 for two :  Palarivattom, Kochi
+Chopstix Signature : 3.6 : Thai, Asian : ₹700 for two :  Panampilly Nagar, Kochi
+The Oven : 4.5 : Italian, Continental, Burger, Fast Food, Panini, Beverages : ₹500 for two :  MG Road, Kochi
+Amigo Broasted Chicken : 3.6 : Fast Food : ₹400 for two :  Cheranalloor, Kochi
+Mosaic By Crowne Plaza Kochi : 4.1 : Kerala, Continental, North Indian, South Indian, Chinese, Italian, Desserts, Beverages : ₹3,000 for two :  Crowne Plaza Kochi, Marad, Kochi
+Malaya Restaurant : 4.0 : Chinese, Sichuan, Asian, Kerala, Seafood, Rolls, Beverages : ₹1,000 for two :  Palarivattom, Kochi
+Milano Ice Cream : 4.5 : Ice Cream, Desserts : ₹300 for two :  Pallimukku, Kochi
+Zoka By Crowne Plaza Kochi : 3.8 : Asian, Thai, Japanese, Korean : ₹3,000 for two :  Crowne Plaza Kochi, Marad, Kochi
+Jetty : 4.5 : North Indian, Mughlai, Kerala, Seafood, Bar Food, Beverages : ₹1,500 for two :  Fort Kochi, Kochi
+Arippa Restaurant : 2.8 : South Indian, Biryani, Street Food, Juices : ₹450 for two :  MG Road, Kochi
+Beyondburg Inc : 4.2 : Burger, Continental : ₹1,000 for two :  Palarivattom, Kochi
+Canvas Restaurant & Pizzeria : 4.4 : Pizza, Pasta, Salad, Beverages, Desserts : ₹1,000 for two :  Fort Kochi, Kochi
+Fort House Restaurant : 4.3 : Seafood, Kerala, Fast Food, Desserts, Beverages : ₹1,000 for two :  Fort Kochi, Kochi
+Choc O Lick : 4.2 : Cafe, Desserts, Ice Cream : ₹400 for two :  Kakkanad, Kochi
+Hortus : 3.9 : North Indian, Italian : ₹1,200 for two :  Panampilly Nagar, Kochi
+District 7 Encore : 3.9 : Continental, Asian, Seafood, Chinese, Burger, Fast Food : ₹1,800 for two :  Elamkulam, Kochi
+Tummy Singh : - : North Indian, Biryani : ₹1,000 for two :  Ernakulam City, Kochi
+Colony Clubhouse & Grill - Grand Hyatt Kochi Bolgatty : 4.4 : Continental, BBQ, Seafood : ₹3,200 for two :  Grand Hyatt Vypin, Kochi
+Green Spoon - Pure Veg Haven : 3.7 : North Indian, Pizza, Sandwich, Momos, Salad, Desserts, Beverages : ₹800 for two :  Kadavanthra, Kochi
+Fort Paragon Restaurant : - : North Indian, Seafood, Mughlai, Kebab, Biryani, Salad, Desserts, Beverages : ₹1,000 for two :  Fort Kochi, Kochi
+Deli KC - Holiday Inn : 3.8 : Cafe, Continental, Fast Food, Beverages, Desserts : ₹1,100 for two :  Holiday Inn Cochin, Vennala, Kochi
+Trouvaille : 3.9 : Cafe : ₹700 for two :  Fort Kochi, Kochi
+Fort Cochin Seafood Specialty Restaurant Casino Hotel : 4.3 : South Indian, North Indian, Mediterranean, Seafood, Desserts : ₹3,000 for two :  Casino Hotel, Wellington Island, Kochi
+Aroma Kitchen : 4.0 : Kerala, Biryani, Salad, North Indian : ₹750 for two :  Panampilly Nagar, Kochi
+Masala : 4.1 : Kerala, Chinese, Italian, North Indian, Shake : ₹2,500 for two :  Holiday Inn Cochin, Vennala, Kochi
+Mukbang Korean Restaurant : 3.9 : Korean, Beverages : ₹1,200 for two :  Vennala, Kochi
+Salkara : 4.3 : North Indian, Fast Food : ₹1,000 for two :  Aluva, Kochi
+Happy Cup : 4.2 : Cafe, Italian, Pizza, Sandwich, Burger, Desserts, Japanese, Beverages : ₹1,000 for two :  Panampilly Nagar, Kochi
+Arabian Palace : 4.4 : Arabian, Mandi : ₹1,000 for two :  Edappally, Kochi
+The Grillax : 3.9 : Chinese, Seafood, Charcoal Chicken, Fast Food : ₹600 for two :  Edappally, Kochi
+Zera Noya - Dutch Bakery : 3.9 : Bakery, Desserts : ₹300 for two :  Kacheripady, Kochi
+Supreme Uppercrust : 3.6 : North Indian, Continental, Chinese, Pasta, Fast Food, Desserts : ₹1,000 for two :  Vyttila, Kochi
+Zaatar Arabic Restaurant : 3.5 : Arabian, Mandi, Kebab : ₹1,000 for two :  Palarivattom, Kochi
+The Wing Culture : 3.4 : Fast Food, Shake, Beverages : ₹350 for two :  Ernakulam City, Kochi
+Watson's Kochi : 3.9 : Fast Food, North Indian, Bar Food : ₹1,000 for two :  MG Road, Kochi
+Monsoon Empress : 4.0 : North Indian, Seafood, Chinese, Fast Food, Desserts, Beverages : ₹1,500 for two :  Palarivattom, Kochi
+Paragon Restaurant : - : Kerala : ₹300 for two :  Edappally, Kochi
+Forwords : 3.9 : Cafe, Continental, Fast Food, Street Food, Waffle, Pancake, Shake, Beverages : ₹600 for two :  Kakkanad, Kochi
+Loafer's Corner : 4.2 : Cafe, Continental, Fast Food, Beverages, Desserts : ₹500 for two :  Fort Kochi, Kochi
+Pandhal Café & Deli : 3.8 : Coffee, Fast Food, Italian, Beverages, Cafe : ₹600 for two :  Panampilly Nagar, Kochi
+Cafe Durbar AFC : 3.9 : Fast Food, Burger, Sandwich, Juices, Shake, Beverages : ₹300 for two :  Pallimukku, Kochi
+The Square - Novotel Kochi Infopark : 3.9 : North Indian, Salad, Fast Food : ₹1,500 for two :  Novotel Kochi Infopark, Kakkanad, Kochi
+Thaal Kitchen : 4.2 : North Indian, South Indian, Mughlai, Seafood, Biryani, Chinese, Fast Food : ₹1,000 for two :  MG Road, Kochi
+Topi Vappa Biriyani : - : Biryani, South Indian, North Indian, Seafood, Mughlai, Shawarma, Kebab, BBQ : ₹1,000 for two :  MG Road, Kochi
+Brindhavan Vegetarian Restaurant : 4.5 : North Indian, South Indian, Chinese, Fast Food, Street Food, Desserts, Shake, Beverages : ₹1,000 for two :  Palarivattom, Kochi
+Chopstix : 4.3 : Chinese, Thai, Seafood, Desserts, Beverages : ₹800 for two :  Kakkanad, Kochi
+Taco Bell : 4.0 : Mexican, Wraps, Fast Food, Beverages : ₹500 for two :  LuLu Mall, Edappally, Kochi
+Royal Food Court : 4.2 : Arabian, Chinese, Beverages, Biryani, North Indian : ₹300 for two :  Perumbavoor, Kochi
+Mayabay  The Tropical Restobar : - : Finger Food, Continental, Italian, Beverages : ₹2,000 for two :  Kakkanad, Kochi
+Domino's Pizza : 3.7 : Pizza, Italian, Fast Food, Desserts : ₹500 for two :  Tripunithura, Kochi
+The Eatery - Four Points by Sheraton : 4.1 : North Indian, South Indian, Seafood, Biryani, Fast Food, Desserts, Shake, Beverages : ₹2,500 for two :  Four Points By Sheraton Kakkanad, Kochi
+Tikka And Kabab Ameen : 4.0 : North Indian, Shawarma, Arabian, Beverages : ₹1,000 for two :  Kaloor, Kochi
+Mua Cafe : 3.1 : Beverages, Burger, Sandwich, Steak, Continental : ₹400 for two :  Edappally, Kochi
+Alakapuri : 4.2 : Kerala, South Indian, Chinese, Beverages : ₹350 for two :  Kakkanad, Kochi
+Wolkano Creamery : 3.9 : Bakery, Desserts, Ice Cream : ₹650 for two :  Vyttila, Kochi
+Ceylon Bake House : 3.4 : Biryani, Kerala, South Indian, Chinese, Desserts, Beverages, Juices, Shake : ₹500 for two :  Vyttila, Kochi
+Soofi Mandhi : 3.2 : Arabian, Kerala, Biryani, Chinese, Beverages : ₹400 for two :  Aluva, Kochi
+Al Taza : 4.4 : Shawarma, Juices, Shake, Beverages : ₹400 for two :  Kaloor, Kochi
+Rahumania Biriyani : 3.9 : Biryani, Kerala : ₹550 for two :  Marine Drive, Kochi
+The Pavilion - Taj Malabar Resort & Spa : 4.1 : Thai, Chinese : ₹2,500 for two :  Malabar Resorts & Spa, Wellingdon Island, Kochi
+Keshia - Radisson Blu Kochi : 4.1 : Kerala, Continental, Asian, North Indian, Pasta, Fast Food, Shake : ₹2,500 for two :  Radisson Blu Kochi, Kadavanthra, Kochi
+Urban Paratha : 4.1 : North Indian, Kebab : ₹500 for two :  Vyttila, Kochi
+Pitaworks : 3.8 : Shawarma, Fast Food : ₹400 for two :  Kacheripady, Kochi
+Longitude 76 - Le Méridien Kochi : 4.4 : North Indian, Continental, Beverages, Finger Food : ₹2,000 for two :  Le Méridien Kochi, Marad, Kochi
+Kunjappus Biriyani Hut : 3.9 : Biryani, Kerala : ₹300 for two :  Perumbavoor, Kochi
+Calicut Notebook : 3.9 : South Indian, Kerala, Biryani, Seafood, North Indian : ₹800 for two :  Kaloor, Kochi
+Cold Stone Creamery : - : Ice Cream : ₹400 for two :  Pallimukku, Kochi
+Artiste- The Restaurant : New : South Indian, North Indian : ₹3,500 for two :  Marad, Kochi
+Beat Box : - : Arabian, Shawarma, BBQ, Fast Food, Beverages : ₹450 for two :  Kaloor, Kochi
+Tonico Cafe : 4.3 : Cafe, Continental, Burger, Fast Food, Desserts : ₹400 for two :  Kakkanad, Kochi
+Dindigul Thalappakatti : 4.0 : Biryani, South Indian, North Indian, Chinese, Seafood, Desserts, Beverages : ₹700 for two :  Panampilly Nagar, Kochi
+East India Street Café : 4.2 : Cafe, Fast Food, European, Healthy Food, Italian, Desserts, Beverages, Shake : ₹1,000 for two :  Panampilly Nagar, Kochi
+Hotel Paradise - Palarivattom : 3.9 : Kerala, Seafood, Chinese, Arabian, Biryani, Juices, Beverages, Shake : ₹450 for two :  Palarivattom, Kochi
+Dharavi By Farm Delight : - : Kerala : ₹300 for two :  Kakkanad, Kochi
+The Persian Table : - : Kerala : ₹1,000 for two :  Kolenchery, Kochi
+Street Menu : 2.8 : Kerala, Biryani : ₹400 for two :  MG Road, Kochi
+The Salt Restaurant : 3.7 : North Indian, Chinese, Arabian, Seafood, Beverages : ₹700 for two :  Panampilly Nagar, Kochi
+Steam n Mugs : 4.0 : Cafe, Coffee, Shawarma, Chinese, Fast Food, Burger, Desserts, Beverages : ₹600 for two :  Kakkanad, Kochi
+The Voyager : 3.8 : Continental, Fast Food, Burger, Pasta, Desserts, Beverages : ₹600 for two :  Kakkanad, Kochi
+Biriyani Hut : 3.4 : Biryani, Kerala, South Indian, Arabian, Fast Food, Beverages : ₹600 for two :  Edappally, Kochi
+Urban Paratha : - : North Indian, Kebab, Mughlai, Seafood, Chinese, Biryani, Beverages : ₹1,300 for two :  Thopumpady, Kochi
+Sethi Da Dhaba : 4.2 : North Indian, Fast Food, Desserts, Beverages : ₹700 for two :  Kadavanthra, Kochi
+Francis : 3.8 : North Indian, Fast Food : ₹1,200 for two :  Fort Kochi, Kochi
+Taberna - Courtyard By Marriott Kochi Airport : 4.0 : Finger Food : ₹1,200 for two :  Courtyard by Marriott Kochi Airport, Aluva, Kochi
+Cafe De Bangkok : 3.9 : Thai, Chinese, Japanese : ₹1,000 for two :  Palarivattom, Kochi
+Peni Ice Candy : 3.9 : Ice Cream, Desserts : ₹100 for two :  Ravipuram, Kochi
+Hotel Saravana Bhavan : 4.3 : South Indian, North Indian, Chinese : ₹700 for two :  Edappally, Kochi
+Al - Saj Kitchen : 3.9 : Kerala, South Indian, Biryani, Seafood, Arabian, Chinese, Sichuan, Beverages : ₹400 for two :  Aluva, Kochi
+McDonald's : 3.6 : Burger, Fast Food, Cafe : ₹300 for two :  MG Road, Kochi
+Sree Krishna Inn : 4.1 : South Indian, North Indian, Biryani, Chinese, Street Food, Ice Cream, Desserts, Beverages : ₹400 for two :  Pallimukku, Kochi
+Drink Lab Resto Cafe : 3.7 : Kerala, North Indian, Burger, Sandwich, Wraps, Continental, Chinese, Beverages : ₹700 for two :  Elamkulam, Kochi
+Kokkarako Restaurant : - : Fast Food, Shawarma : ₹350 for two :  Tripunithura, Kochi
+Chicking : 3.4 : Fast Food, Pizza, Burger : ₹400 for two :  LuLu Mall, Edappally, Kochi
+Grand Lounge - Grand Hyatt : 3.9 : Modern Indian, Continental, Desserts, Coffee, Beverages : ₹2,000 for two :  Grand Hyatt Kochi Bolgatty, Kochi
+Cocoacraft Chocolate Factory : 4.9 : Cafe, Desserts, Italian, Fast Food, Beverages : ₹500 for two :  Kacheripady, Kochi
+The Renai Cochin Rasaleela Restaurant : 3.8 : Seafood, Kerala, Chinese, Sichuan, Biryani, Fast Food : ₹1,500 for two :  The Renai Cochin, Palarivattom, Kochi
+Fusion Bay : 4.7 : Seafood, South Indian, Kerala, Desserts, Beverages : ₹1,500 for two :  Fort Kochi, Kochi
+Bake Tree : 4.4 : Bakery, Fast Food, Beverages : ₹300 for two :  Kaloor, Kochi
+Rocks And Brews Kitchen : - : South Indian, Fast Food, Chinese, Seafood : ₹350 for two :  Kakkanad, Kochi
+French Toast Bakery, Kitchen & Studio : 4.1 : Continental, Italian, Fast Food, Pasta, Desserts, Coffee, Beverages : ₹700 for two :  Kacheripady, Kochi
+Thakkaaram : 3.8 : Kerala, Biryani, Arabian, Seafood, Desserts, Shake, Juices, Beverages : ₹400 for two :  Vyttila, Kochi
+Cocoa Tree : 4.6 : Italian, Seafood, Mediterranean, Pasta, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Panampilly Nagar, Kochi
+Mulberries Resto Cafe : New : Arabian, Mandi : ₹1,200 for two :  Kolenchery, Kochi
+Meat Barrel : - : Shawarma, Turkish, Tea : ₹400 for two :  Kakkanad, Kochi
+Nosh Haus : 3.9 : Cafe, Coffee, Pizza, Burger, Sandwich, Salad, Desserts : ₹1,000 for two :  Aluva, Kochi
+Pizza Hut : 3.5 : Pizza, Fast Food, Desserts, Beverages : ₹400 for two :  Marad, Kochi
+Kaali Meeri : 4.0 : North Indian, Chinese, Arabian, Mughlai, Biryani, Rolls, Desserts, Beverages : ₹1,000 for two :  Aluva, Kochi
+The Springs - The Avenue Regent : 4.4 : Continental, South Indian, North Indian, Kerala, Seafood, Desserts : ₹1,200 for two :  The Avenue Regent, MG Road, Kochi
+Diwan's Durbar : 3.7 : North Indian, South Indian, Chinese, Sichuan : ₹600 for two :  Kakkanad, Kochi
+Cheenavala : 4.1 : South Indian, Kerala, Seafood, Chinese, North Indian, Biryani, Desserts, Beverages : ₹1,000 for two :  Edappally, Kochi
+Fennel - Ramada Resort : 4.0 : North Indian, South Indian, Seafood, Chinese, Pizza, Fast Food, Desserts, Beverages : ₹3,500 for two :  Ramada Resort, Marad, Kochi
+Slice of Spice : 3.8 : Chinese, Burger, Fast Food, Shake, Beverages : ₹500 for two :  North Paravur, Kochi
+Palaaram : 4.0 : Kerala, Fast Food, Chinese, Desserts, Beverages : ₹600 for two :  Kakkanad, Kochi
+Cake Hut : 3.7 : Bakery, Street Food : ₹300 for two :  Angamali, Kochi
+Chiyang : 3.9 : Chinese, Sichuan, Oriental, Seafood : ₹700 for two :  Kacheripady, Kochi
+Lilliput Multi Cuisine Restaurant : 4.0 : North Indian, South Indian, Biryani, Chinese, Desserts, Beverages : ₹1,000 for two :  Vypin, Kochi
+Thaal Family Restaurant : 3.8 : South Indian, Biryani, Chinese, North Indian, Arabian, Mughlai : ₹300 for two :  Edappally, Kochi
+Sardarji Ka Dhaba : 4.1 : North Indian, Mughlai, Chinese : ₹750 for two :  Kacheripady, Kochi
+La Pino'z Pizza : 3.8 : Pizza, Pasta, Italian, Fast Food : ₹300 for two :  Palarivattom, Kochi
+All Spice - Four Points by Sheraton : 4.4 : Modern Indian, North Indian, Seafood, South Indian : ₹2,200 for two :  Four Points By Sheraton Kakkanad, Kochi
+Lila Art Cafe : 2.8 : Cafe, Coffee, Beverages, Continental, Asian, Desserts : ₹700 for two :  Fort Kochi, Kochi
+Polski Kebab : 3.9 : Kebab, Rolls, Fast Food : ₹400 for two :  Kakkanad, Kochi
+Hotel Al - Reem : - : Mandi, Arabian : ₹1,000 for two :  Ernakulam City, Kochi
+Baskin Robbins - Ice Cream Desserts : 3.2 : Shake, Beverages, Ice Cream, Desserts : ₹500 for two :  LuLu Mall, Edappally, Kochi
+Kebaba Restaurant : - : Kebab, North Indian, Biryani, Momos, Chinese, Rolls, Ice Cream, Beverages : ₹400 for two :  Chullickal, Kochi
+Hotel Anugraha : 4.0 : South Indian, Kerala, North Indian, Beverages : ₹400 for two :  Vyttila, Kochi
+Al- Sheba Kuzhimandhi : 4.2 : Arabian : ₹400 for two :  Kakkanad, Kochi
+Brindhavan Veg Restaurant : 4.4 : South Indian, North Indian : ₹300 for two :  Palarivattom, Kochi
+Tandoor Chillies Restaurant : - : North Indian, Andhra : ₹1,000 for two :  MG Road, Kochi
+Ceylon Bake House : 3.9 : North Indian, Kerala, South Indian, Chinese, Arabian, Salad, Rolls : ₹600 for two :  Chittoor Road, Kochi
+Emarath Restaurant : 4.0 : Arabian, Kerala, Seafood, Biryani, Lebanese, Shawarma : ₹800 for two :  Kalamassery, Kochi
+Pandari's Biryani : 4.1 : Biryani : ₹400 for two :  Mattancherry, Kochi
+ConneXions Bar By Crowne Plaza Kochi : 4.4 : Finger Food, Beverages, Drinks Only : ₹1,300 for two :  Crowne Plaza Kochi, Marad, Kochi
+Burgeria : 4.0 : Burger, Shake, Beverages : ₹450 for two :  Kaloor, Kochi
+Upper Birth - Coral Isle Hotel : 3.7 : Seafood, Chinese, Continental : ₹1,000 for two :  Kacheripady, Kochi
+Dindigul Thalappakatti : 3.4 : Biryani, South Indian, North Indian, Chinese, Seafood, Desserts, Beverages : ₹700 for two :  LuLu Mall, Edappally, Kochi
+Falooda Nation : 3.6 : Desserts, Ice Cream, Shake, Beverages : ₹400 for two :  Kaloor, Kochi
+Canopy : 3.3 : South Indian, Sandwich, Burger, Pizza, Chinese, Seafood, Beverages : ₹600 for two :  Abad Plaza, Kacheripady, Kochi
+District 7 Restro Cafe : 4.1 : Continental, Cafe, Chinese, Beverages : ₹700 for two :  Vyttila, Kochi
+Zesti Arabia : 3.4 : Arabian, North Indian, Beverages : ₹450 for two :  Chullickal, Kochi
+The Burger Junction : 4.4 : Burger, Fast Food, Desserts : ₹600 for two :  Kakkanad, Kochi
+Kochi Kapital Kafe : 3.9 : Cafe, Italian, American, Burger, Mexican, Sandwich : ₹650 for two :  Fort Kochi, Kochi
+High Bar - Radisson Blu Kochi : 4.0 : Mediterranean, Turkish, North Indian, Desserts : ₹2,000 for two :  Radisson Blu Kochi, Kadavanthra, Kochi
+Ginger House Museum Hotel : 3.8 : Kerala, Salad, Desserts, Beverages : ₹800 for two :  Mattancherry, Kochi
+Hotel Aryaas : 4.0 : North Indian, South Indian, Chinese, Fast Food, Shake, Beverages : ₹1,000 for two :  Kakkanad, Kochi
+Bab Arabia : 4.1 : Arabian, Continental, Chinese, Burger, Fast Food, Shake, Beverages : ₹1,000 for two :  Panampilly Nagar, Kochi
+The Sundeck Bar - Novotel Kochi Infopark : 3.9 : Finger Food, Kerala, Continental, North Indian, Fast Food : ₹1,500 for two :  Novotel Kochi Infopark, Kakkanad, Kochi
+The Bar - Novotel Kochi Infopark : 4.2 : Bar Food, Finger Food : ₹2,000 for two :  Novotel Kochi Infopark, Kakkanad, Kochi
+Caper - Four Points By Sheraton : 4.2 : Bar Food, Beverages : ₹2,000 for two :  Four Points by Sheraton Kochi Infopark, Kochi
+Hotel Rukmini : 3.8 : Kerala, Seafood, Biryani, Chinese, Sichuan : ₹400 for two :  Angamali, Kochi
+Avilo : 3.5 : Fast Food, Beverages, Desserts : ₹200 for two :  Aluva, Kochi
+Cafe Itallo : - : Cafe, Coffee, Italian, Salad, Continental, Pasta, Desserts, Beverages : ₹700 for two :  Panampilly Nagar, Kochi
+Shenoy's Pure Veg : 3.4 : South Indian, North Indian, Chinese : ₹250 for two :  Aluva, Kochi
+Swamy's Coffee House : - : South Indian, North Indian, Chinese, Street Food, Beverages : ₹250 for two :  Marad, Kochi
+Ramees Restaurant : 4.2 : Kerala, Chinese, Sichuan, Salad : ₹1,000 for two :  Marad, Kochi
+Aroma Lounge & Deli By Crowne Plaza Kochi : 3.7 : Cafe, Bakery, Fast Food, Beverages, Desserts : ₹1,200 for two :  Crowne Plaza Kochi, Marad, Kochi
+The Pavilion - The Renai Cochin : 3.7 : Continental : ₹1,300 for two :  The Renai Cochin, Palarivattom, Kochi
+Khana Peena : 3.9 : South Indian, North Indian : ₹250 for two :  Thopumpady, Kochi
+MRA Restaurant : 4.0 : Arabian, Mandi, Shake, Beverages : ₹800 for two :  Edappally, Kochi
+Mezzo - The Avenue Regent : 4.4 : Italian : ₹1,500 for two :  The Avenue Regent, MG Road, Kochi
+Fusion Bay Multi Cuisine Seafood Restaurant : 3.9 : North Indian, South Indian, Seafood, Fast Food, Desserts : ₹1,000 for two :  Fort Kochi, Kochi
+Chaska Street Side Indian Restaurant : 3.8 : North Indian, Chinese : ₹500 for two :  Palarivattom, Kochi
+Tiffin Company - Kumbakonam Degree Coffee : - : South Indian, Shake : ₹250 for two :  Pallimukku, Kochi
+Pathirakozhi : 4.0 : Arabian, Kerala, Biryani : ₹350 for two :  Kalamassery, Kochi
+Happy Cup Heritage : - : Continental, Pizza, Pasta, Burger, Fast Food, Beverages, Shake : ₹1,000 for two :  Ernakulam City, Kochi
+Rochas The Portuguese Grill House : 3.6 : Portuguese, Italian, Continental : ₹800 for two :  Kakkanad, Kochi
+Coral Reef - Coral Isle Hotel : 3.9 : Seafood, Chinese, South Indian : ₹1,200 for two :  Kacheripady, Kochi
+Yaghma Kababs : 3.5 : Kebab, North Indian, Rolls, Beverages : ₹450 for two :  Ernakulam City, Kochi
+Courtyard - The Classik Fort : 4.0 : Kerala, Biryani, Chinese, South Indian, Asian, Desserts, Beverages, Sichuan : ₹950 for two :  Marad, Kochi
+The Kettle Tea Lounge - Port Muziris, a Tribute Portfolio Hotel : 3.9 : Cafe, Coffee, Beverages, South Indian, Chinese : ₹1,200 for two :  PortMuziris,Kochi, Kochi
+Rizo Resto : 3.7 : Burger, Shawarma, Fast Food, Biryani, Arabian, Shake : ₹500 for two :  Kacheripady, Kochi
+McCafe by McDonald's : - : Cafe, Coffee, Shake, Fast Food : ₹500 for two :  Abad Nucleus Mall, Marad, Kochi
+Naga's : 3.3 : Andhra, North Indian, Biryani : ₹500 for two :  LuLu Mall, Edappally, Kochi
+Juice Days Beeva Fresh : 3.9 : Fast Food, Sandwich, Beverages : ₹200 for two :  Kalamassery, Kochi
+Bread World : 3.7 : Fast Food, Bakery : ₹450 for two :  LuLu Mall, Edappally, Kochi
+Supreme Bakers : 4.2 : Bakery, Desserts : ₹650 for two :  Vyttila, Kochi
+Edam Art Cafe : 3.2 : Continental, Chinese : ₹600 for two :  Panampilly Nagar, Kochi
+Thara Restaurant : 3.9 : Kerala, Biryani : ₹400 for two :  Kacheripady, Kochi
+Cafe Manaqish : - : Arabian, Shawarma, Burger, Beverages, Juices, Shake : ₹500 for two :  Marad, Kochi
+Tellicherry Kitchen : 4.2 : North Indian, Kerala, Arabian, Continental, South Indian, Biryani, Desserts, Beverages : ₹1,000 for two :  Kacheripady, Kochi
+Manchatty Restaurant : 3.6 : South Indian, Chinese, Beverages, Sichuan : ₹350 for two :  Aluva, Kochi
+Pizza Xpress : 3.3 : Pizza, Fast Food : ₹500 for two :  Abad Nucleus Mall, Marad, Kochi
+Mehfil Biriyani : 4.2 : Biryani, Kerala, South Indian, Arabian, Shake, Juices : ₹300 for two :  Chittoor Road, Kochi
+The Grill Lab : 4.3 : Cafe, Fast Food, Burger, Pasta, Continental, Desserts, Beverages : ₹600 for two :  Palarivattom, Kochi
+Punjab House : 4.7 : North Indian, Mughlai : ₹400 for two :  Marine Drive, Kochi
+Paul's Creamery : 3.9 : Desserts, Shake, Beverages : ₹200 for two :  Kadavanthra, Kochi
+Istanbull Rolls & Grills : - : Shawarma, Arabian, Fast Food : ₹300 for two :  Ernakulam City, Kochi
+The Black Pearl - The Renai Cochin : 4.0 : Chinese : ₹800 for two :  The Renai Cochin, Palarivattom, Kochi
+Gokul Oottupura : 4.0 : South Indian, Desserts, Juices, Shake, Beverages : ₹300 for two :  Kadavanthra, Kochi
+Mamma Restaurant : 3.9 : Kerala, Chinese, South Indian, Shake, Sichuan : ₹450 for two :  Ernakulam City, Kochi
+Soul Food Republic : 3.9 : Burger, Fast Food, Continental, Sandwich : ₹400 for two :  Kacheripady, Kochi
+Bubble Café - The Gateway Hotel : 4.0 : Seafood, Continental, Mediterranean, Kerala, South Indian : ₹3,500 for two :  The Gateway Hotel, Marine Drive, Kochi
+Ozone The Sky Lounge - Hotel Airlink Castle : 4.3 : Continental, Chinese, North Indian, South Indian, Kerala, Desserts, Beverages : ₹1,100 for two :  Nedumbassery, Kochi
+Arabic Khana Restaurant : 3.4 : Arabian, Mandi : ₹500 for two :  Thopumpady, Kochi
+Top Form Restaurant : - : Fast Food, Chinese : ₹250 for two :  Vypin, Kochi
+Oh My Cake : 3.5 : Bakery, Desserts : ₹550 for two :  Kakkanad, Kochi
+Nambiar's Green Pepper : 3.9 : Kerala, North Indian, Chinese, Seafood : ₹700 for two :  Ernakulam City, Kochi
+Waffee House : 3.9 : Waffle, Pancake, Desserts, Shake, Beverages : ₹500 for two :  Kaloor, Kochi
+ARYAAS PURE VEG. : 3.7 : Arabian, Biryani, Beverages : ₹500 for two :  Vyttila, Kochi
+Feast : 4.2 : Kerala, Mughlai, Chinese, Continental, Salad, Desserts, Beverages : ₹1,000 for two :  Travancore Court by Spree, Pallimukku, Kochi
+Cafe Papaya : 4.2 : Cafe, North Indian, Wraps, Pizza, Italian, Beverages, Coffee, Shake : ₹700 for two :  Panampilly Nagar, Kochi
+Grand Malabar : 3.8 : Seafood, South Indian, North Indian, Chinese, Shake, Juices, Desserts : ₹500 for two :  Nedumbassery, Kochi
+The Hot Spot & Arabian Nights : 3.9 : Arabian, South Indian, North Indian, Chinese, Rolls, Seafood, Desserts, Beverages : ₹700 for two :  Kaloor, Kochi
+Thalassery Kitchen : 3.8 : North Indian, Kerala, South Indian, Chinese, Street Food, Beverages : ₹500 for two :  Aluva, Kochi
+Cafe Street : 4.0 : Cafe, Arabian, Beverages, Biryani, Shake : ₹200 for two :  Tripunithura, Kochi
+Spice It - ibis Kochi City Centre : 4.3 : Continental, North Indian, Healthy Food, Wraps, Fast Food, Desserts, Beverages : ₹1,600 for two :  ibis Kochi City Centre, MG Road, Kochi
+The Pulp Factory : 3.5 : Beverages, Fast Food : ₹250 for two :  LuLu Mall, Edappally, Kochi
+Kebabs & Curries : 3.8 : Kebab, North Indian, Desserts : ₹500 for two :  Abad Nucleus Mall, Marad, Kochi
+Downtown Cafe : 4.2 : Beverages, Continental, Fast Food, Italian : ₹800 for two :  Panampilly Nagar, Kochi
+Ceylon Bake House : 3.9 : Kerala, Seafood, Chinese, Sichuan, North Indian, Biryani, Rolls : ₹500 for two :  Marine Drive, Kochi
+Wild Buff's Coffee : - : Cafe, Coffee, Shake, Continental, Beverages : ₹600 for two :  Kakkanad, Kochi
+Sijis Pizza Street : 3.8 : Pizza, Fast Food : ₹500 for two :  Edappally, Kochi
+Dwaraka : - : South Indian, Chinese : ₹300 for two :  Kakkanad, Kochi
+Mash Resto Cafe : 3.7 : Continental, Burger, Sandwich, Pasta, Italian, Chinese, Desserts, Beverages : ₹1,000 for two :  Panampilly Nagar, Kochi
+Curry Tree Diner : 4.1 : South Indian, Chinese, Biryani, Desserts, Kerala, Beverages : ₹450 for two :  Kakkanad, Kochi
+Cusiny : 4.0 : BBQ, Momos, Rolls, Fast Food, Beverages : ₹300 for two :  Aluva, Kochi
+Ciao Cochin : - : Cafe, Coffee, Italian, Pizza, Pasta, Fast Food, Desserts, Beverages : ₹1,500 for two :  Holiday Inn Cochin, Vennala, Kochi
+Luv Cut Let : 3.0 : Fast Food : ₹100 for two :  Kaloor, Kochi
+Bangalore Juicy And Foods : - : Juices, Shake, Beverages, Sandwich, Fast Food : ₹350 for two :  North Paravur, Kochi
+Burger Space : - : Burger, Sandwich, Wraps, Fast Food : ₹300 for two :  Nedumbassery, Kochi
+Rahmaniya Kethel's Chicken : 3.9 : Kerala : ₹350 for two :  Edappally, Kochi
+Surya Restaurant Aluva : - : South Indian, Kerala, North Indian, Chinese : ₹250 for two :  Aluva, Kochi
+Zhima : 3.9 : North Indian, Chinese : ₹1,000 for two :  Kadavanthra, Kochi
+Kismath Restaurant : 4.1 : Kerala, Chinese, Arabian, Biryani, North Indian, Beverages, Desserts : ₹700 for two :  Kalamassery, Kochi
+Mercy Rooftop Restaurant and Bar : 3.9 : Italian, Chinese, Finger Food : ₹800 for two :  Elamkulam, Kochi
+Ali Baba & 41 Dishes : 3.6 : Kerala, South Indian, North Indian, Chinese, Fast Food, Turkish, Arabian, Hyderabadi : ₹500 for two :  Panampilly Nagar, Kochi
+Metallo The Night Cafe : - : Shawarma, Fast Food, Street Food, Desserts, Beverages : ₹250 for two :  Angamali, Kochi
+Andhra Kaaram : - : Andhra, South Indian, Seafood, North Indian, Biryani, Beverages : ₹1,000 for two :  Vennala, Kochi
+Eat And Drink : - : Pizza, Biryani, Burger, Italian, Fast Food, Desserts, Shake, Beverages : ₹500 for two :  North Paravur, Kochi
+Pai Brothers 36 Varities Of Dosa : 3.7 : South Indian, Kerala : ₹450 for two :  Kadavanthra, Kochi
+Octopus Pork Cafe : - : North Eastern, BBQ, South Indian, Tea, Juices, Shake : ₹500 for two :  Kaloor, Kochi
+Madras Cafe : 2.9 : South Indian : ₹250 for two :  Oberon Mall, Edappally, Kochi
+Happy Cafe : - : Shawarma, Burger, Rolls, Juices : ₹300 for two :  Kakkanad, Kochi
+Hotel Al-Saj : 3.7 : South Indian, Biryani, Chinese, North Indian, Fast Food, Desserts, Beverages, Mughlai : ₹350 for two :  Aluva, Kochi
+Sree Muruga Cafe : 3.9 : Kerala, South Indian : ₹350 for two :  Marad, Kochi
+Charcoal Shack : 3.7 : North Indian, Shawarma, Jamaican, Arabian, Fast Food, Beverages : ₹1,000 for two :  Angamali, Kochi
+Poems Cafe : 3.9 : Pasta, American, Fast Food : ₹700 for two :  Kakkanad, Kochi
+Ming's Wok : 3.9 : Chinese, Thai, Seafood : ₹500 for two :  Panampilly Nagar, Kochi
+Bikash Babu Sweets : 4.8 : Mithai, North Indian, Street Food : ₹300 for two :  Ernakulam City, Kochi
+Monqo : 3.7 : Desserts, Juices, Shake, Beverages, Burger, Sandwich, Pasta, Fast Food : ₹700 for two :  Kakkanad, Kochi
+Donut Factory : 3.9 : Cafe, Coffee, Fast Food, Sandwich, Pasta, Italian, Desserts, Beverages : ₹500 for two :  Panampilly Nagar, Kochi
+Kalyanapanthal : 3.9 : Kerala, Biryani, Chinese, Fast Food, Shake, Beverages : ₹350 for two :  Aluva, Kochi
+Punjab Grill : - : North Indian, Kebab, Biryani, Mughlai : ₹1,000 for two :  Ernakulam City, Kochi
+Teeta : New : Middle Eastern, Mexican, Rolls, Shake, Beverages : ₹500 for two :  Panampilly Nagar, Kochi
+Bessota Cafe : New : Kerala : ₹300 for two :  Kakkanad, Kochi
+Wow Kochi : New : Burger, Fast Food : ₹450 for two :  Edappally, Kochi
+ATHIDHI BIRIYANI PALACE : - : Biryani : ₹300 for two :  Elamakkara, Kochi
+Subway : - : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹450 for two :  Kakkanad, Kochi
+Sulthan Veedu : 3.6 : Kerala, South Indian, North Indian, Chinese, Shake, Juices : ₹500 for two :  Aluva, Kochi
+Urban Forest : 3.9 : Cafe, Continental, Italian, Beverages, Desserts : ₹700 for two :  Kalamassery, Kochi
+Mattancherry Bar - Taj Malabar Resort & Spa : 4.3 : Finger Food : ₹2,000 for two :  Malabar Resorts & Spa, Wellingdon Island, Kochi
+Grand Hotel : 3.9 : South Indian, Chinese, Biryani, Beverages : ₹300 for two :  Kolenchery, Kochi
+Firebirds : - : Chinese, Pizza, Fast Food, Beverages : ₹500 for two :  Palarivattom, Kochi
+Haji Ali Fresh Fruit Juices : - : Juices, Shake, Ice Cream : ₹300 for two :  Kaloor, Kochi
+Kunafa World : 3.8 : Desserts : ₹350 for two :  Panampilly Nagar, Kochi
+WaffleBae : 4.2 : Desserts, Waffle, Shake, Beverages : ₹400 for two :  Panampilly Nagar, Kochi
+Fress Trees Walkway : 3.9 : Pizza : ₹600 for two :  Thopumpady, Kochi
+Westleys Restocafe : 4.1 : Continental, Fast Food, Burger, Beverages : ₹600 for two :  Panampilly Nagar, Kochi
+CP Stories Cafe : 3.3 : Cafe, Salad, Italian, Continental, Beverages : ₹800 for two :  Vyttila, Kochi
+Aswin Restaurant : 3.4 : South Indian, Kerala, Chinese, North Indian, Arabian : ₹400 for two :  Kakkanad, Kochi
+Kayees Rahmathulla Cafe : New : Kerala, South Indian, Biryani : ₹300 for two :  Ernakulam City, Kochi
+Rappai's Restaurant : 4.0 : Seafood, Kerala, Biryani, Chinese : ₹350 for two :  Palarivattom, Kochi
+Sugar & Bowl : New : Shake, Beverages, Fast Food, Desserts : ₹450 for two :  Ravipuram, Kochi
+Meenchatti Restaurant : 3.3 : Kerala, North Indian, Chinese, Sichuan, Beverages : ₹300 for two :  Aluva, Kochi
+Burger Hutt : New : Burger, Fast Food, Ice Cream, Juices, Beverages, Shake : ₹250 for two :  Perumbavoor, Kochi
+Regency : 3.9 : North Indian, Chinese, Continental, Seafood, Biryani, Beverages, Desserts : ₹1,200 for two :  Abad Plaza, Kacheripady, Kochi
+Sharma Restaurant : 3.3 : North Indian, Chinese, Beverages : ₹300 for two :  Marine Drive, Kochi
+Chopstix : 2.9 : Thai, Seafood, Chinese, Sichuan, Fast Food, Beverages : ₹650 for two :  Kadavanthra, Kochi
+Roots Resto Cafe : - : Burger, Sandwich, Fast Food, Shake, Beverages : ₹450 for two :  Kaloor, Kochi
+AJ Cafe : New : Beverages, Fast Food : ₹150 for two :  Kakkanad, Kochi
+Max Fun Multi Cuisine Restaurant : 3.4 : North Indian, Chinese, Kerala, Biryani, Seafood, Mughlai, Shawarma, Beverages : ₹700 for two :  Tripunithura, Kochi
+Travancore - Trident Hotel : 4.1 : Kerala : ₹1,000 for two :  Trident Hotel, Wellington Island, Kochi
+Spice Berg : - : South Indian, Kerala, Chinese, Shake, Juices, Beverages, Desserts : ₹400 for two :  Kaloor, Kochi
+Flamin' Hot Chicken : 3.7 : Fast Food, Beverages : ₹300 for two :  Edappally, Kochi
+Hyderabad Kitchen : 3.8 : Biryani, North Indian, Hyderabadi, Desserts : ₹600 for two :  Edappally, Kochi
+Dubai Hub : New : Kerala : ₹250 for two :  Kalamassery, Kochi
+Teapot Cafe : 4.1 : Cafe, Continental, Fast Food, Beverages, Juices, Coffee, Shake : ₹500 for two :  Fort Kochi, Kochi
+Goldon Cafe : - : Kerala, Biryani, Beverages : ₹250 for two :  Kaloor, Kochi
+Loving Earth Yoga Cafe : 3.8 : Cafe, Coffee, Beverages, Pizza, Italian, Sushi, Healthy Food : ₹800 for two :  Fort Kochi, Kochi
+Sardarji Ka Dhaba Pure Veg : 4.2 : North Indian, Kebab : ₹600 for two :  Kacheripady, Kochi
+Pizzaman : 3.0 : Pizza, Pasta, Burger, Wraps, Fast Food, Juices, Shake, Beverages : ₹600 for two :  Edappally, Kochi
+Al Khaleej : 4.1 : Arabian, Mandi : ₹500 for two :  Perumbavoor, Kochi
+Lighthouse Lounge : 4.1 : North Indian, South Indian, Pasta, Salad, Seafood, Desserts, Beverages : ₹1,250 for two :  Old Lighthouse Bristow Hotel, Fort Kochi, Kochi
+The Hearth Kitchen : 3.0 : Pizza : ₹1,000 for two :  Panampilly Nagar, Kochi
+Chillies : 3.8 : Andhra, North Indian, Beverages, Desserts : ₹400 for two :  MG Road, Kochi
+Aroma Hotel : New : Kerala : ₹300 for two :  Ernakulam City, Kochi
+Hotel Real Vaishali Bihar : 3.4 : North Indian, Fast Food : ₹150 for two :  Thevera, Kochi
+Ila Restaurant Beirut Cafe : 4.1 : Chinese, South Indian, Kerala : ₹400 for two :  Aluva, Kochi
+Hotel Punjabi Tadka : 3.7 : North Indian, Biryani : ₹200 for two :  Thevera, Kochi
+Hotel Patna Bihar Express : 3.4 : North Indian, Biryani, Chinese, Seafood : ₹300 for two :  Thevera, Kochi
+Golden Dragon : 3.9 : Seafood, Chinese, Sichuan, Fast Food, Desserts : ₹1,000 for two :  Ravipuram, Kochi
+Old Harbor Restaurant : 4.4 : Kerala, Seafood : ₹800 for two :  Fort Kochi, Kochi
+Canosa : 3.8 : Pizza, Pasta, Italian, Fast Food, Beverages : ₹600 for two :  Kakkanad, Kochi
+East Indies : 4.3 : Chinese, Salad, Fast Food, Coffee, Desserts, Beverages : ₹1,200 for two :  Fort Kochi, Kochi
+The Aurum Cloud : 2.5 : Kerala, North Indian : ₹400 for two :  Ernakulam City, Kochi
+Aavi : 3.9 : Kerala, South Indian, Beverages : ₹500 for two :  Itty's, Panampily Nagar, Kochi
+Theevandi Stories : 3.6 : Kerala, Continental, Chinese, Street Food, Biryani : ₹500 for two :  Chittoor Road, Kochi
+Saucer : 3.9 : Cafe, Continental, Italian, Salad, Beverages, Desserts, Sandwich : ₹500 for two :  Kaloor, Kochi
+Kismees Restaurant : 3.6 : Kerala, North Indian, Biryani, Arabian, Chinese, Ice Cream, Shake, Beverages : ₹500 for two :  Pallimukku, Kochi
+Hustoh Restocafe : 4.1 : Pizza, Fast Food : ₹500 for two :  Kakkanad, Kochi
+Night Chef : 4.6 : Kerala, Chinese, Sichuan, Fast Food : ₹300 for two :  Vyttila, Kochi
+Rasatantra Multi Cuisine Restaurant : - : Kerala, North Indian, Asian, Biryani, Desserts, Beverages : ₹1,000 for two :  Nedumbassery, Kochi
+Shantilal S. Mithaiwala : 4.3 : Mithai, Gujarati, Street Food : ₹300 for two :  Mattancherry, Kochi
+Swirl - The Gateway Hotel : 4.4 : Finger Food : ₹2,500 for two :  The Gateway Hotel, Marine Drive, Kochi
+Rasoi : 4.4 : North Indian, Biryani, Seafood : ₹900 for two :  Fort Kochi, Kochi
+Sulthan Grills N Rice : 3.8 : Arabian, South Indian, Chinese, Sichuan : ₹600 for two :  Vyttila, Kochi
+Chilliout Cafe : 3.8 : Cafe, Continental : ₹500 for two :  Vypin, Kochi
+Ming's Wok : 3.9 : Chinese : ₹400 for two :  Kakkanad, Kochi
+O Porto Bar : - : Bar Food, Continental, Chinese, Beverages : ₹1,600 for two :  Fort Kochi, Kochi
+ViiBee The Cafe : 4.0 : Burger, Fast Food, Beverages, Pasta : ₹400 for two :  Kakkanad, Kochi
+Caravan : 3.9 : Ice Cream, Beverages, Shake : ₹350 for two :  Marine Drive, Kochi
+Paul's Creamery : 4.3 : Desserts : ₹300 for two :  Kakkanad, Kochi
+Cocoa Cafe : 4.0 : Cafe, Coffee, Sandwich, Burger, Asian, Italian, Beverages : ₹600 for two :  Vennala, Kochi
+Vrindhavan Pure Vegetarian Restaurant : - : South Indian, North Indian, Chinese, Beverages : ₹400 for two :  North Paravur, Kochi
+Smatchet Deli : 3.8 : Fast Food, Street Food, Beverages : ₹450 for two :  Elamkulam, Kochi
+Cafe Pizzeria : 3.7 : Pizza : ₹400 for two :  Kolenchery, Kochi
+Bloomsberry by The Blooms : 3.6 : North Indian, South Indian, Chinese, Continental, Oriental, Fast Food, Desserts, Beverages : ₹1,000 for two :  Kakkanad, Kochi
+Zam Zam : 3.2 : Kerala, Biryani : ₹400 for two :  North Paravur, Kochi
+P60 : 4.3 : Italian, Continental, Pizza, Desserts : ₹1,500 for two :  Panampilly Nagar, Kochi
+Khaleesi Restaurant : 4.1 : Kerala, Chinese, North Indian, South Indian, Beverages, Shake, Sichuan : ₹600 for two :  Kakkanad, Kochi
+Palooda : 3.8 : Desserts, Bakery, Street Food, Coffee, Shake, Beverages : ₹400 for two :  Kaloor, Kochi
+Sultanate Of Shawarma : 4.0 : Shawarma, Middle Eastern, Juices, Shake : ₹300 for two :  Edappally, Kochi
+Just Tiffin's : 4.4 : North Indian : ₹300 for two :  Kakkanad, Kochi
+Turkish Mandi : 3.6 : Mandi, Arabian : ₹500 for two :  Aluva, Kochi
+Tea Point : - : Tea, Street Food : ₹100 for two :  Edappally, Kochi
+Urula Restaurant : - : Chinese, South Indian, Arabian, Biryani, Sichuan, Juices, Beverages : ₹1,000 for two :  Kakkanad, Kochi
+Mathew's Homely Meals : 3.9 : Kerala : ₹300 for two :  Edappally, Kochi
+Warehouse Cafe Fortkochi : - : Cafe, Beverages, Biryani, North Indian, Burger : ₹500 for two :  Fort Kochi, Kochi
+Plated : 4.4 : Arabian, Shawarma, Fast Food, Beverages : ₹500 for two :  Edappally, Kochi
+Adams Pizza : 4.0 : Pizza, Burger, Fast Food : ₹600 for two :  Kakkanad, Kochi
+Zatoon : 3.9 : Arabian, Chinese, North Indian, South Indian, Beverages : ₹1,000 for two :  Nedumbassery, Kochi
+Aasife Biriyani : 3.9 : Biryani, Chinese, North Indian : ₹500 for two :  Panampilly Nagar, Kochi
+China Green : 3.9 : Chinese, Sichuan : ₹350 for two :  Elamakkara, Kochi
+1788 : 4.0 : Kerala, Seafood, Desserts : ₹2,000 for two :  Fort Kochi, Kochi
+Taqashi : 3.7 : Shawarma, Rolls, Shake, Beverages : ₹300 for two :  North Paravur, Kochi
+Usman's Hotel : 3.9 : South Indian, Chinese : ₹300 for two :  Kalamassery, Kochi
+Snoosh Ice Cream Parlour : 4.2 : Ice Cream, Desserts, Shake : ₹200 for two :  Chittoor Road, Kochi
+Hotel Regal : 3.7 : South Indian, North Indian, Chettinad, Seafood, Chinese, Mughlai, Biryani : ₹400 for two :  Chullickal, Kochi
+Starbucks Coffee : 3.9 : Cafe, Coffee, Desserts, Beverages : ₹600 for two :  Edappally, Kochi
+Rozario Bakers & Caters : 3.7 : Bakery, Kerala, Chinese : ₹200 for two :  Thopumpady, Kochi
+Biryani.com : - : Biryani, Kerala, Mandi : ₹500 for two :  Tripunithura, Kochi
+Waves Restaurant : 3.8 : North Indian, Seafood, Chinese, Continental, Sichuan : ₹600 for two :  Vypin, Kochi
+Real Arabia : 4.0 : North Indian, Chinese, Arabian, BBQ, Mandi, Kerala, Shawarma, Juices : ₹1,000 for two :  Ravipuram, Kochi
+Shawarma Daddy : 3.7 : Shawarma, BBQ, Rolls, Fast Food, Juices, Beverages : ₹400 for two :  Edappally, Kochi
+Blue Bell Multi Cuisine Restaurant - Flora Airport Hotel : 3.9 : South Indian, North Indian, Chinese, Continental, Sichuan : ₹800 for two :  Flora Airport Hotel, Aluva, Kochi
+Blue Star : 3.5 : Kerala, Arabian, North Indian, Mughlai, Chinese, Beverages : ₹500 for two :  Kacheripady, Kochi
+Honeycane Sugarcane Juicery : 3.6 : Juices, Beverages, Bakery : ₹300 for two :  Panampilly Nagar, Kochi
+Le Bon Cakes & Delicacies : 3.7 : Bakery, Pizza, Burger, Sandwich, Fast Food, Street Food, Shake : ₹450 for two :  Panampilly Nagar, Kochi
+Burger Lounge : 3.0 : Burger, Sandwich, Wraps, Fast Food, Shake, Juices, Beverages : ₹500 for two :  Palarivattom, Kochi
+Hotel Arafa - Mattancherry : 3.7 : South Indian, Kerala, North Indian, Chinese : ₹400 for two :  Mattancherry, Kochi
+Hotel Amal Palace : 4.0 : Arabian, Kerala, Chinese, Fast Food, Desserts, Beverages : ₹300 for two :  Perumbavoor, Kochi
+Areena Cafe : 3.8 : Continental, Sandwich, Pasta, Fast Food, Salad, Seafood, Beverages : ₹1,200 for two :  Olive Downtown, Kochi
+The Belgian Waffle Co. : 4.1 : Waffle, Pancake, Ice Cream, Desserts, Beverages : ₹500 for two :  Ravipuram, Kochi
+Chiyang The Chinese Restaurant : New : Chinese, Seafood : ₹450 for two :  Kakkanad, Kochi
+Tibet Kitchen : 3.9 : Tibetan, Chinese, Fast Food, Momos, Desserts, Juices, Shake, Beverages : ₹500 for two :  Fort Kochi, Kochi
+Natural Ice Cream : 4.4 : Ice Cream : ₹200 for two :  Edappally, Kochi
+Cheese Bowl : - : Pizza, Burger : ₹550 for two :  Marad, Kochi
+Let's Dine River View : - : Kerala, South Indian, Arabian, Mandi, Chinese, Salad, Desserts, Beverages : ₹1,300 for two :  Kakkanad, Kochi
+Frozen Bottle - Milkshakes, Desserts And Ice Cream : 4.2 : Shake, Beverages, Desserts, Ice Cream, Waffle, Healthy Food : ₹300 for two :  MG Road, Kochi
+Kaapi & Co. : 3.0 : North Indian, Continental, Desserts, Beverages : ₹500 for two :  MG Road, Kochi
+Zaina Restaurant : 4.0 : Chinese, South Indian, Biryani, Desserts, Sichuan, Beverages : ₹400 for two :  Aluva, Kochi
+Nellikka Restaurant : 3.6 : South Indian : ₹200 for two :  Kakkanad, Kochi
+Arabian Food Court : 3.2 : North Indian, South Indian, Biryani, Arabian, Chinese, Fast Food, Shake, Beverages : ₹400 for two :  Kacheripady, Kochi
+Drunken Panda : 3.7 : Shake, Coffee, Beverages, Momos, Sandwich, Burger, Fast Food, Desserts : ₹350 for two :  Marine Drive, Kochi
+The Kochi Cookhouse : 3.9 : South Indian, North Indian, Chinese, Kerala, Seafood, Continental, Beverages, Desserts : ₹1,000 for two :  Palluruthy, Kochi
+Treat : 3.3 : North Indian, Fast Food, Beverages, BBQ, Desserts, Shake : ₹600 for two :  Travancore Court by Spree, Pallimukku, Kochi
+You Mee : - : Sushi : ₹300 for two :  Ernakulam City, Kochi
+Porkeato De Portico : 3.0 : South Indian : ₹500 for two :  Palarivattom, Kochi
+Ambiswamy's : 3.9 : South Indian, Street Food, Juices, Beverages : ₹250 for two :  Kadavanthra, Kochi
+Mummy's Udupi Restaurant : 3.9 : South Indian, North Indian, Chinese, Street Food, Shake, Beverages : ₹450 for two :  Tripunithura, Kochi
+Rolls N Fries : 3.8 : Fast Food, Burger, Chinese : ₹300 for two :  Chullickal, Kochi
+Sutra Restaurant : 4.4 : Continental, North Indian, Burger, Beverages : ₹700 for two :  Fort Kochi, Kochi
+Loaded : - : Fast Food, Hot dogs, Wraps, Burger, Salad : ₹300 for two :  Thopumpady, Kochi
+Caravan : - : Cafe, Coffee, Shake, Ice Cream : ₹600 for two :  Kakkanad, Kochi
+Shifu's Kitchen : 4.2 : Momos, Chinese, Sichuan, Fast Food : ₹200 for two :  Palarivattom, Kochi
+Arabian Dreams : 3.5 : Arabian, Shawarma : ₹400 for two :  Kadavanthra, Kochi
+Keys Cafe - Keys Select Hotel : 4.0 : North Indian, Kerala, Chinese, South Indian : ₹1,800 for two :  Keys Select Hotel - Thevera, Kochi
+Hustoh! : 3.3 : Pizza, Fast Food : ₹500 for two :  Palarivattom, Kochi
+Juicy : 3.9 : Shake, Beverages, Sandwich, Desserts : ₹300 for two :  Aluva, Kochi
+Havens Cloud Kitchen : 3.3 : North Indian, Kerala, Chinese, Fast Food : ₹350 for two :  Kakkanad, Kochi
+Seetha Devi Juice Parlour : 3.9 : Juices, Beverages : ₹200 for two :  Kakkanad, Kochi
+Spicy Hut Arabian Kuzhimanthi : 3.8 : Mandi : ₹600 for two :  Kaloor, Kochi
+Mubaraq Restaurant : 4.3 : Kerala, Chinese, Biryani : ₹350 for two :  Kaloor, Kochi
+Arabian Paradise : 3.8 : Arabian, Shawarma, Chinese : ₹250 for two :  Cheranalloor, Kochi
+Pai Dosa : 3.8 : South Indian, Kerala, Street Food : ₹400 for two :  Edappally, Kochi
+Hotel Aryas Pure Veg : - : South Indian, Chinese, Beverages, Ice Cream, Shake : ₹300 for two :  Kakkanad, Kochi
+Surya Restaurant : 3.6 : North Indian, Biryani, Chinese, Sichuan, Ice Cream, Beverages : ₹500 for two :  Aluva, Kochi
+Brindhavan Pure Veg Restaurant : 3.3 : South Indian, North Indian, Chinese, Biryani, Ice Cream, Juices, Shake, Beverages : ₹400 for two :  Tripunithura, Kochi
+Club Arabia Fried N Grill : - : Arabian, Fast Food, Beverages, Shake : ₹500 for two :  Kolenchery, Kochi
+FFC Fried Chicken : 3.5 : Fast Food, Burger, Beverages : ₹350 for two :  Aluva, Kochi
+The Taapioca Restaurant : 3.6 : South Indian, Arabian, Biryani, Ice Cream, Shake, Juices, Beverages : ₹600 for two :  Kaloor, Kochi
+Lakshmi Nivas Udupi Vegetarian Hotel : 3.7 : South Indian, Kerala, Chinese, Beverages : ₹300 for two :  Tripunithura, Kochi
+Malabar Village Restaurant : 3.7 : Fast Food, Biryani, Chinese, Seafood, Salad, Shake, Juices, Beverages : ₹500 for two :  Perumbavoor, Kochi
+American Fried Chicken : 3.5 : Burger, Pizza, Wraps, Fast Food : ₹400 for two :  Ernakulam City, Kochi
+Hazza Kitchen : 3.9 : Kerala, Arabian : ₹500 for two :  Aluva, Kochi
+Hotel Salkara : 4.0 : South Indian, Kerala, Biryani : ₹400 for two :  Thopumpady, Kochi
+Kottaram Fast Food & Restaurant : 3.9 : Kerala, Biryani, Chinese, Seafood : ₹300 for two :  Marad, Kochi
+Fruitbae : 3.4 : Juices, Shake, Healthy Food, Sandwich, Ice Cream, Desserts : ₹300 for two :  Edappally, Kochi
+Ifthar I Cafe : 3.7 : Kerala, Biryani, Ice Cream, Shake, Beverages : ₹500 for two :  MG Road, Kochi
+Daily Meet 49 : 3.9 : Shake, Fast Food : ₹200 for two :  Edappally, Kochi
+Hotel Ceylon : 3.1 : Kerala, North Indian, Chinese, Seafood, Arabian, Salad, Beverages : ₹400 for two :  MG Road, Kochi
+Haji Ali : 3.5 : Beverages, Desserts, Shake : ₹400 for two :  Ravipuram, Kochi
+Green Bowl : 3.1 : Healthy Food, Salad, Pasta, Sushi, Beverages : ₹1,000 for two :  Kaloor, Kochi
+Street Foods By Punjab Grill : 3.3 : North Indian, Biryani, Fast Food, Beverages : ₹450 for two :  LuLu Mall, Edappally, Kochi
+Mr. Shawarma : 3.7 : Arabian, Beverages : ₹350 for two :  Palluruthy, Kochi
+Carrots : 4.1 : Bakery, Desserts, Kerala : ₹550 for two :  Pallimukku, Kochi
+Assal Ravuthar Biryani : 2.2 : Biryani, Chinese : ₹350 for two :  Palarivattom, Kochi
+De Cafe Canopy : 4.0 : North Indian, Chinese : ₹400 for two :  Aluva, Kochi
+Mandhi King : 3.9 : Fast Food, Biryani, Chinese : ₹400 for two :  Edappally, Kochi
+Cheng Chopsticks : 4.3 : Chinese, Sichuan, Asian : ₹500 for two :  Aluva, Kochi
+Rolexio : 4.2 : Kerala, Biryani, Arabian, Beverages : ₹500 for two :  Edappally, Kochi
+Akshaya Catering And Restaurant : 3.9 : South Indian, Chinese : ₹300 for two :  Tripunithura, Kochi
+Angamaly Daba : 3.3 : Kerala, Arabian, Mandi, Biryani, Rolls : ₹500 for two :  Angamali, Kochi
+Hotel Periyar : 3.5 : Chinese, Kerala, North Indian, Fast Food, Beverages : ₹350 for two :  Aluva, Kochi
+Shap Food Restaurant : 3.3 : Kerala, South Indian, Biryani : ₹400 for two :  Vyttila, Kochi
+Kettuvallam Seafood Restaurant : 3.5 : North Indian, South Indian, Chinese, Fast Food, Juices : ₹1,000 for two :  Vyttila, Kochi
+Lazza Ice Creams : - : Ice Cream, Desserts : ₹300 for two :  Aluva, Kochi
+Burger Spot : 4.0 : Burger, Sandwich, Wraps, Hot dogs, Fast Food, Shake, Beverages : ₹600 for two :  Kakkanad, Kochi
+Kunafa Hub : 3.3 : Desserts, Ice Cream : ₹300 for two :  Edappally, Kochi
+ZAD : - : Arabian, Kebab, Mandi, Rolls, Fast Food : ₹550 for two :  Palarivattom, Kochi
+Free Time : - : Mandi, Arabian : ₹500 for two :  Palluruthy, Kochi
+12 To 12 BBQ : 3.8 : BBQ, Chinese, North Indian, Mughlai, Seafood, Biryani : ₹1,000 for two :  Kakkanad, Kochi
+Hotel Mishwar : 3.9 : Kerala, Biryani, Chinese, Beverages : ₹250 for two :  Tripunithura, Kochi
+Paputty's Valsa Cafe : 3.9 : Kerala, South Indian, Chinese : ₹350 for two :  Kacheripady, Kochi
+3rd Cross Steak House And Grills : 2.6 : Salad, Continental, Pasta, Wraps, Juices, Shake, Beverages : ₹1,000 for two :  Panampilly Nagar, Kochi
+Marina The Sea Face Restaurant : 3.5 : Kerala, Fast Food, Desserts, Beverages, South Indian : ₹1,200 for two :  Fort Kochi, Kochi
+Le Torta : 3.9 : Bakery, Desserts : ₹500 for two :  Perumbavoor, Kochi
+Qasr Arabic Restaurant : 3.2 : Arabian, Lebanese, Beverages : ₹600 for two :  Ernakulam City, Kochi
+Tamaki : New : Arabian, South Indian : ₹400 for two :  Palarivattom, Kochi
+Mary's Kitchen : 3.9 : Kerala, Seafood, Salad, Shake, Beverages : ₹500 for two :  Fort Kochi, Kochi
+Meltyway : 4.2 : Pasta, Burger, Fast Food : ₹300 for two :  Mattancherry, Kochi
+Pool Bar : 3.9 : Continental : ₹500 for two :  SAJ Earth Resort, Nedumbassery, Kochi
+Amma's Pastries : 4.0 : Bakery, Desserts : ₹450 for two :  Kakkanad, Kochi
+Haji Ebrahim : 3.8 : Fast Food, Shake, Beverages, Juices : ₹400 for two :  Kaloor, Kochi
+Saphire Family Restaurant : 3.7 : Biryani, South Indian, Kerala, Arabian, Chinese : ₹250 for two :  Perumbavoor, Kochi
+Boba Bubble : - : Bubble Tea, Beverages : ₹250 for two :  Pallimukku, Kochi
+Shibu's Puttu Kada : 4.1 : South Indian, Kerala : ₹500 for two :  Thevera, Kochi
+Ashok Bhavan : 3.9 : South Indian, North Indian : ₹300 for two :  Thevera, Kochi
+Biriyani Bash : 3.2 : Biryani : ₹300 for two :  Palarivattom, Kochi
+Momo Rimboche : 3.7 : Chinese, Momos, Street Food : ₹700 for two :  Kakkanad, Kochi
+Ambiswamy's : 4.0 : South Indian, Chinese, Street Food, Beverages, Juices : ₹500 for two :  Edappally, Kochi
+Raintree Restaurant : 3.1 : North Indian, Chinese, South Indian : ₹1,000 for two :  Fort Kochi, Kochi
+Amor Kitchen : 3.8 : Kerala, Arabian : ₹700 for two :  Kakkanad, Kochi
+Pandhal Café & Deli - David Hall : 4.4 : Cafe, Coffee, Italian, Continental, Desserts, Beverages : ₹800 for two :  Fort Kochi, Kochi
+Village Restaurant : 3.7 : Arabian, Chinese : ₹300 for two :  Cheranalloor, Kochi
+Vasantha Vihar Pure Veg Restaurant : 3.8 : South Indian, North Indian, Chinese, Beverages : ₹300 for two :  MG Road, Kochi
+Haji Ali Juice Centre : 3.1 : Juices, Shake, Beverages, Sandwich, Fast Food, Desserts : ₹400 for two :  Edappally, Kochi
+Hotel Aryas : 3.8 : South Indian, North Indian, Chinese, Beverages : ₹450 for two :  Kaloor, Kochi
+Frys Restaurant : 4.4 : Kerala, North Indian, Chinese, Beverages : ₹700 for two :  Ravipuram, Kochi
+Hotel Al Salama : 3.9 : Arabian, Biryani : ₹1,000 for two :  Kakkanad, Kochi
+Kettuvallam : 3.2 : Biryani, Kerala, South Indian, Chinese, Seafood, Desserts, Beverages : ₹850 for two :  Ernakulam City, Kochi
+Kannimango Restaurant : - : Kerala, Seafood : ₹400 for two :  Panampilly Nagar, Kochi
+Olive Eva Hotel - Gatsby : 4.0 : North Indian, Seafood, Biryani, Chinese, Sandwich, Pasta, Desserts, Beverages : ₹1,000 for two :  Kakkanad, Kochi
+Pepper Boat : 3.9 : Kerala, Desserts, Beverages : ₹800 for two :  Palarivattom, Kochi

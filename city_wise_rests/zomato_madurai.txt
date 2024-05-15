@@ -1,0 +1,492 @@
+Dindigul Thalappakatti : 4.1 : Biryani, BBQ, South Indian, Chinese, North Indian, Sichuan : ₹500 for two :  KK Nagar, Madurai
+Keerthana Hotel : 4.4 : South Indian, Biryani, North Indian, Chinese : ₹300 for two :  SS Colony, Madurai
+Hotel Sree Sabarees : 4.4 : South Indian, Beverages, Biryani : ₹200 for two :  Kamarajar Salai, Madurai
+Bocs Pizza : 4.0 : Pizza, Burger, Fast Food, Street Food, Desserts, Beverages, Shake : ₹350 for two :  KK Nagar, Madurai
+Domino's Pizza : 4.6 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹500 for two :  SS Colony, Madurai
+Madurai Kitchen - Courtyard By Marriott : 4.0 : North Indian, South Indian, Chinese, Continental, Italian, Fast Food, Beverages : ₹1,800 for two :  Courtyard by Marriott Madurai, Madurai
+Banu Beef Restaurant : 3.9 : Biryani, South Indian, Chinese, Beverages, Sichuan : ₹300 for two :  Iyer Bungalow, Madurai
+Krishnan Mess : 4.2 : South Indian, Chinese, Biryani : ₹350 for two :  Kamarajar Salai, Madurai
+Simmakkal Konar Kadai - Main Branch : 3.4 : South Indian, Seafood, Desserts, Beverages : ₹500 for two :  Periyar, Madurai
+Mr Wood Fire Pizza : 4.1 : Pizza, Pasta : ₹300 for two :  Sathamangalam, Madurai
+Annapoorna Mithai : 3.9 : Mithai, South Indian, Chinese, Sichuan : ₹300 for two :  SS Colony, Madurai
+Courtyard By Marriott : 4.3 : North Indian, South Indian, Continental : ₹600 for two :  KK Nagar, Madurai
+12’o Clock Biryani : 3.9 : Biryani, North Indian, Chinese, Sichuan : ₹300 for two :  Iyer Bungalow, Madurai
+Carnivall Restaurant : 4.3 : South Indian, Chinese, Biryani, North Indian : ₹500 for two :  KK Nagar, Madurai
+Salem RR Biriyani : 3.9 : Biryani, North Indian : ₹500 for two :  Balarengapuram, Madurai
+Khalid's Biriyani : 4.1 : North Indian, Biryani : ₹500 for two :  Bethaniyapuram, Madurai
+Salem RR Biryani- Simmakkal : 3.9 : Biryani, Chinese, Mughlai : ₹500 for two :  Periyar, Madurai
+Swig & Tee : 3.9 : Finger Food : ₹600 for two :  The Heritage, Doak Nagar, Madurai
+Suganya Parotta Kadai : New : South Indian, Biryani, Fast Food, Mughlai, Sichuan : ₹300 for two :  Balarengapuram, Madurai
+Cine Suvai Restaurant : 4.1 : South Indian : ₹400 for two :  Periyar, Madurai
+Mug & Beans : 3.3 : Chinese, Fast Food, North Eastern, Sichuan, Shake, Beverages : ₹1,000 for two :  Pasumalai, Madurai
+Noshta Cafe : 2.8 : Rolls, Fast Food, Street Food, Desserts : ₹300 for two :  KK Nagar, Madurai
+The Sandwich Club : 4.5 : Sandwich, Fast Food, Shake, Burger, Momos, Pizza : ₹300 for two :  Viswanathapuram, Madurai
+Chef Warriors : - : Biryani, Chinese, Lebanese, Fast Food : ₹300 for two :  KK Nagar, Madurai
+Kumar Mess : - : South Indian, Biryani : ₹400 for two :  SS Colony, Madurai
+Cake Bee : - : Bakery, Desserts : ₹250 for two :  KK Nagar, Madurai
+Pasiyaru Asaiva Unavagam : 4.4 : South Indian, North Indian, Seafood, Biryani, Chinese, Street Food : ₹300 for two :  Villapuram, Madurai
+Amma Mess : 2.8 : South Indian, Chettinad : ₹350 for two :  KK Nagar, Madurai
+The Banyan Resturant : - : Continental, Italian, South Indian : ₹1,200 for two :  The Heritage, Doak Nagar, Madurai
+Taj Chick-N-Fried : 4.4 : Chinese, Burger, Sandwich, Fast Food, Ice Cream, Beverages : ₹250 for two :  SS Colony, Madurai
+Bhai Veetu Briyani : 3.8 : Biryani : ₹350 for two :  Koodal Nagar, Madurai
+Madurai Amsavalli Restaurant : 4.9 : Chinese, South Indian, Desserts, Beverages, Sichuan : ₹400 for two :  Viswanathapuram, Madurai
+New Janaki Ram Unavagam : - : South Indian, Biryani : ₹250 for two :  Villapuram, Madurai
+Jade : 3.0 : Fast Food, Italian, Pancake, Waffle, Shake, Desserts, Beverages : ₹500 for two :  KK Nagar, Madurai
+New Selvi Mess : 3.8 : South Indian, North Indian, Chinese : ₹250 for two :  Periyar, Madurai
+Jayaram Bakery : 3.3 : Bakery, North Indian, South Indian, Seafood, Pizza, Burger, Fast Food, Chinese : ₹450 for two :  Bethaniyapuram, Madurai
+Sri Acharya Bhavan : 3.7 : South Indian, Tamil : ₹150 for two :  SS Colony, Madurai
+Yanaikkal Sulthan Hotel : 3.6 : Biryani, South Indian : ₹200 for two :  Viswanathapuram, Madurai
+Sri Madurai Meenakshi Hotel : 3.3 : Chinese : ₹250 for two :  Koodal Nagar, Madurai
+Punjabi Restaurant : 3.8 : North Indian, Chinese : ₹150 for two :  Periyar, Madurai
+Bistro 9 78 : 3.0 : Cafe, Coffee, Pizza, Pasta, Continental, Desserts, Beverages : ₹1,200 for two :  KK Nagar, Madurai
+A2B - Adyar Ananda Bhavan : 3.5 : South Indian : ₹200 for two :  Periyar, Madurai
+Phil's Bistro : 3.5 : Continental, Italian, Desserts : ₹1,600 for two :  KK Nagar, Madurai
+Sri Janakiram Hotel Non Veg : 3.8 : South Indian : ₹500 for two :  Periyar, Madurai
+Pechiamman Restaurant (Pure Veg) : 3.7 : South Indian, Biryani, Chinese, Sichuan : ₹300 for two :  Villapuram, Madurai
+Royal Fresh Meat And Restaurant : 3.3 : South Indian, Chinese : ₹250 for two :  Iyer Bungalow, Madurai
+Friends Beef Biriyani : 3.7 : Biryani, Chinese : ₹300 for two :  Periyar, Madurai
+Vista : 3.4 : Continental, North Indian, Mughlai, South Indian, Pasta, Desserts, Beverages, Shake : ₹1,000 for two :  Pasumalai, Madurai
+Yummy Chicken Biriyani : 3.0 : Biryani, Chinese, South Indian : ₹300 for two :  Balarengapuram, Madurai
+Black Panda : - : Chinese, Sichuan : ₹300 for two :  SS Colony, Madurai
+Yanaikkal Sulthan Hotel : 4.0 : South Indian, Biryani : ₹250 for two :  Periyar, Madurai
+Cake N Eat : 4.1 : Bakery : ₹350 for two :  Koodal Nagar, Madurai
+Spicy 59 : 3.7 : Lebanese, Chinese, Fast Food, Sandwich, Momos, Burger, Street Food, Beverages : ₹400 for two :  Sathamangalam, Madurai
+Blind Ch3mistry : 3.7 : Continental, Pizza, Mexican, Chinese, Desserts, Beverages, Shake : ₹800 for two :  SS Colony, Madurai
+Korean Eats : 3.3 : Korean, Seafood : ₹1,000 for two :  Koodal Nagar, Madurai
+Puppy's Bakery : New : Bakery, Street Food, Fast Food, Steak, Beverages : ₹400 for two :  Arrapalayam, Madurai
+Shanmuga Multi Cuisine Restaurant : 4.9 : South Indian, Biryani : ₹1,000 for two :  Sathamangalam, Madurai
+Meenakshi Gateway Restaurant : 3.8 : South Indian, Chinese, North Indian, Ice Cream : ₹300 for two :  Doak Nagar, Madurai
+Chennai Rawther : 2.9 : Chettinad, South Indian, Biryani : ₹400 for two :  KK Nagar, Madurai
+B To H - Biryani To Heaven : 4.0 : Biryani, Hyderabadi, South Indian, North Indian, Arabian, Chinese, Kebab, Beverages : ₹550 for two :  Viswanathapuram, Madurai
+Maduras Dosa Company : - : South Indian, Fast Food, Desserts, Beverages : ₹300 for two :  KK Nagar, Madurai
+Orchid By Fortune Pandiyan Hotel Madurai : 2.2 : North Indian, South Indian, Chinese : ₹1,200 for two :  Periyar, Madurai
+Chennai Rawther Restaurant : 3.9 : Biryani, South Indian, Chinese, Chettinad, Seafood, Sichuan : ₹500 for two :  SS Colony, Madurai
+GRT Cloud Kitchen : New : North Indian, Chinese, Fast Food, South Indian, Bakery : ₹1,000 for two :  Pasumalai, Madurai
+JC New Family Restaurant : 4.8 : Chinese, South Indian, Biryani, Street Food : ₹300 for two :  Viswanathapuram, Madurai
+Priya Mess : - : South Indian, Rolls : ₹200 for two :  Periyar, Madurai
+Simmakkal Konar Kadai - Periyar Branch : - : South Indian, Seafood, Desserts, Beverages : ₹500 for two :  Periyar, Madurai
+Food Beez : 4.1 : Lebanese, Chinese, Sandwich, North Indian, Sichuan, Biryani, Kebab, Shake : ₹600 for two :  Southern Railway Colony, Madurai
+Amman Veg : 4.2 : South Indian, Chinese : ₹300 for two :  Periyar, Madurai
+Jothi Chappathi Corner : - : North Indian, Biryani, Street Food, South Indian : ₹350 for two :  Balarengapuram, Madurai
+Temple City Family Veg Restaurant : - : North Indian, South Indian, Chinese, Beverages, Shake : ₹300 for two :  Viswanathapuram, Madurai
+Srinivasa Sourashtra Foods : - : South Indian : ₹300 for two :  Periyar, Madurai
+Simmakal Meenakshi Hotel : 3.8 : South Indian, Biryani, Chinese : ₹300 for two :  Periyar, Madurai
+Madurai Mappilai Virundhu : - : South Indian, Biryani, Chinese, North Indian, Seafood : ₹450 for two :  Sathamangalam, Madurai
+Hotel Apple Biriyani : - : Biryani, North Indian, Chinese, Seafood, Beverages : ₹300 for two :  Koodal Nagar, Madurai
+Zafran Multicuisine Restaurant : 3.4 : North Indian, Mughlai, Chinese, Shawarma, Biryani, Kebab, Desserts, Beverages : ₹600 for two :  SS Colony, Madurai
+Fathima Dosa Corner : 4.0 : South Indian : ₹100 for two :  Villapuram, Madurai
+Hotel Dharshana : New : South Indian : ₹200 for two :  Sathamangalam, Madurai
+Poppys Hotel : New : South Indian, North Indian, Chinese : ₹1,500 for two :  Poppy’s Hotel, KK Nagar, Madurai
+Bhagwathi Mohan's Bhojanalaya : - : North Indian, Chinese, Shake, Sichuan : ₹400 for two :  Periyar, Madurai
+Sri Saravana Bhavan : - : South Indian : ₹500 for two :  KK Nagar, Madurai
+Amman Restaurant : - : South Indian, Biryani : ₹600 for two :  Avaniyapuram, Madurai
+The Irish Cafe : 4.2 : Pizza, Burger : ₹500 for two :  KK Nagar, Madurai
+Pizza Hunt : - : Pizza, Fast Food, Shake, Ice Cream : ₹450 for two :  SS Colony, Madurai
+Uptown Brews : - : North Indian, Fast Food, Beverages, Shake : ₹600 for two :  KK Nagar, Madurai
+Yanaikkal Sulthan Hotel : - : Biryani, South Indian : ₹300 for two :  KK Nagar, Madurai
+Hanifa Biryani : 3.4 : Biryani, North Indian : ₹150 for two :  Sathamangalam, Madurai
+Sky Dine Roof Top : 2.8 : North Indian, South Indian, Beverages : ₹600 for two :  KK Nagar, Madurai
+Sri Raghupati Vilas : 3.8 : Biryani, Chinese, South Indian : ₹200 for two :  Arrapalayam, Madurai
+Murugan Idly Shop : 4.2 : South Indian : ₹200 for two :  Periyar, Madurai
+Temple City - Family Veg Restaurant : - : South Indian, North Indian, Chinese, Beverages : ₹300 for two :  KK Nagar, Madurai
+Anjappar : - : South Indian, Chettinad, Biryani, Seafood, Chinese, North Indian, Desserts, Beverages : ₹400 for two :  Bethaniyapuram, Madurai
+Aasife Biriyani : 3.5 : Biryani, North Indian, Chinese, Fast Food, Ice Cream, Desserts, Shake, Beverages : ₹950 for two :  KK Nagar, Madurai
+Famous Biriyani : 3.9 : Chinese, Biryani, North Indian, Sichuan : ₹200 for two :  Periyar, Madurai
+Charles Chicken : 3.6 : Biryani, South Indian, Chinese : ₹300 for two :  Iyer Bungalow, Madurai
+Bistro 1427 : - : North Indian, Italian, Shake : ₹700 for two :  Kamarajar Salai, Madurai
+Medicine Unavagam : 3.1 : North Indian, Chinese, Lebanese : ₹400 for two :  Doak Nagar, Madurai
+Puppy's Bakery : - : Fast Food, Bakery, Salad, Italian, Beverages, Desserts : ₹400 for two :  Sathamangalam, Madurai
+Crispy Bitez : 3.9 : Chinese, Burger, Sandwich, Fast Food, Street Food : ₹200 for two :  Viswanathapuram, Madurai
+FB Cakes : 4.0 : Bakery : ₹800 for two :  Sathamangalam, Madurai
+Sulthan Biriyani : 4.2 : South Indian, Biryani : ₹400 for two :  SS Colony, Madurai
+P.S.A Fish Restaurant : - : Biryani, Seafood, South Indian : ₹550 for two :  SS Colony, Madurai
+Balcony - The Box Office Bar : 3.8 : North Indian, Continental, Fast Food, Bar Food : ₹1,200 for two :  Courtyard by Marriott - Arrapalayam, Madurai
+Bismi Hotel : 3.8 : South Indian : ₹150 for two :  Villapuram, Madurai
+Utsav : 4.1 : Continental, North Indian, South Indian, Seafood : ₹1,500 for two :  The Germanus, SS Colony, Madurai
+Jkans Foods : 4.3 : Biryani, South Indian, Chinese : ₹300 for two :  Periyar, Madurai
+Cafe TN59 : 4.0 : Fast Food, Sandwich, Italian, Desserts, Beverages : ₹300 for two :  KK Nagar, Madurai
+Temple City : New : South Indian, Chinese, Beverages : ₹300 for two :  KK Nagar, Madurai
+Baskin Robbins - Ice Cream Desserts : - : Ice Cream, Desserts, Beverages : ₹500 for two :  Sathamangalam, Madurai
+Hotel Sembiyan : 3.2 : Chinese, South Indian, North Indian, Lebanese, Ice Cream, Sichuan : ₹300 for two :  KK Nagar, Madurai
+Kolapasi Fast Food Centre : 3.8 : Fast Food, Chinese, Street Food : ₹200 for two :  Bethaniyapuram, Madurai
+The Wild West  Bar : 3.9 : Finger Food : ₹1,500 for two :  Poppy’s Hotel, KK Nagar, Madurai
+Hyderabad Express : 3.7 : Biryani, Tea : ₹300 for two :  Bethaniyapuram, Madurai
+Topi Vappa Biryani : 4.1 : Biryani, Chinese, South Indian, North Indian, Sichuan : ₹500 for two :  Iyer Bungalow, Madurai
+Bismi Hotel : 3.9 : South Indian, Chinese : ₹250 for two :  Villapuram, Madurai
+Panaimarathu Biryani Kadai : 4.2 : Biryani, South Indian : ₹200 for two :  Balarengapuram, Madurai
+Jkans Foods : 2.6 : South Indian, Chinese, Lebanese, North Indian, Beverages : ₹300 for two :  Bethaniyapuram, Madurai
+Cake Park : 3.2 : Bakery : ₹300 for two :  Villapuram, Madurai
+Moto Space Restaurant : 3.2 : Chinese, South Indian, North Indian, Sichuan : ₹400 for two :  Pasumalai, Madurai
+Cafe Cake Bee : - : Fast Food, Bakery, Chinese, Street Food, Beverages : ₹400 for two :  KK Nagar, Madurai
+Oyalo Pizza : 4.3 : Pizza, Fast Food : ₹300 for two :  Villapuram, Madurai
+The Idly Shop : - : South Indian : ₹100 for two :  Sathamangalam, Madurai
+Madurai Kalyana Biryani : 3.6 : Biryani : ₹700 for two :  Iyer Bungalow, Madurai
+Marrybrown : 3.8 : Burger, Fast Food, Sandwich, Arabian, Wraps, Biryani, Desserts, Beverages : ₹400 for two :  KK Nagar, Madurai
+Mukku Kadai K Subbu : 3.9 : Biryani, South Indian, Chinese : ₹200 for two :  Doak Nagar, Madurai
+Thangam Multi Cuisine Restaurant : 3.2 : Biryani, South Indian, North Indian, Beverages, Chinese, Seafood, Ice Cream, Sichuan : ₹600 for two :  Arrapalayam, Madurai
+Bamboo Garden : 3.2 : Chinese, Seafood : ₹550 for two :  KK Nagar, Madurai
+R.K. Mushroom Corner : 3.0 : Fast Food, Chinese : ₹300 for two :  Keerathurai, Madurai
+Pannaiyar Kari Kadai : - : South Indian, BBQ : ₹300 for two :  Pasumalai, Madurai
+The Food Box : 3.9 : Continental, Shawarma, Sandwich, Fast Food, Chinese, Ice Cream, Desserts : ₹300 for two :  KK Nagar, Madurai
+The Sandwich World : 3.7 : Sandwich, Fast Food, Momos, Chinese, Wraps, Shake, Beverages : ₹400 for two :  SS Colony, Madurai
+Cheesy Juicy Burgers : - : Burger, Sandwich, Fast Food, Beverages : ₹400 for two :  KK Nagar, Madurai
+Kasthuri Bakery & Grill House : 3.8 : Bakery, Biryani, South Indian : ₹600 for two :  Villapuram, Madurai
+The Belgian Waffle Co. : 4.3 : Waffle, Pancake, Desserts, Beverages, Ice Cream : ₹400 for two :  Sathamangalam, Madurai
+Big Shots : 4.0 : Finger Food, Fast Food, Seafood, North Indian, Desserts : ₹2,100 for two :  Arrapalayam, Madurai
+Deen Biriyani Stall : 3.8 : South Indian, Biryani : ₹250 for two :  Viswanathapuram, Madurai
+Jkans Hotel : 3.9 : South Indian : ₹300 for two :  Periyar, Madurai
+Vamsavali Biriyani : 3.0 : Biryani, South Indian : ₹200 for two :  SS Colony, Madurai
+Meat And Eat : - : Burger, Fast Food, Biryani, Roast Chicken, Wraps, Desserts, Beverages : ₹400 for two :  Sathamangalam, Madurai
+Vasantham Grand : 3.4 : South Indian : ₹300 for two :  KK Nagar, Madurai
+Koorai Kadai : 3.9 : South Indian, Biryani : ₹300 for two :  Sathamangalam, Madurai
+Jkans Foods : - : South Indian, Biryani, Chinese, Fast Food, Beverages : ₹350 for two :  Periyar, Madurai
+Manvasanai Briyani : 3.4 : Biryani : ₹500 for two :  Viswanathapuram, Madurai
+Ajmeer Mahal : 4.9 : North Indian, South Indian : ₹300 for two :  KK Nagar, Madurai
+Mahalir Koolu Palpannai : 3.8 : South Indian : ₹150 for two :  Arrapalayam, Madurai
+Jayaram Bakery : 4.2 : Bakery, Desserts, Mithai, Street Food : ₹200 for two :  Periyar, Madurai
+Cinnammal Fine Dining Veg Restaurant : 3.9 : South Indian, North Indian, Desserts, Beverages : ₹400 for two :  Periyar, Madurai
+Temple City AC Family Veg. Restaurant : 4.0 : South Indian, North Indian : ₹300 for two :  Othakadai, Madurai
+Shawarmaa Hunt : 4.0 : Lebanese, South Indian, Beverages : ₹300 for two :  KK Nagar, Madurai
+Kudil Kudumba Unavagam : - : Seafood, South Indian : ₹350 for two :  Viswanathapuram, Madurai
+KPS Restaurant : 3.6 : South Indian, Chinese : ₹300 for two :  Periyar, Madurai
+Crumbles - A Culinary Voyage : 3.7 : North Indian, Korean, Asian, Mexican, Seafood, Italian, Desserts, Beverages : ₹1,200 for two :  Sathamangalam, Madurai
+Sekar Konar Mess : 3.7 : Kerala, South Indian : ₹250 for two :  Periyar, Madurai
+Grill Spot : 3.1 : Biryani, Chinese, South Indian : ₹250 for two :  Iyer Bungalow, Madurai
+Hotel Aadhithya : 3.7 : South Indian, Chinese, North Indian : ₹300 for two :  Periyar, Madurai
+Fresh Cream : - : Bakery, Fast Food, Desserts, Beverages, Pizza, Sandwich : ₹300 for two :  Sathamangalam, Madurai
+Hotel Saravanas : - : South Indian, North Indian, Shake : ₹250 for two :  Koodal Nagar, Madurai
+Riyaz Briyani : 3.6 : Biryani, Chinese : ₹550 for two :  Periyar, Madurai
+Blue Forest : - : Bakery, Street Food, Pizza, Sandwich, Burger, Chinese, Desserts, Beverages : ₹500 for two :  Periyar, Madurai
+Blaack Forest : 3.8 : Bakery : ₹300 for two :  KK Nagar, Madurai
+Frozen Bottle - Milkshakes, Desserts And Ice Cream : New : Shake, Beverages, Desserts, Ice Cream, Waffle, Healthy Food : ₹300 for two :  KK Nagar, Madurai
+PKG Chappathi Corner : 3.5 : North Indian, South Indian : ₹200 for two :  Balarengapuram, Madurai
+Biriyani Virundhu : 3.2 : North Indian, Biryani, Chinese, Sichuan : ₹300 for two :  KK Nagar, Madurai
+Temple City : 3.9 : Chinese, Shake : ₹450 for two :  KK Nagar, Madurai
+Chennai Rawther Restaurant : 3.3 : Biryani, North Indian, Chinese, South Indian, Sichuan : ₹300 for two :  Sathamangalam, Madurai
+Lakshmi's Chappathi Corner : 3.6 : North Indian : ₹200 for two :  SS Colony, Madurai
+Madurai Pandiyan Hotel : - : South Indian, Chinese, Biryani : ₹350 for two :  KK Nagar, Madurai
+B G Naidu Sweets : 4.0 : Mithai, Street Food : ₹800 for two :  Pandian Nagar, Madurai
+The South Indian Restaurant : 4.0 : South Indian, Kebab, Chinese, Biryani, Desserts, Beverages, Sichuan : ₹500 for two :  Sathamangalam, Madurai
+Varun Broilers : - : Fast Food, Lebanese, Chinese, Beverages : ₹450 for two :  Doak Nagar, Madurai
+Kings Chinese Restaurant : 3.6 : Chinese, Biryani, Sichuan : ₹250 for two :  Iyer Bungalow, Madurai
+Hotel Phoenix : 3.7 : South Indian, Street Food, Chinese : ₹200 for two :  Bethaniyapuram, Madurai
+Hotel Milagu : 2.7 : Chettinad, Biryani, Chinese, South Indian, Arabian, Desserts, Sichuan : ₹300 for two :  Periyar, Madurai
+Sri Muniyandi Vilas : - : Mughlai : ₹300 for two :  Balarengapuram, Madurai
+Riyas Mahal : 3.5 : Biryani, South Indian : ₹300 for two :  SS Colony, Madurai
+Hotel Naveen : 3.4 : South Indian, Chinese : ₹300 for two :  Bethaniyapuram, Madurai
+Johnny Dony Grill Chicken : - : Chinese, BBQ : ₹300 for two :  SS Colony, Madurai
+A1 Briyani : 3.6 : Biryani, Chinese : ₹400 for two :  KK Nagar, Madurai
+Basmati Biryani Restaurant : 3.8 : Biryani, North Indian, Chinese : ₹400 for two :  SS Colony, Madurai
+Yasmin Biryani : 3.8 : Biryani, Chinese, Fast Food, South Indian : ₹300 for two :  Bethaniyapuram, Madurai
+Aatha Kadai : - : South Indian, Chinese : ₹300 for two :  SS Colony, Madurai
+Madurai Bun Parota Uliyar Kadai : 3.7 : Fast Food, Street Food : ₹200 for two :  Avaniyapuram, Madurai
+Lassi House : 3.9 : Beverages, Juices, Fast Food, Desserts : ₹300 for two :  Sathamangalam, Madurai
+Royal Mass : 4.2 : South Indian, Chinese : ₹250 for two :  Villapuram, Madurai
+B.G. Naidu Sweets : 3.8 : Mithai, Desserts, Bakery : ₹250 for two :  Periyar, Madurai
+Hotel Atchayas : 3.8 : South Indian : ₹500 for two :  KK Nagar, Madurai
+Arabian Delight : - : Lebanese, Chinese, North Indian, Biryani : ₹400 for two :  KK Nagar, Madurai
+Cream e Cakes : 3.4 : Pizza, Burger, Fast Food, Sandwich, Ice Cream : ₹300 for two :  Iyer Bungalow, Madurai
+Temple City : 4.0 : South Indian : ₹200 for two :  Vandiyur, Madurai
+Hotel Archana : 3.9 : South Indian, Shake : ₹300 for two :  Southern Railway Colony, Madurai
+Amul Ice Cream Parlour : - : Desserts : ₹200 for two :  SS Colony, Madurai
+Pasiyaru Asaiva Unavagam Kochadai : 3.7 : South Indian, Biryani, North Indian, Chinese, Seafood, Street Food : ₹300 for two :  Doak Nagar, Madurai
+New Mass : 3.6 : South Indian, Kerala : ₹400 for two :  Arrapalayam, Madurai
+Express Briyani : - : Biryani, South Indian, Chinese, Sichuan : ₹250 for two :  Periyar, Madurai
+A1 Welfare Club : New : North Indian, Chinese : ₹500 for two :  KK Nagar, Madurai
+Hotel Theekkathir : - : South Indian : ₹300 for two :  Arrapalayam, Madurai
+Hollywood Chicken : 4.1 : Shawarma, Chinese, BBQ, Fast Food, Biryani, Rolls : ₹250 for two :  Pasumalai, Madurai
+Khalids Briyani : 3.4 : Biryani, Mughlai, South Indian, Seafood, Kebab, Chinese, Desserts, Juices : ₹600 for two :  Bethaniyapuram, Madurai
+Famous Jigarthanda : 3.9 : Beverages, Ice Cream : ₹200 for two :  Sathamangalam, Madurai
+Wings Chimney : - : Chinese, North Indian : ₹400 for two :  Viswanathapuram, Madurai
+Noodle King : - : Chinese : ₹400 for two :  Vishaal de Mal, KK Nagar, Madurai, Madurai
+Cakies n Cookies : - : Bakery : ₹300 for two :  Kamarajar Salai, Madurai
+Thai Tiffen Centre : 3.9 : South Indian : ₹200 for two :  Villapuram, Madurai
+Calicut Briyani Hut : 4.0 : Biryani, Chinese : ₹300 for two :  KK Nagar, Madurai
+Zam Zam Biriyani Family Restaurant : 3.5 : North Indian, Biryani, BBQ, Chinese, Shawarma : ₹300 for two :  Periyar, Madurai
+P.S.A  Cafe : 4.0 : Sandwich, Fast Food, Beverages, Burger : ₹500 for two :  Periyar, Madurai
+Savage : - : Chinese, Sichuan : ₹300 for two :  KK Nagar, Madurai
+The Madurai Residency : 3.7 : North Indian, Chinese, Continental, South Indian, Sichuan : ₹600 for two :  Periyar, Madurai
+The Pani Puri Park : 3.2 : Chinese, Street Food, Sichuan : ₹300 for two :  Viswanathapuram, Madurai
+Madurai Meenakshi Mess : 3.6 : South Indian : ₹250 for two :  SS Colony, Madurai
+Ali Baba 40 Golden Dishes : 3.4 : North Indian, Chinese, Biryani, BBQ, Beverages, Sichuan : ₹550 for two :  Periyar, Madurai
+PSA Fish Market : 3.2 : North Indian, Chinese, Lebanese : ₹300 for two :  Viswanathapuram, Madurai
+Sai Sandwich Shop : - : Sandwich, Fast Food : ₹200 for two :  Periyar, Madurai
+Astoria Hotels : 3.3 : North Indian, Mughlai, Fast Food, Chinese : ₹500 for two :  Periyar, Madurai
+Dheen Biriyani Stall : 3.9 : North Indian, South Indian : ₹250 for two :  KK Nagar, Madurai
+The Side  Walk : 4.3 : Italian, Fast Food, North Indian, Shake : ₹600 for two :  SS Colony, Madurai
+Maheswaran Non Veg Restaurant : 3.7 : South Indian : ₹150 for two :  Villapuram, Madurai
+Laurah Cakes : 3.8 : Bakery, Pizza, Burger, Sandwich, Desserts, Beverages, Cafe : ₹400 for two :  KK Nagar, Madurai
+Win Bakery & Sweets : 4.0 : Mithai, Bakery, Fast Food : ₹300 for two :  Viswanathapuram, Madurai
+Kochadai- Pasiyaru Asaiva Unavagam : 3.1 : South Indian, North Indian, Chinese, Mughlai, Biryani, Seafood, Sichuan : ₹550 for two :  Villapuram, Madurai
+K P Kanna Bun Parotta Stall : - : South Indian, North Indian : ₹300 for two :  Viswanathapuram, Madurai
+PSA Restaurant : 3.9 : Chinese, Seafood : ₹400 for two :  SS Colony, Madurai
+Burma Idiyappa Kadai : 3.8 : South Indian : ₹150 for two :  Viswanathapuram, Madurai
+Hotel Saravanaa Bhavaa : 3.7 : Chinese, South Indian : ₹200 for two :  Iyer Bungalow, Madurai
+The BBQ Father : 3.7 : BBQ : ₹450 for two :  SS Colony, Madurai
+Fire Grill Chicken : 3.9 : BBQ : ₹400 for two :  Iyer Bungalow, Madurai
+Yanaikkal Sulthan Hotel : 3.5 : Chinese : ₹300 for two :  Iyer Bungalow, Madurai
+Madurai Midnight Briyani : 3.2 : North Indian, Biryani : ₹300 for two :  KK Nagar, Madurai
+Naveen's Chillax Cafe : - : Fast Food, Sandwich, Pizza, Beverages, Ice Cream, Desserts : ₹300 for two :  Koodal Nagar, Madurai
+Deli FC : - : Burger, Fast Food : ₹450 for two :  Viswanathapuram, Madurai
+Hotel City Gate : - : South Indian, North Indian, Chinese : ₹300 for two :  Iyer Bungalow, Madurai
+Dindugul Velu Biryani : 3.3 : South Indian, Biryani : ₹450 for two :  Vishaal de Mal, KK Nagar, Madurai, Madurai
+PTR Tiffin & Coffee : 3.6 : South Indian : ₹150 for two :  KK Nagar, Madurai
+British Bakery Cafe : 3.8 : Bakery, Fast Food, Shake, Pizza, Sandwich, Street Food, Desserts : ₹350 for two :  Viswanathapuram, Madurai
+Hotel Pranav : 3.2 : South Indian : ₹200 for two :  Iyer Bungalow, Madurai
+Moskva Hotel : - : North Indian, Seafood, South Indian, Biryani : ₹600 for two :  Periyar, Madurai
+Pechiamman Veg Restaurant : - : South Indian, North Indian, Chinese : ₹300 for two :  Villapuram, Madurai
+99°F Shawarma, Momos, Kulfi, Shakes : - : Lebanese, Momos, Beverages : ₹250 for two :  SS Colony, Madurai
+Temple City Veg : - : North Indian, South Indian, Chinese, Biryani, Street Food : ₹300 for two :  Vandiyur, Madurai
+Lakshmana's Bojanam Veg Restaurant : 3.4 : South Indian, Chinese, North Indian, Biryani : ₹250 for two :  Pasumalai, Madurai
+Igloo : 3.5 : Desserts, Ice Cream, Shake : ₹300 for two :  Sathamangalam, Madurai
+Yo Yo Shawarma’s : 3.1 : Shawarma, Fast Food : ₹250 for two :  Viswanathapuram, Madurai
+Hotel Arunachala : - : South Indian, North Indian, Beverages : ₹200 for two :  Periyar, Madurai
+Hotel Archana : - : South Indian : ₹500 for two :  Pasumalai, Madurai
+Namma Cafe : 3.6 : Burger, Pizza, Pasta, Sandwich, Wraps, Beverages, Tea : ₹300 for two :  Iyer Bungalow, Madurai
+Famous Jigarthanda : 4.1 : Beverages, Ice Cream : ₹100 for two :  Pasumalai, Madurai
+Hotel Archana : 3.7 : North Indian, Chettinad, Chinese, Fast Food, Seafood, Biryani, Desserts, Beverages : ₹450 for two :  SS Colony, Madurai
+Al Ahad Muslim Biryani : - : Biryani, South Indian : ₹300 for two :  KK Nagar, Madurai
+Hotel Sree Harikrushnaa : 3.1 : South Indian, Chinese, Sichuan : ₹200 for two :  Periyar, Madurai
+Tiger Cafe : 3.9 : Chinese, Biryani, Asian, North Indian, Mughlai, Fast Food : ₹750 for two :  Bethaniyapuram, Madurai
+The Metropole : 3.4 : South Indian : ₹600 for two :  KK Nagar, Madurai
+Al- Sama Arabian Street : 3.7 : Fast Food, Seafood, Chinese, Lebanese, Biryani : ₹300 for two :  KK Nagar, Madurai
+PTR Chettinadu Restaurant : 3.9 : Chettinad, South Indian, Biryani : ₹600 for two :  KK Nagar, Madurai
+Jkans Foods : - : Lebanese, Biryani, North Indian, South Indian, Chinese, Sichuan : ₹350 for two :  Viswanathapuram, Madurai
+Viji Food Court : 3.6 : Sandwich, Fast Food, Desserts, Beverages : ₹400 for two :  Sathamangalam, Madurai
+Scoops And Snacks : 2.9 : Beverages, Desserts : ₹150 for two :  Villapuram, Madurai
+Madurai Arasi Bun Parotta Kadai : - : South Indian : ₹350 for two :  Vandiyur, Madurai
+Hotel Balakrishna : 3.9 : South Indian, Chinese, Biryani : ₹300 for two :  Periyar, Madurai
+Hotel Temple City Dreamz Inn : - : South Indian, Chinese, Fast Food, Sichuan : ₹400 for two :  Iyer Bungalow, Madurai
+Hotel Sakthi Meenakshi : 3.9 : South Indian, Chinese : ₹100 for two :  Iyer Bungalow, Madurai
+Wild Foodie : 3.4 : Fast Food, Lebanese, Beverages, Shake, Sichuan : ₹300 for two :  SS Colony, Madurai
+Nambi Aththo Kadai : 3.9 : Burmese, Chinese, Street Food : ₹300 for two :  SS Colony, Madurai
+Puppy's Bakery Express : - : Bakery, Fast Food, Sandwich : ₹250 for two :  KK Nagar, Madurai
+Master Majestic : 2.7 : South Indian : ₹300 for two :  KK Nagar, Madurai
+Royal Sandwich : 3.2 : Sandwich, Fast Food, Street Food, Shake, Beverages : ₹400 for two :  Viswanathapuram, Madurai
+Fatty Finger : - : Fast Food, Sandwich, North Indian, Ice Cream, Juices, Shake, Beverages : ₹450 for two :  KK Nagar, Madurai
+Bismi Hotel : 3.5 : Biryani, South Indian, Chinese, Tamil : ₹300 for two :  Balarengapuram, Madurai
+JP Mess : - : South Indian : ₹200 for two :  Balarengapuram, Madurai
+Hotel Archana : 3.7 : South Indian, Chinese : ₹300 for two :  Bethaniyapuram, Madurai
+Folks Steam & Smoky Foods : 3.9 : BBQ, South Indian : ₹300 for two :  Bethaniyapuram, Madurai
+Kungu Fu Story : 3.4 : Chinese : ₹200 for two :  Sathamangalam, Madurai
+Nanban Unavagam : - : Chinese, Biryani : ₹400 for two :  Balarengapuram, Madurai
+Rukshanas Chappathi Carner : 3.6 : North Indian, Chettinad : ₹200 for two :  Iyer Bungalow, Madurai
+The Grand Restaurant : 3.4 : Biryani, Chinese, Chettinad, Mughlai, Seafood : ₹600 for two :  Arrapalayam, Madurai
+Hotel Ponnappar : - : Biryani, Chettinad, Fast Food, North Indian : ₹400 for two :  Pasumalai, Madurai
+Chaat Cafe : - : Fast Food, Street Food, Pizza, Burger, Sandwich, Pasta, Shake, Beverages : ₹300 for two :  SS Colony, Madurai
+Bakery Centre : 3.1 : Bakery, Fast Food : ₹250 for two :  Southern Railway Colony, Madurai
+Barbeque Nights : - : BBQ, Chinese, Lebanese : ₹300 for two :  Periyar, Madurai
+Harish Family Restaurant : 3.0 : South Indian, Biryani : ₹200 for two :  Viswanathapuram, Madurai
+Hotel Akshaya : - : Chinese, North Indian, South Indian, Beverages : ₹250 for two :  Arrapalayam, Madurai
+Atchaya Hotel : - : South Indian : ₹250 for two :  Sathamangalam, Madurai
+Dosa Infinity Madurai : 2.8 : South Indian : ₹300 for two :  SS Colony, Madurai
+Cafe Lake View : 3.4 : South Indian, Chinese, North Indian : ₹500 for two :  KK Nagar, Madurai
+Grill Nights : 3.9 : Biryani, Chinese : ₹200 for two :  KK Nagar, Madurai
+Blue Forest Shawarma Spot : 3.4 : Chinese, Lebanese, BBQ, Sichuan : ₹400 for two :  Periyar, Madurai
+Liminos : 3.9 : Sandwich, Burger, Pizza, Fast Food, Ice Cream, Desserts, Shake, Beverages : ₹300 for two :  Sathamangalam, Madurai
+Spring Potato : 3.7 : Fast Food : ₹150 for two :  KK Nagar, Madurai
+M P Hotel : - : South Indian : ₹150 for two :  Sathamangalam, Madurai
+Cake Forest : 3.2 : Bakery : ₹1,000 for two :  KK Nagar, Madurai
+Sree Kumar Hotel : 3.9 : South Indian : ₹200 for two :  Southern Railway Colony, Madurai
+Rajeshwari Hotel : - : South Indian, Chinese : ₹300 for two :  Periyar, Madurai
+Hotel Saravanas : 3.4 : North Indian, Biryani, South Indian, Chinese, Beverages : ₹300 for two :  Koodal Nagar, Madurai
+Annapoorna Hotel : - : Chinese, South Indian, Juices, Biryani : ₹300 for two :  Sathamangalam, Madurai
+Mumbai Kulfi : 3.2 : Ice Cream, Beverages, Desserts : ₹150 for two :  Kamarajar Salai, Madurai
+Sri Vari Bhavan : 3.3 : South Indian : ₹200 for two :  Periyar, Madurai
+Bentoz Pizza : 3.5 : Pizza, Pasta, Italian, Fast Food, Beverages : ₹200 for two :  KK Nagar, Madurai
+Shawarma Hut : - : Shawarma, Chinese : ₹300 for two :  Iyer Bungalow, Madurai
+Cream Dazzle : - : Ice Cream, Waffle, Desserts, Pizza, Sandwich, Fast Food, Shake, Beverages : ₹400 for two :  KK Nagar, Madurai
+Best Chick : 3.7 : Fast Food, Pizza, Desserts : ₹300 for two :  Balarengapuram, Madurai
+Beyond Temptation : 2.9 : Fast Food, Sandwich, Beverages, Shake, Sichuan : ₹300 for two :  Viswanathapuram, Madurai
+BFC : - : Chinese, Street Food, Sandwich, Pizza, Fast Food, Biryani, Burger, Desserts : ₹450 for two :  KK Nagar, Madurai
+Sri Sakthi Meenakshi Bhavan : - : South Indian : ₹150 for two :  Iyer Bungalow, Madurai
+Full Stop Foodz : 3.6 : Chinese, Shawarma, BBQ, Beverages : ₹350 for two :  Koodal Nagar, Madurai
+Aqua Poolside Cafe And Restaurant : 2.5 : North Indian, Chinese, Mughlai, Shake, Sichuan : ₹700 for two :  Periyar, Madurai
+Zwarma : - : Lebanese, Afghan, Beverages, Shake : ₹250 for two :  Viswanathapuram, Madurai
+La Tapa's Restaurant : New : Sandwich, Pizza, Momos, Burger, Fast Food : ₹350 for two :  Viswanathapuram, Madurai
+KG Veg Restaurant : - : South Indian : ₹200 for two :  SS Colony, Madurai
+Pizza Mafia : 3.1 : Pizza, Sandwich, Burger, Chinese, Beverages : ₹300 for two :  SS Colony, Madurai
+Annakinnam : 3.5 : South Indian : ₹200 for two :  Vandiyur, Madurai
+Hotel Archana : 3.9 : South Indian : ₹300 for two :  Southern Railway Colony, Madurai
+Hotel Shafin : 3.0 : Chinese, South Indian, Biryani : ₹350 for two :  Periyar, Madurai
+Sri Kesava Biryani : 3.9 : South Indian, Biryani : ₹300 for two :  Periyar, Madurai
+Food Park : 3.9 : Bakery, Fast Food, Street Food : ₹300 for two :  KK Nagar, Madurai
+Modern Restaurant : 3.8 : South Indian : ₹300 for two :  Periyar, Madurai
+Almas Restaurant : 3.3 : South Indian, Chinese, Biryani : ₹250 for two :  Iyer Bungalow, Madurai
+Al Rasul : 3.9 : Biryani, Chinese, South Indian : ₹300 for two :  Iyer Bungalow, Madurai
+The Spicy Eriyal : 3.3 : Lebanese, Rolls, North Indian, BBQ, Fast Food, Chinese, Ice Cream, Beverages : ₹500 for two :  SS Colony, Madurai
+Mr. Momo's King Lassi : 3.8 : Momos, Street Food, Beverages : ₹250 for two :  SS Colony, Madurai
+Express Fried Chicken : 3.1 : Fast Food, Pizza, Sandwich, Street Food, Lebanese, Beverages : ₹250 for two :  Periyar, Madurai
+Japan Kozhukkotto : 3.5 : Momos, Sandwich, Fast Food, Beverages : ₹450 for two :  Iyer Bungalow, Madurai
+SKV Mess : 3.4 : Chettinad, South Indian, Biryani : ₹200 for two :  Periyar, Madurai
+Mookkan Konar Mutton Kari Kadai & Hotel Kadai : 3.4 : South Indian : ₹300 for two :  Arrapalayam, Madurai
+Heaven Shack : 3.8 : Pizza, Burger, Wraps, Fast Food, Coffee, Beverages : ₹500 for two :  KK Nagar, Madurai
+Salman Shawarma : 3.3 : Lebanese, Fast Food, Beverages : ₹450 for two :  Iyer Bungalow, Madurai
+Grab N Grill : 2.5 : Chinese, Lebanese : ₹250 for two :  KK Nagar, Madurai
+Riyaz Mahal Hotel : 3.4 : South Indian, Biryani : ₹300 for two :  Koodal Nagar, Madurai
+Palm Shake : 3.4 : Beverages, Juices, Desserts : ₹300 for two :  Villapuram, Madurai
+Amul Scoopy : - : Ice Cream : ₹200 for two :  KK Nagar, Madurai
+Malaysia New Deen Hotel : - : South Indian, Chinese, Biryani : ₹300 for two :  Villapuram, Madurai
+Thalifa Bun Parotta And Best Dhalcha Biriyani : 3.7 : South Indian, Biryani : ₹350 for two :  SS Colony, Madurai
+Zusi Zone : New : Pizza, Burger, Italian, Fast Food, Chinese, Salad, Desserts, Beverages : ₹450 for two :  Pasumalai, Madurai
+Singam Hotel - Unit Of Karpagam Hotel : - : South Indian : ₹300 for two :  Iyer Bungalow, Madurai
+Mr. Cock : 2.8 : Chinese, North Indian, Lebanese : ₹300 for two :  Viswanathapuram, Madurai
+Polar Bear : 3.6 : Ice Cream, Shake : ₹350 for two :  Iyer Bungalow, Madurai
+Ashok Hotel : - : South Indian, Biryani : ₹400 for two :  Sathamangalam, Madurai
+Foodies : 3.4 : Lebanese, South Indian, Fast Food : ₹200 for two :  Periyar, Madurai
+Meenakshi Bhavan : 3.5 : South Indian, Chinese : ₹300 for two :  Sathamangalam, Madurai
+The Pizza Express : 3.4 : Pizza, Fast Food : ₹400 for two :  KK Nagar, Madurai
+Muthukumar Bun Parotha : - : South Indian : ₹150 for two :  Periyar, Madurai
+Crunchy Chicken House : - : Fast Food, Biryani : ₹200 for two :  Doak Nagar, Madurai
+Zan Cafe : 3.7 : Pizza, Pasta, Sandwich, Fast Food, Street Food, Momos, Desserts, Shake : ₹250 for two :  SS Colony, Madurai
+FB Cakes : 3.7 : Bakery : ₹300 for two :  Viswanathapuram, Madurai
+Just Juice : - : Juices : ₹200 for two :  KK Nagar, Madurai
+Sri Madurai Meenakshi Hotel : - : South Indian, Fast Food : ₹200 for two :  Sathamangalam, Madurai
+Jallikattu Restaurant : 3.4 : Chinese, South Indian : ₹200 for two :  KK Nagar, Madurai
+Dwarka Palace : - : South Indian, North Indian, Chinese, Salad, Desserts, Beverages : ₹1,000 for two :  Sathamangalam, Madurai
+Madurai Night Foods : 3.2 : Street Food, Pasta, Beverages, Momos : ₹250 for two :  Sathamangalam, Madurai
+Hott Spott - In Rice & Grills : - : North Indian, Chinese, Biryani, Fast Food, Shawarma, Sichuan, Desserts, Shake : ₹450 for two :  Iyer Bungalow, Madurai
+RI Chaat Corner : 2.9 : Street Food, Chinese, South Indian, Sichuan : ₹350 for two :  KK Nagar, Madurai
+Deen Restaurant : - : South Indian, Biryani, Chinese : ₹300 for two :  Viswanathapuram, Madurai
+Cafe Jayaram : New : Juices, Shake, Beverages, Fast Food, Burger, Sandwich : ₹400 for two :  Koodal Nagar, Madurai
+T Box Home Cooked Foods : - : Biryani : ₹300 for two :  Othakadai, Madurai
+SPS Mass Fried Chicken Biriyani : 2.6 : Chinese, Fast Food, Andhra, Shawarma : ₹350 for two :  Villapuram, Madurai
+Famous Jigarthanda : - : Beverages, Ice Cream : ₹250 for two :  Periyar, Madurai
+The Waffle Spot : - : Waffle, Desserts : ₹350 for two :  KK Nagar, Madurai
+Hotel Harish : - : South Indian : ₹200 for two :  Viswanathapuram, Madurai
+Chicken Corner : - : Fast Food, Lebanese : ₹250 for two :  Iyer Bungalow, Madurai
+Nal Oon Unavagam : 3.4 : South Indian, Tamil : ₹250 for two :  Viswanathapuram, Madurai
+Bro Pizza : - : Pizza, Beverages, Shake : ₹300 for two :  Kamarajar Salai, Madurai
+SS Konar Hotel : - : South Indian, Biryani, Chinese : ₹250 for two :  Doak Nagar, Madurai
+Naveen Bakery : - : Bakery, Street Food : ₹100 for two :  Sathamangalam, Madurai
+Sultan Hotel : - : Chinese, South Indian : ₹150 for two :  Viswanathapuram, Madurai
+Shri Nursing Sweets : - : Mithai, Street Food : ₹300 for two :  SS Colony, Madurai
+Madurai Bun Porota Uliyar Kadai : - : South Indian, Chinese : ₹250 for two :  Pasumalai, Madurai
+Mattuthavani  Merina : - : South Indian : ₹300 for two :  Periyar, Madurai
+Periyar Sulthan Unavagam : - : Tamil, Chinese : ₹400 for two :  Pasumalai, Madurai
+Vasan Dosa : 3.3 : South Indian : ₹150 for two :  Kamarajar Salai, Madurai
+Lovely Taj Hotel : - : South Indian, Biryani, North Indian, Seafood : ₹500 for two :  Periyar, Madurai
+Famous Jigarthanda : - : Beverages, Desserts : ₹250 for two :  Arrapalayam, Madurai
+Hot Grills : - : Chinese, Fast Food : ₹300 for two :  Sathamangalam, Madurai
+Jeeva Snacks : - : Burger, Pizza : ₹200 for two :  SS Colony, Madurai
+Just Veg : - : North Indian, Street Food : ₹300 for two :  KK Nagar, Madurai
+Madurai Mass : - : Biryani, Fast Food, South Indian : ₹200 for two :  Avaniyapuram, Madurai
+Fresh Fusion : - : Fast Food, Beverages : ₹300 for two :  SS Colony, Madurai
+Annapoorna : - : South Indian : ₹200 for two :  Viswanathapuram, Madurai
+Sri Ayyan Mess : 3.1 : South Indian : ₹200 for two :  Viswanathapuram, Madurai
+Thekkathi Mess : - : South Indian, Biryani : ₹200 for two :  KK Nagar, Madurai
+Ameer Mahal : - : South Indian, Beverages : ₹250 for two :  KK Nagar, Madurai
+Sri Annapoorini Hotel : - : South Indian, Chinese : ₹250 for two :  Arrapalayam, Madurai
+3' Sided : - : Pizza, Burger, Sandwich, Fast Food, Shake, Beverages : ₹300 for two :  KK Nagar, Madurai
+Arun Bakery : - : Bakery, Fast Food : ₹300 for two :  Sathamangalam, Madurai
+Rikabi : - : North Indian, Chinese, Biryani, Ice Cream, Desserts, Shake, Beverages : ₹550 for two :  KK Nagar, Madurai
+Hotel Grand Krishna : - : South Indian, Chinese, North Indian, Fast Food, Beverages, Street Food, Sichuan : ₹300 for two :  Pasumalai, Madurai
+Onazir Mess : - : Chinese, Biryani : ₹200 for two :  Iyer Bungalow, Madurai
+Khan Bhai Biryani Kadai : - : Biryani : ₹250 for two :  Arrapalayam, Madurai
+Vera Level Tea Kadai : - : Fast Food, Ice Cream, Shake, Juices : ₹350 for two :  Periyar, Madurai
+Sri Saravana Bhavan : - : South Indian, North Indian, Modern Indian : ₹500 for two :  Balarengapuram, Madurai
+Hotel Annapoorna Veg : - : South Indian : ₹200 for two :  Sathamangalam, Madurai
+Sandwich World : - : Sandwich, Burger, Fast Food, Street Food, Beverages, Desserts, Shake : ₹300 for two :  Arrapalayam, Madurai
+Cream And Fudge : - : Bakery, Ice Cream : ₹400 for two :  SS Colony, Madurai
+Aibaik : - : Shawarma, Fast Food, Kebab, Mandi, BBQ : ₹800 for two :  Iyer Bungalow, Madurai
+I Sandy : - : Fast Food, Ice Cream, Shake : ₹300 for two :  Pasumalai, Madurai
+Ramji Snacks : - : North Indian, Chinese : ₹400 for two :  KK Nagar, Madurai
+Hunger Heist : - : Chinese, Fast Food, Beverages, Sichuan : ₹450 for two :  Sathamangalam, Madurai
+Blaack Forest : - : Bakery, Desserts, Fast Food : ₹400 for two :  Kamarajar Salai, Madurai
+Sri Nathan Bun Parota Kadai : - : Chinese, South Indian : ₹300 for two :  Vandiyur, Madurai
+Aatha Kadai : - : South Indian, Biryani : ₹450 for two :  Arrapalayam, Madurai
+Wok In China : - : Chinese, Fast Food, Sichuan : ₹400 for two :  Kamarajar Salai, Madurai
+Heaven's Park Arabian & Multicuisine Restaurant : - : Arabian, North Indian : ₹1,500 for two :  Iyer Bungalow, Madurai
+New Fresh : - : Fast Food : ₹350 for two :  KK Nagar, Madurai
+Sabareesh Pazhamuthircholai : - : Juices : ₹150 for two :  Iyer Bungalow, Madurai
+Adhitya's Yellow Box : - : South Indian, Burmese, Sandwich, Burger, Momos, Fast Food, Shake, Beverages : ₹350 for two :  Viswanathapuram, Madurai
+Sri Saravana Restaurant : - : South Indian, Chinese : ₹300 for two :  KK Nagar, Madurai
+Hotel Gowri : - : Chinese, South Indian : ₹200 for two :  Arrapalayam, Madurai
+Phil's Bake House : - : Bakery, Desserts, Ice Cream : ₹200 for two :  KK Nagar, Madurai
+Hotel Ayyan Chinese Corner : - : Chinese, Seafood, Lebanese, North Indian, South Indian, BBQ : ₹800 for two :  Periyar, Madurai
+Hitler Atho Shop : - : Burmese : ₹100 for two :  SS Colony, Madurai
+Madurai Otukkadai : New : Chettinad, Chinese, South Indian : ₹200 for two :  Viswanathapuram, Madurai
+Dindigul Briyani Kadai : - : Biryani, South Indian : ₹250 for two :  Periyar, Madurai
+Pechiyamman Tea Stall : - : Beverages, South Indian : ₹100 for two :  Viswanathapuram, Madurai
+D J Juice : - : Juices, Beverages : ₹200 for two :  Sathamangalam, Madurai
+Mlounge : - : Bakery, Desserts, North Indian, Fast Food, Pasta, Beverages : ₹2,300 for two :  Courtyard by Marriott - Arrapalayam, Madurai
+Amman Sweets & Bakery : - : Bakery, South Indian : ₹300 for two :  Arrapalayam, Madurai
+Aman Mess : - : South Indian : ₹150 for two :  Arrapalayam, Madurai
+Rahman Fruit : - : Beverages : ₹200 for two :  Periyar, Madurai
+Aiyni Organic : - : South Indian, Street Food, Fast Food, Biryani, Juices : ₹200 for two :  KK Nagar, Madurai
+Hotel Sri Nachiyar Pure Veg : - : South Indian, Chinese, Beverages : ₹300 for two :  Villapuram, Madurai
+Al - Buhari Food Court : - : Biryani, Fast Food, Chinese, North Indian, South Indian : ₹600 for two :  Vandiyur, Madurai
+Tea Time : - : Tea, Shake, Beverages : ₹100 for two :  KK Nagar, Madurai
+Abirami  Hotel : - : South Indian, Chinese, Biryani, North Indian : ₹350 for two :  Iyer Bungalow, Madurai
+Chennai No1 Star Biryani : - : Biryani, South Indian : ₹300 for two :  Othakadai, Madurai
+Lakshmi's Chappathi Corner : - : North Indian : ₹100 for two :  Arrapalayam, Madurai
+S'creaming Spice : - : Sandwich, Pizza, Pasta, Biryani, North Indian, Fast Food, Bakery, Beverages : ₹1,400 for two :  Sathamangalam, Madurai
+Tiruchendur Cafe : - : South Indian, Beverages : ₹200 for two :  Pasumalai, Madurai
+Thuthi Uthukuli Butter & Ghee : - : Street Food : ₹100 for two :  Arrapalayam, Madurai
+KMP Chappati Corner : - : North Indian : ₹200 for two :  Viswanathapuram, Madurai
+Just Juice Eco : - : Juices, Shake, Ice Cream, Beverages : ₹150 for two :  KK Nagar, Madurai
+Woww Momos : - : Momos, Fast Food, Pizza, Beverages : ₹350 for two :  Avaniyapuram, Madurai
+Grill Station : - : Fast Food : ₹300 for two :  Pasumalai, Madurai
+Hotel Sultan : - : Chinese, South Indian : ₹300 for two :  Viswanathapuram, Madurai
+Cook With Comali's : - : North Indian, Chinese, Fast Food, Shawarma : ₹300 for two :  Villapuram, Madurai
+BRB Foods : - : Street Food, Fast Food, Shake : ₹200 for two :  SS Colony, Madurai
+Hotel 5G : - : Biryani, North Indian, Chinese : ₹350 for two :  KK Nagar, Madurai
+Choco Rush : - : Desserts, Beverages, Shake : ₹300 for two :  Viswanathapuram, Madurai
+Hotel Saravana Bhava : - : South Indian, Biryani, North Indian, Chinese, Fast Food, Sichuan : ₹300 for two :  Viswanathapuram, Madurai
+Temple City Dreamz Inn : - : Tamil, South Indian : ₹400 for two :  Viswanathapuram, Madurai
+Blue Forest Cafe : - : Pizza, Burger, Pasta, Sandwich, Bakery, Fast Food, Shake, Beverages : ₹400 for two :  Viswanathapuram, Madurai
+New Panaimarathu Biryani Kadai : - : Biryani : ₹250 for two :  Balarengapuram, Madurai
+Hotel M.S. Konaar : - : Biryani, Chinese, South Indian : ₹250 for two :  Koodal Nagar, Madurai
+Saravana Restaurant : - : South Indian, Chinese, Sichuan : ₹600 for two :  Vandiyur, Madurai
+Meetea Spot : - : Tea, Pizza : ₹300 for two :  KK Nagar, Madurai
+Famous Jigarthanda : - : Beverages : ₹200 for two :  Southern Railway Colony, Madurai
+House Of Sandwiches : - : Sandwich, Burger, Pizza, Rolls, Fast Food, Chinese : ₹300 for two :  KK Nagar, Madurai
+PN Konar Mess : - : North Indian, Chinese : ₹350 for two :  KK Nagar, Madurai
+Anna Nagar Akka Idly Kadai : - : South Indian : ₹100 for two :  Sathamangalam, Madurai
+Limra Hotel : - : South Indian, Chinese : ₹250 for two :  Viswanathapuram, Madurai
+The Hungry Helpers : - : Fast Food, Burger, Sandwich, Momos, Biryani, Shake, Desserts, Beverages : ₹400 for two :  KK Nagar, Madurai
+Annapoorani Vilas : - : South Indian : ₹100 for two :  Balarengapuram, Madurai
+Savage Driven 'N' Eats : - : Chinese, BBQ, Shawarma, Rolls, Sichuan, Fast Food : ₹250 for two :  KK Nagar, Madurai
+Avani Cafe & Restaurant : - : South Indian, Chinese : ₹200 for two :  Avaniyapuram, Madurai
+Cake D Cafe : - : Bakery, Burger, Wraps : ₹250 for two :  Viswanathapuram, Madurai
+Arik Biryani : - : Biryani, South Indian : ₹400 for two :  Pasumalai, Madurai
+Mani Mutton : New : South Indian : ₹400 for two :  KK Nagar, Madurai
+Arumugam Hotel : - : Chinese, South Indian : ₹300 for two :  Vandiyur, Madurai
+Ideal Kitchen : - : Chinese, North Indian : ₹300 for two :  SS Colony, Madurai
+Berry's Cafe : - : Shawarma, Street Food, Fast Food, Juices, Shake, Beverages : ₹250 for two :  Othakadai, Madurai
+12 O Clock Biriyani : - : Biryani, South Indian, Chinese, North Indian : ₹400 for two :  Pandian Nagar, Madurai
+Billal Asha Hotel : - : Biryani, Chinese, South Indian : ₹250 for two :  Pandian Nagar, Madurai
+12'o Clock Biriyani : - : Biryani, Chinese, North Indian : ₹500 for two :  Pandian Nagar, Madurai
+New Mass Hotel : - : Biryani, Chinese, South Indian : ₹300 for two :  Othakadai, Madurai
+Pechiamman Milk Depot Restaurant : - : South Indian : ₹150 for two :  Pandian Nagar, Madurai
+Karaikudi Mess : - : South Indian, Mughlai, Seafood, Fast Food, North Indian : ₹300 for two :  Othakadai, Madurai
+Simmakkal Konar Kadai Since 1943 : - : South Indian, Biryani, Seafood, Chinese, Desserts : ₹450 for two :  Othakadai, Madurai
+Aasife Biriyani : New : Biryani, Chinese, South Indian, Seafood : ₹1,100 for two :  Pandian Nagar, Madurai
+Meenakshi Bhavan : New : Chinese, South Indian : ₹300 for two :  Othakadai, Madurai
+Hotel NK : - : Street Food, South Indian : ₹300 for two :  Othakadai, Madurai
+Anjugam Chettinadu Hotel : - : Chinese, Biryani, South Indian : ₹250 for two :  Iyer Bungalow, Madurai
+Mathina Backet Biryani : - : Biryani : ₹400 for two :  Pandian Nagar, Madurai
+New Panju Vilas Non Veg Hotel : 3.3 : South Indian, Biryani : ₹200 for two :  Othakadai, Madurai
+Hotel New Mass : 3.5 : South Indian, Chinese : ₹300 for two :  Pandian Nagar, Madurai
+Masha Hotel : 3.2 : South Indian, Chinese : ₹200 for two :  Othakadai, Madurai
+Susi Tiffen Centre : - : South Indian : ₹200 for two :  Othakadai, Madurai
+Hotel Ado : - : South Indian, Chinese, Biryani : ₹200 for two :  Othakadai, Madurai
+Hotel Appathas : - : Biryani, South Indian : ₹300 for two :  Pandian Nagar, Madurai
+New Hass Hotel : 3.9 : South Indian, Chinese : ₹250 for two :  Othakadai, Madurai
+PKG Chappathi Corner : 3.0 : South Indian : ₹100 for two :  Pandian Nagar, Madurai
+Hotel New Mass : - : South Indian, Chinese : ₹400 for two :  Pandian Nagar, Madurai
+Sree Shanmugha Mess : 3.3 : North Indian, Mughlai, Seafood, South Indian, Biryani, Chinese : ₹750 for two :  Othakadai, Madurai
+S.S. Aasha Unavagam : - : South Indian, Biryani : ₹400 for two :  Pandian Nagar, Madurai
+Vaanavil Juice & Hot Snacks : 3.8 : Beverages, Juices, Chinese, Fast Food, Shake, Pizza : ₹300 for two :  Iyer Bungalow, Madurai
+Vaanavil Juice & Hot Snacks : - : Beverages, Juices, Chinese, Fast Food, Shake, Pizza : ₹300 for two :  Iyer Bungalow, Madurai
+Madurai Famous Jigarthanda : 3.3 : Ice Cream, Desserts : ₹300 for two :  Avaniyapuram, Madurai
+I Foodie : - : South Indian, Chinese, Biryani, Seafood : ₹350 for two :  Othakadai, Madurai
+Amma's Kitchen : - : South Indian, North Indian, Biryani, Chinese : ₹450 for two :  Doak Nagar, Madurai
+Janani Mess : - : South Indian : ₹250 for two :  Othakadai, Madurai
+Meenakshi Bhavan : - : South Indian, North Indian, Chinese, Beverages : ₹600 for two :  Koodal Nagar, Madurai
+Temple City Bakes Cafe : - : Sandwich, Salad, Pizza, Chinese, Pasta, Fast Food, Desserts, Shake : ₹300 for two :  Othakadai, Madurai
+Bro Code Family Restaurant : - : North Indian, Chinese : ₹300 for two :  Othakadai, Madurai
+Chicken Encounter : - : Pizza, Sandwich, Shawarma, Fast Food, Chinese, BBQ, Shake, Beverages : ₹300 for two :  Othakadai, Madurai
+Chennai Sultan Biryani : - : Biryani, Chinese : ₹300 for two :  Othakadai, Madurai
+Cafe 7 : - : Fast Food, Beverages : ₹450 for two :  Othakadai, Madurai
+Mugunda Grand Orappu Restaurant : - : South Indian, Biryani : ₹450 for two :  Othakadai, Madurai

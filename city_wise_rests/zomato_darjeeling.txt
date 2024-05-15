@@ -1,0 +1,12 @@
+KFC : 3.9 : Burger, Fast Food, Rolls : ₹400 for two :  Chauk Bazaar, Darjeeling
+Park : 4.9 : Tibetan, North Indian, Chinese, Beverages : ₹800 for two :  Limbugaon, Darjeeling
+Dekeva's Restaurant : 4.1 : Tibetan, Chinese : ₹200 for two :  Chauk Bazaar, Darjeeling
+Utsav Biryani House : 3.4 : Biryani, Chinese : ₹350 for two :  Chauk Bazaar, Darjeeling
+Lazeez Affaire : 3.3 : South Indian, North Indian, Chinese : ₹500 for two :  Chauk Bazaar, Darjeeling
+Noryang Tibetan Kitchen : - : Tibetan : ₹300 for two :  Limbugaon, Darjeeling
+Noor The Biryani House : 3.5 : North Indian, Asian, Mughlai, Chinese, Kebab, Beverages : ₹550 for two :  Chauk Bazaar, Darjeeling
+Nanking Restaurant : 4.0 : Italian, Chinese, North Indian, Beverages, Shake : ₹400 for two :  Limbugaon, Darjeeling
+Nawang's Restaurant : - : Bengali : ₹200 for two :  Limbugaon, Darjeeling
+Subway : 3.4 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Limbugaon, Darjeeling
+Simla Bar & Restaurant : 3.9 : North Indian, Chinese, Mughlai : ₹600 for two :  Chauk Bazaar, Darjeeling
+Sri Marwari Bhojnalaya : 3.8 : North Indian : ₹150 for two :  Chauk Bazaar, Darjeeling

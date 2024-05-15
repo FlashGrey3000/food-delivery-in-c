@@ -1,0 +1,12 @@
+Sagar Ratna : 4.4 : South Indian, North Indian, Chinese, Fast Food, Pasta : ₹250 for two :  Tagore Town, Allahabad
+McDonald's : 4.1 : Burger, Fast Food, Beverages, Coffee, Cafe : ₹500 for two :  Civil Lines, Allahabad
+EDEN By Connoisseur : 4.6 : North Indian, Chinese, Continental, Asian, Shake : ₹1,000 for two :  Civil Lines, Allahabad
+Barbeque Nation : 4.9 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,550 for two :  George Town, Allahabad
+Momo Street : 3.8 : Momos, Chinese, Burger, Rolls, Sandwich, Beverages : ₹250 for two :  Katra, Allahabad
+Xero Degrees : - : Cafe, Coffee, Pizza, Italian, Chinese, Waffle, Shake, Beverages : ₹1,000 for two :  Civil Lines, Allahabad
+Rominus Pizza And Burger : 3.4 : Pizza, Fast Food, Pasta, Burger, Wraps, Beverages : ₹400 for two :  Colonel Ganj, Allahabad
+Makkhan's : 4.5 : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages : ₹750 for two :  Civil Lines, Allahabad
+Alimento : 3.9 : North Indian, Cafe, Italian, Asian, Chinese, Pizza, Continental, Desserts : ₹1,300 for two :  Ashok Nagar, Allahabad
+Amritsari Haveli : - : North Indian, Chinese, Desserts, Beverages : ₹700 for two :  Civil Lines, Allahabad
+The Baking Co: By El Chico Since 1964 : 3.9 : Bakery, Fast Food, Desserts, Ice Cream, Cafe, Sandwich : ₹300 for two :  Civil Lines, Allahabad
+Humsafar Restaurant : - : North Indian, Chinese : ₹500 for two :  Civil Lines, Allahabad

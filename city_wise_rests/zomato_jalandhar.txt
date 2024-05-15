@@ -1,0 +1,480 @@
+Aggarwal Vaishno Dhaba : 4.6 : North Indian, Chinese, Desserts, Fast Food : ₹350 for two :  Model Town, Jalandhar
+Nik Baker's : 4.5 : Bakery, Desserts, Fast Food, Sandwich, Burger : ₹500 for two :  Model Town, Jalandhar
+Aangan Cafe : 4.1 : North Indian, Chinese, Fast Food, Street Food, Beverages, Shake, Tea : ₹500 for two :  Shastri Nagar, Jalandhar
+Biryani By Kilo : 4.2 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹700 for two :  Urban Estate, Jalandhar
+Yummy Delicious Till Last Bite : 3.6 : Fast Food, Pizza, Chinese, Desserts, Beverages, Burger, Sandwich, Shake : ₹500 for two :  Model Town, Jalandhar
+AMPM - Khao Piyo Jiyo : 4.1 : North Indian, South Indian, Chinese, Continental, Street Food, Fast Food, Desserts, Beverages : ₹700 for two :  Model Town, Jalandhar
+Hari Burger : New : Burger, Italian, Sandwich, Pizza, Fast Food, Beverages, Chinese, Pasta : ₹300 for two :  Adarsh Nagar, Jalandhar
+Subway : 3.6 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Nakodar Road, Jalandhar
+AB's - Absolute Barbecues : 4.9 : Biryani, BBQ, Kebab, North Indian, Desserts : ₹1,700 for two :  Model Town, Jalandhar
+The Reefer Café & Eatery : 4.0 : Mexican, Sandwich, Pasta, Fast Food, Bar Food, Continental, Oriental, Beverages : ₹1,500 for two :  Model Town, Jalandhar
+Zoca Cafe : 4.2 : Italian, Continental, North Indian, Chinese, Oriental, Cafe, Beverages, Coffee : ₹950 for two :  Urban Estate, Jalandhar
+Pizza Hut : 3.9 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Rama Mandi, Jalandhar
+Desserts House : 4.4 : Desserts, Waffle, Ice Cream, Street Food, Burger, Sandwich, Fast Food, Shake : ₹350 for two :  Model Town, Jalandhar
+Xero Degrees : 3.7 : Pizza, Pasta, Sandwich, American, Burger, Fast Food, Coffee, Beverages : ₹600 for two :  Model Town, Jalandhar
+Caldo's Cafe & Lounge : 4.0 : Cafe, Beverages, Pizza, Burger, Sandwich, Fast Food, Mexican, Desserts : ₹650 for two :  Model Town, Jalandhar
+Aman Chicken Ludhiana Wale Since 1985 : 3.8 : North Indian, Biryani : ₹1,000 for two :  Shastri Nagar, Jalandhar
+McDonald's : 4.3 : Burger, Fast Food, Beverages, Coffee, Cafe : ₹500 for two :  Shastri Nagar, Jalandhar
+Makhan Veg Dhaba & Hotel Family Restaurant : 4.4 : North Indian, Chinese, Biryani, Pizza, Burger, Sandwich, Desserts : ₹500 for two :  Adarsh Nagar, Jalandhar
+Sagar Ratna : 4.1 : South Indian, North Indian : ₹600 for two :  Shastri Nagar, Jalandhar
+SHANGZ : 3.1 : Asian, Thai, Momos, Continental : ₹1,500 for two :  Model Town, Jalandhar
+Burger King : 3.4 : Burger, Fast Food, Beverages : ₹350 for two :  Model Town, Jalandhar
+The Permit House : New : North Indian, Chinese, Fast Food, Desserts : ₹550 for two :  Model Town, Jalandhar
+Muscleholics : 3.9 : Healthy Food, Fast Food, Beverages, Salad, Shake, Sandwich, Wraps : ₹400 for two :  PPR Market, Jalandhar
+Tapa Toro - Restro Bar : 4.0 : Chinese, Continental, Korean, Mexican, North Indian, Italian : ₹1,000 for two :  Shastri Nagar, Jalandhar
+Neel's : 4.3 : Cafe, Sandwich, Fast Food, Shake, Beverages : ₹500 for two :  GT Road, Jalandhar
+Parkash Bakery : 3.9 : Fast Food, Sandwich, Pizza, Beverages, Shake : ₹350 for two :  Model Town, Jalandhar
+Aar Kay Vaishno Dhaba : - : North Indian, Beverages : ₹400 for two :  Nakodar Road, Jalandhar
+The Whyte Bar & Cafe : 4.1 : Bar Food, North Indian, Continental, Asian, Sushi, Salad, Waffle, Beverages : ₹1,500 for two :  Model Town, Jalandhar
+1830 Pizzeria & Taproom : 3.6 : North Indian, Pizza, Pasta, Italian, Salad, Desserts : ₹1,000 for two :  Shastri Nagar, Jalandhar
+Theobroma : 3.7 : Bakery, Desserts : ₹200 for two :  Model Town, Jalandhar
+Chick Chick : 3.9 : North Indian, Chinese : ₹400 for two :  Adarsh Nagar, Jalandhar
+Amul Ice Cream Parlour : 4.4 : Ice Cream, Desserts, Beverages : ₹250 for two :  GT Road, Jalandhar
+Kanta Chhuri : 3.9 : North Indian, South Indian, Chinese, Continental, Desserts, Beverages : ₹550 for two :  Adarsh Nagar, Jalandhar
+34th August : 4.3 : Continental, Pizza, Sandwich, Pasta, Beverages, Coffee, Italian : ₹1,500 for two :  Model Town, Jalandhar
+Notorious : 4.1 : North Indian, Chinese, Sushi, Continental, Italian, Seafood, Salad, Desserts : ₹1,000 for two :  Shastri Nagar, Jalandhar
+Bikanervala : 4.1 : Mithai, Street Food, North Indian : ₹500 for two :  Model Town, Jalandhar
+The Brew Times : New : Italian, Continental, North Indian, Mughlai, Seafood, Desserts, Shake : ₹1,000 for two :  Model Town, Jalandhar
+Tokyo Pan Asian Restro Bar - Ramada Jalandhar : - : Asian, Seafood, Japanese, Finger Food, Desserts : ₹1,600 for two :  Shastri Nagar, Jalandhar
+Mr. Delicious Delight : - : Pizza, Pasta, Sandwich, Fast Food, Waffle, Pancake, Desserts, Shake : ₹500 for two :  Model Town, Jalandhar
+Papa Whiskey : 2.7 : Bar Food, Italian, North Indian, Desserts, Kebab, Mughlai : ₹2,000 for two :  Model Town, Jalandhar
+The Heaven Cafe : 3.9 : Cafe, Coffee, Sandwich, Pasta, Pizza, Bakery, Desserts, Shake : ₹850 for two :  PPR Market, Jalandhar
+Head Quarter's : 3.9 : Continental, Chinese, North Indian, Fast Food, Sandwich, Pizza, Sichuan, Beverages : ₹1,000 for two :  Urban Estate, Jalandhar
+Baba Chicken Johal Market : 3.9 : North Indian, Mughlai : ₹650 for two :  Model Town, Jalandhar
+Old Kartar Vaishno Dhaba : New : North Indian : ₹300 for two :  Shastri Nagar, Jalandhar
+T.G.R. : 4.2 : Continental, North Indian, Sandwich, Wraps, Desserts : ₹700 for two :  Urban Estate, Jalandhar
+Grill Affair : 2.8 : North Indian, BBQ : ₹1,000 for two :  Urban Estate, Jalandhar
+Seven Heaven : 4.4 : Pizza, Fast Food, Burger, Beverages, Sandwich, Shake : ₹500 for two :  Model House, Jalandhar
+Manni Dhaba : 3.9 : North Indian : ₹200 for two :  Shastri Nagar, Jalandhar
+The Coffee Bean & Tea Leaf : 4.1 : Coffee, Cafe, Fast Food, Pizza, Sandwich, Desserts, Bakery, Beverages : ₹700 for two :  Model Town, Jalandhar
+Dashmesh Vaishno Dhaba : - : North Indian, Chinese, Desserts : ₹300 for two :  Rama Mandi, Jalandhar
+Tummy's Drive : 4.2 : Burger, Fast Food, Shake : ₹350 for two :  Model Town, Jalandhar
+Bittu Pardesi : 3.9 : Street Food, South Indian, Fast Food, Desserts : ₹300 for two :  Model Town, Jalandhar
+Moti Mahal Delux : 4.0 : North Indian, Mughlai, Biryani, Desserts, Beverages, Kebab : ₹700 for two :  Urban Estate, Jalandhar
+Kartar Manni Dhaba : 3.7 : North Indian, Chinese : ₹250 for two :  Transport Nagar, Jalandhar
+Al-Zaika Chicken Corner : - : North Indian, Biryani, BBQ : ₹500 for two :  Shastri Nagar, Jalandhar
+Tawa Parat : 4.3 : North Indian, Mughlai, Fast Food, Chinese : ₹600 for two :  Model Town, Jalandhar
+Walaiti Food : 3.2 : Pizza, Fast Food, Beverages, Shake : ₹300 for two :  Adarsh Nagar, Jalandhar
+Guru Kirpa Pure Vegetarian Food : 4.1 : North Indian, Chinese, Fast Food, Beverages : ₹400 for two :  GT Road, Jalandhar
+La Pino'z Pizza : 3.6 : Pizza, Pasta, Italian, Fast Food : ₹400 for two :  Shastri Nagar, Jalandhar
+Sweety Juice Bar & Restaurant : 4.2 : Beverages, Burger, Chinese, South Indian, Fast Food, Pizza, Desserts, Shake : ₹350 for two :  Shastri Nagar, Jalandhar
+Peddlers : 3.6 : North Indian, Continental, Italian, Chinese : ₹1,500 for two :  Model Town, Jalandhar
+Kake Da Hotel : 4.2 : North Indian, Chinese, Mughlai, Biryani, Rolls, Continental, Desserts, Beverages : ₹1,000 for two :  Rama Mandi, Jalandhar
+Loranngo : 3.7 : Cafe, Coffee, Pizza, Burger, Sandwich, Pasta, Shake, Beverages : ₹500 for two :  Model Town, Jalandhar
+The Throwback Story : 3.6 : North Indian, Mughlai, Continental, Chinese, Fast Food, Beverages : ₹850 for two :  Model Town, Jalandhar
+Super Cremica Sweets : 4.0 : Desserts, Ice Cream, Beverages : ₹250 for two :  Shastri Nagar, Jalandhar
+Chatterbox : 3.7 : Finger Food, Continental, Italian, Sandwich, Salad, Fast Food : ₹800 for two :  Shastri Nagar, Jalandhar
+Terroni By Caramellow Bakery : 3.6 : Bakery, Desserts : ₹350 for two :  Urban Estate, Jalandhar
+Gfc Chaap Hub : 3.9 : Rolls, North Indian : ₹300 for two :  Adarsh Nagar, Jalandhar
+Snoffle : 4.6 : Cafe, Italian, Pizza, Sandwich, Burger, Wraps, Coffee, Beverages : ₹700 for two :  Shastri Nagar, Jalandhar
+Crispy Fried Chicken : - : Burger, Wraps, Italian, Fast Food, Shake, Beverages : ₹400 for two :  Model House, Jalandhar
+The Smilling Pizza : - : Pizza, Burger, Pasta, Fast Food : ₹450 for two :  Adarsh Nagar, Jalandhar
+Hot Drive : New : North Indian, Chinese, Fast Food : ₹300 for two :  Adarsh Nagar, Jalandhar
+Retro By Cakewaali : 4.0 : Cafe, Coffee, Bakery, Continental, Fast Food, Salad, Shake, Beverages : ₹1,000 for two :  Model Town, Jalandhar
+Domino's Pizza : 4.8 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  GT Road, Jalandhar
+Pitstop - The American Diner : 4.9 : Sandwich, Burger, Continental, Fast Food, Desserts, Beverages : ₹600 for two :  Model Town, Jalandhar
+Greko Espresso Bar : 3.4 : Cafe, Coffee, Tea, Shake, Bar Food, Beverages : ₹1,000 for two :  Model Town, Jalandhar
+Manni Vaishno Dhaba : 2.9 : North Indian : ₹300 for two :  Shastri Nagar, Jalandhar
+Buland By Bash Cakes : 3.2 : Coffee, Healthy Food, Sandwich : ₹300 for two :  Urban Estate, Jalandhar
+La Pino'z Pizza : 3.5 : Pizza, Pasta, Italian, Fast Food : ₹400 for two :  PPR Market, Jalandhar
+Hungry Point : 3.3 : Pizza, Pasta, Burger : ₹300 for two :  GT Road, Jalandhar
+Parkash Ice Cream : 3.9 : Ice Cream : ₹200 for two :  Adarsh Nagar, Jalandhar
+Mithi Nimki : - : Cafe, Coffee, Sandwich, Chinese, Salad, Fast Food, North Indian, Beverages : ₹600 for two :  PPR Market, Jalandhar
+Roadies Koffeehouz : 4.0 : Cafe, Coffee, Continental, Mexican, Fast Food, Salad, Italian, Desserts : ₹1,100 for two :  PPR Market, Jalandhar
+Hunger's Villa : 3.7 : Fast Food, Beverages : ₹400 for two :  Rama Mandi, Jalandhar
+The Balcony Cafe & Grill : - : North Indian, Chinese, Pizza, Fast Food, Continental, Wraps, Mughlai, Sandwich : ₹900 for two :  Urban Estate, Jalandhar
+ARK Vaishno Dhaba : 3.7 : North Indian, Chinese : ₹200 for two :  Maqsudan, Jalandhar
+Spicy Chaap Corner : - : North Indian, Rolls, Chinese, Beverages : ₹400 for two :  Adarsh Nagar, Jalandhar
+Figaro's Pizza : 3.0 : Pizza, Fast Food : ₹450 for two :  Urban Estate, Jalandhar
+Anil Fast Food And Ice Cream : - : Fast Food, Chinese, Pizza, South Indian, Beverages : ₹400 for two :  Adarsh Nagar, Jalandhar
+Vanakkam : - : South Indian, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹450 for two :  Model Town, Jalandhar
+De Nuevo : 3.9 : North Indian, Continental, Italian, Fast Food : ₹1,500 for two :  Model Town, Jalandhar
+The Spice Library & Cafe : 3.9 : North Indian, Italian, Fast Food, Beverages : ₹800 for two :  Model Town, Jalandhar
+Brgr Shurger : 4.1 : Fast Food, Salad, Burger : ₹400 for two :  Model Town, Jalandhar
+Yummy Bitee Ladhewali : 3.6 : Pizza, Chinese, Fast Food, Beverages : ₹400 for two :  Rama Mandi, Jalandhar
+Midway Healthy Meal : 4.0 : Salad, Desserts, Sandwich, Juices, Beverages, Shake : ₹400 for two :  Model Town, Jalandhar
+Nanak Vegetarian Dhaba : 3.4 : North Indian, Fast Food, South Indian, Chinese, Pizza, Sandwich, Burger, Beverages : ₹450 for two :  Adarsh Nagar, Jalandhar
+Bliss Vaishno Dhaba : - : North Indian, Desserts, Beverages, Biryani, Continental : ₹400 for two :  Shastri Nagar, Jalandhar
+Salad Master : 4.1 : Salad, Sandwich, Burger, Rolls, Pizza, Fast Food, Healthy Food, Beverages : ₹450 for two :  Model Town, Jalandhar
+Tripti Foods - Ambala Wale : 3.8 : North Indian, Pizza, Fast Food, Chinese, Italian, South Indian, Salad, Beverages : ₹750 for two :  Model Town, Jalandhar
+Mango Tree : 4.3 : Asian, Salad, Coffee, Shake, Beverages : ₹700 for two :  Model Town, Jalandhar
+ASF - American Style Fried : 3.4 : Fast Food, Burger, Beverages : ₹400 for two :  GT Road, Jalandhar
+Connexions - Ramada Jalandhar : 4.1 : North Indian : ₹900 for two :  Shastri Nagar, Jalandhar
+M5 Buffet : 4.0 : North Indian : ₹500 for two :  PPR Market, Jalandhar
+Baithak : 3.9 : North Indian, Chinese, Fast Food : ₹400 for two :  Model Town, Jalandhar
+Parry's Pizzeria : 3.9 : Pizza, Pasta, BBQ, Fast Food, Chinese, Shake : ₹350 for two :  Model Town, Jalandhar
+The London Shakes Ladhewali : 4.0 : Pizza, Continental, Shake, Burger, Sandwich, Chinese, Beverages, Italian : ₹400 for two :  Rama Mandi, Jalandhar
+Chhabra Sweets & Delights : 3.9 : Mithai, Street Food, Fast Food, Desserts, North Indian, Beverages : ₹300 for two :  Nakodar Road, Jalandhar
+C2H5OH By Smaaash : 3.7 : North Indian, Italian, Chinese, Continental : ₹1,800 for two :  Urban Estate, Jalandhar
+Mata Da Dhaba : 3.9 : North Indian : ₹300 for two :  Adarsh Nagar, Jalandhar
+King Restaurant : 2.9 : North Indian, Fast Food, South Indian, Chinese, Beverages, Desserts : ₹400 for two :  Maqsudan, Jalandhar
+Diet Master : 3.3 : Healthy Food, Salad, Burger, Sandwich, Fast Food : ₹300 for two :  Model Town, Jalandhar
+GCF The Chaap Hub : 3.4 : North Indian, Rolls, Street Food : ₹300 for two :  Shastri Nagar, Jalandhar
+Orobite : 4.1 : Fast Food, Wraps, Sandwich, Pizza, Burger, Salad, North Indian, Shake : ₹500 for two :  Adarsh Nagar, Jalandhar
+Coffizza Cafe & Restro : 3.9 : Cafe, Coffee, Pizza, Sandwich, Fast Food, Shake, Desserts, Beverages : ₹700 for two :  GT Road, Jalandhar
+Burgrill -  Biggest And Best Burger In Town : 3.6 : Burger, Healthy Food, Wraps : ₹300 for two :  Urban Estate, Jalandhar
+Vimpi's : 4.0 : Continental, Pizza, Burger, Fast Food, Chinese, North Indian, Sandwich : ₹700 for two :  Shastri Nagar, Jalandhar
+The Ghanshyam Amritsar Mithaiwale : 4.2 : Mithai, Street Food : ₹300 for two :  Model Town, Jalandhar
+WHT BLK Art Coffee House : 4.2 : Cafe, Coffee, Sandwich, Pasta, Fast Food, Salad, Desserts, Beverages : ₹1,000 for two :  Model Town, Jalandhar
+Pankaj Chick Chick Dhaba : 3.9 : North Indian : ₹300 for two :  Urban Estate, Jalandhar
+Mughliaaz : 3.0 : North Indian, Mughlai, Biryani : ₹1,000 for two :  Urban Estate, Jalandhar
+The Barrels - Ramada Jalandhar : 3.0 : Bar Food : ₹1,500 for two :  Shastri Nagar, Jalandhar
+Kartar Vaishno Dhaba : 3.6 : North Indian, Chinese, Mughlai, Desserts : ₹300 for two :  Shastri Nagar, Jalandhar
+The Factory Cafe : 3.9 : Fast Food, Chinese : ₹100 for two :  Urban Estate, Jalandhar
+The Belgian Waffle Co. : 4.1 : Waffle, Pancake, Desserts, Beverages, Ice Cream : ₹300 for two :  Model Town, Jalandhar
+The Regent Park Hotel : 3.8 : North Indian, Chinese, Biryani, Pizza : ₹700 for two :  Nakodar Road, Jalandhar
+Tiffany's : 3.5 : Continental, European, Oriental, North Indian, Desserts, Beverages : ₹3,000 for two :  Radisson Blue, Jalandhar
+Central Green : New : North Indian, Fast Food, Chinese : ₹300 for two :  Shastri Nagar, Jalandhar
+Shaolin By Vimpi's : - : Chinese, Fast Food, Asian, Sichuan, Desserts : ₹500 for two :  Shastri Nagar, Jalandhar
+Sainik Chicken Corner : - : North Indian, Chinese, Mughlai, Biryani : ₹600 for two :  Shastri Nagar, Jalandhar
+Kamal Vaishno Dhaba : 3.9 : North Indian : ₹300 for two :  Model Town, Jalandhar
+Bonfire : 3.6 : North Indian, Chinese, Fast Food, Mughlai, Biryani, Beverages : ₹400 for two :  PPR Market, Jalandhar
+Brittoz : 3.7 : North Indian, Mughlai, Asian, Italian : ₹550 for two :  Urban Estate, Jalandhar
+I Love Desserts : 3.9 : Desserts, Fast Food, Beverages, Shake, Pancake, Ice Cream, Sandwich, Burger : ₹150 for two :  Model Town, Jalandhar
+Burger Singh - Big Punjabi Burgers : 3.6 : Burger, American, North Indian, Fast Food, Street Food, Desserts, Beverages : ₹300 for two :  Model Town, Jalandhar
+Prithvi's Planet : 3.9 : Chinese, Continental, North Indian, Mughlai, Thai, Desserts : ₹1,500 for two :  Model Town, Jalandhar
+Shama Chicken Corner : - : North Indian, Kebab, Rolls, Biryani : ₹500 for two :  Nakodar Road, Jalandhar
+Bhaj Govindam : - : North Indian : ₹300 for two :  Urban Estate, Jalandhar
+Hungritos Cafe & Grill : 3.9 : Pizza, Fast Food, Chinese, Beverages, Sichuan : ₹450 for two :  Urban Estate, Jalandhar
+Amritsar Haveli : 3.9 : North Indian, South Indian, Chinese, Beverages, Desserts : ₹700 for two :  Urban Estate, Jalandhar
+Winni Cakes & More : 4.0 : Bakery, Pizza, Fast Food, Street Food : ₹500 for two :  Model Town, Jalandhar
+Ghai Bakers Kitchen : 3.7 : South Indian, North Indian, Chinese : ₹600 for two :  Model House, Jalandhar
+Chick Chick PPR : 4.8 : North Indian, Mughlai, Chinese, Seafood : ₹550 for two :  PPR Market, Jalandhar
+Pizza Roberto : - : Pizza, Fast Food, Chinese, Beverages : ₹400 for two :  Adarsh Nagar, Jalandhar
+Yummy Bitee : 4.0 : Chinese, Pizza, Fast Food : ₹400 for two :  Rama Mandi, Jalandhar
+RS Khurana Food Corner : 3.5 : South Indian, Fast Food, Juices, Beverages : ₹300 for two :  Shastri Nagar, Jalandhar
+Razzmatazz Cafe : 4.2 : Fast Food, Pizza, Pasta, Continental, Chinese, North Indian, Coffee, Beverages : ₹1,200 for two :  Nakodar Road, Jalandhar
+King Omelette : 3.7 : Rolls, Salad, Healthy Food, Sandwich, Burger, Fast Food, Street Food : ₹300 for two :  Adarsh Nagar, Jalandhar
+Nirankari Dhaba Pure Vegetarian : 3.5 : North Indian : ₹350 for two :  Rama Mandi, Jalandhar
+Panwar Fast Food & Rasoi : - : North Indian, Chinese, Fast Food, Beverages : ₹400 for two :  GT Road, Jalandhar
+The Beer Cafe : 3.8 : North Indian, Rolls, Desserts, Continental, Beverages : ₹1,000 for two :  Shastri Nagar, Jalandhar
+The Pizza Factory : 3.8 : Sandwich, Pizza, Beverages : ₹400 for two :  Model Town, Jalandhar
+Pizza World : 3.6 : Pizza, Burger, Sandwich, Pasta, Italian, Beverages : ₹300 for two :  GT Road, Jalandhar
+Jawali's Jalandhar Cantt Wale : 3.7 : Fast Food, South Indian, North Indian, Chinese, Continental, Street Food : ₹100 for two :  Shastri Nagar, Jalandhar
+Basant Continental : 3.9 : Continental, North Indian, Chinese, Pizza, Bihari, Burger, Sandwich, Fast Food : ₹600 for two :  Adarsh Nagar, Jalandhar
+Inderprasth Khana Khazana : - : North Indian, Chinese, Beverages : ₹500 for two :  Model House, Jalandhar
+Sarb Food Court : 4.3 : North Indian, Mughlai, Chinese, Fast Food, Street Food, South Indian, Desserts, Beverages : ₹400 for two :  Transport Nagar, Jalandhar
+Snacker's Point : 3.9 : Pizza, Burger, Sandwich, Fast Food, Chinese, Shake, Tea, Beverages : ₹250 for two :  Maqsudan, Jalandhar
+Heat 7 Family Restaurant : 3.8 : Fast Food, Chinese, North Indian, Mughlai, BBQ, Beverages, Pizza, Pasta : ₹600 for two :  Shastri Nagar, Jalandhar
+Victuals : 3.9 : Chinese, Oriental, Mexican : ₹400 for two :  Model Town, Jalandhar
+Chawla's  Veg & Non Veg : 3.2 : North Indian, Mughlai, Chinese : ₹400 for two :  Urban Estate, Jalandhar
+Gianis - Ice Cream, Shakes & Sundaes : 3.3 : Ice Cream, Desserts, Beverages : ₹400 for two :  Urban Estate, Jalandhar
+Virasat Punjabi Dhaba : - : North Indian, Mughlai, Biryani, Fast Food, Kebab, Chinese : ₹550 for two :  Transport Nagar, Jalandhar
+Daily Dose : 4.0 : Cafe, Pizza, Burger, Sandwich, Fast Food, Beverages : ₹250 for two :  Model Town, Jalandhar
+Kwality Chick Chick : 4.0 : North Indian, Chinese, Mughlai, Biryani : ₹500 for two :  Adarsh Nagar, Jalandhar
+S.K Dhaba Vegetarian : 3.4 : North Indian, Chinese, Biryani, Beverages : ₹350 for two :  Model Town, Jalandhar
+George The Irish Pub Co : New : North Indian, Pizza, American, Chinese, Pasta : ₹1,000 for two :  Model Town, Jalandhar
+Jain Sweet Shop : 4.0 : Chinese, Fast Food, Street Food, South Indian, Burger, Momos : ₹250 for two :  Maqsudan, Jalandhar
+Dimsum Kitchen : - : Chinese, Pizza, Burger, Momos, Rolls, Fast Food : ₹400 for two :  Rama Mandi, Jalandhar
+Nanak Fast Food : 3.2 : Fast Food, Chinese, North Indian, South Indian, Beverages, Pizza, Sandwich : ₹500 for two :  Adarsh Nagar, Jalandhar
+Karim's : 3.6 : North Indian, Mughlai, Rolls, Biryani, Desserts : ₹800 for two :  Urban Estate, Jalandhar
+Yummy Bitee : 3.1 : Pizza, Burger, Sandwich, Fast Food, Chinese, Beverages : ₹600 for two :  GT Road, Jalandhar
+Olive Grill : 4.2 : North Indian, Continental, Chinese, Seafood, Lebanese, Fast Food, Sandwich, Pizza : ₹1,000 for two :  Model Town, Jalandhar
+Common Room : 4.2 : Beverages, Burger, Coffee, Healthy Food, Pasta, Pizza, Salad, Sandwich : ₹400 for two :  Urban Estate, Jalandhar
+Adi's Cafe N Dine : 4.1 : Pizza, Beverages, Sandwich, Fast Food, North Indian, Chinese, Desserts : ₹400 for two :  GT Road, Jalandhar
+The Great Kabab Factory : 4.8 : Kebab, North Indian : ₹1,000 for two :  Radisson Blue, Jalandhar
+Al Kareem Restaurant : 3.8 : North Indian, Mughlai, Biryani : ₹450 for two :  Nakodar Road, Jalandhar
+Spicy Bites : - : Pizza, Burger, Fast Food, Shake : ₹250 for two :  PPR Market, Jalandhar
+The Butcher's Grill : 3.9 : North Indian, Continental, Mughlai, Kebab, Rolls : ₹1,000 for two :  PPR Market, Jalandhar
+Mix ‘n Match - The Maya Hotel : 2.8 : Asian, European, North Indian, Pizza, Fast Food : ₹800 for two :  Shastri Nagar, Jalandhar
+Friends Burger Corner : - : Burger, Fast Food, Street Food : ₹300 for two :  Model House, Jalandhar
+Lovely Sweets : 3.8 : Mithai : ₹300 for two :  Shastri Nagar, Jalandhar
+Pakka Adda : 3.9 : North Indian, Chinese, Rolls, Momos, Wraps, Fast Food, Beverages : ₹250 for two :  GT Road, Jalandhar
+Crispy Tribe : 3.4 : Fast Food, Pasta : ₹300 for two :  Shastri Nagar, Jalandhar
+Riyasat Rooftop Restaurant : 4.1 : Chinese, North Indian, Mughlai, Seafood, Biryani, Fast Food, Desserts, Beverages : ₹1,200 for two :  Nakodar Road, Jalandhar
+Scuzo Dessert Cafe : 3.1 : Desserts, Ice Cream, Waffle, Shake, Beverages : ₹300 for two :  Urban Estate, Jalandhar
+Nizam Muradabadi Dhaba : - : North Indian, Biryani : ₹550 for two :  Urban Estate, Jalandhar
+Hot Drive PPR : 4.3 : North Indian, Biryani, Chinese, Fast Food, Momos, Beverages : ₹300 for two :  Adarsh Nagar, Jalandhar
+Shahi Daawat Dhaba : 3.9 : North Indian, Mughlai : ₹450 for two :  Shastri Nagar, Jalandhar
+Fresh Bites : 4.1 : Fast Food : ₹200 for two :  Nakodar Road, Jalandhar
+The Chai Cafe : 3.2 : Tea, Fast Food : ₹300 for two :  PPR Market, Jalandhar
+Orchid - Fortune Avenue : 3.5 : North Indian, Fast Food, Oriental, Chinese : ₹1,300 for two :  Shastri Nagar, Jalandhar
+Biryani Dil Se! : - : Biryani, North Indian, Rolls : ₹400 for two :  GT Road, Jalandhar
+Burger Boyz : - : Fast Food, Burger, Pasta, Beverages : ₹300 for two :  Model Town, Jalandhar
+Punjabi Chaska : - : North Indian, Chinese, Kebab, Mughlai : ₹500 for two :  Urban Estate, Jalandhar
+Always Fresh : - : Fast Food, Sandwich, Burger, Wraps, Pasta, Street Food, Shake, Beverages : ₹400 for two :  Adarsh Nagar, Jalandhar
+Rocky's Wood Fired Kitchen : - : Chinese, Beverages, Italian, Grilled Chicken, BBQ : ₹1,000 for two :  Urban Estate, Jalandhar
+Baba's Kitchen : 3.9 : North Indian, Mughlai, Biryani, Chinese, Beverages : ₹400 for two :  Model Town, Jalandhar
+Dr Deo'z Pizza & Cafe : 3.7 : Pizza, Fast Food, Sandwich, Burger, Pasta, Wraps, Shake, Desserts : ₹300 for two :  GT Road, Jalandhar
+AFC - American Fried Chicken : - : Burger, Fast Food : ₹400 for two :  PPR Market, Jalandhar
+JP Pizzeria : - : Pizza, Sandwich, Pasta : ₹350 for two :  Model Town, Jalandhar
+Chef's Town : 3.8 : North Indian, Street Food : ₹300 for two :  Jalandhar Cantt, Jalandhar
+Rabi Dana Pani Dhaba : 4.4 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹400 for two :  Model House, Jalandhar
+Sanjha Chulla Chaunka : 4.0 : Chinese, North Indian, Biryani : ₹400 for two :  Urban Estate, Jalandhar
+The Urban Angeethi : - : North Indian, Fast Food, Chinese, Mughlai, Biryani : ₹900 for two :  PPR Market, Jalandhar
+Hotel President : 4.1 : North Indian, Mughlai, Chinese, Fast Food, Italian, Beverages : ₹900 for two :  Shastri Nagar, Jalandhar
+Sanbro Restaurant : 3.8 : North Indian, Chinese, Biryani, Fast Food, Pizza, Sandwich, BBQ, Beverages : ₹700 for two :  Transport Nagar, Jalandhar
+Burger Era : 2.4 : Italian, Chinese, American, Pizza, Burger, Sandwich, Pasta, Shake : ₹300 for two :  Adarsh Nagar, Jalandhar
+The Kesar Non-veg Dhaba : - : North Indian, Chinese, Mughlai : ₹450 for two :  Adarsh Nagar, Jalandhar
+Komal Fast Food & Chicken Corner : - : Chinese, Fast Food : ₹400 for two :  Shastri Nagar, Jalandhar
+Sanjha Chulha : New : North Indian, Chinese, Biryani, Fast Food : ₹600 for two :  Model Town, Jalandhar
+Yumla : 4.6 : Fast Food, Wraps, Pizza, North Indian, Beverages : ₹450 for two :  PPR Market, Jalandhar
+Chicken Plaza Dhaba : 3.7 : North Indian, Chinese, Burger, Sandwich, Pizza, Fast Food, Beverages : ₹300 for two :  Maqsudan, Jalandhar
+Ravindera Vaishno Dhaba : 3.9 : North Indian : ₹250 for two :  PPR Market, Jalandhar
+Bansi Wala : 4.1 : North Indian, Chinese, Pizza, Fast Food, Street Food, Desserts, Shake, Beverages : ₹350 for two :  Model Town, Jalandhar
+Hotel Plaza Bar & Restaurant : - : North Indian, Mughlai, Chinese, Beverages, Desserts, Seafood, Finger Food : ₹500 for two :  Shastri Nagar, Jalandhar
+Kathi Kingz : 3.8 : Rolls, Biryani, North Indian, Beverages : ₹350 for two :  Model Town, Jalandhar
+Ganga Juice : - : Beverages, Juices : ₹150 for two :  Shastri Nagar, Jalandhar
+Krrish Food Plaza : New : North Indian, South Indian, Chinese, Burger, Pizza, Sandwich, Fast Food, Street Food : ₹300 for two :  Adarsh Nagar, Jalandhar
+Hotel President New Court : 3.0 : North Indian, Continental, Chinese, Beverages : ₹700 for two :  Shastri Nagar, Jalandhar
+Hunger Fighters : 3.8 : Pizza, Chinese, Fast Food, Burger, Beverages : ₹350 for two :  Adarsh Nagar, Jalandhar
+Uttam Food Court : - : Chinese, North Indian, Street Food, Beverages : ₹400 for two :  Adarsh Nagar, Jalandhar
+Chacha Veg & Non Veg Dhaba : 3.9 : North Indian, Chinese, Italian, Fast Food, Sandwich, Burger : ₹300 for two :  Rama Mandi, Jalandhar
+Play Eat Repeat : - : Mexican, Italian, North Indian, Fast Food, Coffee, Ice Cream, Shake, Beverages : ₹1,100 for two :  Model Town, Jalandhar
+Barista Coffee : 4.2 : Cafe, Coffee, Desserts : ₹650 for two :  Urban Estate, Jalandhar
+Mosaic By Best Western Plus : 4.1 : North Indian, Fast Food, Italian, BBQ : ₹1,000 for two :  Urban Estate, Jalandhar
+Satnamia Da Lovely Dhaba : 3.4 : North Indian : ₹300 for two :  Maqsudan, Jalandhar
+Papa Chicken : 3.8 : North Indian, Chinese, Biryani : ₹400 for two :  Rama Mandi, Jalandhar
+Baskin Robbins - Ice Cream Desserts : 3.7 : Ice Cream, Desserts, Beverages : ₹500 for two :  Model Town, Jalandhar
+Chacha Tikke Wala : 3.7 : North Indian, Chinese, Mughlai, Fast Food, Beverages : ₹500 for two :  Model Town, Jalandhar
+Zig Zag Hungry Point : 3.8 : Fast Food, Burger, Street Food, Beverages : ₹300 for two :  Model House, Jalandhar
+Shalimar Snacks Bar Be Que Since 1978 : 3.5 : North Indian, BBQ : ₹300 for two :  Shastri Nagar, Jalandhar
+Mantra Chick N Fish : - : North Indian, Chinese, Seafood, Mughlai : ₹500 for two :  Nakodar Road, Jalandhar
+B4 Veg & Non Veg Dhaba : 4.0 : North Indian, Mughlai, Chinese, Biryani, Kebab : ₹400 for two :  Adarsh Nagar, Jalandhar
+Pahwa Refreshments : - : Ice Cream, Desserts, Shake : ₹200 for two :  Shastri Nagar, Jalandhar
+Blue Fox Since 1988 : 3.6 : North Indian, Seafood, Biryani, Chinese, Mughlai, Fast Food : ₹1,300 for two :  Model Town, Jalandhar
+Tasty Bites : 3.9 : Chinese, North Indian, Fast Food, Biryani : ₹400 for two :  Jalandhar Cantt, Jalandhar
+Swaad Sweets Pizza & Cafe : 3.8 : Mithai, Chinese, North Indian, Fast Food, Street Food, Pizza, Beverages : ₹350 for two :  Maqsudan, Jalandhar
+Niks Kitchen : 3.4 : North Indian, Chinese, Fast Food : ₹500 for two :  GT Road, Jalandhar
+Cafenea Foods : 3.9 : North Indian, Biryani, Chinese, Fast Food, Beverages : ₹500 for two :  PPR Market, Jalandhar
+Gulu Pizza King : 3.8 : Pizza, Burger, Sandwich, Fast Food, Beverages : ₹400 for two :  Shastri Nagar, Jalandhar
+Street Cafe : 3.9 : Cafe, Fast Food, Burger, Pizza, Sandwich, Beverages, Shake : ₹500 for two :  Urban Estate, Jalandhar
+AM PM Bakers : 3.7 : Bakery, Fast Food : ₹200 for two :  Rama Mandi, Jalandhar
+Bowl Wala : 3.8 : Chinese, Indonesian, Continental, Oriental : ₹650 for two :  PPR Market, Jalandhar
+Kwality Chaat : 3.8 : Street Food, South Indian : ₹200 for two :  Shastri Nagar, Jalandhar
+Baistin Bakers : 4.0 : Bakery, Sandwich, Rolls, Fast Food, Shake, Beverages : ₹200 for two :  Model Town, Jalandhar
+Babita Fast Food : 3.6 : Fast Food, South Indian, Pizza : ₹200 for two :  Model Town, Jalandhar
+Satkartar Refreshment : 3.2 : Street Food, Fast Food, Chinese : ₹200 for two :  Model House, Jalandhar
+Aveda Kamal Palace : 4.1 : North Indian, Continental, Chinese, Beverages, Desserts, Fast Food, Mughlai : ₹1,200 for two :  Shastri Nagar, Jalandhar
+Amritsari Rasoi Dhaba : 3.8 : North Indian, Seafood : ₹500 for two :  PPR Market, Jalandhar
+Cafe Ginger : 4.3 : Continental, Chinese, Biryani, Sandwich, Burger, North Indian, Pizza, Ice Cream : ₹700 for two :  Model Town, Jalandhar
+Danny Boy : - : Fast Food, Sandwich, Pizza, Burger, Pasta, Desserts, Beverages : ₹500 for two :  Model Town, Jalandhar
+Bunkers Place : 4.0 : Pizza, Burger, Fast Food, Shake, Beverages : ₹500 for two :  Adarsh Nagar, Jalandhar
+Brewboom : 4.2 : Beverages, Fast Food, Pizza, Burger, Continental, North Indian, Modern Indian : ₹700 for two :  Model Town, Jalandhar
+Platoon Pizza : - : Pizza, Chinese, Fast Food, North Indian, Pasta : ₹500 for two :  Model Town, Jalandhar
+Sri Krishna Dhaba : 3.7 : North Indian, Chinese : ₹300 for two :  GT Road, Jalandhar
+Fox Trot Restaurant Chinese-Thai : 3.6 : Chinese, Thai, Seafood, Ice Cream : ₹1,200 for two :  Urban Estate, Jalandhar
+Jacks Pizzeria : 3.9 : Pizza, Burger, Fast Food, Beverages : ₹500 for two :  PPR Market, Jalandhar
+Pizzeria : 3.8 : Fast Food, Chinese, South Indian, Desserts, Beverages, Pizza : ₹300 for two :  GT Road, Jalandhar
+Hungry Owl : 4.1 : Chinese, North Indian, Fast Food, Coffee, Tea : ₹350 for two :  Shastri Nagar, Jalandhar
+Satnamiya Prontha Junction : 4.0 : North Indian, Beverages : ₹250 for two :  Adarsh Nagar, Jalandhar
+Mr. Hummus : 4.4 : Lebanese, Fast Food, Beverages : ₹400 for two :  Model Town, Jalandhar
+Ramada Encore : 3.4 : Continental, North Indian, Mughlai : ₹800 for two :  Shastri Nagar, Jalandhar
+The American Chicken : 3.1 : Fast Food, Beverages, Burger, Rolls : ₹500 for two :  Model Town, Jalandhar
+My Pizza : 3.8 : Pizza, Fast Food, Beverages : ₹400 for two :  Adarsh Nagar, Jalandhar
+Hotel Imperia Suites : New : North Indian, Mughlai, Continental, Chinese, Desserts : ₹1,000 for two :  PPR Market, Jalandhar
+Virasat Haveli : 3.9 : North Indian, Fast Food, South Indian, Chinese, Street Food, Desserts, Beverages : ₹800 for two :  Shastri Nagar, Jalandhar
+Wood Fired Pizza By Courtyard Lounge : 3.7 : Pizza, Pasta, Panini, Burger : ₹500 for two :  Urban Estate, Jalandhar
+Abdul Moradabadi Chicken Corner : 3.6 : North Indian, Biryani : ₹400 for two :  Urban Estate, Jalandhar
+Ace Of Taste : - : Sandwich, Pasta, Burger, Pizza, Wraps, Fast Food, Tea, Shake : ₹500 for two :  Adarsh Nagar, Jalandhar
+Pizza Italia Wood Oven : 3.8 : Pizza, Fast Food, Beverages : ₹400 for two :  GT Road, Jalandhar
+7th Heaven : - : Bakery, Cafe, Pizza, Fast Food, Continental, Shake, Desserts, Beverages : ₹500 for two :  PPR Market, Jalandhar
+Ask Vaishno Dhaba : 4.2 : North Indian : ₹200 for two :  Adarsh Nagar, Jalandhar
+Ashwani Baker's & Wrappers : 3.9 : Bakery, Fast Food, Street Food, Desserts : ₹400 for two :  Shastri Nagar, Jalandhar
+Gandhi Di Hatti : 3.9 : North Indian, Burger, Pizza, Fast Food : ₹350 for two :  Jalandhar Cantt, Jalandhar
+Gianni Kharore Wala : 3.3 : North Indian, Mughlai : ₹400 for two :  Shastri Nagar, Jalandhar
+Havmor Ice Cream : 3.5 : Ice Cream, Beverages : ₹200 for two :  Urban Estate, Jalandhar
+Beanista Restro Cafe : 3.6 : Cafe, Coffee, Fast Food, Pizza, Burger, Chinese, Street Food, Beverages : ₹450 for two :  PPR Market, Jalandhar
+Mr Vada Pav : 3.3 : North Indian, Fast Food, Chinese, Sandwich, Pasta, Desserts : ₹500 for two :  Model Town, Jalandhar
+Country Inn And Suites By Radisson : 3.5 : North Indian : ₹1,500 for two :  Urban Estate, Jalandhar
+The Lazy Monkey : 3.9 : North Indian, Chinese, Italian, Fast Food, Finger Food, Rolls, Shake : ₹600 for two :  Model Town, Jalandhar
+Everyday Fresh : 3.3 : Burger, Sandwich, Salad, Wraps, Healthy Food, Beverages : ₹350 for two :  PPR Market, Jalandhar
+Valaiti Desserts By Food Bazar : 4.0 : Desserts, Ice Cream : ₹250 for two :  Shastri Nagar, Jalandhar
+Hot Drive Jyoti Chowk : 3.9 : Fast Food, Chinese, North Indian : ₹400 for two :  Shastri Nagar, Jalandhar
+The Kulcha Land Family Restaurant : - : North Indian, Fast Food, Burger, Chinese : ₹250 for two :  Rama Mandi, Jalandhar
+Chai Sutta Bar : 3.2 : Fast Food, Street Food, Sandwich, Coffee, Shake, Tea, Beverages : ₹300 for two :  GT Road, Jalandhar
+CFC Chaitanya Food Court : 3.5 : Fast Food : ₹150 for two :  Shastri Nagar, Jalandhar
+Al Kadeer Chicken Point : 3.9 : North Indian, Mughlai, Biryani : ₹600 for two :  Rama Mandi, Jalandhar
+Chowpatty Junction : 3.9 : Chinese, South Indian, Fast Food, Beverages : ₹400 for two :  GT Road, Jalandhar
+Mba Chaiwala : 3.8 : Fast Food, Tea, Beverages : ₹300 for two :  Model Town, Jalandhar
+Bablu Chick Chick Corner : 4.4 : North Indian, Chinese, Mughlai, Seafood, Beverages : ₹400 for two :  PPR Market, Jalandhar
+Cafe Coffee Day : 3.9 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹500 for two :  Shastri Nagar, Jalandhar
+Amritsari Bite : - : North Indian, Chinese, Mughlai, Fast Food, Beverages, Shake : ₹400 for two :  Urban Estate, Jalandhar
+Fish Corner : 3.7 : North Indian, Mughlai, Seafood : ₹400 for two :  Shastri Nagar, Jalandhar
+ETA South Indian Kitchen : 3.5 : South Indian, Street Food, Beverages : ₹300 for two :  Urban Estate, Jalandhar
+Mynus 360° : 3.6 : Fast Food, Chinese, Pizza, Desserts, Ice Cream, Beverages : ₹400 for two :  Shastri Nagar, Jalandhar
+The Burger Company : 3.5 : Burger, Fast Food, Pizza, Momos, Beverages, Sandwich : ₹450 for two :  Model Town, Jalandhar
+The Glassy Junction : 3.5 : North Indian, Chinese, Mughlai, Biryani, Street Food, Fast Food, Desserts : ₹700 for two :  Adarsh Nagar, Jalandhar
+Chai O Bite : 3.0 : Shake, Beverages, Burger, Sandwich, Fast Food, Street Food, Chinese, Italian : ₹250 for two :  Urban Estate, Jalandhar
+Fire-N-The Hole Wood Fired Pizzas : 4.0 : Fast Food, Beverages, Pizza, Pasta, Wraps, Desserts : ₹500 for two :  PPR Market, Jalandhar
+New Parkash Icecream : 4.0 : Ice Cream, Desserts : ₹250 for two :  Shastri Nagar, Jalandhar
+Shivraj Dhaba : 4.2 : North Indian, Desserts : ₹400 for two :  Shastri Nagar, Jalandhar
+Mother Dairy's Family Delight Cafe : 3.7 : Street Food, Chinese : ₹300 for two :  Shastri Nagar, Jalandhar
+Giani : 3.4 : Desserts, Ice Cream, Beverages : ₹300 for two :  PPR Market, Jalandhar
+Peezzaa Spot : 3.4 : Pizza, Burger, Sandwich, Fast Food, Beverages : ₹400 for two :  Shastri Nagar, Jalandhar
+Hari Kabab : 2.2 : North Indian : ₹300 for two :  Shastri Nagar, Jalandhar
+Apna Chai Wala : 4.0 : Tea, Shake, Beverages, Pizza, Pasta, Fast Food, Chinese, Desserts : ₹400 for two :  Rama Mandi, Jalandhar
+Basant Dessert Bar : 3.6 : Fast Food, Chinese, Waffle, Coffee, Tea, Ice Cream : ₹600 for two :  Adarsh Nagar, Jalandhar
+Cake Affair : 3.9 : Bakery, Chinese, North Indian, Mughlai, Desserts : ₹700 for two :  Adarsh Nagar, Jalandhar
+The Pizza Bunker : - : Pizza, Fast Food, Wraps, Sandwich, Shake, Chinese : ₹500 for two :  Adarsh Nagar, Jalandhar
+Desi Mood Restaurant : 3.6 : North Indian, Continental, Chinese, Beverages : ₹800 for two :  Model Town, Jalandhar
+Quality Food Veg & Non Veg : 3.2 : North Indian, Chinese, Pizza, Fast Food, Beverages, Rolls : ₹400 for two :  Adarsh Nagar, Jalandhar
+Sunny Dhaba : 3.0 : North Indian : ₹250 for two :  Adarsh Nagar, Jalandhar
+Jeevan Fast Food : 3.8 : Chinese, Fast Food, North Indian, Beverages : ₹400 for two :  Adarsh Nagar, Jalandhar
+Coffila Food Court : 3.8 : North Indian, Chinese, South Indian, Fast Food, Ice Cream, Beverages : ₹300 for two :  Jalandhar Cantt, Jalandhar
+Lazeez  Bites : - : Momos, Burger, Chinese, Fast Food, Pizza, Rolls : ₹100 for two :  Adarsh Nagar, Jalandhar
+Lavish Destino : - : Pizza, Burger, Wraps, Sandwich, Salad, Fast Food, Coffee, Shake : ₹500 for two :  Model Town, Jalandhar
+Waffle Union : - : Desserts, Waffle : ₹250 for two :  Urban Estate, Jalandhar
+Celebration Bar And Restaurant : 3.2 : Bar Food, North Indian, Mughlai, Chinese, Fast Food, Beverages : ₹600 for two :  Adarsh Nagar, Jalandhar
+Green Vaishno Dhaba : 2.9 : North Indian : ₹200 for two :  Rama Mandi, Jalandhar
+Sehgal Fast Food : 3.2 : Fast Food, Chinese : ₹200 for two :  Shastri Nagar, Jalandhar
+Spicy Hut : 3.4 : North Indian, Biryani, Chinese, Fast Food, South Indian, Beverages : ₹500 for two :  Shastri Nagar, Jalandhar
+Bhajan Fish Corner : - : North Indian, Seafood : ₹600 for two :  Nakodar Road, Jalandhar
+Mame Da Dhaba : 3.7 : North Indian : ₹500 for two :  Adarsh Nagar, Jalandhar
+Culture 29 : 3.6 : North Indian, Chinese, Fast Food, Pizza, Sandwich, Street Food : ₹400 for two :  Adarsh Nagar, Jalandhar
+Chaa Shaa : 3.7 : North Indian, Fast Food, Street Food, Mexican, Beverages, Shake : ₹300 for two :  Adarsh Nagar, Jalandhar
+Munchies Restaurant : 3.6 : Sandwich, Pizza, Hot dogs, Finger Food, Fast Food : ₹300 for two :  Rama Mandi, Jalandhar
+Uncle's Kitchen : 3.9 : North Indian, Chinese, Rolls, Seafood, Mughlai : ₹550 for two :  Urban Estate, Jalandhar
+South Hall Dhaba : 3.7 : Chinese, North Indian, Fast Food, Biryani, Desserts : ₹350 for two :  GT Road, Jalandhar
+Soul Karma : 3.6 : North Indian, Chinese, Kebab, Beverages : ₹600 for two :  PPR Market, Jalandhar
+Tech & Taste : 3.5 : Burger, Pasta, Wraps, Fast Food, Chinese, Momos, Waffle, Beverages : ₹400 for two :  Model House, Jalandhar
+Play Town Cafe The Fun Factory : 4.2 : Fast Food, Chinese : ₹300 for two :  Urban Estate, Jalandhar
+Fame Pizza 86 & Restaurant : 3.9 : Fast Food, Chinese, Pizza, Burger, Sandwich, Beverages, BBQ : ₹500 for two :  Rama Mandi, Jalandhar
+Gianni's : 3.9 : North Indian, Chinese, Mughlai, Seafood : ₹500 for two :  Shastri Nagar, Jalandhar
+Eat N Repeat : 2.9 : North Indian, Biryani : ₹400 for two :  PPR Market, Jalandhar
+Sukh Mehal : - : North Indian, Fast Food, Beverages, Chinese : ₹800 for two :  Shastri Nagar, Jalandhar
+The Cake Studio : 3.8 : Fast Food : ₹600 for two :  Adarsh Nagar, Jalandhar
+Ravi Ice Cream & Juice Corner : 3.7 : Beverages, Desserts, Ice Cream, Shake : ₹200 for two :  Adarsh Nagar, Jalandhar
+The Live Creamery : 3.8 : Ice Cream, Shake, Desserts, Beverages : ₹300 for two :  Model Town, Jalandhar
+Jashan Foods : New : Kebab, Chinese : ₹200 for two :  Adarsh Nagar, Jalandhar
+Hotel Rajmahal & Restuarant : 3.7 : North Indian, Chinese, South Indian, Fast Food : ₹650 for two :  Shastri Nagar, Jalandhar
+Venkataswamy South Flavour : 3.0 : South Indian, Chinese, Fast Food, Pizza, Sandwich : ₹400 for two :  PPR Market, Jalandhar
+Italian Pizzeria : 3.6 : Fast Food, Pizza, Chinese : ₹300 for two :  Rama Mandi, Jalandhar
+Hungrill : 3.8 : Fast Food, Chinese, North Indian : ₹250 for two :  GT Road, Jalandhar
+Lovely Food Corner : 3.9 : North Indian, Chinese, Salad : ₹500 for two :  Urban Estate, Jalandhar
+Deenanath Special Cholle Kulche : - : Street Food : ₹100 for two :  Maqsudan, Jalandhar
+Chimney Crunch : 3.8 : North Indian, Rolls, Chinese, Fast Food, Street Food, Shake, Coffee : ₹500 for two :  Shastri Nagar, Jalandhar
+Yummy Pizza Bite : 3.7 : Pizza, Sandwich, Burger, Fast Food, Chinese : ₹300 for two :  Rama Mandi, Jalandhar
+Ashwani Dhaba : 3.9 : North Indian : ₹250 for two :  Nakodar Road, Jalandhar
+Mojo's Restaurant : 3.9 : North Indian, Chinese, Fast Food, Continental, Pizza, Beverages : ₹1,100 for two :  Nakodar Road, Jalandhar
+Platform 13 : 3.5 : Chinese : ₹550 for two :  Model Town, Jalandhar
+Oberoi Barbeque Chicken And Fish : 3.2 : North Indian, Fast Food, Biryani, Seafood, Mughlai : ₹700 for two :  Adarsh Nagar, Jalandhar
+Mezbaan By Hawks Hospitality : 3.8 : Biryani, Kebab, Mughlai, Desserts : ₹400 for two :  Model Town, Jalandhar
+Super Singh Food : 3.6 : Fast Food, Chinese : ₹200 for two :  Model House, Jalandhar
+Papa's Kitchen : 3.9 : North Indian, Biryani, Mughlai : ₹500 for two :  Adarsh Nagar, Jalandhar
+Yummy Yummy Food Plaza : 3.5 : North Indian : ₹300 for two :  Jalandhar Cantt, Jalandhar
+K.G.S Cottage : - : North Indian, Chinese, Fast Food, Street Food, Beverages : ₹400 for two :  Adarsh Nagar, Jalandhar
+Mozito : 3.6 : Continental, North Indian, Mughlai, Chinese, Shake : ₹1,000 for two :  Shastri Nagar, Jalandhar
+Hungrill : 3.7 : Fast Food, North Indian, Chinese : ₹300 for two :  GT Road, Jalandhar
+Khanna Fast Food : 3.5 : Chinese, North Indian, Fast Food : ₹300 for two :  Model House, Jalandhar
+911 Dicaprio : 3.5 : Italian, Fast Food, Wraps, Shake, Desserts : ₹600 for two :  Model Town, Jalandhar
+The Blue Wings : 3.7 : North Indian, Chinese, Seafood : ₹400 for two :  Transport Nagar, Jalandhar
+Luthra Chicken Corner : New : North Indian, Mughlai, Street Food, Beverages : ₹450 for two :  Rama Mandi, Jalandhar
+La Pizza-Slice Of Heaven : 3.0 : Pizza, Italian, Salad : ₹500 for two :  Urban Estate, Jalandhar
+The Perfect Bite : 3.1 : Fast Food : ₹100 for two :  Model House, Jalandhar
+Kross Road  Foodies : 3.8 : Cafe, Coffee, North Indian, Sandwich, Burger, Italian, Desserts, Beverages : ₹600 for two :  Urban Estate, Jalandhar
+9 Shine : 3.8 : Pizza, Italian, Fast Food, Sandwich, Burger, Shake, Beverages : ₹300 for two :  Shastri Nagar, Jalandhar
+Kingdom Of Momos : 3.9 : Momos, Chinese, North Indian, Beverages : ₹350 for two :  GT Road, Jalandhar
+Chai Vaai Cafe : 3.7 : Sandwich, North Indian, Street Food, Pizza, Momos, Pasta, Tea, Beverages : ₹250 for two :  Rama Mandi, Jalandhar
+Eat Fresh Burger Roots : 3.6 : Burger, Fast Food : ₹200 for two :  Adarsh Nagar, Jalandhar
+Mr Sub : 3.5 : Healthy Food, Fast Food, Beverages : ₹400 for two :  Adarsh Nagar, Jalandhar
+The Berlin Cafe : 3.3 : North Indian, Chinese, Fast Food : ₹300 for two :  Model Town, Jalandhar
+Cheers & Beers - Bar & Restaurant : 3.1 : Chinese, North Indian, Biryani : ₹1,000 for two :  GT Road, Jalandhar
+Express Vegetarian : - : North Indian, Chinese, Fast Food : ₹300 for two :  Model Town, Jalandhar
+Hotel Citadines : - : North Indian, Chinese, Mughlai, Fast Food : ₹750 for two :  Adarsh Nagar, Jalandhar
+Mama Cito : 3.3 : Mexican, Fast Food : ₹300 for two :  Model Town, Jalandhar
+Sethi’s Snacks Corner : 3.1 : North Indian : ₹250 for two :  Transport Nagar, Jalandhar
+Blue's Pub Bar And Restaurant : 3.2 : North Indian, Seafood : ₹500 for two :  Shastri Nagar, Jalandhar
+Comfort Inn : 3.5 : North Indian, Biryani, Chinese, Salad, Italian, Desserts, Ice Cream, Beverages : ₹1,000 for two :  Shastri Nagar, Jalandhar
+American Bites : 4.1 : Fast Food, Italian, Pizza, Beverages : ₹400 for two :  Nakodar Road, Jalandhar
+The Mackly Kitchen : - : Fast Food, Pizza, Chinese, Beverages : ₹450 for two :  Adarsh Nagar, Jalandhar
+Ekam Vaishno Dhaba : - : North Indian : ₹200 for two :  Rama Mandi, Jalandhar
+Saffron : - : North Indian, Chinese, Fast Food : ₹400 for two :  Urban Estate, Jalandhar
+The Grill Box : 3.5 : North Indian, Fast Food, Burger, Sandwich, Pasta, Rolls : ₹400 for two :  Model Town, Jalandhar
+The Royal'z Diet : - : Fast Food, Healthy Food, Street Food, Sandwich, Burger, Chinese, Wraps, Beverages : ₹400 for two :  Adarsh Nagar, Jalandhar
+Dawat Junction : 3.5 : North Indian, Chinese, Fast Food, Desserts : ₹300 for two :  Jalandhar Cantt, Jalandhar
+Hotel Ranvir Classic : 3.8 : North Indian, Beverages : ₹300 for two :  GT Road, Jalandhar
+New Eat Me Dhaba : 3.9 : North Indian, Mughlai : ₹400 for two :  GT Road, Jalandhar
+Mintu Dhaba : 3.4 : North Indian : ₹400 for two :  Adarsh Nagar, Jalandhar
+Raja Restaurant : 3.6 : North Indian, Mughlai, Seafood, Street Food, Beverages : ₹400 for two :  GT Road, Jalandhar
+Gurik Food Street : 2.6 : Chinese, Fast Food, Beverages : ₹300 for two :  Urban Estate, Jalandhar
+Hunger Express : 3.7 : Fast Food, North Indian : ₹150 for two :  Jalandhar Cantt, Jalandhar
+Pizza Tower : 3.3 : Pizza, Fast Food, Beverages : ₹500 for two :  PPR Market, Jalandhar
+New Aar Kay Vaishno Dhaba : 4.0 : North Indian : ₹350 for two :  Adarsh Nagar, Jalandhar
+Garden Restaurant : 3.8 : North Indian : ₹200 for two :  Shastri Nagar, Jalandhar
+Friends Dhaba : 3.1 : North Indian, Chinese : ₹400 for two :  Adarsh Nagar, Jalandhar
+Kay Cee Food Plaza : 3.2 : Chinese, Fast Food, Pizza, Street Food, Beverages : ₹400 for two :  Shastri Nagar, Jalandhar
+Hungry Point : 3.6 : Fast Food, Pizza, Burger, Shake : ₹300 for two :  Rama Mandi, Jalandhar
+Pappu Da Dhaba : 3.7 : North Indian : ₹400 for two :  Jalandhar Cantt, Jalandhar
+Kwality Juice Bar : 3.3 : Juices, Shake : ₹200 for two :  Shastri Nagar, Jalandhar
+Chadha Dhaba : 3.3 : North Indian, Chinese, South Indian, Fast Food, Ice Cream, Beverages : ₹550 for two :  GT Road, Jalandhar
+Khalsa Ji Food Point : 3.8 : Burger, Pizza, Sandwich, Fast Food : ₹300 for two :  Adarsh Nagar, Jalandhar
+Hotel Skylark & Restaurant : 4.0 : North Indian, Chinese, Seafood, Continental, Desserts : ₹900 for two :  Shastri Nagar, Jalandhar
+Amritsari Roasted Chicken : - : North Indian, Chinese : ₹400 for two :  PPR Market, Jalandhar
+Duggal Veg And Non Veg Dhaba : 3.4 : North Indian, Biryani, Mughlai, Seafood, Chinese, Beverages : ₹1,000 for two :  GT Road, Jalandhar
+Spaghetti Club : 3.4 : Grilled Chicken, Pasta, Pizza, Sandwich, Wraps, Beverages, Roast Chicken : ₹400 for two :  Model Town, Jalandhar
+R2D Restaurant : - : Fast Food, Street Food, Chinese, North Indian, Biryani, Ice Cream : ₹400 for two :  Rama Mandi, Jalandhar
+Hari Da Khana Khazana : 3.4 : Pizza, Fast Food, Chinese, North Indian, Beverages, Desserts : ₹500 for two :  Adarsh Nagar, Jalandhar
+Vishal Cake House : 3.2 : Bakery : ₹600 for two :  Model House, Jalandhar
+Jalandhar Hungry kya : 3.5 : Fast Food, Pizza : ₹200 for two :  Rama Mandi, Jalandhar
+Mr Krisper Cafe & Lounge : - : Pizza, Burger, Sandwich, Pasta, Fast Food, Desserts, Beverages : ₹350 for two :  Jalandhar Cantt, Jalandhar
+Raju Naan Wala : - : North Indian, Street Food : ₹100 for two :  Shastri Nagar, Jalandhar
+Thapa Food Junction : - : Street Food, Fast Food, Chinese, Rolls, Pizza, Momos, Beverages : ₹300 for two :  Urban Estate, Jalandhar
+Republic Food Nation : - : Burger, Sandwich, Rolls, Fast Food : ₹300 for two :  GT Road, Jalandhar
+Kesar Chicken Corner : 3.4 : North Indian, Biryani, Chinese, Afghan, Fast Food, Street Food, Beverages : ₹450 for two :  Urban Estate, Jalandhar
+Haandi Pure Veg : 2.5 : North Indian, Chinese : ₹400 for two :  Adarsh Nagar, Jalandhar
+M54 : - : Fast Food, Healthy Food, Beverages, Burger, Sandwich, Pizza, Wraps : ₹300 for two :  Adarsh Nagar, Jalandhar
+AGI Club House : - : North Indian : ₹1,000 for two :  Urban Estate, Jalandhar
+PB 08 Garden Grill : - : North Indian, Seafood : ₹700 for two :  Rama Mandi, Jalandhar
+Chacha Wow Veg & Non Veg : - : North Indian, Rolls : ₹350 for two :  Adarsh Nagar, Jalandhar
+Punjabi Chaap Corner : - : North Indian, Chinese, Rolls : ₹350 for two :  Shastri Nagar, Jalandhar
+Bilas Refreshment : 3.5 : North Indian, Chinese, Fast Food, Street Food : ₹250 for two :  Jalandhar Cantt, Jalandhar
+The Flavors  AGI INN : 3.5 : North Indian, Chinese, Thai, Desserts, Salad, Street Food, Beverages, Sandwich : ₹1,000 for two :  Shastri Nagar, Jalandhar
+Oven Grill : 2.8 : Fast Food : ₹500 for two :  Jalandhar Cantt, Jalandhar
+Jassi Chicken Corner : 3.0 : North Indian, Mughlai, Burger, Kebab : ₹500 for two :  Shastri Nagar, Jalandhar
+Mad Eats : 3.4 : Pizza, Burger, Sandwich, Fast Food : ₹400 for two :  Jalandhar Cantt, Jalandhar
+The Coffee Secrets : - : Pizza, Fast Food, Shake, Beverages : ₹300 for two :  Urban Estate, Jalandhar
+Mom Dad Food Corner : 2.8 : Pizza, Sandwich, Burger, Fast Food, Chinese : ₹300 for two :  PPR Market, Jalandhar
+Super Singh Foods : 3.4 : Burger, Chinese, Fast Food : ₹350 for two :  Rama Mandi, Jalandhar
+Sugandh Dhaba : - : North Indian, Chinese, Seafood : ₹450 for two :  Jalandhar Cantt, Jalandhar
+DD Chicken Hut : - : North Indian : ₹300 for two :  Nakodar Road, Jalandhar
+Mumbai Food Corner : - : Chinese, Street Food, Fast Food, North Indian : ₹300 for two :  GT Road, Jalandhar
+Gracias The Live Kitchen : 2.8 : North Indian, Chinese, Thai, Continental, Salad, Sushi, Mughlai, Fast Food : ₹800 for two :  Urban Estate, Jalandhar
+Pahwa Refreshment Centre : - : Ice Cream, Shake : ₹200 for two :  Urban Estate, Jalandhar
+Yaaran Naal Baharan : 3.2 : North Indian, Seafood, Mughlai, Chinese, Biryani : ₹350 for two :  PPR Market, Jalandhar
+DFC : 2.7 : North Indian, Chinese, Mughlai, Seafood : ₹550 for two :  GT Road, Jalandhar
+Champaran Handi Meat : New : Bihari, Mughlai : ₹400 for two :  Rama Mandi, Jalandhar
+Hangover Resto Club Bar : - : North Indian, Mughlai, Chinese, Pasta, Pizza, Fast Food, Kebab, Biryani : ₹1,100 for two :  Rama Mandi, Jalandhar
+Seven In Heaven : 3.1 : Pizza, Burger, Chinese : ₹450 for two :  Shastri Nagar, Jalandhar
+M2 Food Court : 2.6 : Fast Food, Street Food, Chinese, Burger, Pizza, Desserts, Shake, Beverages : ₹450 for two :  Maqsudan, Jalandhar
+Crust And Co. : - : Pizza, Fast Food, Street Food : ₹500 for two :  Model Town, Jalandhar
+Delicious Cake Hub : 2.6 : Bakery, Fast Food, Chinese : ₹350 for two :  Transport Nagar, Jalandhar
+Kulcha Land : - : North Indian : ₹150 for two :  Model Town, Jalandhar
+Gourmet Ice Cream Cakes by Baskin Robbins : - : Bakery, Desserts, Ice Cream : ₹200 for two :  Model Town, Jalandhar
+Brew N' Beans : - : Wraps, Sandwich, Fast Food : ₹400 for two :  Urban Estate, Jalandhar
+Jalandhar Hungry Kya ? : - : North Indian, Fast Food, Beverages, Pizza : ₹250 for two :  Shastri Nagar, Jalandhar
+The Granios : - : Pizza, BBQ, Burger, Beverages : ₹350 for two :  Urban Estate, Jalandhar
+Sahni Samosa Wala : - : North Indian, Street Food : ₹100 for two :  Urban Estate, Jalandhar
+Melange 24*7 : - : North Indian, Continental, Chinese : ₹800 for two :  Shastri Nagar, Jalandhar
+Desi Videsi Food Court : - : Chinese, Pizza, Burger, Sandwich, Fast Food, Momos, Shake, Beverages : ₹300 for two :  Adarsh Nagar, Jalandhar
+Shawarma Nation : - : Sandwich, Burger, Arabian, Fast Food, Wraps, Beverages, Chinese : ₹200 for two :  PPR Market, Jalandhar
+Burger Bar : 3.8 : Burger, Pizza, Fast Food : ₹450 for two :  Nakodar Road, Jalandhar
+Cloud 27 : - : Pizza, Sandwich, Burger, Pasta, Fast Food, Salad, Beverages : ₹500 for two :  PPR Market, Jalandhar
+KFC : - : Burger, Fast Food, Rolls : ₹400 for two :  Rama Mandi, Jalandhar
+Haveli : - : North Indian, Chinese, South Indian, Desserts, Beverages : ₹1,000 for two :  Rama Mandi, Jalandhar
+Patwari Vaishno Dhaba : - : North Indian, South Indian, Chinese, Street Food, Fast Food, Beverages : ₹500 for two :  Rama Mandi, Jalandhar
+Haldiram's : - : Desserts : ₹300 for two :  Rama Mandi, Jalandhar
+Rangla Punjab by Haveli : - : North Indian : ₹800 for two :  Rama Mandi, Jalandhar
+Swagath Restro Bar : - : North Indian, Chinese : ₹1,000 for two :  Jalandhar Cantt, Jalandhar
+Yummy Kitchen : - : Pizza, Burger, Fast Food, Biryani, Seafood, North Indian, Chinese, Beverages : ₹500 for two :  Katarpur Locality, Jalandhar
+Oven Xpress : - : North Indian, Chinese, Fast Food, Pizza, Beverages, Mughlai : ₹300 for two :  Jalandhar Cantt, Jalandhar
+Hungry Point : - : Pizza, Burger, Pasta, Fast Food, Shake : ₹300 for two :  Katarpur Locality, Jalandhar
+Hichki Restaurant : 4.0 : Continental, North Indian, Italian, Street Food, Fast Food, Chinese, South Indian, Beverages : ₹600 for two :  Jalandhar Cantt, Jalandhar
+The Snackers : 4.9 : North Indian, South Indian, Biryani, Pizza, Pasta, Fast Food, Chinese, Street Food : ₹450 for two :  Maqsudan, Jalandhar
+MBK Kitchen : 3.7 : North Indian, Chinese, Fast Food, Street Food, Desserts, Shake, Beverages : ₹400 for two :  Jalandhar Cantt, Jalandhar
+Haldirams : - : Desserts, Fast Food : ₹200 for two :  Jalandhar Cantt, Jalandhar
+Lucky Vaishno Dhaba - Since 1967 : 4.5 : North Indian, South Indian, Fast Food, Street Food, Beverages : ₹600 for two :  Rama Mandi, Jalandhar
+Neha Vaishno Dhaba : - : North Indian : ₹200 for two :  Jalandhar Cantt, Jalandhar
+RFF : 3.3 : Salad, Burger, Sandwich, Fast Food : ₹250 for two :  GT Road, Jalandhar
+Hotel B 1 : 3.2 : North Indian, Seafood, Chinese, Fast Food, Pizza, Desserts, Beverages : ₹500 for two :  Katarpur Locality, Jalandhar
+KDF Kahlon Delight Food : - : North Indian, Chinese, Pizza, Momos, Sandwich, Fast Food, Shake, Beverages : ₹350 for two :  Katarpur Locality, Jalandhar
+The Crispy Hawkers : 3.5 : Fast Food, Burger, Sandwich, Salad, Pasta, Wraps, Shake : ₹350 for two :  Urban Estate, Jalandhar
+Gracias : New : North Indian, Continental, Chinese, Fast Food, Desserts, Pizza : ₹900 for two :  Rama Mandi, Jalandhar
+La Fusion : New : North Indian, Chinese, Fast Food, Mughlai, Desserts, Sichuan : ₹600 for two :  Jalandhar Cantt, Jalandhar
+Karim's : - : North Indian, Mughlai, Rolls, Shake, Beverages, Ice Cream : ₹650 for two :  Rama Mandi, Jalandhar
+Sangam Food Point : 3.4 : Chinese, Fast Food : ₹200 for two :  Katarpur Locality, Jalandhar
+Mitti Di Rasoi : - : North Indian, Chinese, Biryani : ₹350 for two :  Jalandhar Cantt, Jalandhar
+Lahori Gate : - : North Indian, Chinese, Mughlai, Seafood : ₹800 for two :  Rama Mandi, Jalandhar
+The Golden Era : 4.0 : North Indian, Mughlai, Biryani, Seafood, Chinese, Ice Cream, Desserts, Beverages : ₹1,800 for two :  Jalandhar Cantt, Jalandhar
+Hotel Majestic Grand : - : Chinese, North Indian : ₹700 for two :  Rama Mandi, Jalandhar
+Veeran Da Dhaba : - : North Indian, Street Food, Beverages : ₹450 for two :  Katarpur Locality, Jalandhar

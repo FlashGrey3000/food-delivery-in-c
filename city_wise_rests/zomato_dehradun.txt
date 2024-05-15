@@ -1,0 +1,501 @@
+Cafune : 3.4 : Chinese, Asian, Salad, Pasta, Mexican, North Indian, Biryani, Desserts : ₹1,000 for two :  Ballupur, Dehradun
+South Indian Vibes Restaurant : 4.5 : South Indian, Desserts, Beverages : ₹700 for two :  Ashtley Hall, Karanpur, Dehradun
+Black Pepper Restaurant : 4.4 : North Indian, Mughlai, Chinese, Biryani, Desserts, Beverages : ₹1,600 for two :  Ashtley Hall, Karanpur, Dehradun
+Chili's Grill & Bar : 4.4 : Mexican, Pasta, Pizza, American, Burger, Cafe, Desserts, Beverages : ₹1,500 for two :  Pacific Mall, Jakhan, Dehradun
+Dehradun Social : 4.0 : North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Desserts, Beverages : ₹1,300 for two :  Hathibarkala Salwala, Dehradun
+Smoke House Deli : 4.4 : European, Italian, Pizza, Healthy Food, Desserts, Beverages : ₹2,200 for two :  Hathibarkala Salwala, Dehradun
+Rumours : 4.4 : Chinese, Continental, Italian, North Indian, Burger, Salad, Pizza, Sandwich : ₹1,500 for two :  Jakhan, Dehradun
+Aristella : 4.2 : Mexican, Chinese, Lebanese, Fast Food, North Indian, Modern Indian : ₹1,200 for two :  Rajpur, Dehradun
+Tamtara : 2.8 : Chinese, Salad, Italian : ₹1,500 for two :  Rajpur, Dehradun
+Dhaba - Estd 1986 Delhi : 4.4 : North Indian, Mughlai : ₹1,200 for two :  Karanpur, Dehradun
+Cure The Culinary Bar : 4.5 : North Indian, Italian, Mexican, Pizza, Desserts : ₹1,000 for two :  Jakhan, Dehradun
+Diablo : 4.0 : Middle Eastern, Asian, Salad, Continental, Mediterranean, North Indian, American : ₹1,800 for two :  Rajpur, Dehradun
+Romeo Lane : New : Continental, Italian, Modern Indian : ₹1,000 for two :  Rajpur, Dehradun
+Karigari By Chef Harpal Singh : 3.4 : North Indian, Mughlai, Biryani, Beverages : ₹1,800 for two :  Chironwali, Dehradun
+Bungalow : 4.3 : North Indian, Continental, Asian, Italian, Desserts, Beverages : ₹1,000 for two :  Crossroads Mall, Karanpur, Dehradun
+Pano - Fairfield by Marriott : 4.2 : North Indian, Biryani, Continental, Chinese, South Indian, Salad, Pizza, Desserts : ₹2,500 for two :  Fairfield By Marriott, Dehradun, Dehradun
+Yeti The Himalayan Kitchen : 4.0 : Tibetan, Nepalese, Chinese, Momos, Shake, Coffee, Beverages : ₹1,500 for two :  Rajpur, Dehradun
+Mamagoto : 4.6 : Asian, Sushi, Japanese, Thai, Salad, Desserts, Chinese : ₹1,500 for two :  Jakhan, Dehradun
+Raasta : 4.5 : North Indian, Continental, Chinese, Pizza, Fast Food, Italian, Desserts : ₹1,800 for two :  Malsi, Dehradun
+Farzi Cafe : 4.3 : Continental, North Indian, Modern Indian, Pizza, Chinese, Biryani, Desserts : ₹1,800 for two :  Rajpur, Dehradun
+Tonic : 4.1 : North Indian, Chinese, Oriental, Continental, Healthy Food, Fast Food, Desserts : ₹1,500 for two :  Ballupur, Dehradun
+Otium Cookhouse : 4.1 : North Indian, Continental, Chinese, Fast Food, Biryani, Salad, Desserts, Beverages : ₹1,200 for two :  Malsi, Dehradun
+Ministry Of Sound : New : North Indian, Continental, Mughlai, Fast Food : ₹1,000 for two :  Hathibarkala Salwala, Dehradun
+Sly Granny : 4.4 : Continental, European, Pizza, Fast Food, Salad, Coffee, Tea, Beverages : ₹1,700 for two :  Race Course, Dehradun
+House of TGIP : 4.1 : North Indian, Salad, Finger Food, Chinese, Pizza, Italian, Mughlai, Desserts : ₹1,200 for two :  Jakhan, Dehradun
+Cafe Delhi Heights : 4.2 : North Indian, Chinese, Seafood, Italian, Oriental, Biryani, Desserts, Beverages : ₹1,500 for two :  Pacific Mall, Jakhan, Dehradun
+Dope : 3.9 : Chinese, North Indian, Oriental, Italian : ₹800 for two :  Rajpur, Dehradun
+WOW! China : 4.1 : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹700 for two :  Hathibarkala Salwala, Dehradun
+Delhi Dehradun Express : 4.2 : North Indian, Chinese, Pizza, Rolls, Fast Food, Tea, Shake, Beverages : ₹500 for two :  Malsi, Dehradun
+Cafe De Piccolo : 4.2 : Cafe, Italian, Fast Food, Beverages : ₹800 for two :  Rajpur, Dehradun
+Musee Art Cafe : 4.9 : North Indian, Continental, Biryani, Fast Food, Coffee, Beverages : ₹1,300 for two :  Rajpur, Dehradun
+Patio Terrace : 4.4 : North Indian, Italian, Mughlai, Chinese, Continental, Biryani, Desserts, Beverages : ₹1,600 for two :  Chukkuwala, Dehradun
+Tapri - The Teafe : 4.1 : North Indian, Chinese, Mexican, Fast Food, Street Food, Bakery, Desserts, Beverages : ₹1,400 for two :  Hathibarkala Salwala, Dehradun
+Basque : 4.5 : Asian, European, Modern Indian, Mediterranean, Italian, Pizza : ₹4,000 for two :  Malsi, Dehradun
+Coco Osteria : 4.9 : Italian, Pizza, Pasta, Desserts, Coffee, Beverages : ₹2,000 for two :  Ballupur, Dehradun
+Gola Sizzlers : 4.5 : Chinese, Fast Food, North Indian, Seafood, Pasta, Biryani, Continental, Salad : ₹1,500 for two :  Pacific Mall, Jakhan, Dehradun
+Foxtrot : 4.6 : North Indian, Chinese, Continental, Italian, Finger Food, Desserts : ₹1,200 for two :  Race Course, Dehradun
+Punjab Grill : 4.5 : North Indian, Mughlai, Biryani, Street Food, Desserts, Beverages : ₹1,900 for two :  Jakhan, Dehradun
+Town Table Restaurant : 4.3 : North Indian, Chinese, Continental, Italian, Mexican, Biryani, Desserts, Beverages : ₹2,500 for two :  Hathibarkala Salwala, Dehradun
+Biryani By Kilo : 4.2 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  Ballupur, Dehradun
+Kalsang Cafe : 4.6 : Cafe, Coffee, Burger, Pizza, Fast Food, Desserts, Tea, Beverages : ₹650 for two :  Hathibarkala Salwala, Dehradun
+Satwah Gourmet Dining : 3.9 : North Indian, Chinese, Mughlai, Seafood, Kebab, Sandwich : ₹1,000 for two :  Karanpur, Dehradun
+Kylin Experience : 4.5 : Chinese, Thai, Sushi, Japanese, Asian, Desserts : ₹2,000 for two :  Hathibarkala Salwala, Dehradun
+Botanica Osteria : 3.5 : Cafe, Coffee, Italian, Fast Food, Continental, Salad, Beverages : ₹1,200 for two :  Rajpur, Dehradun
+Loulou Restaurant : New : North Indian : ₹1,000 for two :  Rajpur, Dehradun
+Orchard : 4.6 : Cafe, Coffee, Tibetan, Chinese, Continental, Oriental, Desserts, Beverages : ₹1,000 for two :  Rajpur, Dehradun
+Ministry Of Doon Restro & Bar : 4.1 : North Indian, Continental, Mexican, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹1,000 for two :  Ballupur, Dehradun
+Hyatt Regency Resort and Spa : 3.9 : North Indian, Mughlai, Asian, Pizza, Fast Food, South Indian, Desserts, Beverages : ₹3,500 for two :  Hyatt Regency Resort and Spa Dehradun Malsi, Dehradun
+Cafe Turquoise Cottage : 3.9 : North Indian, Chinese, Continental, Oriental, Italian, Fast Food, Desserts : ₹1,500 for two :  Hathibarkala Salwala, Dehradun
+Rasam - Taste Of South : 4.1 : South Indian, Street Food, Desserts : ₹850 for two :  Hathibarkala Salwala, Dehradun
+Culture Cafe Wine & Casual Dinning : 3.9 : North Indian, Italian, Oriental, Biryani, Fast Food, Desserts, Beverages : ₹1,000 for two :  Rajpur, Dehradun
+XOXO - Cafe,  Bakery, Patisserie : 4.2 : Cafe, Coffee, Continental, Asian, Italian, Fast Food, Beverages : ₹1,000 for two :  Rajpur, Dehradun
+Barbeque Nation : 4.1 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,750 for two :  Kaonli, Dehradun
+Flavours Of Bihar : 4.2 : North Indian, Beverages : ₹200 for two :  Prem Nagar, Dehradun
+Melt - Hotel Saffron Leaf : 4.3 : North Indian, Chinese, Continental, Mughlai, Fast Food, Desserts, Beverages : ₹1,000 for two :  Kaonli, Dehradun
+Pind Balluchi : 3.9 : North Indian, Mughlai, Biryani, Desserts : ₹1,300 for two :  Kaonli, Dehradun
+T'Qila : New : Bar Food, North Indian, Chinese, Continental, Italian, Salad, Coffee, Beverages : ₹1,200 for two :  Malsi, Dehradun
+Narcoz - The Food Cartel : 4.2 : North Indian, Italian, Mexican, Momos, Continental, Fast Food, Desserts, Beverages : ₹1,200 for two :  Rajpur, Dehradun
+Foresta : 3.7 : Coffee, Asian, Italian, Fast Food, Desserts, Beverages : ₹1,500 for two :  Rajpur, Dehradun
+Tipsy Alley : 4.3 : North Indian, Chinese, Asian, Italian, European, Desserts : ₹1,200 for two :  Prem Nagar, Dehradun
+Barista Coffee : 3.7 : Cafe, Coffee, Street Food, Fast Food, Bakery, Desserts, Beverages : ₹800 for two :  Chukkuwala, Dehradun
+Chilli'z Restaurant : 3.2 : Fast Food, North Indian, Chinese : ₹300 for two :  Dharampur, Dehradun
+Pyramid Cafe Lounge : 2.9 : North Indian, Chinese, Biryani, Fast Food, Bar Food, Desserts, Beverages : ₹1,000 for two :  Rajpur, Dehradun
+Cuisine De Saffron Leaf : 4.8 : North Indian, Chinese, Mughlai, Salad, Momos, Biryani, Desserts : ₹1,000 for two :  Malsi, Dehradun
+Cafe 7 Ate 9 : 3.4 : Fast Food, Beverages : ₹300 for two :  Balliwala, Dehradun
+The Bend : 4.3 : North Indian, Cafe, Chinese, Asian, Italian, Biryani, Desserts : ₹1,200 for two :  Rajpur, Dehradun
+Ladder To Lounge : 4.9 : North Indian, Oriental, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Rajpur, Dehradun
+Baskin Robbins - Ice Cream Desserts : 3.9 : Ice Cream, Desserts, Bakery, Shake, Beverages : ₹500 for two :  Malsi, Dehradun
+Auric- Restaurant & Rooftop Cafe : 4.4 : North Indian, Continental, Oriental, Mexican, Italian, Fast Food, Desserts, Beverages : ₹2,100 for two :  Rajpur, Dehradun
+Kalsang : 4.3 : Chinese, Thai, Tibetan, Korean, Momos, Beverages : ₹800 for two :  Hathibarkala Salwala, Dehradun
+Zayka Delhi 6 Family Restaurant : 3.9 : North Indian, Biryani, Seafood : ₹450 for two :  Morowala, Dehradun
+Elle Bakery : 3.8 : Bakery, Desserts, Shake, Tea : ₹450 for two :  Jakhan, Dehradun
+Playboy Beer Garden : 3.9 : Asian, Sushi, Chinese, North Indian : ₹1,500 for two :  Jakhan, Dehradun
+The Epic Aroma : New : North Indian, Charcoal Chicken, Mughlai, Biryani, Burger, Momos, Salad, Beverages : ₹350 for two :  Balliwala, Dehradun
+UR's Bawarchi : 3.8 : North Indian, Biryani, Chinese, Pizza, Pasta, Fast Food, Shake, Sandwich : ₹1,200 for two :  Selakui, Dehradun
+Rajdhani Chicken Point : 4.0 : North Indian, Mughlai : ₹450 for two :  Race Course, Dehradun
+Sunset Home Kitchen : 3.9 : North Indian, Chinese, Fast Food, Salad, Rolls, Juices, Shake, Beverages : ₹1,000 for two :  Karanpur, Dehradun
+Taashee : 4.3 : North Indian, Chinese, Pizza, Continental, Fast Food : ₹1,400 for two :  Ballupur, Dehradun
+Pataka Bar N Indian Kitchen : 4.0 : North Indian, Mughlai, Desserts, Beverages : ₹1,000 for two :  Crossroads Mall, Karanpur, Dehradun
+Yokan - Hyatt Centric : 3.8 : Mughlai, Biryani : ₹1,200 for two :  Hyatt Centric Dehradun, Dehradun
+Rise & Shine Cafe : New : North Indian, Chinese, Mughlai, Street Food : ₹500 for two :  Suddhowala, Dehradun
+Ellora's Melting Moments : 4.3 : Bakery, Fast Food, Rolls, Desserts : ₹250 for two :  Chukkuwala, Dehradun
+Cafe Diva : 3.9 : Burger, Sandwich, Pizza : ₹400 for two :  Rajpur, Dehradun
+Walk In Woods : 4.4 : North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages : ₹1,200 for two :  Chironwali, Dehradun
+Yellow Marigold House Cafe : 3.9 : Continental, Asian, Sushi, Thai : ₹1,000 for two :  Race Course, Dehradun
+The Belgian Waffle Co. : 4.0 : Waffle, Pancake, Ice Cream, Desserts, Beverages : ₹300 for two :  Jakhan, Dehradun
+Chilli'z Restro : 3.9 : North Indian, Chinese, Mughlai : ₹600 for two :  Dharampur, Dehradun
+Pizza Hut : 3.5 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Hathibarkala Salwala, Dehradun
+TBistro : 3.7 : Cafe, Beverages, Sandwich, Panini, Pasta, Fast Food, Desserts : ₹600 for two :  Karanpur, Dehradun
+My Bar Headquarters : 4.3 : Bar Food, North Indian, Continental, Chinese, Italian, Salad, Momos : ₹1,200 for two :  Malsi, Dehradun
+The Bong Twist : 4.5 : Bengali, Seafood, North Indian, Desserts : ₹400 for two :  Ballupur, Dehradun
+Periyo Cafe : 3.6 : Pizza, Fast Food, Salad, Burger : ₹600 for two :  Jakhan, Dehradun
+Devrana Express : 3.5 : North Indian, Chinese, South Indian, Pizza, Sandwich, Street Food, Beverages : ₹550 for two :  Kaonli, Dehradun
+KFC : 4.2 : Burger, Fast Food, Rolls : ₹450 for two :  Prem Nagar, Dehradun
+Friends N Blends : 4.4 : Continental, Mexican, Italian, Pizza, Sandwich, Desserts, Beverages : ₹1,500 for two :  Jakhan, Dehradun
+Subway : 4.2 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹600 for two :  Ballupur, Dehradun
+Five Star Janta : 3.9 : Fast Food, Mithai, Bakery, Chinese, North Indian, South Indian, Desserts : ₹550 for two :  Ballupur, Dehradun
+Baba's : 3.8 : North Indian, Mughlai, Biryani, Kebab, Seafood, Chinese, Salad, Continental : ₹1,200 for two :  Rajpur, Dehradun
+Sankalp : 4.1 : South Indian, Desserts, Beverages : ₹700 for two :  Kaonli, Dehradun
+Kaizen Cafe : 4.3 : European, Italian, North Indian, Asian, Chinese, Sushi, Salad, Desserts : ₹1,600 for two :  Hathibarkala Salwala, Dehradun
+Chicken Point : 3.7 : North Indian, Chinese : ₹600 for two :  Jogiwala, Dehradun
+Slake : 3.9 : Cafe, Coffee, Oriental, Thai, Continental, Fast Food, Desserts, Beverages : ₹1,200 for two :  Rajpur, Dehradun
+Domino's Pizza : 3.9 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹500 for two :  Shree Towers, Dharampura, Dehradun
+Ama Cafe : 4.3 : Cafe, Continental, Fast Food, Street Food, Pizza, Burger, Desserts : ₹700 for two :  Rajpur, Dehradun
+The Banaras : 3.3 : North Indian, Continental, Chinese, Desserts, Beverages : ₹1,000 for two :  Ballupur, Dehradun
+Udupi Cafe North India : 3.0 : South Indian, Fast Food, Shake, Beverages : ₹400 for two :  Prem Nagar, Dehradun
+Social Circle : - : North Indian, Mughlai, Biryani, Chinese, Salad, Pasta, Fast Food : ₹1,300 for two :  Selakui, Dehradun
+Beertales : 4.0 : North Indian, Italian, Mexican, Thai, Salad, Sichuan, Desserts, Beverages : ₹1,500 for two :  Hathibarkala Salwala, Dehradun
+Olivo Bakers & Cafe : 4.0 : Cafe, Continental, Pizza, Pasta, Sandwich, Wraps, Burger, Beverages : ₹700 for two :  Garhi Cantt, Dehradun
+House Of Burgers : 3.0 : Burger, Continental, American, Healthy Food, Desserts, Beverages : ₹450 for two :  Ballupur, Dehradun
+Ghumakkad's Tiffin : 3.3 : North Indian, Burger, Fast Food : ₹300 for two :  Prem Nagar, Dehradun
+Haldiram’s : 3.1 : Mithai : ₹200 for two :  Chukkuwala, Dehradun
+Downtown Multicusine Restaurant : 4.2 : North Indian, Mughlai, Kebab, Fast Food, Chinese, Biryani, Desserts, Beverages : ₹1,200 for two :  Chironwali, Dehradun
+La Pino'z Pizza : - : Pizza, Italian : ₹400 for two :  Dharampur, Dehradun
+Red Coal : - : North Indian, Oriental, Salad, Street Food, Fast Food, Desserts, Beverages : ₹1,000 for two :  Dharampur, Dehradun
+Asha Restaurant : 3.4 : Chinese, Street Food : ₹200 for two :  Morowala, Dehradun
+Prem Da Dhaba : 3.6 : North Indian : ₹200 for two :  Prem Nagar, Dehradun
+Babagz : 4.2 : Biryani, Asian, Chinese, North Indian, Mexican, Sandwich, Fast Food : ₹1,000 for two :  Kaonli, Dehradun
+Tengo Hambre : 4.1 : Salad, Pizza, Burger, Sandwich, Pasta, Fast Food, Coffee, Beverages : ₹500 for two :  Balliwala, Dehradun
+The Buffet Snack Shop : 4.5 : Fast Food, Street Food, Beverages : ₹100 for two :  Chukkuwala, Dehradun
+Zaffran Curries & Biryani : 4.4 : North Indian, Mughlai, Biryani, Chinese, Desserts, Beverages : ₹2,000 for two :  Ballupur, Dehradun
+The Swings Cafe A Family Restaurant And Bar : 4.4 : Cafe, Coffee, North Indian, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,200 for two :  Jakhan, Dehradun
+Tirupati Restaurant : 4.1 : North Indian, Chinese, South Indian, Desserts, Beverages : ₹700 for two :  Chukkuwala, Dehradun
+Standard's Bakery : 3.9 : Bakery, Fast Food : ₹400 for two :  Kaonli, Dehradun
+Burger King : 4.2 : Burger, Fast Food, Desserts, Beverages : ₹350 for two :  Karanpur, Dehradun
+The Eleganza : 4.2 : North Indian, Chinese, Street Food, Pizza, Burger, Sandwich, Desserts, Beverages : ₹1,200 for two :  Prem Nagar, Dehradun
+Cafe By Mistakes : 3.4 : Burger, Sandwich, Pasta, Chinese, Fast Food : ₹500 for two :  Karanpur, Dehradun
+Basil Cafe & Restaurant : New : North Indian, South Indian, Mughlai, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Race Course, Dehradun
+The Art Cafe : 3.8 : North Indian, Mughlai, Chinese, Momos, Asian, Street Food, Fast Food, Beverages : ₹500 for two :  Prem Nagar, Dehradun
+Sheesha Lounge & Restaurant : 4.1 : North Indian, Mughlai, Chinese, Continental, Fast Food, Beverages : ₹1,000 for two :  Krishna Nagar, Dehradun
+Riverstone Cottages : 4.0 : North Indian, Mughlai, Kebab, Continental, Chinese, Biryani, Desserts, Beverages : ₹1,400 for two :  Malsi, Dehradun
+Desi Videshi Cafe : 4.2 : North Indian, South Indian, Fast Food, Street Food, Momos, Desserts, Shake, Beverages : ₹500 for two :  Subhash Nagar, Dehradun
+Green Roof Grill : 2.8 : Pizza : ₹550 for two :  Malsi, Dehradun
+Reggae Chilli : 4.2 : North Indian, Chinese, Italian, Continental, Fast Food : ₹800 for two :  Chironwali, Dehradun
+Asia Seven – Sizzling Chinese : 4.7 : Chinese, Japanese, Thai, Asian, Momos, Sushi, Seafood, Beverages : ₹1,200 for two :  Jakhan, Dehradun
+Woodpecker Restro Cafe & Party Lawn : 4.2 : North Indian, Chinese, Mughlai, Fast Food, Street Food, Beverages : ₹1,000 for two :  Chironwali, Dehradun
+US Pizza : New : Pizza, Fast Food : ₹500 for two :  Jakhan, Dehradun
+Cafe Radiohead : 3.9 : Continental, Chinese, Burger, Mexican, Pizza, Pasta, Shake, Sandwich : ₹600 for two :  Morowala, Dehradun
+The Phoenix Club : 4.5 : Chinese, North Indian, Fast Food, Continental, Desserts : ₹1,000 for two :  Prem Nagar, Dehradun
+Best Buddy's Restro Cafe : 4.2 : North Indian, Chinese, Continental, Fast Food, Biryani, Salad, Desserts, Beverages : ₹1,200 for two :  Malsi, Dehradun
+Barkat Pure Veg Dhaba : New : North Indian, Chinese, Beverages : ₹200 for two :  Malsi, Dehradun
+Desi Chulha : 4.3 : North Indian, Biryani, Desserts, Beverages, Garhwali, Pasta : ₹1,000 for two :  Karanpur, Dehradun
+Amritsari Express : 4.0 : North Indian : ₹500 for two :  Pacific Mall, Jakhan, Dehradun
+The Cosmopolitan : 3.9 : North Indian, Chinese, Mughlai, Continental, Fast Food, Biryani, Desserts, Beverages : ₹1,100 for two :  Ashtley Hall, Karanpur, Dehradun
+Aangan Restaurant & Bar : 4.0 : North Indian, Chinese, Continental, Oriental, Fast Food, Desserts, Beverages : ₹1,000 for two :  Karanpur, Dehradun
+Pizza By Crispy Slice : New : Pizza, Fast Food : ₹450 for two :  Subhash Nagar, Dehradun
+Wasabae : 4.1 : Japanese, Rolls, Chinese : ₹600 for two :  Ballupur, Dehradun
+Northern Food Factory : 2.9 : North Indian, Chinese : ₹300 for two :  Jakhan, Dehradun
+Oh! Eat Family Restaurant : New : North Indian, Chinese, Momos, Fast Food : ₹450 for two :  Chironwali, Dehradun
+McDonald's : 4.1 : Burger, Fast Food, Cafe, Coffee, Beverages : ₹500 for two :  Karanpur, Dehradun
+Club 90. Pub : New : Desserts, Beverages : ₹1,000 for two :  Hathibarkala Salwala, Dehradun
+Mumbaiwalla : 3.2 : Maharashtrian, Street Food, South Indian, Sandwich, Rolls : ₹400 for two :  Chironwali, Dehradun
+Zion : 4.5 : North Indian, Chinese, Continental, Fast Food, Street Food, Desserts, Beverages : ₹1,600 for two :  Rajpur, Dehradun
+Countdown Fast Food : 4.1 : Chinese, Pizza, Momos, Biryani, Rolls, American, Asian, Cantonese : ₹600 for two :  Karanpur, Dehradun
+Proton Cafe & Restaurant : New : Cafe, Coffee, North Indian, Pizza, Fast Food, Momos, Chinese, Beverages : ₹450 for two :  Rajpur, Dehradun
+Lhasa Tibet Kitchen : 4.1 : Tibetan, Chinese, Beverages : ₹500 for two :  Rajpur, Dehradun
+Food Villa Family Restaurant : - : North Indian, Chinese, Mughlai, Biryani, Rolls, Kebab : ₹450 for two :  Majra, Dehradun
+Uss Da Dhaba : 4.0 : North Indian : ₹300 for two :  Race Course, Dehradun
+Uss Da Dhaba Premium : 3.0 : North Indian, Chinese, Beverages : ₹600 for two :  Malsi, Dehradun
+Samburna : 3.9 : South Indian, Biryani, Desserts : ₹450 for two :  Jakhan, Dehradun
+The Daffodils Kitchen : 3.1 : Chinese, North Indian, Continental, Desserts, Beverages : ₹1,000 for two :  Rajpur, Dehradun
+Kathi Express : 3.9 : North Indian, Rolls : ₹300 for two :  Balliwala, Dehradun
+T3 Restaurant : 3.0 : North Indian, Mughlai, Fast Food, Pizza, Desserts, Beverages : ₹450 for two :  Jakhan, Dehradun
+The Solitare Restaurant and Bar : 3.9 : North Indian, Mughlai, Continental, Chinese, Salad, Biryani, Desserts, Beverages : ₹1,400 for two :  The Solitaire, Dharampur, Dehradun
+The Lucknowi -Taste Of Awadh : 3.8 : Lucknowi, North Indian, Biryani, Beverages, Mughlai : ₹500 for two :  Ballupur, Dehradun
+Garle Korean Café & Restaurant : 3.5 : Cafe, Coffee, Korean, Desserts, Beverages : ₹700 for two :  Karanpur, Dehradun
+Anandam : 4.4 : North Indian, Chinese, South Indian, Fast Food, Street Food, Mithai, Beverages : ₹1,500 for two :  Ballupur, Dehradun
+Yellow Hills : 4.1 : Fast Food, North Indian, Mughlai, Desserts : ₹200 for two :  Dharampur, Dehradun
+Gulab Sweets & Restaurant : 3.8 : Mithai, North Indian, Chinese, South Indian, Street Food, Beverages : ₹600 for two :  Kaonli, Dehradun
+Pahalwan Paratha Dhabba : 3.7 : North Indian, Chinese, Street Food : ₹450 for two :  Prem Nagar, Dehradun
+Katman's Kitchen & Bar : 3.9 : North Indian, Bar Food, Chinese, Fast Food : ₹1,200 for two :  Jakhan, Dehradun
+Punjabi Dhaba : 3.7 : North Indian, Mughlai, Chinese, Biryani : ₹450 for two :  Paltan Bazaar, Dehradun
+Kumar Vegetarian : 3.9 : North Indian, South Indian, Chinese, Desserts, Beverages : ₹750 for two :  Chukkuwala, Dehradun
+Pehalwan Paratha Dhaba : 3.6 : North Indian, Chinese, Fast Food, Street Food, Beverages : ₹350 for two :  Malsi, Dehradun
+Rajwada : - : Rajasthani : ₹1,500 for two :  Karanpur, Dehradun
+Fillberto : 3.6 : North Indian, Mughlai, Chinese, Kebab, Biryani, Fast Food : ₹1,400 for two :  Chironwali, Dehradun
+Delhi Chicken Point : 3.9 : North Indian, Mughlai : ₹400 for two :  Ballupur, Dehradun
+New Dana Pani Restaurant Since 2007 : 4.1 : North Indian, Chinese, Mughlai, Beverages : ₹500 for two :  Majra, Dehradun
+Monastery : - : Cafe, Sandwich, Asian, Pizza, Desserts, Chinese, Beverages : ₹700 for two :  Rajpur, Dehradun
+Cafe Village Highway : 3.6 : Cafe, Coffee, North Indian, Lebanese, Mexican, Fast Food, Desserts, Beverages : ₹800 for two :  Balliwala, Dehradun
+Razzmatazz : 3.5 : Cafe, Coffee, Oriental, Salad, Street Food, Fast Food, Desserts, Beverages : ₹900 for two :  Race Course, Dehradun
+Hungry Point : 3.3 : Pizza, Burger, Pasta, Fast Food, Shake, Beverages : ₹350 for two :  Selakui, Dehradun
+Kathi Bite : 3.9 : Rolls, North Indian, Fast Food, Lebanese, Sichuan, Beverages : ₹500 for two :  Pacific Mall, Jakhan, Dehradun
+Talab Cafe : 4.2 : North Indian, Chinese, Pizza, Sandwich, Fast Food, Biryani, Desserts, Beverages : ₹1,200 for two :  Ballupur, Dehradun
+Garden Cress - Ramada Dehradun : 3.9 : North Indian, Italian, Chinese, Continental, Fast Food, Asian, Desserts, Beverages : ₹2,000 for two :  Ramada Dehradun, Dehradun
+Prez Restaurant - Since 1976 : 4.0 : North Indian, Chinese, Continental, Thai, Street Food, Fast Food, Mughlai, Beverages : ₹1,200 for two :  Hotel President, Karanpur, Dehradun
+Babylon The Rooftop Kitchen : New : North Indian, Chinese, Fast Food : ₹200 for two :  Subhash Nagar, Dehradun
+The Ziba House - Cafe & Bakery : 3.5 : Cafe, Coffee, Shake, Beverages, Pizza, Fast Food, Italian, Bakery : ₹800 for two :  Rajpur, Dehradun
+Udupi Cafe Bangalore Idli : 3.1 : South Indian, North Indian, Street Food, Beverages : ₹350 for two :  Malsi, Dehradun
+Mountain Grind Coffee : - : Cafe, Coffee, Fast Food, Desserts, Tea : ₹550 for two :  Ballupur, Dehradun
+Doon Pahadi Family Restaurant : - : North Indian, Biryani, Chinese, Mughlai, Momos, Beverages : ₹500 for two :  Morowala, Dehradun
+Magic Momos : New : Momos : ₹300 for two :  Karanpur, Dehradun
+The Dosa Shop By Gaurav : - : South Indian, North Indian : ₹400 for two :  Miyanwala, Dehradun
+Infamous Bistro & Bar : 4.1 : North Indian, Chinese, Continental, Fast Food, Italian, Beverages : ₹2,000 for two :  Jakhan, Dehradun
+Mojo Cafe : - : Cafe, North Indian, Chinese, Italian, Fast Food, Beverages : ₹700 for two :  Rajpur, Dehradun
+Zaika Restaurant : 3.4 : North Indian, Chinese, Biryani, Mughlai, Asian, Fast Food, Beverages : ₹550 for two :  Paltan Bazaar, Dehradun
+Barcode : New : Chinese, Sandwich, Burger, Fast Food, Momos, Street Food : ₹350 for two :  Selakui, Dehradun
+Shaan - E - Punjab Tandoori Junction : New : North Indian, Chinese : ₹1,000 for two :  Indraprastha, Dehradun
+Southern Cafe : 4.4 : South Indian, Chinese, Street Food : ₹300 for two :  Chironwali, Dehradun
+Foodiex : - : North Indian, Fast Food, Momos, Street Food, Tea, Beverages : ₹200 for two :  Dharampur, Dehradun
+Ustaad Ji : New : North Indian, Chinese, Shake : ₹200 for two :  Race Course, Dehradun
+King Momos : New : Momos, Chinese : ₹400 for two :  Kaonli, Dehradun
+The Roof Top Cafe : New : North Indian, Street Food, Wraps, Pasta, Chinese, Sandwich, Shake : ₹250 for two :  Balliwala, Dehradun
+The Queen's Cafe & Restaurant : 3.8 : North Indian, Chinese, South Indian, Mughlai, Fast Food, Kebab, Biryani, Desserts : ₹1,000 for two :  Dharampur, Dehradun
+Nany's Bakery : 4.0 : Bakery, Fast Food, Sandwich, Chinese, Rolls, Pasta, South Indian, Street Food : ₹500 for two :  Karanpur, Dehradun
+Starterz Point : New : Chinese, Wraps, Fast Food, Momos, North Indian, Kebab, Shake, Beverages : ₹500 for two :  Laxman Chowk, Dehradun
+Al-Baik's Broasted : 3.3 : Fast Food : ₹250 for two :  Krishna Nagar, Dehradun
+Wow Momos : - : Momos : ₹200 for two :  Jakhan, Dehradun
+Foodies Junction : - : North Indian, Chinese : ₹400 for two :  Dharampur, Dehradun
+Annapurna Andhra Mess Speciality Restaurant : 3.9 : Andhra, South Indian, Biryani : ₹300 for two :  Balliwala, Dehradun
+Wild West Restaurant & Cafe : 4.7 : Chinese, North Indian, Mughlai, Kebab, Burger, Fast Food, Desserts, Beverages : ₹1,000 for two :  Rajpur, Dehradun
+Lamour Bakehouse : 3.2 : Fast Food, Coffee, Tea, Beverages : ₹300 for two :  Balliwala, Dehradun
+Play More Cafe : 3.3 : Chinese, Pizza, Shake : ₹500 for two :  Selakui, Dehradun
+Moti Mahal Restaurant : 3.5 : North Indian, Chinese, Continental, Biryani, Desserts, Beverages : ₹1,500 for two :  Race Course, Dehradun
+Garhwal Bhojanalya : 3.6 : North Indian, Chinese, Biryani, Beverages : ₹450 for two :  Selakui, Dehradun
+Kumar Sweets and Restaurant : 3.8 : Street Food, South Indian, Chinese, Momos, Mithai, Beverages : ₹300 for two :  Subhash Nagar, Dehradun
+Turkish Dastarkhwan Restaurant & Cafe : New : Turkish, North Indian, Mughlai, Mandi, Biryani, Chinese, Fast Food, Beverages : ₹1,000 for two :  Prem Nagar, Dehradun
+Zaffran : 4.6 : North Indian, Chinese, Oriental, Mughlai, Fast Food, Desserts : ₹1,000 for two :  Regenta LP Vilas, Prem Nagar, Dehradun
+Bonnie's Punjabi Tadkaa : 4.3 : North Indian, Mughlai, Biryani : ₹500 for two :  Race Course, Dehradun
+The Tavern Restaurant : 4.1 : North Indian, Mughlai, Chinese, Continental, Italian, Salad, Biryani, Desserts : ₹1,700 for two :  Crossroads Mall, Karanpur, Dehradun
+Doon Bakers and Confectioners : 3.7 : Bakery, Fast Food, Desserts : ₹300 for two :  Paltan Bazaar, Dehradun
+Tabletop Restaurant : 3.5 : North Indian, Mughlai, Fast Food, Biryani, Chinese, Beverages : ₹350 for two :  Dharampur, Dehradun
+Ashnan Restaurant : 3.5 : North Indian, Chinese, Mughlai, Fast Food, Street Food, Biryani, Desserts, Beverages : ₹900 for two :  Jakhan, Dehradun
+Tawa Restaurant : 3.3 : North Indian, Mughlai, Chinese, Seafood, Biryani, Fast Food, Ice Cream, Beverages : ₹1,000 for two :  Dharampur, Dehradun
+Doon Mughal : 3.2 : Mughlai, North Indian, Biryani : ₹550 for two :  Paltan Bazaar, Dehradun
+Pizza Italia : 4.0 : Pizza, Fast Food, Beverages : ₹500 for two :  Subhash Nagar, Dehradun
+Cafe Commune : 4.3 : Cafe, Beverages, Fast Food, Chinese, Italian, North Indian, Salad, Desserts : ₹1,000 for two :  Malsi, Dehradun
+Rico Royal Bakery : 3.6 : Bakery, Desserts : ₹250 for two :  Karanpur, Dehradun
+Berco's - If You Love Chinese : 4.1 : Chinese, Thai, Asian : ₹900 for two :  Hathibarkala Salwala, Dehradun
+Hotel Gems Inn : 3.8 : Continental, North Indian, Chinese, Street Food : ₹550 for two :  Prem Nagar, Dehradun
+70 Percent Restro Cafe : 4.4 : Cafe, Coffee, Continental, North Indian, Fast Food, Street Food, Desserts, Beverages : ₹800 for two :  Ballupur, Dehradun
+Terrazzo : 4.0 : North Indian, Chinese, Continental, Burger, Pizza : ₹1,200 for two :  Ballupur, Dehradun
+Olivo Wine & Dine : 3.9 : North Indian, Continental, Pizza, Burger, Sandwich, Chinese, Desserts, Beverages : ₹1,500 for two :  Kaonli, Dehradun
+Bawarchi : 4.0 : North Indian, Mughlai, Chinese, Pasta, Pizza, Biryani, Desserts, Beverages : ₹1,000 for two :  Majra, Dehradun
+Bikanervala : 3.5 : Mithai, Fast Food, South Indian, Street Food, Chinese, Shake, Beverages : ₹450 for two :  Khurbura, Dehradun
+Aura Restaurant : 4.2 : North Indian, Continental, Chinese, Mughlai, Kebab, Biryani, Desserts : ₹1,700 for two :  Kaonli, Dehradun
+The Turkish Restaurant : - : Turkish, North Indian, Mughlai, Kebab :  for two :  Ballupur, Dehradun
+Jalapenos : 4.6 : Sandwich, Italian, Fast Food, Tea, Shake, Beverages : ₹600 for two :  Rajpur, Dehradun
+Dhaba In A Dabba : 3.3 : North Indian, Biryani, Chinese : ₹500 for two :  Prem Nagar, Dehradun
+Bhura Chicken Corner : 4.0 : North Indian : ₹500 for two :  Race Course, Dehradun
+The Pahadi House : 3.6 : Fast Food, North Indian, South Indian, Chinese, Desserts, Beverages : ₹500 for two :  Rajpur, Dehradun
+Dhungaar : 3.9 : Kebab, Chinese, Biryani, North Indian : ₹1,000 for two :  Rajpur, Dehradun
+White Horse - Ramada Dehradun : 4.2 : Bar Food : ₹1,200 for two :  Ramada Dehradun, Dehradun
+Goyal Sweet Shop : 3.4 : Mithai, North Indian, Street Food : ₹200 for two :  Race Course, Dehradun
+Lazeez Matka Mutton And Chicken : - : Mughlai, North Indian : ₹600 for two :  Chukkuwala, Dehradun
+Nutmeg Cafe : - : North Indian, Chinese, Fast Food : ₹800 for two :  Shahpur Santore, Dehradun
+18 Bodyguard Rooftop & Skybar : - : North Indian, Chinese : ₹1,500 for two :  Rajpur, Dehradun
+Khopche : 2.2 : North Indian, Chinese, Sichuan, Momos, Rolls, Fast Food, Beverages : ₹400 for two :  Ballupur, Dehradun
+The Terrace - Four Points By Sheraton Dehradun : 3.3 : North Indian, Chinese, Continental, Biryani, Fast Food : ₹1,700 for two :  Four Points by Sheraton, Jakhan, Dehradun
+Plumeria Bakes & Brews - Fairfield By Marriott : - : Cafe, Bakery, Coffee, Tea, Beverages : ₹1,000 for two :  Fairfield By Marriott, Dehradun, Dehradun
+Cafe Greek Orchid : 3.7 : Mexican, Fast Food, Chinese, Desserts, Beverages : ₹500 for two :  Karanpur, Dehradun
+Nik Baker's : 2.9 : Bakery, Sandwich, Fast Food : ₹1,000 for two :  Malsi, Dehradun
+Singh Soup Bar : 3.3 : Fast Food, Chinese, Momos, North Indian : ₹550 for two :  Hathibarkala Salwala, Dehradun
+Booze On MRP : 3.0 : North Indian, Chinese, Mughlai, Fast Food : ₹1,000 for two :  Chukkuwala, Dehradun
+Theobroma : - : Bakery, Desserts : ₹200 for two :  Chukkuwala, Dehradun
+Dhaba Singh Darbar : 3.1 : North Indian, Mughlai, Chinese : ₹550 for two :  Prem Nagar, Dehradun
+Dosai A South Indian Restaurant : 3.3 : South Indian, Beverages : ₹250 for two :  Dharampur, Dehradun
+Shagun Restaurant : 4.1 : Chinese, Fast Food, Healthy Food, Mughlai : ₹300 for two :  Dharampur, Dehradun
+Wise Monkey : - : Chinese, Fast Food, Sandwich, Salad, Bar Food, Beverages : ₹1,000 for two :  Chironwali, Dehradun
+Bhatia Dhaba : 4.1 : North Indian, Mughlai, Chinese : ₹550 for two :  Prem Nagar, Dehradun
+Townscape Rooftop Restaurant : New : North Indian, Chinese : ₹1,000 for two :  Dharampur, Dehradun
+L'Opéra Salon de Thé : 4.3 : Bakery, Desserts, Sandwich, Beverages : ₹1,000 for two :  Race Course, Dehradun
+Tibetan Restaurant : - : Tibetan, Chinese, Beverages : ₹300 for two :  Prem Nagar, Dehradun
+Delhi Darbar : 4.0 : North Indian : ₹400 for two :  Majra, Dehradun
+Kwality Wall’s Frozen Dessert and Ice Cream Shop : 3.3 : Ice Cream, Desserts : ₹200 for two :  Paltan Bazaar, Dehradun
+Cafe Coco : 4.1 : Cafe, Bakery, Fast Food, Desserts, Beverages : ₹600 for two :  Regenta LP Vilas, Prem Nagar, Dehradun
+Blooms Cafe : 3.8 : Cafe, Coffee, Asian, Pizza, Pasta, Fast Food, Desserts, Beverages : ₹900 for two :  Rajpur, Dehradun
+Biryani Man : 3.8 : Biryani, North Indian, Chinese, Kebab, Desserts, Shake, Beverages : ₹1,100 for two :  Karanpur, Dehradun
+The Retro Rolls : 4.2 : Rolls, Fast Food, Desserts, Beverages : ₹350 for two :  Dharampur, Dehradun
+Doon Darbar : 3.1 : Mughlai, North Indian, Fast Food, Desserts, Beverages, Chinese, Momos : ₹500 for two :  Prem Nagar, Dehradun
+Mom's Parantha ( a unit of Udupi cafe ) : - : North Indian, Beverages : ₹200 for two :  Karanpur, Dehradun
+Salads & Co. : - : Salad, Healthy Food, Juices : ₹450 for two :  Chironwali, Dehradun
+First Gear Cafe : 3.9 : Cafe, Beverages, Fast Food, Chinese : ₹700 for two :  Rajpur, Dehradun
+A - One Chicken Biryani : - : Biryani, North Indian : ₹450 for two :  Majra, Dehradun
+Badmaash Kebabi : 4.3 : North Indian, Mughlai, Rolls, Biryani, Kebab, Desserts, Beverages : ₹600 for two :  Pacific Mall, Jakhan, Dehradun
+Chicken Biryani & Tandori Chap : - : Biryani, Fast Food, North Indian, Rolls, Momos, Chinese : ₹300 for two :  Subhash Nagar, Dehradun
+Cafex : - : Coffee, Shake, Beverages : ₹350 for two :  Rajpur, Dehradun
+Madras Meals : New : South Indian : ₹200 for two :  Prem Nagar, Dehradun
+Curry Kitchen : New : North Indian, Chinese, Beverages : ₹500 for two :  Prem Nagar, Dehradun
+Gulab Sweets : 4.0 : Mithai, North Indian : ₹500 for two :  Subhash Nagar, Dehradun
+Grille Restaurant : 4.0 : North Indian : ₹1,200 for two :  Axiom Mall, Jakhan, Dehradun
+Tandon's Fast Food : 4.6 : Chinese, Momos, Mughlai : ₹150 for two :  Rajpur, Dehradun
+Burger Singh - Big Punjabi Burgers : 3.9 : Burger, Fast Food, Momos, Desserts, Beverages : ₹300 for two :  Balliwala, Dehradun
+The Sky Lounge : - : North Indian, Chinese, Mughlai, Seafood, Kebab, Biryani, Pasta, Pizza : ₹1,000 for two :  Prem Nagar, Dehradun
+Bobby's Kitchen : 3.8 : North Eastern, Momos, Chinese, Rolls : ₹600 for two :  Kaonli, Dehradun
+Y Cafe & Restaurant : 3.9 : Cafe, Continental, Mexican, Chinese, Thai, Salad, Desserts, Beverages : ₹1,000 for two :  Karanpur, Dehradun
+Roms Pizza : - : Pizza, Burger, Fast Food, Beverages : ₹500 for two :  Karanpur, Dehradun
+Burfee : - : North Indian, Chinese : ₹300 for two :  Suddhowala, Dehradun
+Burger Masters : 3.4 : Burger, Fast Food, Shake, Beverages : ₹250 for two :  Subhash Nagar, Dehradun
+Kohli's : 3.4 : Mithai, North Indian, Chinese, South Indian, Pizza, Pasta, Fast Food, Street Food : ₹400 for two :  Balliwala, Dehradun
+Pinewood Cafe & Kitchen : 4.0 : Cafe, Coffee, Chinese, Pizza, Sandwich, Fast Food, Desserts, Beverages : ₹400 for two :  Paltan Bazaar, Dehradun
+Chicken Point : - : North Indian, Mughlai, Chinese, Biryani, Rolls : ₹1,200 for two :  Jogiwala, Dehradun
+The Black Pearl Lounge and Restro : 3.8 : North Indian, Chinese, Mughlai, Sichuan, Beverages : ₹1,800 for two :  Rajpur, Dehradun
+Romnik Pizza : - : Pizza : ₹350 for two :  Raipur, Dehradun
+Manduwa King : - : North Indian, Fast Food, Street Food, Beverages : ₹250 for two :  Jogiwala, Dehradun
+Bikaner Misthan Bhandar : - : Mithai, North Indian, Chinese, Fast Food : ₹200 for two :  Jogiwala, Dehradun
+Revashi : - : North Indian, Chinese, Pizza, Pasta, Fast Food, Momos : ₹1,000 for two :  Prem Nagar, Dehradun
+Chai Sutta Bar : - : Cafe, Coffee, Street Food, Fast Food, Shake, Beverages : ₹500 for two :  Jakhan, Dehradun
+PG Cafe : - : North Indian, Sandwich, Fast Food, Chinese, Momos, Street Food, Beverages : ₹600 for two :  Subhash Nagar, Dehradun
+Vasdaa Restaurant : - : North Indian, South Indian, Rolls, Chinese, Biryani, Desserts : ₹1,000 for two :  Jogiwala, Dehradun
+The Knights Bridge : - : North Indian, Chinese, Momos, Pizza, Biryani : ₹1,000 for two :  Kaonli, Dehradun
+Shri Sai Soya Chaap : - : North Indian, Fast Food, Momos : ₹200 for two :  Jogiwala, Dehradun
+Tara Ji Restro : - : North Indian : ₹500 for two :  Rajpur, Dehradun
+77 South Indian Cafe : - : South Indian, Pizza, Fast Food, Shake, Beverages : ₹400 for two :  Jogiwala, Dehradun
+Cafe Freedom : 2.8 : Fast Food : ₹250 for two :  Malsi, Dehradun
+Naveen Vegetarian : 4.0 : Chinese, North Indian, Desserts, Beverages : ₹900 for two :  Paltan Bazaar, Dehradun
+Divine Family Restaurant : - : North Indian, Chinese, Biryani, Fast Food, Shake, Beverages : ₹1,000 for two :  Suddhowala, Dehradun
+Pizzo Cafe : - : Pizza, Shake, Beverages : ₹200 for two :  Kailash Vihar, Dehradun
+Mom's Kitchen : 3.5 : North Indian, South Indian, Mughlai, Chinese, Fast Food, Biryani, Momos, Beverages : ₹500 for two :  Selakui, Dehradun
+Hinglaj Bikaner Mishthan Bhandar : - : Mithai, South Indian, Chinese, Fast Food, Street Food : ₹200 for two :  Majra, Dehradun
+Hotel Aketa : 4.1 : North Indian, Asian, Italian, Biryani, Kebab, Salad : ₹1,100 for two :  Hathibarkala Salwala, Dehradun
+Alam Biryani Point : New : Biryani : ₹200 for two :  Prem Nagar, Dehradun
+G7 Bar & Kitchen : 4.2 : Chinese, Continental, North Indian, Mughlai : ₹1,200 for two :  Kaonli, Dehradun
+Chilli'z Restro Express : 3.9 : North Indian, Chinese, Mughlai : ₹600 for two :  Dharampur, Dehradun
+Taste Hot Pizza : 4.2 : Pizza, Fast Food : ₹350 for two :  Prem Nagar, Dehradun
+Crust - Ramada Dehradun : 3.9 : Italian, Bakery, Desserts, Beverages : ₹550 for two :  Ramada Dehradun, Dehradun
+Pyari Pahadan Restro : 3.7 : Garhwali, North Indian, Chinese : ₹500 for two :  Morowala, Dehradun
+Lemon Chilli Family Restro : 4.0 : North Indian, Chinese, Mughlai : ₹400 for two :  Hathibarkala Salwala, Dehradun
+Chillum Corner Cafe : New : Pizza, Sandwich, Fast Food, Pasta, Street Food, Chinese, Momos, Shake : ₹300 for two :  Raipur, Dehradun
+Rolls Nation : - : Rolls, Burger, Sandwich, Fast Food, Shake : ₹200 for two :  Selakui, Dehradun
+Mughal Restaurant : - : Mughlai, North Indian : ₹350 for two :  Selakui, Dehradun
+Thirsty Anchor Parlor - TAP : 4.6 : North Indian, Chinese, Continental, Biryani, Bar Food, Desserts, Beverages : ₹2,000 for two :  Jakhan, Dehradun
+Dodo Cafe : - : Coffee, Shake, Beverages : ₹100 for two :  Bidholi, Dehradun
+Foodzilla The Cafe & Restro : - : North Indian, Chinese, Burger, Sandwich, Pizza, Momos, Fast Food, Shake : ₹1,300 for two :  Prem Nagar, Dehradun
+Aahaaram Foods : New : South Indian, North Indian, Chinese, Fast Food, Street Food, Coffee, Beverages : ₹400 for two :  Garhi Cantt, Dehradun
+SOL Cafe & Lounge : 3.6 : North Indian, Chinese, Fast Food, Street Food, Kebab, Desserts, Beverages : ₹1,000 for two :  Jakhan, Dehradun
+Tibar Road Trip Kitchen : - : Chinese, Momos, North Indian, Beverages : ₹350 for two :  Dharampur, Dehradun
+Super Donuts : 4.6 : Burger, Pasta, Fast Food, Beverages, Shake : ₹500 for two :  Hathibarkala Salwala, Dehradun
+Tandoori Flame Restaurant : - : North Indian, Chinese : ₹350 for two :  Karanpur, Dehradun
+Basrah Biryani - Since 1963 : - : Biryani : ₹550 for two :  Prem Nagar, Dehradun
+Tandoori Bar : - : North Indian, Chinese, Biryani : ₹400 for two :  Karanpur, Dehradun
+Sweet Cravings By Ovens Magic : New : North Indian, South Indian, Chinese, Street Food, Bakery, Mithai : ₹350 for two :  Jakhan, Dehradun
+Cravings & More : - : North Indian, Momos, BBQ, Kebab : ₹500 for two :  Dharampur, Dehradun
+Da Pizza Zone : - : Pizza, Fast Food, Beverages, Burger, Pasta, Italian : ₹450 for two :  Selakui, Dehradun
+La Pino'z Pizza : - : Pizza, Fast Food : ₹400 for two :  Pacific Hills, Malsi, Dehradun
+The Hungry Charger : New : North Indian, Chinese, Kebab, Biryani, Salad, Momos, Pizza, Tea : ₹500 for two :  Indraprastha, Dehradun
+Doon Restaurant : New : North Indian : ₹250 for two :  Ballupur, Dehradun
+Zona Bakehouse : - : Bakery, Desserts, Fast Food, Shake, Beverages : ₹250 for two :  Jakhan, Dehradun
+Khatu Shyam Ki Dhaani : New : Rajasthani : ₹300 for two :  Garhi Cantt, Dehradun
+Tamu's Kitchen : - : Chinese, Pizza, Rolls, Sandwich, Shake, Ice Cream, Desserts : ₹250 for two :  Selakui, Dehradun
+RB Cafe : New : North Indian, Chinese, Fast Food, Street Food : ₹500 for two :  Prem Nagar, Dehradun
+Doon Tripple Nine : 4.0 : North Indian, Chinese, Mughlai, Rolls, Biryani, Beverages : ₹600 for two :  Kaonli, Dehradun
+0135 Pub & Kitchen : 3.9 : Continental, North Indian, Chinese, Fast Food : ₹1,200 for two :  Rajpur, Dehradun
+Dhaba Express : - : North Indian : ₹200 for two :  Karanpur, Dehradun
+Yum Wok : New : Chinese, Momos, Tea, Coffee : ₹150 for two :  Morowala, Dehradun
+Doon Restaurant : New : North Indian, Chinese, Street Food, Beverages : ₹500 for two :  Rajpur, Dehradun
+Muradabadi Chicken Biryani : - : Biryani, North Indian : ₹350 for two :  Prem Nagar, Dehradun
+Moga Punjabi Resturat : - : North Indian, Chinese, Street Food : ₹350 for two :  Paltan Bazaar, Dehradun
+Spice Chicken Biryani : - : Biryani : ₹200 for two :  Subhash Nagar, Dehradun
+Yuri Restaurant : 4.0 : North Indian, Chinese, Fast Food, Biryani, Beverages : ₹700 for two :  Dharampur, Dehradun
+Just Cafe : 3.8 : Pizza, Momos, Fast Food, Desserts, Beverages, North Indian : ₹500 for two :  Paltan Bazaar, Dehradun
+Haveli Bhojnalaya : New : North Indian : ₹250 for two :  Jakhan, Dehradun
+Bengali Sweet Shop - Since 1930 : 4.0 : Mithai : ₹300 for two :  Chukkuwala, Dehradun
+P J Family Restaurant : - : North Indian, Chinese : ₹250 for two :  Dharampur, Dehradun
+Aura Fine Dine : 3.5 : North Indian, Chinese, Italian, Kebab, Biryani, Desserts, Beverages : ₹800 for two :  Ballupur, Dehradun
+Shivaay Food Court : New : North Indian : ₹300 for two :  Morowala, Dehradun
+Pizza Day : New : Pizza, Fast Food : ₹450 for two :  Prem Nagar, Dehradun
+Divyanjali : - : Chinese, South Indian, Biryani, Momos, Fast Food : ₹200 for two :  Indian Military Academy, Dehradun
+Four Seasons Cafe & Restaurant : - : North Indian, Chinese, Beverages : ₹400 for two :  Chironwali, Dehradun
+Chauhan Foods & Caterers : New : North Indian : ₹300 for two :  Rajpur, Dehradun
+So & So Cafe : - : Chinese, Fast Food, Coffee, Tea, Beverages, Shake : ₹300 for two :  Morowala, Dehradun
+Delhi Juice And Cafe : - : Shake, Beverages, Fast Food, Chinese : ₹300 for two :  Chironwali, Dehradun
+Tisane Tea Bar : New : Tea, Chinese, Pizza, Fast Food, Street Food : ₹400 for two :  Raipur, Dehradun
+Where The Heart Lies : - : American, North Indian : ₹1,600 for two :  Malsi, Dehradun
+National Juice House : 4.0 : Juices, Ice Cream, Shake : ₹150 for two :  Paltan Bazaar, Dehradun
+Sla Bakery - Boulangerie & Cafe : 4.0 : Cafe, Bakery, Continental, Pizza, Pasta, Fast Food, Salad, Desserts : ₹1,300 for two :  Rajpur, Dehradun
+Chennai Express : - : South Indian : ₹200 for two :  Paltan Bazaar, Dehradun
+MJ Restaurant - MJ Residency : 4.0 : North Indian, Chinese, Mughlai, Kebab, Salad, Biryani, Fast Food, Beverages : ₹1,600 for two :  Race Course, Dehradun
+Da Mexican Pizza : 4.1 : Pizza, Fast Food : ₹500 for two :  Kaonli, Dehradun
+Brew Factory : 3.9 : Continental, North Indian, Fast Food, Chinese : ₹800 for two :  Malsi, Dehradun
+The Shawarma King : 4.2 : Shawarma, Middle Eastern, North Indian, Kebab, Burger, Fast Food, Salad, Beverages : ₹500 for two :  Dharampur, Dehradun
+Anandam Express : 4.0 : Mithai, North Indian, South Indian, Chinese, Street Food, Beverages : ₹600 for two :  Chukkuwala, Dehradun
+Amola's : 4.0 : North Indian, Mughlai, Chinese, Kebab, Street Food, Beverages : ₹500 for two :  Morowala, Dehradun
+Cafe Lychee Tree : 4.0 : Cafe, Coffee, Beverages, Italian, Chinese, Fast Food, North Indian, Biryani : ₹800 for two :  Dharampur, Dehradun
+Nazim's Kathi Roll : 4.2 : Rolls, Burger, Momos : ₹300 for two :  Jakhan, Dehradun
+Tashi's : 3.9 : North Indian, Chinese : ₹400 for two :  Raipur, Dehradun
+Bottle Kitchen & Co. : 4.4 : North Indian, Asian, Sandwich, Fast Food, Desserts, Beverages : ₹1,200 for two :  Jakhan, Dehradun
+Bardo Restro & Cafe : 4.5 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,900 for two :  Karanpur, Dehradun
+Biryani Mansion : 4.2 : North Indian, Mughlai, Biryani : ₹300 for two :  Ballupur, Dehradun
+Brigadier's Restro Bar By Vishranti : 3.9 : North Indian, Continental, Chinese, Beverages : ₹1,200 for two :  Prem Nagar, Dehradun
+Nostalgia : 4.2 : North Indian, Chinese, Italian, European, Fast Food, Salad, Desserts, Beverages : ₹1,200 for two :  Krishna Nagar, Dehradun
+Standard Bakers & Fast Food : 3.7 : Bakery, Chinese, Pizza, Burger, Fast Food, Ice Cream, Desserts : ₹300 for two :  Garhi Cantt, Dehradun
+New Balloon Restaurant : 3.6 : North Indian, Chinese, Fast Food, Biryani, Mughlai, Desserts, Beverages : ₹1,000 for two :  Selakui, Dehradun
+Uncle Johns Pizza : 3.8 : Pizza, Fast Food, Beverages : ₹600 for two :  Raipur, Dehradun
+Starbucks Coffee : 2.8 : Cafe, Beverages, Desserts : ₹800 for two :  Malsi, Dehradun
+Chicken Inn : 3.9 : North Indian : ₹500 for two :  Hathibarkala Salwala, Dehradun
+THC - Truckers Halt Cafe : 3.9 : Wraps, Burger, Sandwich, Pasta, Fast Food, Beverages : ₹450 for two :  Jakhan, Dehradun
+Nath's Chinese : 4.0 : North Indian, Chinese : ₹350 for two :  Hathibarkala Salwala, Dehradun
+Sethi's Food Corner : 4.1 : Fast Food, Chinese, Momos, Rolls, Burger, Street Food, Beverages : ₹300 for two :  Chukkuwala, Dehradun
+Bollywood Cafe & Restaurant : 4.2 : North Indian, Chinese, Mughlai : ₹900 for two :  Garhi Cantt, Dehradun
+Pizza Love : 4.3 : Pizza, Sandwich, Beverages : ₹150 for two :  Prem Nagar, Dehradun
+Dhaba : 3.6 : North Indian, Mughlai, Chinese : ₹500 for two :  Garhi Cantt, Dehradun
+Bartwal Sweets & Restaurant : 3.8 : Mithai, North Indian, Chinese, South Indian, Ice Cream, Desserts, Beverages : ₹500 for two :  Selakui, Dehradun
+Dilli 6 : 3.9 : North Indian, South Indian, Chinese, Street Food, Momos, Shake, Beverages : ₹500 for two :  Karanpur, Dehradun
+Veer Ji Malai Chaap Wale : - : North Indian, Mughlai, Biryani, Rolls, Momos, Shake, Beverages : ₹300 for two :  Karanpur, Dehradun
+Pahadi Rasoi : 4.1 : Garhwali, North Indian, Desserts, Beverages : ₹500 for two :  Ballupur, Dehradun
+Singh Ji Malai Chaap Wale : 3.3 : North Indian, Rolls, Chinese : ₹400 for two :  Kaonli, Dehradun
+Go Dutch Cafe & Restaurant : - : North Indian, Mughlai, Continental, Chinese, Beverages : ₹1,000 for two :  Subhash Nagar, Dehradun
+Pub Of India : 4.1 : North Indian, Italian, Chinese, Continental : ₹1,200 for two :  Rajpur, Dehradun
+The Daisy Cafe And Bakery : 4.0 : Cafe, Coffee, Oriental, Chinese, Fast Food, Desserts, Beverages : ₹650 for two :  Jakhan, Dehradun
+8 Momoz : 4.0 : Momos, North Indian, Chinese, Fast Food : ₹400 for two :  Ballupur, Dehradun
+Kathi Junction : 3.9 : Rolls, Sandwich, Shawarma, Shake, Beverages : ₹300 for two :  Kaonli, Dehradun
+Best In Town : 3.9 : Burger, Fast Food : ₹500 for two :  Krishna Nagar, Dehradun
+The Kitchen By MJ Grand Inn : 3.9 : North Indian, Chinese, Continental, Street Food, Fast Food, Desserts, Beverages : ₹700 for two :  Chukkuwala, Dehradun
+Aerodine Multicuisine Restaurant : 4.0 : North Indian, Chinese, Continental, Mexican, Fast Food, Kebab, Desserts, Beverages : ₹950 for two :  Hathibarkala Salwala, Dehradun
+Falak - Alfresso Dining : - : North Indian, Mughlai, Continental, Italian, Desserts, Beverages : ₹1,200 for two :  Jakhan, Dehradun
+Bunk Cafe : 3.6 : Chinese, Pizza, Sandwich, Fast Food, Momos, Street Food, Shake, Beverages : ₹350 for two :  Bidholi, Dehradun
+Hyderabadi's Biryani House : 3.8 : Biryani, Hyderabadi, North Indian, Mughlai : ₹1,000 for two :  Prem Nagar, Dehradun
+The Waffle Co. : 3.0 : Waffle, Beverages : ₹500 for two :  Ballupur, Dehradun
+Clever Fox Cafe - Lemon Tree Hotel : 3.9 : North Indian : ₹1,200 for two :  Lemon Tree Hotel, Dehradun, Dehradun
+Angeethi By Gaurav : 3.5 : North Indian, Chinese, Momos : ₹500 for two :  Raipur, Dehradun
+Qb Lounge Bar : 4.4 : Mughlai, North Indian, Chinese, Sichuan : ₹1,500 for two :  Axiom Mall, Jakhan, Dehradun
+Ahuja's Sweets & Dairy : 3.9 : Mithai, South Indian, Street Food, Beverages : ₹300 for two :  Dharampur, Dehradun
+Aman Vegetarian : 3.7 : North Indian : ₹350 for two :  Paltan Bazaar, Dehradun
+Snack Rack : 3.2 : North Indian, Fast Food, Chinese, Momos, Rolls, Shake, Beverages : ₹200 for two :  Prem Nagar, Dehradun
+Ruttba : - : North Indian, South Indian, Chinese, Fast Food, Mughlai, Continental, Desserts, Beverages : ₹1,200 for two :  Chukkuwala, Dehradun
+Gourmet Culture - Hotel Madhuban : 4.0 : North Indian, Chinese, Continental, Oriental, Desserts, Beverages : ₹1,800 for two :  Hotel Madhuban, Hathibarkala Salwala, Dehradun
+Opal Lounge : 4.2 : North Indian, Continental, Chinese : ₹1,600 for two :  Chukkuwala, Dehradun
+Anandpuri Restaurant : 3.9 : North Indian, Chinese, South Indian, Street Food, Desserts, Beverages : ₹400 for two :  Hathibarkala Salwala, Dehradun
+Eddie's Patisserie : 4.4 : Bakery, Sandwich, Burger, Fast Food, Desserts : ₹350 for two :  Khurbura, Dehradun
+Let's Ketchup Cafe : 3.9 : Pizza, Sandwich, Fast Food, Street Food, Desserts, Shake, Beverages : ₹300 for two :  Kaonli, Dehradun
+Dash Point : 3.4 : Beverages, Healthy Food, Desserts : ₹250 for two :  Chukkuwala, Dehradun
+Toss Cafe Lounge : 3.9 : Continental, Chinese, Fast Food, Desserts, Beverages : ₹2,100 for two :  Chukkuwala, Dehradun
+Taneja Restaurant : 3.2 : North Indian, Mughlai, Biryani : ₹450 for two :  Prem Nagar, Dehradun
+Orion-The Sky lounge, Comfort Inn : 4.2 : North Indian, Mughlai, Chinese, Fast Food, Desserts, Beverages : ₹1,200 for two :  Chironwali, Dehradun
+Wat A Roll : 3.5 : North Indian, Rolls, Sandwich, Pasta, Burger, Salad, Street Food, Beverages : ₹300 for two :  Malsi, Dehradun
+Burger Monk : 4.0 : Burger, Pizza, Sandwich, Wraps, Fast Food, Beverages : ₹400 for two :  Race Course, Dehradun
+Nukkad Restaurant : 3.9 : North Indian, Chinese, Biryani : ₹400 for two :  Race Course, Dehradun
+Giani : 4.1 : Ice Cream, Desserts, Shake, Beverages : ₹350 for two :  Rajpur, Dehradun
+UBQ by Barbeque Nation : 3.7 : North Indian, BBQ, Biryani, Street Food, Kebab, Beverages, Desserts : ₹1,000 for two :  Hathibarkala Salwala, Dehradun
+Nothing Before Coffee : - : Cafe, Coffee, Shake, Desserts, Tea, Beverages : ₹350 for two :  Krishna Nagar, Dehradun
+Annapurna Andhra Mess : 3.8 : South Indian, Biryani : ₹300 for two :  Majra, Dehradun
+Mughal Darbar : 3.8 : North Indian : ₹300 for two :  Majra, Dehradun
+Le Amritam - Dine & Mime : 3.9 : North Indian, Chinese, Continental, Fast Food, Mughlai, Desserts, Beverages : ₹800 for two :  Kaonli, Dehradun
+Dana Pani Family Restaurant : 3.7 : North Indian, Chinese, Mughlai, Biryani, Beverages : ₹600 for two :  Majra, Dehradun
+Rajdhani Restaurant : 3.7 : North Indian, Chinese, Street Food, Fast Food, Biryani, Mughlai, Beverages : ₹600 for two :  Balliwala, Dehradun
+The Valley Cafe : 4.4 : North Indian, Chinese, Continental, Fast Food, Desserts, Beverages : ₹550 for two :  Subhash Nagar, Dehradun
+Cafe Laata : 3.9 : North Indian, Fast Food, Street Food, Beverages : ₹450 for two :  Jakhan, Dehradun
+Mannu Fast Food : 4.2 : Fast Food, Chinese, Pasta, Rolls, Momos, Street Food, Beverages : ₹450 for two :  Raipur, Dehradun
+Dana Pani Restaurant : 3.3 : North Indian, Chinese : ₹800 for two :  Majra, Dehradun
+King's Harbor Restaurant : 4.1 : Finger Food, North Indian, Chinese, Continental : ₹1,500 for two :  Kaonli, Dehradun
+National Juice House Premium : - : Beverages, Juices, Shake, Salad, Kebab, Sandwich, Pizza, Burger : ₹450 for two :  Jakhan, Dehradun
+Kaafal : 4.1 : North Indian, Garhwali, Mughlai, Chinese, Kebab, Biryani, Desserts : ₹1,000 for two :  Chironwali, Dehradun
+Kumar Sweet Shop : 3.6 : Mithai, North Indian, South Indian, Street Food, Beverages : ₹300 for two :  Shree Towers, Dharampura, Dehradun
+Pandit Ji Sweets & Restaurant Dairy : 3.3 : Mithai, North Indian, Street Food, Beverages : ₹200 for two :  Chironwali, Dehradun
+Nazish Kathi Roll : 3.9 : Chinese, Rolls, Momos : ₹300 for two :  Jakhan, Dehradun
+Aaoji Khaoji : 4.0 : North Indian, South Indian, Desserts, Beverages : ₹400 for two :  Race Course, Dehradun
+Keventers - Milkshakes & Desserts : 4.1 : Beverages, Shake, Ice Cream, Desserts : ₹400 for two :  Pacific Mall, Jakhan, Dehradun
+Lets Smooch Cafe : 3.9 : Sandwich, Burger, Pizza, Fast Food, Street Food, Beverages, Shake : ₹250 for two :  Race Course, Dehradun
+Uttapam Cafe : 3.6 : South Indian, North Indian, Chinese, Beverages : ₹350 for two :  Garhi Cantt, Dehradun
+Startup Cafe : 3.8 : North Indian, Biryani, Fast Food, Beverages : ₹300 for two :  Morowala, Dehradun
+Winni Cakes & More : 3.9 : Bakery, Desserts, Fast Food, Beverages : ₹500 for two :  Karanpur, Dehradun
+Angrezi Beat Cafe : 3.7 : Chinese, Momos : ₹450 for two :  Karanpur, Dehradun
+Delicious Pizza : 3.6 : Pizza, Pasta, Fast Food : ₹400 for two :  Dharampur, Dehradun
+Idli Bar : 3.7 : North Indian, South Indian, Chinese, Fast Food : ₹1,000 for two :  Subhash Nagar, Dehradun
+Level One : 3.5 : North Indian, American, Fast Food, Shake, Beverages : ₹1,000 for two :  Hathibarkala Salwala, Dehradun
+Hakka Restaurant : 3.9 : Chinese : ₹150 for two :  Rajpur, Dehradun
+New Uska Punjabi Dhaba : 4.1 : North Indian : ₹400 for two :  Paltan Bazaar, Dehradun
+Bengal's Kathi Roll & Restaurant : 3.3 : Rolls, North Indian, Biryani : ₹300 for two :  Prem Nagar, Dehradun
+Divyansh Cake Superior : 3.5 : Bakery, Rolls, Fast Food : ₹350 for two :  Selakui, Dehradun
+Grand Bakers & Confectioners : 4.5 : Bakery, Chinese, Fast Food, Momos : ₹250 for two :  Race Course, Dehradun
+RJ Lucknowi Zaika : 4.0 : North Indian, Mughlai, Kebab, Biryani, Rolls, Street Food, Shake : ₹400 for two :  Prem Nagar, Dehradun
+Hukum Pizza : 2.8 : Pizza, Pasta, Burger, Fast Food, Beverages : ₹450 for two :  Laxman Chowk, Dehradun
+Teddy's Cafe : 3.9 : Cafe, Coffee, Italian, Healthy Food, Bubble Tea, Fast Food, Desserts, Beverages : ₹1,000 for two :  Balliwala, Dehradun
+Raja Fried Fish : 3.1 : Fast Food, North Indian : ₹500 for two :  Paltan Bazaar, Dehradun
+Pahaadi Gaadi : 3.6 : Fast Food, Chinese, Kebab : ₹350 for two :  Rajpur, Dehradun
+The Bhulla's Fast Food : 3.9 : Chinese, Momos : ₹400 for two :  Prem Nagar, Dehradun
+Angeethi : 2.9 : North Indian, Chinese, Momos : ₹300 for two :  Balliwala, Dehradun
+Gagar Restaurant : 3.8 : North Indian, Mughlai, Chinese, Biryani : ₹500 for two :  Morowala, Dehradun
+Paradise : 4.3 : North Indian, Chinese, Continental, Fast Food, Mughlai, Kebab, Biryani : ₹800 for two :  Karanpur, Dehradun
+Rahul Sweets : 3.3 : Mithai, Street Food : ₹250 for two :  Dharampur, Dehradun
+Blue And Beyond Resto Bar : 3.7 : North Indian, Mughlai, Chinese, Italian, Fast Food, Kebab, Biryani, Beverages : ₹800 for two :  Dharampur, Dehradun
+Al Fresco : 3.8 : Fast Food, Chinese, Momos, Mexican, Beverages : ₹500 for two :  Ballupur, Dehradun
+Jain Veg Corner : 3.5 : North Indian : ₹300 for two :  Subhash Nagar, Dehradun
+Kalra Sweet Shop : 3.6 : Mithai, Fast Food, Street Food, Desserts, Shake, Beverages : ₹200 for two :  Prem Nagar, Dehradun
+The Bambooz Restaurant : 3.9 : North Indian, Chinese, Momos, Biryani : ₹700 for two :  Kaonli, Dehradun
+Drunken Monkey : 3.8 : Beverages, Juices, Shake, Coffee, Healthy Food, Sandwich, Mexican, Wraps : ₹400 for two :  Balliwala, Dehradun
+34 Chowringhee Lane : 3.7 : Rolls, Momos : ₹400 for two :  Ballupur, Dehradun
+Gym Diet By  Moksh Cafe : 2.9 : Healthy Food, Salad, Chinese, North Indian, Pasta, Sandwich, Beverages : ₹450 for two :  Subhash Nagar, Dehradun
+Crunch House Pizzeria : 3.9 : Continental, Pizza, Fast Food : ₹450 for two :  Karanpur, Dehradun
+The Cafe Kitchen : 3.9 : North Indian, South Indian, Chinese, Mughlai, Rolls, Pizza, Fast Food, Beverages : ₹500 for two :  Krishna Nagar, Dehradun
+Bhagirathi Restaurant : 3.5 : North Indian, Chinese : ₹400 for two :  Jogiwala, Dehradun
+Limetray Restaurant : 3.7 : North Indian, Chinese : ₹800 for two :  Karanpur, Dehradun
+Chawlas 2 Since 1960 : 3.2 : Mughlai, North Indian, Chinese, Kebab, South Indian, Beverages : ₹1,000 for two :  Ballupur, Dehradun
+Heritage Restro : 3.3 : North Indian, Chinese, Kebab, Beverages, Fast Food : ₹500 for two :  Selakui, Dehradun
+Veere Da Dhaba : 3.9 : North Indian : ₹300 for two :  Prem Nagar, Dehradun
+Frost - Hotel Saffron Leaf : 3.9 : North Indian, Chinese, Fast Food, Beverages : ₹1,800 for two :  Kaonli, Dehradun
+T Bistro : New : Tea, Coffee, Shake, Beverages, South Indian, Fast Food, Street Food : ₹200 for two :  Subhash Nagar, Dehradun
+Nukkad Cafe : 4.0 : North Indian, Chinese, Mughlai, Kebab, Biryani, Fast Food, Street Food, Beverages : ₹550 for two :  Selakui, Dehradun
+Kebab King : 4.0 : North Indian, Kebab, Mughlai, Rolls : ₹500 for two :  Hathibarkala Salwala, Dehradun
+South Indian Restaurant : 3.8 : South Indian, Chinese : ₹200 for two :  Majra, Dehradun
+Bharawan Da Dhaba : 3.1 : North Indian : ₹300 for two :  Kaonli, Dehradun
+Lemon Chilli Pure Veg : 3.8 : North Indian, Chinese : ₹200 for two :  Race Course, Dehradun
+Unplugged Bar & Tapas : 3.9 : North Indian, Fast Food, Chinese, Continental, Italian : ₹700 for two :  Prem Nagar, Dehradun
+Bandstand BBQ : 4.3 : BBQ, Kebab, Fast Food, Desserts, Beverages : ₹500 for two :  Rajpur, Dehradun
+Cafe BMG : 3.7 : Chinese, Momos, Burger, Sandwich, Fast Food, Shake, Beverages : ₹350 for two :  Vikas Cinemall, Indira Nagar, Dehradun
+Kwik Bite Centre : 3.8 : Chinese, South Indian, Pizza, Momos, Fast Food, Street Food, Beverages : ₹300 for two :  Paltan Bazaar, Dehradun
+Naivedyam : - : North Indian, Chinese, Mughlai, Rolls, Fast Food, Biryani, Beverages : ₹450 for two :  Morowala, Dehradun
+Raju Omlet : 3.9 : Fast Food, Street Food, Beverages : ₹250 for two :  Pacific Hills, Malsi, Dehradun
+Kumar Sweets And Restaurant : 3.6 : North Indian, Mithai : ₹400 for two :  Chironwali, Dehradun
+Daddy's Restaurant Since 1988 : 4.1 : North Indian, Kebab, Mughlai, Biryani : ₹400 for two :  Jakhan, Dehradun

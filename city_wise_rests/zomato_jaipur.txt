@@ -1,0 +1,417 @@
+360° : 4.1 : Continental, Pizza, Pasta, Asian, Mexican, North Indian, Bar Food, Desserts : ₹1,500 for two :  C Scheme, Jaipur
+Hush Jammer : 4.0 : North Indian, Bar Food : ₹1,100 for two :  C Scheme, Jaipur
+The Dome : 3.8 : North Indian, Mughlai, Continental, Italian, Chinese, Biryani, Desserts, Beverages : ₹1,200 for two :  MI Road, Jaipur
+Retreat : 4.2 : North Indian, Chinese, Continental, Fast Food, Finger Food, Desserts, Beverages : ₹1,900 for two :  C Scheme, Jaipur
+Sirka : 4.5 : North Indian, Biryani, Beverages, Kebab : ₹1,400 for two :  C Scheme, Jaipur
+Nouba Kitchen And Bar : 4.2 : Asian, Modern Indian, Thai, Beverages : ₹3,000 for two :  C Scheme, Jaipur
+The Yellow House - The Robot Restaurant : 3.8 : North Indian, Chinese, Italian, Mexican, Biryani, Fast Food, Desserts, Beverages : ₹1,100 for two :  C Scheme, Jaipur
+Mamu's Infusion : 4.2 : Italian, Chinese, Mexican, Lebanese, Thai, North Indian, Desserts, Beverages : ₹1,200 for two :  C Scheme, Jaipur
+Skyza : 4.4 : North Indian, Mughlai, Italian, Chinese, Continental, Desserts, Beverages : ₹2,000 for two :  C Scheme, Jaipur
+Lusty Lettuce : 3.9 : Healthy Food, Continental, Italian, Desserts, Beverages : ₹1,300 for two :  C Scheme, Jaipur
+Jaipur Local : 4.3 : North Indian, Asian, Biryani, Desserts : ₹1,000 for two :  Shastri Nagar, Jaipur
+The Yard - The Swinton House : 4.1 : Continental, Italian, European, Modern Indian : ₹2,000 for two :  MI Road, Jaipur
+Topaz Restaurant - FineDine & Skydeck : 4.5 : North Indian, Chinese, Rajasthani, Pizza, Pasta, Fast Food, Desserts : ₹1,200 for two :  MI Road, Jaipur
+Rosado : 4.5 : North Indian, Mughlai, Chinese, Continental, Korean, Asian, Beverages : ₹3,000 for two :  Vaishali Nagar, Jaipur
+Waraahi : 4.9 : Pizza, North Indian, Pasta, Bakery, Beverages, Desserts : ₹950 for two :  C Scheme, Jaipur
+Baramasi : 4.4 : Continental, Asian, Italian, North Indian, Mughlai, Biryani, Bar Food, Beverages : ₹1,200 for two :  MI Road, Jaipur
+Dragon House - Radisson Jaipur City Center : 4.4 : Oriental, Thai, Beverages, Sichuan : ₹3,500 for two :  Radisson Jaipur City Center, MI Road, Jaipur
+LIGHTHOUSE - Brewery Bar & Kitchen : 4.9 : North Indian, Chinese, Oriental, Pasta, Pizza, Desserts, Bar Food, Beverages : ₹1,700 for two :  Gopalpura, Jaipur
+Mosaic - Radisson Jaipur City Center : 4.2 : Continental, Fast Food, Asian, Burger, North Indian, Beverages, Desserts : ₹3,500 for two :  Radisson Jaipur City Center, MI Road, Jaipur
+The Albion - The Swinton House : 4.0 : Asian : ₹1,400 for two :  MI Road, Jaipur
+The Great Kabab Factory - Radisson Jaipur City Center : 4.2 : North Indian, Beverages : ₹4,500 for two :  Radisson Jaipur City Center, MI Road, Jaipur
+Once Upon A Time At The Bagh : 4.0 : North Indian, Mughlai, Beverages : ₹3,100 for two :  Agra Road, Jaipur
+Basil & Olives : 4.1 : Pizza, Pasta, Sandwich, Salad, Italian : ₹1,000 for two :  Pink City, Jaipur
+The Night Jar : 4.5 : Bar Food : ₹1,200 for two :  Leisure Inn Grand Chanakya, MI Road, Jaipur
+Clock Tower : 4.8 : North Indian, Continental, Italian, Chinese, Desserts, Beverages : ₹2,500 for two :  Adarsh Nagar, Jaipur
+Khwaab : 4.3 : North Indian, Mughlai, Continental, Italian, Oriental, Asian, Mexican, Desserts : ₹1,500 for two :  Bapu Nagar, Jaipur
+Masala Ministry : 4.4 : North Indian, Chinese, Continental, Pizza, Fast Food, Salad, Desserts, Beverages : ₹1,000 for two :  C Scheme, Jaipur
+DYORE- Experiences : 4.5 : Bar Food, Salad, North Indian, Kebab, Pizza, Pasta : ₹2,000 for two :  Civil Lines, Jaipur
+Chao Chinese Bistro - Holiday Inn Jaipur City Centre : 4.3 : Chinese, Asian, Thai, Finger Food, Seafood, Beverages : ₹3,500 for two :  Holiday Inn Jaipur City Centre, Bais Godam, Jaipur
+The Burj : 3.4 : Healthy Food, North Indian, Sandwich, Lebanese, Turkish, Asian, Desserts, Beverages : ₹1,500 for two :  Tonk Road, Jaipur
+Sapphire : 4.0 : North Indian, Continental, Desserts, Shake : ₹2,500 for two :  Bani Park, Jaipur
+The Big Tree Cafe : 4.1 : North Indian, Continental, Pizza, Pasta, Italian, Coffee, Shake, Beverages : ₹1,500 for two :  Ajmer Highway, Jaipur
+Cafe Auberge : 4.5 : Cafe, Pasta, Pizza, Italian, Chinese, North Indian, Fast Food, Beverages : ₹850 for two :  Civil Lines, Jaipur
+Midnight Vegas : 4.4 : North Indian, Continental, Chinese, Italian, Biryani, Desserts : ₹1,400 for two :  Malviya Nagar, Jaipur
+Roadhouse Bar & Grill-Holiday Inn : 4.4 : Salad, Continental, North Indian, Italian, Fast Food : ₹2,000 for two :  Holiday Inn Jaipur City Centre, Bais Godam, Jaipur
+Akuri : 4.6 : Cafe, Parsi, Continental, Fast Food, Bakery, Sandwich, Desserts, Beverages : ₹1,200 for two :  Tonk Road, Jaipur
+Monarch Restaurant - Holiday Inn Jaipur City Centre : 4.2 : North Indian, Chinese, Continental, Beverages, Shake, Desserts : ₹3,000 for two :  Holiday Inn Jaipur City Centre, Bais Godam, Jaipur
+Cocktail Stories by BUR'dera : 4.4 : North Indian, Japanese, Fast Food, Momos, Sushi, Biryani, Beverages : ₹1,000 for two :  Durgapura, Jaipur
+Jaipur Adda : 4.8 : Finger Food, North Indian, Fast Food : ₹1,500 for two :  Nirwana Hometel, Bani Park, Jaipur
+TOTT Pub & Grill : 4.5 : North Indian, Pizza, Pasta, Fast Food, Beverages : ₹1,600 for two :  Gopalbari, Jaipur
+Café Bae : 4.4 : Cafe, Bakery, Continental, Oriental, Mexican, Healthy Food, Desserts, Beverages : ₹1,400 for two :  Hotel Las Vegas, Bais Godam, Jaipur
+Bombaye House : 4.3 : Cafe, Chinese, Continental, South Indian, Street Food, Fast Food, Beverages : ₹700 for two :  Malviya Nagar, Jaipur
+Hop On : 4.4 : Continental, North Indian, Oriental, Pizza, Pasta, Salad, Biryani, Desserts : ₹2,500 for two :  Hotel Las Vegas, Bais Godam, Jaipur
+NEO - Lounge Club : 4.0 : North Indian, Pasta, Beverages : ₹2,400 for two :  Malviya Nagar, Jaipur
+Up & Up : 4.3 : Chinese, North Indian, Momos, Oriental, Fast Food, Desserts, Shake, Beverages : ₹1,800 for two :  Bapu Nagar, Jaipur
+Townsend Kitchen | Bar : 4.5 : Chinese, Italian, North Indian, Continental, Asian, Desserts, Beverages : ₹1,800 for two :  Adarsh Nagar, Jaipur
+The Bargain- Sports bar and Lounge : 3.9 : Bar Food, Coffee, Shake, Beverages : ₹1,000 for two :  Raja Park, Jaipur
+Kaleidoscope : 4.1 : Burger, Pizza, Sandwich, Fast Food, Chinese, North Indian, Salad, Mexican : ₹1,000 for two :  Malviya Nagar, Jaipur
+Atmos The Terrace Lounge : 3.9 : North Indian, Continental : ₹1,000 for two :  Raja Park, Jaipur
+Paro Modern Indian Bar : 4.1 : Continental, North Indian : ₹2,200 for two :  MI Road, Jaipur
+Tokio : 3.9 : North Indian, Mexican, Continental, Asian, Bar Food, Chinese, Italian, Finger Food : ₹1,200 for two :  Bais Godam, Jaipur
+Queens Hub : 4.2 : North Indian, Continental, Asian, Fast Food, Chinese, Desserts : ₹1,800 for two :  Malviya Nagar, Jaipur
+Code Black : 4.4 : North Indian, Chinese, Continental, Italian, Middle Eastern, Biryani, Bar Food, Beverages : ₹1,700 for two :  Tonk Road, Jaipur
+La - Venezia : 4.4 : North Indian, Kebab, Chinese, Biryani, Italian, Continental, Salad, Desserts : ₹1,700 for two :  Mansarovar, Jaipur
+Chaandi - Hilton Jaipur : 4.3 : North Indian, Mughlai, Rajasthani, Desserts, Beverages : ₹3,500 for two :  Hilton Jaipur, Bais Godam, Jaipur
+TGIB : The Grand Indian Buffet : 4.0 : Rajasthani, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,200 for two :  Vaishali Nagar, Jaipur
+Aurum - Hilton Jaipur : 4.1 : North Indian, Italian, Asian, Chinese, Continental, Fast Food, Desserts, Beverages : ₹3,000 for two :  Hilton Jaipur, Bais Godam, Jaipur
+Zarza Club & Terrace : 4.1 : North Indian, Continental, Chinese, Pizza, Pasta, Fast Food, Biryani, Desserts : ₹1,200 for two :  Bais Godam, Jaipur
+Nebulae - Hilton : 4.5 : Italian, Asian, North Indian, Biryani, Continental, Chinese, Desserts : ₹1,700 for two :  Hilton Jaipur, Bais Godam, Jaipur
+RJ 14 : 4.3 : North Indian, South Indian, Street Food, Rolls, Desserts, Drinks Only : ₹1,600 for two :  Ajmer Highway, Jaipur
+Jaipur Modern Kitchen : 4.2 : Italian, Healthy Food, Mediterranean, Wraps, Mexican, Salad, Desserts, Beverages : ₹1,900 for two :  C Scheme, Jaipur
+YOUniverse -The Lounge  Rooftop , Bar & Kitchen : 4.2 : North Indian, Mexican, Italian, Chinese, Sandwich, Desserts, Beverages : ₹2,200 for two :  Hotel Royal Empire, Malviya Nagar, Jaipur
+Jashn : 4.3 : Cafe, Coffee, Fast Food, Street Food, North Indian, Chinese, Desserts, Beverages : ₹500 for two :  Vidhyadhar Nagar, Jaipur
+The Magnolia-Coffee & InBetween : 4.2 : Continental, Sandwich, Healthy Food, Burger, Pizza, Pasta, Desserts, Beverages : ₹1,100 for two :  Malviya Nagar, Jaipur
+Diona : 4.2 : North Indian, Continental, Asian, Pizza, Fast Food, Bar Food, Desserts : ₹1,800 for two :  Sodala, Jaipur
+Royal Bakery : New : Bakery, Pizza, Fast Food : ₹300 for two :  Vaishali Nagar, Jaipur
+Pint House : 4.3 : North Indian, Chinese, Continental, Mexican, Kebab, Fast Food, Desserts, Beverages : ₹1,800 for two :  Sodala, Jaipur
+Tamasha : New : Beverages, Coffee, Italian, Mexican : ₹1,000 for two :  Vaishali Nagar, Jaipur
+Assamica : 4.3 : Cafe, Continental, Italian, Lebanese, Fast Food, Desserts, Beverages : ₹950 for two :  C Scheme, Jaipur
+Roso : 4.3 : Finger Food, Continental, Asian, North Indian, Mexican, Italian : ₹2,500 for two :  C Scheme, Jaipur
+The Lamppost : 4.0 : Mexican, Chinese, Italian, Continental, Fast Food, Street Food, Waffle, Desserts : ₹950 for two :  C Scheme, Jaipur
+Brewlicious : 4.3 : North Indian, Chinese, Continental, Italian, Biryani, Ice Cream, Shake, Beverages : ₹1,800 for two :  C Scheme, Jaipur
+Skyloft Open Air Lounge : 4.4 : Continental, North Indian, Chinese, Pizza, Pasta, Kebab, Biryani, Oriental : ₹1,500 for two :  Sodala, Jaipur
+Miracle Restaurant And Cafe : 4.4 : Cafe, Italian, North Indian, Lebanese, Mexican, Chinese : ₹1,000 for two :  C Scheme, Jaipur
+Atom : 3.5 : North Indian, Mughlai : ₹1,200 for two :  Vaishali Nagar, Jaipur
+Opera : 4.0 : Cafe, Coffee, Continental, Italian, Mexican, Salad, Shake, Beverages : ₹1,000 for two :  C Scheme, Jaipur
+Ouzo Bar & Kitchen : 4.5 : Asian, North Indian, Continental, Mexican, Italian, Desserts, Beverages : ₹1,400 for two :  Vaishali Nagar, Jaipur
+Tan - Sukh By Kanha : 4.5 : North Indian, South Indian, Mexican, Oriental, Chinese, Italian, Rajasthani, Desserts : ₹1,200 for two :  Jagatpura, Jaipur
+August House : 4.3 : Asian, Continental, Italian, Mexican, Sushi, Salad, Desserts, Beverages : ₹1,900 for two :  Vaishali Nagar, Jaipur
+The Lama : 4.4 : Chinese, Asian, Sichuan : ₹500 for two :  C Scheme, Jaipur
+Ohana Cocktail Bar & Kitchen : 4.1 : North Indian, Asian, Italian, Salad, Fast Food, Chinese, Biryani, Desserts : ₹1,000 for two :  GT Central, Malviya Nagar, Jaipur
+The Local Table : 3.9 : Cafe, North Indian, Chinese, Continental, Mexican, Oriental, South Indian, Beverages : ₹1,400 for two :  C Scheme, Jaipur
+Rasa : 4.1 : North Indian, Mughlai, Beverages, Coffee : ₹3,000 for two :  Bani Park, Jaipur
+Mercury Lounge & Rooftop : 4.5 : North Indian, Continental, Italian, Kebab, Chinese, Oriental, Desserts, Beverages : ₹2,100 for two :  Durgapura, Jaipur
+Hops n Taters : 4.3 : Continental, North Indian, Asian, Italian, Sandwich, Salad, Desserts, Beverages : ₹1,800 for two :  Gopalpura, Jaipur
+Kebabs & Curries Company : 4.5 : Kebab, North Indian, Mughlai, Rolls, Biryani, Seafood, Chinese, Beverages : ₹1,700 for two :  World Trade Park, Malviya Nagar, Jaipur
+Mad Pops : 4.3 : Continental, Oriental, North Indian, Chinese, Italian, Biryani, Desserts, Beverages : ₹2,325 for two :  Mansarovar, Jaipur
+TGIB- The Grand Indian Buffet : 3.9 : North Indian, Chinese, Desserts, Beverages : ₹1,000 for two :  Malviya Nagar, Jaipur
+Nazara By Doorbeen : 4.0 : Rajasthani, Chinese, Thai, Italian, Pizza, Desserts : ₹1,600 for two :  Bapu Nagar, Jaipur
+Bellissimo Home Cafe : 3.8 : Cafe, Coffee, Fast Food, Pizza, Italian, Desserts, Beverages : ₹1,000 for two :  Vaishali Nagar, Jaipur
+Shri Bhanwar Bhog Thali : 3.9 : North Indian, Beverages : ₹500 for two :  Vaishali Nagar, Jaipur
+Bonkey's Pizza : 4.1 : Pizza, Pasta, Fast Food, Salad, Beverages : ₹1,100 for two :  Lal Kothi, Jaipur
+Pots & Plates : New : North Indian, Kebab, Pizza, Burger, Fast Food : ₹1,200 for two :  Malviya Nagar, Jaipur
+Skyfall By Replay : 4.5 : Mexican, Lebanese, Oriental, Italian, North Indian, Biryani, Desserts, Beverages : ₹2,500 for two :  Tonk Road, Jaipur
+THE NIGHT JAR COCKTAIL ROOM : 4.3 : Asian, Lebanese, Italian, Chinese, Continental : ₹2,000 for two :  Malviya Nagar, Jaipur
+Khameer - bakes | brews : New : Continental, Bakery, Italian, Desserts, European, Mexican, American, Mediterranean : ₹900 for two :  Durgapura, Jaipur
+OTB - On The Bar B-Q : 4.1 : BBQ, North Indian, Chinese, Biryani, Pizza, Fast Food, Desserts, Beverages : ₹1,400 for two :  Crystal Court Mall, Malviya Nagar, Jaipur
+Stardust : 4.2 : North Indian, Continental, Chinese, Mughlai, Fast Food, Beverages : ₹2,500 for two :  Tonk Phatak, Jaipur
+Pentagon Bar & Kitchen : 4.0 : Bar Food, Continental, Chinese, North Indian, Mexican, Mughlai : ₹1,600 for two :  Vaishali Nagar, Jaipur
+VR Cafe : 4.0 : Cafe, Coffee, Shake, Beverages, North Indian, Fast Food, Chinese, Pasta : ₹1,400 for two :  Vaishali Nagar, Jaipur
+Miami - Club & Lounge : New : Bar Food, North Indian, Fast Food : ₹2,300 for two :  Vaishali Nagar, Jaipur
+Diablo : 3.7 : North Indian, Arabian, Pizza, Italian, Kebab, Bar Food, Desserts : ₹2,000 for two :  C Scheme, Jaipur
+Douse Rooftop & Kitchen : 4.4 : North Indian, Chinese, Continental, Pizza, Pasta, Salad, Desserts, Beverages : ₹1,700 for two :  Malviya Nagar, Jaipur
+Asteria : 4.4 : Finger Food, North Indian, Italian, Asian, Continental, Desserts, Bar Food, Beverages : ₹1,800 for two :  Durgapura, Jaipur
+Code Black Jaipur : 4.3 : North Indian, Fast Food, Chinese, Italian, Pizza, Pasta, Desserts, Beverages : ₹1,200 for two :  Malviya Nagar, Jaipur
+Shikaar Bagh : 3.3 : Continental, North Indian : ₹2,500 for two :  Narayan Singh Circle, Jaipur
+Zarpe - Kitchen & Bar : 4.3 : North Indian, Chinese, Pasta, Pizza, Sandwich, Burger, Shake : ₹1,200 for two :  Malviya Nagar, Jaipur
+Mayanagri Coffee House : 4.1 : Cafe, North Indian, South Indian, Fast Food, Chinese, Sushi, Desserts, Beverages : ₹1,500 for two :  Malviya Nagar, Jaipur
+Daniel's Oriental Kitchen : 4.5 : Oriental, Chinese, Seafood : ₹700 for two :  Vaishali Nagar, Jaipur
+Sequoia Café : 4.5 : Continental, Chinese, American, Waffle : ₹1,250 for two :  Raja Park, Jaipur
+Camiano Patisserie & Brasserie : 4.5 : Cafe, Bakery, Coffee, Sandwich, Italian, Healthy Food, Fast Food : ₹1,100 for two :  C Scheme, Jaipur
+Rustic By OTH : 4.6 : North Indian, Continental, Pizza, Pasta, Fast Food, Bakery, Desserts, Beverages : ₹1,800 for two :  Malviya Nagar, Jaipur
+Chirmi Palace : 4.1 : Rajasthani, North Indian, Italian, Continental, Asian, Desserts, Coffee, Beverages : ₹1,900 for two :  C Scheme, Jaipur
+Fusion Of India : 3.9 : Cafe, Coffee, North Indian, Biryani, Chinese, Pizza, Pasta, Shake : ₹650 for two :  Lal Kothi, Jaipur
+Up Town - The Lounge, Kitchen & Bar : New : Chinese, North Indian : ₹1,500 for two :  Bapu Nagar, Jaipur
+Sangria SkyLounge : 4.1 : North Indian, Italian, Chinese, Salad, Sandwich, Fast Food, Desserts : ₹1,400 for two :  MI Road, Jaipur
+Hivdo : 3.8 : North Indian, Continental, Kebab, Pasta, Pizza, Beverages, Coffee, Lebanese : ₹1,000 for two :  Mansarovar, Jaipur
+Thali and More : 4.6 : North Indian, Chinese, Fast Food, Street Food, Rajasthani, Shake, Desserts, Beverages : ₹1,200 for two :  C Scheme, Jaipur
+Cafe LazyMojo : 4.2 : Cafe, Italian, Continental, North Indian, Chinese, American, Desserts, Beverages : ₹950 for two :  Malviya Nagar, Jaipur
+Savanna Sky Lounge & Bar : 3.3 : Continental, Italian, North Indian : ₹500 for two :  Narayan Singh Circle, Jaipur
+The Garden Leaf : New : Cafe, Coffee, Mexican, Italian, North Indian, Fast Food, Shake, Desserts : ₹1,000 for two :  Malviya Nagar, Jaipur
+Tea Connect Cafe : 4.2 : Fast Food, Street Food, Chinese, Desserts, Beverages : ₹500 for two :  Mansarovar, Jaipur
+UP Beat - The Lounge, Kitchen & Bar : 4.1 : BBQ, Chinese, Pizza, Bar Food, Street Food, Oriental, Desserts : ₹1,200 for two :  Tonk Road, Jaipur
+Meraaki Kitchen : 4.6 : Asian, Sushi, Chinese, North Indian, Italian, Mexican, Desserts, Beverages : ₹2,000 for two :  Civil Lines, Jaipur
+Mugs & Magic : 4.3 : Chinese, North Indian, Fast Food, Continental, Pizza, Sandwich, Burger, Beverages : ₹750 for two :  Mansarovar, Jaipur
+Garh The Rooftop Cafe : 4.2 : Cafe, Coffee, North Indian, Chinese, Italian, Fast Food, Pancake, Beverages : ₹1,100 for two :  Amer, Jaipur
+Reflect - Bistro And Kitchen : 4.7 : Cafe, Continental, Mexican, Italian, Chinese, Salad, Waffle, Beverages : ₹1,200 for two :  C Scheme, Jaipur
+Little Italy : 4.2 : Italian, Pizza, Pasta, Continental, Desserts, Healthy Food, Beverages : ₹1,400 for two :  C Scheme, Jaipur
+Banana Leaf : 4.2 : South Indian, North Indian, Beverages : ₹600 for two :  C Scheme, Jaipur
+TAO - Asian Kitchen : 4.3 : Korean, Chinese, Sushi, Japanese, Asian, Oriental, Desserts, Beverages : ₹2,500 for two :  Malviya Nagar, Jaipur
+Camaraderie : New : Cafe, Coffee, North Indian, Italian, Chinese, Fast Food, Desserts, Beverages : ₹1,200 for two :  Vaishali Nagar, Jaipur
+Rangoon Coffee Brewery : 4.6 : Coffee, Cafe, Continental, Sandwich, Pizza, Desserts, Beverages : ₹500 for two :  C Scheme, Jaipur
+TVG - The Vegetarian Grill : 3.9 : North Indian, Chinese, Italian, Mexican, Kebab, Sandwich : ₹1,200 for two :  Malviya Nagar, Jaipur
+Town Coffee : 4.3 : Cafe, Fast Food, Continental, Desserts, Beverages, Coffee : ₹950 for two :  Bais Godam, Jaipur
+1135 AD : 3.9 : North Indian, Mughlai, Rajasthani, Desserts : ₹3,000 for two :  Amer, Jaipur
+Tea Connect : 4.0 : Cafe, Beverages, Pizza, Fast Food, Momos, Chinese, Street Food, Desserts : ₹700 for two :  Raja Park, Jaipur
+Carbon : 4.2 : Cafe, Beverages, Fast Food, Street Food, Desserts : ₹700 for two :  C Scheme, Jaipur
+Roastery Coffee House : 4.6 : Cafe, Coffee, Pizza, Burger, Pasta, Italian, Continental, Desserts : ₹850 for two :  C Scheme, Jaipur
+Barbeque Nation : 4.7 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,850 for two :  Tonk Road, Jaipur
+Noir Coffee House : 4.2 : Cafe, Coffee, Beverages, Fast Food, Asian, Salad, Burger : ₹700 for two :  MI Road, Jaipur
+Napoli Pizzeria & Bistro : 4.0 : Cafe, Pizza, Continental, Fast Food, Beverages : ₹1,200 for two :  C Scheme, Jaipur
+Gulabi Nagari : 4.2 : North Indian, Chinese, South Indian, Fast Food, Kebab, Salad, Desserts, Beverages : ₹1,600 for two :  Bani Park, Jaipur
+Okra - Jaipur Marriott Hotel : 4.3 : North Indian, Asian, Chinese, Rajasthani, Mughlai, Continental, Desserts, Beverages : ₹4,000 for two :  Jaipur Marriott Hotel, Tonk Road, Jaipur
+Bar Palladio Jaipur : 3.9 : Italian, Continental, Salad, Finger Food, Beverages, Desserts : ₹2,500 for two :  Hotel Narain Niwas, Narayan Singh Circle, Jaipur
+Sambre : 4.0 : Italian, Chinese, Continental, North Indian, Asian, Pizza, Pasta, Beverages : ₹1,700 for two :  Bani Park, Jaipur
+Draught House Bar & Grill : 4.3 : North Indian, Mughlai, Chinese, European, Italian, Salad, Biryani, Beverages : ₹2,500 for two :  Malviya Nagar, Jaipur
+Burj - Grand Uniara : 4.2 : North Indian, Kebab, Beverages, Shake : ₹2,500 for two :  Grand Uniara, Narayan Singh Circle, Jaipur
+Silk Route : 4.5 : Asian, Chinese, Continental, Sushi, Desserts, Beverages : ₹850 for two :  MI Road, Jaipur
+The Garrison by TFH : New : Bar Food, North Indian, Chinese, Continental, Pasta, Shake, Beverages, Pizza : ₹1,100 for two :  Sikar Road, Jaipur
+Chhabra's | Old Townn : 4.1 : North Indian, Pizza, Italian, Pasta, Chinese, Desserts, Coffee, Beverages : ₹1,400 for two :  Malviya Nagar, Jaipur
+Amritsar House : 4.4 : North Indian, Mughlai, Chinese, Biryani, Pizza, Fast Food, Desserts, Beverages : ₹1,600 for two :  Hotel Royal Empire, Malviya Nagar, Jaipur
+Hive : 4.4 : North Indian, Italian, Pizza, Pasta, Rolls, Fast Food, Beverages, Shake : ₹1,000 for two :  Raja Park, Jaipur
+Piante - Kitchen & Bar : 4.2 : Italian, Continental, North Indian, Asian, Oriental, Fast Food, Chinese, Beverages : ₹2,000 for two :  Raja Park, Jaipur
+Beans & Bun By Hotel Anuraag Villa : 4.2 : Cafe, Coffee, Shake, Beverages, Pizza, Burger, Sandwich, Desserts : ₹500 for two :  Bani Park, Jaipur
+Nosh 24*7 - Holiday Inn Express And Suites : 4.3 : Cafe, Coffee, Sandwich, Wraps, Pizza, Pasta, Salad, Desserts : ₹750 for two :  Gopalpura, Jaipur
+The Forresta Kitchen & Bar : 4.3 : North Indian, Chinese, South Indian, Pizza, Pasta, Bar Food, Desserts, Beverages : ₹1,900 for two :  Devraj Niwas, Bani Park, Jaipur
+180 Degree - The Theme Hotel : 4.2 : North Indian, Mughlai, Continental, Chinese, Oriental, Desserts, Bar Food, Beverages : ₹1,800 for two :  The Theme, Tonk Road, Jaipur
+Rozë Town Rooftop Cafe & Kitchen : 4.0 : Cafe, Coffee, Pizza, Italian, Chinese, Desserts, Beverages : ₹1,000 for two :  Malviya Nagar, Jaipur
+The Little French Home : New : French, Pasta, Pizza, Salad, Desserts, Coffee, Shake, Beverages : ₹1,800 for two :  Gopalbari, Jaipur
+So Hi Kebabs & Curries Company : 4.5 : North Indian, Mughlai, Seafood, Chinese, Rolls, Biryani, Beverages : ₹1,200 for two :  Tonk Road, Jaipur
+De' Blue Door Cafe : 4.6 : Cafe, Salad, Sandwich, Pizza, Fast Food, Street Food, Beverages, Desserts : ₹1,000 for two :  C Scheme, Jaipur
+Tea Connect : 4.2 : Cafe, Beverages, North Indian, Continental, Street Food, Fast Food, Tea, Shake : ₹700 for two :  C Scheme, Jaipur
+Jaipur Jungle : 3.1 : North Indian, Chinese, Fast Food : ₹1,000 for two :  Malviya Nagar, Jaipur
+Rosella : 3.9 : North Indian, Pizza, Sandwich, Desserts, Italian, Chinese, Shake, Beverages : ₹1,300 for two :  Mansarovar, Jaipur
+O'Baque : 4.1 : Bakery, Desserts, Fast Food, Beverages, Coffee : ₹400 for two :  Adarsh Nagar, Jaipur
+Gran Sabor Bistro : 4.3 : Pasta, Pizza, North Indian, Chinese, Fast Food, Beverages : ₹1,000 for two :  Vaishali Nagar, Jaipur
+Decked Up By Garden Cafe : 4.4 : North Indian, Mexican, Chinese, South Indian, Desserts, Beverages, Pizza, Italian : ₹1,400 for two :  Vaishali Nagar, Jaipur
+Chawla's M.I Road (Since 1960) : 4.2 : North Indian, Mughlai, Grilled Chicken, Biryani, Fast Food, Desserts : ₹1,500 for two :  MI Road, Jaipur
+Scorpion - A Pub City : 3.7 : Continental, Chinese, North Indian, Italian, Mughlai, Kebab, Fast Food : ₹1,400 for two :  Gopalpura, Jaipur
+Doorbeen Restaurant : 4.0 : North Indian, Chinese, Mexican, Italian, Continental, Mongolian, Beverages, Desserts : ₹1,300 for two :  Tonk Road, Jaipur
+Malt Daddy - MRP Bar : 4.2 : North Indian, Chinese, Bar Food, Desserts, Shake, Beverages : ₹1,400 for two :  Malviya Nagar, Jaipur
+KA10 Kitchen : 4.6 : South Indian, North Indian, Chinese, Rolls, Fast Food, Desserts, Beverages : ₹1,000 for two :  Raja Park, Jaipur
+Shofu - The Momo Man : 4.3 : Momos, Chinese, Rolls, Fast Food, Beverages : ₹350 for two :  Lal Kothi, Jaipur
+Cafe Toscana : 4.0 : Cafe, Coffee, Pasta, Pizza, Italian, Chinese, Burger, Beverages : ₹600 for two :  Tonk Phatak, Jaipur
+The Royal Root - InterContinental Jaipur : 4.7 : Awadhi, Lucknowi, North Indian : ₹2,000 for two :  Inter Continental Jaipur , Jaipur
+Bootleggers Lounge & Kitchen : 4.1 : North Indian, Continental, Italian, Chinese, Pizza, Sandwich : ₹1,000 for two :  Vaishali Nagar, Jaipur
+Vegetrainian : 3.8 : North Indian, Salad, Ice Cream, Desserts, Beverages : ₹1,200 for two :  Lal Kothi, Jaipur
+4 The Taste : 3.9 : North Indian, Chinese, Fast Food, Beverages : ₹700 for two :  Mansarovar, Jaipur
+Serai Brews Cafe : 4.1 : Cafe, Coffee, Sandwich, Burger, Pasta, Pizza, Desserts, Beverages : ₹500 for two :  Bani Park, Jaipur
+Labrass At Diggi : 4.2 : North Indian, Bar Food, Chinese, Continental, Beverages : ₹1,400 for two :  C Scheme, Jaipur
+Sitara - Holiday Inn Express And Suites : 3.7 : North Indian, Chinese, Italian, Continental, BBQ, Asian : ₹1,800 for two :  Gopalpura, Jaipur
+Kafeville : 3.8 : Cafe, Coffee, Shake, Beverages : ₹600 for two :  C Scheme, Jaipur
+OUT - Once Upon A Terrace : 4.3 : North Indian, Italian, Fast Food, Chinese : ₹2,000 for two :  Vaishali Nagar, Jaipur
+Gazebo - The Sushi Company : 4.1 : Japanese, Sushi, Chinese, Asian, Thai, Italian, Desserts, Beverages : ₹1,400 for two :  Malviya Nagar, Jaipur
+Food Exchange - Novotel Jaipur Convention Centre : 3.9 : Chinese, Continental : ₹1,000 for two :  Sitapur, Jaipur
+Sri Motu Ram Prasadam Original : 3.7 : North Indian, Rajasthani, South Indian, Street Food, Drinks Only : ₹950 for two :  C Scheme, Jaipur
+Taruveda Cocktails and Bistro : 4.3 : European, Italian, Pasta, Desserts, Beverages : ₹1,000 for two :  Adarsh Nagar, Jaipur
+Pakwaan - Candlelight Dinner Restaurant : 4.4 : North Indian, Chinese, Fast Food, Biryani, Desserts, Beverages : ₹1,800 for two :  Shastri Nagar, Jaipur
+Khadak Singh Da Dhaba : 4.1 : North Indian, Mughlai, Rolls, Chinese, Biryani, Kebab, Momos : ₹1,000 for two :  Raja Park, Jaipur
+The 202 Cafe & Kitchen : 4.1 : Cafe, Italian, Continental, Fast Food, Beverages : ₹850 for two :  Khatipura Road, Jaipur
+The Messy Door Cafe : 4.2 : Fast Food, Healthy Food, Italian, Chinese, Waffle, Pizza, Desserts, Beverages : ₹700 for two :  Shastri Nagar, Jaipur
+Golmirch From Biryani By Kilo : 4.4 : North Indian, Biryani, Kebab, Desserts, Rajasthani : ₹1,000 for two :  Vaishali Nagar, Jaipur
+Spice Court : 4.4 : Rajasthani, North Indian, Chinese, Continental, Biryani, Desserts, Beverages : ₹1,700 for two :  Achrol House, Civil Lines, Jaipur
+Steam - Rambagh Palace : 4.6 : Italian, Continental, Oriental, Desserts : ₹5,500 for two :  Rambagh Palace, C Scheme, Jaipur
+Athena : 3.6 : North Indian, Chinese, Italian, Continental, Asian, Biryani, Salad, Desserts : ₹1,600 for two :  Ajmer Highway, Jaipur
+SambharSa - Chasing Flavours Of The South : 4.6 : South Indian, Beverages : ₹650 for two :  Vaishali Nagar, Jaipur
+Munchbox 251 : 4.6 : North Indian, Chinese, Fast Food, South Indian, Rajasthani : ₹1,500 for two :  Bani Park, Jaipur
+Sultanat By Fort : 4.3 : North Indian, Chinese, Continental, Italian, Fast Food, Desserts, Beverages : ₹1,800 for two :  Fort, Malviya Nagar, Jaipur
+KFC : 3.8 : Burger, Fast Food, Rolls : ₹450 for two :  World Trade Park, Malviya Nagar, Jaipur
+Chowk By Fort : 4.3 : North Indian, Chinese, Continental, Italian, Fast Food, Desserts, Beverages : ₹1,800 for two :  Fort, Malviya Nagar, Jaipur
+House of Han - InterContinental Jaipur : 4.4 : Chinese, Asian : ₹3,500 for two :  Inter Continental Jaipur , Jaipur
+City Heights : 4.3 : North Indian, Continental, Italian, European, Fast Food, Oriental, Desserts, Beverages : ₹1,100 for two :  Malviya Nagar, Jaipur
+Brown Sugar : 4.2 : Bakery, Coffee, Cafe, Desserts, Pizza, Sandwich, Beverages : ₹500 for two :  Vaishali Nagar, Jaipur
+SAMARPAN by United Delights : 4.1 : North Indian : ₹500 for two :  Vaishali Nagar, Jaipur
+The Socialite : 3.8 : North Indian, Italian, Chinese : ₹2,000 for two :  Lal Kothi, Jaipur
+Dosaka - Taste Of South : 3.9 : South Indian, Chinese, Beverages : ₹400 for two :  Malviya Nagar, Jaipur
+On The House : 4.4 : Italian, Continental, Mexican, Waffle, Desserts, Beverages : ₹950 for two :  C Scheme, Jaipur
+Love Planet Cafe & Restaurant : 3.9 : North Indian, Italian : ₹1,000 for two :  Malviya Nagar, Jaipur
+Rasa Cafe : 4.0 : North Indian, South Indian, Chinese, Mediterranean, Pasta, Fast Food, Biryani, Desserts : ₹1,200 for two :  Narayan Singh Circle, Jaipur
+Kaafila Bar & Lounge : 4.5 : North Indian, Chinese, Italian, Fast Food, Desserts, Beverages : ₹1,700 for two :  Sodala, Jaipur
+Native Cocktail Room : 4.4 : Asian, Oriental, European, Italian, Finger Food, Beverages : ₹2,500 for two :  Gopalbari, Jaipur
+Zolocrust - Hotel Clarks Amer : 4.7 : Cafe, BBQ, Asian, Continental, Fast Food, Italian, Desserts, Beverages : ₹1,800 for two :  Hotel Clarks Amer, Malviya Nagar, Jaipur
+Coffee Sutra : 3.9 : Cafe, Coffee, Continental, Fast Food, Desserts, Beverages : ₹650 for two :  C Scheme, Jaipur
+Xiomara : 4.3 : North Indian, Chinese, Mexican, Pizza, Italian, Shake, Beverages : ₹1,300 for two :  Adarsh Nagar, Jaipur
+Handi : 3.8 : North Indian, Oriental, Chinese, BBQ, Biryani, Desserts, Shake, Beverages : ₹1,100 for two :  Malviya Nagar, Jaipur
+Tamas Cafe & Kitchen : 4.1 : Street Food, North Indian, Continental, Kebab, Pizza, Pasta, BBQ, Desserts : ₹1,400 for two :  Raja Park, Jaipur
+C-Pavillion : New : North Indian, South Indian, Chinese, Continental, Fast Food, Desserts, Shake, Beverages : ₹1,200 for two :  Jagatpura, Jaipur
+The Library : 4.5 : Tamil, South Indian, Beverages : ₹1,800 for two :  Hotel Clarks Amer, Malviya Nagar, Jaipur
+Baalti Bhar Ke By Kebabs & Curries Company : 4.2 : North Indian, Mughlai, Biryani, Rolls : ₹500 for two :  Bais Godam, Jaipur
+Jamie Oliver Kitchen Cafe : 3.8 : Healthy Food, Coffee, Salad, Sandwich, Tea, Continental : ₹1,000 for two :  C Scheme, Jaipur
+Pink Treats : 3.9 : North Indian, South Indian, Sandwich, Fast Food, Shake, Beverages : ₹400 for two :  Vaishali Nagar, Jaipur
+Hawk View : 4.3 : North Indian, Chinese, Mughlai, Italian, Sandwich, Fast Food, Desserts, Beverages : ₹1,700 for two :  Pink City, Jaipur
+Herbs On Pizza : 3.9 : Pizza, Wraps, Fast Food, Mexican, Beverages : ₹400 for two :  Evershine Tower, Vaishali Nagar, Jaipur
+Socorro - InterContinental Jaipur : 4.5 : North Indian, Fast Food, Continental, Italian, Desserts, Beverages : ₹2,500 for two :  Inter Continental Jaipur , Jaipur
+Atariyaa Cafe : 4.3 : Cafe, Chinese, Italian, Mexican, Fast Food, Desserts, Beverages : ₹1,000 for two :  Malviya Nagar, Jaipur
+Mambos Bistro : 3.6 : Italian, Salad, Fast Food, Desserts : ₹950 for two :  Vaishali Nagar, Jaipur
+Mimi : 4.4 : Asian, Chinese, Thai, Italian, Pizza, Desserts, Beverages : ₹2,000 for two :  Royal Orchid Central, Bani Park, Jaipur
+Good Times Live : 4.2 : North Indian, Mughlai, Italian, Chinese, Fast Food, Desserts, Beverages : ₹1,700 for two :  Sunny Trade Center, Mansarovar, Jaipur
+K - Bap Korean Cafe & Restaurant : 3.9 : Korean : ₹300 for two :  Vaishali Nagar, Jaipur
+The Coffee Cartel : 4.5 : Cafe, Coffee, Pizza, Shake, Italian, Continental, Fast Food, Beverages : ₹700 for two :  Malviya Nagar, Jaipur
+Half Light Coffee Roasters : 4.4 : Cafe, Fast Food : ₹700 for two :  C Scheme, Jaipur
+Suvarna Mahal - Rambagh Palace : 4.5 : North Indian, Awadhi, Hyderabadi, Desserts : ₹8,500 for two :  Rambagh Palace, C Scheme, Jaipur
+Cheers Buddy : 3.9 : North Indian, Continental : ₹800 for two :  Shyam Nagar, Jaipur
+Purgatory 777 : 3.9 : North Indian, Pizza, Pasta, Salad, Beverages : ₹2,400 for two :  C Scheme, Jaipur
+Chokhi Dhani : 4.2 : Rajasthani, North Indian, Mughlai, European, Asian, Fast Food, Desserts, Beverages : ₹2,500 for two :  Chokhi Dhani Village Resort, Tonk Road, Jaipur
+Kafeholic : 4.4 : Cafe, Fast Food, Salad, Sandwich, Burger, Wraps, Shake, Beverages : ₹350 for two :  Malviya Nagar, Jaipur
+SambharSa - Chasing Flavours of The South : 4.5 : South Indian : ₹450 for two :  Malviya Nagar, Jaipur
+Tapri Central : 4.6 : Cafe, Italian, Continental, Fast Food, Street Food, Desserts, Beverages : ₹950 for two :  C Scheme, Jaipur
+Bandhani - Pride Amber Vilas : 4.3 : North Indian, Chinese, Continental, Beverages, Desserts : ₹2,000 for two :  Pride Amber Vilas, Tonk Road, Jaipur
+Bulb Cafe : 3.9 : Chinese, Fast Food, Burger, Pizza, Rolls, Street Food, Momos, Shake : ₹400 for two :  Mansarovar, Jaipur
+Samaa : 4.0 : Bar Food, North Indian, Chinese, Pasta, Pizza, Kebab, Biryani, Desserts : ₹1,200 for two :  C Scheme, Jaipur
+Katori Cafe & Bistro : 3.4 : Cafe, Coffee, Continental, Chinese, Rolls, Italian, Waffle, Beverages : ₹1,600 for two :  Mansarovar, Jaipur
+Brewtown : 4.2 : Salad, Fast Food, Wraps, Sandwich, Waffle, Healthy Food, Beverages : ₹850 for two :  C Scheme, Jaipur
+Sethia's Dana Pani : 4.3 : North Indian, South Indian, Chinese, Fast Food, Salad, Desserts, Beverages : ₹1,200 for two :  Shyam Nagar, Jaipur
+Coffee Bond : 4.3 : Cafe, Coffee, Tea, Beverages : ₹500 for two :  C Scheme, Jaipur
+Kanha : 3.8 : Mithai, Street Food, North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages : ₹500 for two :  Jagatpura, Jaipur
+Nutmeg Cafe : 3.6 : Cafe, Coffee, Beverages, Pizza, Fast Food, Continental, South Indian, Desserts : ₹700 for two :  Vaishali Nagar, Jaipur
+Vimal Vilas : 4.4 : North Indian, Continental, Beverages : ₹600 for two :  Tonk Road, Jaipur
+Baradari - City Palace : 3.7 : Italian, Continental, North Indian, Desserts, Beverages : ₹3,000 for two :  Pink City, Jaipur
+La Multigrain : 4.3 : Chinese, North Indian, Salad, Continental, Italian, Fast Food, Desserts, Beverages : ₹1,600 for two :  Malviya Nagar, Jaipur
+Sky Beach : 3.8 : Continental, Italian, Mexican, North Indian, Chinese, Fast Food, Shake, Beverages : ₹1,700 for two :  Vaishali Nagar, Jaipur
+Barista Coffee : 4.0 : Cafe, Coffee, Desserts : ₹700 for two :  C Scheme, Jaipur
+Bleu Ocean Bar : New : Bar Food, North Indian, Chinese, Pizza, Beverages : ₹2,000 for two :  Ajmer Highway, Jaipur
+Curious Life - Coffee Roasters : 4.5 : Cafe, Beverages, Fast Food, Sandwich, Desserts : ₹800 for two :  C Scheme, Jaipur
+Zarpar : 4.3 : North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages : ₹1,300 for two :  Malviya Nagar, Jaipur
+Sky Town : - : North Indian, Chinese, Fast Food, Pizza, Sandwich, Biryani, Bar Food, Beverages : ₹1,300 for two :  Vaishali Nagar, Jaipur
+TMC The Model Club : 3.9 : North Indian, Fast Food, Sandwich, Chinese, Continental, Italian, Biryani : ₹1,200 for two :  Chitrakoot, Jaipur
+Jeypore : 4.2 : North Indian, South Indian, Chinese, Momos, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Vaishali Nagar, Jaipur
+Chaat Ka Chaska : 4.0 : Street Food, North Indian, Fast Food, Beverages : ₹300 for two :  Malviya Nagar, Jaipur
+Cinnamon - Jai Mahal Palace : 4.9 : North Indian, Mughlai, Desserts : ₹3,500 for two :  Taj Jai Mahal Palace, Civil Lines, Jaipur
+Jiman Thal : New : North Indian : ₹350 for two :  Gopalpura, Jaipur
+Mamma Taco : 3.9 : Mexican : ₹300 for two :  Raja Park, Jaipur
+Giggles & Minions : 3.8 : Chinese, Cafe, Italian, Mexican, North Indian, Fast Food, Waffle, Shake : ₹1,100 for two :  Mansarovar, Jaipur
+Shikar Oudi : 3.4 : Rajasthani, North Indian, Seafood, Continental, Mughlai, Biryani, Chinese, Shake : ₹1,000 for two :  Bais Godam, Jaipur
+Boba Cha : New : Bubble Tea, Beverages, Korean, Sandwich, Fast Food, Street Food, Desserts : ₹600 for two :  C Scheme, Jaipur
+Paalthi : New : Cafe, Coffee, North Indian, Italian, Arabian, Sandwich, Shake, Beverages : ₹1,000 for two :  Tonk Road, Jaipur
+Strings - Cocktail Lounge : New : North Indian, Bar Food, Chinese, Biryani, Salad, Pasta, Fast Food, Desserts : ₹1,800 for two :  Gopalbari, Jaipur
+Brot Co. 24/7 : 3.1 : Continental, Italian, Asian, Salad, Fast Food, Desserts, Coffee, Beverages : ₹2,000 for two :  Vaishali Nagar, Jaipur
+Jars N' More : 3.8 : Bakery, Desserts, Pizza, Fast Food, Beverages : ₹750 for two :  Lal Kothi, Jaipur
+Surya Mahal Restaurant : 4.3 : Italian, Rajasthani, North Indian, Chinese, Continental, South Indian, Desserts, Beverages : ₹1,200 for two :  MI Road, Jaipur
+Chinese Wok : 3.7 : Chinese, Asian, Momos : ₹550 for two :  Sodala, Jaipur
+The House Of Coffee : 3.9 : Cafe, Coffee, Pizza, Pasta, Sandwich, Fast Food, Shake, Beverages : ₹1,000 for two :  C Scheme, Jaipur
+Indian Chai House : 4.0 : Tea, South Indian : ₹250 for two :  Mansarovar, Jaipur
+Lord Petrick Burger & Coffee : 3.7 : Burger, Coffee, Fast Food : ₹200 for two :  Vaishali Nagar, Jaipur
+The Buffet Company : 3.6 : North Indian : ₹1,000 for two :  Raja Park, Jaipur
+Bombay Misthan Bhandar : 3.9 : Mithai, Desserts, North Indian, South Indian, Chinese, Fast Food, Street Food, Beverages : ₹550 for two :  Durgapura, Jaipur
+Zoya By Fort : 4.4 : North Indian, Chinese, Continental, Italian, Fast Food, Desserts, Beverages : ₹1,800 for two :  Fort, Malviya Nagar, Jaipur
+Brot Company : 4.0 : Cafe, Asian, Italian, Pizza, Healthy Food, Beverages, Desserts : ₹1,200 for two :  Civil Lines, Jaipur
+Chotiwala Restaurant : 3.9 : North Indian, South Indian, Fast Food, Rajasthani, Desserts, Beverages : ₹1,000 for two :  Hotel Raya Inn, Gopalbari, Jaipur
+The Gourmet Bar - Novotel Jaipur Convention Centre : 3.9 : Finger Food, Beverages : ₹2,500 for two :  Sitapur, Jaipur
+Havaana Coffee : 4.2 : Cafe, Coffee : ₹400 for two :  C Scheme, Jaipur
+Pappagallo Cafe & Lounge : 4.2 : North Indian, Italian, Continental, Chinese, Fast Food, Coffee, Tea, Beverages : ₹1,200 for two :  Tonk Road, Jaipur
+Chum-Bakk Cafe : 4.3 : Cafe, North Indian, Fast Food, Continental, Italian, Mexican, Desserts, Beverages : ₹1,200 for two :  Shyam Nagar, Jaipur
+Coffee Sutra : 3.9 : Cafe, Coffee, Sandwich, Pizza, Fast Food, Salad, Healthy Food, Desserts : ₹1,000 for two :  Vaishali Nagar, Jaipur
+The Johri : 3.4 : North Indian, Biryani, North Eastern, Beverages : ₹1,400 for two :  Pink City, Jaipur
+Indian Chai House : 4.4 : Tea, Street Food, Beverages, Sandwich, Pizza, Chinese, Healthy Food, Shake : ₹300 for two :  Vaishali Nagar, Jaipur
+Cafe White Sage : 4.2 : North Indian, Continental, Fast Food, Desserts, Beverages : ₹1,900 for two :  Civil Lines, Jaipur
+Peshawri - ITC Rajputana Hotel : 4.6 : North Indian, Mughlai, Desserts : ₹7,000 for two :  ITC Rajputana Hotel, Gopalbari, Jaipur
+Talk At Tea : 3.7 : Tea, Coffee, Shake, Street Food : ₹150 for two :  Vaishali Nagar, Jaipur
+Mera Pizza : 3.6 : Pizza : ₹350 for two :  Sodala, Jaipur
+Saffron - Jaipur Marriott Hotel : 4.2 : North Indian, Kebab, Mughlai, Desserts, Beverages : ₹2,500 for two :  Jaipur Marriott Hotel, Tonk Road, Jaipur
+Madhuban Restaurant : 3.7 : North Indian, Fast Food, South Indian, Chinese, Biryani, Italian, Desserts, Beverages : ₹1,000 for two :  Jagatpura, Jaipur
+High On Life : New : Cafe, Coffee, Chinese, Pizza, Burger, Fast Food, Tea, Shake : ₹300 for two :  Tonk Road, Jaipur
+Mohan Mahal - The Leela Palace : 3.9 : Rajasthani, Beverages, Desserts : ₹9,500 for two :  The Leela Palace Jaipur, Jaipur
+Niros : 3.8 : North Indian, Mughlai, Rajasthani, Chinese, Continental, Seafood, Fast Food : ₹2,000 for two :  MI Road, Jaipur
+The Rajput Room - Rambagh Palace : 4.6 : North Indian, Continental, Asian, Mughlai, Desserts, Beverages : ₹5,000 for two :  Rambagh Palace, C Scheme, Jaipur
+Xero Degrees : 4.1 : Fast Food, Pizza, Pasta, Burger, Beverages, Shake, Coffee : ₹700 for two :  C Scheme, Jaipur
+Bites Of Tibet : New : Tibetan : ₹800 for two :  C Scheme, Jaipur
+Starbucks Coffee : 3.7 : Cafe, Beverages, Fast Food, Desserts : ₹700 for two :  C Scheme, Jaipur
+Veer Ji Malai Chaap Wale : 3.8 : North Indian, Momos, Chinese, Rolls, Biryani, Burger, Shake, Beverages : ₹350 for two :  C Scheme, Jaipur
+14 Tables : 4.0 : North Indian, Continental, Oriental, Fast Food, Desserts, Beverages : ₹2,000 for two :  MI Road, Jaipur
+Two Knights Restaurant : 3.9 : North Indian, Chinese, Fast Food, Continental : ₹1,900 for two :  Adarsh Nagar, Jaipur
+The Vital Spark : 3.8 : North Indian, Chinese, Salad, Kebab, Italian, Wraps, Desserts, Beverages : ₹1,000 for two :  Sodala, Jaipur
+Beerlicious : 4.2 : North Indian, Chinese, Pizza, Fast Food, Salad, Bar Food, Biryani, Beverages : ₹1,900 for two :  Malviya Nagar, Jaipur
+The Crazy Beans : New : Cafe, Coffee, Tea, Sandwich, Fast Food : ₹400 for two :  Mansarovar, Jaipur
+Sardar G Malai Chaap Junction : 4.0 : North Indian, Rolls, Momos : ₹350 for two :  C Scheme, Jaipur
+Zeest - Sky Bar & Lounge : 4.2 : Bar Food, North Indian, Chinese, Healthy Food, Fast Food : ₹1,400 for two :  Hyatt Place - Jaipur Malviya Nagar, Jaipur
+Stepout Cafe : 4.2 : Cafe, Coffee, Middle Eastern, Italian, Mexican, Salad, Desserts, Beverages : ₹1,000 for two :  C Scheme, Jaipur
+Aeondine Lounge & Restaurant : New : North Indian, Chinese, Continental : ₹1,000 for two :  Tonk Road, Jaipur
+Cravings Carnival : New : Pizza, Momos, Fast Food, Shake, Beverages : ₹350 for two :  Malviya Nagar, Jaipur
+Lattice - Sarovar Premiere : 4.3 : Finger Food, Beverages, Coffee, Burger : ₹1,400 for two :  Tonk Road, Jaipur
+OHM : 4.1 : North Indian, Chinese, Beverages : ₹1,700 for two :  The Theme, Tonk Road, Jaipur
+Kaka Dhabha : 3.7 : North Indian : ₹300 for two :  Malviya Nagar, Jaipur
+Sabio Bar And Kitchen : 3.9 : Continental, Italian, Salad, Pasta, Pizza, Desserts : ₹1,200 for two :  Sodala, Jaipur
+Brewvana : 4.2 : Cafe, Italian, Coffee, Fast Food, Rolls, Lebanese, Desserts, Beverages : ₹1,300 for two :  C Scheme, Jaipur
+Tipsy Restaurant : 3.7 : North Indian, Fast Food, Chinese, Beverages, Pizza, South Indian : ₹550 for two :  Vidhyadhar Nagar, Jaipur
+Mad About Crust : New : Pizza, Pasta, Fast Food : ₹600 for two :  Malviya Nagar, Jaipur
+Hotel Highway King Restaurant : 4.0 : North Indian, Pizza, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Hotel Highway King, Ajmer Highway, Jaipur
+Love Over Coffee : 4.2 : Cafe, Coffee, Fast Food, Sandwich, Pizza, Italian, Desserts, Beverages : ₹600 for two :  Raja Park, Jaipur
+Tada Chai : 3.6 : Tea, Pizza, Sandwich, Fast Food, Shake, Beverages : ₹300 for two :  Shyam Nagar, Jaipur
+Tierra - Skybar And Lounge : 3.6 : North Indian, Chinese, Finger Food : ₹1,400 for two :  Shyam Nagar, Jaipur
+Limelight - Hotel Royal Orchid : 3.8 : North Indian, Italian, Continental, Desserts : ₹2,000 for two :  Hotel Royal Orchid, Tonk Road, Jaipur
+Nukkar Dhaba : 3.6 : North Indian, Chinese, Beverages : ₹450 for two :  Malviya Nagar, Jaipur
+D Three : 4.1 : North Indian, Chinese, Continental, Italian, Asian, Biryani, Desserts, Beverages : ₹2,000 for two :  C Scheme, Jaipur
+Umbrai Restro & Banquet : 3.8 : North Indian, Chinese, Fast Food, Shake, Desserts, Beverages : ₹1,400 for two :  Jagatpura, Jaipur
+Gree Ca Cafe : 3.3 : Cafe, Coffee, Beverages, Pizza, Pasta, North Indian, South Indian : ₹350 for two :  C Scheme, Jaipur
+Tawook : 4.9 : Middle Eastern, Mughlai, North Indian, Lebanese, Kebab, Desserts : ₹800 for two :  C Scheme, Jaipur
+Notion : 3.8 : North Indian, Chinese, Continental, Pizza, Desserts : ₹1,200 for two :  Bais Godam, Jaipur
+The Eclectica : 4.1 : North Indian, South Indian, Rajasthani, Chinese, Italian, Biryani, Desserts, Beverages : ₹1,700 for two :  Sodala, Jaipur
+Starlight Club : 4.0 : North Indian, Chinese, Continental, Bar Food, Beverages, Italian, Mexican : ₹1,500 for two :  Mansarovar, Jaipur
+Crazy Coffee : 4.4 : Coffee, Tea, Shake, Beverages, Sandwich, Pizza, Fast Food, Desserts : ₹500 for two :  C Scheme, Jaipur
+Fusion Kitchen : 3.9 : North Indian, Kebab, Chinese, Mughlai : ₹1,200 for two :  Vaishali Nagar, Jaipur
+Arham : 4.0 : North Indian, Chinese, South Indian, Italian, Fast Food, Desserts, Beverages : ₹500 for two :  Ajmer Highway, Jaipur
+The Pavilion - Sarovar Portico : 3.7 : South Indian, Healthy Food, Chinese, Italian, North Indian, Mughlai, Desserts, Beverages : ₹1,900 for two :  Sarovar Portico, Vaishali Nagar, Jaipur
+Sheesh Mahal Bar -  ITC Rajputana Hotel : 4.4 : Finger Food, Drinks Only : ₹5,000 for two :  ITC Rajputana Hotel, Gopalbari, Jaipur
+Scoop & Cones - Artisan Gelato : 4.2 : Ice Cream, Desserts : ₹200 for two :  C Scheme, Jaipur
+The Junkies : New : Chinese, Pizza, Burger, Fast Food, Street Food, Coffee, Shake, Beverages : ₹250 for two :  Pratap Nagar, Jaipur
+Colorbar - Radisson Blu : 4.4 : North Indian, Continental, Chinese, Italian, Desserts, Beverages : ₹2,200 for two :  Radisson Blu, Tonk Road, Jaipur
+Lantern Cafe Bistro : 3.8 : North Indian, Chinese, Street Food, Sandwich, Salad, Desserts, Beverages, Italian : ₹1,000 for two :  Shyam Nagar, Jaipur
+The Verandah - Rambagh Palace : 4.4 : North Indian, Continental, Desserts : ₹5,000 for two :  Rambagh Palace, C Scheme, Jaipur
+Quyu's Taproom : 4.8 : North Indian, Mexican, Lebanese, Sushi, Healthy Food, Cafe, Desserts : ₹1,800 for two :  C Scheme, Jaipur
+Cafe Lazymojo : 3.7 : Coffee, Continental, North Indian, American, Chinese, Healthy Food, Beverages, Fast Food : ₹950 for two :  Kukas, Jaipur
+Masala House : 3.6 : North Indian, South Indian, Chinese, Sandwich, Italian, Fast Food, Rolls, Beverages : ₹1,200 for two :  Jagatpura, Jaipur
+Cafe Sunar : 3.9 : Cafe, Coffee, Continental, Chinese, Fast Food, Beverages, Sandwich, Pasta : ₹1,200 for two :  Agra Road, Jaipur
+Namokar Restaurant By Paapi Pett : 3.2 : Sandwich, Pizza, Pasta, Chinese : ₹450 for two :  Durgapura, Jaipur
+Cafe Cornerstone By Pallavi Daga : 3.0 : Cafe, Italian, North Indian, Fast Food, Street Food, Desserts, Beverages : ₹1,200 for two :  C Scheme, Jaipur
+Traditional Food Company : 3.9 : North Indian : ₹1,000 for two :  Jagatpura, Jaipur
+Tarkash : 3.7 : Bar Food, North Indian, Chinese, Continental, Asian, Biryani, Mughlai, Beverages : ₹1,800 for two :  Jagatpura, Jaipur
+Mufi Cafe : New : Arabian, Lebanese : ₹1,200 for two :  Vaishali Nagar, Jaipur
+Cheelgadi Veg Restaurant : 3.8 : North Indian, South Indian, Chinese, Pizza, Fast Food, Desserts, Beverages : ₹650 for two :  Tonk Road, Jaipur
+TGIH - Thank God It's Healthy! : 4.2 : Healthy Food, Rolls, Mediterranean, Thai, Sandwich, Wraps, Juices, Beverages : ₹1,000 for two :  Gopalbari, Jaipur
+Toronto : 3.1 : North Indian, Chinese : ₹950 for two :  Malviya Nagar, Jaipur
+Chhabra's Pure Veg : 4.2 : North Indian : ₹600 for two :  Mansarovar, Jaipur
+Jaipur Bakers : 3.7 : Bakery, Fast Food, South Indian, North Indian, Beverages, Chinese, Street Food, Desserts : ₹250 for two :  Jhotwara, Jaipur
+Brew Of Tales : 3.9 : Cafe, Coffee, Tea, Shake, Beverages, Sandwich, Fast Food, Desserts : ₹500 for two :  Sikar Road, Jaipur
+Pizza Hut : 3.6 : Pizza, Fast Food, Pasta, Beverages : ₹700 for two :  Vidhyadhar Nagar, Jaipur
+Chops 'N' Woks : 3.0 : Chinese, Momos, Fast Food, Rolls, Shake, Beverages : ₹250 for two :  Vaishali Nagar, Jaipur
+Anushthan : 4.4 : Rajasthani, North Indian, South Indian, Desserts, Juices, Shake, Beverages : ₹750 for two :  Gopalpura, Jaipur
+Rustic : 4.1 : North Indian, Chinese, Kebab, Mughlai, Biryani, Desserts, Shake, Beverages : ₹2,000 for two :  C Scheme, Jaipur
+Chaat Ghar : 3.9 : Fast Food, Street Food, Chinese : ₹200 for two :  Bais Godam, Jaipur
+Chaisa : 4.4 : Tea, Beverages, North Indian, Fast Food : ₹300 for two :  Lal Kothi, Jaipur
+Absolute Zero : 3.9 : Fast Food, Sandwich, Pizza, Mexican, Chinese, Momos, Shake, Desserts : ₹300 for two :  Pratap Nagar, Jaipur
+Sukoon Ki Thadi : 3.7 : Sandwich, Street Food, Tea, Beverages : ₹300 for two :  Raja Park, Jaipur
+Lalaji- Authentic Indian Chaat : 3.2 : Street Food : ₹250 for two :  Durgapura, Jaipur
+The Stag Rooftop : 3.4 : Cafe, Fast Food, North Indian, Chinese, Beverages : ₹700 for two :  Amer, Jaipur
+Bagga N.M. Cafe : 3.3 : Chinese, Fast Food : ₹250 for two :  Mansarovar, Jaipur
+Masala Trails : 4.1 : North Indian, Chinese, Italian, Pizza, Pasta, Salad : ₹1,400 for two :  Tonk Phatak, Jaipur
+Lounge 18 - Jaipur Marriott Hotel : 4.9 : Finger Food, Chinese, Italian, Bar Food, Biryani, North Indian : ₹2,500 for two :  Jaipur Marriott Hotel, Tonk Road, Jaipur
+Cafe Metanoia- Grand Uniara : 3.6 : Cafe, Italian, Fast Food, Beverages, North Indian, Shake : ₹1,500 for two :  Grand Uniara, Narayan Singh Circle, Jaipur
+Samrathpura Kitchen : 3.7 : North Indian, Mughlai, Chinese, Fast Food, Street Food, Beverages : ₹1,000 for two :  C Scheme, Jaipur
+Sunset Bar - Sarovar Portico : 4.2 : Fast Food, Beverages, Chinese : ₹2,500 for two :  Sarovar Portico, Vaishali Nagar, Jaipur
+Chhabra's Pure Veg : 4.0 : North Indian, Chinese : ₹1,000 for two :  Shyam Nagar, Jaipur
+Asilah : 4.1 : Cafe, North Indian, Chinese, Italian, Continental, Lebanese, Desserts, Beverages : ₹950 for two :  Agra Road, Jaipur
+Shree Parshwanath Family Restaurant : New : North Indian, Chinese, South Indian, Biryani, Pizza, Pasta, Fast Food : ₹450 for two :  Mansarovar, Jaipur
+Talk Of The Town : 4.1 : North Indian, Mughlai, Rolls, Biryani : ₹500 for two :  MI Road, Jaipur
+Hotel Safari - La-Villa Restaurant : 3.8 : North Indian, Chinese, South Indian, Continental, Fast Food, Desserts, Beverages : ₹1,100 for two :  Hotel Safari, Mansarovar, Jaipur
+Club Karma : 3.5 : North Indian, Oriental, Italian, Mexican, Continental, Fast Food, Beverages : ₹1,900 for two :  Sunny Trade Center, Mansarovar, Jaipur
+MS3 A Multicuisine Restaurant : 4.3 : Fast Food, Biryani, Chinese, North Indian, South Indian, Desserts, Juices, Beverages : ₹500 for two :  Sodala, Jaipur
+Sri Rangam Restaurant : 3.5 : South Indian, Desserts, Beverages : ₹600 for two :  Lal Kothi, Jaipur
+Shree Agarwal Caterers : 3.4 : Mithai, Bakery, Desserts, Fast Food, Street Food, South Indian, North Indian : ₹400 for two :  Vidhyadhar Nagar, Jaipur
+Burgrill - The Win Win Burger : 3.8 : Burger, Wraps, Fast Food, Sandwich : ₹300 for two :  Raja Park, Jaipur
+The Non Veg House : 3.4 : North Indian, Mughlai : ₹350 for two :  Sikar Road, Jaipur
+SBM Pizza World Unlimited : 3.4 : Pizza, Fast Food, Sandwich, Pasta : ₹150 for two :  Gopalpura, Jaipur
+Zoya - Fairmont Jaipur : 4.4 : North Indian, Rajasthani, Continental, Beverages : ₹4,000 for two :  Fairmont Jaipur, Kukas, Jaipur
+Burger Billion : 3.4 : Burger, Fast Food, Shake, Beverages, Wraps, Sandwich : ₹250 for two :  Sunny Trade Center, Mansarovar, Jaipur
+Crown Of The Town : 3.4 : North Indian, Chinese, Salad, Fast Food, Desserts, Tea, Shake, Beverages : ₹650 for two :  Kukas, Jaipur
+GGopala Restaurant : 3.6 : Chinese, North Indian, Continental, Italian, Desserts, Beverages : ₹1,100 for two :  Malviya Nagar, Jaipur
+How Sweet - Cafe & Bakery : 4.0 : Bakery, Desserts, Fast Food, Continental, Healthy Food : ₹350 for two :  Lal Kothi, Jaipur
+The Forno : 3.8 : Pizza, Desserts, Beverages : ₹650 for two :  Malviya Nagar, Jaipur
+Soul Brewing Company : 3.9 : Continental : ₹1,500 for two :  MI Road, Jaipur
+Dasaprakash : 4.1 : South Indian, Ice Cream, Juices, Beverages : ₹1,200 for two :  MI Road, Jaipur
+Marigold - Golden Tulip : 4.0 : North Indian, Chinese, Continental, Mughlai, Seafood, Oriental, Fast Food, Beverages : ₹2,000 for two :  Golden Tulip, MI Road, Jaipur
+Ten Kings Bar - Holiday Inn Jaipur City Centre : 4.5 : Finger Food, Fast Food, Continental, North Indian, American, Chinese, Beverages : ₹3,000 for two :  Holiday Inn Jaipur City Centre, Bais Godam, Jaipur
+Brewology : 4.1 : Cafe, Coffee, Sandwich, Pizza, Fast Food, Street Food, Salad, Beverages : ₹500 for two :  Tonk Road, Jaipur
+Pehle Chai : 3.1 : Cafe, North Indian, Fast Food, Beverages, Pasta, Chinese : ₹450 for two :  Khatipura Road, Jaipur
+Mad Over Kurries : 3.5 : North Indian, Mughlai, Pizza, Pasta, Chinese, Biryani, Beverages : ₹700 for two :  Sitapur, Jaipur
+Sethi Tikka Kabab Curry : 3.8 : North Indian, Mughlai, Chinese, Fast Food : ₹600 for two :  Gold Souk Grande, Malviya Nagar, Jaipur
+Kadak Singh Da Dhaba : 3.7 : North Indian, Mughlai : ₹450 for two :  Malviya Nagar, Jaipur
+The Colonnade - Rajmahal Palace : 4.2 : Continental, Rajasthani, North Indian, Desserts : ₹3,500 for two :  Rajmahal Palace, C Scheme, Jaipur
+Pali's Pure Veg Dhaba : 4.0 : North Indian, Fast Food, Chinese, Rajasthani, Italian, Burger, Desserts : ₹850 for two :  Raja Park, Jaipur
+BTS - Burger To Shakei : 3.9 : Burger, Fast Food, Beverages : ₹350 for two :  Mansarovar, Jaipur
+Biryani By KCCO : 3.9 : Biryani : ₹850 for two :  Bani Park, Jaipur
+Cafesa Coffee House : 3.5 : Cafe, Coffee, North Indian, Mexican, Continental, Pizza, Desserts, Beverages : ₹1,000 for two :  Shyam Nagar, Jaipur
+Cafe Hungry Birds : 4.0 : Italian, North Indian, Cafe, Chinese, Fast Food, Desserts, Shake : ₹700 for two :  Malviya Nagar, Jaipur
+Muhammadi Palace : 3.9 : North Indian, Mughlai : ₹600 for two :  Sansar Chandra Road, Jaipur
+Conversation - The Fern Hotel : 3.9 : North Indian, Continental, Asian, Italian, Desserts, Beverages : ₹1,800 for two :  The Fern Hotel, Tonk Road, Jaipur
+Simran Food Cafe : New : Chinese, Pizza, Rolls, Sandwich, Momos, Fast Food, Street Food, Beverages : ₹200 for two :  Raja Park, Jaipur
+Burger Farm : 4.1 : Burger, Fast Food, Beverages : ₹400 for two :  C Scheme, Jaipur
+Opus By Laola : 2.6 : Cafe, Coffee, Beverages, North Indian, Continental, Fast Food : ₹600 for two :  Malviya Nagar, Jaipur
+C Scheme Cafe : - : North Indian, Fast Food, Street Food, Pizza, Sandwich, Beverages, Healthy Food : ₹450 for two :  C Scheme, Jaipur
+Red Coal : 4.2 : Shawarma, Kebab, Salad : ₹400 for two :  C Scheme, Jaipur
+Royal Jaipur Express : 2.9 : North Indian, Pizza, Sandwich, Chinese, Fast Food, Desserts, Shake, Beverages : ₹500 for two :  Pratap Nagar, Jaipur
+TC2 Tikka Curry Corner : 3.9 : North Indian, Chinese, Mughlai : ₹500 for two :  Khatipura Road, Jaipur
+Dhaba Jaipuri : New : North Indian, South Indian, Chinese, Pizza, Sandwich, Fast Food, Shake, Beverages : ₹1,000 for two :  Malviya Nagar, Jaipur
+Drunken Monkey : 3.5 : Beverages : ₹300 for two :  C Scheme, Jaipur
+Peacock Restaurant : - : North Indian, Pizza, Chinese, Beverages, Seafood, Desserts : ₹1,000 for two :  Ajmer Highway, Jaipur
+Wrappie N Drip : 3.3 : Wraps, Fast Food : ₹200 for two :  Mansarovar, Jaipur

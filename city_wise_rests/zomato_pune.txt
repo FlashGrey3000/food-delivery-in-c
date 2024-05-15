@@ -1,0 +1,501 @@
+Mahesh Lunch Home : 4.2 : North Indian, Mughlai, Street Food, Seafood, Beverages : ₹1,200 for two :  Camp Area, Pune
+Portico B4M Restaurant & Bar : 4.5 : North Indian, Italian, Chinese, Continental, Burger, Bar Food : ₹1,500 for two :  JM Road, Pune
+Subakes : 4.3 : Cafe, Coffee, European, Sandwich, Fast Food, Salad, Italian, Shake : ₹850 for two :  Sadashiv Peth, Pune
+Yakii : 4.3 : Asian, Thai, Sushi, Desserts, Beverages : ₹1,500 for two :  Deccan Gymkhana, Pune
+Culture Pune : 4.2 : Bar Food, Salad, Continental, Italian, Pasta, Fast Food, Beverages : ₹1,800 for two :  FC Road, Pune
+LYNX Kitchen & Bar : 4.5 : Asian, Continental, Middle Eastern, Sushi, Desserts : ₹1,400 for two :  FC Road, Pune
+Funny Cat Pune : 3.6 : Bar Food, Italian, Asian, Continental, Desserts, Beverages, Fast Food, Burger : ₹1,500 for two :  FC Road, Pune
+World Of Veg : 4.0 : North Indian, Oriental, Italian, Continental, Chinese, Salad, Fast Food, Beverages : ₹1,800 for two :  Shivaji Nagar, Pune
+Dhaba - Estd 1986 Delhi : 4.3 : North Indian, Biryani, Mughlai, Paan, Desserts : ₹2,500 for two :  The Pavillion, Senapati Bapat Road, Pune
+Mamagoto : 4.5 : Asian, Sushi, Japanese, Thai, Salad, Desserts, Chinese : ₹1,200 for two :  The Pavillion, Senapati Bapat Road, Pune
+360 Degree - The Revolving Fine Dine Restaurant : 4.0 : Beverages : ₹1,400 for two :  Bhosale-Shinde Arcade, JM Road, Pune
+Effingut : 4.4 : Chinese, Continental, North Indian, Oriental, Finger Food, Italian, Beverages : ₹2,500 for two :  Koregaon Park, Pune
+360 Degree - The Rooftop Restaurant & Bar : 4.1 : Beverages, Chinese, North Indian : ₹1,400 for two :  Bhosale-Shinde Arcade, JM Road, Pune
+Akasa Pool Dining & Kitchen : 4.1 : Continental, North Indian : ₹3,500 for two :  Wakad, Pune
+Chingari - Sheraton Grand : 4.3 : North Indian, Mughlai, Kebab, Desserts, Beverages, Seafood : ₹4,000 for two :  Sheraton Grand, Bund Garden Road, Pune
+Cherie : 4.8 : Asian, Modern Indian, Chinese, Italian, Salad, Continental, Desserts : ₹1,900 for two :  White Square, Hinjawadi, Pune
+Wok Toss : 4.3 : Chinese, Thai, Sushi, Desserts : ₹700 for two :  Shivaji Nagar, Pune
+Chaurahe Ke Paar : 4.4 : North Indian, Continental, Bar Food, Pizza, Italian, Biryani, Mughlai, Cafe : ₹1,600 for two :  Koregaon Park, Pune
+Feast - Sheraton Grand : 4.3 : Chinese, North Indian, Mughlai, Asian, Continental, Salad, Italian, Desserts : ₹4,000 for two :  Sheraton Grand, Bund Garden Road, Pune
+Spice Factory : 4.1 : North Indian, Mughlai, Chinese, Biryani, Pizza, Pasta, Beverages : ₹1,200 for two :  White Square, Hinjawadi, Pune
+La Sicilia Bistro & Patisserie : 4.3 : Continental, Italian, Salad, Sandwich, Burger, Desserts, Coffee, Beverages : ₹1,400 for two :  Kothrud, Pune
+Publiq : 4.1 : Asian, North Indian, Italian, Chinese, Biryani, Kebab, Salad, Beverages : ₹2,000 for two :  Koregaon Park, Pune
+Millers - The Luxury Club : 4.3 : Continental, North Indian, Fast Food, Biryani, Beverages, Desserts : ₹1,900 for two :  The Mills, Bund Garden Road, Pune
+Cafe Co2 Resto Lounge : 4.4 : North Indian, Mughlai, Chinese, Continental, Kebab, Biryani, Desserts, Beverages : ₹3,000 for two :  Bhugaon, Pune
+2BHK Diner & Key Club : 4.2 : North Indian, Mediterranean, European, Finger Food, Italian, American, Beverages : ₹3,000 for two :  The Mills, Bund Garden Road, Pune
+YOLO Gastro Lounge : 4.2 : Finger Food, North Indian, Continental, Desserts, Bar Food, Beverages : ₹1,900 for two :  Spot 18 Mall, Pimple Saudagar, Pune
+TIAN The Oriental Kitchen : 4.5 : Oriental, Chinese, Japanese, Asian, Sushi, Seafood : ₹1,200 for two :  Law College Road, Pune
+Elephant & Co. : 4.4 : Continental, Salad, Asian, Italian, Desserts : ₹1,800 for two :  Baner, Pune
+Acai : 4.4 : North Indian, Continental, Italian, Pizza, Bar Food : ₹2,000 for two :  Dhole Patil Road, Pune
+The Cult - Terra : 4.2 : Pizza, Continental, North Indian, Chinese, Italian, Bar Food, Desserts, Beverages : ₹1,800 for two :  Magarpatta, Pune
+Retox : 4.5 : North Indian, Chinese, Continental, Italian, Salad, Bar Food, Sichuan, Beverages : ₹1,200 for two :  Erandwane, Pune
+Escada All Day Kitchen & Bar : 4.3 : Salad, Chinese, Asian, North Indian, Italian, Oriental : ₹1,200 for two :  Viman Nagar, Pune
+SKYE - Rooftop by Eternia : 4.3 : North Indian, Chinese, Fast Food, Biryani, Mughlai, Oriental, Continental, Desserts : ₹2,000 for two :  Senapati Bapat Road, Pune
+Tipsy Turtle : 4.1 : North Indian, Mughlai, Continental, Asian, Biryani, Pizza, Thai, Desserts : ₹1,400 for two :  Bavdhan, Pune
+Agent Jack's : 4.2 : Chinese, Salad, North Indian, BBQ, Continental, Pizza, Oriental, Fast Food : ₹1,800 for two :  Senapati Bapat Road, Pune
+Local Gastro Bar : 4.1 : Bar Food, Pizza, Beverages : ₹2,300 for two :  Hinjawadi, Pune
+L7 Club & Lounge : 4.5 : North Indian, Continental, Finger Food, Biryani : ₹1,300 for two :  Koregaon Park, Pune
+Toit : 4.6 : Continental, Pizza, Fast Food, Desserts : ₹1,800 for two :  Kalyani Nagar, Pune
+High Garden : 4.4 : North Indian, Chinese, Italian, Biryani, Desserts, Bar Food, Finger Food, Kebab : ₹1,400 for two :  Senapati Bapat Road, Pune
+Texas Tower : 4.3 : North Indian, Chinese, Oriental, Biryani, Mughlai, Mexican, Desserts, Beverages : ₹1,900 for two :  Kharadi, Pune
+FC Road Social : 4.2 : North Indian, Biryani, Pizza, Street Food, Bar Food, Desserts : ₹1,600 for two :  Shivaji Nagar, Pune
+Persian Darbar : 4.5 : North Indian, Mughlai, Kebab, Biryani, Seafood, Chinese, Desserts, Beverages : ₹1,200 for two :  Camp Area, Pune
+Plink : 4.3 : Italian, Continental, Mughlai, Chinese, Salad, Pizza, Fast Food : ₹3,000 for two :  Yerawada, Pune
+Sky Stories : 4.3 : Italian, Continental, North Indian, Mughlai, Biryani, Oriental, Bar Food, Desserts : ₹1,800 for two :  Baner, Pune
+Mister Merchant’s : 4.9 : Middle Eastern, Arabian, Kebab, Lebanese, Mediterranean : ₹2,000 for two :  Kalyani Nagar, Pune
+FML - Food Music Love : 4.0 : North Indian, Mughlai, Chinese, Oriental, Continental, Italian, Biryani, Desserts : ₹1,900 for two :  Pashan, Pune
+Highland : 4.3 : Bar Food, North Indian, Asian, Chinese, Pizza, Pasta, Kebab : ₹2,300 for two :  Kalyani Nagar, Pune
+Indimex : 4.3 : North Indian, Continental, Iranian, Pasta : ₹999 for two :  Seasons Mall, Magarpatta , Pune
+Toss Pizzeria : 4.6 : Pizza, Italian, Beverages, Cafe, Coffee, Fast Food : ₹600 for two :  Bibvewadi, Pune
+Affairs - The Bar : 4.2 : North Indian, Continental, Asian, Pizza, Kebab, Biryani, Desserts, Beverages : ₹2,000 for two :  Kalyani Nagar, Pune
+Fat Pigeon - Bar Hop : 4.3 : Bar Food, Continental, Italian, Asian, Mediterranean, South Indian, Coffee, Modern Indian : ₹1,500 for two :  Kalyani Nagar, Pune
+Circuit House : 4.5 : North Indian, Italian, Continental, Chinese, Mughlai, Desserts, Beverages : ₹1,800 for two :  Balewadi, Pune
+Soy Como Soy : 4.7 : Japanese, Asian, Peruvian, Desserts, Beverages : ₹2,500 for two :  Kalyani Nagar, Pune
+Quarter Bar & Kitchen : 4.4 : North Indian, Chinese, Asian, Fast Food, Desserts : ₹2,800 for two :  Kharadi, Pune
+Cosie : 4.2 : Asian, Modern Indian, Continental, Desserts : ₹2,000 for two :  Mundhwa, Pune
+Prem's : 4.3 : North Indian, Chinese, Continental, Pizza, Pasta, Sichuan : ₹1,600 for two :  Baner, Pune
+Yeti The Himalayan Kitchen : 4.4 : Nepalese, Chinese, Tibetan, Momos, Desserts, Shake, Beverages : ₹1,500 for two :  Kalyani Nagar, Pune
+Amora Skyline Lounge & Kitchen : 4.1 : North Indian, Chinese : ₹1,000 for two :  Hinjawadi, Pune
+Urban Harvest : 4.4 : North Indian, Asian, Continental, Chinese, Italian, Biryani, Seafood, Desserts : ₹1,000 for two :  Sinhgad Road, Pune
+Gong : 4.7 : Chinese, Sushi, Asian, Japanese, Thai, Salad, Desserts, Beverages : ₹2,000 for two :  Balewadi High Street, Baner, Pune
+The Houz - Family Kitchen : 4.3 : North Indian, Continental, Chinese, Italian, Asian, Salad, Tea, Beverages : ₹2,000 for two :  Kalyani Nagar, Pune
+Local Gastro Bar : 4.1 : Pizza, Bar Food, Beverages : ₹2,300 for two :  Koregaon Park, Pune
+Valentina Dine & Wine : 4.1 : North Indian, Oriental, Continental, Seafood, Pasta, Pizza, Chinese, Desserts : ₹1,300 for two :  Sinhgad Road, Pune
+Ava Artisan Kitchen & Bar : New : North Indian, Chinese, Continental, Sushi, Asian, Italian : ₹1,200 for two :  Balewadi, Pune
+Doolally Taproom : 4.5 : Continental, Pizza, Fast Food, North Indian, Chinese, Pasta, Desserts, Beverages : ₹1,000 for two :  Kopa Mall, Pune
+High Spirits : 4.3 : North Indian, Continental, Italian, Pasta, Pizza : ₹2,000 for two :  Mundhwa, Pune
+Nomad Pizza : 4.0 : Pizza, Italian, Continental : ₹2,000 for two :  Kalyani Nagar, Pune
+Sreca Rooftop Lounge : 4.5 : North Indian, Continental, Asian, Bar Food, Chinese, Pizza, Seafood : ₹1,000 for two :  Pimple Nilakh, Pune
+The 3 Musketeers Cafe & Bar : 4.4 : Continental, Chinese, North Indian, Mughlai, Biryani, Italian, Fast Food, Desserts : ₹1,200 for two :  Hinjawadi, Pune
+Mekong Folks : 4.7 : Asian, Cantonese, Sushi, Japanese, Chinese, Salad, Seafood, Beverages : ₹2,000 for two :  Balewadi, Pune
+Santorini by Hilton Garden Inn : 4.1 : Mediterranean, Continental, Salad, Pasta, Sandwich, Pizza, Desserts : ₹3,500 for two :  Hilton Garden Inn of Pune, Hinjawadi, Pune
+Punjab Exotica : 4.3 : Maharashtrian, North Indian, Seafood, Biryani, Chinese, Pizza, Fast Food, Desserts : ₹1,300 for two :  Magarpatta, Pune
+Planet 9 : 4.4 : North Indian, Mughlai, Mexican, Biryani, Beverages : ₹2,000 for two :  Bavdhan, Pune
+Barbozaa : 4.5 : Bar Food, Pizza, North Indian, Pasta : ₹2,300 for two :  Seasons Mall, Magarpatta , Pune
+The Corner Lounge : 4.6 : North Indian, Oriental, Continental, Mexican, Seafood, Kebab, Biryani, Desserts : ₹2,000 for two :  Baner, Pune
+Sukhi Da Dhaba : 4.1 : North Indian, Asian, Mughlai, Fast Food, Biryani, Beverages : ₹2,000 for two :  Wakad, Pune
+Intactu : 4.3 : North Indian, Biryani, Mughlai, Pizza, Pasta, Italian, Fast Food, Desserts : ₹1,500 for two :  Hinjawadi, Pune
+Hard Rock Cafe : 4.3 : Burger, Italian, Pizza, American, Continental, Desserts : ₹1,800 for two :  Hadapsar, Pune
+Tsuki : 4.4 : Thai, Cantonese, Japanese, Sushi, Rolls, Desserts : ₹2,500 for two :  Koregaon Park, Pune
+Talli : 4.4 : North Indian, Asian, Continental, Italian, Pizza, Pasta, Bar Food, Beverages : ₹1,600 for two :  Koregaon Park, Pune
+The Community Table : 4.6 : Asian, North Indian, Biryani, Continental, Thai, Desserts, Beverages : ₹1,600 for two :  Hinjawadi, Pune
+Ishaara : 4.6 : North Indian, Mughlai, Kebab, Biryani : ₹1,400 for two :  Phoenix Market City, Viman Nagar, Pune
+The Gulmohar Bar & Curry House : 4.3 : North Indian, South Indian, Biryani, Continental, Asian, Seafood : ₹2,100 for two :  Baner, Pune
+QORA - Cocktail Bar & Kitchen : 4.5 : Continental, Asian, Salad, Biryani, Sushi, Desserts : ₹2,500 for two :  Koregaon Park, Pune
+Eight : New : Asian, Bar Food, Japanese, Sushi : ₹2,000 for two :  Wakad, Pune
+The Market - The Westin Pune : 4.2 : North Indian, European, Asian, Desserts : ₹4,000 for two :  The Westin, Mundhwa, Pune
+English House : 4.5 : North Indian, Continental, Italian, Pizza : ₹2,000 for two :  Viman Nagar, Pune
+Toscano : 4.7 : Italian, Pizza, Pasta, Continental, Desserts, Steak, Seafood, Beverages : ₹1,800 for two :  Koregaon Park, Pune
+Skylark : 3.6 : North Indian, Chinese : ₹1,000 for two :  Hinjawadi, Pune
+Aroma's Hyderabad House - Phase 1 : 4.1 : Biryani, Kebab, North Indian, Mughlai, Seafood, Chinese, Beverages : ₹1,300 for two :  Hinjawadi, Pune
+Teddys Kitchen And Bar : 4.2 : North Indian, Seafood, Continental : ₹1,700 for two :  Dange Chowk, Pune
+Braun Autobahn - The Smart Restaurant : 4.6 : Chinese, North Indian, Asian, Rolls, Beverages : ₹1,600 for two :  Phoenix Market City, Viman Nagar, Pune
+TTF - The Tenth Floor : 4.2 : Finger Food, Chinese, Pizza, Italian, North Indian, Oriental, Bar Food, Beverages : ₹1,800 for two :  Baner, Pune
+Tales & Spirits - Hunters Bistro : 4.3 : Italian, Continental, North Indian, Biryani, Pizza, Fast Food, Desserts, Beverages : ₹1,450 for two :  Baner, Pune
+Kukoo : New : Continental, Asian, Italian, Modern Indian, Salad, Desserts : ₹1,800 for two :  Kalyani Nagar, Pune
+AB's - Absolute Barbecues : 4.5 : Biryani, BBQ, Kebab, North Indian, Desserts : ₹1,650 for two :  Seasons Mall, Magarpatta , Pune
+Rajdhani : 4.1 : North Indian, Gujarati, Rajasthani, Mithai : ₹1,100 for two :  Phoenix Market City, Viman Nagar, Pune
+Barrio Roof Top Kitchen And Bar : 4.4 : North Indian, Oriental, Chinese, Biryani, Pizza, Pasta, Seafood, Desserts : ₹1,800 for two :  Pimple Saudagar, Pune
+Juju Bar : 4.5 : Mexican : ₹2,000 for two :  Kalyani Nagar, Pune
+Taco & Tequila Co : 4.5 : Mexican : ₹1,000 for two :  Kalyani Nagar, Pune
+The Square - Novotel : 4.0 : North Indian, European, Continental, Chinese, Mediterranean, Asian, Italian, Fast Food : ₹3,200 for two :  Novotel Pune Nagar Road, Pune
+Dhaba Shaba Veg Bistro : 4.5 : North Indian, Chinese, Sandwich, Desserts, Beverages : ₹800 for two :  Koregaon Park, Pune
+Cha Cha Cha - Dimsum, Sushi, Stir Fry : 4.5 : Asian, Chinese, Salad, Desserts : ₹1,400 for two :  Phoenix Market City, Viman Nagar, Pune
+The Voyage : 4.4 : Continental, Fast Food, Italian, European, Healthy Food, Desserts, Coffee, Beverages : ₹1,000 for two :  Koregaon Park, Pune
+Nativ : 4.5 : North Indian, Mughlai, Continental, Chinese, Asian, Biryani, Bar Food : ₹1,800 for two :  Prime Rose Mall, Pune
+Butter - Bar & Kitchen : 4.4 : Asian, Italian, Chinese, Sushi, Japanese, Beverages : ₹1,800 for two :  Balewadi, Pune
+Angrezi Dhaba : 4.1 : Modern Indian, Bar Food, Chinese, Pasta, Seafood, Asian, Desserts, Beverages : ₹1,600 for two :  Prime Rose Mall, Pune
+Ishaara : New : North Indian, Mughlai, Kebab, Biryani, Desserts, Beverages : ₹1,400 for two :  Wakad, Pune
+H1 Lounge : 4.5 : Continental, North Indian, Oriental, Modern Indian, Italian, Pizza, Pasta, Desserts : ₹2,000 for two :  Ravet, Pune
+The Flour Works : 4.2 : European, Italian, Healthy Food, Salad, Sandwich, Pizza, Desserts, Beverages : ₹1,800 for two :  Kalyani Nagar, Pune
+Teera : 4.1 : North Indian, Continental, Mughlai, Chinese, Fast Food, Desserts, Beverages, Shake : ₹1,800 for two :  Wakad, Pune
+The 3 Musketeers Pub : 4.3 : North Indian, Continental, Oriental, Pasta : ₹1,700 for two :  Sky Max Mall, Viman Nagar, Pune
+You Mee : 4.7 : Asian, Japanese, Sushi, Desserts, Beverages : ₹2,500 for two :  Phoenix Market City, Viman Nagar, Pune
+The Daily All Day : 4.5 : European, Asian, Continental, Italian, Salad, Pizza, Desserts : ₹1,200 for two :  Koregaon Park, Pune
+The Irish House : 4.3 : Continental, Burger, Pizza, Desserts, Beverages : ₹2,500 for two :  Phoenix Market City, Viman Nagar, Pune
+24K Kraft Brewzz : 4.3 : Chinese, Fast Food, North Indian, Seafood, Mughlai, Biryani, Italian, Asian : ₹1,700 for two :  Viman Nagar, Pune
+Terrace By Bailamos : 4.1 : Asian : ₹3,000 for two :  Balewadi, Pune
+Si Nonna's - The Original Sourdough Pizza : 4.4 : Pizza : ₹800 for two :  FC Road, Pune
+Sante Spa Cuisine : 4.5 : Cafe, Healthy Food, Mediterranean, Continental, Desserts : ₹1,200 for two :  Baner, Pune
+Bacharika- Rooftop Bar And Kitchen : 4.5 : North Indian, Continental, Chinese, Middle Eastern, European, Fast Food, Desserts, Beverages : ₹1,900 for two :  Kothrud, Pune
+Sarovarr A Multi Cuisine Restaurant : 3.8 : North Indian, Chinese, Continental, Fast Food, Biryani, Seafood : ₹1,200 for two :  Bhugaon, Pune
+Barzilla Club : 4.2 : North Indian, Bar Food : ₹2,300 for two :  The Social Street , Pune
+The Break Room : 4.2 : North Indian, Continental, Pasta, Desserts, Beverages : ₹1,900 for two :  NIBM Road, Pune
+Hapaa - Asian Stir : 4.6 : Asian, Japanese, Chinese, Sushi, Desserts, Beverages : ₹2,000 for two :  Kalyani Nagar, Pune
+Beetroot Bistro : 4.3 : Healthy Food, Chinese, Sandwich, Italian, Fast Food, Continental, Desserts, Beverages : ₹1,600 for two :  Koregaon Park, Pune
+Skol : 4.4 : North Indian, Continental, Oriental, Pizza, Asian, Finger Food, Desserts, Beverages : ₹1,700 for two :  Shivaji Nagar, Pune
+Tyk Tyk : 4.3 : North Indian, Chinese, Biryani, South Indian, Momos, Street Food, Desserts, Beverages : ₹1,000 for two :  Kharadi, Pune
+Maharaja Bhog : 4.6 : North Indian : ₹1,400 for two :  The Pavillion, Senapati Bapat Road, Pune
+Bombay Bistro : 4.3 : Bar Food : ₹1,000 for two :  Mahalunge, Pune
+Mainland China : 4.5 : Chinese, Japanese, Korean, Sushi, Seafood, Oriental, Beverages, Bar Food : ₹2,000 for two :  Senapati Bapat Road, Pune
+Le Parc : 4.3 : North Indian, Chinese, Oriental, Italian, American, Salad, Desserts, Beverages : ₹1,200 for two :  Hinjawadi, Pune
+Coriander Kitchen - Conrad Pune : 4.5 : North Indian, Asian, Mediterranean, Shake : ₹5,000 for two :  Conrad Pune, Bund Garden Road, Pune
+Roots 9 Kitchen & Bar : 4.1 : Asian, Salad, Continental, North Indian, Mughlai, Seafood, Desserts, Beverages : ₹1,700 for two :  Erandwane, Pune
+I Amsterdam : 4.4 : Asian, North Indian, European : ₹1,700 for two :  Hinjawadi, Pune
+Atmosphere 6 : 4.2 : North Indian, Continental, Chinese, Salad, Oriental : ₹2,000 for two :  Sky Max Mall, Viman Nagar, Pune
+Al Di La - Conrad Pune : 4.6 : Italian, Bar Food, Desserts, Beverages : ₹5,500 for two :  Conrad Pune, Bund Garden Road, Pune
+Thikana : 4.2 : North Indian, Italian, Pasta, Continental, Pizza, Biryani, Beverages : ₹1,800 for two :  White Square, Hinjawadi, Pune
+The Urban Foundry : 4.5 : Bar Food, North Indian, Pizza, Fast Food, Desserts, Beverages : ₹2,500 for two :  Balewadi High Street, Baner, Pune
+Neighbourhud | All Day Bistro : 4.5 : North Indian, Biryani, Fast Food, Pizza, Continental, Beverages : ₹1,500 for two :  Baner, Pune
+Prysm : 4.2 : Asian, North Indian, Salad, Pasta, Pizza, Momos, Biryani, Mughlai : ₹1,800 for two :  Hinjawadi, Pune
+Fiesta Family Restaurant & Bar : 4.1 : North Indian, Biryani, Mughlai, Kebab, Seafood, Fast Food, Chinese : ₹1,300 for two :  Wakad, Pune
+Backstage : 4.2 : North Indian, Salad, Chinese, Mughlai, Pizza, Fast Food, Thai, Beverages : ₹2,600 for two :  Phoenix Market City, Viman Nagar, Pune
+Unicorn House : 4.0 : North Indian, Sichuan, Asian, Italian, Bar Food : ₹1,800 for two :  Kalyani Nagar, Pune
+Code - The Speakeasy Bar : 4.3 : North Indian, Chinese, Continental, Fast Food, Biryani, Beverages : ₹1,200 for two :  Kothrud, Pune
+The Sassy Spoon : 4.5 : European, Continental, American, Asian, Mediterranean, Healthy Food, Italian, Beverages : ₹1,900 for two :  Koregaon Park, Pune
+Tatva The Vegetarian Kitchen : 4.2 : North Indian, Chinese, South Indian, Biryani, Street Food, Fast Food, Oriental, Beverages : ₹1,000 for two :  Wakad, Pune
+Eskobar : 4.2 : North Indian, Pizza, Pasta, Biryani, Desserts, Beverages : ₹1,900 for two :  Baner, Pune
+The Wise Guys : 4.5 : North Indian, Chinese, Pasta, Fast Food, Bar Food, Desserts, Shake, Beverages : ₹1,700 for two :  Wakad, Pune
+3 Idiots - The Friendly Bar : 4.4 : North Indian, Continental, Biryani, Chinese, Fast Food, Desserts, Beverages : ₹1,600 for two :  Pimple Gurav, Pune
+Kyma : New : Asian, Mediterranean : ₹1,000 for two :  Kopa Mall, Pune
+Tim Hortons : 4.0 : Coffee, Sandwich, Cafe, Beverages : ₹700 for two :  Balewadi, Pune
+Murphies - Bistro and Bar : 4.3 : European, Continental, Asian, Bakery, Pasta, Coffee, Desserts, Salad : ₹1,200 for two :  Deccan Gymkhana, Pune
+Independence Brewing Company : 4.9 : Bar Food, Continental, Fast Food, Salad, Desserts, Beverages : ₹2,500 for two :  Kalyani Nagar, Pune
+BMG - Unplugged : 4.3 : Finger Food, Chinese, Continental, Pizza, Pasta, Oriental, Seafood, Beverages : ₹1,300 for two :  Amanora Town Centre, Hadapsar, Pune
+Allora : 4.5 : Pizza, Italian, Pasta : ₹2,000 for two :  Phoenix Market City, Viman Nagar, Pune
+PAUL : 4.2 : Cafe, Continental, European, Italian, French, Desserts, Coffee, Beverages : ₹1,100 for two :  Kopa Mall, Pune
+Pune 14 - Hyatt Regency : 4.1 : North Indian, Asian, Continental : ₹3,700 for two :  The Hyatt Regency, Nagar Road, Pune
+The Barkhana : 4.6 : Bar Food, Mughlai, Chinese, North Indian, Fast Food, Desserts, Beverages, Sichuan : ₹2,000 for two :  Wakad, Pune
+Marine Drive Resto & Skybar : New : Chinese, North Indian : ₹1,500 for two :  Hinjawadi, Pune
+Casa Del Queso : 4.5 : Italian, Pizza, Fast Food : ₹1,000 for two :  Koregaon Park, Pune
+Asia Kitchen By Mainland China : 4.3 : Asian, Chinese, Sushi, Thai, Japanese, Beverages : ₹1,500 for two :  Phoenix Mall of the Millennium, Pune
+The White House : 4.4 : North Indian, Kebab, Mughlai, Thai, Italian, Continental, Desserts, Beverages : ₹1,500 for two :  Aundh, Pune
+Little Italy : 4.4 : Italian, Pizza, Pasta, Continental, Desserts, Healthy Food, Beverages : ₹1,300 for two :  Shivaji Nagar, Pune
+Bharat Bhavan : 4.3 : North Indian, Mughlai, Awadhi, Goan, Lucknowi, Kashmiri, Beverages, Desserts : ₹1,900 for two :  Balewadi High Street — Phase 2, Pune
+Parsley Haute Cuisine : 4.4 : Italian, Continental, Chinese, Asian, Sushi, North Indian, Desserts, Beverages : ₹1,100 for two :  Swargate, Pune
+Bailamos Alfresco & Dance : 4.5 : Italian, Bar Food, North Indian, Chinese, Japanese, Biryani, Fast Food, Desserts : ₹2,000 for two :  Baner, Pune
+Café Brewing Italiana – Veg. Italian Cafe : 4.1 : Cafe, Coffee, Pizza, Pasta, Italian, Desserts, Shake, Beverages : ₹1,000 for two :  JM Road, Pune
+The Camden Lane : 4.0 : Continental, Mexican : ₹1,500 for two :  Koregaon Park, Pune
+Caffe Allora : New : Italian, Seafood, Pasta, Pizza, Sandwich, Salad, Desserts : ₹1,000 for two :  Wakad, Pune
+Sky Deck : 4.2 : North Indian, Chinese, Pasta, Fast Food, Mughlai, Desserts, Beverages : ₹1,300 for two :  Bhosari, Pune
+Chulbul Dhaba : 4.0 : North Indian, Chinese, Mughlai, Biryani, Bakery, Desserts, Beverages : ₹1,000 for two :  Kharadi, Pune
+Paasha - JW Marriott Pune : 4.5 : North Indian, Kebab, Desserts : ₹4,000 for two :  JW Marriott Pune, Senapati Bapat Road, Pune
+Dobaraa : 4.5 : North Indian, Continental : ₹3,500 for two :  Phoenix Market City, Viman Nagar, Pune
+Drip So High : 3.9 : North Indian, Continental, Fast Food, Chinese, Asian, Oriental, Sushi, Desserts : ₹1,500 for two :  Magarpatta, Pune
+TGI Fridays : 4.2 : American, Mexican, Pizza, Continental, Desserts, Beverages : ₹2,000 for two :  The Pavillion, Senapati Bapat Road, Pune
+Boho Boho : 4.4 : Continental, Healthy Food, Salad, Pizza, Sandwich, Desserts, Coffee, Beverages : ₹950 for two :  Koregaon Park, Pune
+Pergola De Pines : 3.8 : Italian, North Indian, Goan, Thai, Korean, Lebanese, Continental, Desserts : ₹1,400 for two :  Kalyani Nagar, Pune
+Shizusan : 4.6 : Japanese, Asian, Chinese, Thai, Desserts : ₹1,900 for two :  Phoenix Market City, Viman Nagar, Pune
+Sheri : 4.4 : Continental, North Indian, Italian, Asian, Thai, Chinese, Biryani, Desserts : ₹1,700 for two :  Mundhwa, Pune
+YKS Sizzlers Multi Cuisine : 4.4 : Maharashtrian, North Indian, Biryani, Seafood, Mughlai, Kebab : ₹1,000 for two :  Erandwane, Pune
+Zeta - Hyatt Regency Pune : 4.5 : Continental, Italian, Seafood, Coffee, Tea, Desserts, Beverages : ₹3,000 for two :  The Hyatt Regency, Nagar Road, Pune
+Hakuna Matata : 4.2 : North Indian, Chinese, Fast Food, Sichuan, Street Food, Pizza, Seafood : ₹1,900 for two :  Shivaji Nagar, Pune
+Copa Cabana : 4.4 : North Indian, Continental, Asian, Italian, Salad, Biryani, Sandwich, Desserts : ₹1,900 for two :  Pimple Nilakh, Pune
+Kiko - Bar & Grill : New : Thai, Chinese, Fast Food, Seafood, Desserts, Beverages : ₹1,500 for two :  Akurdi, Pune
+Faro The Sky Bar : 4.4 : Mexican, Salad : ₹450 for two :  Pimpri, Pune
+Si Nonna's The Original Sourdough Pizza : New : Pizza, Italian : ₹1,000 for two :  Salunkhe Vihar Road, Pune
+Hotel Shreyas : 4.2 : Maharashtrian, North Indian, Sandwich, Street Food, Fast Food, Desserts, Beverages : ₹800 for two :  Deccan Gymkhana, Pune
+Copper Chimney : 4.5 : North Indian, Biryani, Kebab, Chinese, Salad, Desserts : ₹1,000 for two :  Phoenix Mall of the Millennium, Pune
+Farmaaish : 4.2 : Continental, Bar Food, North Indian, Mughlai, Asian, Chinese, Desserts, Beverages : ₹1,300 for two :  Viman Nagar, Pune
+Pimlico : 4.1 : Cafe, Italian, Beverages, Pizza, Sushi, Continental, Salad, Fast Food : ₹1,200 for two :  Koregaon Park, Pune
+Le Plaisir : 4.6 : Cafe, Italian, Continental, Salad, Sandwich, Pizza, Beverages, Shake : ₹1,200 for two :  Deccan Gymkhana, Pune
+Baraza Bars & Bites : 4.4 : Bar Food, Continental, Asian, North Indian, Kebab, Biryani, Desserts, Beverages : ₹2,000 for two :  Creaticity Mall, Yerawada, Pune
+Steakhouse Bar & Grill : 4.9 : Steak, Continental, Fast Food, Beverages : ₹1,200 for two :  Kalyani Nagar, Pune
+Babylon Craft Brewery : 4.5 : North Indian, Chinese, Continental, Mughlai, Fast Food, Desserts, Beverages : ₹1,400 for two :  Erandwane, Pune
+Ballr : 3.6 : Continental, Chinese, Sushi : ₹1,000 for two :  Kalyani Nagar, Pune
+Shiv Sagar : 3.8 : North Indian, South Indian, Chinese, Sandwich, Street Food, Pizza, Desserts, Beverages : ₹1,100 for two :  Viman Nagar, Pune
+Ruhmani By Hilton Garden Inn : 4.2 : North Indian, Chinese, Biryani, Desserts, Beverages : ₹3,000 for two :  Hilton Garden Inn of Pune, Hinjawadi, Pune
+Ranjana Kitchen & Bar : 4.5 : North Indian, Maharashtrian, Chinese, Mughlai, Biryani, Thai, Fast Food, Desserts : ₹1,500 for two :  Hinjawadi, Pune
+The Rustle Nest : 4.4 : Continental, North Indian, European, Biryani, Pasta, Sandwich, Desserts, Beverages : ₹950 for two :  Baner, Pune
+Tim Luck Luck : 4.4 : Asian, North Indian, Chinese, Biryani, Desserts, Beverages : ₹1,200 for two :  East Street, Pune
+Café 88 - Hyatt Pune : 3.9 : Continental, North Indian, Italian, Healthy Food, Fast Food, Desserts, Beverages : ₹3,500 for two :  Hyatt Pune, Nagar Road, Pune
+Classico Kitchen & Bar : 4.7 : Fast Food, Chinese, Salad, Continental, Italian, Pasta, Pizza, North Indian : ₹1,800 for two :  Erandwane, Pune
+Cobbler & Crew : 4.8 : Modern Indian, Continental, Asian : ₹2,000 for two :  Kalyani Nagar, Pune
+Hippie @ Heart : 4.4 : Finger Food, Italian, Continental, Fast Food, BBQ, Desserts, Beverages : ₹1,600 for two :  Deccan Gymkhana, Pune
+Exotica : 4.4 : North Indian, Chinese, Kebab, Mughlai, Biryani, Pasta, Oriental, Desserts : ₹2,000 for two :  Panchshil Tech Park, Yerawada, Pune
+Barometer : 4.6 : Continental, Asian, North Indian, Sichuan, Pizza : ₹2,500 for two :  Kothrud, Pune
+Malaka Spice : 4.6 : Asian, Thai, Salad, Seafood, Sushi, Desserts : ₹1,800 for two :  Koregaon Park, Pune
+Nawab Asia : 4.4 : North Indian, Chinese, Mughlai, Biryani, Seafood, Desserts, Beverages : ₹1,600 for two :  Balewadi High Street, Baner, Pune
+Hoomans- All Day Bar : 4.5 : Oriental, Chinese, Continental, Pasta, Seafood, North Indian, Desserts, Beverages : ₹1,200 for two :  Balewadi, Pune
+Flechazo : 4.3 : North Indian, Mediterranean, Fast Food, Italian, Desserts, Beverages : ₹1,800 for two :  Wakad, Pune
+Springrose Restaurant And Banquets : 4.4 : South Indian, Continental, Oriental, North Indian : ₹1,200 for two :  Wakad, Pune
+Koji - Conrad Pune : 4.7 : Chinese, Japanese, Thai, Asian, Sichuan : ₹5,000 for two :  Conrad Pune, Bund Garden Road, Pune
+Gola Sizzlers : New : North Indian, Pizza, Pasta, Fast Food, Chinese, Continental, Shake, Beverages : ₹1,500 for two :  Viman Nagar, Pune
+Mocha : 4.2 : Cafe, Continental, European, Salad, Asian, Desserts : ₹1,200 for two :  Koregaon Park, Pune
+PizzaExpress : 4.2 : Pizza, Italian, Salad, Bakery, Beverages, Coffee, Pasta : ₹1,400 for two :  Balewadi High Street — Phase 2, Pune
+Si Nonna’s - The Original Sourdough Pizza : 4.5 : Cafe, Italian, Pizza, Desserts : ₹1,300 for two :  Phoenix Mall of the Millennium, Pune
+Favela : 4.3 : Continental, North Indian, Chinese, Pizza, Fast Food, Biryani, Desserts, Bar Food : ₹1,500 for two :  Hinjawadi, Pune
+Bird Valley : 4.3 : North Indian, Chinese, Continental, Mughlai, Kebab, Biryani, Desserts, Beverages : ₹1,800 for two :  Hinjawadi, Pune
+Pop Tate's : 4.6 : North Indian, Chinese, Italian, Biryani, Pizza, Pasta, Fast Food, Beverages : ₹1,400 for two :  Phoenix Market City, Viman Nagar, Pune
+Le Stone : 4.3 : North Indian, Kebab, Biryani, Asian, Continental, Italian, Mexican, Desserts : ₹1,800 for two :  Ravet, Pune
+Ya Basa - The Dhaba : 4.5 : North Indian, Chinese, Seafood : ₹1,200 for two :  Baner, Pune
+The B5 Rooftop Lounge & Bar : 4.0 : Continental, North Indian, Mexican, Italian, Chinese : ₹1,500 for two :  Expressway, Pune
+Chafa Cafe And Studio : 4.3 : Healthy Food, Continental, Italian, Fast Food, Sandwich, Desserts, Beverages : ₹1,200 for two :  Koregaon Park, Pune
+Backstage : 4.2 : Continental, North Indian, Mughlai, Seafood, Biryani, Chinese, Fast Food, Desserts : ₹1,200 for two :  NIBM Road, Pune
+Poult : New : North Indian, Burger, Wraps, Fast Food, Shake, Beverages : ₹1,000 for two :  Wakad, Pune
+Cafe Warm Gloves : New : Cafe, Coffee, Sandwich, Pizza, Pasta, Fast Food, Shake, Tea : ₹600 for two :  Bibvewadi, Pune
+Swig : 4.3 : Continental, Asian, Italian, Japanese, Pizza, Fast Food, Sushi, Beverages : ₹1,800 for two :  Balewadi High Street, Baner, Pune
+Anglo Indian : 4.4 : BBQ, Street Food, Fast Food, Salad, Burger, Pizza, Desserts, Beverages : ₹1,400 for two :  Lonavala, Pune
+Good News Dhaba : 4.3 : North Indian, Mughlai, Seafood, Biryani, Desserts, Beverages : ₹1,600 for two :  Yerawada, Pune
+Shreeji Pure Veg : 4.1 : North Indian, Street Food, Chinese, Beverages, Desserts, Shake, Sichuan : ₹500 for two :  Katraj, Pune
+Evviva Sky Lounge - Crowne Plaza Pune City Centre : 4.3 : Asian, Mughlai, Continental : ₹3,000 for two :  Crowne Plaza Pune City Centre, Bund Garden Road, Pune
+Ventana : 4.5 : North Indian, European, Continental, Asian, Fast Food, Cafe, Coffee, Beverages : ₹1,200 for two :  Viman Nagar, Pune
+The Beans Talk Cafe : 4.3 : Cafe, Coffee, Italian, Mexican, American, Pizza, Desserts, Beverages : ₹950 for two :  Viman Nagar, Pune
+Q Bar & Cafe : 4.5 : North Indian, Italian, Pizza, Japanese, Continental, Desserts, Beverages : ₹1,600 for two :  Mundhwa, Pune
+Fish Curry Rice : 4.4 : Seafood, Maharashtrian, North Indian : ₹1,400 for two :  Kothrud, Pune
+Sukanta : 4.2 : North Indian, Gujarati, Maharashtrian, Street Food, Desserts, Beverages : ₹850 for two :  Deccan Gymkhana, Pune
+The LCR Gymkhana : 4.4 : North Indian, Chinese, Continental, Oriental, Biryani, Street Food, Desserts, Beverages : ₹1,100 for two :  Law College Road, Pune
+The 7A Restaurant & Bar : 4.4 : North Indian, Continental, Chinese, Italian, Finger Food, Bar Food, Beverages, Pizza : ₹2,500 for two :  Kharadi, Pune
+Indian Thali House : 4.0 : North Indian, Chinese, Beverages, Sichuan : ₹500 for two :  Hinjawadi, Pune
+TRP - The Rooftop Project : 4.3 : North Indian, Asian, Italian, Chinese, Seafood, Biryani, Salad, Desserts : ₹1,400 for two :  MG Road, Pune
+Copper Chimney : 4.4 : North Indian, Kebab, Biryani, Mughlai, Desserts, Beverages : ₹1,600 for two :  Phoenix Market City, Viman Nagar, Pune
+Mountain Goat : 4.2 : Nepalese, Tibetan, Asian, Thai : ₹1,000 for two :  Koregaon Park, Pune
+Elrow : 4.2 : Continental, Chinese, North Indian, Bar Food : ₹1,900 for two :  Kalyani Nagar, Pune
+Darshan : 4.5 : Continental, North Indian, Chinese, Mexican, Fast Food, Desserts, Juices, Beverages : ₹950 for two :  Baner, Pune
+Xia By Hilton Garden Inn : 4.3 : Chinese, Asian, Japanese, Desserts : ₹2,500 for two :  Hilton Garden Inn of Pune, Hinjawadi, Pune
+Cloud 99 : 4.5 : North Indian, Mughlai, Seafood, Italian, Japanese, Chinese, Salad, Desserts : ₹1,200 for two :  Hinjawadi, Pune
+Punjab Grill : 4.2 : North Indian, Kebab, Biryani, Mughlai : ₹1,000 for two :  Kalyani Nagar, Pune
+Xero Degrees : 4.4 : Cafe, Fast Food, Salad, Pizza, Burger, Waffle, Shake, Beverages : ₹800 for two :  Deccan Gymkhana, Pune
+The Game Palacio : 4.2 : Pizza, Sushi, Asian, Italian : ₹1,400 for two :  Dhole Patil Road, Pune
+Uncle's Chinese : 4.4 : Chinese, Momos, Seafood, Thai, Sichuan, Desserts, Beverages : ₹950 for two :  Kondhwa, Pune
+Rohi Gourmet Bistro : 4.5 : Continental, Oriental, Seafood, Desserts : ₹1,300 for two :  Hinjawadi, Pune
+Soy Affair : 4.5 : Asian, Thai, Chinese, Seafood : ₹1,000 for two :  Baner, Pune
+Flock : 4.1 : Asian, Bar Food, Continental, North Indian, Beverages : ₹2,000 for two :  Balewadi, Pune
+Crazanto : New : North Indian, Continental, Italian, Desserts : ₹1,000 for two :  Viman Nagar, Pune
+The Verandah : 3.4 : Maharashtrian, Fast Food, South Indian, Desserts, Beverages, Sandwich, North Indian, Street Food : ₹1,000 for two :  Erandwane, Pune
+Azzurro : 4.2 : Fast Food, Chinese, North Indian, Biryani, Continental, Asian, Desserts, Beverages : ₹1,200 for two :  Pimple Nilakh, Pune
+Mikachi Club Bar & Kitchen : 4.1 : North Indian, Biryani, Chinese, Continental, Fast Food, Seafood, Mughlai, Pizza : ₹2,000 for two :  Kharadi, Pune
+We Idliwale Barroom : 3.9 : South Indian, Biryani, Desserts : ₹1,500 for two :  Aundh, Pune
+The Soundtrack Cafe : 4.4 : Cafe, Coffee, Beverages, Continental, Italian, Fast Food : ₹850 for two :  Pimple Nilakh, Pune
+Hotel Rajbhog Pure Veg : New : North Indian, South Indian, Biryani, Chinese, Fast Food, Juices, Desserts, Beverages : ₹1,200 for two :  Wanowrie, Pune
+TQC - The Quarter Company : 4.2 : North Indian, Rolls, European, Italian, Pizza, Salad, Beverages : ₹1,200 for two :  Viman Nagar, Pune
+Top 87 - The Other Place : 4.4 : North Indian, Chinese, Oriental, Kebab, Biryani : ₹1,200 for two :  Ravet, Pune
+Pasco - An Epitome Of Wine & Dine : 4.5 : North Indian, Italian, Seafood, Chinese, Oriental, Kebab, Biryani, Desserts : ₹1,700 for two :  Pimple Saudagar, Pune
+Gilt Club : 4.0 : North Indian, Continental, Biryani, Mughlai, Bar Food, Chinese, Kebab, Fast Food : ₹1,500 for two :  Kharadi, Pune
+Beer & Beans : 4.3 : Cafe, Italian, Beverages, Coffee, Desserts : ₹1,300 for two :  NIBM Road, Pune
+WOW! China : 3.7 : Chinese, Beverages, Momos : ₹600 for two :  MG Road, Pune
+WOW! Momo : 3.8 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts : ₹400 for two :  Karishma Complex, Kothrud, Pune
+Da'nonna Pizzeria : 4.3 : Pizza, Italian, Fast Food, Beverages : ₹450 for two :  Deccan Gymkhana, Pune
+Mutuswami : 3.1 : South Indian, Maharashtrian, Pizza, Sandwich, Desserts, Beverages, Coffee, Juices : ₹300 for two :  Shivaji Nagar, Pune
+C - Dock : 4.1 : Bar Food : ₹1,500 for two :  Hinjawadi, Pune
+E-Square The Fern : 4.1 : North Indian, Fast Food, Desserts, Beverages : ₹950 for two :  Shivaji Nagar, Pune
+Santorini Black by Hilton Garden Inn : 4.1 : Bar Food, Continental, North Indian, Beverages : ₹1,500 for two :  Hinjawadi, Pune
+The Ruby Hilltop - Sunny's World : 4.4 : Bar Food, Chinese, North Indian, Asian, Italian, Mughlai, Beverages, Desserts : ₹1,600 for two :  Sus, Pune
+1BHK Superbar : 4.4 : North Indian, Asian, Italian, European, Continental, Mediterranean, American, Seafood : ₹2,500 for two :  Baner, Pune
+Level 5 Bistro and Bar : 4.8 : North Indian, Asian, Continental, Middle Eastern, Mexican, Desserts, Beverages : ₹1,900 for two :  Erandwane, Pune
+Green Signal : 3.8 : Chinese, North Indian, Continental, South Indian, Pizza, Desserts, Beverages : ₹1,200 for two :  Deccan Gymkhana, Pune
+Cafe Blu by Radisson Blu Hinjewadi : 4.4 : North Indian, South Indian, Biryani, Goan, Maharashtrian, Pizza, Desserts : ₹1,000 for two :  Radisson Blu Pune Hinjawadi, Pune
+Di Mora : 4.2 : North Indian, Chinese, Italian, Sushi, Desserts : ₹3,000 for two :  Dhole Patil Road, Pune
+Mystic Flavours : 4.2 : Continental, Modern Indian, Asian, Oriental : ₹1,000 for two :  Warje, Pune
+Déjà Vu Bistro : 4.0 : Continental, North Indian, Biryani, Pizza, Pasta, Fast Food, Desserts : ₹1,200 for two :  Hinjawadi, Pune
+Mambos Lakeside Cafe : 4.0 : North Indian, Chinese, Biryani, Konkan, Fast Food, Desserts : ₹1,200 for two :  Bhugaon, Pune
+The BNR Gymkhana : 4.5 : Continental, Italian, Chinese, Salad, Fast Food, Pancake, Desserts, Beverages : ₹1,500 for two :  Baner, Pune
+Twelve 21 : 4.3 : North Indian, Fast Food, Italian, Chinese, Malwani, Desserts, Beverages : ₹1,400 for two :  Ravet, Pune
+Aasmana: The Ritz-Carlton : 4.6 : North Indian, Kebab, Biryani, Mughlai, Seafood : ₹3,500 for two :  Ritz Carlton, Yerwada, Pune
+Spice Kitchen - JW Marriott Pune : 4.5 : Italian, Asian, North Indian, South Indian, European : ₹3,800 for two :  JW Marriott Pune, Senapati Bapat Road, Pune
+Aromas Cafe & Bistro : 4.5 : Cafe, Coffee, Tea, Shake, Lebanese, Italian, Mexican, Desserts : ₹1,000 for two :  Baner, Pune
+Baan Tao - Hyatt Pune : 4.2 : Chinese, Thai, Asian, Salad, Desserts : ₹3,000 for two :  Hyatt Pune, Nagar Road, Pune
+Amani : 4.2 : Continental : ₹1,500 for two :  Pimpri, Pune
+Smoor : 4.4 : Asian, Salad, Pizza, Sandwich, Burger, Desserts, Beverages : ₹1,100 for two :  Koregaon Park, Pune
+The Pluvian Cafe: All Day Dining : New : Continental, Desserts, Coffee : ₹1,000 for two :  Kothrud, Pune
+Urbo : 4.3 : North Indian, Mughlai, Asian, Pizza, Italian, Chinese, Biryani, Desserts : ₹2,000 for two :  Baner, Pune
+L'Apicio : 4.5 : European, Mediterranean, Continental, Desserts : ₹1,800 for two :  Balewadi High Street — Phase 2, Pune
+Blue Tokai Coffee Roasters : 4.0 : Cafe, Coffee, Beverages : ₹600 for two :  Shivaji Nagar, Pune
+Seoul Bunsik : 2.9 : Cafe, Coffee, Korean : ₹500 for two :  Koregaon Park, Pune
+Mahabaleshwar Point : 3.7 : Ice Cream, Sandwich, Pizza, Shake, Juices, Beverages : ₹300 for two :  Wanowrie, Pune
+Barbeque Nation : 4.6 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹2,300 for two :  Kalyani Nagar, Pune
+Heads Up Rooftop : 4.0 : North Indian, Continental, Italian, Kebab, Fast Food, Pizza, Desserts : ₹2,000 for two :  Sinhgad Road, Pune
+Kiro Kitchen And Bar : 4.1 : Italian, Seafood, Asian, North Indian, Sushi, Bar Food, Desserts : ₹1,200 for two :  The Social Street , Pune
+Pune's Royal : 4.6 : North Indian, Chinese, Mughlai, Oriental, Continental, Seafood, Japanese, Desserts : ₹1,300 for two :  Pimple Nilakh, Pune
+Teritree : 4.4 : North Indian, Chinese, Continental, Italian, Mughlai, Desserts, Beverages : ₹1,900 for two :  Hadapsar, Pune
+Ice N Fire Sky Lounge : 4.3 : Bar Food, Continental, North Indian, Pizza, Burger, Pasta, Chinese, Desserts : ₹1,800 for two :  Baner, Pune
+Dilli Darbar : 3.9 : North Indian, Chinese : ₹1,000 for two :  Kharadi, Pune
+Durvankur : 4.1 : Maharashtrian : ₹750 for two :  Sadashiv Peth, Pune
+Kerala Cafe : 4.2 : Kerala, Seafood, Biryani, Beverages : ₹1,500 for two :  Kalyani Nagar, Pune
+Asilo - The Westin Pune : 4.2 : Mediterranean, Asian, Beverages : ₹3,500 for two :  The Westin, Mundhwa, Pune
+Pind Punjab : 4.3 : North Indian, Mughlai, Kebab, Biryani, Chinese, Desserts, Beverages : ₹1,300 for two :  MG Road, Pune
+Wynkk Kitchen & Bar : 4.4 : North Indian, Continental, Pizza, Kebab, Thai, Bar Food, Asian, Fast Food : ₹1,500 for two :  Aundh, Pune
+Quench : 4.2 : Asian, Kebab, Finger Food, Continental, Thai, Desserts : ₹950 for two :  Aundh, Pune
+Boteco - Tapas Bar & Grill : 4.8 : Brazilian, Bar Food, Seafood, Burger : ₹3,000 for two :  Koregaon Park, Pune
+The 1st Brewhouse - The Corinthians : 4.3 : Finger Food, North Indian, Fast Food, Beverages : ₹2,500 for two :  The Corinthians, Kondhawa, Pune
+Circle Of Crust : 4.2 : Pizza, Fast Food : ₹400 for two :  Salunkhe Vihar Road, Pune
+Crustini - Pizzeria And Cafe : 3.8 : Pizza, Pasta, Salad, Sandwich, Beverages : ₹600 for two :  Wakad, Pune
+Rangla Punjab : 4.2 : North Indian, Bar Food, Chinese, Kebab, Mughlai, Street Food, Beverages : ₹1,400 for two :  Pimple Saudagar, Pune
+Cafe Paashh : 4.8 : Cafe, Beverages : ₹1,800 for two :  Kalyani Nagar, Pune
+Matamaal - The Kashmiri Restaurant : 4.7 : Kashmiri, North Indian, Tea : ₹1,200 for two :  Wakad, Pune
+The Asian Box : 4.6 : Asian, Chinese, Malaysian, Thai, Indonesian, Desserts : ₹600 for two :  Baner, Pune
+Laa Unico : 4.4 : Italian, Mexican, Continental, North Indian, Chinese, Pizza, Salad, Desserts : ₹1,800 for two :  Swargate, Pune
+Oliva Veg : 4.2 : North Indian, Italian, Chinese : ₹1,300 for two :  Karve Nagar, Pune
+Burger Craft : 4.6 : Burger, Fast Food, Desserts, Beverages : ₹850 for two :  Aundh, Pune
+Aarvi’s Pure Veg : 4.4 : North Indian, Chinese, Street Food, Desserts : ₹1,000 for two :  Kondhwa, Pune
+Gung The Palace : New : Korean : ₹2,000 for two :  Mahalunge, Pune
+JZ Lake View Resto Bar : 4.5 : Chinese, Thai, Beverages : ₹1,800 for two :  Bhugaon, Pune
+Yeti And The Monk : 4.7 : Tibetan, Vietnamese : ₹500 for two :  Khadki, Pune
+Dehaati : 3.3 : Maharashtrian : ₹1,200 for two :  Deccan Gymkhana, Pune
+Hotel Sandeep : 3.2 : Maharashtrian, North Indian, Chinese, Mughlai : ₹1,400 for two :  JM Road, Pune
+Azul - Brews & Bites : 4.6 : Cafe, Beverages, Tea, Shake, Sandwich, Italian, Burger, Pizza : ₹1,000 for two :  Viman Nagar, Pune
+Kabana - Conrad Pune : 4.6 : Continental, Italian, North Indian, Asian, Desserts : ₹3,500 for two :  Conrad Pune, Bund Garden Road, Pune
+24/7 Gallery Café - Hyatt Place : 3.8 : Asian, Chinese, Italian, North Indian, Oriental, Healthy Food, Desserts, Beverages : ₹2,500 for two :  Hyatt Place, Hinjewadi  , Pune
+HYDE - Kitchen & Bar : 4.3 : North Indian, Mughlai, Chinese, Pasta, Fast Food, Salad, Sichuan, Desserts : ₹1,800 for two :  Expressway, Pune
+Ram Sadan Pure Veg Restaurant : 2.7 : North Indian : ₹1,000 for two :  Deccan Gymkhana, Pune
+Global Punjab : 4.0 : North Indian, Mughlai, Kebab, Seafood, Biryani, Chinese, Desserts, Beverages : ₹1,100 for two :  Wakad, Pune
+Hotel Silver Seven : 4.1 : Chinese, Seafood, Kebab, Asian, North Indian, Biryani, Desserts, Beverages : ₹850 for two :  Akurdi, Pune
+Shrinidhi's Hyderabadi Spice : 3.6 : North Indian, Chinese, Biryani, Mughlai, Seafood, Beverages : ₹950 for two :  Aundh, Pune
+BOB And Brews : 4.1 : Finger Food, North Indian, Seafood, Chinese : ₹1,000 for two :  Baner, Pune
+The Soul Plate : 3.9 : Cafe, Coffee, North Indian, Asian, Pizza, Pasta, Pancake, Beverages : ₹1,000 for two :  Shivaji Nagar, Pune
+Shakam : 3.5 : North Indian : ₹1,000 for two :  Kothrud, Pune
+Zen Cafe : 4.5 : Cafe, Sushi, Continental, Italian, Beverages : ₹950 for two :  Koregaon Park, Pune
+Mosaic - Crowne Plaza Pune City Centre : 4.1 : North Indian, Fast Food, American, Beverages, Desserts, Asian : ₹3,000 for two :  Crowne Plaza Pune City Centre, Bund Garden Road, Pune
+Savya Rasa : 4.7 : South Indian, Mangalorean, Kerala, Chettinad, Biryani, Desserts, Beverages : ₹2,500 for two :  Koregaon Park, Pune
+Chili's American Grill & Bar : 4.4 : American, Mexican, Tex-Mex, Salad, Desserts : ₹1,700 for two :  Phoenix Market City, Viman Nagar, Pune
+Barbeque Ville : New : North Indian, Desserts : ₹1,600 for two :  Wakad, Pune
+Portico - Sayaji Hotel : 4.4 : North Indian, Asian, Fast Food, Salad, South Indian, Bar Food, Beverages : ₹2,400 for two :  Sayaji Hotels, Wakad, Pune
+Oven Fresh : 3.5 : South Indian, North Indian, Italian, Asian, Gujarati, European, Pasta, Desserts : ₹1,000 for two :  Lonavala, Pune
+Urban Bistro : 4.5 : Fast Food : ₹350 for two :  Aundh, Pune
+Incognito - Restaurant Bar & Cafe : 4.4 : Continental, Asian, Italian, Thai, North Indian, Biryani, Desserts, Beverages : ₹2,500 for two :  Balewadi High Street, Baner, Pune
+Farm Paradise : New : Maharashtrian, North Indian, Mughlai, Seafood, Korean, Pizza, Fast Food, Desserts : ₹1,000 for two :  Mulshi Road, Pune
+Ora Skybar & Kitchen : New : North Indian, BBQ, Chinese, Continental, Asian, Pizza : ₹1,800 for two :  Wakad, Pune
+Ek Punjab Dhaba : 4.5 : North Indian : ₹1,400 for two :  Pimple Saudagar, Pune
+House Of Veg : 3.9 : North Indian, Oriental, Continental, Pasta, Pizza, Sandwich, Desserts, Shake : ₹1,000 for two :  Erandwane, Pune
+Poetry by Love and Cheesecake : 4.2 : Desserts, Cafe, Bakery, Continental, Beverages, Pasta, Finger Food, Coffee : ₹1,800 for two :  Balewadi High Street, Baner, Pune
+Carnival Restaurant And Bar : 4.2 : North Indian, Chinese, Continental, Sichuan, Beverages, Desserts, Italian : ₹2,100 for two :  Mundhwa, Pune
+24 Carat Lounge & Bar : 4.9 : North Indian, Mughlai, Chinese, Seafood, Continental, Desserts, Beverages : ₹2,500 for two :  Bhugaon, Pune
+Rio Kitchen & Bar : 4.0 : Chinese, Continental, Pasta, North Indian, Salad, BBQ, Fast Food, Beverages : ₹1,400 for two :  Hinjawadi, Pune
+RK'S Family Restro & Bar : 4.4 : North Indian, Chinese, Kebab, Mughlai : ₹1,200 for two :  Narhe, Pune
+Zeera - Conrad Pune : 4.4 : North Indian, Awadhi, Biryani, Street Food, Desserts : ₹5,000 for two :  Conrad Pune, Bund Garden Road, Pune
+Delilah Kitchen & Bar : 4.0 : North Indian, Continental, Oriental, Chinese, Beverages : ₹1,500 for two :  Karve Nagar, Pune
+Mountain High : 4.3 : North Indian, Chinese, Seafood, Biryani, Desserts, Beverages : ₹1,100 for two :  Wanowrie, Pune
+Backyard Palms : 4.3 : North Indian, Mughlai, Chinese, Continental, Bar Food : ₹1,700 for two :  Ravet, Pune
+Mad House Grill : 4.1 : Continental, Steak, Salad, Fast Food, Seafood, Desserts, Beverages : ₹1,600 for two :  Koregaon Park, Pune
+NH 37 Dhaba : 4.0 : Chinese, Asian, Bengali, North Indian, Biryani : ₹1,400 for two :  Model Colony, Pune
+Bao Story : 4.1 : Asian : ₹1,200 for two :  Hinjawadi, Pune
+The Chickster-Indo American Fried Chicken : 4.3 : Burger, Fast Food, Wraps, American, Coffee : ₹400 for two :  Koregaon Park, Pune
+11 East Street Cafe : 4.1 : Continental, North Indian, Chinese, Bar Food, Pizza, Sandwich, Desserts : ₹1,900 for two :  East Street, Pune
+K2 Wine And Dine : 4.5 : North Indian, Bar Food, South Indian, Chinese, Seafood, Italian, Biryani, Desserts : ₹1,000 for two :  Expressway, Pune
+Angaar : 4.3 : North Indian, Mughlai, Chinese, Seafood, Biryani, Beverages : ₹1,400 for two :  Baner, Pune
+The Great Kabab Factory - Radisson Blu Hotel : 4.3 : Mughlai, North Indian : ₹3,500 for two :  Radisson Blu Hotel, Kharadi, Pune
+Loco Otro : 4.4 : Bar Food, Continental, Italian, Mexican, Salad, Seafood, Desserts, Beverages : ₹1,500 for two :  Aundh, Pune
+Dumpling Project : 4.5 : Asian, Chinese, Momos : ₹600 for two :  Aundh, Pune
+Salsa - The Corinthians : 3.9 : Continental, Mexican, Italian, North Indian, Salad, Desserts, Beverages : ₹2,000 for two :  The Corinthians, Kondhawa, Pune
+Quattro Bistro : 4.0 : Mexican, Pizza, Fast Food, Desserts, Italian : ₹1,500 for two :  Lonavala, Pune
+Urban Darbar : 4.8 : North Indian, Chinese, Mughlai, Sichuan : ₹700 for two :  Viman Nagar, Pune
+360 Degree Multicuisine Family Restaurant : 4.3 : North Indian, Chinese, Kebab, BBQ : ₹950 for two :  Bhosari, Pune
+Iron Bar & Grill : 4.5 : Bar Food, Asian, Thai, Pizza, North Indian, BBQ, Kebab : ₹2,500 for two :  Balewadi High Street, Baner, Pune
+The French Window Patisserie : 4.6 : Cafe, Desserts, French, Bakery, European, Shake : ₹700 for two :  Koregaon Park, Pune
+Chirp : 4.3 : Beverages, Asian, Continental, Healthy Food, Mexican, Middle Eastern : ₹950 for two :  Shivaji Nagar, Pune
+Good Flippin' Burgers : 4.0 : Burger, American, Fast Food : ₹600 for two :  The Pavillion, Senapati Bapat Road, Pune
+The Terrace Bar - Hyatt Pune : 4.4 : Beverages, Bar Food, Continental, Cuisine Varies, Fast Food, Spanish : ₹2,500 for two :  Hyatt Pune, Nagar Road, Pune
+Naan Factory : 4.2 : North Indian, Chinese, Biryani : ₹450 for two :  Baner, Pune
+Penthouze : 4.0 : Continental, Italian, Finger Food : ₹2,500 for two :  Mundhwa, Pune
+Hidden Place - The Hang-out : 4.2 : Fast Food, Pizza, Continental, Bar Food, Beverages : ₹1,200 for two :  Balewadi, Pune
+Kuai Kitchen : 4.3 : Chinese, Sushi, North Indian, Seafood, Desserts, Beverages : ₹1,800 for two :  Koregaon Park, Pune
+Filament Bar : 4.5 : Turkish, Middle Eastern, North Indian, Continental, Asian : ₹1,800 for two :  Wakad, Pune
+Lola Cafe and Bar : 4.1 : Chinese, Pizza, Fast Food, North Indian, Pasta, Italian, Bakery : ₹1,200 for two :  Lonavala, Pune
+Crazy Cheesy : 4.1 : Pizza, Pasta, Sandwich, Fast Food, Desserts, Coffee, Shake, Beverages : ₹400 for two :  Dhanori, Pune
+Oblique Kitchen : 4.1 : Continental, Asian : ₹1,700 for two :  Kothrud, Pune
+Dossai Flavours Of South : 3.8 : South Indian, Beverages : ₹300 for two :  Baner, Pune
+Flamingo Globally Inspired Food : 4.1 : Mexican, Mediterranean, Asian : ₹1,100 for two :  Kothrud, Pune
+Blend It : 3.9 : Cafe, Salad, Pizza, Fast Food, Sandwich, Coffee, Beverages : ₹600 for two :  Kothrud, Pune
+Hidden Place - The Hangout : 4.2 : Finger Food, North Indian, Continental : ₹2,000 for two :  Koregaon Park, Pune
+Grandmama's Cafe : 3.6 : Pasta, Pizza, Coffee, Cafe, Desserts, Beverages, Italian : ₹1,000 for two :  Koregaon Park, Pune
+Sorriso- Marriott Suites Pune : 4.6 : Italian, Continental : ₹3,500 for two :  Marriott Suites Pune, Mundhwa, Pune
+Burger King : 3.5 : Burger, Fast Food, Beverages : ₹350 for two :  Hadapsar, Pune
+Blue Nile : 3.6 : North Indian, Mughlai, Chinese, Fast Food, Biryani, Ice Cream, Desserts, Beverages : ₹2,000 for two :  Camp Area, Pune
+Grey Soul Coffee Roasters : 4.0 : Cafe, Desserts, Coffee, Beverages, Italian : ₹950 for two :  Koregaon Park, Pune
+Bangalore Tiffin Room : 3.8 : South Indian : ₹250 for two :  Model Colony, Pune
+Upper Deck : 4.4 : North Indian, Chinese, Biryani, Oriental, Pizza, Fast Food, Desserts, Beverages : ₹1,600 for two :  NIBM Road, Pune
+Singh Saab The Paratha House : 3.3 : North Indian, Chinese, Street Food, Beverages : ₹500 for two :  Balewadi, Pune
+Kalinga Restaurant & Bar : 4.1 : North Indian, Mangalorean, Seafood, Mughlai, Continental, Asian, Chinese, Ice Cream : ₹1,600 for two :  Kalinga, Erandwane, Pune
+Butter Brews : 4.1 : Cafe, Coffee, Continental, Salad, Sandwich, Pasta, Desserts, Beverages : ₹1,100 for two :  Koregaon Park, Pune
+Burger - Since 1989 : 4.0 : Burger, Fast Food : ₹250 for two :  Koregaon Park, Pune
+Blue Water : 4.4 : North Indian, Chinese, Continental, Sichuan, Italian, Pizza, Oriental, Desserts : ₹2,000 for two :  Ravet, Pune
+1000 Oaks : 4.3 : Chinese, Salad, North Indian, Seafood, Mexican, Desserts : ₹1,800 for two :  East Street, Pune
+Three Kitchens Restaurant And Bar: The Ritz-Carlton : 4.9 : North Indian, Biryani, Continental, Italian, Pizza, Fast Food, Desserts, Beverages : ₹4,700 for two :  Ritz Carlton, Yerwada, Pune
+Cafe Grains & Grills : 4.2 : Continental, American, Italian, Shake, Beverages, Thai, Waffle, Oriental : ₹700 for two :  Viman Nagar, Pune
+The Walnut Tree : 4.0 : Cafe, Coffee, Tea, Beverages, Pizza, Pasta, Fast Food : ₹1,200 for two :  Koregaon Park, Pune
+The Bridge - Radisson Blu Hotel : 4.1 : North Indian, Mexican, Italian : ₹2,000 for two :  Radisson Blu Hotel, Kharadi, Pune
+Rhythm Rooftop Kitchen & Bar : 4.3 : North Indian, Continental, Oriental, Chinese, Fast Food, Biryani : ₹1,400 for two :  Pimple Saudagar, Pune
+Glint By Plunge : 4.6 : Chinese, Asian, Mexican, Sandwich, Burger, Pizza, Pasta, Desserts : ₹1,900 for two :  Koregaon Park, Pune
+George Restaurant : 3.9 : Biryani, North Indian, Chinese, Mughlai, Continental, Kebab, Desserts, Beverages : ₹1,400 for two :  Camp Area, Pune
+Mezza 9 : 4.1 : North Indian, Biryani, Asian, Continental, Mexican, Oriental, Seafood, Desserts : ₹2,000 for two :  Hinjawadi, Pune
+Addah - The O Hotel : 4.2 : North Indian, Biryani, Mughlai, Kebab, Desserts : ₹3,000 for two :  The O Hotel, Koregaon Park, Pune
+Haldiram's Restaurant : 3.9 : Mithai, South Indian, North Indian, Healthy Food, Fast Food, Sandwich, Beverages : ₹500 for two :  Pimple Saudagar, Pune
+Feast India Company : 4.5 : Chinese, Oriental, North Indian, Seafood, Kebab, Desserts, Beverages : ₹1,400 for two :  Baner, Pune
+Barista Coffee : 3.9 : Cafe, Coffee, Desserts : ₹850 for two :  Law College Road, Pune
+Living Room By Coco - LRC : 4.2 : Asian, Bar Food, Continental, North Indian, Pasta, Fast Food, Desserts : ₹1,700 for two :  Mundhwa, Pune
+Pots & Plates : 3.8 : North Indian, Pizza : ₹1,000 for two :  Phoenix Market City, Viman Nagar, Pune
+Tea Villa Cafe : 4.2 : Cafe, Beverages, North Indian, Continental, Asian, Pizza, Fast Food, Desserts : ₹950 for two :  Wakad, Pune
+Third Wave Coffee : 4.0 : Cafe, Coffee, Tea, Beverages, Sandwich, Fast Food, Desserts, Pizza : ₹500 for two :  Karve Nagar, Pune
+Andaaz - Taste Of Exotic India : 4.3 : North Indian, Seafood, Lucknowi, Mughlai, Kebab, Oriental, Desserts, Beverages : ₹1,400 for two :  JM Road, Pune
+La Castle : 4.1 : North Indian : ₹1,000 for two :  Narhe, Pune
+Bhairavee Pure Veg Restaurant : 4.2 : North Indian, Chinese, Biryani : ₹1,600 for two :  Baner, Pune
+Charcoal The Sizzling Sensation : 4.1 : North Indian, Mughlai, BBQ, Italian, Biryani, Kebab, Salad : ₹1,200 for two :  Sus, Pune
+LIIT - Live IIT Today : 4.0 : Bar Food, North Indian, Continental, Chinese, Pizza, Salad, Desserts : ₹2,300 for two :  Balewadi, Pune
+Carmine Radisson Blu Hotel : 4.0 : Continental, North Indian, Asian, Seafood, Pizza, Fast Food, Biryani, Beverages : ₹3,500 for two :  Radisson Blu Hotel, Kharadi, Pune
+Fatcook : 4.3 : Italian, Mexican, Oriental, Pasta, North Indian, Kebab, Desserts, Beverages : ₹700 for two :  Baner, Pune
+La Magia : 4.5 : Italian, Pizza, Pasta : ₹2,500 for two :  Koregaon Park, Pune
+Paul's : 4.1 : North Indian, Chinese, Fast Food, Sichuan, Beverages : ₹500 for two :  Wanowrie, Pune
+Cafe Kathaa : 4.1 : Cafe, Continental, Desserts, Chinese, Salad, Italian, Fast Food, Beverages : ₹850 for two :  FC Road, Pune
+Punjab Exotica : 4.0 : Biryani, North Indian, Chinese, Asian, Salad, Kebab, Seafood : ₹1,200 for two :  Expressway, Pune
+Onesta : 4.2 : Pizza, Pasta, Fast Food, Desserts, Beverages : ₹500 for two :  Seasons Mall, Magarpatta , Pune
+Polka Dots : 4.4 : Mediterranean, North Indian, Asian, Italian, Biryani, Kebab, Desserts, Beverages : ₹1,800 for two :  Westend Mall, Aundh, Pune
+Masakha - Seafood Resto & Bar : 4.3 : North Indian, Seafood, Chinese, Asian, Mughlai, Sichuan : ₹1,700 for two :  Narhe, Pune
+Zillionth Bistro : 4.2 : Chinese : ₹400 for two :  Aundh, Pune
+Flavors : 4.1 : North Indian, European, Italian, Mediterranean, Oriental, Chinese, Salad, Beverages : ₹1,200 for two :  Kondhwa, Pune
+Tiranga : 4.2 : Biryani, Maharashtrian, North Indian, Kebab, Chinese, Mughlai, Hyderabadi, Seafood : ₹500 for two :  FC Road, Pune
+Dockway Kitchen & Bar : 4.2 : North Indian, Mughlai, Seafood, Continental, Chinese, Desserts : ₹1,600 for two :  Balewadi, Pune
+Swad Gomantak : 4.2 : Chinese, North Indian, Mughlai, Seafood, Konkan, Biryani, Beverages : ₹1,200 for two :  Wakad, Pune
+Open Window Cafe Bistro : 4.1 : Italian, Continental, BBQ, Sandwich, Salad, Fast Food, Beverages : ₹1,200 for two :  Shivaji Nagar, Pune
+Jamie Oliver's Pizzeria : 4.1 : Italian, Pizza, Salad, Pasta, Fast Food, Continental : ₹1,000 for two :  The Pavillion, Senapati Bapat Road, Pune
+The Food Booth : 4.0 : North Indian, Street Food, Beverages : ₹400 for two :  Vishrantwadi, Pune
+Just Bengali Restaurant : 3.9 : Bengali, Seafood, Desserts : ₹1,000 for two :  Hadapsar, Pune
+Aha! Baangali : 3.6 : Bengali, Seafood, Biryani, Mughlai, Desserts, Beverages : ₹850 for two :  Wakad, Pune
+Masala Times : 4.3 : North Indian, Chinese, Mughlai, Pizza, Continental, Biryani, Desserts : ₹1,000 for two :  Camp Area, Pune
+Moscow - Your Everyday Bar : New : Salad, Bar Food, Continental, Italian, Pizza, Chinese, Modern Indian, Desserts : ₹1,500 for two :  Baner, Pune
+The MunchBox : 4.2 : North Indian, Chinese : ₹1,000 for two :  Lonavala, Pune
+Wrap N Joy : 3.7 : Fast Food, Burger, Pizza, Sandwich, Shawarma, Momos, Desserts, Shake : ₹350 for two :  Kharadi, Pune
+Delhi Grills : New : North Indian, Mughlai, Rolls : ₹1,000 for two :  Koregaon Park, Pune
+Turque - Sayaji Hotel : 4.6 : North Indian, Chinese, Oriental, Mughlai, Desserts, Beverages : ₹2,000 for two :  Sayaji Hotels, Wakad, Pune
+Green Park : 3.9 : North Indian, Chinese, Mughlai, Thai, Continental, Mexican, Desserts, Beverages : ₹1,800 for two :  Hotel Green Park, Baner, Pune
+Cafe Peter : 3.6 : Cafe, Coffee, Continental, Korean, Fast Food, Italian, Desserts, Beverages : ₹1,100 for two :  Hinjawadi, Pune
+5ive The Skybar By Radisson : 4.1 : North Indian, Chinese, Biryani, Tex-Mex, Spanish, Mexican, Pizza, Desserts : ₹3,000 for two :  Radisson Blu Pune Hinjawadi, Pune
+Spice & Tonic- Global Kitchen & Bar : 4.3 : North Indian, Bar Food, Continental, Italian, Chinese, Beverages : ₹1,800 for two :  Wakad, Pune
+Deli Belly : 4.2 : North Indian, Biryani, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹400 for two :  Nigdi, Pune
+Communion Cafe : 3.9 : Cafe, Coffee, Continental, Mexican, Salad, Desserts, Beverages : ₹1,300 for two :  Lohegaon, Pune
+Roco Mamas : 4.4 : Burger, American, Fast Food, Chinese, Biryani, Beverages : ₹1,400 for two :  Kalyani Nagar, Pune
+Meghdoot's : 3.8 : North Indian, Chinese, Fast Food, Biryani, Sichuan, South Indian, Desserts, Beverages : ₹1,000 for two :  Bibvewadi, Pune
+Barbeque Nation : 4.6 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹2,300 for two :  R Deccan Mall, JM Road, Pune
+Mazdana Restaurant & Bar : 4.5 : Continental, North Indian, Italian, Chinese, Asian, Biryani, Desserts, Beverages : ₹1,300 for two :  Camp Area, Pune
+Spice Garden : 4.0 : North Indian, Chinese, Kebab, Mughlai, Seafood, Biryani, Beverages : ₹1,000 for two :  Kothrud, Pune
+Claypot : 3.8 : North Indian, Chinese, Mughlai, Biryani, Seafood, Desserts : ₹850 for two :  Kharadi, Pune
+Sash Cocktail Bar & Kitchen : 4.0 : North Indian, Continental, Kebab, Chinese, Seafood : ₹1,500 for two :  Viman Nagar, Pune
+Love & Saute : 4.1 : North Indian, Continental, Chinese, Italian, Salad, Fast Food, Desserts, Beverages : ₹1,200 for two :  Kondhwa, Pune
+Saparito Pizza : 3.8 : Pizza, Pasta : ₹300 for two :  Kharadi, Pune
+OPD-One Peg Down : 4.0 : North Indian, Chinese, Fast Food, Mughlai, Biryani, Beverages, Bar Food : ₹1,600 for two :  Wakad, Pune
+Arthur's Theme : 4.5 : European, Italian, Fast Food, Seafood, Pizza, Pasta, Desserts : ₹1,800 for two :  Koregaon Park, Pune
+Buon Cibo- The Italian Cafe : 4.6 : Mexican, Italian, Continental, Pizza, Pasta : ₹850 for two :  Baner, Pune
+NIPR Bar : 4.2 : Bar Food, North Indian, Mughlai, Chinese, Maharashtrian, Seafood, Biryani, Desserts : ₹1,400 for two :  Kothrud, Pune
+Tiranga Veg Non-Veg : 4.1 : Biryani, North Indian, Maharashtrian, Seafood, Mughlai, Kebab, Hyderabadi, Chinese : ₹500 for two :  Pimpri, Pune
+Log House Restaurant : 4.2 : North Indian, Mughlai, Biryani, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Baner, Pune
+Ambrozia Cafe And Patisserie : 4.2 : Cafe, Bakery, Italian, Pizza, Sandwich, Fast Food, Desserts, Beverages : ₹500 for two :  Viman Nagar, Pune
+Momos Junction : 3.9 : Momos, Chinese : ₹300 for two :  Wakad, Pune
+AUR Coffee : New : Coffee, Desserts, Tea, Shake : ₹250 for two :  NIBM Road, Pune
+Veggies Bowl : 3.8 : North Indian : ₹300 for two :  Wagholi, Pune
+La Grange : 4.2 : Cafe, Bakery, Desserts, Coffee : ₹700 for two :  Bund Garden Road, Pune
+Club 5ive - The Terrace Bar : 3.9 : Continental, North Indian, Chinese, Italian, Pizza, Fast Food, Beverages : ₹2,500 for two :  Baner, Pune
+Senses - Marriott Suites Pune : 4.3 : Continental, Asian, North Indian, Italian, Fast Food, Desserts, Beverages : ₹3,500 for two :  Marriott Suites Pune, Mundhwa, Pune
+Fyole Cafe : 3.9 : Cafe, Desserts, Bakery, Sandwich, Pizza, Salad : ₹600 for two :  Phoenix Mall of the Millennium, Pune
+Chinese Wok : 4.0 : Chinese, Momos, Asian : ₹450 for two :  Elpro City Square Mall , Chinchwad, Pune
+Zaika Caterers & Restaurants : 3.6 : Malwani, North Indian, Mughlai, Seafood, Chinese, Asian, Desserts, Beverages : ₹1,300 for two :  Dhanori, Pune
+6story : 3.6 : Continental, Healthy Food, Oriental, Italian, Desserts, Beverages : ₹950 for two :  Koregaon Park, Pune
+Pan Asia : 4.6 : Asian, Sushi, Momos, North Indian, Seafood, Burger, Desserts : ₹1,200 for two :  Erandwane, Pune
+Sandwich Express : 3.8 : Sandwich, Fast Food, Beverages : ₹200 for two :  Salunkhe Vihar Road, Pune
+Iya's Korean Kitchen : 4.2 : Korean, Chinese, Japanese, Asian, Desserts, Beverages : ₹1,200 for two :  Pashan, Pune
+Her Highness : 4.7 : North Indian, Kashmiri, Chinese, Seafood, Desserts, Beverages, Sichuan : ₹1,600 for two :  Yerawada, Pune
+Satguru's Punjabi Rasoi : 4.3 : North Indian, Chinese, Mughlai, Kebab, Seafood, Beverages : ₹1,200 for two :  Wagholi, Pune
+Ishan Pure Veg : 3.8 : North Indian, South Indian, Chinese, Fast Food, Juices, Beverages, Shake, Sichuan : ₹500 for two :  Shivaji Nagar, Pune
+Maratha Samrat : 4.5 : Maharashtrian, Seafood, Biryani : ₹1,300 for two :  Camp Area, Pune
+Neo Wood Ambassador : 4.4 : Finger Food, Oriental, Seafood, Italian, North Indian, Mughlai, Desserts, Beverages : ₹1,700 for two :  Chinchwad, Pune
+Cubanos : 4.0 : Sandwich, Fast Food, Beverages : ₹300 for two :  Shivaji Nagar, Pune
+Rustom Rice : 3.9 : Maharashtrian, Parsi, Desserts, Beverages : ₹250 for two :  Deccan Gymkhana, Pune
+Manbhavan Premium Thali Restaurant : 3.4 : North Indian : ₹500 for two :  Phoenix Mall of the Millennium, Pune
+Tiranga : 4.2 : Biryani, Maharashtrian, North Indian, Seafood, Hyderabadi, Mughlai, Kebab, Chinese : ₹500 for two :  Budhwar Peth, Pune
+The Quick Wok : 4.0 : Chinese, Thai, Oriental, Asian : ₹150 for two :  Elpro City Square Mall , Chinchwad, Pune
+Tiranga : 4.2 : Biryani, Maharashtrian, North Indian, Chinese, Mughlai, Seafood, Kebab, Hyderabadi : ₹500 for two :  Camp Area, Pune
+Teerth - Taste Of Veg : 4.4 : North Indian, South Indian, Continental, Chinese, Maharashtrian, Biryani, Salad, Desserts : ₹1,000 for two :  Wakad, Pune
+Delhi Chowk : 4.3 : North Indian, Street Food, Fast Food : ₹350 for two :  Viman Nagar, Pune
+Ginkgo : 4.5 : Sushi, Japanese : ₹950 for two :  Kothrud, Pune
+Tasteler Cafe : 3.3 : Momos, Sandwich, Beverages : ₹350 for two :  Seasons Mall, Magarpatta , Pune
+Signature Fine Dining : 4.3 : North Indian, Mughlai, Chinese, Seafood, Biryani, Kebab, Desserts, Beverages : ₹1,600 for two :  Viman Nagar, Pune
+Alice In Gelato Land : 3.8 : Desserts, Ice Cream, Waffle, Coffee, Shake : ₹500 for two :  Camp Area, Pune
+Waters - Bar & Kitchen : 3.8 : Arabian, Continental, North Indian : ₹3,000 for two :  Mundhwa, Pune

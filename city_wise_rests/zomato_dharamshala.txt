@@ -1,0 +1,378 @@
+Crepe Pancakes : 4.3 : Cafe, Tea, Juices, Desserts : ₹400 for two :  Mcleodganj, Dharamshala
+Falak Open Air Roof Top Restaurant : 4.1 : North Indian, South Indian, Seafood, Chinese, Salad, Fast Food, Oriental, Mughlai : ₹700 for two :  Mcleodganj, Dharamshala
+Four Seasons Cafe : 3.9 : Italian, Cafe, Tibetan, Momos : ₹500 for two :  Mcleodganj, Dharamshala
+Jimmy's Asian Kitchen : 4.0 : Chinese, Tibetan, Pizza, Asian : ₹1,000 for two :  Ram Nagar, Dharamshala
+Square One : 4.0 : North Indian, Mughlai, Continental, Italian, Chinese, Salad, Asian, Biryani : ₹1,800 for two :  Shyam Nagar, Dharamshala
+Candy's : 4.2 : Fast Food, Chinese, Momos, Rolls, Street Food : ₹400 for two :  Shyam Nagar, Dharamshala
+Trek and Dine : 4.2 :  : ₹800 for two :  Mcleodganj, Dharamshala
+Jimmy's Bakery & Café : 4.5 : Bakery, Cafe : ₹600 for two :  Mcleodganj, Dharamshala
+Lung Ta Restaurant : 4.7 : Cafe : ₹650 for two :  Mcleodganj, Dharamshala
+German Bakery : 4.3 : Fast Food, Beverages, Chinese, Italian, Mexican, North Indian : ₹1,000 for two :  Mcleodganj, Dharamshala
+Moti Mahal Delux : 3.9 : North Indian, Biryani, Desserts, Beverages, Mughlai, Kebab, Seafood : ₹900 for two :  Chilgari, Dharamshala
+Food Safari : 4.5 : Chinese, Fast Food : ₹500 for two :  Chilgari, Dharamshala
+Shiva Cafe : 3.7 : North Indian : ₹500 for two :  Mcleodganj, Dharamshala
+Vinod Chat Bhandar : 4.0 : North Indian, Chinese, South Indian, Fast Food : ₹350 for two :  Ram Nagar, Dharamshala
+Raabta Cafe : 3.6 : Burger, South Indian, Pizza, Desserts, Fast Food, Continental, Shake, Beverages : ₹300 for two :  Shyam Nagar, Dharamshala
+Melted Cheese Cafe : 4.3 : Pizza, Burger, Momos, Pasta, Sandwich, Chinese, Wraps : ₹350 for two :  Chilgari, Dharamshala
+La Vita Cafe : 4.2 : Cafe, Coffee, Tea, Beverages, Pizza, Fast Food, Pancake, Desserts : ₹700 for two :  Shyam Nagar, Dharamshala
+The Hollywood Cafe : 4.4 : Cafe, Coffee, Beverages, Pizza, Sandwich, Burger, Pasta, Chinese : ₹700 for two :  Mcleodganj, Dharamshala
+Black Magic : 3.7 : Chinese, North Indian, Fast Food, Desserts, Continental, Pizza : ₹1,500 for two :  Mcleodganj, Dharamshala
+Raseela : 4.1 : North Indian, Street Food, Beverages : ₹300 for two :  Shyam Nagar, Dharamshala
+The Cliff - Rooftop Bar & Lounge : 3.9 : North Indian, Chinese, Continental, Pasta : ₹1,600 for two :  Chilgari, Dharamshala
+Labooze Cafe Bar Lounge : 3.8 : Cafe : ₹500 for two :  Mcleodganj, Dharamshala
+Pizza Hut : 4.3 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Chilgari, Dharamshala
+Apna Kitchen : 3.9 : North Indian, Fast Food : ₹400 for two :  Chilgari, Dharamshala
+Maa Kali Bakery and Fast Food : 3.4 : Bakery, Fast Food, Beverages : ₹200 for two :  Shyam Nagar, Dharamshala
+Kapoor's : 3.9 : North Indian, Chinese, Desserts : ₹300 for two :  Chilgari, Dharamshala
+Norling Restaurant : - : Chinese, Tibetan : ₹400 for two :  Mcleodganj, Dharamshala
+Hotel M Lounge : 4.1 : Tibetan, North Indian, Chinese : ₹1,300 for two :  Mcleodganj, Dharamshala
+Hotel 360 Country Club : 3.9 : North Indian, Mughlai, Chinese, Biryani, Continental, Desserts : ₹1,000 for two :  Shyam Nagar, Dharamshala
+Norway Cafe : 3.9 : Fast Food, Burger, Wraps, Pizza, Chinese, Shake, Beverages : ₹400 for two :  Shyam Nagar, Dharamshala
+Peace Coffee : 3.9 : Cafe : ₹500 for two :  Mcleodganj, Dharamshala
+Gunn-Powder - D'Polo Club & Spa Resort : 3.1 : North Indian, Continental, Chinese : ₹600 for two :  Chilgari, Dharamshala
+Domino's Pizza : 4.1 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  Ram Nagar, Dharamshala
+Morgan's Place : 3.5 : Italian, Fast Food, Salad : ₹550 for two :  Mcleodganj, Dharamshala
+Kyizom Himalayan Eatery : 3.5 : North Indian, Chinese, Mughlai, Momos, Beverages : ₹1,100 for two :  Gamru, Dharamshala
+The Clay Oven : 3.9 : Thai, Chinese, Nepalese, Tibetan : ₹700 for two :  Mcleodganj, Dharamshala
+Bakes and Brews : 3.9 : Continental, American, Bakery, Coffee, Sandwich : ₹350 for two :  Chilgari, Dharamshala
+The Police Cafe Vinod Chat Bhandhar : 4.3 : North Indian, South Indian, Chinese, Pasta, Fast Food, Momos, Shake, Beverages : ₹300 for two :  Chilgari, Dharamshala
+Ghoomakad Rasoi : 3.5 : North Indian, Chinese, Fast Food, Beverages : ₹300 for two :  Ram Nagar, Dharamshala
+Chawlas 2 Since 1960 : 3.9 : Biryani, North Indian : ₹500 for two :  Shyam Nagar, Dharamshala
+Taste Of Tibet : 4.2 : Chinese, Tibetan, North Indian : ₹500 for two :  Chilgari, Dharamshala
+Moonlight Café Bakery : 3.8 : Bakery, Coffee : ₹500 for two :  Mcleodganj, Dharamshala
+Moonlight Cate : 3.5 :  : ₹800 for two :  Mcleodganj, Dharamshala
+Snow Lion Hotel Veg Restaurant : - : Cafe : ₹400 for two :  Mcleodganj, Dharamshala
+The Old German Bakery : 3.6 : Bakery : ₹300 for two :  Mcleodganj, Dharamshala
+The Belgian Waffle Co. : 3.6 : Waffle : ₹200 for two :  Chilgari, Dharamshala
+Malka Cafe : New : Cafe, Coffee, North Indian, Continental, Sandwich, Desserts, Juices, Beverages : ₹600 for two :  Mcleodganj, Dharamshala
+The Divine Hima Restaurant : 3.2 : Pizza, Italian, Beverages : ₹500 for two :  Shyam Nagar, Dharamshala
+Vinod's Rasoi & Bakery : 3.5 : Bakery, Desserts, Fast Food : ₹250 for two :  Ram Nagar, Dharamshala
+Mimo’s Grill & Fry : 4.1 : Momos : ₹300 for two :  Mcleodganj, Dharamshala
+Joyful Cafe : 3.7 : Cafe, Pizza, Italian, Fast Food, Pasta : ₹600 for two :  Ram Nagar, Dharamshala
+Hotel Centre Point : 3.5 : North Indian, Chinese, Continental, Sichuan : ₹350 for two :  Chilgari, Dharamshala
+Cafe Encontro : 3.9 : Cafe, Coffee, Beverages, Pasta, Italian, Momos, Fast Food, Tibetan : ₹300 for two :  Shyam Nagar, Dharamshala
+Khanabadosh Cafe : 3.9 : North Indian, South Indian, Street Food : ₹300 for two :  Mcleodganj, Dharamshala
+My Kitchen Bhutanese Restaurant : - : North Eastern, Fast Food, Chinese : ₹400 for two :  Chilgari, Dharamshala
+Sher-E-Punjab Kala Momo Shop : - : North Indian, Chinese, Mughlai : ₹500 for two :  Ram Nagar, Dharamshala
+Aman Food Court Family Restaurant : 3.9 : North Indian, Chinese, Mughlai : ₹500 for two :  Chilgari, Dharamshala
+Lhamo's Croissant : - : Bakery, Cafe : ₹600 for two :  Mcleodganj, Dharamshala
+City Heart Restaurant : - : North Indian, South Indian, Biryani, Chinese : ₹1,000 for two :  Ram Nagar, Dharamshala
+Dhasa Kitchen : 4.0 : North Indian, Chinese : ₹750 for two :  Chilgari, Dharamshala
+Chilly Beans Café : 3.1 : Bakery, Cafe, Chinese, North Indian : ₹800 for two :  Mcleodganj, Dharamshala
+Himachali Dham : - : North Indian : ₹300 for two :  Mcleodganj, Dharamshala
+Fork Studio : 3.9 : North Indian, Continental, Chinese : ₹1,500 for two :  Ram Nagar, Dharamshala
+The Willow Tree : 4.1 : Cafe, North Indian, Chinese, Beverages : ₹800 for two :  Chilgari, Dharamshala
+Golu - A Unit Of Shakh Of Rishikesh : 3.8 : South Indian : ₹250 for two :  Shyam Nagar, Dharamshala
+Alt  Life Cafe : 3.7 : Coffee, Sandwich, Burger, Pizza, Chinese, North Indian, Fast Food, Beverages : ₹700 for two :  Mcleodganj, Dharamshala
+Food Plaza Restaurant : 3.9 : North Indian, Street Food, Beverages : ₹200 for two :  Chilgari, Dharamshala
+Terracotta - The Bake Studio : 4.2 : Cafe, Pizza, Pasta, Bakery, Desserts : ₹900 for two :  Shyam Nagar, Dharamshala
+Mecllo Momos And Noodles : 3.8 : Tibetan, Momos : ₹200 for two :  Mcleodganj, Dharamshala
+Subway : 3.8 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Mcleodganj, Dharamshala
+Breathe Cafe : - : Cafe, Pizza, Fast Food, Chinese, Desserts, Beverages, Waffle : ₹700 for two :  Chilgari, Dharamshala
+A1 Hydrabad Biryani Point : 3.9 : Biryani, Chinese : ₹450 for two :  Shyam Nagar, Dharamshala
+La Pino'z Pizza : 3.9 : Pizza, Pasta, Italian, Fast Food : ₹400 for two :  Ram Nagar, Dharamshala
+One Two Cafe : 3.9 : Cafe : ₹200 for two :  Mcleodganj, Dharamshala
+Monk Bar & Grill : 3.3 : North Indian, Chinese : ₹2,000 for two :  Loharkadi, Dharamshala
+The Abode : 3.1 : North Indian, Chinese, Oriental, Pizza, Fast Food, Desserts : ₹800 for two :  Chilgari, Dharamshala
+Flugler Cafe : - : Cafe, Continental : ₹350 for two :  Mcleodganj, Dharamshala
+Surya Punjabi Dhaba : 4.2 : North Indian, South Indian, Fast Food, Chinese, Biryani, Beverages : ₹300 for two :  Ram Nagar, Dharamshala
+Dhauladhar Heights : - : North Indian, Chinese : ₹350 for two :  Chilgari, Dharamshala
+Bhagsu Fast Food And Bakers : 3.7 : Fast Food, Chinese, Bakery, Desserts : ₹300 for two :  Chilgari, Dharamshala
+Carpe Diem Restaurant : - : Chinese, Italian, North Indian : ₹600 for two :  Mcleodganj, Dharamshala
+Young Monk Cafe Dharamkot : - : North Indian, Chinese, Fast Food, Sandwich, Desserts, Beverages : ₹350 for two :  Mcleodganj, Dharamshala
+City Plaza : 3.5 : North Indian, Chinese, South Indian, Fast Food : ₹450 for two :  Chilgari, Dharamshala
+Pure Veg Restaurant : - : North Indian, Salad, Desserts, Shake, Beverages, Chinese, Sandwich, Pancake : ₹400 for two :  Gamru, Dharamshala
+Spaced Out : 3.8 : Fast Food : ₹400 for two :  Chilgari, Dharamshala
+The Noodle House : 3.0 : Chinese, Tibetan, Biryani, North Indian, Continental, Street Food, Beverages : ₹500 for two :  Chilgari, Dharamshala
+Ashoka Restaurant : 3.8 : Chinese, Continental, Israeli, North Indian : ₹600 for two :  Mcleodganj, Dharamshala
+Tibetan Cafe : 3.6 : Tibetan : ₹350 for two :  Ram Nagar, Dharamshala
+Unity Bistro Pizza House : - : Cafe, Pizza, North Indian, Healthy Food, Street Food, Desserts, Beverages, Fast Food : ₹750 for two :  Mcleodganj, Dharamshala
+Dalchini Indian Restaurant : 3.9 : North Indian, Chinese : ₹300 for two :  Chilgari, Dharamshala
+Kailash Kunga Hotel & Restaurant : - : Pizza, Chinese, Momos, Fast Food, Beverages : ₹650 for two :  Mcleodganj, Dharamshala
+Pepper - N - Salt : 3.8 : North Indian, Chinese, Fast Food, Beverages, Sichuan : ₹800 for two :  Chilgari, Dharamshala
+The Dhaulladhar : - : North Indian, Himachali, South Indian, Continental, Chinese : ₹800 for two :  Chilgari, Dharamshala
+Sher-e-Punjab : 3.9 :  : ₹400 for two :  Mcleodganj, Dharamshala
+Hot & Spicy : 3.3 : Chinese : ₹300 for two :  Chilgari, Dharamshala
+Cafe Bogdo : 3.9 : Cafe, Coffee, Fast Food, North Indian : ₹500 for two :  Mcleodganj, Dharamshala
+Kailash Kunga Cafe : 3.9 : Tibetan, Chinese : ₹250 for two :  Mcleodganj, Dharamshala
+Biso : 3.7 : North Indian, Chinese, South Indian, Himachali : ₹400 for two :  Mcleodganj, Dharamshala
+Buttercup : 3.7 : North Indian, Chinese, Tibetan, Beverages : ₹700 for two :  Chilgari, Dharamshala
+Bakes & Bakers : 3.5 : Bakery : ₹150 for two :  Chilgari, Dharamshala
+Lhasa Tibetan Kitchen : 3.7 : North Indian, Italian, Biryani, Chinese, Juices : ₹600 for two :  Mcleodganj, Dharamshala
+Tsampa Cafe : 3.9 : Cafe, North Indian, Tibetan : ₹500 for two :  Mcleodganj, Dharamshala
+Chef's Farm House : 3.4 : North Indian, Chinese, Continental, Fast Food : ₹600 for two :  Shyam Nagar, Dharamshala
+The Bamboo Cafe : 3.7 : Chinese, North Indian, Beverages : ₹300 for two :  Mcleodganj, Dharamshala
+Gokul Chat & Mishtan : 3.3 : Mithai : ₹350 for two :  Chilgari, Dharamshala
+Santriipti : 3.3 : South Indian, North Indian, Chinese, Desserts, Beverages : ₹400 for two :  Chilgari, Dharamshala
+Pong View Hotel : 3.9 : North Indian, Sandwich, Beverages : ₹600 for two :  Gamru, Dharamshala
+Midtown Restaurant & Bar : 4.0 : Chinese, North Indian, Fast Food : ₹800 for two :  Ram Nagar, Dharamshala
+Nature Twins Café : 3.8 : Cafe, Fast Food, North Indian, Healthy Food, Desserts, Beverages : ₹700 for two :  Mcleodganj, Dharamshala
+Roast And Fry : - : North Indian, Chinese : ₹450 for two :  Chilgari, Dharamshala
+The Simple Cafe : 3.4 : Cafe, North Indian, Chinese, Sichuan : ₹250 for two :  Chilgari, Dharamshala
+Punjabi Tadka : 3.9 : North Indian, Continental, Chinese, Coffee, Beverages, Sichuan : ₹700 for two :  Mcleodganj, Dharamshala
+Imperial9 : 3.6 : Chinese, North Indian, South Indian, Beverages, Shake : ₹700 for two :  Ram Nagar, Dharamshala
+Flame Family Restaurant : 3.9 : North Indian, Chinese, Beverages : ₹700 for two :  Mcleodganj, Dharamshala
+Green Restaurant : 3.6 : Cafe, Tea, Momos, Fast Food, Italian, North Indian, Beverages : ₹400 for two :  Mcleodganj, Dharamshala
+Park Café Restaurant : 3.8 : North Indian : ₹850 for two :  Chilgari, Dharamshala
+The Netwok : - : North Indian, Italian, Korean, Asian, Chinese, Mexican, Shake, Beverages : ₹1,500 for two :  Mcleodganj, Dharamshala
+The Town Chef : 3.2 : North Indian, Chinese, Fast Food, Mughlai : ₹300 for two :  Ram Nagar, Dharamshala
+Mr. Idli Grab n Go : 3.9 : South Indian : ₹600 for two :  Chilgari, Dharamshala
+Umami Asian Kitchen : 3.9 : Chinese, Thai : ₹350 for two :  Chilgari, Dharamshala
+Hotel The Trance : 3.2 : North Indian, Chinese, Continental : ₹1,000 for two :  Chilgari, Dharamshala
+V Food Affairs Cafe : 3.6 : Cafe, Chinese, Rolls, Fast Food, Sandwich : ₹500 for two :  Mcleodganj, Dharamshala
+Abhinandan Family Restaurant : 3.9 : North Indian : ₹600 for two :  Mcleodganj, Dharamshala
+Street Cafe : 3.3 : Fast Food, Beverages, Desserts : ₹250 for two :  Mcleodganj, Dharamshala
+Walia Taste Point : 3.9 : Chinese, Fast Food, North Indian : ₹200 for two :  Ram Nagar, Dharamshala
+The Fat Teapot : - : Coffee, Bakery : ₹300 for two :  Shyam Nagar, Dharamshala
+Top And Town Fast Food And Dhabba : 3.8 : Chinese : ₹300 for two :  Chilgari, Dharamshala
+Himalayan Fresh : 3.4 : Pizza, Fast Food, Chinese : ₹350 for two :  Chilgari, Dharamshala
+The Edge : 3.7 : Continental, Asian : ₹1,500 for two :  Radisson Blu - Shyam Nagar, Dharamshala
+The Mustard Door : 3.9 : North Indian, Fast Food : ₹500 for two :  Gamru, Dharamshala
+Ashish Dhaba : 3.9 : North Indian : ₹200 for two :  Ram Nagar, Dharamshala
+Monal Restaurant : 3.4 : North Indian, Chinese, South Indian, Fast Food : ₹500 for two :  Ram Nagar, Dharamshala
+KD's Cafe : 3.7 : Fast Food : ₹300 for two :  Mcleodganj, Dharamshala
+Krazy Hunger : 3.6 : Burger, Fast Food : ₹350 for two :  Ram Nagar, Dharamshala
+Morgan’s By The Hills : - : Continental, Fast Food, Pasta, Beverages : ₹900 for two :  Mcleodganj, Dharamshala
+Food Safari Cafe : 3.9 : Cafe, Coffee, Salad, Momos, North Indian : ₹300 for two :  Mcleodganj, Dharamshala
+The Roadside Dinner : 3.4 : Rolls, North Indian, Chinese, Beverages, Street Food : ₹500 for two :  Loharkadi, Dharamshala
+Food Paradise : - : Bakery, Chinese, North Indian : ₹750 for two :  Chilgari, Dharamshala
+Tsampa Restaurant : 3.4 : North Indian, Chinese, Fast Food : ₹500 for two :  Ram Nagar, Dharamshala
+Hudson Chopsticks : 3.9 : Chinese, Momos : ₹400 for two :  Shyam Nagar, Dharamshala
+Hotel Mount View : 3.8 : Tibetan, North Indian, Chinese : ₹700 for two :  Mcleodganj, Dharamshala
+Cafe Coffee Day : 3.9 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹600 for two :  Chilgari, Dharamshala
+Piyush Cafe : 3.8 : North Indian, Chinese, Fast Food : ₹450 for two :  Gamru, Dharamshala
+Cool Talk Cafe : - : North Indian : ₹200 for two :  Mcleodganj, Dharamshala
+Himalayan Musaafir : - : North Indian, Chinese, Fast Food, Street Food, Desserts : ₹300 for two :  Loharkadi, Dharamshala
+The Burger Company : - : Burger : ₹350 for two :  Chilgari, Dharamshala
+Bit n Bites : 3.5 : Chinese, North Indian : ₹700 for two :  Mcleodganj, Dharamshala
+Punjabi Chaap Nation : 3.4 : North Indian, Rolls : ₹300 for two :  Chilgari, Dharamshala
+Dig-In For Grill-In : New : Chinese, North Indian : ₹300 for two :  Ram Nagar, Dharamshala
+Aashiana : 2.9 : Chinese, North Indian, South Indian, Fast Food, Beverages : ₹200 for two :  Ram Nagar, Dharamshala
+The Seeker Cafe : - : Cafe, Fast Food, Beverages : ₹600 for two :  Mcleodganj, Dharamshala
+Lama Kitchen : 2.9 : Asian, Beverages : ₹500 for two :  Mcleodganj, Dharamshala
+Dana Pani Pure Vegetarian Dhaba : - : North Indian, Fast Food, Beverages : ₹300 for two :  Loharkadi, Dharamshala
+Brishta Cafe : 2.7 : North Indian, Fast Food, Beverages, South Indian : ₹600 for two :  Chilgari, Dharamshala
+The Other Space : 3.6 : Cafe, Finger Food, Coffee, Tea : ₹1,000 for two :  Gamru, Dharamshala
+Food Safari Corner : 3.1 : Burger, Sandwich, Wraps, Fast Food, Beverages : ₹400 for two :  Chilgari, Dharamshala
+Winni Cakes & More : - : Bakery, Desserts, Pizza, Sandwich, Wraps, Pasta, Waffle, Beverages : ₹500 for two :  Shyam Nagar, Dharamshala
+Raju Momo Cafe : 3.0 : Momos, Chinese, Pizza, Sandwich, Beverages : ₹300 for two :  Chilgari, Dharamshala
+Anand Fast Food : 2.8 : Fast Food, Street Food : ₹300 for two :  Ram Nagar, Dharamshala
+Punjabi Dhaba : - : North Indian : ₹300 for two :  Mcleodganj, Dharamshala
+The Salvation Cafe : - : North Indian, Fast Food, Beverages, Shake : ₹500 for two :  Mcleodganj, Dharamshala
+Tapri -The Pahadi Tapri : - : North Indian, Biryani, Chinese, Fast Food, Pizza, Street Food, Shake, Beverages : ₹600 for two :  Shyam Nagar, Dharamshala
+Buddha Delight Cafe : 2.9 : North Indian, Italian, Continental, Chinese, Fast Food, Momos, Beverages : ₹400 for two :  Mcleodganj, Dharamshala
+Nick's Italian Kitchen : 3.7 : Italian : ₹500 for two :  Mcleodganj, Dharamshala
+Lord Krishna Rasoi : - : North Indian, Chinese : ₹300 for two :  Mcleodganj, Dharamshala
+Shiva Drink And Dine : - : North Indian, Beverages : ₹1,000 for two :  Chilgari, Dharamshala
+Once In Nature : - : North Indian : ₹300 for two :  Mcleodganj, Dharamshala
+Hotel Gk Conifer : - : North Indian, Desserts, Beverages, Mughlai, Kebab, Chinese : ₹1,500 for two :  Chilgari, Dharamshala
+Hotel Manu Vinod : - : North Indian, Chinese : ₹400 for two :  Mcleodganj, Dharamshala
+Night Food Street : - : Fast Food, Pizza : ₹300 for two :  Loharkadi, Dharamshala
+The Sky High : - : Italian, Israeli, North Indian : ₹700 for two :  Mcleodganj, Dharamshala
+Bodhi Greens : - : Thai, Continental, Coffee, Desserts, Fast Food, Beverages : ₹500 for two :  Mcleodganj, Dharamshala
+Coffee Talks : 4.1 : Cafe : ₹250 for two :  Mcleodganj, Dharamshala
+Himachali Rasoi : - : North Indian : ₹350 for two :  Gamru, Dharamshala
+Alpine Cafe & Restaurant : - : Chinese, Continental, Pizza, Desserts : ₹500 for two :  Mcleodganj, Dharamshala
+The Taste Of India : - : North Indian, Fast Food, Chinese, Beverages : ₹500 for two :  Mcleodganj, Dharamshala
+Sanji's Cafe Milky Way : - : Beverages : ₹600 for two :  Mcleodganj, Dharamshala
+Dhogru Sweets : - : Mithai : ₹200 for two :  Chilgari, Dharamshala
+History Of Biryani : - : Biryani, North Indian, Chinese, Rolls, Beverages : ₹400 for two :  Ram Nagar, Dharamshala
+River Side Cafe : - : North Indian, Chinese, Continental, Beverages : ₹150 for two :  Chilgari, Dharamshala
+Sandy's Kitchen : 3.9 : Chinese, Desserts, Beverages, Salad : ₹800 for two :  Mcleodganj, Dharamshala
+Cafe Albela : 4.9 : Cafe, Beverages, North Indian, Himachali, Pizza, Pasta, Fast Food : ₹1,000 for two :  Mcleodganj, Dharamshala
+Dhauladhar Hill’s Resort : - : North Indian, Bar Food, Chinese, Biryani, Fast Food : ₹1,400 for two :  Shyam Nagar, Dharamshala
+Red Chilly Tadka : - : Chinese, North Indian, Mughlai : ₹400 for two :  Loharkadi, Dharamshala
+Family Pizzaria : - : Pizza, Beverages, Desserts : ₹400 for two :  Mcleodganj, Dharamshala
+Second Inning  Restaurant : - : North Indian, Chinese, Mughlai, Street Food : ₹550 for two :  Mcleodganj, Dharamshala
+Flavours 360 : - : North Indian, South Indian, Continental, Chinese, Beverages : ₹2,000 for two :  Shyam Nagar, Dharamshala
+The Chocolate Log : - : Cafe, Tea, Shake, North Indian, Pizza : ₹600 for two :  Mcleodganj, Dharamshala
+Atman Boutique Resort : - : North Indian, Chinese, Continental, Fast Food, Desserts : ₹800 for two :  Shyam Nagar, Dharamshala
+Barista Coffee : - : Cafe, Coffee, Fast Food, Desserts, Beverages : ₹650 for two :  Mcleodganj, Dharamshala
+Fauji Dhaba : - : North Indian, Fast Food, Street Food : ₹400 for two :  Mcleodganj, Dharamshala
+Punjabi Cafe & Restaurant : - : North Indian, Chinese : ₹300 for two :  Mcleodganj, Dharamshala
+Viceroy Diner : - : Continental, Himachali, Italian, Oriental : ₹1,500 for two :  Chilgari, Dharamshala
+Divine Nature : - : Salad, Healthy Food, Desserts, Beverages : ₹300 for two :  Mcleodganj, Dharamshala
+Bar Cafe : - : Fast Food : ₹300 for two :  Ram Nagar, Dharamshala
+Spring Valley Resorts : - : North Indian : ₹500 for two :  Mcleodganj, Dharamshala
+Singh Corner : 3.6 : North Indian : ₹400 for two :  Mcleodganj, Dharamshala
+Rasa : - : North Indian, Biryani : ₹1,000 for two :  Chilgari, Dharamshala
+The Urban Hotspot : - : Fast Food, Street Food : ₹300 for two :  Ram Nagar, Dharamshala
+Cygnett Pavilion : - : Chinese, North Indian, Street Food : ₹1,000 for two :  Mcleodganj, Dharamshala
+Red Carpet Hotel : - : North Indian, South Indian, Fast Food, Street Food, Desserts, Shake, Beverages : ₹300 for two :  Chilgari, Dharamshala
+Village Cafe : - : Cafe : ₹400 for two :  Chilgari, Dharamshala
+Himalayan Cafe And Camping : - : North Indian, Chinese, Biryani, Pizza, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Ram Nagar, Dharamshala
+Hotel The Crown : - : North Indian, Chinese, Fast Food, Biryani, Desserts, Beverages : ₹1,200 for two :  Ram Nagar, Dharamshala
+Seed Cafe : - : North Indian : ₹300 for two :  Mcleodganj, Dharamshala
+Lazy Monk Travel Cafe : - : Beverages, Sandwich, North Indian : ₹400 for two :  Mcleodganj, Dharamshala
+Govinda's Dhaba : New : South Indian, North Indian, Chinese, Beverages : ₹300 for two :  Mcleodganj, Dharamshala
+Shiva Eating Point : - : Fast Food : ₹150 for two :  Ram Nagar, Dharamshala
+Kelsang  Kitchen : - : Tibetan, Chinese, Momos : ₹300 for two :  Gamru, Dharamshala
+The Unmad Kitchen : - : Himachali, Chinese, Sandwich, North Indian, Street Food, Beverages : ₹300 for two :  Mcleodganj, Dharamshala
+Bake & Baker : - : Bakery, Mithai, Fast Food, Street Food : ₹400 for two :  Shyam Nagar, Dharamshala
+Kyizom’s Kitchen : - : Beverages, Chinese, Momos : ₹300 for two :  Loharkadi, Dharamshala
+Surya Sweets & Cafe : - : Chinese, Sandwich, Fast Food, Mithai, Beverages : ₹200 for two :  Chilgari, Dharamshala
+The Physio Cafe : - : Burger, Sandwich, Pizza, Fast Food, Healthy Food, Beverages : ₹200 for two :  Shyam Nagar, Dharamshala
+JJI Exile Brothers Cafe : - : Bakery, Fast Food : ₹300 for two :  Mcleodganj, Dharamshala
+Om Star Café : - : Cafe : ₹600 for two :  Mcleodganj, Dharamshala
+Kings Snacks : - : North Indian : ₹300 for two :  Shyam Nagar, Dharamshala
+Zomsa Laundromat Cafe : - : Cafe, Chinese, Thai, Fast Food : ₹350 for two :  Mcleodganj, Dharamshala
+Chilsung : - : North Indian, Chinese : ₹400 for two :  Chilgari, Dharamshala
+Monu Punjabi Dhaba : - : North Indian, Sandwich, Salad, Chinese : ₹500 for two :  Shyam Nagar, Dharamshala
+Hotel Akashdeep : - : North Indian, Fast Food, Continental, Chinese, Shake : ₹300 for two :  Mcleodganj, Dharamshala
+Hotel Pine Valley : - : North Indian, Chinese : ₹400 for two :  Ram Nagar, Dharamshala
+5 Tara Dhaba : - : North Indian, Chinese, Street Food, Beverages : ₹300 for two :  Mcleodganj, Dharamshala
+Madras Bite : - : South Indian : ₹200 for two :  Mcleodganj, Dharamshala
+Hungers Hunt : - : Momos : ₹200 for two :  Mcleodganj, Dharamshala
+D's Casa : - : North Indian, Mughlai : ₹1,200 for two :  Mcleodganj, Dharamshala
+Hotel Sita Palace : - : North Indian : ₹500 for two :  Ram Nagar, Dharamshala
+Ram Punjabi Dhaba - Prantha Junction : - : Biryani, North Indian : ₹400 for two :  Mcleodganj, Dharamshala
+JJ Exile Brothers : - : Cafe, Tibetan : ₹500 for two :  Mcleodganj, Dharamshala
+The Posh Hotel : - : North Indian, Fast Food, Beverages, Bakery, Desserts : ₹500 for two :  Mcleodganj, Dharamshala
+Get Together Cafe : - : North Indian, Street Food, Juices, Shake, Beverages : ₹150 for two :  Ram Nagar, Dharamshala
+Shawarma Grill : - : Shawarma, Fast Food : ₹350 for two :  Chilgari, Dharamshala
+Momos Station By Melted Cheese Cafe : - : Momos, Chinese, Beverages : ₹500 for two :  Chilgari, Dharamshala
+Magic Tree Coffee Shop : - : Beverages : ₹600 for two :  Mcleodganj, Dharamshala
+Barishta Cafe : - : North Indian, Chinese, Fast Food : ₹200 for two :  Ram Nagar, Dharamshala
+Goofa Restaurant : - : North Indian, Chinese, Fast Food : ₹600 for two :  Chilgari, Dharamshala
+Ninja Kitchen : - : North Indian, Chinese, Fast Food, Beverages : ₹250 for two :  Gamru, Dharamshala
+Momo Junction : - : Momos, Burger, Sandwich, Fast Food, Chinese : ₹300 for two :  Shyam Nagar, Dharamshala
+Summer Breeze : - : North Indian, Chinese : ₹550 for two :  Loharkadi, Dharamshala
+Lazy Panda : - : Chinese, North Indian : ₹800 for two :  Loharkadi, Dharamshala
+Hotel Villa Paradiso : - : North Indian, Continental, Chinese : ₹600 for two :  Mcleodganj, Dharamshala
+Money Monks : - : North Indian, Chinese, Fast Food, Shake, Beverages : ₹1,000 for two :  Chilgari, Dharamshala
+Hotel Malghotras : - : North Indian, South Indian, Chinese, Continental, Tibetan : ₹400 for two :  Mcleodganj, Dharamshala
+Cafe dohra : - : North Indian, Chinese : ₹700 for two :  Gamru, Dharamshala
+Lotus Leaf Drumstick Restaurant : - : North Indian : ₹1,000 for two :  Mcleodganj, Dharamshala
+Hotel Natures View : - : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹850 for two :  Mcleodganj, Dharamshala
+Hotel Anuj Regency : - : Chinese, North Indian, Street Food, Sandwich, Biryani, Fast Food : ₹550 for two :  Mcleodganj, Dharamshala
+Pepper Fry Restaurant & Bakes : - : Chinese, North Indian, South Indian, Sandwich : ₹500 for two :  Chilgari, Dharamshala
+Re : Gen : Ta Resort : - : North Indian, Continental, Oriental, Biryani, Italian : ₹1,000 for two :  Gamru, Dharamshala
+Hotel Holiday Hill : - : North Indian, Chinese, Continental, Fast Food : ₹350 for two :  Mcleodganj, Dharamshala
+Angel's Inn Resort : - : North Indian, Chinese, Continental, Fast Food, Mughlai, Desserts, Biryani : ₹500 for two :  Loharkadi, Dharamshala
+Cafe Eden : - : North Indian, Biryani : ₹500 for two :  Mcleodganj, Dharamshala
+Green Valley Dhaba : - : North Indian, Chinese, Sandwich, Fast Food, Beverages : ₹300 for two :  Mcleodganj, Dharamshala
+Potala Restaurant : - : Chinese, Tibetan : ₹350 for two :  Ram Nagar, Dharamshala
+Kripal Momo Veg & Non Veg : - : Momos : ₹100 for two :  Ram Nagar, Dharamshala
+Backpackers Inn : - : North Indian, Chinese : ₹300 for two :  Mcleodganj, Dharamshala
+Wonder World Resort : - : North Indian, Continental, Street Food, Juices, Beverages : ₹500 for two :  Chilgari, Dharamshala
+JB Restaurant : New : North Indian, Salad, Street Food, Desserts : ₹300 for two :  Mcleodganj, Dharamshala
+Food Lovers : - : North Indian, Fast Food, Street Food, Chinese, Beverages : ₹500 for two :  Mcleodganj, Dharamshala
+Zula Cafe : - : North Indian, Chinese, Tea, Shake, Juices, Desserts, Beverages : ₹1,000 for two :  Mcleodganj, Dharamshala
+Hotel Devdar Resort : - : Himachali, North Indian : ₹1,000 for two :  Shyam Nagar, Dharamshala
+Baskin Robbins Happyness Shakes : - : Shake, Beverages : ₹500 for two :  Chilgari, Dharamshala
+The Origin : - : North Indian, Chinese, Beverages : ₹400 for two :  Ram Nagar, Dharamshala
+Dhinchak Kitchen : - : Chinese, Fast Food : ₹300 for two :  Chilgari, Dharamshala
+Foodies Eating Point : - : Fast Food, Beverages : ₹300 for two :  Chilgari, Dharamshala
+Deep Kitchen : - : North Indian, Chinese, Biryani, Fast Food, Street Food, Tea, Shake, Beverages : ₹300 for two :  Mcleodganj, Dharamshala
+Fauji Food Corner : - : North Indian : ₹300 for two :  Mcleodganj, Dharamshala
+Simley Fast Food : - : Fast Food : ₹300 for two :  Chilgari, Dharamshala
+Le Café Restro : - : North Indian, Chinese, Continental, Beverages, Shake : ₹500 for two :  Ram Nagar, Dharamshala
+Desprades Oak View : - : Mughlai, North Indian, Chinese, Street Food, Fast Food, Beverages, Middle Eastern, Desserts : ₹500 for two :  Mcleodganj, Dharamshala
+Hem Fast Food : - : Fast Food : ₹300 for two :  Ram Nagar, Dharamshala
+Lockdown Cafe : - : Street Food, Beverages : ₹300 for two :  Mcleodganj, Dharamshala
+Burki Lounge : - : North Indian : ₹1,000 for two :  Ram Nagar, Dharamshala
+Nomadic Inn : - : North Indian, Continental, Chinese, Fast Food, Desserts : ₹1,200 for two :  Mcleodganj, Dharamshala
+Pub G Food City : - : Fast Food, Chinese, Healthy Food, North Indian, Beverages : ₹400 for two :  Ram Nagar, Dharamshala
+Thakur Dhaba : - : North Indian : ₹300 for two :  Chilgari, Dharamshala
+Khushi Fast Food : - : North Indian, Chinese, Street Food, Beverages : ₹300 for two :  Shyam Nagar, Dharamshala
+La Sekua : - : North Indian, Chinese, Beverages : ₹300 for two :  Shyam Nagar, Dharamshala
+Hotel Bliss Valley : - : North Indian, Chinese, Fast Food, Street Food, Beverages : ₹400 for two :  Ram Nagar, Dharamshala
+XO Cafe : - : Beverages, Fast Food, Pizza, Burger, Ice Cream : ₹350 for two :  Gamru, Dharamshala
+Aditya Food Corner : - : North Indian : ₹200 for two :  Ram Nagar, Dharamshala
+Salt & Light Bake & Take Eatery : - : Cafe, Coffee, Tea, Beverages, Pizza, Burger, Fast Food, Chinese : ₹550 for two :  Shyam Nagar, Dharamshala
+Mad Over Shawarma : - : Shawarma : ₹300 for two :  Shyam Nagar, Dharamshala
+Friend's Zone : - : Cafe, Coffee, North Indian, South Indian, Biryani, Chinese, Ice Cream, Beverages : ₹500 for two :  Chilgari, Dharamshala
+English Dhaba : - : North Indian, Chinese : ₹450 for two :  Mcleodganj, Dharamshala
+The Cosmopolitian : - : North Indian, Chinese : ₹400 for two :  Gamru, Dharamshala
+Thapa Fast Food : - : Chinese, North Indian : ₹300 for two :  Shyam Nagar, Dharamshala
+Cafe Ras : - : North Indian, Fast Food, Beverages : ₹200 for two :  Chilgari, Dharamshala
+Himalayan Fast Food : - : Chinese : ₹300 for two :  Chilgari, Dharamshala
+Food Guru : - : North Indian, Biryani : ₹300 for two :  Gamru, Dharamshala
+Himalaya Tea Shot : - : Tea, North Indian, Fast Food, Street Food, Desserts : ₹300 for two :  Mcleodganj, Dharamshala
+See U Soon Cafe : - : North Indian, Chinese, Fast Food : ₹450 for two :  Shyam Nagar, Dharamshala
+Akshat Fast Food Corner : New : Fast Food : ₹200 for two :  Ram Nagar, Dharamshala
+The London Shake 1950 : - : Beverages, Fast Food : ₹400 for two :  Chilgari, Dharamshala
+Cookie Walla : - : Fast Food : ₹300 for two :  Mcleodganj, Dharamshala
+Imperial 9 : - : North Indian, Chinese : ₹300 for two :  Mcleodganj, Dharamshala
+Amit Restaurant : - : Chinese, Street Food : ₹300 for two :  Mcleodganj, Dharamshala
+Quick Bite Cafe : - : Chinese, North Indian, Street Food, Beverages : ₹450 for two :  Shyam Nagar, Dharamshala
+Atithi Restaurant : - : North Indian : ₹300 for two :  Ram Nagar, Dharamshala
+Dream Zone : - : Chinese, Assamese, Burger, Momos, Wraps, Fast Food : ₹500 for two :  Shyam Nagar, Dharamshala
+Naresh Fast Food : - : Fast Food : ₹300 for two :  Chilgari, Dharamshala
+Green Hill Restaurant : - : North Indian, Chinese, Sandwich, Beverages : ₹400 for two :  Chilgari, Dharamshala
+One Cup Coffee Cafe : - : Fast Food, North Indian, Chinese : ₹400 for two :  Mcleodganj, Dharamshala
+STAY "n" EAT : - : North Indian, South Indian, Chinese : ₹800 for two :  Mcleodganj, Dharamshala
+Café Tintin : - : Momos, Chinese : ₹100 for two :  Mcleodganj, Dharamshala
+HOBO Express : - : North Indian, Fast Food : ₹280 for two :  Shyam Nagar, Dharamshala
+Ridhi Pridhi Dhaba : - : North Indian : ₹300 for two :  Loharkadi, Dharamshala
+Hotel Honey N spice : - : Chinese, North Indian : ₹800 for two :  Mcleodganj, Dharamshala
+Sonam 80 Sakhang : - : North Indian : ₹300 for two :  Mcleodganj, Dharamshala
+Vishal Cafe : - : North Indian, Chinese, Shake, Beverages : ₹350 for two :  Gamru, Dharamshala
+Kunj Shree Cafe : - : North Indian, Chinese, Biryani, Fast Food : ₹300 for two :  Shyam Nagar, Dharamshala
+The Brother's Cafe : - : Chinese, Fast Food : ₹300 for two :  Chilgari, Dharamshala
+Aliza Inn & Suits : - : North Indian, Chinese, Desserts, Beverages : ₹1,400 for two :  Mcleodganj, Dharamshala
+Queenie's Oven Green Cafe : - : Fast Food, Pizza, Street Food, Chinese, Salad, Healthy Food, Desserts, Beverages : ₹300 for two :  Gamru, Dharamshala
+Common Grounds Cafe : - : Cafe : ₹600 for two :  Mcleodganj, Dharamshala
+1740 Bakery : - : Bakery, Desserts : ₹200 for two :  Shyam Nagar, Dharamshala
+Ri Cafe : - : Korean, Cafe : ₹700 for two :  Mcleodganj, Dharamshala
+Yak Cafe : - : Cafe, Desserts, Coffee : ₹300 for two :  Mcleodganj, Dharamshala
+Nutmegg : New : North Indian, Italian, Chinese, Pizza, Biryani, Desserts : ₹1,200 for two :  Chilgari, Dharamshala
+Hope Cafe Gallery : - : Fast Food, Beverages : ₹600 for two :  Mcleodganj, Dharamshala
+The Roots By Professionals : New : Fast Food, Chinese, North Indian, BBQ, Beverages : ₹250 for two :  Chilgari, Dharamshala
+The Cocoon Project : New : Cafe, Chinese, Pasta, Continental, Coffee, Beverages : ₹450 for two :  Mcleodganj, Dharamshala
+Aroma Bakery & Cafe : - : Bakery, Desserts : ₹250 for two :  Chilgari, Dharamshala
+Tunna's Book Cafe : - : North Indian, Chinese, Continental, Beverages : ₹300 for two :  Ram Nagar, Dharamshala
+Lhasa Cafe : - : Coffee, Tea, Shake, Beverages : ₹500 for two :  Loharkadi, Dharamshala
+Melted Cheese Bakery : 4.1 : Bakery, North Indian : ₹200 for two :  Chilgari, Dharamshala
+Lucknow Central : 3.9 : Rolls, North Indian, Mughlai : ₹500 for two :  Ram Nagar, Dharamshala
+Pun Bakers : - : Bakery, Fast Food : ₹200 for two :  Ram Nagar, Dharamshala
+Namgyal Cafe : - : Continental, North Indian : ₹800 for two :  Mcleodganj, Dharamshala
+Rahuls Tibatian Food : 4.0 : Chinese : ₹200 for two :  Ram Nagar, Dharamshala
+Dharamshala Rasoi : - : North Indian, Mughlai, Chinese, Fast Food, Shake, Tea : ₹450 for two :  Loharkadi, Dharamshala
+Junkeri The Fire Fly : 3.3 : North Indian, Chinese, Fast Food, Rolls, Tibetan : ₹450 for two :  Shyam Nagar, Dharamshala
+Stories of Tibetans : 3.9 : Cafe : ₹500 for two :  Mcleodganj, Dharamshala
+Shangrila Hotel : - : North Indian : ₹300 for two :  Mcleodganj, Dharamshala
+Punchaitea : 3.4 : Coffee, Tea, Beverages, Fast Food, Chinese : ₹300 for two :  Shyam Nagar, Dharamshala
+Route 23 : 3.8 : Fast Food : ₹200 for two :  Chilgari, Dharamshala
+Shiva Fast Food : 3.9 : Chinese, Momos, Street Food : ₹300 for two :  Ram Nagar, Dharamshala
+Retreat Restaurant And Bar : - : Bar Food : ₹1,000 for two :  Chilgari, Dharamshala
+Chopstick : 3.7 : North Indian : ₹300 for two :  Mcleodganj, Dharamshala
+Joy Food : - : North Indian, Chinese, Fast Food, Beverages, Desserts, Shake : ₹700 for two :  Mcleodganj, Dharamshala
+Banaras Sweet Shop : 3.3 : Mithai, Street Food : ₹250 for two :  Ram Nagar, Dharamshala
+Chutney Pudi Cafe : - : South Indian, Beverages : ₹400 for two :  Shyam Nagar, Dharamshala
+Andaaz Kitchen : - : North Indian, Chinese : ₹600 for two :  Gamru, Dharamshala
+The Jungle : - : North Indian, Pizza, Pasta, Burger, Fast Food : ₹200 for two :  Chilgari, Dharamshala
+Mama's Kitchen : - : North Indian, Fast Food, Chinese, Street Food, Beverages : ₹300 for two :  Ram Nagar, Dharamshala
+Swadisht Street Food : - : Himachali, Chinese, Momos : ₹150 for two :  Shyam Nagar, Dharamshala
+Blue Lagoon : - : Chinese : ₹500 for two :  Chilgari, Dharamshala
+Colline Kitchen : - : Burger, Wraps, Sandwich, Pizza, Fast Food, Street Food, Chinese, Beverages : ₹300 for two :  Chilgari, Dharamshala
+Absolute Shawarma : - : Shawarma, Beverages : ₹300 for two :  Shyam Nagar, Dharamshala
+Vandna Fast Food : - : North Indian, South Indian, Fast Food, Desserts, Beverages : ₹450 for two :  Shyam Nagar, Dharamshala
+Hobo Hostel : - : North Indian, Chinese, Beverages : ₹400 for two :  Shyam Nagar, Dharamshala
+Hotel Mirage Residency : - : North Indian, Chinese, Fast Food, Street Food, Beverages : ₹900 for two :  Shyam Nagar, Dharamshala
+Navi Food Corner : - : North Indian, Fast Food, Street Food : ₹150 for two :  Ram Nagar, Dharamshala
+Café Mahaul : New : Beverages, Tea, Fast Food, Street Food : ₹250 for two :  Mcleodganj, Dharamshala
+Swarna Restaurant : - : North Indian, Chinese, Biryani, Street Food : ₹400 for two :  Chilgari, Dharamshala
+The Hideout Cafe : - : North Indian, Fast Food, Chinese, Beverages : ₹400 for two :  Ram Nagar, Dharamshala
+The Back Wood's : - : Chinese, Italian, North Indian, Fast Food, Beverages : ₹1,000 for two :  Mcleodganj, Dharamshala
+Jungle Retreat : - : Chinese, Fast Food : ₹300 for two :  Shyam Nagar, Dharamshala
+Bake House & Co. : - : Sandwich, Wraps, Healthy Food : ₹550 for two :  Shyam Nagar, Dharamshala
+Food Deck : - : Street Food, Fast Food, Momos, Chinese, North Indian, Mughlai, Desserts, Beverages : ₹500 for two :  Gamru, Dharamshala
+Annapurna Fast Food : - : South Indian, Chinese : ₹300 for two :  Shyam Nagar, Dharamshala
+Rana Fast Food : - : Chinese, Momos : ₹250 for two :  Chilgari, Dharamshala
+Baskin Robbins - Ice Cream Desserts : - : Ice Cream, Desserts, Beverages : ₹500 for two :  Chilgari, Dharamshala
+Tandoori Zayaka : - : North Indian, Chinese, Fast Food, Beverages, Shake : ₹700 for two :  Mcleodganj, Dharamshala
+Jujurana Resort : - : North Indian, Mughlai, Chinese, Italian, Fast Food, Biryani, Desserts, Beverages : ₹1,600 for two :  Shyam Nagar, Dharamshala
+Hot Spot : - : South Indian, North Indian, Fast Food, Chinese, Mughlai, Beverages : ₹500 for two :  Mcleodganj, Dharamshala
+Woeser Bakery : - : Beverages, Bakery : ₹300 for two :  Mcleodganj, Dharamshala
+Zaika Taste Of Himachal : - : North Indian : ₹300 for two :  Loharkadi, Dharamshala
+Punjabi Zaika : - : North Indian, Street Food, Shake, Beverages : ₹300 for two :  Mcleodganj, Dharamshala
+Sreshta Foods : - : South Indian : ₹300 for two :  Shyam Nagar, Dharamshala
+Amoha Retreat : - : North Indian, Continental, Desserts, Beverages : ₹1,000 for two :  Chilgari, Dharamshala
+Orchid - Fortune Park : 3.9 : North Indian, Oriental : ₹200 for two :  Mcleodganj, Dharamshala
+Vatika : 3.2 : North Indian, Fast Food, Shake : ₹500 for two :  Chilgari, Dharamshala
+Hotel The Woodz : - : North Indian, Beverages, Ice Cream, Desserts : ₹750 for two :  Shyam Nagar, Dharamshala
+The Fast Food Dhaba : 2.5 : North Indian : ₹200 for two :  Shyam Nagar, Dharamshala
+Sukriti Bake And Shake Corner : 3.9 : Bakery, Shake, Chinese, Pizza, Burger, Salad, Momos, Beverages : ₹400 for two :  Shyam Nagar, Dharamshala
+Kaundal Fast Food Centre : - : Chinese, Fast Food : ₹200 for two :  Shyam Nagar, Dharamshala
+Nirbana Heights : - : North Indian, Chinese, Fast Food, Shake, Beverages : ₹500 for two :  Shyam Nagar, Dharamshala

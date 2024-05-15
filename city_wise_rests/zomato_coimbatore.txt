@@ -1,0 +1,501 @@
+Mufasa : New : South Indian, North Indian, Pasta, Pizza : ₹1,000 for two :  Race Course, Coimbatore
+China Valley Chinese Restaurant : 4.0 : Chinese, Seafood, Oriental, Continental, Desserts, Asian, Momos, Shake : ₹1,000 for two :  Ramanathapuram, Coimbatore
+Nin Hao : 4.0 : Chinese, Asian, Salad, Rolls, Momos, Desserts, Beverages, Seafood : ₹800 for two :  Saibaba Colony, Coimbatore
+Zoca Cafe : 3.3 : Pizza, Burger, Cafe, Pasta, Sandwich, Shake, Continental, Mediterranean : ₹1,000 for two :  Peelamedu, Coimbatore
+Hide In Heaven : 4.2 : South Indian, North Indian, Seafood, Salad, Continental, Asian, Italian, Bar Food : ₹1,500 for two :  Saravanampatty, Coimbatore
+Cardiff Cafe : 4.1 : Cafe, Fast Food, Beverages, Shake, Sandwich, Pizza, Burger : ₹500 for two :  Peelamedu, Coimbatore
+Cardiff Cafe - Codissia : 3.8 : Cafe, Fast Food : ₹600 for two :  Peelamedu, Coimbatore
+Burger Ka Baap : 3.9 : Burger, Sandwich, Fast Food, Beverages, Shake, Cafe, Pasta, Salad : ₹400 for two :  Saibaba Colony, Coimbatore
+The Living Room : 4.5 : South Indian, North Indian, Pizza, Pasta, Fast Food, Kebab, Desserts : ₹1,500 for two :  Peelamedu, Coimbatore
+Lord Of The Drinks : 4.3 : Continental, Juices, Beverages : ₹1,000 for two :  Peelamedu, Coimbatore
+AB's - Absolute Barbecues : 4.4 : Biryani, BBQ, Kebab, North Indian, Desserts : ₹1,600 for two :  Lakshmi Mills, Coimbatore
+10 Downing Street : 4.3 : Continental, North Indian, Chinese, Mughlai, Kebab, Bar Food, Fast Food, Beverages : ₹800 for two :  Sitra, Coimbatore
+SS Hyderabad Biryani-COIMBATORE : 4.0 : Biryani, Chinese, Mughlai, North Indian, Seafood : ₹500 for two :  Gandhipuram, Coimbatore
+Little Soi : - : Asian, Continental, Japanese, Thai, Desserts : ₹1,000 for two :  Lakshmi Mills, Coimbatore
+Rasanai : - : South Indian, Biryani : ₹1,000 for two :  Lakshmi Mills, Coimbatore
+Kove : New : European, Modern Indian, Continental, South Indian, Asian, North Indian, Italian, Desserts : ₹1,500 for two :  RS Puram, Coimbatore
+Bulls & Bears Bistro : 4.4 : Cafe, Coffee, Continental, Pasta, Fast Food, Desserts, Shake, Beverages : ₹900 for two :  RS Puram, Coimbatore
+Sherlock's - Lounge & Kitchen : 4.9 : Cuisine Varies, Chinese, Continental, Bar Food, Oriental, Pizza, Pasta, Biryani : ₹2,000 for two :  Brookefields Mall, RS Puram, Coimbatore
+Chinese Wok : 4.0 : Chinese, Asian, Momos, Sichuan : ₹500 for two :  Peelamedu, Coimbatore
+SS Hyderabad Biryani : - : Biryani : ₹300 for two :  Gandhipuram, Coimbatore
+Seasons - Radisson Blu : 4.2 : Continental, South Indian, North Indian, Chinese : ₹1,000 for two :  Radisson Blu, Peelamedu, Coimbatore
+URBAN BAR-B-QUE : 3.4 : North Indian, South Indian : ₹1,000 for two :  Sitra, Coimbatore
+Smoke Hub Barbeque : 3.5 : North Indian, South Indian, Chinese, Fast Food, Desserts : ₹2,000 for two :  Race Course, Coimbatore
+High On Coffee : 3.9 : Coffee, Shake, Continental, Pizza, Sandwich, Pasta, Burger, Rolls : ₹1,000 for two :  Peelamedu, Coimbatore
+Chives : - : South Indian : ₹1,000 for two :  Gandhipuram, Coimbatore
+Barbeque Nation : 4.9 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,800 for two :  Town Hall, Coimbatore
+Havana Multi Cuisine : 4.3 : North Indian, Continental, Asian, Italian, Chinese, Desserts, Shake, Beverages : ₹1,000 for two :  RS Puram, Coimbatore
+The Cavern @312 : 4.4 : Modern Indian, Continental : ₹1,300 for two :  Gandhipuram, Coimbatore
+La Cabana : 3.9 : BBQ, Chinese, Continental, South Indian, North Indian, Desserts, Beverages, Seafood : ₹2,000 for two :  Nehru Stadium, Coimbatore
+Indchicoo : 3.5 : Chinese : ₹200 for two :  Race Course, Coimbatore
+Valarmathi Kongunaatu Samayal : 4.7 : South Indian, Biryani : ₹450 for two :  Race Course, Coimbatore
+Kayaloram : 3.4 : South Indian, Kerala, Seafood, North Indian, Biryani, Salad, Beverages, Kebab : ₹1,000 for two :  Sitra, Coimbatore
+The Underground Bar : 3.9 : Bar Food, South Indian, North Indian, Asian, Chinese, Biryani, Continental, Salad : ₹1,000 for two :  Peelamedu, Coimbatore
+Kovai Kitchen - Fairfield By Marriott : 4.7 : North Indian, South Indian, Italian, Fast Food, Biryani, Desserts, Beverages : ₹1,800 for two :  Fairfield by Marriott Coimbatore, Coimbatore
+On The Rocks : 4.2 : North Indian, Seafood, Chinese, Pasta, Kebab, Fast Food : ₹1,200 for two :  Kalapatti, Coimbatore
+Pillar 129 : 3.5 : Mexican, Italian, Asian, Continental, Pizza, Desserts, Beverages, Sichuan : ₹1,100 for two :  Peelamedu, Coimbatore
+Sharief Bhai : 4.1 : Biryani, Kebab, Mughlai, Arabian, South Indian, Rolls, Desserts, Beverages : ₹1,100 for two :  RS Puram, Coimbatore
+McDonald's : 3.3 : Burger, Fast Food, Cafe : ₹600 for two :  Brookefields Mall, RS Puram, Coimbatore
+KFC : 3.9 : Burger, Fast Food, Rolls : ₹450 for two :  Podanur, Coimbatore
+Bird On Tree : 4.2 : Continental, Chinese, Thai, Biryani, North Indian, Asian, Desserts, Beverages : ₹1,200 for two :  Race Course, Coimbatore
+WelcomCafe Kovai - ITC Hotels : 3.8 : North Indian, South Indian, Fast Food, Desserts, Beverages : ₹1,800 for two :  Race Course, Coimbatore
+Grub Monkeys : 3.8 : American, Fast Food, Burger, Sandwich, Salad, Shake, Juices, Cafe : ₹300 for two :  RS Puram, Coimbatore
+Nahdi Kuzhimandi : - : Mandi, Arabian : ₹500 for two :  Ukkadam, Coimbatore
+Hotel Cheap and Best : 4.0 : Biryani, South Indian, North Indian, Kerala : ₹300 for two :  Town Hall, Coimbatore
+Cafe Totaram : 3.9 : Fast Food, Beverages, Desserts, Shake : ₹600 for two :  Race Course, Coimbatore
+On The Go : 4.3 : North Indian, Italian, Biryani, Desserts, Beverages : ₹1,500 for two :  Race Course, Coimbatore
+That's Y Food : 4.3 : North Indian, Biryani, Italian, Mughlai, Desserts, Beverages : ₹1,400 for two :  RS Puram, Coimbatore
+Burger Man : 3.9 : Burger, Sandwich, Pizza, Shake, Beverages : ₹500 for two :  RS Puram, Coimbatore
+Eat Italiano : 4.1 : Italian, Mexican, Desserts : ₹1,000 for two :  RS Puram, Coimbatore
+Chillum Cafe : 4.2 : Beverages, Fast Food, Shake, Sichuan : ₹500 for two :  Kalapatti, Coimbatore
+Pavilion - The Residency Hotel : 4.4 : South Indian, North Indian, Continental, Fast Food, Beverages : ₹2,000 for two :  The Residency Hotel, Avinashi Road, Coimbatore
+Nagerkovil Arya Bhavan : 2.8 : South Indian, North Indian, Chinese, Chettinad, Beverages : ₹400 for two :  Peelamedu, Coimbatore
+The Afghan Grill - The Residency Hotel : 4.2 : North Indian, Salad, Mughlai, Seafood, Desserts : ₹2,000 for two :  The Residency Hotel, Avinashi Road, Coimbatore
+Hush Bar - Radisson Blu : 4.3 : Finger Food, Bar Food, North Indian : ₹1,500 for two :  Radisson Blu, Peelamedu, Coimbatore
+Bistro & Co : 3.9 : Pizza, Burger, Sandwich, Beverages : ₹350 for two :  Ramanathapuram, Coimbatore
+Cream Centre : 4.4 : North Indian, Chinese, Italian, Mexican, Desserts, Shake, Beverages : ₹1,000 for two :  Race Course, Coimbatore
+Quadro Bae : 3.9 : Pizza, Pasta, Italian, Sandwich, Shake, Beverages : ₹1,000 for two :  RS Puram, Coimbatore
+Suchow Chinese Restaurant : 4.2 : Chinese, Seafood, Sichuan, Rolls : ₹300 for two :  Ganapathy, Coimbatore
+Radio Room : New : South Indian, Shake : ₹2,000 for two :  Sitra, Coimbatore
+Tempt Asian- Park Elanza : 3.9 : Chinese, North Indian, Italian, Continental, Fast Food, Beverages : ₹1,200 for two :  Gandhipuram, Coimbatore
+Hotel Penguin : 4.2 : South Indian, Chinese, Mughlai : ₹250 for two :  Peelamedu, Coimbatore
+Chettinad Canteen : 4.0 : Chettinad, South Indian, Desserts : ₹1,000 for two :  Saibaba Colony, Coimbatore
+Delhiwala Sweet Home Since 1988 : 4.3 : North Indian, Street Food, Mithai, Desserts : ₹400 for two :  Gandhipuram, Coimbatore
+Rayappas Chicken Street : 2.6 : Biryani, South Indian, Seafood, Chinese, Sichuan : ₹800 for two :  Peelamedu, Coimbatore
+Night Lion By Madhampatty Pakashala : 2.8 : South Indian : ₹100 for two :  Peelamedu, Coimbatore
+Sree Subbu Mess : 4.1 : South Indian, North Indian, Chinese, Mughlai : ₹350 for two :  Gandhipuram, Coimbatore
+D.R Biriyani Sivaji Kadai : - : Biryani, Mughlai, South Indian, Chinese, Street Food : ₹400 for two :  Podanur, Coimbatore
+Shaws  Cafe : 3.9 : Italian, Chinese, Biryani, Fast Food, Desserts, Shake, Beverages, Continental : ₹450 for two :  Saibaba Colony, Coimbatore
+Cahyo - Garden Cafe : 3.4 : Asian, Chinese, Italian, Fast Food, North Indian, Desserts, Coffee, Beverages : ₹1,100 for two :  RS Puram, Coimbatore
+Salem RR Biryani : - : Biryani, South Indian, Seafood, North Indian, Chinese, Kebab, Street Food, Beverages : ₹450 for two :  Gandhipuram, Coimbatore
+Four Cups Fusion Veg Dining : 4.0 : North Indian, Chinese, South Indian, Shake, Sichuan : ₹700 for two :  RS Puram, Coimbatore
+U Turn Bistro : 3.9 : Mexican, Italian, Continental, Salad, Burger, Pizza, Beverages, Steak : ₹1,000 for two :  Saibaba Colony, Coimbatore
+Latest Recipe - Le Meridien : 4.1 : Oriental, Continental, Finger Food, Beverages : ₹1,000 for two :  Le Meridien, Neelambur, Coimbatore
+Spice It - ibis Coimbatore City Centre : 4.2 : Continental, Healthy Food, North Indian, Fast Food, Finger Food, Beverages, Desserts : ₹1,000 for two :  Ibis Lakshmi Mills, Coimbatore
+Kailash Parbat : 4.0 : North Indian, Chinese, Mexican, South Indian, Street Food, Asian, Beverages, Sichuan : ₹400 for two :  Brookefields Mall, RS Puram, Coimbatore
+Spiceclub Fusion Restaurant : 3.3 : Continental, Asian, North Indian, Chinese, Pasta, Desserts : ₹1,000 for two :  Nehru Stadium, Coimbatore
+Red Door : 4.0 : Fast Food, Beverages, Waffle, Shake, Pizza, Burger, Pasta, Rolls : ₹400 for two :  Race Course, Coimbatore
+Ravuthar Biriyani Hotel : 4.1 : Biryani, Chinese : ₹400 for two :  Thudiyalur, Coimbatore
+Taco Bell : 3.9 : Mexican, Fast Food, Wraps, Beverages : ₹550 for two :  Prozone Mall, Ganapathy, Coimbatore
+Beatles Cafe : 4.4 : Cafe, Continental, Pasta, Fast Food, Beverages, Desserts : ₹600 for two :  Saravanampatty, Coimbatore
+Annalakshmi : 4.3 : South Indian, North Indian, Chinese, Salad, Chettinad, Desserts, Ice Cream, Beverages : ₹1,000 for two :  Race Course, Coimbatore
+Favola - Le Meridien : 4.9 : Italian : ₹2,000 for two :  Le Meridien, Neelambur, Coimbatore
+VAP Club : 3.5 : South Indian, North Indian, Shawarma, Chinese, Ice Cream, Shake, Beverages : ₹1,200 for two :  Lakshmi Mills, Coimbatore
+Karaikudi Sri Priya Mess : - : South Indian, Biryani : ₹500 for two :  Sivanadha Colony, Coimbatore
+The Dhonnai Biriyani House : 4.4 : Biryani, Mughlai : ₹400 for two :  Peelamedu, Coimbatore
+Halab - Taste Of Heavens : - : South Indian, Arabian, North Indian, Biryani, Seafood, Chinese, Shake, Beverages : ₹600 for two :  RS Puram, Coimbatore
+Yari : 4.5 : North Indian, Chinese, Street Food, Fast Food, Desserts, Beverages : ₹800 for two :  Saibaba Colony, Coimbatore
+All Rise A Unit Of Cafe Totaram : New : Continental, Tea, Coffee, Asian, South Indian : ₹600 for two :  Race Course, Coimbatore
+Persian Qureshi Mandi : - : Mandi : ₹500 for two :  Town Hall, Coimbatore
+KP Restaurant : - : North Indian, Mughlai, South Indian, Seafood, Chinese, Sichuan, Biryani, Street Food : ₹300 for two :  Kalapatti, Coimbatore
+City Fried Chicken : 4.1 : Fast Food : ₹500 for two :  Gandhipuram, Coimbatore
+Annam Iyarkai Unavagam : 3.9 : South Indian, Beverages : ₹200 for two :  Saibaba Colony, Coimbatore
+C4C - Come 4 Coffee : - : Coffee, Tea, Beverages, Chinese, Sichuan, Street Food : ₹200 for two :  Saravanampatty, Coimbatore
+Abitha Biriyani Hotel : 4.2 : Biryani, South Indian, Chinese, Mughlai, Street Food : ₹300 for two :  Ukkadam, Coimbatore
+Latitude - Vivanta Coimbatore : 4.1 : South Indian, North Indian, Continental, Beverages, Desserts : ₹2,300 for two :  Vivanta Coimbatore, Race Course, Coimbatore
+EatAlley Cafe : 3.8 : Italian, Pizza, Fast Food, Street Food, Beverages, Cafe, Juices, Ice Cream : ₹500 for two :  Saibaba Colony, Coimbatore
+Rolling Dough Cafe : 4.2 : North Indian, Continental, Italian, Fast Food, Mughlai, Biryani, Desserts, Beverages : ₹1,000 for two :  Sitra, Coimbatore
+Bhavana Restaurant : 3.6 : South Indian, Biryani : ₹400 for two :  Ondipudur, Coimbatore
+The Cotton Bar - ITC Hotels : 4.3 : Finger Food : ₹1,500 for two :  Race Course, Coimbatore
+Mama's Biriyani : - : Biryani, Chinese : ₹200 for two :  RS Puram, Coimbatore
+Haribhavanam : 4.2 : Chettinad, Chinese, North Indian, South Indian, Seafood, Biryani, Desserts, Beverages : ₹500 for two :  Peelamedu, Coimbatore
+Planet Barbeque - #6 Hotels : 3.5 : North Indian, South Indian, Chinese, Continental, Sichuan : ₹600 for two :  Saibaba Colony, Coimbatore
+The Cascade Restaurant : 4.2 : Chinese : ₹1,200 for two :  Peelamedu, Coimbatore
+Chickpet Donne Biryani House : 3.9 : Biryani, South Indian, Andhra, Chinese : ₹400 for two :  RS Puram, Coimbatore
+Agarwal Sweet Palace : 4.0 : Mithai, Street Food, Fast Food : ₹300 for two :  RS Puram, Coimbatore
+La Cafe : 4.2 : Cafe, Fast Food, Beverages : ₹400 for two :  RS Puram, Coimbatore
+Pizza Hut : 3.8 : Pizza, Pasta, Fast Food, Desserts, Shake, Beverages : ₹800 for two :  Thudiyalur, Coimbatore
+Frozen Bottle - Milkshakes, Desserts And Ice Cream : 3.7 : Shake, Beverages, Desserts, Ice Cream, Waffle, Healthy Food : ₹300 for two :  RS Puram, Coimbatore
+Global Barbeque : 4.1 : North Indian, Mughlai, Mexican, Chinese, Beverages : ₹1,200 for two :  Vijay Elanza Central, Peelamedu, Coimbatore
+Sree Annapoorna Sree Gowrishankar : 4.5 : South Indian, Chinese, North Indian, Beverages : ₹300 for two :  Peelamedu, Coimbatore
+Balle Balle : 4.3 : Chinese, North Indian, Kebab, Seafood, Mughlai, Biryani, Desserts, Beverages : ₹1,000 for two :  Saibaba Colony, Coimbatore
+Cheap And Best Biriyani : - : Biryani : ₹200 for two :  Podanur, Coimbatore
+CFC Restaurant : 3.4 : Fast Food, Burger, Chinese, North Indian, Arabian, Seafood, Biryani : ₹400 for two :  Kalapatti, Coimbatore
+Ponnusaamy Elite : 3.3 : South Indian, Biryani, Chinese, Chettinad : ₹700 for two :  Brookefields Mall, RS Puram, Coimbatore
+FB Cakes : - : Bakery : ₹400 for two :  Thudiyalur, Coimbatore
+Subway : 4.2 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Ramanathapuram, Coimbatore
+Khalids Biriyani : - : Biryani, Chinese, Arabian, Roast Chicken, Chettinad, South Indian, North Indian, Seafood : ₹1,000 for two :  Saibaba Colony, Coimbatore
+Latitude 11 - Le Meridien : 4.1 : Finger Food : ₹2,200 for two :  Le Meridien, Neelambur, Coimbatore
+Dindigul Thalappakatti : 4.0 : Biryani, North Indian, South Indian, Seafood, Chinese, Fast Food, Desserts, Shake : ₹1,000 for two :  Gandhipuram, Coimbatore
+Peacock - Le Meridien : 4.1 : North Indian, South Indian, Desserts, Beverages : ₹2,300 for two :  Le Meridien, Neelambur, Coimbatore
+Shree Anandhaas : 4.5 : South Indian, North Indian, Chinese, Beverages, Sichuan, Fast Food : ₹600 for two :  Vadavalli, Coimbatore
+Func - #6 Hotels : 4.7 : North Indian, South Indian, Chinese : ₹1,500 for two :  Saibaba Colony, Coimbatore
+Akshaya Patra Family Restaurant : - : Chinese, North Indian, Biryani, Mughlai, Seafood, Sichuan : ₹1,000 for two :  Podanur, Coimbatore
+Selvam Chettinad Mess : 3.9 : Chettinad, South Indian, Biryani, Chinese : ₹200 for two :  Peelamedu, Coimbatore
+Boomerang : 4.3 : Desserts, Ice Cream, Beverages : ₹300 for two :  Nehru Stadium, Coimbatore
+Interval Cafe : 3.9 : Pizza, Burger, Juices : ₹350 for two :  Periyanaikanpalayam, Coimbatore
+The Baking Society : - : Bakery : ₹200 for two :  Saravanampatty, Coimbatore
+Apsara Kerala Mess : - : Biryani : ₹200 for two :  Sitra, Coimbatore
+Hotel Chola : 3.8 : South Indian, North Indian : ₹200 for two :  RS Puram, Coimbatore
+Café CakeBee : 4.6 : Italian, Fast Food, Healthy Food, Desserts, Beverages, Pasta, Shake : ₹1,000 for two :  Saibaba Colony, Coimbatore
+Neydhal The Coast : 4.2 : South Indian, Seafood : ₹500 for two :   Hotel Gowtham, Peelamedu, Coimbatore
+Treat : 4.3 : North Indian, South Indian, Chinese, Fast Food, Beverages, Shake, Sichuan, Continental : ₹1,400 for two :  Gandhipuram, Coimbatore
+Boxed By Butterquenelle : 3.5 : Italian, Burger, Sandwich, Fast Food, Continental, Desserts, Beverages : ₹1,000 for two :  Sitra, Coimbatore
+Woow Biriyani : 4.1 : South Indian, Biryani : ₹250 for two :  Prozone Mall, Ganapathy, Coimbatore
+Karthik Mess : - : South Indian, Chinese : ₹200 for two :  Vadavalli, Coimbatore
+N.S.R. Bakery : 3.5 : Bakery, Fast Food : ₹150 for two :  Vadavalli, Coimbatore
+Oyalo Pizza : 3.3 : Pizza, Fast Food, Desserts : ₹300 for two :  Podanur, Coimbatore
+JBS Cloud Kitchen : - : North Indian, Seafood, Mughlai, Chinese, Biryani, Kebab, Arabian : ₹500 for two :  Thudiyalur, Coimbatore
+Ponzu - Le Meridien : 4.0 : Thai, Japanese, Desserts : ₹1,750 for two :  Le Meridien, Neelambur, Coimbatore
+PRK Icecream Store : 3.5 : Ice Cream, Shake : ₹150 for two :  Sivanadha Colony, Coimbatore
+Kowloon : 4.4 : Chinese, Rolls, Seafood : ₹400 for two :  Saibaba Colony, Coimbatore
+Nanjai Virundhu : 3.9 : South Indian, Tamil : ₹1,100 for two :  Ramanathapuram, Coimbatore
+Slounge - Lemon Tree Hotel : 4.4 : Fast Food, Finger Food, Andhra, Beverages : ₹1,500 for two :  Lemon Tree, Kalapatti, Coimbatore
+Waffle Dreams : 3.5 : Desserts, Waffle, Sandwich, Fast Food, Shake, Beverages : ₹300 for two :  Saravanampatty, Coimbatore
+Kaanchan Kitchen's : 3.9 : North Indian, Street Food, Desserts : ₹400 for two :  RS Puram, Coimbatore
+Bazaar - Zone By The Park : 3.8 : Cafe, North Indian, Chinese, Italian, Continental, American, Thai, South Indian : ₹1,300 for two :  Zone By The Park, Coimbatore
+Ramba Resto Bar : 4.5 : Bar Food, Chinese, Biryani : ₹1,200 for two :  Town Hall, Coimbatore
+Darza Resorts : - : South Indian : ₹1,000 for two :  Thudiyalur, Coimbatore
+007 Punjabi Dhaba : 4.2 : North Indian, South Indian, Mughlai, Shawarma, Chinese, Thai, Desserts, Beverages : ₹1,000 for two :  Ukkadam, Coimbatore
+7th Cross Cafe : New : South Indian, Fast Food, Pasta, Juices, Shake, Beverages : ₹300 for two :  Saibaba Colony, Coimbatore
+MK Madurai Bun Parotta : - : South Indian, Chinese, Sichuan : ₹450 for two :  Podanur, Coimbatore
+Van Dough Cafe & Pizzeria : - : Cafe, Coffee, Pizza, Thai, Fast Food, Beverages : ₹1,200 for two :  Peelamedu, Coimbatore
+Spice Club : - : South Indian, Chinese : ₹1,000 for two :  Nehru Stadium, Coimbatore
+Tapriwala - The Contemporary Tea Cafe : 4.1 : Sandwich, Fast Food, Street Food, Shake, Tea, Beverages : ₹450 for two :  Saibaba Colony, Coimbatore
+Dumont Creamery : - : Ice Cream, Desserts : ₹200 for two :  Saibaba Colony, Coimbatore
+Ammayi Veedu Pot Cook : - : South Indian, Biryani, Fast Food : ₹350 for two :  Saravanampatty, Coimbatore
+Shree Anandhaas : 3.4 : South Indian : ₹300 for two :  Brookefields Mall, RS Puram, Coimbatore
+LMN Hajiyaar Biriyani Hotel : 3.7 : Biryani, Kerala, North Indian, Chinese, Street Food : ₹400 for two :  Ukkadam, Coimbatore
+HMR - Biriyani Hut : 4.0 : Biryani, South Indian, North Indian, Seafood, Mughlai : ₹350 for two :  Ramanathapuram, Coimbatore
+Cafe Quilon : 3.6 : South Indian, North Indian, Mughlai, Biryani, Chinese, Ice Cream, Desserts : ₹450 for two :  Lakshmi Mills, Coimbatore
+Valsi Restaurant : New : South Indian, Chettinad, Seafood, North Indian, Biryani, Chinese : ₹1,000 for two :  RS Puram, Coimbatore
+Dosa Stories : - : South Indian : ₹300 for two :  Saibaba Colony, Coimbatore
+Citrus Café - Lemon Tree Hotel : 4.4 : North Indian, South Indian, American, Chinese, Italian, Fast Food : ₹1,500 for two :  Lemon Tree, Kalapatti, Coimbatore
+Bow Bow Bliss- A Pet-Themed Restaurant And Cafe : 3.3 : South Indian, North Indian, Chinese, Seafood, Desserts, Shake, Juices, Beverages : ₹400 for two :  Kalapatti, Coimbatore
+Kitchen By Cardiff Cafe : 3.7 : Cafe, Coffee, BBQ, Italian, Fast Food, Momos, Shake, Beverages : ₹500 for two :  Ondipudur, Coimbatore
+Burma Bhai Hotel : 4.0 : South Indian, North Indian, Chinese, Shawarma, Biryani : ₹350 for two :  RS Puram, Coimbatore
+Aryen Biriyani : 3.9 : North Indian, Mughlai, Seafood, Biryani, Chinese : ₹1,000 for two :  Ganapathy, Coimbatore
+The Mock De Hub Cafe : - : Sandwich, Burger, Wraps, Fast Food, Desserts, Shake, Beverages : ₹350 for two :  RS Puram, Coimbatore
+Ambur Star Briyani : 4.2 : Biryani, Chinese, North Indian, Seafood : ₹600 for two :  RS Puram, Coimbatore
+D.R. Biriyani : 4.2 : Biryani, South Indian, Andhra, Mughlai, Street Food : ₹400 for two :  RS Puram, Coimbatore
+Hotel Kannappa : 4.1 : South Indian, North Indian, Mughlai, Biryani, Chettinad, Arabian, BBQ, Chinese : ₹1,000 for two :  Sitra, Coimbatore
+A2A Restaurant : - : South Indian, North Indian, Chinese, Sichuan, Seafood, Biryani, Fast Food, Desserts : ₹1,000 for two :  Lakshmi Mills, Coimbatore
+Geetha Canteen : 4.3 : South Indian, Chinese : ₹250 for two :  Gandhipuram, Coimbatore
+Hotel Ponnusamy Elite : - : Biryani, South Indian : ₹650 for two :  Vadavalli, Coimbatore
+Sree Annapoorna Sree Gowrishankar : 4.3 : South Indian, Chinese, North Indian, Desserts, Beverages : ₹400 for two :  Gandhipuram, Coimbatore
+Manthrra Cafe : - : Chettinad, Sandwich, Street Food, Desserts, Tea, Shake, Beverages : ₹300 for two :  Vadavalli, Coimbatore
+Ruchi Mess : - : South Indian, Chinese : ₹200 for two :  Peelamedu, Coimbatore
+Nellai Karupatti Coffee : - : South Indian, Street Food : ₹150 for two :  Saravanampatty, Coimbatore
+Thalassery Restaurant : 3.5 : South Indian, Chinese, North Indian, Arabian, Kerala, Shake, Juices : ₹700 for two :  Ukkadam, Coimbatore
+Tea Bro's : - : Cafe, Coffee, Tea, Shake, Fast Food, Momos, Sandwich, Wraps : ₹250 for two :  Kavundampalayam, Coimbatore
+NSK Biryani : - : Biryani : ₹300 for two :  Podanur, Coimbatore
+Arafa Jas Biryani : - : Biryani : ₹200 for two :  Ondipudur, Coimbatore
+Tea Bro's By Dominic's Cafe : - : Momos, Sandwich, Beverages, Wraps, Fast Food : ₹250 for two :  Kavundampalayam, Coimbatore
+Britain To Bombay 1800 : New : Sandwich, Fast Food : ₹500 for two :  RS Puram, Coimbatore
+Bhavana Hotel : - : South Indian, Biryani : ₹300 for two :  Ondipudur, Coimbatore
+Street Arabiya : 3.8 : Kebab, Mughlai, Fast Food, Pizza, Beverages, Burger, Rolls, Desserts : ₹400 for two :  Saibaba Colony, Coimbatore
+The French Door Cafe & Restaurant : 4.5 : Continental, North Indian, French, Beverages, Desserts, Shake, Pizza : ₹1,500 for two :  RS Puram, Coimbatore
+Cafe Blanca - Park Elanza : 3.9 : Cafe, Sandwich, Bakery, Desserts : ₹1,000 for two :  Gandhipuram, Coimbatore
+Cock Ra Co : 4.2 : Chinese, North Indian, South Indian, Seafood, Lebanese, Biryani, Sichuan, BBQ : ₹450 for two :  RS Puram, Coimbatore
+RK Kitchens : New : South Indian, Chinese : ₹150 for two :  Sivanadha Colony, Coimbatore
+Hotel Junior Kuppanna : 4.4 : South Indian, Biryani, North Indian, Chinese, Desserts, Beverages : ₹700 for two :  Gandhipuram, Coimbatore
+Hippies Arabian Kitchen : New : Arabian, Rolls, Shawarma : ₹300 for two :  RS Puram, Coimbatore
+Dindigul Venu Biryani : 4.2 : Biryani, South Indian, North Indian, Chinese, Mughlai, Street Food : ₹500 for two :  Gandhipuram, Coimbatore
+Dil Se : 3.5 : North Indian, Chinese, Fast Food, Continental, Italian, Street Food, Biryani, Desserts : ₹1,000 for two :  RS Puram, Coimbatore
+Dappaakaarar's Momos Factory : - : Momos : ₹100 for two :  RS Puram, Coimbatore
+B S Hotel : - : South Indian : ₹200 for two :  Gandhipuram, Coimbatore
+Food Court Ganapathy : New : South Indian, Chinese : ₹300 for two :  Ganapathy, Coimbatore
+The Bay Grill : 3.0 : Chinese, Biryani, South Indian, Chettinad, Sichuan, Seafood, Kebab : ₹400 for two :  Podanur, Coimbatore
+Covai  Anganan Biriyani House : 3.9 : Chettinad, Biryani, South Indian, Mughlai : ₹300 for two :  RS Puram, Coimbatore
+Kalakki Unavagam : 3.3 : South Indian, Chinese, North Indian : ₹400 for two :  Peelamedu, Coimbatore
+Hattan : 2.4 : North Indian, South Indian : ₹350 for two :  Race Course, Coimbatore
+Zero Degrees - Gokulam Park : 4.4 : Finger Food, Bar Food : ₹1,500 for two :  Gokulam Park, Avinashi Road, Coimbatore
+Green Leaf Restaurant : 4.0 : North Indian, Chinese, South Indian, Arabian, Sichuan : ₹800 for two :  Kalapatti, Coimbatore
+Hangout : 3.8 : Arabian, BBQ, Chinese, Biryani, Seafood, North Indian, Desserts, Beverages : ₹400 for two :  Saibaba Colony, Coimbatore
+Kanakathara : 3.3 : Chettinad, South Indian, Biryani, Seafood, Chinese, Sichuan, Desserts, Beverages : ₹1,000 for two :  Ganapathy, Coimbatore
+SRKP Chettinad Mess : 4.2 : South Indian, Chinese, Biryani, North Indian, Sichuan : ₹350 for two :  Peelamedu, Coimbatore
+The Punjab Express : 3.9 : North Indian, Biryani, Beverages : ₹500 for two :  RS Puram, Coimbatore
+Sweet Smith : - : Ice Cream, Desserts, Shake : ₹200 for two :  Race Course, Coimbatore
+Hidden Fork : 4.2 : Burger, Sandwich, Fast Food, Pizza, Beverages, Shake : ₹400 for two :  Peelamedu, Coimbatore
+Domino's Pizza : 3.6 : Pizza, American, Pasta, Fast Food, Desserts : ₹500 for two :  Peelamedu, Coimbatore
+Cafe Retroo : - : Sandwich, Burger, Wraps, Pasta, Chinese, Momos, Desserts, Shake : ₹300 for two :  Saibaba Colony, Coimbatore
+Biggies Burger : 4.1 : Burger, Wraps, Fast Food, Desserts, Shake, Beverages : ₹300 for two :  Peelamedu, Coimbatore
+The Fruit Bowl Co : 3.5 : Ice Cream, Desserts, Juices, Beverages, Healthy Food, Shake, Salad : ₹400 for two :  Ramanathapuram, Coimbatore
+Meat and Eat : 3.8 : Burger, Fast Food, Wraps, Beverages : ₹400 for two :  Saravanampatty, Coimbatore
+HMR Restaurant : 3.6 : Biryani, South Indian, Chinese, Arabian, Ice Cream, Beverages, Sichuan : ₹400 for two :  Podanur, Coimbatore
+Salem RR Briyani : - : Biryani, North Indian : ₹1,000 for two :  Peelamedu, Coimbatore
+The UAE - Uptown Arab Eatery : 3.2 : Arabian : ₹500 for two :  Sitra, Coimbatore
+24x7 Bytes- Gokulam Park : 4.1 : North Indian, Continental, South Indian, Chinese, Pasta, Desserts, Beverages, Fast Food : ₹2,000 for two :  Gokulam Park, Avinashi Road, Coimbatore
+Le Hive Lounge & Kitchen at The Acacia Park : - : North Indian, Chinese, Pizza, Continental, Mexican, South Indian : ₹1,000 for two :  Saravanampatty, Coimbatore
+Famous Biryani House : 4.6 : Biryani : ₹400 for two :  Gandhipuram, Coimbatore
+Boomer's Gaming Cafe : - : Sandwich, Pasta, Burger, Beverages, Fast Food, Desserts, Shake : ₹500 for two :  Lakshmi Mills, Coimbatore
+Seasons : 3.9 : Beverages, Salad, Fast Food, North Indian, Pasta, Desserts : ₹400 for two :  RS Puram, Coimbatore
+Kadhambam : 4.0 : South Indian, Chinese, North Indian, Biryani, Mughlai, Chettinad, Desserts : ₹400 for two :  Gandhipuram, Coimbatore
+Infusions - Chocolate Redefined : 4.8 : Desserts, Italian, Shake, Beverages : ₹500 for two :  Gandhipuram, Coimbatore
+High For This : 3.7 : Beverages, Fast Food, Shake : ₹500 for two :  Peelamedu, Coimbatore
+The Chocolate Room : 2.7 : Italian, Fast Food, Desserts, Ice Cream, Beverages : ₹500 for two :  Race Course, Coimbatore
+A1 Biryani : - : Biryani : ₹200 for two :  Saibaba Colony, Coimbatore
+Shree Aksshayam : 4.3 : South Indian, Chinese, North Indian, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Peelamedu, Coimbatore
+All Seasons Vegetarian Delecacies : 3.7 : South Indian, North Indian, Chinese, Biryani, Sichuan : ₹300 for two :  Saibaba Colony, Coimbatore
+Burger Tree : - : Burger, Sandwich, Fast Food, Desserts, Shake, Beverages : ₹400 for two :  Race Course, Coimbatore
+Z Bar : 4.1 : Finger Food, Fast Food, Pizza : ₹1,500 for two :  Zone By The Park, Coimbatore
+Taj Hotel : 3.8 : Biryani, South Indian, Fast Food, Chinese, Kebab : ₹300 for two :  Ukkadam, Coimbatore
+Cafe Le Seine : - : Cafe, Coffee, Sandwich, Burger, Fast Food, Wraps, Shake, Waffle : ₹500 for two :  Peelamedu, Coimbatore
+Dine In Restaurant : 3.4 : North Indian, Mughlai, Chinese, South Indian, Arabian, Juices, Grilled Chicken, Biryani : ₹400 for two :  Vadavalli, Coimbatore
+Hotel Maa : 3.8 : South Indian, Beverages : ₹300 for two :  Race Course, Coimbatore
+Peking : 4.0 : Chinese, Fast Food, Seafood, Sichuan, Salad : ₹1,000 for two :  RS Puram, Coimbatore
+Burger King : 4.0 : Burger, Fast Food, Ice Cream, Shake, Beverages : ₹350 for two :  Brookefields Mall, RS Puram, Coimbatore
+Red Door Cafe - The Game Hub : 4.0 : American, Italian, Fast Food, Beverages, Desserts, Wraps, Sandwich, Burger : ₹500 for two :  Saibaba Colony, Coimbatore
+Bread Korner : 4.8 : Fast Food, Shake, Chinese, Burger, Pizza, Sandwich, Grilled Chicken, Shawarma : ₹500 for two :  Saibaba Colony, Coimbatore
+Malabar Restaurant : 3.0 : Kerala, South Indian, Chinese, Seafood, Biryani, Ice Cream, Shake, Beverages : ₹500 for two :  Gandhipuram, Coimbatore
+The Parries Hotel : 3.8 : South Indian, Chinese : ₹450 for two :  Nehru Stadium, Coimbatore
+Fully Biryani : 4.0 : Biryani, South Indian : ₹200 for two :  Sivanadha Colony, Coimbatore
+Sri Krishna Hotel : 4.0 : Mithai, Street Food, Beverages : ₹300 for two :  Thudiyalur, Coimbatore
+Zucca Pizzeria : 3.9 : Pizza, Fast Food, Pasta, Shake, Desserts, Beverages : ₹750 for two :  Peelamedu, Coimbatore
+Hotel Sri Surya : 3.9 : North Indian, South Indian, Seafood, Biryani, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Ramanathapuram, Coimbatore
+Hyderabad Biryani : 3.7 : Biryani, South Indian, Chinese, Seafood, Street Food, Chettinad : ₹400 for two :  Gandhipuram, Coimbatore
+Aasife Biriyani : 4.1 : Biryani, South Indian, North Indian, Chettinad, Arabian, Chinese, Desserts, Beverages : ₹1,000 for two :  Saravanampatty, Coimbatore
+Kovai Angatha Briyani : 3.3 : South Indian, Mughlai, Chinese, Biryani : ₹450 for two :  Saibaba Colony, Coimbatore
+Jumpin Bean's : 3.9 : Pizza, Burger, Sandwich, Fast Food, Desserts, Beverages : ₹500 for two :  RS Puram, Coimbatore
+Shahi Grill : 4.0 : Arabian, North Indian, Chinese, Seafood, Shawarma, Biryani, Sichuan : ₹500 for two :  Peelamedu, Coimbatore
+Caramel Bakes : 3.8 : Bakery, Fast Food, Beverages : ₹200 for two :  Peelamedu, Coimbatore
+RHR Restaurant : 4.4 : South Indian, North Indian, Chinese : ₹300 for two :  Singanallur, Coimbatore
+Tiffin House : 4.0 : South Indian : ₹150 for two :  Town Hall, Coimbatore
+Denmarrk Drive-Inn Restaurant : 4.1 : South Indian, Chinese, Seafood, Grilled Chicken, Biryani, Tamil, North Indian, Shawarma : ₹400 for two :  Nehru Stadium, Coimbatore
+Cheap and Best Chettinadu Hotel : 3.3 : South Indian, Chinese : ₹350 for two :  Ukkadam, Coimbatore
+MI - Pizza : 3.9 : Pizza, Italian, Shake : ₹300 for two :  Saravanampatty, Coimbatore
+CakeBee : 4.8 : Bakery : ₹300 for two :  Saibaba Colony, Coimbatore
+MSR Biriyani Hotel : 4.0 : Biryani, North Indian, Chettinad, Chinese, BBQ, Kebab : ₹400 for two :  Podanur, Coimbatore
+Bangalore Juicy & Foods : - : Juices, Shake, Ice Cream, Beverages, Rolls : ₹200 for two :  Race Course, Coimbatore
+Achi Mess : 4.0 : South Indian, North Indian : ₹200 for two :  Gandhipuram, Coimbatore
+Thirupathi Mess : 4.2 : South Indian, Chinese, North Indian : ₹200 for two :  Ramanathapuram, Coimbatore
+Asiatique : 4.2 : Asian, North Indian, Chinese, Japanese, Desserts, Beverages : ₹1,200 for two :  Chinniayam palayam, Coimbatore
+Aasife & Brothers Biriyani Centre : 3.0 : Biryani, Chettinad, North Indian, BBQ, Grilled Chicken, Kebab : ₹1,000 for two :  Ondipudur, Coimbatore
+Green Tree Restaurant : 3.9 : North Indian, Chinese, Seafood, Biryani, Sichuan : ₹500 for two :  Saravanampatty, Coimbatore
+Cafe Tantos : - : Fast Food, Wraps, Burger, Street Food, Momos, Desserts, Shake, Beverages : ₹350 for two :  RS Puram, Coimbatore
+Vintage Home : 3.1 : Biryani, Chinese, South Indian, Shake : ₹350 for two :  Periyanaikanpalayam, Coimbatore
+The London Shakes : 3.8 : Beverages, Fast Food, Sandwich, Shake : ₹300 for two :  Saibaba Colony, Coimbatore
+7th Heaven Cake : 3.7 : Bakery : ₹300 for two :  Saravanampatty, Coimbatore
+Jonah's : 3.0 : Continental : ₹800 for two :  RS Puram, Coimbatore
+THAMBI ANNAN'S BIRIYANI HOTEL : 3.1 : Biryani, South Indian, Chinese, Tamil, Ice Cream : ₹450 for two :  Peelamedu, Coimbatore
+A2B - Adyar Ananda Bhavan : 3.9 : South Indian, North Indian, Mithai, Sandwich, Chinese, Fast Food, Desserts, Street Food : ₹300 for two :  Gandhipuram, Coimbatore
+Sree Anandhaas : 3.9 : South Indian, North Indian, Chinese : ₹300 for two :  Gandhipuram, Coimbatore
+Santhi Social Services Canteen : 4.7 : South Indian : ₹100 for two :  Singanallur, Coimbatore
+Hotel New Mugals : 4.0 : Chettinad, North Indian, Chinese, Biryani : ₹350 for two :  Town Hall, Coimbatore
+Hotel Junior Kuppanna : 3.7 : Biryani, South Indian, Chettinad : ₹1,000 for two :  Kavundampalayam, Coimbatore
+CTK Restaurants And Bakes : 4.0 : Chinese, North Indian, Chettinad, Kebab, Mughlai, Biryani, Beverages : ₹1,000 for two :  Sitra, Coimbatore
+Big Belly Deli : 4.1 : Fast Food, Sandwich, Desserts, Juices, Shake, Beverages : ₹400 for two :  Saibaba Colony, Coimbatore
+Geetha Hotels : 4.4 : South Indian, Desserts, Healthy Food : ₹250 for two :  Race Course, Coimbatore
+Arun Ice Cream : 3.2 : Ice Cream, Desserts : ₹200 for two :  Race Course, Coimbatore
+NIC Ice Creams : 3.3 : Ice Cream, Desserts, Beverages : ₹350 for two :  Peelamedu, Coimbatore
+Hotel Nalan : 4.5 : South Indian : ₹300 for two :  Ramanathapuram, Coimbatore
+Cafe Summer 96 : 3.9 : Chinese, Asian, Italian, Seafood, Sandwich, Fast Food, Beverages : ₹1,000 for two :  Saibaba Colony, Coimbatore
+Shawarma Hut : 3.9 : Fast Food, North Indian, Kebab : ₹250 for two :  RS Puram, Coimbatore
+Aditi Restaurant : 4.1 : South Indian, North Indian, Chinese, Seafood, Biryani, Mughlai, Desserts, Beverages : ₹500 for two :  Singanallur, Coimbatore
+The Fruit Creamery : 3.9 : Desserts, Ice Cream, Shake : ₹150 for two :  Saibaba Colony, Coimbatore
+Sulthan's Biriyani : 3.6 : Biryani, Arabian, North Indian, Chinese, Street Food : ₹500 for two :  RS Puram, Coimbatore
+Hotel Delhi Dharbarr : 4.1 : South Indian, Chinese, Biryani, Kebab, North Indian, Lebanese, Sichuan : ₹500 for two :  Peelamedu, Coimbatore
+Curry Factory : 4.2 : South Indian, Biryani : ₹400 for two :  Saravanampatty, Coimbatore
+SS Biriyani : - : Biryani, Chettinad : ₹200 for two :  Thudiyalur, Coimbatore
+Ramesh Mess : 4.3 : South Indian : ₹300 for two :  Saibaba Colony, Coimbatore
+Mohabbath Restaurant : 3.8 : Kerala, North Indian, Chinese : ₹450 for two :  Saravanampatty, Coimbatore
+Salem Ravichandran Tiffen House : 4.1 : South Indian : ₹150 for two :  RS Puram, Coimbatore
+Zomibi Pizza : 4.3 : Pizza, Fast Food, Pasta, Shake, Desserts, Beverages : ₹750 for two :  Saravanampatty, Coimbatore
+Pizza Craft : 3.3 : Pizza, Fast Food, Beverages, Shake : ₹400 for two :  Ukkadam, Coimbatore
+House Of Pizzas : 3.9 : Pizza, Fast Food, Beverages : ₹350 for two :  Vadavalli, Coimbatore
+Sri Kandha Villas : 3.9 : South Indian, Fast Food : ₹300 for two :  Peelamedu, Coimbatore
+Falooda Hut : 4.0 : Desserts, Ice Cream, Shake, Beverages : ₹350 for two :  Peelamedu, Coimbatore
+Jonah's Bistro : - : Cafe, Coffee : ₹1,400 for two :  Vadavalli, Coimbatore
+Hotel Sri Amuthaas : 3.9 : South Indian, North Indian, Chinese, Biryani, Juices, Beverages : ₹400 for two :  Periyanaikanpalayam, Coimbatore
+Courtallam Border Rahmath Kadai : 3.4 : South Indian, Biryani : ₹600 for two :  Race Course, Coimbatore
+Hotel Annalakshmi : 4.1 : Chettinad, South Indian, Chinese, North Indian : ₹500 for two :  Race Course, Coimbatore
+ibaco : 4.1 : Desserts : ₹400 for two :  Peelamedu, Coimbatore
+Arun Ice Cream : 3.7 : Ice Cream, Desserts : ₹150 for two :  RS Puram, Coimbatore
+Beef Point : 3.4 : South Indian : ₹300 for two :  Saravanampatty, Coimbatore
+Srree Krishna Hotel : 4.0 : North Indian, Chinese, Biryani, South Indian, Mughlai, Seafood, Sichuan : ₹500 for two :  Vadavalli, Coimbatore
+Burger Ka Baap : 4.5 : Burger, Fast Food, Beverages, Sandwich, Shake, Cafe, Juices, Hot dogs : ₹300 for two :  Peelamedu, Coimbatore
+Green Banana Restaurant : 3.9 : Biryani, Chinese, South Indian, Seafood, North Indian, Sichuan : ₹400 for two :  Saravanampatty, Coimbatore
+Kebabistaan : 3.3 : Biryani, North Indian : ₹500 for two :  Saravanampatty, Coimbatore
+Tara Momos : - : Momos, Chinese, North Indian : ₹350 for two :  RS Puram, Coimbatore
+3 Monkey's Cafe : 3.8 : Burger, Sandwich, Fast Food, Shake, Beverages : ₹500 for two :  Saibaba Colony, Coimbatore
+Merrie Berrie : 3.4 : Fast Food, Rolls, Pizza, Pasta, Bakery, Beverages : ₹350 for two :  Podanur, Coimbatore
+Hotel New Light : 3.8 : North Indian, Chinese, South Indian, Arabian, Lebanese, Sichuan : ₹600 for two :  Ukkadam, Coimbatore
+The Food Bar : 3.9 : Continental, Asian, North Indian, Steak, Salad, Desserts, Beverages : ₹1,000 for two :  Race Course, Coimbatore
+Jonah's Bistro : - : Pizza, Fast Food, Chinese, North Indian, Desserts, Beverages : ₹700 for two :  Kavundampalayam, Coimbatore
+What The Waffle : 3.9 : Desserts, Waffle, Fast Food, Ice Cream, Beverages : ₹350 for two :  Vadavalli, Coimbatore
+Malayala Thanima : 4.0 : Seafood, Kerala : ₹300 for two :  Peelamedu, Coimbatore
+Creamery The Classic Cafe : - : Fast Food, Burger, Desserts, Shake, Beverages : ₹500 for two :  Peelamedu, Coimbatore
+The Village : 4.0 : South Indian, Chinese, Street Food, Tamil, Shake, Beverages : ₹300 for two :  RS Puram, Coimbatore
+The German Cafe : 3.6 : Sandwich, Momos, Pasta, Fast Food, Street Food, Waffle, Ice Cream, Beverages : ₹400 for two :  Sitra, Coimbatore
+Richy Rich : 3.9 : Ice Cream, Desserts, Street Food, Shake : ₹250 for two :  Race Course, Coimbatore
+Fruit Shop On Greams Road : 3.5 : Beverages, Desserts, Sandwich, Shake, Juices : ₹350 for two :  Race Course, Coimbatore
+Kokkarakko Biriyani And Fast Food : 3.6 : South Indian, Chinese, Biryani, North Indian, Sichuan : ₹500 for two :  Periyanaikanpalayam, Coimbatore
+Sri Kamatchi Pattukottai Mess : 3.5 : South Indian, Chettinad, Biryani, Mughlai : ₹1,000 for two :  RS Puram, Coimbatore
+USPFC - US Pizza And Fried Chicken : - : Pizza, Burger, Sandwich, Fast Food, Shake, Beverages : ₹500 for two :  Lakshmi Mills, Coimbatore
+Hyderabad Biriyani : 3.8 : Biryani : ₹300 for two :  Peelamedu, Coimbatore
+Aasife & Brothers Biryani Center : - : Biryani, Chettinad, North Indian, BBQ, Grilled Chicken, Kebab : ₹1,000 for two :  Fun Republic Mall, Avinashi Road, Coimbatore
+Taste Of Malabar : 4.1 : South Indian, Chinese, Kerala, Mughlai, North Indian, Shake, Sichuan : ₹450 for two :  Ukkadam, Coimbatore
+Call For Cake : 4.2 : Bakery, Desserts : ₹400 for two :  Thudiyalur, Coimbatore
+Khan Saheb Grills And Rolls : 3.9 : North Indian, Mughlai, Rolls, Biryani : ₹400 for two :  RS Puram, Coimbatore
+Sri Krishnaa Tiffin Room : 4.5 : South Indian, Beverages : ₹300 for two :  Lakshmi Mills, Coimbatore
+Guru Amuthas : 3.1 : South Indian, North Indian, Chinese : ₹300 for two :  Saravanampatty, Coimbatore
+Fire Pizza : 3.7 : Pizza, Sandwich, Fast Food, Shake, Beverages : ₹500 for two :  Vadavalli, Coimbatore
+Sri Kamalai Cockarackoo : 3.7 : South Indian, Chinese, Biryani : ₹300 for two :  Vadavalli, Coimbatore
+M S Hotel : 3.6 : Biryani, Chinese : ₹300 for two :  Gandhipuram, Coimbatore
+Hotel Annavaasal : 3.8 : South Indian, North Indian, Chinese, Fast Food, Sichuan : ₹500 for two :  Ondipudur, Coimbatore
+Busy Food Biriyani : 3.5 : Biryani, Chinese, South Indian : ₹400 for two :  Ukkadam, Coimbatore
+Sita Paani : 3.7 : North Indian, Mughlai, Chinese, Biryani, Seafood, Desserts, Beverages, Sichuan : ₹600 for two :  Ganapathy, Coimbatore
+Yummy Restaurant : 3.8 : South Indian, Andhra, North Indian, Seafood, Chinese, Street Food, Beverages : ₹400 for two :  Kavundampalayam, Coimbatore
+Krave - The Residency Hotel : 3.2 : Cafe, Coffee, American, Italian, Fast Food, Shake, Beverages : ₹1,000 for two :  The Residency Hotel, Avinashi Road, Coimbatore
+SS Hotel : 4.2 : South Indian, Chettinad, Chinese, Sichuan, Seafood : ₹300 for two :  Gandhipuram, Coimbatore
+Blue Ice : 4.0 : Finger Food, North Indian, Beverages : ₹1,200 for two :  Hotel SBS Grand, Peelamedu, Coimbatore
+Ayyappa's Pearl Veg Restaurant : 4.0 : South Indian, North Indian, Chinese, Desserts : ₹300 for two :  Kavundampalayam, Coimbatore
+The Edition - Library Bar - The Residency Hotel : 4.9 : Finger Food, North Indian, Chinese, Continental, South Indian : ₹1,500 for two :  The Residency Hotel, Avinashi Road, Coimbatore
+#PizzaLove : 3.6 : Pizza, Burger, Sandwich, Fast Food, Beverages : ₹800 for two :  Singanallur, Coimbatore
+Grand Plazza - Dine N Wine Restaurant : 3.5 : North Indian, Chinese, Desserts, Beverages, Sichuan : ₹600 for two :  Race Course, Coimbatore
+Shakes And Burgers : 3.9 : Beverages, Fast Food, Burger, Desserts : ₹300 for two :  Peelamedu, Coimbatore
+7th Heaven Cake Shop : 4.0 : Bakery, Desserts, Fast Food, Italian, American, Waffle, Shake, Beverages : ₹250 for two :  Peelamedu, Coimbatore
+Baker Street Pizza : 2.1 : Pizza, Italian, Shake, Beverages : ₹550 for two :  Peelamedu, Coimbatore
+Sri Krishna Sweets House : 3.8 : Mithai, Desserts : ₹500 for two :  Race Course, Coimbatore
+My Nilaa Soru : 4.0 : North Indian, Chinese, Fast Food, Kebab : ₹400 for two :  Kalapatti, Coimbatore
+Baker Street : 3.7 : Bakery, Cafe, Desserts : ₹700 for two :  Peelamedu, Coimbatore
+Lush The Resto Cafe : New : Cafe, Coffee, Pasta, Burger, Sandwich, Fast Food, Desserts, Shake : ₹850 for two :  Sitra, Coimbatore
+Yugo : 3.8 : Juices, Shake, Beverages, Fast Food, Desserts : ₹300 for two :  Lakshmi Mills, Coimbatore
+Meat And Drink : 3.3 : Lebanese, Chinese, Biryani : ₹300 for two :  Podanur, Coimbatore
+Dood's Bite's : 4.1 : Burger, Sandwich, Italian, Rolls, Fast Food, Street Food, Shake, Beverages : ₹200 for two :  Peelamedu, Coimbatore
+Cardiff Cafe BBQ : 3.2 : BBQ, Wraps, Shawarma, Burger, Fast Food, Beverages : ₹500 for two :  Peelamedu, Coimbatore
+Svarga Residency : 4.0 : South Indian, North Indian, Chinese, Sichuan, Fast Food, Chettinad, Mughlai, Biryani : ₹1,000 for two :  Vadavalli, Coimbatore
+Shree Anandhaas Sweets & Snacks : 3.5 : Mithai, Desserts, Street Food : ₹300 for two :  Vadavalli, Coimbatore
+Rock Stone Ice Cream Factory : 3.7 : Desserts, Ice Cream, Beverages : ₹200 for two :  Peelamedu, Coimbatore
+Pizza Paradize : 4.0 : Pizza, Sandwich, Burger, Fast Food, Shake, Beverages : ₹350 for two :  RS Puram, Coimbatore
+Sharma Punjabi Restaurant : 4.2 : Chinese, North Indian : ₹400 for two :  Peelamedu, Coimbatore
+Akshaya Park Restaurant : 3.9 : North Indian, Arabian, Chinese, South Indian, Beverages, Sichuan : ₹600 for two :  Thudiyalur, Coimbatore
+Selvamani Canteen : 3.9 : South Indian, Biryani : ₹300 for two :  Town Hall, Coimbatore
+Royal Biriyani & Fast Food : 3.8 : Biryani, Chinese, Chettinad, North Indian, Mughlai, Sichuan : ₹400 for two :  Saibaba Colony, Coimbatore
+Idly Virundhu : 4.1 : South Indian : ₹100 for two :  Gandhipuram, Coimbatore
+Chai n Gupshup : 3.3 : Street Food, Fast Food, Sandwich, Beverages : ₹350 for two :  Ramanathapuram, Coimbatore
+Hotel Mubarak Biryani Centre : 3.4 : North Indian, Chinese, Biryani : ₹400 for two :  Podanur, Coimbatore
+ALAM Grilled Wraps : 3.7 : Fast Food, Street Food, Wraps, Sandwich, Burger, BBQ : ₹400 for two :  Ganapathy, Coimbatore
+Popeyes : - : Burger, Fast Food, Biryani, Desserts, Beverages : ₹300 for two :  Prozone Mall, Ganapathy, Coimbatore
+Glacier Park : 3.7 : Ice Cream, Shake, Beverages : ₹250 for two :  Gandhipuram, Coimbatore
+Mom's Chicken : 3.5 : Burger, Sandwich, Wraps, Fast Food, Shawarma, Shake, Beverages : ₹300 for two :  Peelamedu, Coimbatore
+Sita Paani : 3.8 : North Indian : ₹400 for two :  Podanur, Coimbatore
+Sree Annapoorna Sweets & Savouries : 3.7 : Mithai, Desserts, Street Food, Fast Food : ₹300 for two :  Peelamedu, Coimbatore
+Sri Amman Mess : 4.1 : South Indian, Biryani, North Indian, Chinese : ₹300 for two :  Peelamedu, Coimbatore
+Jungle Bar : 4.0 : Finger Food, North Indian, Desserts, Beverages, Fast Food, Shake, Sichuan : ₹1,800 for two :  Race Course, Coimbatore
+Sri Ganapathy Mess : 3.3 : South Indian, Fast Food, Chinese, Sichuan : ₹300 for two :  Peelamedu, Coimbatore
+Mario Cafe : - : Burger, Wraps, Sandwich, Fast Food, Momos, Street Food : ₹400 for two :  Podanur, Coimbatore
+Sivakannan Restaurant : 2.9 : South Indian, North Indian, Chinese, Biryani, Seafood, Sichuan : ₹400 for two :  Chinniayam palayam, Coimbatore
+Sri Krishna Bhavan Restaurant : 4.0 : North Indian, Chinese, Shake : ₹350 for two :  Town Hall, Coimbatore
+Four Seasons Restaurant : 3.0 : Biryani, South Indian, Andhra, Seafood, Chinese : ₹500 for two :  Saravanampatty, Coimbatore
+Amul Ice Cream : 3.1 : Desserts, Ice Cream, Shake, Beverages : ₹300 for two :  Singanallur, Coimbatore
+Palms : 3.5 : North Indian, South Indian, Chinese : ₹800 for two :  Hotel Rathna Residency, Coimbatore
+Noorani Biryani Hotel : 3.9 : Biryani, North Indian : ₹150 for two :  Saibaba Colony, Coimbatore
+Ashok Coconut Sharbad : 3.6 : Beverages, Ice Cream, Desserts, Shake : ₹150 for two :  RS Puram, Coimbatore
+HMA  Ambur Star Biriyani : 3.9 : Biryani : ₹300 for two :  Ganapathy, Coimbatore
+Sri Balaji Arul Jothi : 3.9 : South Indian, Shake : ₹100 for two :  Ramanathapuram, Coimbatore
+Sri Krishna Iyer Mess : 3.9 : South Indian, Desserts : ₹150 for two :  Gandhipuram, Coimbatore
+Aagaaram : 3.9 : North Indian, Chettinad, Biryani, Chinese, Sichuan : ₹400 for two :  Kavundampalayam, Coimbatore
+Sree Ram Mess : 3.9 : South Indian, Chinese, Chettinad, Biryani, Fast Food, Sichuan : ₹350 for two :  Peelamedu, Coimbatore
+Liyaqat : 3.9 : Fast Food, Burger, Wraps, Sandwich, Ice Cream, Shake, Beverages : ₹350 for two :  Ramanathapuram, Coimbatore
+Shree Vigneshwara Sweets & Bakes : 4.1 : Mithai, Street Food, Bakery : ₹300 for two :  Singanallur, Coimbatore
+Exxpress Chicken : 4.0 : North Indian, Chinese, Sichuan : ₹300 for two :  Periyanaikanpalayam, Coimbatore
+Cakes by Chocolates : 3.7 : Bakery, Desserts : ₹200 for two :  Gandhipuram, Coimbatore
+Mojo : - : Pizza, Burger, Fast Food, Beverages, Shake : ₹300 for two :  Periyanaikanpalayam, Coimbatore
+Shanthi Social Services Canteen : 4.4 : South Indian : ₹600 for two :  Singanallur, Coimbatore
+A1 Biryani Hotel : 4.0 : South Indian, Street Food : ₹350 for two :  Vadavalli, Coimbatore
+He Brews Bar : 4.0 : Bar Food, Seafood, Fast Food : ₹800 for two :  Vijay Elanza Central, Peelamedu, Coimbatore
+HSR : 3.7 : North Indian, Chinese, South Indian : ₹300 for two :  Thudiyalur, Coimbatore
+Biriyani Day : 3.1 : Biryani, Chinese : ₹450 for two :  Lakshmi Mills, Coimbatore
+Sri Trupthi Mess : 3.8 : South Indian, Chinese, Chettinad : ₹150 for two :  Ramanathapuram, Coimbatore
+Shooters Bar And Rooftop Dine : - : Mughlai, North Indian, BBQ, Bar Food, Beverages : ₹1,900 for two :  Sitra, Coimbatore
+Apupa : 4.0 : Bakery, Desserts, Fast Food, Beverages, Shake : ₹350 for two :  Saibaba Colony, Coimbatore
+Sojen Bar - Holiday Residency : 3.9 : Chinese : ₹500 for two :  Saravanampatty, Coimbatore
+Waffle Cart : 4.1 : Desserts, Waffle : ₹200 for two :  RS Puram, Coimbatore
+Mex'N Masters : - : Rolls, Beverages : ₹200 for two :  Peelamedu, Coimbatore
+Rashi Sandwich Corner : 3.9 : Fast Food, Sandwich, Beverages, Sichuan : ₹200 for two :  RS Puram, Coimbatore
+Selvam Mess : 3.6 : South Indian, Seafood, North Indian, Biryani, Chinese : ₹350 for two :  Sitra, Coimbatore
+Shree Anandhaas Sweets & Snacks : 3.7 : Mithai, Street Food : ₹300 for two :  Sitra, Coimbatore
+Hotel Sri Saravana Bhavan : 3.4 : North Indian, Chinese, South Indian : ₹300 for two :  Saravanampatty, Coimbatore
+Chocko Choza : 3.8 : Fast Food, Waffle, Pasta, Burger, Sandwich, Desserts, Ice Cream, Beverages : ₹600 for two :  RS Puram, Coimbatore
+Kovai Kabab : 3.9 : North Indian, South Indian, Chinese, Biryani : ₹400 for two :  Saravanampatty, Coimbatore
+Cafe Coffee Day : 3.4 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹750 for two :  Race Course, Coimbatore
+Kannamma Thattu Kadai : 3.8 : South Indian, Chinese, Sichuan, Biryani : ₹250 for two :  Peelamedu, Coimbatore
+Bread One : 3.6 : Pizza, Burger, Sandwich, Fast Food : ₹200 for two :  Thudiyalur, Coimbatore
+Nalloon Family Restaurant : 3.5 : Chinese, North Indian, Seafood : ₹600 for two :  Kalapatti, Coimbatore
+The Sandwich Point : 3.6 : Wraps, Sandwich, Fast Food, Shake : ₹300 for two :  Peelamedu, Coimbatore
+Oceana Hotel : 3.6 : North Indian, Chinese, Kebab, BBQ, Seafood, Biryani, Mughlai, Sichuan : ₹500 for two :  Saibaba Colony, Coimbatore
+Tibb's Frankie - Serving Rolls Since 1969 : 3.9 : Rolls, Fast Food : ₹350 for two :  RS Puram, Coimbatore
+Kovai Biryani Hotel : 3.8 : Biryani, South Indian, Chinese, North Indian, Mughlai, Tamil, Street Food, Desserts : ₹500 for two :  Saibaba Colony, Coimbatore
+Bikes & Barrels - The Residency Hotel : 4.2 : Finger Food : ₹2,000 for two :  The Residency Hotel, Avinashi Road, Coimbatore
+Rotolo : 3.5 : Beverages, Bubble Tea, Ice Cream, Juices, Shake : ₹300 for two :  RS Puram, Coimbatore
+Ramdev Dhaba : 3.9 : North Indian, South Indian : ₹1,000 for two :  Neelambur, Coimbatore
+Big Fat Burger : 4.1 : Burger, Sandwich, Wraps, Fast Food, Beverages, Shake : ₹300 for two :  Vadavalli, Coimbatore
+Hotel Sri Nargani's : 3.7 : South Indian, Chinese, Shake, Sichuan : ₹300 for two :  Vadavalli, Coimbatore
+New RR Biryani : 3.0 : Biryani, Mughlai, South Indian : ₹300 for two :  Gandhipuram, Coimbatore
+Burmy Food : 3.7 : Burmese, Beverages : ₹300 for two :  Peelamedu, Coimbatore
+Milan Hotel : 3.6 : Biryani : ₹300 for two :  Town Hall, Coimbatore
+Ajmeer Biriyani Centre : 3.7 : Biryani, South Indian, Chinese : ₹350 for two :  Kavundampalayam, Coimbatore
+Hotel Sri Sai Amuthaas : 2.7 : South Indian, Chinese, North Indian, Biryani, Beverages : ₹350 for two :  Thudiyalur, Coimbatore
+Elevate Bar & Lounge : 4.2 : North Indian, South Indian, Fast Food, Biryani, Desserts, Beverages : ₹1,500 for two :  Gandhipuram, Coimbatore
+SMS Hotels : - : North Indian, Mughlai : ₹700 for two :  Gandhipuram, Coimbatore
+Hotel Hari's : 3.4 : South Indian, Chinese : ₹150 for two :  Town Hall, Coimbatore
+H2O Bar : 3.9 : Finger Food, North Indian, Chinese : ₹1,000 for two :  Town Hall, Coimbatore
+Food Factory : 3.2 : South Indian, Biryani, Chinese, Sichuan : ₹200 for two :  Periyanaikanpalayam, Coimbatore
+A.R.C Sasi's Chat & More : 3.9 : Fast Food, North Indian, Biryani : ₹300 for two :  Saibaba Colony, Coimbatore
+Mom's Touch : 3.9 : North Indian, Street Food : ₹300 for two :  Ganapathy, Coimbatore
+Fox & Crow : 3.8 : Mexican, Italian, Fast Food, Desserts, Shake, Beverages : ₹400 for two :  Peelamedu, Coimbatore
+360 Degree Rooftop Restaurant : - : South Indian, Mughlai, Continental, Biryani, Chinese : ₹2,000 for two :  Neelambur, Coimbatore
+Shack Town : - : North Indian, Rolls : ₹300 for two :  Saibaba Colony, Coimbatore
+Midtown Caffe : - : Fast Food : ₹250 for two :  Saibaba Colony, Coimbatore
+Tiki Tako- Park Elanza : 4.2 : Bar Food, Italian, Continental, Desserts, Beverages : ₹2,300 for two :  Gandhipuram, Coimbatore
+Downtown Bistro : 3.5 : BBQ, Fast Food, Beverages : ₹350 for two :  Peelamedu, Coimbatore
+KNP Biriyani : 3.5 : Chinese, Biryani, Chettinad : ₹300 for two :  Vadavalli, Coimbatore
+Agarwals The Sweet Shop : 4.0 : Mithai, Street Food, Fast Food : ₹350 for two :  RS Puram, Coimbatore
+Mr. Idly : 3.4 : South Indian : ₹100 for two :  Peelamedu, Coimbatore
+Fruit Bae : - : Juices : ₹300 for two :  RS Puram, Coimbatore
+Suto Cafe : 3.9 : Cafe, Fast Food, Burger, Sandwich, Pizza, Shake, Waffle, Beverages : ₹450 for two :  Saibaba Colony, Coimbatore
+Sri Angaas Madhurai Bun Parotta : - : Chinese, Chettinad, Sichuan : ₹300 for two :  Peelamedu, Coimbatore
+Sigdii : 4.1 : North Indian : ₹500 for two :  Gandhipuram, Coimbatore
+Biggies Burger : 3.7 : Burger, Fast Food, Desserts, Shake, Beverages : ₹300 for two :  Brookefields Mall, RS Puram, Coimbatore
+Sri Annamaya Restaurant : 3.4 : South Indian, North Indian, Biryani, Chinese, Desserts, Juices, Shake, Beverages : ₹1,000 for two :  Town Hall, Coimbatore
+Anjappar Chettinad Restaurant : 3.3 : South Indian, North Indian, Biryani, Mughlai, Chinese, Desserts, Beverages : ₹700 for two :  Gandhipuram, Coimbatore
+Put Kadalai : 4.0 : Fast Food, Beverages, Chinese, Desserts, Coffee : ₹400 for two :  Race Course, Coimbatore
+Hotel Sri Lalitha's : 3.8 : North Indian, South Indian, Biryani, Chinese, Fast Food, Shake, Beverages : ₹1,000 for two :  Kavundampalayam, Coimbatore
+Bombay Kulfi : 4.3 : Desserts, Ice Cream : ₹200 for two :  RS Puram, Coimbatore
+Mirchi Kitchen : 3.4 : North Indian, Chinese, South Indian, Desserts : ₹300 for two :  Gandhipuram, Coimbatore
+Alankar Biriyani Centre : 3.1 : South Indian, Fast Food : ₹300 for two :  Gandhipuram, Coimbatore
+The Acacia : 3.6 : South Indian, Chinese : ₹1,000 for two :  Neelambur, Coimbatore
+Shree Kulfi : 4.1 : Ice Cream, Desserts : ₹200 for two :  RS Puram, Coimbatore
+The Belgian Waffle Co. : 3.9 : Waffle, Pancake, Ice Cream, Desserts, Beverages : ₹300 for two :  Peelamedu, Coimbatore
+Dot Yum - Hotel Aloft Coimbatore : 3.8 : South Indian, Seafood, North Indian, Continental, Chinese, Desserts, Beverages : ₹1,500 for two :  Hotel Aloft Coimbatore, Coimbatore
+Favo : - : Bakery, Desserts : ₹200 for two :  Gandhipuram, Coimbatore
+Best Biriyani : 3.5 : Biryani, North Indian, Chinese : ₹300 for two :  Podanur, Coimbatore
+The Cake Point : 3.4 : Bakery : ₹400 for two :  Ganapathy, Coimbatore
+Pitstop : 3.8 : Finger Food, Fast Food : ₹1,000 for two :  The Orbis Hotel, Peelamedu, Coimbatore
+Mr Grill : 2.7 : Arabian, South Indian : ₹400 for two :  Vadavalli, Coimbatore
+Cups & Chaos : 3.9 : Cafe, Coffee, Street Food, Fast Food, Juices, Tea, Shake, Beverages : ₹500 for two :  RS Puram, Coimbatore
+Biriyani : 3.5 : Biryani, Chinese, Kerala : ₹350 for two :  Podanur, Coimbatore
+RK Mess : 4.2 : South Indian, Chinese, Biryani, Street Food, North Indian : ₹250 for two :  Ramanathapuram, Coimbatore
+Cakes N Creams : 4.2 : Bakery : ₹400 for two :  Vadavalli, Coimbatore
+Sudip : 3.8 : South Indian, Chinese, North Indian, Mughlai, Seafood : ₹300 for two :  Town Hall, Coimbatore
+SK Supercook : 3.8 : North Indian, Mughlai, Biryani, Chinese, South Indian : ₹500 for two :  Vadavalli, Coimbatore
+Renuga Mess : 3.9 : South Indian, North Indian, Chinese : ₹400 for two :  Peelamedu, Coimbatore
+Le'andra : 3.9 : Sandwich, Fast Food : ₹350 for two :  Ramanathapuram, Coimbatore
+Sri Krishna Sweets : 3.8 : Mithai : ₹100 for two :  Peelamedu, Coimbatore
+U2 Millet Hotel : 3.4 : South Indian : ₹350 for two :  Kalapatti, Coimbatore
+Superstar Pizza : 4.3 : Pizza, Burger, Sandwich, Continental, Fast Food, Desserts, Beverages : ₹600 for two :  Saibaba Colony, Coimbatore
+Big Fat Burger : 3.9 : Burger, Fast Food, Wraps, Momos, Sandwich, Shake, Beverages : ₹450 for two :  Kalapatti, Coimbatore
+Sri Kumaran Mess : 3.6 : South Indian, North Indian : ₹300 for two :  Saravanampatty, Coimbatore
+Say Cheers Bar : 3.9 : Finger Food : ₹1,200 for two :  Sitra, Coimbatore
+The 25th Hour : 3.9 : Finger Food : ₹1,500 for two :  Vijay Elanza Central, Peelamedu, Coimbatore
+Pizza Paradize : 3.9 : Pizza, Sandwich, Fast Food, Beverages : ₹300 for two :  Vadavalli, Coimbatore
+Miami Juice World : 3.7 : Juices, Beverages, Fast Food, Desserts, Shake : ₹300 for two :  Town Hall, Coimbatore
+S S Punjabi Dhaba : - : North Indian, Mughlai, BBQ, Chinese, Shawarma, Biryani, Desserts, Beverages : ₹500 for two :  Podanur, Coimbatore
+Belly's Thick Shake : 3.6 : Shake, Beverages, Pizza, Fast Food, Street Food : ₹300 for two :  RS Puram, Coimbatore
+Kovai Durbar : 3.8 : North Indian, South Indian, Chinese, Biryani : ₹300 for two :  Peelamedu, Coimbatore
+Dark By Vap Club : New : South Indian, Chinese, North Indian, Italian : ₹1,800 for two :  Lakshmi Mills, Coimbatore
+Topi Vappa Biriyani : - : Biryani, Shawarma : ₹250 for two :  Singanallur, Coimbatore
+On The Rocks Multicuisine Resto : - : South Indian : ₹300 for two :  Kalapatti, Coimbatore
+QT Kitchen : - : North Indian, Chinese, BBQ, Shawarma, Seafood : ₹500 for two :  Vadavalli, Coimbatore
+Gossip : 3.7 : Finger Food : ₹1,000 for two :  Hotel Alankara Grand, Nehru Stadium, Coimbatore
+The Bay Grill - Cafe : - : Burger, Sandwich, Fast Food, Desserts, Shake, Juices, Beverages : ₹400 for two :  Podanur, Coimbatore
+Chixy Chick 'N' Cafe : 3.8 : Fast Food : ₹600 for two :  Saravanampatty, Coimbatore
+Bon Bon : 4.0 : Ice Cream, Desserts, Shake, Beverages : ₹300 for two :  Nehru Stadium, Coimbatore
+Grace N Bakes : 3.6 : Desserts, Bakery : ₹400 for two :  Kalapatti, Coimbatore
+Bon Pizza : 3.8 : Pizza, Fast Food : ₹400 for two :  Singanallur, Coimbatore
+Chennai's Biryani House : 4.0 : South Indian, Biryani, North Indian, Chinese, Fast Food, Arabian, Sichuan, Mughlai : ₹500 for two :  Saibaba Colony, Coimbatore
+Safaire Biryani Hotel : 3.9 : Biryani, Chinese, Mughlai, Kerala, Arabian, Sichuan, Seafood : ₹500 for two :  Ukkadam, Coimbatore
+Shree Balakumar Mess : 3.6 : South Indian, Chinese : ₹250 for two :  Vadavalli, Coimbatore
+MI - Pizza : 3.7 : Pizza, Fast Food, Desserts, Beverages, Shake : ₹500 for two :  Vadavalli, Coimbatore
+Valar Chicken : 3.3 : Chinese, South Indian, North Indian : ₹300 for two :  RS Puram, Coimbatore

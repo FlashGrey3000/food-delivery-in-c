@@ -1,0 +1,456 @@
+KFC : 4.6 : Burger, Fast Food, Rolls : ₹450 for two :  Tadepalli, Vijayawada
+Milap's Punjabi Hotel : 4.5 : North Indian, Fast Food, Chinese, Biryani : ₹350 for two :  Islampet, Vijayawada
+Vindhu Bhojanam : 4.9 : Andhra, Biryani, North Indian, Chinese : ₹850 for two :  Gurunanak Colony, Vijayawada
+Subbayya Gari Hotel : 4.9 : South Indian, Biryani, Desserts : ₹250 for two :  Governorpet, Vijayawada
+Platform 65 : 4.5 : Chinese, South Indian, North Indian, Mughlai, Kebab, Biryani, Fast Food, Beverages : ₹800 for two :  Christurajupuram, Vijayawada
+Paradise Biryani - A Legend Since 1953 : 4.2 : Biryani, Kebab, North Indian, Rolls, Desserts, Chinese : ₹700 for two :  Labbipet, Vijayawada
+Pizza Hut : - : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  PVP Square Mall, Labbipet, Vijayawada
+Rusted Spoon : 4.2 : North Indian, Fast Food, South Indian, Chinese, Sichuan : ₹700 for two :  Labbipet, Vijayawada
+Golden Pavilion : 3.9 : Biryani, Andhra, Seafood, Chinese : ₹600 for two :  Governorpet, Vijayawada
+Mandi Croods : 3.7 : Mandi, Arabian, North Indian, Kebab : ₹500 for two :  Gurunanak Colony, Vijayawada
+Arabian Mandi : 4.5 : Biryani, Mandi : ₹1,000 for two :  Labbipet, Vijayawada
+Barbeque Pride : 3.9 : Chinese, BBQ, South Indian, North Indian : ₹1,300 for two :  Trendset Mall, Labbipet, Vijayawada
+Bucket Biryani : 3.6 : Biryani, Chinese : ₹500 for two :  Governorpet, Vijayawada
+Dessertino Shakes And More : 4.1 : Shake, Ice Cream, Belgian, Cafe, Pizza, Continental, Desserts, Finger Food : ₹300 for two :  Auto Nagar, Vijayawada
+Biryanis And More : 4.0 : Biryani, South Indian, Chinese, North Indian, Sichuan : ₹500 for two :  Labbipet, Vijayawada
+Klub F5 : 3.7 : Coffee, Chinese, Biryani, North Indian, Fast Food, Ice Cream, Beverages, Sichuan : ₹1,000 for two :  Labbipet, Vijayawada
+Kailash Parbat : 3.1 : North Indian, Chinese, Street Food, Desserts : ₹500 for two :  Labbipet, Vijayawada
+Hotel Manorama : 4.1 : South Indian, North Indian, Chinese, Biryani, Beverages, Shake : ₹450 for two :  Governorpet, Vijayawada
+Cross Roads Restaurant : 3.7 : Biryani, North Indian, Chinese, Andhra : ₹300 for two :  Governorpet, Vijayawada
+Food Republic : 3.9 : Biryani, North Indian, Chinese, Mughlai, Seafood, Desserts, Beverages, Sichuan : ₹1,200 for two :  Labbipet, Vijayawada
+Our Place - The Food Hunt : 4.4 : South Indian, Chinese : ₹1,500 for two :  Tadepalli, Vijayawada
+Cafe Ice Magic : 3.0 : Pizza, Burger, Fast Food, Desserts, Beverages, Ice Cream : ₹600 for two :  Auto Nagar, Vijayawada
+Sweet Magic Mithai Shop : 3.7 : Mithai, Biryani : ₹350 for two :  Labbipet, Vijayawada
+United Food Palace : 4.3 : North Indian, Chinese, Mughlai, Biryani, Andhra, Kebab : ₹1,000 for two :  Labbipet, Vijayawada
+Domino's Pizza : 4.2 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  PVP Square Mall, Labbipet, Vijayawada
+Hoskote 4 AM Biriyani : New : Biryani : ₹500 for two :  Governorpet, Vijayawada
+Khaleel Bhai Family Restaurant : 3.8 : Biryani, North Indian, South Indian, Mughlai, Andhra : ₹1,000 for two :  Poranki, Vijayawada
+McDonald's : 4.1 : Burger, Fast Food : ₹500 for two :  Auto Nagar, Vijayawada
+Ice Magic : 4.0 : Pizza, Sandwich, Burger, Fast Food, Ice Cream, Desserts, Beverages, Shake : ₹400 for two :  Christurajupuram, Vijayawada
+Aroma's Restaurant DV Manor : - : North Indian, Chinese, Oriental, Biryani, Mughlai, Seafood : ₹800 for two :  Quality Hotel DV Manor, Labbipet, Vijayawada
+Starbucks Coffee : 3.9 : Cafe, Beverages, Desserts : ₹800 for two :  Gurunanak Colony, Vijayawada
+Bismillah Paradise Biryani Centre : 4.0 : Biryani, Chinese, North Indian, Mughlai, Seafood : ₹500 for two :  Labbipet, Vijayawada
+10 Downing Street : - : Chinese, North Indian, Continental, Rolls, Salad, Seafood, Sichuan : ₹1,500 for two :  PVP Square Mall, Labbipet, Vijayawada
+Ghiza Family Restaurant : 3.6 : Biryani, North Indian, Chinese, Sichuan, Fast Food, Seafood, Andhra : ₹700 for two :  Labbipet, Vijayawada
+Just Bake : - : Bakery, Desserts, Fast Food : ₹250 for two :  Labbipet, Vijayawada
+Sri Anjaneya Restaurant : - : Biryani, North Indian, Chinese, Andhra, Seafood, Sichuan : ₹400 for two :  Governorpet, Vijayawada
+Rasoie Multicuisine Restaurant : 3.9 : North Indian, Chinese, Mughlai, Biryani, Kebab, Desserts, Beverages : ₹650 for two :  Labbipet, Vijayawada
+Soul Of South : 4.4 : South Indian, Seafood, Biryani : ₹1,000 for two :  Auto Nagar, Vijayawada
+RR's Durbar : 3.1 : Chinese, Biryani, North Indian, Seafood, Mughlai, Ice Cream, Beverages, Sichuan : ₹1,000 for two :  Labbipet, Vijayawada
+Srinivasa Food Point : 3.9 : Biryani, South Indian, Chinese : ₹200 for two :  Islampet, Vijayawada
+Zaara Restaurant : 4.1 : Biryani, South Indian : ₹250 for two :  PNT Colony, Vijayawada
+KK Restaurant : 3.6 : Chinese, North Indian, Biryani, Kebab, Desserts, Beverages : ₹1,000 for two :  Gurunanak Colony, Vijayawada
+Zaatar Arabian Mandi Restaurant : 4.3 : Biryani, Arabian, Chinese : ₹750 for two :  Governorpet, Vijayawada
+Tasty Times : 4.0 : Chinese, Biryani : ₹250 for two :  Governorpet, Vijayawada
+AK Biryani : 4.0 : Biryani : ₹300 for two :  Auto Nagar, Vijayawada
+Taco Bell : 4.0 : Mexican, Fast Food, Wraps, Beverages : ₹550 for two :  PVP Square Mall, Labbipet, Vijayawada
+Guntur Subhani Hotel : - : South Indian, North Indian, Biryani : ₹300 for two :  Labbipet, Vijayawada
+Siva Pulka Point And Fast Food Center : 4.0 : North Indian, Fast Food, Chettinad : ₹300 for two :  Auto Nagar, Vijayawada
+AL - Rahim Family Restaurant : 3.7 : Andhra, Shawarma, Seafood, Chinese, Ice Cream : ₹350 for two :  Labbipet, Vijayawada
+Cream Stone Ice Cream : 3.4 : Ice Cream, Desserts, Shake : ₹300 for two :  PVP Square Mall, Labbipet, Vijayawada
+Temptations : 3.5 : Street Food, Desserts, Chinese, Continental, North Indian, Beverages, Shake : ₹700 for two :  Labbipet, Vijayawada
+Under The Woods : 4.3 : North Indian, Pizza, Chinese, Continental, Desserts : ₹500 for two :  Christurajupuram, Vijayawada
+New Chand Hotel : New : Biryani, North Indian : ₹300 for two :  Islampet, Vijayawada
+Veg Treat : - : Chinese, Fast Food, Sandwich, Pizza, Desserts, Beverages, Shake : ₹400 for two :  Islampet, Vijayawada
+Desi Tadka : 3.6 : North Indian, Chinese : ₹450 for two :  Labbipet, Vijayawada
+Raj Darbar Restaurant : 4.0 : Andhra, Chinese, Biryani, North Indian : ₹300 for two :  Labbipet, Vijayawada
+The League Sports Bar Lounge : 4.2 : South Indian, North Indian, Continental, Chinese, Finger Food : ₹500 for two :  Labbipet, Vijayawada
+90's Restaurant : New : Chinese, Biryani : ₹700 for two :  Gurunanak Colony, Vijayawada
+Barkaas Arabic Restaurant : 3.9 : Arabian, Seafood, Kebab, Mandi : ₹1,100 for two :  Labbipet, Vijayawada
+Sai Silver Dum Biryani : 4.2 : Biryani, Chinese : ₹500 for two :  Auto Nagar, Vijayawada
+Naidu Gari Kunda Biryani : 3.4 : Biryani : ₹500 for two :  Gunadala, Vijayawada
+Flavours Of Andhra : 2.7 : Andhra, North Indian, Chinese, Biryani, Sichuan : ₹300 for two :  Gurunanak Colony, Vijayawada
+Element E7 Multicuisine Restaurant : 3.9 : Biryani, Continental, North Indian, Pizza, Fast Food, Sichuan, Salad, South Indian : ₹900 for two :  Governorpet, Vijayawada
+Good Morning Tea & Fast food : 3.8 : South Indian, Andhra, Juices, Chinese, Beverages : ₹300 for two :  Governorpet, Vijayawada
+Silver Dum Biryani : 3.2 : Biryani : ₹250 for two :  Gurunanak Colony, Vijayawada
+Harika Royal Restaurant : 4.8 : Biryani, Andhra, North Indian, Chinese, Seafood : ₹600 for two :  PNT Colony, Vijayawada
+The Kay Hotel : 4.0 : North Indian, South Indian, Chinese, Biryani, Mughlai, Continental, Desserts, Shake : ₹700 for two :  The Kay Hotel, Gunadala, Vijayawada
+Gismat Arabic Restaurant : 4.3 : Arabian, Ice Cream, Mandi, Beverages : ₹700 for two :  Labbipet, Vijayawada
+Blind Chemistry : 3.6 : Beverages, Continental, Italian, Desserts : ₹700 for two :  Labbipet, Vijayawada
+Lassi Day Cafe : 4.2 : Beverages, Shake, Ice Cream, Desserts : ₹200 for two :  Islampet, Vijayawada
+Sweet Magic : 3.9 : South Indian : ₹400 for two :  Labbipet, Vijayawada
+Frozen Bottle - Milkshakes, Desserts And Ice Cream : 3.9 : Shake, Beverages, Desserts, Ice Cream, Waffle, Healthy Food : ₹350 for two :  Labbipet, Vijayawada
+Le Story : 4.0 : Biryani, Pizza, Burger, Chinese, Sichuan : ₹500 for two :  Labbipet, Vijayawada
+Hotel Srinivasa : 4.3 : Andhra, Chinese, Biryani, Seafood, North Indian : ₹500 for two :  Governorpet, Vijayawada
+TFL : 4.3 : Italian, Continental, Chinese, Bakery, Beverages, Sichuan : ₹400 for two :  Labbipet, Vijayawada
+Sweet Way : 3.5 : Bakery, Mithai, Desserts : ₹500 for two :  Gunadala, Vijayawada
+Bobaholic : 3.5 : Beverages : ₹200 for two :  Christurajupuram, Vijayawada
+Alfa Alankar Mandi House : 4.0 : Biryani, Arabian : ₹700 for two :  Gandhi Nagar, Vijayawada
+Sai Silver Dum Biryani : 3.7 : Biryani, Chinese : ₹500 for two :  Christurajupuram, Vijayawada
+The Bread Basket : 3.9 : Pizza, Sandwich, Burger, Fast Food, Bakery, Beverages : ₹450 for two :  Gurunanak Colony, Vijayawada
+Karimulla Biryani Hotel : 4.6 : Biryani : ₹300 for two :  Islampet, Vijayawada
+The New Dolphin Family Restaurant : 3.8 : Chinese, South Indian, North Indian, Biryani, Seafood : ₹700 for two :  Gandhi Nagar, Vijayawada
+Bamboo & Biryani : 4.5 : Biryani, North Indian : ₹400 for two :  Labbipet, Vijayawada
+Gowtham Restaurant : 4.0 : Biryani, Chinese, South Indian : ₹500 for two :  Gurunanak Colony, Vijayawada
+Sarovar Mess : 3.8 : Andhra : ₹200 for two :  Gandhi Nagar, Vijayawada
+Hotel Vdara : - : Biryani, Chinese, North Indian, South Indian, Seafood, Andhra, Sichuan : ₹1,000 for two :  Labbipet, Vijayawada
+Pakoda Hub : 3.3 : Chinese, Seafood, Street Food, Andhra : ₹400 for two :  Labbipet, Vijayawada
+Blue Fox : 3.4 : Chinese, North Indian, Seafood, Desserts, Beverages : ₹1,200 for two :  Labbipet, Vijayawada
+Rumaan Family Restaurant : 3.9 : North Indian, Chinese, Mughlai : ₹450 for two :  Islampet, Vijayawada
+New Chand Hotel : 4.2 : Biryani : ₹500 for two :  Auto Nagar, Vijayawada
+Jagavi's Train Restaurant : 4.4 : Andhra, Seafood, North Indian, Biryani, Chinese : ₹1,200 for two :  Labbipet, Vijayawada
+Ramesh Pulka Point And Fast Foods : 3.6 : North Indian, Chinese : ₹250 for two :  Christurajupuram, Vijayawada
+Bawarchi : - : Biryani, Chinese, North Indian, Seafood : ₹500 for two :  Labbipet, Vijayawada
+Cross Roads : 3.8 : Biryani, North Indian, Chinese, South Indian, Andhra : ₹400 for two :  Christurajupuram, Vijayawada
+Sri Satya Sai Hotel : 3.8 : South Indian : ₹300 for two :  Labbipet, Vijayawada
+Casserole : 3.8 : Fast Food, Chinese, North Indian, South Indian, Biryani, Beverages : ₹850 for two :  Islampet, Vijayawada
+Shakes & Burgers : - : Pizza, Fast Food, Beverages, Burger, Shake : ₹200 for two :  Labbipet, Vijayawada
+Barbecue Signature : 3.5 : North Indian, Chinese : ₹1,000 for two :  Labbipet, Vijayawada
+Gourmet Bar : - : Continental, Finger Food : ₹2,200 for two :  Novotel - Auto Nagar, Vijayawada
+Kura Karam Restaurant : - : North Indian, Chinese, Seafood, Biryani, Andhra, Mughlai, Beverages, Kebab : ₹800 for two :  Gunadala, Vijayawada
+D Patisserie Cake Studio : 3.8 : Bakery, Desserts, Fast Food : ₹500 for two :  Labbipet, Vijayawada
+Bismillah Biryani And Fast Food : 3.9 : Biryani, South Indian, Chinese, North Indian, Sichuan : ₹350 for two :  Krishna Lanka, Vijayawada
+Serenade - Manor Food Plaza : 3.7 : Biryani, North Indian : ₹500 for two :  Labbipet, Vijayawada
+Guntur Subhani Hotel : 4.4 : South Indian, Biryani : ₹400 for two :  Governorpet, Vijayawada
+Minerva Coffee Shop : 3.5 : South Indian, North Indian, Chinese, Fast Food, Desserts, Beverages, Coffee : ₹800 for two :  Labbipet, Vijayawada
+RedChilli Arabian Mandi : 4.3 : South Indian, North Indian, Chinese, Biryani, Mandi, Desserts, Beverages : ₹1,000 for two :  Labbipet, Vijayawada
+Mandi Mafia : 3.2 : Arabian, Kebab, Mandi : ₹1,200 for two :  Gurunanak Colony, Vijayawada
+Khaan Saab : 4.9 : North Indian, Mughlai, South Indian, Biryani : ₹700 for two :  Labbipet, Vijayawada
+Five Star Chicken : 3.9 : Fast Food, Burger, Rolls : ₹300 for two :  Poranki, Vijayawada
+The Belgian Waffle Co. : 3.6 : Waffle, Ice Cream, Desserts, Shake, Beverages, Belgian : ₹350 for two :  Labbipet, Vijayawada
+Shree Santosh Family Dhaba : 4.1 : North Indian, Biryani, Chinese, South Indian, Rajasthani : ₹600 for two :  Gandhi Nagar, Vijayawada
+Kadiyapatnam Military Hotel : 2.8 : Biryani, Andhra, South Indian : ₹300 for two :  Labbipet, Vijayawada
+The Red Box : - : Chinese, Momos, Sichuan : ₹400 for two :  Gurunanak Colony, Vijayawada
+Paustik Restaurant : 2.7 : North Indian, Chinese, Street Food : ₹750 for two :  Governorpet, Vijayawada
+Madhurima Restaurant : - : North Indian, South Indian, Chinese, Biryani, Sichuan : ₹400 for two :  Auto Nagar, Vijayawada
+The Chocolate Room : - : Coffee, Desserts, Shake, Beverages : ₹500 for two :  Gurunanak Colony, Vijayawada
+Cafe Terrase : 3.9 : Cafe, Coffee, Pasta, Chinese, Pizza, Fast Food, Desserts, Beverages : ₹1,000 for two :  Gurunanak Colony, Vijayawada
+Nicoli Pasticceria : 3.8 : Fast Food, Italian, Beverages : ₹700 for two :  Labbipet, Vijayawada
+Boss Of Burgers : 4.4 : Burger, Wraps, American, Fast Food, Shake, Beverages : ₹750 for two :  Labbipet, Vijayawada
+AK Biryani’s : 3.5 : Biryani : ₹400 for two :  Auto Nagar, Vijayawada
+Tonique Restaurant : - : North Indian, Mughlai, Biryani, Chinese, Seafood : ₹850 for two :  Governorpet, Vijayawada
+Hotel Park N : 3.6 : North Indian, South Indian, Continental, Chinese, Biryani, Sichuan : ₹1,500 for two :  Gurunanak Colony, Vijayawada
+Grills & Rolls : 3.3 : Arabian, Rolls, Fast Food, Desserts : ₹300 for two :  Labbipet, Vijayawada
+Sri Anjaneya Family Restaurants : 4.0 : Biryani, Chinese, North Indian, Andhra, Sichuan : ₹400 for two :  Governorpet, Vijayawada
+Subway : 4.4 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Labbipet, Vijayawada
+Coffee Bean : - : Coffee, Tea, Beverages, Pasta, Fast Food, Sandwich, BBQ : ₹550 for two :  Labbipet, Vijayawada
+Monk's Kitchen : 3.2 : Thai, Mexican, Chinese, Continental, Shake, Sichuan : ₹400 for two :  Auto Nagar, Vijayawada
+Butta Bhojanam : 4.3 : South Indian : ₹300 for two :  Tadepalli, Vijayawada
+Alpaharam's  Kitchen Secrets : - : Biryani, North Indian, Fast Food, South Indian, Desserts : ₹500 for two :  Governorpet, Vijayawada
+RR Durbar : 3.9 : South Indian, Biryani, Seafood, Chinese : ₹1,100 for two :  Poranki, Vijayawada
+Heera Fusion Restaurant : 4.1 : Biryani, Chinese, North Indian : ₹400 for two :  Auto Nagar, Vijayawada
+7th Heaven : 4.2 : Bakery, Desserts : ₹400 for two :  Christurajupuram, Vijayawada
+Basil Pizzeria : - : Pizza, Fast Food : ₹500 for two :  Labbipet, Vijayawada
+The 2nd Wife Family Restaurant : 4.2 : North Indian, Chinese, Andhra, Biryani, Shake, Sichuan : ₹600 for two :  Gollapudi, Vijayawada
+NR Tiffin Center : - : South Indian : ₹150 for two :  Gandhi Nagar, Vijayawada
+Idlee's : 4.0 : South Indian, Fast Food, Street Food : ₹150 for two :  Gurunanak Colony, Vijayawada
+Saleem Biryani Point : - : Biryani : ₹300 for two :  Auto Nagar, Vijayawada
+Burger Wings : 3.7 : Burger, Pizza, Sandwich, Rolls, Fast Food, Shake, Beverages : ₹400 for two :  Shri Ramachandra Nagar, Vijayawada
+Sweet Magic Mithai Shop : - : Mithai, North Indian, Biryani, South Indian, Street Food, Chinese, Desserts : ₹650 for two :  Gurunanak Colony, Vijayawada
+Mrs Plate Family Restaurant : 4.1 : North Indian, Chinese, Kebab, Biryani, Seafood, Shawarma : ₹1,000 for two :  Enikepadu, Vijayawada
+Hotel Ilapuram : 4.1 : South Indian, Chinese, Beverages, Andhra : ₹700 for two :  Gandhi Nagar, Vijayawada
+Hotel Indraprasttha : 4.3 : Biryani, North Indian, Chinese, South Indian, Sichuan : ₹400 for two :  Labbipet, Vijayawada
+Andhra Spice : 3.9 : Biryani, Andhra, Chinese : ₹300 for two :  Labbipet, Vijayawada
+8 Millet House : 4.1 : Healthy Food, South Indian, Biryani : ₹300 for two :  Labbipet, Vijayawada
+The Maggi Shack : 4.0 : Fast Food, Street Food : ₹250 for two :  Labbipet, Vijayawada
+Innotel Hotel : 3.5 : Biryani, Chinese, Continental, North Indian, Desserts, Beverages, Seafood, Shake : ₹1,000 for two :  Ramavarappadu, Vijayawada
+Chennai Sandwich Hub & Bakery : - : Chinese, Street Food, Fast Food, Bakery, Momos : ₹250 for two :  Islampet, Vijayawada
+Good Morning Tea & Fast Food : 3.8 : South Indian, Chinese : ₹200 for two :  Labbipet, Vijayawada
+Oriental Pavillion - Fortune Murali Park : - : North Indian, Chinese, Mughlai, Biryani : ₹1,500 for two :  Fortune Murali Park, Labbipet, Vijayawada
+RR's Joint : 3.6 : Chinese, Biryani, North Indian, Seafood, Mughlai, Ice Cream, Beverages, Sichuan : ₹400 for two :  PNT Colony, Vijayawada
+Srinu Hotel : 4.2 : South Indian, Chinese, North Indian : ₹400 for two :  Islampet, Vijayawada
+Rama Swamy Military Hotel : 4.1 : North Indian, South Indian : ₹300 for two :  Gurunanak Colony, Vijayawada
+Shiraz Multicuisine Restaurant : 4.3 : Biryani, Chinese, North Indian : ₹800 for two :  Governorpet, Vijayawada
+Blue Fox : - : North Indian, Chinese, Seafood, Desserts, Beverages : ₹1,600 for two :  Gunadala, Vijayawada
+Vivanta : 3.9 : South Indian, North Indian : ₹3,500 for two :  Labbipet, Vijayawada
+Sri Balaji Fast Food : - : South Indian, Andhra, Chinese : ₹300 for two :  Governorpet, Vijayawada
+Gangur Biriyani : 4.2 : Biryani : ₹450 for two :  Poranki, Vijayawada
+Ibaco : 3.4 : Ice Cream, Desserts, Bakery : ₹200 for two :  Auto Nagar, Vijayawada
+Venkateswara Food Court : 4.4 : South Indian : ₹300 for two :  Poranki, Vijayawada
+Chickpet Donne Biryani House : New : Biryani : ₹500 for two :  Labbipet, Vijayawada
+Chandu's Kitchen Multi Cuisine Family Restaurant : - : Chinese, North Indian, Biryani, Seafood, Street Food, Sichuan : ₹800 for two :  Gunadala, Vijayawada
+Bengaluru Thindi : 4.3 : South Indian : ₹200 for two :  Christurajupuram, Vijayawada
+Fruit Me Up : 3.7 : Juices, Shake, Beverages, Fast Food, Sandwich, North Indian, Street Food, Desserts : ₹400 for two :  Krishna Lanka, Vijayawada
+Swagruha Foods : - : Mithai : ₹200 for two :  Gurunanak Colony, Vijayawada
+Santo's Kitchen : 4.0 : Chinese, South Indian, North Indian, Desserts, Ice Cream, Sichuan : ₹800 for two :  Labbipet, Vijayawada
+Cocktails Restaurant & Bar : - : North Indian, Chinese, Seafood, Ice Cream, Beverages, Biryani : ₹900 for two :  Auto Nagar, Vijayawada
+Our Zone : 4.0 : Biryani, Chinese, North Indian, Andhra : ₹350 for two :  Ramavarappadu, Vijayawada
+11 To 11 : New : Biryani, Chinese, North Indian, Sichuan : ₹700 for two :  Gandhi Nagar, Vijayawada
+SS Eat Street : 3.7 : North Indian, Chinese, Biryani, Andhra, Juices, Shake : ₹600 for two :  Tadepalli, Vijayawada
+Brew Buzz : 3.6 : Chinese, Fast Food, Beverages, Sichuan : ₹1,000 for two :  Labbipet, Vijayawada
+Hotel Raj Towers : New : Andhra, North Indian, Biryani, Chinese, South Indian : ₹500 for two :  Governorpet, Vijayawada
+Deep Punjabi Hotel : - : North Indian, Biryani, Chinese : ₹400 for two :  Islampet, Vijayawada
+Southern Spice : - : Biryani, North Indian, Chinese, Andhra, South Indian, Sichuan : ₹400 for two :  Gurunanak Colony, Vijayawada
+Baskin Robbins - Ice Cream Desserts : 4.1 : Ice Cream, Desserts, Beverages : ₹500 for two :  Labbipet, Vijayawada
+Eagles Pizza : 3.2 : Italian, Pizza, Burger : ₹450 for two :  Governorpet, Vijayawada
+Alankar Restaurant Sweets and Bakers : - : Bakery, North Indian, South Indian, Chinese : ₹300 for two :  Labbipet, Vijayawada
+Bakers Inn : 3.4 : Bakery, Chinese, Burger, Pizza, Sandwich, Fast Food, Wraps : ₹400 for two :  Labbipet, Vijayawada
+Puri Vurii : 4.0 : Street Food, Maharashtrian, North Indian, Rajasthani, Beverages, Sichuan : ₹400 for two :  Labbipet, Vijayawada
+Srinivasa Fast Foods : 3.9 : Chinese, South Indian : ₹200 for two :  Labbipet, Vijayawada
+Taj Falooda : 3.7 : Ice Cream, Beverages, Desserts, Shake : ₹200 for two :  Labbipet, Vijayawada
+Tandoori Hub : 4.3 : Biryani, North Indian, Chinese, Seafood, Kebab : ₹400 for two :  Auto Nagar, Vijayawada
+Seven Days Cake : 3.9 : Bakery, Desserts, Fast Food, Beverages : ₹500 for two :  Krishna Lanka, Vijayawada
+Hotel Alankar Inn : 3.8 : South Indian, North Indian, Andhra, Biryani, Chinese : ₹800 for two :  Gandhi Nagar, Vijayawada
+The Metropolitan Hotel : 3.5 : North Indian, South Indian, Continental, Chinese, Biryani, Desserts : ₹700 for two :  Gurunanak Colony, Vijayawada
+Alankar Sweets & Bakers Restaurant : 4.0 : Mithai, North Indian, Chinese, Fast Food, Bakery, Biryani, Beverages : ₹300 for two :  Poranki, Vijayawada
+Scoops : 4.3 : Ice Cream, Fast Food, Shake, Beverages : ₹400 for two :  Labbipet, Vijayawada
+Dark  Stone : 4.1 : Ice Cream, Desserts, Beverages, Shake : ₹400 for two :  Poranki, Vijayawada
+Waffle Hut : 3.2 : Waffle, Ice Cream, Desserts, Shake : ₹200 for two :  Krishna Lanka, Vijayawada
+Sri Vijaya Bakery : 3.5 : Bakery, Desserts : ₹200 for two :  Islampet, Vijayawada
+Madhuvan Multicuisine Restaurant : 4.1 : South Indian, Chinese, Seafood, North Indian, Fast Food : ₹1,800 for two :  Labbipet, Vijayawada
+AL - Rahim Rumali Roti & Street Food : - : Andhra, Street Food, Biryani, Chinese, North Indian, Desserts : ₹500 for two :  Christurajupuram, Vijayawada
+Kadiyapatnam Military Hotel : 4.2 : Andhra, Biryani : ₹600 for two :  Governorpet, Vijayawada
+Olive Tree Hotel : 3.7 : Biryani, South Indian, North Indian, Continental : ₹400 for two :  Gollapudi, Vijayawada
+Coffea : - : Cafe, Coffee, Sandwich, Fast Food, Beverages, Desserts : ₹500 for two :  Labbipet, Vijayawada
+Biryani Pot : 3.7 : Biryani : ₹350 for two :  PVP Square Mall, Labbipet, Vijayawada
+The Cakes Castle : 3.9 : Bakery, Pizza, Burger, Fast Food, Street Food, Shake : ₹500 for two :  Gurunanak Colony, Vijayawada
+Sai Ram Tiffins Mess : 3.8 : South Indian, Fast Food, Andhra : ₹200 for two :  Labbipet, Vijayawada
+A1 Tiffins And Curry Point : 3.8 : Andhra, South Indian : ₹150 for two :  Gandhi Nagar, Vijayawada
+Good Morning Fast Food-Governorpet : - : South Indian, Chinese, North Indian, Biryani : ₹200 for two :  Governorpet, Vijayawada
+Dolphin's Family Restaurant : - : South Indian, North Indian, Chinese, Biryani, Seafood : ₹450 for two :  Labbipet, Vijayawada
+Mandeez - The Arabian Restaurant : 2.7 : Arabian, Biryani, North Indian : ₹400 for two :  Labbipet, Vijayawada
+Arabian Knights Restaurant : 3.6 : Arabian : ₹300 for two :  Labbipet, Vijayawada
+Arabian Star Mandi : New : Biryani, North Indian : ₹500 for two :  Ramavarappadu, Vijayawada
+Hotel Anjani : 4.1 : Andhra, South Indian, North Indian, Biryani, Chinese : ₹300 for two :  Governorpet, Vijayawada
+The Thickshake Factory : - : Shake, Beverages, Desserts : ₹450 for two :  Gurunanak Colony, Vijayawada
+The Daawat Box : 4.1 : Biryani, North Indian, Desserts : ₹1,000 for two :  Shri Ramachandra Nagar, Vijayawada
+Hotel JayaDurga : 2.8 : Biryani, Andhra, South Indian, North Indian, Chinese : ₹300 for two :  Governorpet, Vijayawada
+Magic Ice Cream By Sweet Magic : 3.8 : Ice Cream, Desserts, Beverages : ₹300 for two :  Auto Nagar, Vijayawada
+RR Durbar : 4.2 : Biryani, Chinese : ₹600 for two :  PNT Colony, Vijayawada
+New Welcome Tea & Fast Food : 3.7 : Andhra, South Indian : ₹150 for two :  Islampet, Vijayawada
+Kakinada Special Butta Biryani : 4.2 : Biryani, North Indian : ₹400 for two :  Ramavarappadu, Vijayawada
+Andra Canteen : 3.7 : Biryani, Andhra : ₹500 for two :  Christurajupuram, Vijayawada
+Bengaluru Bhavan : 3.9 : South Indian, Chinese : ₹300 for two :  Labbipet, Vijayawada
+Cinema Cafe : 3.6 : Cafe, Chinese, Fast Food, Sandwich, Desserts, Beverages, Sichuan : ₹400 for two :  Christurajupuram, Vijayawada
+Ragada Wale : - : Street Food, Sichuan : ₹100 for two :  Labbipet, Vijayawada
+Jumping Beans : 4.0 : Cafe, Chinese, Beverages, Shake, Sichuan : ₹500 for two :  Auto Nagar, Vijayawada
+Arya Bhavan -  Southern Grand : 3.4 : South Indian, North Indian, Desserts, Beverages : ₹500 for two :  Gandhi Nagar, Vijayawada
+Samrudhi Biryani : - : Biryani : ₹300 for two :  Auto Nagar, Vijayawada
+City Central : 4.0 : Mughlai, North Indian, Chinese, Seafood, Sichuan : ₹700 for two :  Labbipet, Vijayawada
+Mishra Family Dhaba : 3.4 : North Indian, Chinese : ₹300 for two :  Tadepalli, Vijayawada
+King's Cuisine : - : Biryani, Chinese, North Indian, Seafood, Mughlai, Sichuan : ₹400 for two :  Labbipet, Vijayawada
+040 Dum Biryani Restaurant : New : Beverages, Biryani, Chinese, South Indian, Shake : ₹450 for two :  Islampet, Vijayawada
+Sree Fortune Grand : 3.9 : South Indian, North Indian, Andhra, Chinese, Fast Food, Seafood, Desserts : ₹850 for two :  Tadepalli, Vijayawada
+Sai's Biryani Palace : 3.1 : Biryani, Chinese, North Indian, Mughlai, Kebab, Sichuan : ₹400 for two :  Governorpet, Vijayawada
+Sandwich & Shakes : 4.3 : Pizza, Sandwich, Fast Food, Beverages, Desserts, Shake : ₹400 for two :  Labbipet, Vijayawada
+Swagruha Foods : 3.8 : Beverages : ₹150 for two :  Governorpet, Vijayawada
+Dumont Creamery : 3.6 : Ice Cream, Desserts, Beverages : ₹500 for two :  Poranki, Vijayawada
+Silver Spoon : 4.2 : Biryani, North Indian, Chinese, Seafood, Mughlai, Sichuan : ₹500 for two :  Gurunanak Colony, Vijayawada
+Sweet Magic Sweets & Bakers : - : Mithai, Bakery, Shake, Chinese, Fast Food : ₹400 for two :  Poranki, Vijayawada
+Prasad Tiffin Centre : 3.9 : South Indian, Andhra : ₹100 for two :  Gollapudi, Vijayawada
+Capital Creams & Shakes : 2.9 : Beverages, Ice Cream, Desserts, Fast Food, Shake, Sichuan : ₹300 for two :  Gunadala, Vijayawada
+Swarna Palace : - : Biryani, Chinese, South Indian, North Indian, Shake, Sichuan : ₹800 for two :  Governorpet, Vijayawada
+Shankar Tiffin Centre : 3.8 : Andhra, South Indian : ₹250 for two :  Governorpet, Vijayawada
+Asian Food Bowl : 4.0 : North Indian, Chinese, Seafood, Biryani, Sichuan : ₹450 for two :  Gurunanak Colony, Vijayawada
+Alankar Sweets & Bakers : 3.7 : Bakery, Mithai : ₹200 for two :  Gandhi Nagar, Vijayawada
+Five Elements Resto Cafe : 3.7 : North Indian, Biryani, Seafood, Coffee, Mughlai, Chinese, Sandwich, Beverages : ₹700 for two :  Gurunanak Colony, Vijayawada
+Pabrai's Fresh And Naturelle Ice Cream : 3.9 : Ice Cream, Desserts, Shake : ₹200 for two :  Labbipet, Vijayawada
+The Shawarma Company : 4.2 : Arabian, Rolls, Lebanese : ₹300 for two :  Labbipet, Vijayawada
+Hotel Sarovar : 4.0 : Andhra, South Indian, North Indian, Chinese : ₹250 for two :  Governorpet, Vijayawada
+Taaj Hotel : 3.6 : Biryani : ₹300 for two :  Gandhi Nagar, Vijayawada
+Makers Of Milkshake : 3.3 : Shake, Coffee, Beverages : ₹300 for two :  Labbipet, Vijayawada
+Le Crusto Cafe : 4.1 : Bakery, Desserts : ₹700 for two :  Gurunanak Colony, Vijayawada
+Shakes World : - : Shake : ₹150 for two :  Gurunanak Colony, Vijayawada
+Shawarma Grill : 3.5 : Lebanese : ₹300 for two :  Gurunanak Colony, Vijayawada
+Country Made Grills & Fries : 3.9 : Fast Food, Sandwich, Burger, Wraps : ₹250 for two :  Poranki, Vijayawada
+Shawarma : 4.8 : Fast Food, Lebanese : ₹150 for two :  Labbipet, Vijayawada
+Bismillah Dum Biriyani : 4.0 : Biryani, South Indian : ₹400 for two :  Tadepalli, Vijayawada
+Om Annapurna Family Restaurant : 4.0 : Andhra, South Indian, North Indian, Chinese, Seafood : ₹400 for two :  PNT Colony, Vijayawada
+786 Biryani : 3.6 : Biryani, Chinese : ₹400 for two :  Gurunanak Colony, Vijayawada
+Aithey Biryani Restaurant : 3.5 : Biryani : ₹300 for two :  Gandhi Nagar, Vijayawada
+Harika Royal Restaurant : 3.4 : Biryani, Andhra, North Indian, Chinese, Seafood : ₹600 for two :  Labbipet, Vijayawada
+Cosmic Restaurent And Bar : 3.4 : South Indian, Biryani, Chinese, Beverages : ₹1,000 for two :  Gandhi Nagar, Vijayawada
+Lassi And Shakes : 4.1 : Shake, Juices, Ice Cream, Desserts, Beverages : ₹400 for two :  Poranki, Vijayawada
+Ghiza Restaurant : 3.8 : Biryani, Chinese, Lebanese, Maharashtrian, North Indian : ₹500 for two :  Gollapudi, Vijayawada
+The Mom's Kitchen : 3.8 : North Indian, South Indian, Chinese, Sichuan : ₹800 for two :  Christurajupuram, Vijayawada
+Shaiks Shawarma 2 : 3.1 : Shawarma, Beverages : ₹300 for two :  Ramavarappadu, Vijayawada
+Cafe Coffee Day : 4.2 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹750 for two :  Labbipet, Vijayawada
+Veera Food Express : 3.2 : Biryani, North Indian, Chinese : ₹450 for two :  Governorpet, Vijayawada
+Harika Biryani House : 4.3 : Biryani, North Indian, South Indian, Chinese : ₹500 for two :  Auto Nagar, Vijayawada
+PR's Godavari Military Hotel : 2.9 : South Indian : ₹500 for two :  Gunadala, Vijayawada
+Tempteys : - : Beverages, Juices, Shake : ₹400 for two :  Labbipet, Vijayawada
+Mannath Biryani House : 3.9 : Chinese, Sichuan : ₹500 for two :  Labbipet, Vijayawada
+Anjaneya Family Restaurant Veg & Non Veg : 3.9 : Biryani, Chinese, South Indian : ₹600 for two :  Gurunanak Colony, Vijayawada
+Hotel Mamata : 3.5 : South Indian, Continental, Biryani, Andhra, North Indian, Chinese, Desserts, Beverages : ₹350 for two :  Governorpet, Vijayawada
+Celebrations Drive Inn : 3.8 : Chinese, North Indian, Kebab, Sichuan : ₹500 for two :  Celebrations Drive Inn, Enkepadu, Vijayawada
+Gatox Naturals : 3.0 : Desserts, Ice Cream, Beverages, Shake : ₹300 for two :  Labbipet, Vijayawada
+Malabary's Family Restaurant : 3.9 : Andhra, Chinese, Mughlai, North Indian, Fast Food, Desserts, Beverages, Sichuan : ₹800 for two :  PNT Colony, Vijayawada
+Dibbarotti Godavari Ruchulu : 3.7 : South Indian : ₹200 for two :  Machavaram, Vijayawada
+Seven Days : 3.0 : Bakery, Desserts, Chinese, Seafood, Sandwich, Pizza, Fast Food, Street Food : ₹400 for two :  Poranki, Vijayawada
+Alankar Sweets & Bakers : 4.2 : Mithai, Fast Food, Bakery : ₹300 for two :  Gunadala, Vijayawada
+Drunken Monkey : 4.1 : Beverages, Juices, Shake, Coffee, Healthy Food, Sandwich, Mexican, Wraps : ₹350 for two :  Auto Nagar, Vijayawada
+Kitkat : 3.4 : Pizza, Fast Food, Sandwich, Burger, Street Food : ₹400 for two :  Gurunanak Colony, Vijayawada
+Thalapaka Biryanis : 3.0 : Biryani, North Indian, Chinese : ₹500 for two :  Ramavarappadu, Vijayawada
+Swap - Protein Starters, Guiltfree Ricebowls and Low Calorie Salads : 4.1 : Healthy Food, North Indian, Wraps, Sandwich, Salad, Continental, Street Food, Beverages : ₹350 for two :  Governorpet, Vijayawada
+Street Bar B Que : 3.6 : North Indian, Andhra, Chinese, Kebab, Biryani : ₹500 for two :  Enikepadu, Vijayawada
+B.R More Biryani's : 3.6 : Biryani, Sandwich, Seafood : ₹500 for two :  Trendset Mall, Labbipet, Vijayawada
+Five Star Chicken : - : Fast Food, Burger, Rolls : ₹300 for two :  Governorpet, Vijayawada
+Have More Thickshakes : 3.7 : Desserts, Ice Cream, Beverages : ₹200 for two :  Auto Nagar, Vijayawada
+Naidu Gari Vindu : 3.8 : Biryani : ₹200 for two :  Labbipet, Vijayawada
+Rollover Icecream Handcrafted : 3.7 : Ice Cream, Beverages : ₹500 for two :  Labbipet, Vijayawada
+Cool Blog : 3.9 : Beverages, Shake, Sandwich, Ice Cream : ₹300 for two :  PNT Colony, Vijayawada
+9 Kitchen : - : Biryani, North Indian, Chinese, South Indian : ₹500 for two :  Gurunanak Colony, Vijayawada
+Mandeez : - : Chinese, Arabian : ₹250 for two :  Gollapudi, Vijayawada
+Tibb's Frankie - Serving Rolls Since 1969 : 4.3 : Rolls : ₹150 for two :  Christurajupuram, Vijayawada
+Mana Mess : 4.5 : South Indian : ₹200 for two :  Gurunanak Colony, Vijayawada
+Hotel Srinivasa : 3.8 : North Indian, Andhra, Biryani : ₹400 for two :  Auto Nagar, Vijayawada
+Barista Diner : 4.1 : Coffee, Italian, Beverages, Desserts, Fast Food : ₹500 for two :  Labbipet, Vijayawada
+Sri Srinivasa Biryani Point : 3.6 : Biryani, Chinese, North Indian, Andhra : ₹500 for two :  Labbipet, Vijayawada
+Akbar Hotel : 4.1 : North Indian, South Indian, Biryani : ₹300 for two :  Islampet, Vijayawada
+Taiba : 3.4 : North Indian, Andhra : ₹300 for two :  Labbipet, Vijayawada
+Dawat Family Restaurant : 3.1 : South Indian, North Indian, Biryani, Mughlai, Seafood, Chinese, Shawarma : ₹450 for two :  Christurajupuram, Vijayawada
+Curries & Biryanis : 3.9 : Biryani, Andhra, North Indian : ₹450 for two :  Auto Nagar, Vijayawada
+Aha Biryani : 3.9 : Biryani, North Indian, Chinese : ₹400 for two :  Auto Nagar, Vijayawada
+Village Aaharam - Organic Hotel : 3.2 : South Indian : ₹350 for two :  Auto Nagar, Vijayawada
+Grillland BBQ : 3.7 : BBQ, Fast Food, Beverages : ₹400 for two :  Auto Nagar, Vijayawada
+DS Milk World : 3.9 : Beverages, Desserts, Shake : ₹200 for two :  Auto Nagar, Vijayawada
+Sri Perayya Mess & Caterers : 3.2 : South Indian : ₹300 for two :  Governorpet, Vijayawada
+Seetaiah Idly & Dosa Corner : 3.2 : South Indian : ₹150 for two :  Governorpet, Vijayawada
+Krishna Residency : 4.0 : South Indian, Chinese, North Indian, Andhra, Biryani, Sandwich, Italian, Beverages : ₹350 for two :  Governorpet, Vijayawada
+H.Ramesh Biryani & Curry Point : - : Biryani, South Indian : ₹300 for two :  Krishna Lanka, Vijayawada
+Brewbakes : 3.8 : Chinese, North Indian, Fast Food, Beverages, Sichuan : ₹750 for two :  Labbipet, Vijayawada
+Home Town Bar-B-Que : 3.7 : Andhra, Biryani, Chinese, Street Food, Sichuan : ₹500 for two :  Poranki, Vijayawada
+Gunapati Special Restaurant : 3.8 : Biryani, South Indian, Chinese, Desserts, Beverages, Shake : ₹350 for two :  Islampet, Vijayawada
+Crazy Golden & Family Restaurant : 3.8 : North Indian, Chinese, Ice Cream, Shake, Beverages : ₹500 for two :  Governorpet, Vijayawada
+C3 - Cherry's Continental Cafe : 3.9 : Pizza, Sandwich, Burger, Fast Food, Street Food : ₹500 for two :  Auto Nagar, Vijayawada
+Khaju House : - : Mithai, Desserts : ₹300 for two :  Labbipet, Vijayawada
+Cone Pizza : 3.7 : Pizza, Fast Food, Beverages, Sichuan : ₹500 for two :  Labbipet, Vijayawada
+K's Bistro : 3.4 : Biryani, Chinese, Fast Food, Burger, Sandwich, Wraps, Pizza, Sichuan : ₹500 for two :  Labbipet, Vijayawada
+My Continental Cafe : 3.2 : Coffee, Tea, Fast Food, Chinese, Biryani, Seafood, Shake, Beverages : ₹500 for two :  Gurunanak Colony, Vijayawada
+Cool Zone : 3.9 : Fast Food, Desserts, Beverages : ₹450 for two :  Poranki, Vijayawada
+Aakali Rajyam : 3.2 : South Indian, Biryani : ₹500 for two :  Labbipet, Vijayawada
+Hotel Urban Delight : 3.7 : Chinese, North Indian, Biryani, Mughlai, Beverages : ₹500 for two :  Gurunanak Colony, Vijayawada
+Manjeera Restaurant : - : North Indian, Chinese, Seafood, Biryani, Mughlai, Desserts, Beverages : ₹400 for two :  Enikepadu, Vijayawada
+IXCream : - : Ice Cream, Desserts, Pizza, Fast Food : ₹450 for two :  Auto Nagar, Vijayawada
+Hotel Pratibha Grand : 3.6 : Biryani, South Indian, North Indian : ₹700 for two :  Gandhi Nagar, Vijayawada
+Iconic Mocktails And Milkshakes : 4.0 : Beverages, Shake, Fast Food : ₹300 for two :  Labbipet, Vijayawada
+Sahara Spices Family Restaurant : 3.1 : North Indian, Chinese, South Indian, Sichuan : ₹200 for two :  Poranki, Vijayawada
+Bezawada Bhavan The Family Restuarant : 3.8 : North Indian, Mughlai, Biryani, Chinese, Seafood : ₹350 for two :  Governorpet, Vijayawada
+Hotel Swarna Heights : 3.9 : Biryani, Chinese : ₹500 for two :  Labbipet, Vijayawada
+Ganesha Restaurant : 4.0 : Rajasthani : ₹500 for two :  Mangalagiri, Vijayawada
+Geethakrishna Family Restaurant : 3.6 : Andhra, North Indian, Mughlai, Chinese, Sichuan, Biryani : ₹500 for two :  Labbipet, Vijayawada
+Star Spicy Hotel : 3.6 : Biryani : ₹300 for two :  Auto Nagar, Vijayawada
+Vedesi Restaurant : 4.0 : Fast Food, Pizza, Beverages : ₹500 for two :  Governorpet, Vijayawada
+Lassi Shop : 4.0 : Juices, Beverages, Ice Cream, Desserts : ₹200 for two :  Auto Nagar, Vijayawada
+Bezawada Dhaba : 3.4 : Biryani, South Indian, North Indian, Beverages, Chinese : ₹500 for two :  Labbipet, Vijayawada
+Chaai Resto : 4.1 : Tea, Burger, Fast Food, Chinese, Rolls, Sandwich, Shake, Beverages : ₹400 for two :  Gurunanak Colony, Vijayawada
+9 Grills : - : Biryani, North Indian : ₹300 for two :  Labbipet, Vijayawada
+PUBG Shakes : 3.9 : Beverages : ₹200 for two :  Poranki, Vijayawada
+Havmor Thick Shakes & Ice Creams : 3.0 : Desserts, Beverages, Shake : ₹350 for two :  Tadepalli, Vijayawada
+Hotel City Central - Citrus : 3.4 : Biryani, North Indian, South Indian, Chinese : ₹300 for two :  Governorpet, Vijayawada
+Flamingo : 3.7 : Beverages, Fast Food, Shake : ₹300 for two :  Krishna Lanka, Vijayawada
+Rural Military Dhaba : 3.9 : Andhra, Mughlai, North Indian, Biryani : ₹600 for two :  Christurajupuram, Vijayawada
+Sri Vayuputhra Fast Food Center : 3.3 : Chinese : ₹300 for two :  Auto Nagar, Vijayawada
+Patamata Sai Hotel : - : South Indian, Andhra : ₹300 for two :  Auto Nagar, Vijayawada
+Bavya Tiffins : 3.7 : South Indian : ₹200 for two :  Labbipet, Vijayawada
+Liquid Den : 3.7 : Beverages, Fast Food, Shake : ₹400 for two :  Auto Nagar, Vijayawada
+One  Cake's : 3.5 : Bakery, Desserts, Fast Food, Street Food : ₹400 for two :  Governorpet, Vijayawada
+Bezawada Homely Kitchen : 3.2 : Biryani, Chinese, North Indian, Andhra, Sichuan : ₹600 for two :  Gandhi Nagar, Vijayawada
+The Mughal Darbar : 3.0 : Biryani, Chinese : ₹700 for two :  Islampet, Vijayawada
+Meat & Eat : 3.8 : Burger, Pizza, Sandwich, Rolls, Desserts : ₹500 for two :  Labbipet, Vijayawada
+S V Masqati : 3.9 : Fast Food, Street Food, South Indian, Chinese, Ice Cream, Beverages, Shake, Sichuan : ₹350 for two :  Labbipet, Vijayawada
+Just Bake : 3.7 : Bakery : ₹400 for two :  Shri Ramachandra Nagar, Vijayawada
+Amma Lunch Box : - : South Indian : ₹250 for two :  Auto Nagar, Vijayawada
+Bamma Restaurant : 3.8 : Seafood, South Indian, North Indian, Chinese, Biryani : ₹600 for two :  Auto Nagar, Vijayawada
+Spicy Pot : 4.0 : Biryani : ₹500 for two :  Poranki, Vijayawada
+Pizza Cube : - : Pizza : ₹300 for two :  Poranki, Vijayawada
+Hyderabad Biryani House : 3.4 : Biryani, Chinese, Shake : ₹300 for two :  Islampet, Vijayawada
+Velvet Crust : 4.1 : Fast Food, Pizza, Desserts, Ice Cream, Beverages : ₹500 for two :  Gurunanak Colony, Vijayawada
+Dragon Express : 4.1 : Chinese, Sichuan : ₹350 for two :  Auto Nagar, Vijayawada
+Tulasi Fast Foods : 3.9 : Biryani, Chinese, North Indian, South Indian, Sichuan : ₹350 for two :  Islampet, Vijayawada
+Raza Star Biryani Point : - : Biryani, South Indian : ₹400 for two :  Gollapudi, Vijayawada
+Mr.Idli - K Street : 2.6 : South Indian : ₹300 for two :  Labbipet, Vijayawada
+Brother's Family Restaurant : 3.6 : South Indian, North Indian, Shake : ₹450 for two :  Labbipet, Vijayawada
+Al Sami Shawarma Spot : 3.8 : Lebanese : ₹200 for two :  Auto Nagar, Vijayawada
+Sai Nikhil Noodles Fried Rice Manchuria : 3.5 : Chinese : ₹250 for two :  Governorpet, Vijayawada
+Flavour's : 3.2 : Biryani, Chinese, North Indian : ₹500 for two :  Poranki, Vijayawada
+Kadiyapattanam Military Hotel : 3.7 : Andhra, South Indian, Biryani, Street Food : ₹400 for two :  Labbipet, Vijayawada
+Nandan's Kitchen : 3.9 : Seafood, Biryani, North Indian, Chinese : ₹500 for two :  Gunadala, Vijayawada
+Manasa Fastfood & Biryani : 3.6 : Biryani, South Indian : ₹300 for two :  Gurunanak Colony, Vijayawada
+CK Grand Restaurant : - : Andhra, Chinese, North Indian, Seafood : ₹500 for two :  Labbipet, Vijayawada
+Bhayyaji Dal Roti Restaurant : 3.9 : Chinese, North Indian, Beverages : ₹400 for two :  Islampet, Vijayawada
+Sai Manogna Restaurant : 3.9 : Chinese, Biryani : ₹300 for two :  Krishna Lanka, Vijayawada
+E - Rice House : 3.5 : South Indian, Street Food, Beverages : ₹300 for two :  Madhura Nagar, Vijayawada
+New Chand Hotel : - : Biryani : ₹400 for two :  PNT Colony, Vijayawada
+Nutak Biryani : 3.9 : Biryani, Andhra : ₹300 for two :  Christurajupuram, Vijayawada
+Food Of Indians : - : North Indian, Italian, Momos, Pizza, Fast Food, Street Food, Shake, Desserts : ₹300 for two :  Gollapudi, Vijayawada
+Team9's Kitchen : 3.5 : North Indian, Biryani, Chinese : ₹400 for two :  Gunadala, Vijayawada
+Food Land Drive In : 3.9 : Fast Food, Chinese, Burger, Sandwich, Shake, Beverages : ₹350 for two :  Poranki, Vijayawada
+The Great Eagle Restaurant-Vasanth Marg : 3.7 : Chinese : ₹550 for two :  Labbipet, Vijayawada
+Minerva Grand - Eat Street : 2.9 : South Indian, Beverages : ₹400 for two :  Gunadala, Vijayawada
+Vaishnavi Family Restaurant : 3.5 : South Indian, Chinese, Seafood : ₹700 for two :  Governorpet, Vijayawada
+RR Good Morning : 3.4 : South Indian, Andhra : ₹200 for two :  Gurunanak Colony, Vijayawada
+LN Fast Foods & Biryani's : - : Biryani, Pizza, Fast Food, Street Food : ₹300 for two :  Governorpet, Vijayawada
+Dibbarotti : 2.7 : Andhra, South Indian : ₹300 for two :  Machavaram, Vijayawada
+Keerthi Curry Point, Meals & Biryani : 3.4 : Biryani, Andhra : ₹300 for two :  Poranki, Vijayawada
+Hema Bakery : 3.5 : Bakery : ₹400 for two :  Labbipet, Vijayawada
+Hotel Lazeez : 3.5 : Fast Food, North Indian : ₹250 for two :  Krishna Lanka, Vijayawada
+AFC : 3.4 : Burger, Fast Food, Seafood : ₹300 for two :  Trendset Mall, Labbipet, Vijayawada
+T2 Panipuri & Chat Bhandar : 3.4 : Street Food, Beverages : ₹200 for two :  Islampet, Vijayawada
+Bahadur Biryani : 3.7 : Biryani, Chinese, Sichuan : ₹500 for two :  Gurunanak Colony, Vijayawada
+Country Side Andhra Restaurant : 3.2 : Biryani, Andhra, Fast Food, Desserts : ₹400 for two :  Auto Nagar, Vijayawada
+Cocofit : 3.8 : Beverages, Ice Cream, Desserts : ₹400 for two :  Labbipet, Vijayawada
+Rajadhani Biryani : - : Biryani : ₹250 for two :  Gandhi Nagar, Vijayawada
+Coconut Juice Bar : - : Juices, Shake, Beverages, Ice Cream, Desserts : ₹300 for two :  Auto Nagar, Vijayawada
+Veggies : 3.3 : North Indian, Street Food, South Indian : ₹300 for two :  Trendset Mall, Labbipet, Vijayawada
+Karthika Biryani Point : 3.1 : Biryani : ₹300 for two :  Auto Nagar, Vijayawada
+Minar Cafe & Restaurant : 3.2 : Biryani, Chinese, South Indian, North Indian : ₹350 for two :  Islampet, Vijayawada
+Taste Food Court : - : Biryani, Chinese, North Indian : ₹300 for two :  Gurunanak Colony, Vijayawada
+Single Biryani's : 3.9 : Biryani : ₹300 for two :  Gandhi Nagar, Vijayawada
+Lungi Mama : 3.7 : Fast Food : ₹300 for two :  Labbipet, Vijayawada
+King And Queen : 3.1 : North Indian, Chinese, Biryani, Sichuan, Street Food : ₹600 for two :  Poranki, Vijayawada
+Scoops & Shakes : 3.7 : Desserts, Ice Cream, Beverages : ₹200 for two :  Auto Nagar, Vijayawada
+Synergy Family Restaurant : - : Biryani, Chinese, South Indian, Sichuan : ₹700 for two :  Gurunanak Colony, Vijayawada
+Koolants : 3.4 : Sandwich, Wraps, Fast Food, Street Food, Bakery, Desserts, Juices, Beverages : ₹400 for two :  Christurajupuram, Vijayawada
+Flavours : 3.2 : Biryani, South Indian, Shake : ₹300 for two :  Labbipet, Vijayawada
+Sip N Stories : 3.2 : Continental, North Indian, Chinese, Biryani : ₹500 for two :  Labbipet, Vijayawada
+Shake And Sip : 3.8 : Ice Cream, Fast Food, Desserts, Beverages, Shake : ₹300 for two :  Gurunanak Colony, Vijayawada
+Punjabi Tadka Express : 2.8 : North Indian, Mughlai : ₹550 for two :  Krishna Lanka, Vijayawada
+Monster Shakes : - : Shake, Beverages, Ice Cream, Desserts : ₹200 for two :  Labbipet, Vijayawada
+Dlites : 3.2 : Burger, Sandwich, Pizza, Biryani, Chinese, Beverages : ₹400 for two :  Gurunanak Colony, Vijayawada
+Hotel Vasant Marg : 2.9 : South Indian, Biryani, Chinese : ₹200 for two :  Labbipet, Vijayawada
+Chopsticks : 3.2 : Chinese, Sichuan : ₹350 for two :  Labbipet, Vijayawada
+Pa Grelhado Frango : 2.9 : Pizza, Sandwich, Wraps, Burger, Pasta : ₹400 for two :  Auto Nagar, Vijayawada
+Hotel Sree Kubera Grand : 3.6 : Andhra, North Indian, Seafood, Chinese, Biryani : ₹1,000 for two :  Gandhi Nagar, Vijayawada
+The Belgium Waffles : 3.1 : Waffle : ₹300 for two :  Gurunanak Colony, Vijayawada
+Dimmy Pan Palace : 3.6 : Mithai, Fast Food : ₹200 for two :  Labbipet, Vijayawada
+The Fried Story : 2.4 : Fast Food, Pizza, Burger, Wraps, Sandwich, Waffle, Shake, Beverages : ₹300 for two :  Ramavarappadu, Vijayawada
+Aroma Cafe & Restaurant : 3.4 : Continental, Chinese : ₹300 for two :  Gurunanak Colony, Vijayawada
+Yummy Bites : 3.6 : Chinese, Burger, Momos : ₹500 for two :  Labbipet, Vijayawada
+Baybee Chikizza : 3.4 : Pizza, Burger, Fast Food, Beverages, Sandwich, Wraps : ₹500 for two :  Auto Nagar, Vijayawada
+John Mess And Curry Point : 3.2 : Biryani, South Indian, Chinese, Beverages : ₹250 for two :  Machavaram, Vijayawada
+The Chai Spot : 3.2 : Fast Food, Tea, Beverages, Sichuan : ₹250 for two :  Auto Nagar, Vijayawada
+New Star Dum Biryani : - : Biryani, North Indian : ₹450 for two :  Governorpet, Vijayawada
+Amul Ice Cream Parlour : - : Ice Cream : ₹200 for two :  Poranki, Vijayawada
+Bake Well : 3.2 : Bakery, Pizza, Burger, Sandwich : ₹200 for two :  Islampet, Vijayawada
+DBL Foods : - : Fast Food, Chinese : ₹200 for two :  Auto Nagar, Vijayawada
+Di Big Belly's : - : North Indian, Chinese, Biryani, Sichuan : ₹400 for two :  Machavaram, Vijayawada
+The Snack Hub : 3.2 : Kebab, Chinese, Beverages, Sichuan : ₹300 for two :  Gurunanak Colony, Vijayawada
+A1 Spicial Chicken Biryani And Kabab : 3.5 : Biryani, Kebab : ₹300 for two :  Auto Nagar, Vijayawada
+Mumbai Kulfi : - : Desserts : ₹150 for two :  Poranki, Vijayawada
+Arabian Mandi : 3.2 : North Indian : ₹300 for two :  Islampet, Vijayawada
+Guns N Fries : - : Pizza, Burger, Sandwich, Shake, Street Food, Fast Food : ₹400 for two :  Labbipet, Vijayawada
+Capital Biryani : - : Biryani : ₹300 for two :  Krishna Lanka, Vijayawada
+Continental Park Hotel : 2.9 : Biryani, North Indian, Chinese, Continental : ₹600 for two :  Governorpet, Vijayawada
+The London Shakes : 3.4 : Shake, Beverages, Sandwich, Pizza, Burger, Ice Cream : ₹300 for two :  Gurunanak Colony, Vijayawada
+Star Dhaba & Family Restaurant : 3.2 : Chinese, North Indian, Biryani, Seafood, Sichuan : ₹400 for two :  PNT Colony, Vijayawada
+Pankaja Cool Drinks : 3.2 : Beverages : ₹100 for two :  Islampet, Vijayawada
+The Cloud Kitchen : - : North Indian, Biryani : ₹400 for two :  Islampet, Vijayawada
+Under World Food Palza : 3.3 : Pizza, Fast Food, Street Food, Juices, Shake, Ice Cream, Desserts : ₹250 for two :  Islampet, Vijayawada
+Dumont Creamery : - : Beverages, Desserts : ₹250 for two :  Krishna Lanka, Vijayawada
+Cheese Bites : 3.2 : Pizza, Burger, Sandwich, Fast Food, Momos : ₹300 for two :  Gollapudi, Vijayawada
+A1 Special Chicken Biryani and Kabab : 3.2 : Kebab, Biryani, Beverages : ₹350 for two :  Auto Nagar, Vijayawada
+La Pino'z Pizza : 3.9 : Pizza, Fast Food : ₹300 for two :  Gurunanak Colony, Vijayawada
+Maineni Vari Madhuruchi Restaurant : 3.0 : Biryani, Chinese, North Indian, Sichuan : ₹450 for two :  Labbipet, Vijayawada
+Modern Cafe : - : South Indian, Chinese, Beverages, North Indian : ₹300 for two :  Governorpet, Vijayawada
+Delight Dhaba : - : North Indian, Andhra : ₹400 for two :  Mangalagiri, Vijayawada
+Bismillah Dum Biryani Centre : - : Biryani, South Indian, North Indian : ₹300 for two :  Mangalagiri, Vijayawada
+Sharma Dhaba : - : North Indian : ₹400 for two :  Mangalagiri, Vijayawada
+Hotel Le Godavari : - : South Indian : ₹250 for two :  Gollapudi, Vijayawada
+Burger Babai : - : Sandwich, Burger, Pizza, Chinese, Biryani, Fast Food, Ice Cream, Beverages : ₹500 for two :  Mangalagiri, Vijayawada
+Cross Roads Restaurant & Sweets : - : Chinese, Biryani, Andhra, South Indian, North Indian : ₹400 for two :  Gollapudi, Vijayawada
+Cafe Lavazza : 3.6 : Pizza, Burger, Beverages : ₹400 for two :  Krishna Lanka, Vijayawada
+New Mishra Dhaba : 3.2 : North Indian, Andhra : ₹350 for two :  Mangalagiri, Vijayawada
+Malabary's Family Restaurant : - : Chinese, Andhra, Mughlai, North Indian, Kebab, Biryani, Desserts, Beverages : ₹650 for two :  Payakapuram, Vijayawada
+Mirchi Restaurant : 3.9 : South Indian : ₹300 for two :  Poranki, Vijayawada
+Bismilla Biryani Hotel : 3.5 : Biryani : ₹200 for two :  Gannavaram, Vijayawada
+North Mishra Dhaba : 3.7 : North Indian, South Indian, Andhra : ₹400 for two :  Mangalagiri, Vijayawada
+Biryanis And More : 3.9 : Biryani, Andhra, Chinese, Sichuan : ₹300 for two :  Mangalagiri, Vijayawada
+Goofoo Da Dhaba : 3.1 : North Indian : ₹400 for two :  Mangalagiri, Vijayawada
+KKR’s Royal Grand : 3.6 : Chinese, Biryani, Kebab, Andhra, North Indian, Sichuan : ₹700 for two :  Poranki, Vijayawada
+The Chicken Company : 3.4 : Burger, Sandwich, Pizza, Fast Food, Desserts : ₹350 for two :  Gollapudi, Vijayawada
+Taj Biryani Point : 3.2 : Biryani, Healthy Food, Fast Food : ₹400 for two :  Gannavaram, Vijayawada
+Bazaar - All Day Dinner : 3.6 : Continental, Mexican, Italian, North Indian, Biryani, Chinese, Desserts, Beverages : ₹2,500 for two :  Gollapudi, Vijayawada
+Race Restaurant : - : Biryani : ₹500 for two :  Mangalagiri, Vijayawada
+Chicago Pizza : 3.8 : Pizza, Italian, Fast Food, Beverages : ₹600 for two :  Gollapudi, Vijayawada
+Hotel Alfa : 3.9 : North Indian : ₹600 for two :  Gollapudi, Vijayawada

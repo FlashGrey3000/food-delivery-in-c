@@ -1,0 +1,477 @@
+The Black Cat Lounge : New : Pizza, Pasta, Asian, Kebab, Desserts : ₹2,000 for two :  Park Street Area, Kolkata
+Kolkata 46 : 4.1 : Chinese, Italian, Pizza, North Indian, Coffee, Shake, Beverages, Bengali : ₹1,100 for two :  Tangra, Kolkata
+The Spoilled Chef : 3.9 : North Indian, South Indian, Continental, Italian, Beverages, Desserts, Pizza, Pasta : ₹400 for two :  Park Street Area, Kolkata
+Rang De Basanti Dhaba : 4.2 : North Indian, Kebab, Biryani, Chinese, Beverages : ₹800 for two :  New Market Area, Kolkata
+The Urban Hive : 4.1 : North Indian, Italian, Chinese, Pizza, Burger, Fast Food, Desserts, Beverages : ₹900 for two :  Park Street Area, Kolkata
+The Calcuttaa Bar : 4.4 : North Indian, Italian, Chinese, Bar Food, Continental : ₹1,000 for two :  Park Street Area, Kolkata
+Hard Rock Cafe : 4.5 : American, Italian, Salad, Burger, Beverages, Wraps, Desserts : ₹2,000 for two :  Park Street Area, Kolkata
+Euphoric Pub & Kitchen : 3.8 : Italian, Chinese, Asian, North Indian, Continental, Bar Food : ₹1,800 for two :  Park Street Area, Kolkata
+Lazzy Panda : 3.9 : North Indian, Chinese, Italian, Sandwich, Shake, Beverages : ₹1,000 for two :  Park Street Area, Kolkata
+Criollo by Craft Coffee : 4.1 : Coffee, Cafe : ₹800 for two :  Park Street Area, Kolkata
+1000 BC : 4.0 : Chinese, Healthy Food, Continental, Italian, Mexican, North Indian, Desserts, Beverages : ₹1,800 for two :  Park Street Area, Kolkata
+Roots : 4.1 : Asian, Continental, Mexican, North Indian : ₹1,300 for two :  Theatre Road, Kolkata
+Firangi Cafe Bistro : New : Cafe, Asian, Continental, Pizza, Pasta, Coffee : ₹550 for two :  Park Street Area, Kolkata
+Park Street Social : 4.2 : North Indian, Fast Food, Biryani, Pasta, Burger, Kebab, Momos, Beverages : ₹1,700 for two :  Park Street Area, Kolkata
+Peter Hu? : 4.1 : Asian, Chinese, Thai, Rolls, Salad, Desserts, Beverages : ₹1,600 for two :  Park Street Area, Kolkata
+One8 Commune : 4.5 : Finger Food, Continental, Italian, Asian, North Indian, Oriental, Beverages, Desserts : ₹2,000 for two :  Park Street Area, Kolkata
+Moti Mahal Delux : 4.4 : North Indian, Chinese, Mughlai, Kebab, Seafood : ₹1,300 for two :  Park Street Area, Kolkata
+Pepe Rosa : 4.4 : Italian, Mediterranean, Beverages : ₹2,500 for two :  Camac Street Area, Kolkata
+Seoul Story : 3.9 : Korean : ₹1,000 for two :  Park Street Area, Kolkata
+Carpe Diem : 4.5 : Chinese, North Indian, Continental, Italian, Finger Food, Beverages, Desserts : ₹1,900 for two :  Park Street Area, Kolkata
+Dilli Khaas : 4.1 : North Indian, Mughlai : ₹1,000 for two :  Howrah Maidan Area, Howrah
+Soba Sassy : 4.5 : Asian, Chinese, Rolls, Seafood, Salad, Shake, Beverages, Desserts : ₹2,200 for two :  Camac Street Area, Kolkata
+Aajisai : 4.3 : Japanese, Sushi, Australian, Beverages : ₹2,500 for two :  Quest Mall, Ballygunge, Kolkata
+Olterra : 4.9 : Finger Food, Modern Indian, Asian, Italian, Continental, North Indian, Desserts, Beverages : ₹2,500 for two :  Park Street Area, Kolkata
+Pawan Putra : 4.3 : North Indian, Chinese, Continental, Salad : ₹1,200 for two :  Kankurgachi, Kolkata
+JW Kitchen - JW Marriott, Kolkata : 4.2 : North Indian, European, Mediterranean, Thai, Salad, Desserts, Beverages : ₹2,500 for two :  JW Marriott Hotel Kolkata, Science City Area, Kolkata
+Pub 13 : 3.8 : North Indian, Chinese, Continental, Bar Food, Italian : ₹1,200 for two :  Park Street Area, Kolkata
+Que Pasa : 4.3 : North Indian, Oriental, Sushi, Continental, Desserts : ₹1,100 for two :  Sector 1, Salt Lake, Kolkata
+Deck 88 : 4.4 : Continental, Asian, North Indian, Bengali, Bar Food, Desserts, Beverages : ₹2,100 for two :  Camac Street Area, Kolkata
+Effingut : 4.6 : North Indian, Continental, Oriental, Pizza, Fast Food, Biryani, Desserts, Beverages : ₹2,500 for two :  Park Street Area, Kolkata
+Kebab-e-Que - The Astor Hotel : 4.4 : Kebab, North Indian, Chinese, Asian, Continental, Bengali, Biryani, Desserts : ₹2,000 for two :  The Astor Hotel, Theatre Road, Kolkata
+Hammer : 4.2 : Continental, Mexican, North Indian, Chinese, Street Food, Tea, Coffee, Desserts : ₹2,000 for two :  Park Street Area, Kolkata
+World Bar 3 : 4.3 : North Indian, Oriental, Italian, Continental : ₹2,000 for two :  Minto Park, Kolkata
+Tall Tales : 4.1 : Modern Indian, Continental : ₹1,500 for two :  Camac Street Area, Kolkata
+Flavours Of India : 4.5 : North Indian, Chinese, Modern Indian, Asian, Continental, Mughlai : ₹1,200 for two :  Park Circus Area, Kolkata
+Mehico : 4.2 : Mexican, Salad : ₹2,400 for two :  Camac Street Area, Kolkata
+Cobo - Asian Skybar & Brewery : 4.1 : Asian : ₹1,500 for two :  Loudon Street Area, Kolkata
+Romaania : New : Continental, Italian, Mexican : ₹2,500 for two :  Elgin, Kolkata
+Zyqa Modern Indian Kitchen : 4.2 : North Indian, Mughlai, Kebab, Chinese, Bar Food, Desserts : ₹1,200 for two :  Theatre Road, Kolkata
+Sorano : 4.5 : Italian, Continental, Pizza, Desserts, Beverages : ₹2,000 for two :  Park Street Area, Kolkata
+Scarlet - Aauris : 3.8 : Cafe, Fast Food : ₹950 for two :  Aauris, Theatre Road, Kolkata
+Taki Taki : 4.5 : Sushi, Japanese, Asian, Thai, Chinese, Desserts : ₹3,000 for two :  Minto Park, Kolkata
+The Bikers Cafe : 4.4 : Italian, American, Continental, North Indian, Fast Food, Desserts, Beverages : ₹1,400 for two :  Elgin, Kolkata
+Hashtag : 4.2 : Asian, Continental : ₹2,500 for two :  Chowringhee, Kolkata
+Breeze The Sky Lounge : New : North Indian, Continental, Pizza, Italian, Turkish, Pasta, Chinese : ₹1,200 for two :  Minto Park, Kolkata
+Club Aeries : 4.3 : North Indian, Chinese, Italian, Continental, Grilled Chicken, Bar Food, Desserts, Beverages : ₹1,800 for two :  Gariahat, Kolkata
+UNO Pizzeria & Grill : 4.5 : Pizza, Finger Food, Italian, Burger, French, Mexican, Desserts, Beverages : ₹1,400 for two :  Kankurgachi, Kolkata
+Madam G : 4.3 : Modern Indian, North Indian, South Indian, Goan, Mangalorean, Andhra, Rajasthani, Gujarati : ₹1,800 for two :  Elgin, Kolkata
+TBL : 4.5 : Bar Food, North Indian, Beverages : ₹1,200 for two :  Ultadanga, Kolkata
+The Corner Courtyard : 4.1 : Italian, Salad, Pizza, Continental, Seafood, Bar Food, Desserts, Coffee : ₹950 for two :  The Corner Courtyard, Hazra, Kolkata
+Cafe Blob : 4.4 : Cafe, Beverages, Shake, Fast Food, Pizza, Burger, Sandwich, Desserts : ₹850 for two :  Ultadanga, Kolkata
+The Salt House : 4.2 : Continental, Italian, Salad, Beverages, Bar Food : ₹1,800 for two :  Loudon Street Area, Kolkata
+Bengal Dhaba : 4.3 : North Indian, Mughlai, Kebab, Chinese, Bengali, Desserts, Beverages : ₹1,400 for two :  Ultadanga, Kolkata
+Jalsa : 4.5 : Modern Indian, North Indian, Mughlai, Finger Food, Beverages, Desserts : ₹1,800 for two :  Camac Street Area, Kolkata
+OG by the Lake : 3.8 : Asian, Continental, Italian, North Indian, Shake, Desserts : ₹1,200 for two :  Tangra, Kolkata
+The Cult : 4.4 : Asian, Continental, Chinese, North Indian : ₹1,200 for two :  Sector 5, Salt Lake, Kolkata
+Story Of Beans : 4.2 : Healthy Food, Chinese, Mexican, Sandwich, Italian, North Indian, Coffee, Beverages : ₹600 for two :  Sector 3, Salt Lake, Kolkata
+Ozora : 4.2 : North Indian, Chinese, Italian, Continental, Asian, Mughlai, Pizza, Desserts : ₹3,000 for two :  Acropolis Mall, Kasba, Kolkata
+Vintage Asia - JW Marriott, Kolkata : 4.7 : Asian, Thai, Chinese, Japanese, Beverages, Rolls : ₹2,500 for two :  JW Marriott Hotel Kolkata, Science City Area, Kolkata
+Bombastic Supper Club : 4.2 : European, Asian : ₹1,500 for two :  Park Street Area, Kolkata
+Riyasat-E-Hind : 4.3 : North Indian, Chinese, Mughlai, Kebab, Biryani, Seafood, Desserts, Beverages : ₹1,200 for two :  Ballygunge, Kolkata
+Chili's Grill & Bar : 4.5 : Mexican, Tex-Mex, American, BBQ : ₹1,300 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Double Down : 4.5 : Thai, Chinese, Continental, Asian, Italian, Beverages : ₹1,800 for two :   Ideal Plaza , Kolkata
+Seasonal Taste- The Westin Kolkata : 4.2 : Continental, North Indian, Asian, Finger Food, Desserts, Beverages : ₹3,500 for two :  The Westin Kolkata Rajarhat, New Town, Kolkata
+Pepper Town : 4.1 : Continental, Chinese, North Indian, Pizza, Oriental, Fast Food, Desserts, Beverages : ₹1,200 for two :  Sector 1, Salt Lake, Kolkata
+The Garden Lounge : 4.5 : Biryani, Asian, Continental, Italian, Beverages, Chinese : ₹1,300 for two :  Sector 5, Salt Lake, Kolkata
+Waypoint : 4.7 : Cafe, Salad, Healthy Food, Continental, Sandwich, Wraps, Desserts, Beverages : ₹1,100 for two :  Paddapukur, Kolkata
+Warehouse Cafe : 4.3 : Continental, Italian, Asian, Oriental, Desserts, Beverages : ₹1,800 for two :  South City Mall, Prince Anwar Shah Road, Kolkata
+Grubvibe : 4.2 : Cafe, Chinese, Continental, Italian, North Indian, Coffee, Beverages, Desserts : ₹650 for two :  Sector 1, Salt Lake, Kolkata
+Five Mad Men : 4.2 : Chinese, Salad, Healthy Food, Asian, North Indian, Burger, Mexican, Italian : ₹2,000 for two :   Street 25, GP Block , Kolkata
+Republic Of Calcutta : 4.2 : Chinese, Continental, Seafood, Kebab, Bar Food, North Indian : ₹1,200 for two :  Avani Riverside Mall, Shibpur, Howrah
+Serra Cafe : 4.1 : Cafe, Coffee, Continental, Oriental, Seafood, Fast Food, Beverages : ₹800 for two :  Sector 5, Salt Lake, Kolkata
+Bubble N Tea Asian Cafe : 4.6 : Bubble Tea, Asian, Korean, Pasta, Cafe, Chinese, Tea, Seafood : ₹1,000 for two :  Sector 3, Salt Lake, Kolkata
+Vaayu : 4.5 : Kebab, Pizza, Continental, Bar Food, Chinese, North Indian, Pasta : ₹1,000 for two :  Golpark, Kolkata
+Afraa Lounge & Restaurant : 4.5 : Asian, Italian, North Indian, Kebab, Pizza, Pasta, Desserts : ₹2,000 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Cafe Mezzuna : 4.6 : Italian, Pizza, Continental, Pasta, Desserts, Shake, Beverages : ₹1,800 for two :  Forum Mall, Elgin, Kolkata
+Kaafila : 4.5 : North Indian, Mughlai, Biryani : ₹2,000 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+UNO Pizzeria & Grill : 4.5 : Pizza, Italian, Burger, Beverages : ₹1,000 for two :  New Town, Kolkata
+The Sumo's : 3.6 : Korean, Pasta, Chinese, Pizza, Rolls, Asian, Desserts, Beverages : ₹1,200 for two :  Sector 1, Salt Lake, Kolkata
+Five & Dime : 4.5 : North Indian, Pasta, Continental, Oriental, Chinese, Kebab, Beverages : ₹1,700 for two :  Sector 5, Salt Lake, Kolkata
+Loafer's Café : 4.3 : Cafe, Coffee, Sandwich, Continental, Bakery, Pasta, Pizza, Desserts : ₹800 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Roastery Coffee House : 4.5 : Cafe, Continental, American, Italian, Pizza, Fast Food, Desserts, Beverages : ₹1,200 for two :  Gariahat, Kolkata
+Afraa Deli : 4.1 : Pizza, Pasta, Coffee, Continental, Mexican, Desserts, Cafe : ₹1,200 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Fiesta : 4.3 : North Indian, Continental, Oriental : ₹1,400 for two :  Taltala, Kolkata
+Gondhoraj - Flavours of Bengal : 4.3 : Bengali, Seafood, Mughlai, Desserts, Beverages : ₹1,300 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Octa : 4.0 : Sushi, Chinese, Italian, Asian, Bar Food, Desserts, Beverages : ₹2,000 for two :  Park Street Area, Kolkata
+The Orient : 4.3 : Asian, Chinese, Oriental, Thai, Seafood, Desserts, Beverages : ₹2,000 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Amazora - The Trippy Jungle : 4.3 : Continental, Chinese : ₹1,500 for two :  Park Street Area, Kolkata
+Sabka Club : 4.3 : Modern Indian, Continental, Italian, Chinese, Finger Food, Beverages : ₹1,500 for two :  Topsia, Kolkata
+BarBQ : 4.4 : Chinese, North Indian, Asian, Kebab, Seafood, Desserts : ₹1,400 for two :  Park Street Area, Kolkata
+Sonar Tori : 4.4 : Bengali, Bangladeshi, Rolls, Desserts, Beverages : ₹1,900 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Royal China : 4.4 : Chinese, Asian, Seafood, Desserts, Beverages : ₹2,000 for two :  Forum Mall, Elgin, Kolkata
+Craft Coffee Experience Centre : 4.2 : Cafe, Coffee, Desserts, American, Pizza, Pasta, Salad, Seafood : ₹1,200 for two :  Sector 3, Salt Lake, Kolkata
+Kareem's : 4.2 : North Indian, Kebab, Mughlai, Biryani, Seafood, Desserts, Beverages : ₹1,200 for two :  Park Street Area, Kolkata
+Mirage-Poolside Bar & Cafe : 4.4 : Oriental, Asian, Salad, Fast Food, Beverages, Continental : ₹2,200 for two :  The Stadel, Sector 3, Salt Lake, Kolkata
+AB's - Absolute Barbecues : 4.5 : Biryani, BBQ, Kebab, North Indian, Salad, Desserts : ₹1,300 for two :   Street 25, GP Block , Kolkata
+Friday Release : 4.2 : North Indian, Chinese, Mughlai, Kebab, Pizza, Fast Food, Sichuan, Desserts : ₹1,200 for two :  Sector 1, Salt Lake, Kolkata
+10 Downing Street : 4.2 : Continental, North Indian, Chinese : ₹1,500 for two :  PS Srijan Corporate Park , Kolkata
+Ambrosia Restaurant & Bar : 4.2 : North Indian, Chinese, Mughlai, Biryani, Beverages : ₹1,100 for two :  Sector 1, Salt Lake, Kolkata
+Malt : 4.2 : North Indian, Mughlai, Asian, Chinese, Continental, Pasta, Bar Food : ₹1,600 for two :  New Town, Kolkata
+Morvee Air : 3.9 : Italian, Oriental, Fast Food, Salad, Pizza, Desserts : ₹800 for two :  Alipore, Kolkata
+Waterside Cafe - Hyatt Regency Kolkata : 4.0 : North Indian, Continental, Italian, Asian, Desserts : ₹3,500 for two :  Hyatt Regency, Sector 3, Salt Lake, Kolkata
+Papyrus Restro Cafe : 4.0 : North Indian, Pizza, Continental, Asian, Chinese, Italian, Desserts, Beverages : ₹1,400 for two :  Sector 1, Salt Lake, Kolkata
+The Empty Head : 4.4 : North Indian, Seafood, Kebab, Biryani, Chinese, Continental, Desserts : ₹1,000 for two :  Sector 5, Salt Lake, Kolkata
+The One By Morvee Hotels : 4.0 : Continental, Oriental, Pasta, Chinese, North Indian, Bar Food, Desserts : ₹1,600 for two :  Alipore, Kolkata
+The Brewhive : 4.4 : Chinese, Continental, Italian, Pizza, North Indian, Desserts : ₹2,000 for two :  PS Srijan Corporate Park , Kolkata
+The Fatty Bao : 4.6 : Asian, Sushi, Japanese, Chinese : ₹1,800 for two :  Fort Knox, Camac Street Area, Kolkata
+What's Up : New : Italian, Continental, Oriental, North Indian, Mughlai, Seafood, Shake, Desserts : ₹2,000 for two :  Southern Avenue, Kolkata
+Pancham Er Adday : 4.0 : Cafe, Continental, Asian, Coffee, Desserts, Seafood, Salad : ₹850 for two :  Hindustan Park, Kolkata
+Peter Cat : 4.4 : North Indian, Mughlai, Continental, Fast Food, Desserts, Beverages : ₹1,400 for two :  Park Street Area, Kolkata
+Kake Di Hatti - Since 1942 : 4.4 : North Indian, Chinese, Rolls, Desserts, Shake, Beverages : ₹1,200 for two :  Bhawanipur, Kolkata
+ITC Royal Bengal- Grand Market Pavilion : 4.1 : North Indian, Chinese, Continental, Bengali : ₹3,500 for two :  ITC Royal Bengal, Science City Area, Kolkata
+Karim's - Original From Jama Masjid Delhi-6 : 3.7 : Mughlai, North Indian, Kebab, Rolls, Biryani, Desserts, Beverages : ₹1,100 for two :  Golpark, Kolkata
+Eddy's : 4.3 : North Indian, Chinese, Italian, Asian, Momos, Japanese : ₹1,800 for two :  Sector 5, Salt Lake, Kolkata
+Downtown Kitchen & Bar : 4.4 : Continental, Chinese, Fast Food, Bar Food, Desserts, Beverages : ₹1,200 for two :  Kasba, Kolkata
+Barocks : 4.1 : North Indian, Mughlai, Chinese, Fast Food : ₹1,400 for two :  Sector 5, Salt Lake, Kolkata
+Spice Kraft : 4.9 : Continental, Asian, North Indian, Mughlai, Seafood, Beverages, Desserts : ₹1,300 for two :  Ballygunge, Kolkata
+FTV (Retro 22 Lounge) : 4.4 : Continental, North Indian, Asian, Pizza, Pasta, Italian, Mexican : ₹1,100 for two :  Sector 1, Salt Lake, Kolkata
+Sahbhoj Pure Veg Restaurant : 4.0 : North Indian, Chinese, Sandwich, Salad : ₹1,000 for two :  Lake Town, Kolkata
+The Spirits : 4.2 : North Indian, Chinese, Italian, Continental, Sichuan : ₹2,500 for two :  Sector 5, Salt Lake, Kolkata
+Miss Ginko : 4.3 : Chinese, Seafood, Desserts, Asian, Japanese, Oriental, Thai : ₹2,300 for two :  Ballygunge, Kolkata
+Mocambo : 4.1 : Continental, Italian, European, Steak, North Indian, Mughlai, Biryani, Salad : ₹950 for two :  Park Street Area, Kolkata
+Terminal 11 : 4.1 : Cafe, Continental, Italian, Fast Food, Beverages, Shake, Desserts : ₹1,200 for two :  Sector 1, Salt Lake, Kolkata
+Refinery 091 : 4.3 : Finger Food, North Indian, Asian, Italian, Continental, Beverages : ₹3,500 for two :  Globsyn Crystals, Sector 5, Kolkata
+The Old Delhi : 4.1 : North Indian, Mughlai, Kebab, Biryani, Rolls, Continental, Desserts : ₹1,000 for two :  Desapriya Park, Kolkata
+TGI Fridays : 4.3 : Mexican, American, Continental, Seafood, Desserts, Beverages : ₹2,000 for two :  Elgin, Kolkata
+Tai Chi 8 : 4.3 : Chinese, Asian : ₹500 for two :  Gariahat, Kolkata
+Zucca Lounge : 3.6 : Cafe, Chinese, Kebab, Continental, Sichuan, Beverages : ₹1,800 for two :  Southern Avenue, Kolkata
+Krack Cafe and Restro : 4.4 : Chinese, Asian, North Indian, Cafe : ₹650 for two :  Sector 2, Salt Lake, Kolkata
+Babylon : 4.1 : Italian, Continental, North Indian, Pizza, Pasta, Desserts : ₹1,200 for two :  Sector 1, Salt Lake, Kolkata
+Club Kolkata Mixtape : 4.3 : Continental, North Indian, Chinese, Oriental, Italian, Sushi, Fast Food, Biryani : ₹1,400 for two :  Allenby Road , Kolkata
+Jungle Safari : 4.4 : Bengali, North Indian, Seafood, Pizza, Desserts : ₹1,500 for two :  Mani Square Mall, Kankurgachi, Kolkata
+RoadHouzz : 4.4 : Italian, Continental, Oriental, Mughlai, Kebab, Pasta, Pizza : ₹1,500 for two :  Southern Avenue, Kolkata
+Botanik : 4.4 : Continental, Asian, Chinese, North Indian, Sushi, Pizza, Biryani, Desserts : ₹2,000 for two :  Chowringhee, Kolkata
+Hatari Grill'z : 4.6 : Pizza, Fast Food, Pasta, Sandwich, Healthy Food : ₹500 for two :  Southern Avenue, Kolkata
+The Square - Novotel : 4.2 : North Indian, Asian, Continental : ₹3,000 for two :  Novotel, New Town, Kolkata
+Hola : 4.2 : Chinese, North Indian, Asian, Continental, Beverages, Desserts : ₹1,200 for two :  Southern Avenue, Kolkata
+Zaairah : 4.2 : North Indian, Chinese, Italian, Continental, Beverages, Desserts : ₹1,100 for two :  Sector 1, Salt Lake, Kolkata
+Rendezvous - Altair : 4.4 : Pizza, Italian, Continental, Sandwich, Fast Food, Desserts, Coffee, Beverages : ₹1,300 for two :  Sector 5, Salt Lake, Kolkata
+Oh! Calcutta : 4.7 : Bengali, Seafood, Biryani, Mughlai, Desserts, Beverages : ₹2,500 for two :  Forum Mall, Elgin, Kolkata
+Cheese Cherry Pineapple : 4.0 : Cafe, Coffee, Continental, Pasta, North Indian, Sushi, Pizza, Desserts : ₹1,000 for two :  Southern Avenue, Kolkata
+PPT - Perfect Place In Town : 3.9 : Asian, Italian, Continental, North Indian, Finger Food, Beverages, Desserts : ₹3,000 for two :  Sector 5, Salt Lake, Kolkata
+Evabrew : 4.1 : Coffee, Cafe, Desserts : ₹450 for two :  Southern Avenue, Kolkata
+145 Cafe & Bar : 4.2 : Asian, American, Korean, Italian, Beverages, Desserts : ₹1,300 for two :  Park Street Area, Kolkata
+The Yellow Turtle : 4.5 : Asian, Thai, Chinese, Continental, Seafood, Fast Food, Beverages : ₹1,400 for two :  Hindustan Park, Kolkata
+Noir Sky Lounge : 4.1 : Cafe, North Indian, Chinese, Continental, Italian, Sichuan, Beverages : ₹1,200 for two :  Golden Tulip, Sector 1, Salt Lake, Kolkata
+Cafe The Eggspresso : 4.3 : Cafe, Fast Food, Street Food, Thai, Italian, Sandwich, Bakery, Beverages : ₹800 for two :  Lake Market Area, Kolkata
+Fly Kouzina : 4.4 : North Indian, Chinese, Oriental, Italian, Pizza, Desserts, Beverages : ₹1,300 for two :  Sector 1, Salt Lake, Kolkata
+Cafe Narumeg : 4.3 : Continental, Street Food, Chinese, Seafood, Sandwich, Pasta, Pizza, Beverages : ₹500 for two :  Lake Market Area, Kolkata
+Nori - The Westin : 4.7 : Asian, Chinese, Japanese : ₹3,000 for two :  The Westin Kolkata Rajarhat, New Town, Kolkata
+Bunosilo Estate Coffee Roasters : 4.3 : Continental, Cafe, Desserts, Beverages : ₹1,100 for two :  Ballygunge, Kolkata
+Capella - Altair Boutique Hotel : 4.3 : Continental, Italian, Finger Food, Asian, North Indian, Beverages : ₹3,000 for two :  AltAir Boutique Hotel, Kolkata
+Chapter 2 : 4.4 : Continental, Steak, Sandwich, Salad, Desserts, Beverages : ₹1,800 for two :  Southern Avenue, Kolkata
+The Purple Blend Cafe : New : Cafe, Coffee, North Indian, Chinese, Italian, Desserts, Shake, Beverages : ₹1,000 for two :  Sector 2, Salt Lake, Kolkata
+Soy Yum : 4.3 : Japanese, Korean, Sushi, Salad, Coffee, Shake, Bubble Tea, Beverages : ₹1,200 for two :  Hindustan Park, Kolkata
+Chowman : 4.3 : Chinese, Asian, Thai, Seafood, Sichuan, Desserts, Beverages : ₹1,000 for two :  Behala, Kolkata
+Shanghai - Flavours Of China Town : 4.1 : Chinese, Sichuan, Asian, Seafood, Beverages : ₹1,600 for two :  Sector 1, Salt Lake, Kolkata
+Ping's Cafe Orient : 4.4 : Chinese, Salad, Asian, Thai, Desserts : ₹1,800 for two :  Park Street Area, Kolkata
+Garden Of Dreams : 3.9 : Chinese, North Indian, Fast Food, Desserts, Beverages, Asian, Continental, Kebab : ₹1,200 for two :  Ballygunge, Kolkata
+Country Roads : 4.2 : North Indian, Chinese, Continental, Fast Food, Sichuan, Desserts, Beverages : ₹1,800 for two :  The Galleria of Kolkata,  New Town, Kolkata
+Calcutta Retro : 4.5 : Bengali, Seafood, Desserts, Beverages : ₹1,200 for two :  Southern Avenue, Kolkata
+Veneto Kitchen & Bar : 4.5 : Italian, Continental, Desserts, Beverages : ₹2,500 for two :  South City Mall, Prince Anwar Shah Road, Kolkata
+Burma Burma - Park Street : 4.9 : Burmese, Salad, Ice Cream, Desserts, Bubble Tea, Beverages : ₹1,800 for two :  Park Street Area, Kolkata
+Canteen Pub & Grub : 4.3 : Chinese, Pizza, Pasta, Seafood, Fast Food, Street Food, Beverages : ₹1,800 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Drunken Teddy : New : Continental, Italian, North Indian, Asian : ₹1,500 for two :  Elgin, Kolkata
+Mood Box : 4.2 : Continental, Asian, North Indian, Italian : ₹1,500 for two :  Chinar Park, Kolkata
+Pa Pa Ya : 4.8 : Asian, Chinese, Oriental, Thai, Japanese, Beverages : ₹3,000 for two :  Park Street Area, Kolkata
+The Bridge Bistro Bar Polo Floatel : 3.9 : North Indian, Asian, Oriental, Italian, Continental, Biryani, Desserts, Beverages : ₹3,000 for two :  The Floatel Hotel, Dalhousie BBD Bagh, Kolkata
+Hoppipola : 4.3 : Continental, Italian, Pizza, Asian, Bar Food, Beverages : ₹2,500 for two :  Mani Square Mall, Kankurgachi, Kolkata
+Santa's Fantasea : 4.3 : Seafood, North Indian, Chinese, Salad : ₹1,300 for two :  Sector 1, Salt Lake, Kolkata
+Lmnoq : 3.6 : Continental, Italian, North Indian, Chinese, Asian, Beverages : ₹1,700 for two :  Park Street Area, Kolkata
+31 32 - The Westin : 4.3 : Italian, Bar Food, Chinese, Beverages : ₹3,000 for two :  The Westin Kolkata Rajarhat, New Town, Kolkata
+Destination Fuji : 4.1 : Asian, Continental, North Indian, Mughlai, Japanese : ₹1,000 for two :  Sector 5, Salt Lake, Kolkata
+Cafe Treat - The Pride Hotels : 3.9 : Continental, Italian, North Indian, Chinese, Bengali, Mughlai, Desserts, Beverages : ₹1,800 for two :  The Pride Hotels, New Town, Kolkata
+Lord Of The Drinks : 4.4 : Continental, North Indian, Chinese, Italian, Seafood, Finger Food, Beverages : ₹2,500 for two :  South City Mall, Prince Anwar Shah Road, Kolkata
+Firangi Dhaba : 4.1 : North Indian, Mughlai, Chinese, Oriental, Biryani, Kebab, Desserts, Beverages : ₹1,000 for two :  Sector 5, Salt Lake, Kolkata
+F Bar & cafe : 4.3 : Chinese, Sandwich, Pizza, Pasta, Asian, Biryani, Continental : ₹1,600 for two :  Park Street Area, Kolkata
+The Grid : 4.9 : North Indian, Italian, Continental, Pizza : ₹3,000 for two :  Topsia, Kolkata
+Cabana by Palm- The Tropical Bar : New : Continental, Italian, Asian, North Indian, Mughlai, Seafood, Chinese, Desserts : ₹1,800 for two :  Park Street Area, Kolkata
+Haka : 4.1 : Chinese, Asian, Seafood : ₹2,000 for two :  Lake Mall, Rash Behari Avenue, Kolkata
+Trincas : 4.3 : Chinese, North Indian, Continental, Asian, Thai, Desserts, Beverages : ₹850 for two :  Park Street Area, Kolkata
+Glook The Sky Lounge : 4.4 : North Indian, Chinese, Continental, Fast Food : ₹2,800 for two :  New Town, Kolkata
+Bianco : 4.3 : Cafe, Italian, Fast Food, Sichuan, Beverages : ₹1,100 for two :  Ballygunge, Kolkata
+Williams Kitchen : 4.1 : North Indian, Asian : ₹1,200 for two :  Loudon Street Area, Kolkata
+Stryck : 4.3 : North Indian, Italian, Pizza, Continental, Sichuan, Salad, Desserts, Beverages : ₹1,200 for two :  Sector 5, Salt Lake, Kolkata
+That Place - Bowl & Bar : 3.9 : Bar Food, Asian, Kebab, Pizza, Sushi, Continental : ₹2,000 for two :  Loudon Street Area, Kolkata
+Mud - The Retro Cafe : 4.0 : Pizza, Sandwich, Chinese, Fast Food, Street Food, Coffee, Tea, Beverages : ₹600 for two :  Golpark, Kolkata
+SodaBottleOpenerWala : 4.3 : Parsi, North Indian, Bar Food, Desserts, Beverages : ₹1,600 for two :  South City Mall, Prince Anwar Shah Road, Kolkata
+One Sip : 4.4 : Continental, Pizza, Pasta, North Indian, Kebab, Chinese, Beverages : ₹1,400 for two :  New Town, Kolkata
+Bakstage Gourmet : 4.0 : Continental, North Indian, Beverages, Italian, Pizza, Asian, Desserts, Salad : ₹1,800 for two :  Sector 5, Salt Lake, Kolkata
+Punjabi Panda : 4.3 : Biryani, North Indian, Chinese, Rolls, Mughlai, Desserts, Beverages : ₹550 for two :  Ruby Hospital Area, Kolkata
+The Flamingo : New : Continental, Italian, Pizza, Pasta, Desserts, Cafe, Beverages, Shake : ₹1,000 for two :  Jodhpur Park, Kolkata
+Moomba : 4.3 : North Indian, Continental, Pizza, Pasta, Chinese, Arabian, Asian, Beverages : ₹3,500 for two :  Camac Street Area, Kolkata
+The Lords And Barons : 4.2 : North Indian, Mughlai, Italian, Continental, Oriental, Bar Food, Desserts, Beverages : ₹2,500 for two :  Park Street Area, Kolkata
+Social Hideout : 4.0 : Continental, Italian, Chinese, Fast Food, Desserts, Beverages : ₹850 for two :  Lake Market Area, Kolkata
+Plush 28 : 4.3 : North Indian, Chinese, Continental, Shake, Beverages : ₹1,200 for two :  Sector 1, Salt Lake, Kolkata
+WOW! China Diner : 4.2 : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹1,200 for two :   Street 25, GP Block , Kolkata
+Mavericks Cafe & Restaurant : 4.0 : Chinese, Italian, North Indian, Beverages, Cafe, Continental, Pasta : ₹1,000 for two :  Bhawanipur, Kolkata
+Elgin Roastery : New : Continental, Cafe, Italian, Beverages, Healthy Food : ₹1,000 for two :  Elgin, Kolkata
+Club Fenicia : 4.1 : North Indian, Continental, Asian, Italian, Beverages, Desserts : ₹3,000 for two :  Sector 5, Salt Lake, Kolkata
+Riyasat : 4.7 : North Indian, Biryani, Beverages : ₹2,000 for two :  South City Mall, Prince Anwar Shah Road, Kolkata
+Aerosky Bar & Kitchen : New : Bar Food, Italian, Kebab, Continental, Oriental, North Indian, Desserts : ₹1,200 for two :  Kaikhali, Kolkata
+The Otium : 4.2 : North Indian, Chinese, Continental, Burger, Pizza, Sandwich, Pasta, Desserts : ₹1,000 for two :  Theatre Road, Kolkata
+Mainland China : 4.6 : Chinese, Seafood, Oriental, Desserts, Beverages : ₹2,000 for two :  South City Mall, Prince Anwar Shah Road, Kolkata
+The Irish House : 4.3 : Italian, Continental, Coffee : ₹2,500 for two :  Quest Mall, Ballygunge, Kolkata
+Zedd Kitchen : 3.9 : North Indian, Chinese, Continental : ₹1,000 for two :  Chinar Park, Kolkata
+Kouzina Mining Co. : 4.4 : North Indian, Chinese, Italian, Kebab, Healthy Food, Oriental, Desserts, Beverages : ₹1,400 for two :  Sector 1, Salt Lake, Kolkata
+The Dugout : 4.5 : North Indian, Chinese, Italian, Continental, Mexican, Fast Food : ₹1,400 for two :  Bhawanipur, Kolkata
+Flurys : 4.0 : Bakery, Fast Food, Beverages : ₹1,000 for two :  Park Street Area, Kolkata
+The Bridge - The Park : 4.0 : Bengali, North Indian, Kebab, Continental, Asian, Italian, Desserts : ₹2,500 for two :  The Park, Park Street, Kolkata
+Flame & Grill : 4.3 : Kebab, Biryani, Beverages : ₹2,500 for two :  South City Mall, Prince Anwar Shah Road, Kolkata
+Boho The Sky Cafe : 4.1 : Italian, Pizza, Panini, Burger, Mexican, Fast Food, Salad, Desserts : ₹1,600 for two :  Sector 1, Salt Lake, Kolkata
+Lusscibo : 4.2 : North Indian, Continental, Sushi, Chinese, Desserts, Beverages, Shake, Tea : ₹1,000 for two :  Sector 2, Salt Lake, Kolkata
+Babu Culture : 4.2 : Bengali, Continental, Mughlai, Desserts, Beverages : ₹1,000 for two :  Gariahat, Kolkata
+Jaisalmer- Sonar Kella : 3.8 : North Indian, Chinese, Italian, Momos, Seafood, Biryani, Desserts, Beverages : ₹2,000 for two :  Globsyn Crystals, Sector 5, Kolkata
+Vedic - The Westin Kolkata : 4.1 : Healthy Food, Salad : ₹3,000 for two :  The Westin Kolkata Rajarhat, New Town, Kolkata
+3 Dots : 4.1 : Continental, Chinese, North Indian, Italian, Oriental, Thai, Seafood, Desserts : ₹1,300 for two :  Hindustan Park, Kolkata
+Potboiler : 3.7 : Cafe, Coffee, Italian, Bakery, Desserts, Beverages : ₹1,000 for two :  Sector 1, Salt Lake, Kolkata
+6 Ballygunge Place : 3.6 : Bengali, Bangladeshi, Seafood, Beverages, Desserts : ₹1,800 for two :  Chowringhee, Kolkata
+Colab Coffee Calcutta : 3.9 : Cafe, Continental, Fast Food, Italian, Desserts, Pizza : ₹850 for two :  Jodhpur Park, Kolkata
+Kouzina Marine : 4.3 : North Indian, Chinese, Italian, Kebab, Biryani, Oriental, Desserts, Beverages : ₹1,200 for two :  Sector 1, Salt Lake, Kolkata
+Art Cafe : 3.8 : Cafe, Coffee, Pasta, Pizza, Beverages : ₹1,400 for two :  Lake Market Area, Kolkata
+Time Heist : 4.0 : North Indian, Kebab, Mughlai, Chinese, Beverages, Seafood, Desserts : ₹1,000 for two :  New Town, Kolkata
+M.O.K- Ministry of Kebabs - Novotel : 4.1 : Modern Indian, Kebab, Desserts, Biryani : ₹2,500 for two :  Novotel, New Town, Kolkata
+The Canisters : 4.4 : North Indian, Seafood, Pizza, Burger, Fast Food, Desserts, Coffee, Beverages : ₹750 for two :  Kalikapur, Kolkata
+LA Artisan Bistro : 3.9 : Pizza, Burger, Pasta, Continental, Mexican, Waffle, Desserts, Beverages : ₹1,500 for two :  New Town, Kolkata
+Craft Coffee : 4.3 : Cafe, Coffee, Pasta, Pizza, Burger, Sandwich, Salad, Desserts : ₹800 for two :  Sector 5, Salt Lake, Kolkata
+Oudh 1590 : 4.1 : North Indian, Kebab, Biryani, Awadhi, Mughlai, Desserts : ₹1,400 for two :  Naktala, Kolkata
+Yauatcha : 4.5 : Asian, Chinese, Cantonese, Tea, Seafood, Beverages, Desserts : ₹3,000 for two :  Quest Mall, Ballygunge, Kolkata
+Barbeque Nation : 4.4 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,500 for two :  Acropolis Mall, Kasba, Kolkata
+Wafira : 4.2 : North Indian, Continental, Asian, Finger Food, Desserts : ₹3,000 for two :  Chowringhee, Kolkata
+Uncle Peter's Pancakes : 3.7 : Pancake, Waffle, Pasta, Sandwich, Fast Food, Tea, Coffee, Beverages : ₹500 for two :  Bhawanipur, Kolkata
+Barishh : 4.5 : North Indian, Continental, Italian, BBQ, Finger Food, Beverages, Desserts : ₹2,500 for two :  South City Mall, Prince Anwar Shah Road, Kolkata
+Blue Plum : 4.1 : Continental, Oriental, Italian, Chinese, Biryani, North Indian : ₹1,000 for two :  Sector 2, Salt Lake, Kolkata
+Scrapyard : 4.3 : North Indian, Chinese, Continental, Fast Food, Street Food, Beverages, Desserts : ₹3,000 for two :  Camac Street Area, Kolkata
+Calcutta Bistro : 4.5 : North Indian, Chinese, Kebab, Salad, Mughlai, Desserts : ₹1,000 for two :  Chinar Park, Kolkata
+La Cucina - Hyatt Regency Kolkata : 4.3 : Italian, Pizza, Desserts, Beverages : ₹4,000 for two :  Hyatt Regency, Sector 3, Salt Lake, Kolkata
+The Bhawanipur House : 4.0 : Continental, Pizza, Pasta, Italian, Beverages : ₹1,000 for two :  Bhawanipur, Kolkata
+Beans And Roots : 4.5 : North Indian, Asian, Mexican, Chinese : ₹1,000 for two :  Lake Market Area, Kolkata
+Bombay Brasserie : 4.4 : Modern Indian, Bar Food, Beverages : ₹2,500 for two :  Quest Mall, Ballygunge, Kolkata
+The Flaming Bowl : 4.2 : Asian, Chinese, Thai, North Indian, Sichuan, Desserts, Beverages : ₹1,200 for two :  Bhawanipur, Kolkata
+Bhooter Raja Dilo Bor : 3.8 : Bengali, Seafood, Desserts : ₹500 for two :  Jadavpur, Kolkata
+Dada Boudi Restaurant : 4.1 : Biryani, North Indian, Chinese : ₹650 for two :  Barrackpore, Kolkata
+Calcutta 64 : 3.9 : Coffee, Sandwich, Pasta, Continental : ₹800 for two :  Jodhpur Park, Kolkata
+Brewing Beans : 4.0 : Cafe, Kebab, North Indian, Chinese, Continental, Italian, Desserts, Beverages : ₹850 for two :  Chinar Park, Kolkata
+Calcutta Bakery Cafe : 4.3 : Cafe, Coffee, Beverages, Italian, Pizza, Continental, Bakery, Desserts : ₹1,000 for two :  Sector 1, Salt Lake, Kolkata
+Blue Tokai Coffee Roasters : 4.4 : Cafe, Coffee, Beverages, Continental : ₹600 for two :  Sector 1, Salt Lake, Kolkata
+First Innings Multicuisine Restaurant - The Stadel : 4.3 : North Indian, Chinese, Mughlai, Bengali, Italian, Desserts, Beverages : ₹1,500 for two :  The Stadel, Sector 3, Salt Lake, Kolkata
+Traffic Gastropub : 4.1 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,800 for two :  City Centre 2, Chinar Park, Kolkata
+The Country House : 4.1 : Cafe, Italian, Continental, Coffee, Pizza, Pancake, Desserts, Beverages : ₹1,000 for two :  Allenby Road , Kolkata
+Mintelaa : 3.7 : Continental, Italian, Chinese, Sichuan, North Indian, Seafood, Shake, Beverages : ₹1,100 for two :  Sector 1, Salt Lake, Kolkata
+The Drunken Monkey : 4.0 : Continental, Chinese, North Indian, Beverages : ₹1,900 for two :  O2 VIP - VIP Road, Kolkata
+Liqua  - Rooftop Poolside Bar : 4.0 : Oriental, Asian, Italian, Desserts, Beverages : ₹1,800 for two :  Hotel Senses, Sector 5, Salt Lake , Kolkata
+The Biryani Canteen : 4.2 : Biryani, Hyderabadi, Kebab, North Indian, Desserts, Beverages : ₹1,100 for two :  Topsia, Kolkata
+Xero Degrees : 4.2 : American, Fast Food, Pizza, Coffee : ₹1,000 for two :  Theatre Road, Kolkata
+Momo I Am : 4.7 : Momos, Chinese, Thai, Asian, Sichuan, Sushi, Juices, Beverages : ₹1,200 for two :   Street 25, GP Block , Kolkata
+WOW! Momo : 3.3 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts : ₹300 for two :  Barasat, Kolkata
+Marbella's : 4.1 : Cafe, Continental, Fast Food, Desserts, Beverages : ₹950 for two :  Elgin, Kolkata
+X & Y- Bakehouse & Bistro : 3.5 : Bakery, Continental, Italian, Salad, Desserts, Beverages : ₹1,500 for two :  Alipore, Kolkata
+Bass & Barrel : 3.9 : Continental, North Indian, Bar Food : ₹2,000 for two :  Esplanade, Kolkata
+Shikora - The Tea Hub : 3.8 : Tea, Shake, Beverages, Sandwich, Pasta, Pizza, Fast Food, Street Food : ₹400 for two :  Bangur, Kolkata
+Jugnu : 4.1 : Italian, Chinese, North Indian, Asian, Pizza, Coffee, Beverages : ₹1,000 for two :  Sector 1, Salt Lake, Kolkata
+Sienna Store & Cafe : 3.9 : Cafe, Coffee, Italian, Asian, Fast Food, Burger, Salad, Chinese : ₹1,200 for two :  Hindustan Park, Kolkata
+Zen - The Park : 4.5 : Asian, Chinese, Thai, Malaysian, Beverages : ₹3,500 for two :  The Park, Park Street, Kolkata
+MQXT Social : 4.1 : Burger, Chinese, Fast Food : ₹300 for two :  New Alipore, Kolkata
+Bonne Femme : New : Bengali : ₹800 for two :  Hindustan Park, Kolkata
+Le Coffee Creme : 4.2 : North Indian, Chinese, Asian, Italian, Seafood, Continental, Desserts, Beverages : ₹1,200 for two :  Camac Street Area, Kolkata
+The Sky Story : 3.7 : South Indian, Italian, Fast Food : ₹1,400 for two :  Park Street Area, Kolkata
+Jamie Oliver Kitchen Cafe : 4.0 : Healthy Food, Coffee, Salad, Sandwich, Tea, Continental : ₹1,300 for two :  Theatre Road, Kolkata
+Craft Coffee : 3.6 : Coffee : ₹800 for two :  City Centre 2, Chinar Park, Kolkata
+Skai : 4.3 : Asian, European : ₹3,500 for two :  Quest Mall, Ballygunge, Kolkata
+Fusion Fantasea : 4.3 : Seafood, Chinese, North Indian, Mughlai, Beverages : ₹950 for two :  Southern Avenue, Kolkata
+The Daily : 3.9 : Cafe, Italian, Continental, Fast Food, Pancake, Desserts, Beverages, Coffee : ₹1,100 for two :  Desapriya Park, Kolkata
+Tung Fong : 4.3 : Chinese, Asian, Oriental, Seafood, Sichuan, Desserts : ₹1,200 for two :  Park Street Area, Kolkata
+Peshawri - ITC Sonar : 4.3 : North Indian : ₹3,000 for two :  ITC Sonar, Science City Area, Kolkata
+Friends Of Pho - Asian Fine Dining Club : 4.7 : Chinese, Thai, Vietnamese, Malaysian, Asian, North Indian, Beverages : ₹2,000 for two :  Chinar Park, Kolkata
+MQXT : 4.3 : Burger, Chinese, Fast Food : ₹500 for two :  Southern Avenue, Kolkata
+K Local : 3.8 : Chinese, Fast Food, North Indian, Sichuan : ₹1,400 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+The Gazeboo : 4.0 : Chinese, Salad, North Indian, Asian, Biryani, Kebab, Shake, Beverages : ₹1,200 for two :  Park Street Area, Kolkata
+Poach Kitchen : 4.0 : Continental, Coffee, American, Bakery, Cafe, Desserts, Asian : ₹1,400 for two :  Ballygunge, Kolkata
+Sly Fox Gastro Club : 4.6 : North Indian, Oriental, Chinese : ₹1,800 for two :  Sector 5, Salt Lake, Kolkata
+Boho - The Sky Cafe : 3.7 : Cafe, Pizza, Mexican, Continental, Fast Food, Salad, Beverages : ₹600 for two :  Garia, Kolkata
+Level Seven : 4.2 : North Indian, Continental, Italian, Chinese, Beverages : ₹2,000 for two :  Topsia, Kolkata
+Social Kitchen - Holiday Inn : 3.9 : North Indian, Asian, European, Beverages : ₹3,000 for two :  Holiday Inn Kolkata Airport, Chinar Park, Kolkata
+Don Giovanni's : 4.4 : Pizza, Italian, Continental, Burger, Fast Food : ₹950 for two :  Sector 1, Salt Lake, Kolkata
+Calcutta 64 : 4.2 : Cafe, Italian, Continental, Chinese, Seafood, Fast Food, Beverages, Desserts : ₹950 for two :  Sector 1, Salt Lake, Kolkata
+Little Bit Sober : 4.1 : Bar Food, Asian, Kebab, Desserts, Mexican, Continental, Japanese : ₹2,500 for two :  Elgin, Kolkata
+Klubb 10 - The Sky Lounge : New : Asian, North Indian, Continental, Japanese : ₹1,000 for two :  Gariahat, Kolkata
+Maya Bar & Lounge : New : Continental, Chinese : ₹1,000 for two :  Esplanade, Kolkata
+Aaheli - The Peerless Hotel : 3.9 : Bengali : ₹5,000 for two :  The Peerless Inn, Esplanade, Kolkata
+Sky deck at Polo Floatel Kolkata : 4.2 : Bar Food, Asian, Pizza : ₹1,300 for two :  Esplanade, Kolkata
+Asia Kitchen By Mainland China : 4.8 : Asian, Chinese, Sushi, Thai, Seafood, Desserts : ₹2,500 for two :  Acropolis Mall, Kasba, Kolkata
+Sonargaon - Taj Bengal : 4.4 : North Indian, Bengali, Desserts, Beverages : ₹4,500 for two :  Taj Bengal, Alipore, Kolkata
+Cafe TOV : 4.6 : Cafe, Korean, Beverages : ₹850 for two :  Santoshpur, Kolkata
+Pepper Chino : 4.3 : North Indian, Continental, Asian, Italian, Desserts : ₹1,600 for two :  Paddapukur, Kolkata
+Boho Amigo : 3.6 : Cafe, Korean, Mexican, Japanese, Asian, Continental, Fast Food, Beverages : ₹800 for two :  Sector 2, Salt Lake, Kolkata
+Piccadilly Square : 4.4 : Cafe, Salad, Waffle, Italian, Pizza, Greek, Beverages, Desserts : ₹1,000 for two :  Elgin, Kolkata
+Beanbar : New : Italian, Beverages : ₹700 for two :  Jodhpur Park, Kolkata
+Aaheli ( A Unit Of Peerless Hotel Limited ) : 4.2 : Bengali : ₹1,400 for two :  Southern Avenue, Kolkata
+German Cafe & Bistro : 3.9 : Cafe, Italian, Continental, Oriental, European, Sandwich, Salad, Fast Food : ₹950 for two :  Axis Mall, New Town, Kolkata
+India Restaurant : 4.6 : Biryani, Mughlai, North Indian, Kebab, Chinese, Desserts : ₹950 for two :  Kidderpore, Kolkata
+Kaidi Kitchen : 4.1 : North Indian, Continental, Oriental, Italian, Desserts, Beverages : ₹1,600 for two :  Camac Street Area, Kolkata
+The Chutney Co. : 4.6 : South Indian : ₹600 for two :  Dalhousie BBD Bagh, Kolkata
+TFP - The Foodplex : 4.0 : Chinese, Biryani, Mughlai, Seafood, North Indian, Desserts, Beverages : ₹1,100 for two :  Baranagar, Kolkata
+Arabiyano : 3.4 : Arabian, Mandi : ₹600 for two :  Sector 4, Salt Lake, Kolkata
+Nest - Howard Johnson : 4.1 : Bengali, North Indian, Chinese, Biryani, Desserts : ₹1,400 for two :  Howard Johnson, Chinar Park, Kolkata
+Dunkel Braun : 3.9 : Cafe, Coffee, Tea, Fast Food, Continental, Italian, Pizza, Beverages : ₹600 for two :  Sector 1, Salt Lake, Kolkata
+Barkaas Arabic Restaurant : 3.9 : Arabian, Mandi, Lebanese, Kebab, Mughlai, North Indian, Desserts, Beverages : ₹1,000 for two :  Park Street Area, Kolkata
+Across The Street : 3.9 : North Indian, Chinese, Mughlai, Kebab : ₹1,000 for two :  New Town, Kolkata
+Epare Bangla : 4.1 : Bengali, Mishti, Desserts : ₹1,000 for two :  Kalighat, Kolkata
+Soul- The Sky Lounge : 4.4 : North Indian, Chinese, Thai, Sandwich, Pizza, Beverages, Continental : ₹1,800 for two :  Camac Street Area, Kolkata
+Fabbrica : 4.3 : Italian, Pizza, Pasta, Desserts, Coffee, Beverages : ₹1,200 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Eaterniaa : 4.3 : Chinese, Continental, Fast Food, Beverages : ₹500 for two :  Park Street Area, Kolkata
+Cafe Joy- Novotel : 3.9 : Burger, Coffee, Pizza, Fast Food, Italian, Desserts, Ice Cream, Beverages : ₹2,000 for two :  Novotel, New Town, Kolkata
+Southern Soul : 4.1 : South Indian, Chinese, North Indian : ₹350 for two :  Sector 1, Salt Lake, Kolkata
+Blue Nile Restaurant & Bar : 4.0 : North Indian, Chinese, Middle Eastern, Mughlai, Continental, Finger Food, Desserts, Beverages : ₹1,200 for two :  City Centre 2, Chinar Park, Kolkata
+Cineplexx91 : 3.9 : Continental, Chinese, Kebab, Asian, Italian : ₹1,500 for two :  Sector 5, Salt Lake, Kolkata
+Makati : 4.6 : Continental, Asian, North Indian, Biryani, Pizza, Pasta, Italian, Desserts : ₹2,000 for two :  Chowringhee, Kolkata
+Barista Coffee : 3.8 : Cafe, Coffee, Desserts : ₹700 for two :  Park Street Area, Kolkata
+Artsy : 4.4 : Cafe, Continental, Italian, Salad, Sandwich, Fast Food, Desserts, Beverages : ₹1,200 for two :  Minto Park, Kolkata
+Dosa Coffee : 4.3 : South Indian, Coffee, Beverages, Desserts : ₹350 for two :  Lake Town, Kolkata
+Babumashai : 4.0 : Chinese, North Indian, Kebab, Biryani, Mughlai, Oriental, Beverages, Desserts : ₹850 for two :  The Last Metro, Garia, Kolkata
+Bombay Shiv Sagar : 4.1 : North Indian, South Indian, Chinese, Sandwich, Pizza, Biryani, Desserts, Beverages : ₹950 for two :  Pantaloons, Camac Street Area, Kolkata
+Jalapenos : 4.1 : Italian, Mexican, Salad : ₹1,200 for two :  Camac Street Area, Kolkata
+Yalla Habibi : 3.9 : North Indian, Chinese, Pizza, Mughlai, Fast Food, Biryani, Desserts, Beverages : ₹1,200 for two :  Park Circus Area, Kolkata
+Hatari Since 1966 : 4.5 : Chinese, North Indian, Seafood, Biryani, Desserts, Beverages : ₹1,100 for two :  Sodepur, Kolkata
+La Macario Cafe : 4.1 : Cafe, Fast Food, Beverages, Asian : ₹1,300 for two :  Theatre Road, Kolkata
+Saptapadi : 4.2 : Bengali, Bangladeshi, Fast Food : ₹1,800 for two :  Sector 1, Salt Lake, Kolkata
+Palms Kitchen : 4.3 : North Indian, Pasta, Chinese, Asian, Continental, Shake, Beverages : ₹2,000 for two :  Dum Dum, Kolkata
+25 Main Street : 4.0 : Continental, Chinese, Coffee, Sandwich, Beverages, Tea, Desserts, Pizza : ₹950 for two :  Sector 1, Salt Lake, Kolkata
+Pronto Gourmet Food : 4.4 : Shawarma, Burger, Pizza, Chinese, Desserts : ₹500 for two :  Gariahat, Kolkata
+Baraka : 3.6 : Middle Eastern : ₹1,000 for two :  Quest Mall, Ballygunge, Kolkata
+Shimla Biryani : 3.9 : Biryani, Kebab, North Indian, Mughlai, Chinese, Seafood : ₹900 for two :  Chinar Park, Kolkata
+Glazier : 3.4 : Cafe, Coffee, Fast Food, Sandwich, Burger, Ice Cream, Beverages : ₹750 for two :  Theatre Road, Kolkata
+Rajputana Darbar : New : North Indian, Chinese, Seafood, Biryani, Mughlai, Rolls, Desserts : ₹1,500 for two :  New Town, Kolkata
+Cafe Vairagi : 4.5 : Cafe, Coffee, Tea, Chinese, Pasta, Continental, Fast Food, Street Food : ₹850 for two :  Golf Green, Kolkata
+Peaberrys : 3.8 : Cafe, Coffee, Tea, Continental, Fast Food : ₹900 for two :  Howrah Maidan Area, Howrah
+Bunaphile : 3.0 : Cafe, Fast Food, Continental, Salad, Beverages, Coffee, Shake : ₹850 for two :  Hindustan Park, Kolkata
+Taco Bell : 3.7 : Mexican, Fast Food, Wraps, Beverages : ₹550 for two :  Lake Mall, Rash Behari Avenue, Kolkata
+Mirosh - All Day Cafe : 4.4 : North Indian, Continental, Oriental, Italian, Chinese, Desserts, Beverages : ₹1,700 for two :  Camac Street Area, Kolkata
+MOB - Ministry Of Booze : 4.0 : North Indian, Chinese, Continental, Fast Food, Finger Food, Sichuan : ₹1,300 for two :  New Town, Kolkata
+Red Kitchen & Lounge : 4.0 : Chinese, North Indian, Continental, Bengali : ₹1,000 for two :  Diamond Plaza Mall, Jessore Road, Kolkata
+Forkfull : 4.3 : Cafe, Coffee, Fast Food, Continental, Desserts, Beverages : ₹700 for two :  Ballygunge, Kolkata
+Nababiana Restaurant : 4.2 : North Indian, Chinese, Kebab, Desserts, Beverages : ₹1,600 for two :  New Town, Kolkata
+Food Enclave : 3.7 : North Indian, Oriental : ₹800 for two :  Ruby Hospital Area, Kolkata
+Sky View Cafe- De Sovrani : 4.0 : Continental, Italian, Chinese, Desserts, Beverages : ₹1,900 for two :  De Sovrani, Sector 1, Salt Lake,, Kolkata
+WOW! Chicken By WOW! Momo : 3.8 : American, Fast Food, Burger, Beverages : ₹300 for two :  Belghoria, Kolkata
+Orko's Restaurant : 4.1 : North Indian, Mughlai, Chinese, Kebab, Continental, Beverages, Shake : ₹1,800 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Rasam, Pure Vegetarian South Indian Restaurant By The Stadel : 3.9 : South Indian, Desserts, Beverages : ₹500 for two :  The Stadel, Sector 3, Salt Lake, Kolkata
+Tandoor Park : 4.2 : Salad, Chinese, Kebab, Seafood, North Indian, Biryani, Mughlai, Desserts : ₹1,200 for two :  Dhakuria, Kolkata
+Mintelaa : 3.7 : Cafe, North Indian, Chinese, Fast Food, Italian, Beverages, Desserts, Coffee : ₹650 for two :  Minto Park, Kolkata
+D - Talkks : 3.7 : Beverages, Shake, Juices : ₹400 for two :  Sector 1, Salt Lake, Kolkata
+Aminia : 4.0 : North Indian, Biryani, Kebab, Rolls : ₹850 for two :  Chinar Park, Kolkata
+Port 15 : 4.3 : North Indian, Continental, Chinese, Desserts : ₹1,200 for two :  Sector 1, Salt Lake, Kolkata
+Biryani By Kilo : 4.3 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  Behala, Kolkata
+Hotel Broadway : 4.3 : North Indian, Chinese, Finger Food : ₹1,200 for two :  Chandni Chowk, Kolkata
+Hangoutz - The Boutique Cafe : 4.3 : Italian, Fast Food, Mexican, Street Food, Beverages, Tea, Coffee : ₹500 for two :  Garia, Kolkata
+Aqua - The Park : 4.3 : Finger Food, Continental : ₹3,500 for two :  The Park, Park Street, Kolkata
+Snack On Sushi : 4.7 : Sushi, Asian, Japanese : ₹1,100 for two :  Ballygunge, Kolkata
+Arsalan : 3.3 : North Indian, Biryani : ₹1,000 for two :  Prince Anwar Shah Road, Kolkata
+Korean Grills by Momo I Am : 4.1 : Korean, BBQ, Bubble Tea : ₹2,000 for two :   Street 25, GP Block , Kolkata
+Down The Lane : 4.3 : Cafe, Continental, Desserts, Fast Food, Chinese, Italian, Seafood, Beverages : ₹950 for two :  Sector 1, Salt Lake, Kolkata
+Little Roti - Pure Veg Multi-Cuisine Restaurant : 4.1 : North Indian, Chinese, South Indian, Continental, Fast Food, Desserts : ₹1,000 for two :  Park Street Area, Kolkata
+Avartana - Itc Royal Bengal : 3.8 : South Indian, Modern Indian : ₹4,500 for two :  ITC Royal Bengal, Science City Area, Kolkata
+Mobina An Indo Arab Restaurant : 4.3 : Arabian, North Indian, Mughlai, Chinese, Kebab, BBQ, Seafood, Biryani : ₹1,000 for two :  Khardah, Kolkata
+RR Bistro : 4.4 : Fast Food, Beverages : ₹600 for two :  Sector 1, Salt Lake, Kolkata
+Snacking : 4.4 : Continental, Chinese, Salad, Beverages : ₹950 for two :  Prince Anwar Shah Road, Kolkata
+Citrus : 4.0 : North Indian, Continental : ₹800 for two :  Kaikhali, Kolkata
+Mamasan : 4.2 : Chinese, Asian, Thai, Oriental : ₹1,400 for two :  Southern Avenue, Kolkata
+Foodizo : 4.1 : Bengali, North Indian, Biryani, Pizza, Fast Food : ₹300 for two :  Sector 5, Salt Lake, Kolkata
+Posto Rajbari : 4.0 : Bengali, Seafood : ₹1,000 for two :  Garia, Kolkata
+Boho Trunk Cafe : 4.1 : Asian, Chinese, Continental, Salad, Pasta, Fast Food, Shake, Beverages : ₹850 for two :  Prince Anwar Shah Road, Kolkata
+La Pino'z Pizza : 4.1 : Pizza, Pasta, Italian, Fast Food : ₹800 for two :  Camac Street Area, Kolkata
+The Wall : 4.4 : Chinese, Seafood, Sushi, Sichuan, Desserts, Beverages : ₹1,200 for two :  Southern Avenue, Kolkata
+La Artisan Cafe : 3.7 : Sandwich, Cafe, Coffee, Tea, Momos, Desserts, Bakery, Beverages : ₹300 for two :  Park Street Area, Kolkata
+Uncle Peter's Pancakes : - : Pancake, Desserts, Italian : ₹400 for two :  Sector 1, Salt Lake, Kolkata
+Cafe Flora : New : Continental : ₹800 for two :  Kalighat, Kolkata
+KFC : 4.1 : Fast Food, Burger, Rolls : ₹400 for two :  Barasat, Kolkata
+Urban Masala : 4.5 : North Indian, Chinese, Italian, Sandwich, Desserts, Beverages : ₹1,000 for two :  Lake Town, Kolkata
+Zaranj : 4.4 : North Indian, Mughlai, Seafood, Desserts, Beverages : ₹2,200 for two :  New Market Area, Kolkata
+Burger King : 3.8 : Burger, Fast Food, Desserts, Beverages : ₹350 for two :  Quest Mall, Ballygunge, Kolkata
+Sooper Sandwich : 3.9 : Sandwich, Burger, Fast Food, Street Food, Beverages : ₹300 for two :  Camac Street Area, Kolkata
+SpiceKlub : 4.4 : North Indian : ₹2,000 for two :  Sector 1, Salt Lake, Kolkata
+Blue And Beyond : 4.1 : North Indian, Chinese, Sichuan, Seafood, Biryani, Desserts, Shake, Beverages : ₹1,900 for two :  Hotel Lindsay, New Market, Kolkata
+Cafe Proof : 4.2 : Italian, North Indian, Street Food, Fast Food, Desserts, Beverages : ₹1,300 for two :  Sector 1, Salt Lake, Kolkata
+Ridhi Sidhi : 3.0 : South Indian, Chinese, Street Food, Fast Food, Desserts, Beverages : ₹450 for two :  Theatre Road, Kolkata
+Kolkata Rajbari : 3.3 : Bengali : ₹1,000 for two :  Desapriya Park, Kolkata
+Olypub : 3.9 : North Indian, Chinese, Continental, Mughlai, Seafood, Beverages : ₹1,300 for two :  Park Street Area, Kolkata
+Belgian Waffle Junction : 3.8 : Desserts, Beverages : ₹400 for two :  Tangra, Kolkata
+The Lay Lawn : New : North Indian, Asian, Continental, Italian, Oriental, Chinese, Desserts, Shake : ₹1,300 for two :  Halisahar, Kolkata
+Serafina : 4.3 : Italian, Pizza, Pasta, Salad, Desserts, Coffee, Beverages : ₹3,000 for two :  Quest Mall, Ballygunge, Kolkata
+Cabin 17A : 4.5 : Continental, Chinese, Bengali : ₹500 for two :  Desapriya Park, Kolkata
+Calorie Crave : 4.2 : Continental, Healthy Food, Sandwich, Desserts : ₹700 for two :  Desapriya Park, Kolkata
+Royal Vega- ITC Royal Bengal : 4.0 : North Indian : ₹4,500 for two :  ITC Royal Bengal, Science City Area, Kolkata
+Golden Joy : 4.2 : Chinese, Asian, Thai, Sichuan, Salad, Ice Cream, Shake, Beverages : ₹1,400 for two :  Tangra, Kolkata
+Soul Of Bengal : 3.7 : Bengali, Seafood : ₹800 for two :  Ruby Hospital Area, Kolkata
+7th Heaven : 4.4 : Bakery, Desserts, Fast Food, Waffle, Beverages : ₹450 for two :  Sector 1, Salt Lake, Kolkata
+Scoody : 3.5 : Korean, Japanese, Bubble Tea : ₹600 for two :  Desapriya Park, Kolkata
+La Felice : 3.7 : Continental, Asian, North Indian, Italian, Desserts, Beverages : ₹1,800 for two :  Tangra, Kolkata
+Uns Cafe : 4.6 : Kebab, North Indian, Bengali, Beverages, Cafe, Fast Food, Desserts : ₹1,000 for two :  Hindustan Park, Kolkata
+Mug Shot Cafe : 4.1 : Beverages, Italian, Continental, Chinese, Pizza : ₹800 for two :  Southern Avenue, Kolkata
+Jonty's Kitchen : 3.9 : Biryani, Chinese, Street Food, Rolls, Fast Food, Beverages : ₹400 for two :  Kalyani, Kolkata
+Skylark : 4.0 : North Indian, Chinese, Continental, Desserts, Beverages : ₹950 for two :  Dobson Road, Howrah
+The Steak Factory & India's Lost Recipe : 4.0 : North Indian, Steak, Burger, Pasta, Pizza, Italian, Desserts : ₹1,300 for two :  Southern Avenue, Kolkata
+Hatari : 3.7 : Chinese, North Indian, Sichuan, Seafood, Mughlai, Kebab, Biryani : ₹700 for two :  Behala, Kolkata
+Pan Asian - ITC Sonar : 4.3 : Thai, Chinese, Korean, Mongolian : ₹5,000 for two :  ITC Sonar, Science City Area, Kolkata
+Natural Ice Cream : 4.8 : Ice Cream, Desserts : ₹300 for two :  Park Street Area, Kolkata
+Roots Of Calcutta : New : Bengali, North Indian, Seafood, Chinese, Biryani, Pasta, Desserts, Beverages : ₹1,300 for two :  New Town, Kolkata
+Karim's - Original From Jama Masjid Delhi 6 : 3.7 : Mughlai, North Indian, Kebab, Biryani : ₹950 for two :  Entally, Kolkata
+The Steak & Grill : 3.8 : Steak, Seafood, Salad, Continental, Pizza, Chinese, Desserts, Beverages : ₹1,200 for two :  Sector 3, Salt Lake, Kolkata
+Blue Bridge Cafe : New : Chinese, Continental : ₹800 for two :  Ballygunge, Kolkata
+Tamara - Pipal Tree Hotel : 4.5 : North Indian, Mughlai, Continental, Italian, Oriental, Asian, Desserts, Beverages : ₹2,000 for two :  Pipal Tree Hotel, New Town, Kolkata
+That Red House Café & Bistro : 3.9 : Cafe, Coffee, Bengali, Continental, Sandwich, Tea, Beverages : ₹900 for two :  Gariahat, Kolkata
+Musafir : 3.9 : Fast Food, Chinese, Momos, North Indian : ₹400 for two :  Kaikhali, Kolkata
+Cafe Offbeat - Up There : 4.1 : Continental, Asian, North Indian, Chinese, Fast Food, Biryani, Coffee, Beverages : ₹1,800 for two :  Topsia, Kolkata
+Casa Kitchen : 4.2 : North Indian, Chinese, Continental, Desserts, Shake, Beverages : ₹1,400 for two :  Minto Park, Kolkata
+6 Ballygunge Place : 4.4 : Bengali : ₹1,500 for two :  Ballygunge, Kolkata
+Hungry Sardar : 3.9 : North Indian, Chinese : ₹1,000 for two :  Avani Riverside Mall, Shibpur, Howrah
+Boho - The Sky Cafe : 4.1 : Burger, Pizza, North Indian, Healthy Food, Pasta, Continental : ₹1,800 for two :  Barasat, Kolkata
+Taste-O-Pia : 3.4 : Bengali, North Indian : ₹500 for two :  Lake Market Area, Kolkata
+Baomian Cafe & Restaurant : New : Asian, Continental : ₹1,000 for two :  Hindustan Park, Kolkata
+Imperial Kitchen : New : Bengali, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Howrah Station Area, Howrah
+Wykiki : 3.9 : Continental, Asian, Seafood, Chinese, Desserts, Beverages : ₹2,200 for two :  Taj City Centre New Town, Kolkata New Town, Kolkata
+Flurys : 4.2 : Bakery, Fast Food, Beverages : ₹1,000 for two :  Southern Avenue, Kolkata
+Mysteries & Mocha : New : Cafe, Coffee, Continental, Pizza, Sandwich, Chinese, Fast Food, Shake : ₹1,200 for two :  New Town, Kolkata
+Pair A Dice : 4.2 : Mexican, Asian, Pizza, Italian, Chinese, Desserts, Coffee, Shake : ₹800 for two :  Park Street Area, Kolkata
+Majlis : 3.9 : Bengali, Kebab, Chinese, Pizza, Pasta, Salad, Beverages : ₹1,000 for two :  Kaikhali, Kolkata
+Caafe 360 Degree : 3.8 : Cafe, Chinese, Italian, Fast Food, Desserts, Beverages : ₹700 for two :  Kankurgachi, Kolkata
+Monkey Bar : 4.3 : North Indian, Burger, Pizza, Italian, Bar Food : ₹3,000 for two :  Fort Knox, Camac Street Area, Kolkata
+Sood's : 3.9 : Sandwich, Fast Food, Chinese, Sichuan, Shake, Tea, Beverages : ₹450 for two :  Jadavpur, Kolkata
+Theque : 4.1 : North Indian, Continental, Seafood, Mughlai, Chinese, Salad, Beverages : ₹950 for two :  Chinar Park, Kolkata
+The Golden Boot : 4.0 : Bengali, North Indian, Mughlai, Kebab, Asian, Chinese, Desserts, Beverages : ₹1,200 for two :  Dum Dum, Kolkata
+Black Brick Cafe : 4.0 : Cafe, American, Italian, Chinese, Fast Food, Desserts, Beverages : ₹1,200 for two :  Elgin, Kolkata
+Wabi Sabi : 4.3 : Burmese, North Indian, Italian, Thai, Chinese, Beverages, Shake : ₹800 for two :  Southern Avenue, Kolkata
+Yuan Restaurant : 3.9 : Chinese, Asian, Seafood, Desserts, Beverages : ₹1,200 for two :  Southern Avenue, Kolkata
+Vault : 4.0 : Finger Food, Fast Food, Chinese, Italian, Beverages : ₹1,900 for two :  Desapriya Park, Kolkata
+The Irish Brewery : 4.3 : Cafe, Coffee, Continental, Italian, Fast Food, Desserts, Tea, Beverages : ₹1,200 for two :  Lake Market Area, Kolkata
+Tung Nam : 4.6 : Chinese, Sichuan : ₹700 for two :  Bara Bazar, Kolkata
+The Beanshot Cafe : 4.6 : Cafe, Coffee, Italian, Burger, Continental, Sandwich, Desserts, Beverages : ₹850 for two :  Garia, Kolkata
+Motor Works & Brewing Company : 4.4 : Continental, Finger Food, North Indian, Asian, Beverages : ₹1,700 for two :  Beyzaa Hotel And Suites , Kolkata
+Kolkata Bakery : 3.7 : Bakery, Desserts : ₹650 for two :  Bhawanipur, Kolkata
+Second House Restaurant : 4.2 : North Indian, Chinese, Continental, Mughlai, Pizza : ₹1,400 for two :  Southern Avenue, Kolkata
+Raj Spanish Cafe : 4.0 : Cafe, Spanish, Italian, Mexican, Salad, American, Beverages, Desserts : ₹850 for two :  New Market Area, Kolkata
+Sloshed By Spice Kraft : 4.6 : North Indian, Asian, European, Fast Food, Desserts, Beverages : ₹1,800 for two :   Street 25, GP Block , Kolkata
+Someplace Else - The Park : 4.5 : Finger Food, Beverages, Fast Food, Street Food : ₹2,500 for two :  The Park, Park Street, Kolkata
+Burnt Garlic : 4.3 : Continental, European, Asian, Kebab, Fast Food : ₹1,700 for two :  Desapriya Park, Kolkata
+Xrong Place : 3.9 : Finger Food, Chinese, Continental, North Indian : ₹1,900 for two :  Southern Avenue, Kolkata
+F3 Fun Food Fest : 3.9 : North Indian, Chinese, Continental, Bengali, Pizza, Pasta : ₹1,100 for two :  Axis Mall, New Town, Kolkata
+Sohana's Dream Hut Restaurant & Cafe : 3.7 : North Indian, Mughlai, Kebab, Chinese, Biryani, Sichuan, Desserts, Beverages : ₹1,200 for two :  Barasat, Kolkata
+Eden Pavilion - ITC Sonar : 4.1 : North Indian, Continental, Italian, South Indian, Bengali : ₹5,500 for two :  ITC Royal Bengal, Science City Area, Kolkata
+Sartaj : New : Biryani : ₹650 for two :  Behala, Kolkata
+Club De Golf : 4.6 : Fast Food, Chinese : ₹600 for two :  New Town, Kolkata
+Patisserie By Franziska : 4.4 : Desserts, Healthy Food, Continental : ₹1,700 for two :  Park Street Area, Kolkata
+Sambar Street : 3.7 : South Indian, Beverages : ₹200 for two :  Kankurgachi, Kolkata
+The Saffron Tree : 4.7 : Mughlai, Continental, Biryani, North Indian, Desserts, Beverages : ₹1,900 for two :  Southern Avenue, Kolkata
+New Labong Cafe And Steakhouse : 4.2 : Continental, Steak, Pasta, Salad, Fast Food, Desserts, Coffee, Beverages : ₹1,200 for two :  Sector 1, Salt Lake, Kolkata
+Infinity by Angaar - JW Marriott, Kolkata : 3.9 : Kebab, Continental, Fast Food, Desserts : ₹3,000 for two :  JW Marriott Hotel Kolkata, Science City Area, Kolkata
+Burger And Beyond : 3.9 : Burger, North Indian, Momos, Fast Food : ₹400 for two :  New Alipore, Kolkata
+Big Boss : 3.7 : Asian, Seafood, Chinese, Sichuan, Desserts, Beverages : ₹1,600 for two :  Tangra, Kolkata
+Beans N Barrels : 4.2 : Continental, Chinese, North Indian, Modern Indian : ₹1,500 for two :  New Town, Kolkata
+The Terrace : 4.1 : North Indian, Burger, Pizza, Italian, Steak, Continental, Desserts : ₹1,200 for two :  Southern Avenue, Kolkata
+Balle Balle Dhaba : 3.7 : North Indian, Mughlai, Kebab, Biryani, Seafood, Beverages : ₹850 for two :  Sector 1, Salt Lake, Kolkata
+Falam : 3.8 : Juices, Shake, Beverages, Pizza, Sandwich, Healthy Food, Fast Food, Desserts : ₹400 for two :  Kankurgachi, Kolkata
+Suchali's Artisan Bakehouse : 3.5 : Bakery, Beverages, Desserts, Coffee : ₹600 for two :  Sector 1, Salt Lake, Kolkata
+One Step Up : 4.1 : Chinese, Asian, Continental, Italian, Desserts, Beverages : ₹1,200 for two :  Park Street Area, Kolkata
+Bistro Y : 3.9 : Continental, Mughlai, North Indian, Seafood, Pasta, Pizza, Bar Food : ₹1,700 for two :  Sector 5, Salt Lake, Kolkata
+Chinoiserie - Taj Bengal : 4.5 : Chinese : ₹6,000 for two :  Taj Bengal, Alipore, Kolkata
+Himur Heshel : 4.1 : Bengali, Bangladeshi, Mughlai : ₹700 for two :  Garia, Kolkata
+Byepass Dhaba : 3.6 : North Indian, Mughlai, Chinese, Biryani, Sichuan : ₹950 for two :  Science City Area, Kolkata
+Courting Coffees : 3.9 : Sandwich, Continental, Fast Food, Wraps, Chinese, Salad, Pasta, Pizza : ₹950 for two :  Sector 2, Salt Lake, Kolkata
+Chai Break : 3.8 : Bar Food, Mexican, Chinese, Italian, Pizza, Desserts, North Indian : ₹1,000 for two :  City Centre 1, Sector 1, Salt Lake, Kolkata
+Momo Nation Cafe : 3.9 : Momos, Chinese : ₹400 for two :  Desapriya Park, Kolkata
+Tikka Treats : 4.3 : North Indian, Rolls, Street Food : ₹400 for two :  Beliaghata, Kolkata
+Yum Yum Korean Bucket : 3.3 : Korean, Chinese, Fast Food, Beverages : ₹400 for two :  Southern Avenue, Kolkata
+Marco Polo : 4.4 : Continental, North Indian, Chinese, Pasta, Seafood, Biryani, Desserts, Beverages : ₹1,700 for two :  Park Street Area, Kolkata
+Ubuntu Eat : 4.5 : Bengali, North Indian, Lebanese, Continental, Healthy Food, Beverages : ₹950 for two :  New Alipore, Kolkata
+Keshariya Junction : 3.9 : North Indian, Mughlai, Chinese, Seafood, Oriental, Desserts : ₹1,000 for two :  Axis Mall, New Town, Kolkata

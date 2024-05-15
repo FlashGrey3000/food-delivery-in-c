@@ -1,0 +1,417 @@
+Ketliwala : 4.8 : North Indian, South Indian, Chinese, Fast Food, Beverages : ₹1,000 for two :  Sector 22, Chandigarh
+Dhaba 7 : 4.6 : North Indian, Salad, Street Food, Kebab : ₹1,700 for two :  Sector 7, Chandigarh
+Sago - Spice Symphony : 4.1 : North Indian, Kebab, Salad, Mughlai, Biryani, Desserts : ₹1,800 for two :  Sector 26, Chandigarh
+Anardana : 4.9 : North Indian, Mughlai, Chinese, Continental, Momos, Biryani, Desserts, Beverages : ₹2,000 for two :  City Emporium Mall, Chandigarh Industrial Area, Chandigarh
+FOLA | Kitchen & Bar : 3.9 : Mediterranean : ₹3,500 for two :  Sector 9, Chandigarh
+City Cabana : 4.3 : North Indian, Mughlai, Chinese, Continental, Italian, Fast Food, Desserts, Beverages : ₹1,600 for two :  Hotel City Heart Premium, Sector 17, Chandigarh
+United Coffee House Rewind : 4.4 : North Indian, Chinese, Continental, Italian, Seafood, Biryani, Desserts, Beverages : ₹1,900 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+So Delhi Khari Baoli : 4.3 : North Indian, Mughlai, Fast Food : ₹950 for two :  Sector 7, Chandigarh
+The Vault : 4.0 : North Indian, Continental, Asian, European, Biryani, Italian, Desserts, Beverages : ₹1,800 for two :  Sector 7, Chandigarh
+Hard Rock Cafe : 4.3 : American, Fast Food, Salad, Burger, Desserts, Beverages : ₹1,800 for two :  Sector 26, Chandigarh
+Refections Cafe : 3.8 : Cafe, Coffee, Sandwich, Italian, Pizza, Continental, Desserts, Beverages : ₹1,000 for two :  Sector 35, Chandigarh
+PizzaExpress : 4.2 : Pizza, Bakery, Salad, Beverages, Coffee, Italian : ₹1,200 for two :  Sector 67, Mohali
+Dryp : 4.3 : North Indian, Continental, Chinese, Beverages, Italian : ₹1,400 for two :  Sector 8, Chandigarh
+Wild Thyme : 4.0 : Cafe, Pizza, Italian, Asian, Pasta, Continental, Desserts, Beverages : ₹1,900 for two :  Sector 7, Chandigarh
+ZHU - A Pan Asian Cocktail Bar : 4.1 : Asian, Japanese, Sushi : ₹2,700 for two :  Sector 7, Chandigarh
+The Café @ JW - JW Marriott : 4.1 : North Indian, Continental, Italian, Asian, Mughlai, American, Beverages, Desserts : ₹4,000 for two :  JW Marriott, Chandigarh, Chandigarh
+Aja- Honestly Good Food : 4.5 : Healthy Food, Asian, Pizza, Salad, Fast Food, Desserts, Coffee, Beverages : ₹1,600 for two :  Sector 9, Chandigarh
+Seville Bar & Lounge : 4.2 : Lebanese, Continental, Beverages : ₹2,500 for two :  Sector 26, Chandigarh
+Culture Brew Exchange : 4.0 : North Indian, Chinese, Pizza, Beverages, Desserts, Fast Food : ₹1,800 for two :  Sector 26, Chandigarh
+The Escape : 4.2 : North Indian, Italian, Continental, Chinese, Finger Food, Desserts, Beverages : ₹1,700 for two :  Sector 5, Panchkula
+Deluxe Dhaba : 3.7 : North Indian, Mughlai, Fast Food, Chinese : ₹500 for two :  Sector 28, Chandigarh
+Falcon Cafe Lounge : 4.5 : Cafe, North Indian, Oriental, Continental, Mughlai, Shake, Beverages, Desserts : ₹1,600 for two :  Sector 16, Panchkula
+Tiger Five : 4.4 : North Indian, Chinese, Kashmiri, Sushi, Pizza, Salad, Beverages, Desserts : ₹1,400 for two :  Sector 26, Chandigarh
+Chili's Grill & Bar : 4.6 : Mexican, Tex-Mex, American, Italian, Finger Food, Beverages : ₹1,400 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+The Skylight Garden : 4.7 : Salad, Italian, North Indian, Asian, Beverages, Chinese, Mughlai, Bakery : ₹2,000 for two :  The Fern Residency, Chandigarh Industrial Area, Chandigarh
+26 Boulevard : 4.2 : North Indian, Chinese, Continental, Italian, Mexican, Bar Food, Desserts, Beverages : ₹2,500 for two :  Sector 26, Chandigarh
+Kamaa Cafe : 4.8 : Continental, Chinese, North Indian, Fast Food, Desserts : ₹1,900 for two :  Sector 7, Chandigarh
+Tahiti - The Culinary Rooftop : 3.5 : Mediterranean, North Indian, Italian, Pizza, Pasta, Salad, Desserts, Beverages : ₹2,000 for two :  Sector 5, Panchkula
+Prankster : 4.4 : North Indian, Mughlai, Asian, BBQ, Finger Food, Street Food, Desserts, Beverages : ₹2,000 for two :  Sector 26, Chandigarh
+Zeek : 4.3 : North Indian, Salad, Chinese, Italian, Mughlai, Pizza, Burger, Desserts : ₹1,400 for two :  Sector 26, Chandigarh
+Browse - Hyatt Regency : 4.0 : North Indian, Asian, Fast Food : ₹2,000 for two :  Hyatt Regency, Chandigarh Industrial Area, Chandigarh
+Upstairs Club : 4.2 : North Indian, Italian, Continental, Chinese, Asian, Mughlai, Desserts, Beverages : ₹1,900 for two :  Sector 5, Panchkula
+Eddies : 4.4 : Continental, Burger, Modern Indian, Pasta, Salad, Chinese, Desserts, Beverages : ₹1,600 for two :  Sector 26, Chandigarh
+Koyo Koyo - Hyatt Centric : 4.2 : Asian, Oriental, Japanese, Sushi, Desserts, Beverages : ₹2,000 for two :  Hyatt Centric, Sector17, Chandigarh
+Qizo : 4.2 : Chinese, Continental, Italian, North Indian, Finger Food, Fast Food, Beverages, Desserts : ₹3,000 for two :  Sector 26, Chandigarh
+Saffron - JW Marriott : 4.2 : North Indian, Mughlai, Desserts : ₹2,500 for two :  JW Marriott, Chandigarh, Chandigarh
+Xero Degrees : 4.2 : Cafe, Pizza, Burger, Sandwich, Fast Food, Waffle, Desserts, Beverages : ₹1,100 for two :  Sector 35, Chandigarh
+Tim Hortons : 4.2 : Coffee, Cafe, Italian, Sandwich, Fast Food, Beverages : ₹700 for two :  Sector 35, Chandigarh
+Kala Ghoda Cafe : 4.3 : North Indian, Continental, Chinese, BBQ : ₹1,400 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+AB's - Absolute Barbecues : 4.5 : Biryani, BBQ, Kebab, North Indian, Desserts, Salad : ₹1,650 for two :  Sector 26, Chandigarh
+Ministry Of Bar Exchange : 4.4 : North Indian, Chinese, Continental, Salad, Mughlai, Fast Food, Bar Food, Desserts : ₹2,000 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+Laska - Countryside Kitchen & Bar : New : Bar Food, Continental, Modern Indian, Italian, Beverages : ₹3,200 for two :  Kansal, Chandigarh
+Sector 7 Social : 4.5 : North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Desserts, Beverages : ₹1,700 for two :  Sector 7, Chandigarh
+Domino's Pizza : - : Pizza, Italian, Fast Food, Desserts : ₹400 for two :  Kharar Road, Mohali
+Baba Chicken - Sector 26 : 4.3 : North Indian, Chinese, Seafood, Fast Food, Desserts : ₹1,200 for two :  Sector 26, Chandigarh
+Punjab Grill : 4.3 : North Indian, Kebab, Biryani, Mughlai : ₹1,000 for two :  Sector 67, Mohali
+Baithak : 4.5 : North Indian, Mughlai, Chinese, Fast Food, Desserts, Beverages : ₹2,000 for two :  Manimajra, Chandigarh
+Cafe Delhi Heights : 4.7 : North Indian, Asian, Continental, Italian, Fast Food, Salad, Desserts, Beverages : ₹1,500 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+The Jungle Bar : 4.2 : North Indian, Continental, Fast Food, Chinese, Finger Food : ₹1,500 for two :  Manimajra, Chandigarh
+Pannacottas : 4.3 : Cafe, French, Italian, Belgian, Continental, Bakery, Desserts, Beverages : ₹1,200 for two :  Sector 9, Chandigarh
+Luuma : 3.9 : Pizza, Italian, Burger, Fast Food, Desserts, Coffee, Shake, Beverages : ₹1,000 for two :  Manimajra, Chandigarh
+Rair - Air Bar & Lounge : 4.6 : Chinese, Modern Indian, Continental, Oriental, Italian, North Indian, Pizza, Pasta : ₹2,000 for two :  The Cove, Sector 5, Panchkula
+Rhys : New : North Indian, Continental, Mediterranean, Desserts, Beverages : ₹1,000 for two :  Sector 5, Panchkula
+The Chocolate Room : 3.9 : Cafe, Shake, Beverages, Salad, Fast Food, Italian, Mexican, Desserts : ₹1,000 for two :  Phase 5, Mohali
+35 Brewhouse - JW Marriott : 4.4 : Continental, Finger Food, Asian, Fast Food, North Indian, Beverages : ₹3,500 for two :  JW Marriott, Chandigarh, Chandigarh
+Urban Cafe - Hyatt Regency : 4.3 : North Indian, Continental, Oriental, Fast Food, Kebab, Salad, Desserts, Beverages : ₹4,000 for two :  Hyatt Regency, Chandigarh Industrial Area, Chandigarh
+The Brew Estate : 4.3 : Chinese, North Indian, Seafood, Mughlai, Pizza, Pasta, Fast Food, Beverages : ₹2,500 for two :  Sector 9, Panchkula
+Playground : 4.3 : North Indian, Continental, European, Beverages : ₹1,900 for two :  Sector 26, Chandigarh
+Rozana - Indian Kitchen & Bar : 4.3 : North Indian, Biryani, Mughlai, Bihari, Assamese, Continental, Desserts, Beverages : ₹3,500 for two :  Sector 5, Panchkula
+House of Garden : 4.4 : North Indian, Mughlai, Chinese, Continental, Biryani, Fast Food, Desserts, Beverages : ₹1,400 for two :  Sector 82, Mohali
+Dastaan : 4.6 : North Indian, Mughlai, Biryani, Desserts, Coffee, Beverages : ₹1,900 for two :  Sector 7, Chandigarh
+XO - JW Marriott : 4.5 : Asian, Seafood : ₹3,000 for two :  JW Marriott, Chandigarh, Chandigarh
+Nazaare : 4.0 : North Indian, Continental, Chinese, Pasta, Kebab, Mexican, Fast Food, Desserts : ₹1,400 for two :  Lohgarh, Zirakpur
+TuBu : 3.5 : Cafe, Burger, Desserts : ₹1,500 for two :  Sector 10, Chandigarh
+Kali Coffee : 4.7 : Cafe, Coffee, Continental, Fast Food, Burger, Italian, Desserts, Beverages : ₹1,100 for two :  Sector 20, Panchkula
+Nando's : 4.5 : Burger, Healthy Food, Portuguese : ₹1,500 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+The G.T. Road : 4.4 : North Indian, Mughlai : ₹2,100 for two :  Sector 26, Chandigarh
+MyFresh Cafe : 4.6 : Healthy Food, Continental, Pizza, Pasta, Salad, Desserts, Juices, Beverages : ₹1,000 for two :  Sector 9, Panchkula
+Olive Cafe & Bar : 4.1 : Cafe, Beverages, Italian, Fast Food, Finger Food, Continental, Desserts : ₹1,800 for two :  Sector 26, Chandigarh
+Timshel Cafe And Restaurant : 4.0 : North Indian, Continental, Mediterranean, Asian, Mexican, Italian : ₹1,000 for two :  Sector 91 Mohali, Mohali
+Beige Cafe and Bakery : 3.8 : Cafe, Bakery, Desserts, Beverages : ₹2,000 for two :  Sector 7, Chandigarh
+Mamagoto : 4.5 : Asian, Sushi, Japanese, Thai, Salad, Desserts : ₹1,800 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+Café De Piccolo : 4.5 : Cafe, Coffee, Beverages, Fast Food, Sandwich, Pizza, Italian, Desserts : ₹1,500 for two :  Sector 9, Chandigarh
+Cafe Olio : 3.7 : Cafe, European, Fast Food, Street Food, Pizza, Desserts, Beverages : ₹1,400 for two :  Sector 35, Chandigarh
+Barista Diner : 4.2 : Cafe, Coffee, Italian, Mexican, Continental, Pizza, Sandwich, Salad : ₹700 for two :  Sector 26, Chandigarh
+Corby's - Hyatt Centric : 4.3 : North Indian, Continental, Fast Food, Chinese, Desserts, Beverages : ₹2,500 for two :  Hyatt Centric, Sector17, Chandigarh
+Yo! China : 3.9 : Chinese, Asian, Thai, Sichuan, Desserts, Beverages : ₹1,200 for two :  Phase 5, Mohali
+Back To Source - Organic Food Restaurants, Coffee & Bakery : 4.6 : North Indian, Sandwich, Fast Food, Chinese, Desserts : ₹1,800 for two :  Sector 17, Chandigarh
+Pirates Of Grill : 4.4 : North Indian, Salad, Desserts, Beverages : ₹2,000 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+Blancos : New : Italian, Continental, Pizza, Pasta : ₹1,500 for two :  Sector 67, Mohali
+The Big Bro : 4.2 : Bakery, Cafe, Continental, Italian, Beverages, Desserts, Mexican : ₹1,400 for two :  Sector 9, Panchkula
+The Brew Street : 4.2 : North Indian, Chinese, Continental, Pizza, Fast Food, Seafood, Beverages : ₹1,800 for two :  Ambala Road, Zirakpur
+OvenFresh : 4.4 : Cafe, Beverages, Bakery, Desserts, American, Continental, Thai, Pizza : ₹1,100 for two :  Sector 35, Chandigarh
+Peddlers : 4.3 : Bar Food, North Indian, Mughlai, Chinese, Thai, Pizza, Pasta, Beverages : ₹1,700 for two :  Hotel Heritage, Sector 35, Chandigarh
+Chutney house : 3.2 : North Indian, Chinese, Biryani, Fast Food : ₹450 for two :  Ambala Road, Zirakpur
+Zinnia - Abstract Dining : 4.2 : North Indian, Coffee, Tea, Beverages : ₹1,000 for two :  Sector 10, Chandigarh
+Barbeque Nation : 4.7 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,900 for two :  Sector 26, Chandigarh
+Ministry Of Brew : 3.9 : Cafe, Coffee, Shake, Beverages, Fast Food, Salad, Continental, Desserts : ₹650 for two :  Sector 11, Panchkula
+Levels Microbrewery & SkyGarden : 3.6 : Continental, Italian, Sushi, Korean, Mexican, North Indian : ₹2,200 for two :  Kharar Road, Mohali
+Eli's Bakehouse : 4.2 : Bakery, Chinese, Continental, North Indian, Desserts : ₹1,300 for two :  Sector 5, Panchkula
+The Lavaniya : 4.1 : North Indian, Chinese, Italian, Biryani, Seafood, Mughlai, Desserts, Beverages : ₹1,700 for two :  Sector 9, Panchkula
+Kake Di Hatti : 4.1 : North Indian : ₹350 for two :  Phase 10, Mohali
+Cafeteria & Co. : 4.0 : Continental, Italian, Fast Food, Pizza, Burger, Shake, Beverages : ₹1,500 for two :  Chandigarh Industrial Area, Chandigarh
+Bunny & Bear : 3.9 : American, Italian, North Indian, Bakery, Desserts, Waffle, Beverages, Shake : ₹1,000 for two :  Lohgarh, Zirakpur
+Teatro : 3.0 : North Indian, Chinese, Mughlai, Biryani, Pasta, Pizza, Desserts : ₹1,000 for two :  Sector 78, Mohali
+The Brew Barrels - Brewery & Kitchen : 4.5 : Bar Food, North Indian, Mughlai, Chinese, Asian, Pizza, Continental, Beverages : ₹1,200 for two :  Phase 5, Mohali
+Kalsang : 3.2 : Chinese, Seafood, Tibetan, Korean, Asian, Sichuan, Thai, Desserts : ₹1,200 for two :  Sector 8, Chandigarh
+Sir Dough Bakehouse Cafe : 3.9 : Cafe, Coffee : ₹600 for two :  Sector 7, Chandigarh
+Sir Dough Bakehouse Cafe : 3.0 : Cafe, Coffee, Shake : ₹400 for two :  Sector 5, Panchkula
+Gola Sizzlers : New : North Indian, Chinese, Seafood, Pizza, Fast Food, Salad : ₹1,200 for two :  Sector 67, Mohali
+Masala Grill : 3.9 : North Indian, Chinese, Continental, Mughlai, Italian, Desserts : ₹1,600 for two :  The Cove, Sector 5, Panchkula
+Punjab Street : 4.3 : North Indian, Chinese, Fast Food, Street Food, Biryani, Burger, Shake, Tea : ₹450 for two :  TDI City, Mohali
+Garam Dharam : 4.1 : North Indian, Mughlai, Kebab, Biryani, Desserts, Beverages : ₹1,800 for two :  Sector 26, Chandigarh
+Brewster Brewery : 4.0 : North Indian, Mughlai, Chinese, Continental, Pizza, Bar Food, Desserts, Beverages : ₹1,000 for two :  Sector 82, Mohali
+Redhaba - Radisson Red : 4.2 : North Indian, Continental, Desserts : ₹3,500 for two :  Radisson Chandigarh Sector 67, Mohali
+Roadies KoffeeHouz : 4.2 : Coffee, Beverages, Continental, Fast Food, Burger, Pizza, Desserts : ₹1,200 for two :  Sector 82, Mohali
+Virgin Courtyard : 4.5 : Italian, Pasta, Pizza : ₹2,500 for two :  Sector 7, Chandigarh
+Turkish House Mafia : New : Turkish, Seafood, Desserts : ₹2,000 for two :  Sector 7, Chandigarh
+Zafrani Restaurant : 4.3 : North Indian, Mughlai, Kebab, Biryani, Chinese, Desserts : ₹1,800 for two :  Ambala Road, Zirakpur
+Cafe JC's : 3.9 : Cafe, American, North Indian, Chinese, Italian, Continental, Beverages, Desserts : ₹1,600 for two :  Sector 10, Chandigarh
+Dhaba By Amigos : 4.4 : North Indian, Mughlai, Rolls, Biryani : ₹600 for two :  Phase 3, Mohali
+Jamie Oliver's Pizzeria : 4.4 : Pizza, Italian, Salad, Fast Food, Continental, Beverages, Pasta : ₹850 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+Serenade - WelcomHotel Bella Vista : 4.0 : North Indian, Continental, Italian, Desserts, Beverages : ₹3,000 for two :  WelcomHotel Bella Vista, Sector 5, Panchkula
+Cottage : 4.4 : Mediterranean, European, Italian, Desserts : ₹2,000 for two :  Sector 7, Chandigarh
+Bon Gateau : 4.3 : North Indian, Chinese, Italian, Continental, Fast Food, Desserts, Coffee, Beverages : ₹1,800 for two :  Sector 7, Chandigarh
+Tulum Rooftop Bar & Kitchen : 4.0 : Continental, Mexican, Pizza, Salad : ₹1,600 for two :  The Toy Hotel, Sector 34, Chandigarh
+Affluence : 3.9 : Biryani, North Indian, Chinese, South Indian, Desserts, Beverages : ₹1,000 for two :  Kharar Road, Mohali
+The Existential Cafe : 3.4 : Cafe, Coffee, Pizza, Pasta, Fast Food, Pancake, Waffle, Tea : ₹550 for two :  Sector 36, Chandigarh
+Yo! China : 4.2 : Chinese, Asian, Thai, Sichuan, Desserts, Beverages : ₹1,200 for two :  Inner market, Sector 9 D, Chandigarh
+Biryani By Kilo : 4.3 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹850 for two :  Sector 30, Chandigarh
+House Of Lords - The Altius Boutique Hotel : 4.2 : North Indian, Mughlai, Chinese, Continental, Biryani, Beverages : ₹1,200 for two :  The Altius Boutique Hotel, Chandigarh Industrial Area, Chandigarh
+Jannaat CHD : 4.2 : North Indian : ₹2,500 for two :  Sector 7, Chandigarh
+Hibachi - Hotel Icon : 4.5 : Chinese, Asian, Sushi, Japanese, Thai, Seafood, Beverages : ₹2,000 for two :  Hotel Icon, Sector 8, Chandigarh
+Backpackers Cafe : 4.3 : Cafe, Beverages, Continental, Pizza, Burger, Fast Food, Salad, Desserts : ₹2,000 for two :  Inner market, Sector 9 D, Chandigarh
+The Olive & Greens : 4.0 : Continental, North Indian, Fast Food, Shake, Beverages, Desserts : ₹1,500 for two :  Ambala Road, Zirakpur
+Dialogue Cafe : 4.2 : Cafe, Continental, Mexican, Chinese, North Indian, American, Desserts, Beverages : ₹1,000 for two :  Sector 35, Chandigarh
+Barista Coffee : 3.7 : Cafe, Coffee, Desserts, Sandwich, Fast Food : ₹550 for two :  Sector 35, Chandigarh
+Zoca Cafe : 3.3 : Italian, Continental, North Indian, Chinese, Oriental, Cafe, Beverages, Coffee : ₹1,500 for two :  Phase 10, Mohali
+Sip 'N' Dine : 3.8 : North Indian, Chinese, Mughlai, Seafood, Fast Food : ₹1,800 for two :  Sector 7, Chandigarh
+Pizza Near Me : 2.9 : Pizza : ₹600 for two :  Sector 8, Chandigarh
+P Bhagat Tarachand : New : North Indian, South Indian, Biryani, Chinese, Sichuan, Desserts : ₹900 for two :  Ambala Road, Zirakpur
+Bisaat : 4.6 : North Indian, Mughlai, Kebab, Biryani : ₹1,400 for two :  Sector 5, Panchkula
+Salt - The Magical Kitchen : 4.0 : North Indian, Chinese, Momos, Kebab, Asian, Biryani : ₹1,000 for two :  Sector 16, Panchkula
+The Great Bear : 4.6 : North Indian, Italian, Continental, Biryani, Finger Food, Desserts, Beverages : ₹3,000 for two :  Sector 26, Chandigarh
+Chugli : 4.8 : North Indian, Chinese, Asian, European, Oriental, Italian, Desserts, Beverages : ₹1,400 for two :  Sector 5, Panchkula
+The Sizzle & Roast Co. : 3.9 : Italian, Pasta, Burger, Chinese, Fast Food, Salad, Sandwich, Beverages : ₹1,200 for two :  Sector 67, Mohali
+Brooklyn Central : 4.3 : Cafe, Shake, Beverages, American, Continental, Pizza, Burger, Bar Food : ₹1,600 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+Brew Waves : 4.4 : Continental, North Indian, Chinese, Seafood, Pizza, Fast Food, Biryani, Beverages : ₹1,800 for two :  VR Punjab, Kharar Road, Mohali
+Xero Degrees : 3.9 : Fast Food, Italian, Sandwich, Burger, Pizza, Waffle, Shake, Beverages : ₹600 for two :  Ambala Road, Zirakpur
+Caldo's Cafe & Lounge : 3.9 : Pasta, Sandwich, Mexican, Continental, Pizza, Burger, Fast Food, Coffee : ₹500 for two :  Sector 67, Mohali
+Oven Roast And Grill : 3.8 : Fast Food, Street Food : ₹1,000 for two :  Sector 35, Chandigarh
+Restro Cafe Florida : 3.6 : North Indian, Mughlai, Fast Food, Street Food, Chinese, Desserts, Beverages : ₹550 for two :  Kharar Road, Mohali
+Moti Mahal Delux : 3.2 : North Indian, Mughlai, Seafood, Biryani, Chinese, Momos, Desserts, Beverages : ₹1,500 for two :  Sector 7, Chandigarh
+Hops n Grains Kitchen & Microbrewery : 4.6 : North Indian, Continental, Bar Food, Mughlai, BBQ, Salad, Desserts, Beverages : ₹2,000 for two :  Sector 67, Mohali
+Zero Hour Cafe : 3.9 : North Indian, Continental, Chinese, Mexican, Pizza, Desserts, Beverages : ₹1,200 for two :  Ambala Road, Zirakpur
+TCB Cafe : 4.1 : Cafe, Coffee, Sandwich, Burger, Fast Food, Wraps, Salad, Beverages : ₹700 for two :  MDC, Panchkula
+Hops n Grains : 4.9 : North Indian, Mughlai, Continental, Italian, Pizza, Salad, Desserts, Beverages : ₹3,000 for two :  Sector 9, Panchkula
+JD's Cafe : 4.5 : Pizza, Wraps, Fast Food, Burger, Shake, Beverages, Street Food, Desserts : ₹500 for two :  Sector 5, Panchkula
+Inari : 4.2 : Cafe, Kebab, North Indian, Mughlai, Chinese, Italian, Continental, Desserts : ₹1,000 for two :  Sector 5, Panchkula
+Prashadam Sweets & Restaurant : 4.1 : North Indian, South Indian, Chinese, Continental, Street Food, Mithai, Desserts, Beverages : ₹1,200 for two :  Manimajra, Chandigarh
+Buffet Hut : 3.3 : North Indian, Chinese : ₹1,500 for two :  Sector 70, Mohali
+Piccante - Hyatt Regency : 4.3 : Italian, Seafood, Desserts : ₹3,500 for two :  Hyatt Regency, Chandigarh Industrial Area, Chandigarh
+Sueño : 3.9 : Italian, Pizza, Desserts, Beverages, Shake : ₹1,500 for two :  Sector 10, Panchkula
+Chinese Wok : 3.1 : Chinese, Sichuan, Momos : ₹400 for two :  Phase 10, Mohali
+Sir Dough Bakehouse Café : 4.0 : Cafe, Coffee, Beverages, Bakery, Sandwich, Pizza, Italian, Fast Food : ₹750 for two :  Sector 70, Mohali
+The Chocolate Room : - : Desserts, Mexican, Waffle, Italian, Bakery, Cafe : ₹450 for two :  Kharar Road, Mohali
+The Barbeque Company : New : BBQ, North Indian, Fast Food, Desserts : ₹1,600 for two :  VIP Road, Zirakpur
+Jhumroo : 4.1 : North Indian, Street Food, Fast Food : ₹800 for two :  Phase 3, Mohali
+Cafe Flora Bella : 3.6 : Cafe, Continental, Chinese, Pizza, Burger, Modern Indian, Sandwich, Fast Food : ₹1,000 for two :  Sector 70, Mohali
+Greek House : 3.5 : Greek, Salad, Middle Eastern, Burger, Sandwich, Continental, Italian, Desserts : ₹1,300 for two :  Sector 16, Panchkula
+24/7 All Day Dining - The Lalit Chandigarh : 4.0 : North Indian, Italian, Asian, Desserts : ₹3,000 for two :  The Lalit Chandigarh, IT Park, Chandigarh
+Aurum Cafe & Sky Bar : 4.0 : North Indian, Continental, Sandwich, Fast Food, Chinese, Biryani, Desserts, Beverages : ₹1,200 for two :  Sector 82, Mohali
+Jiggera - Radisson Red : 3.9 : North Indian, Bar Food, Chinese, Finger Food, Continental : ₹1,200 for two :  Radisson Chandigarh Sector 67, Mohali
+Taco Bell : 4.2 : Mexican, Fast Food : ₹600 for two :  VR Punjab, Kharar Road, Mohali
+Harvi's Pizza : 4.3 : Pizza, Fast Food : ₹500 for two :  Sector 15, Panchkula
+Third Wave Coffee : 4.2 : Cafe, Coffee, Tea, Beverages, Sandwich, Fast Food, Desserts, Pizza : ₹700 for two :  Sector 35, Chandigarh
+Casa Bella Vista Pizzeria : 4.0 : Pizza, Italian, Salad, Desserts, Coffee, Juices, Beverages : ₹1,700 for two :  Sector 10, Chandigarh
+Baluchi - The Lalit Chandigarh : 4.2 : North Indian, Kebab, Desserts : ₹4,000 for two :  The Lalit Chandigarh, IT Park, Chandigarh
+Essence - Park Plaza : 4.2 : Chinese, Mughlai, North Indian : ₹1,500 for two :  Park Plaza, Ambala Road, Zirakpur
+Super Donuts - Eat House : 3.7 : Continental, Wraps, Pasta, Burger, Coffee, Beverages, Bakery, Desserts : ₹600 for two :  Sector 11, Panchkula
+Swagath Restaurant & Bar : 4.5 : North Indian, Mughlai, Chinese, South Indian, Seafood, Biryani, Desserts, Beverages : ₹1,800 for two :  Sector 26, Chandigarh
+Elude Microbrewery : 4.1 : North Indian, Mughlai, Chinese, Middle Eastern, Pizza, Desserts : ₹1,500 for two :  Ambala Road, Zirakpur
+The Local House : 3.8 : Cafe, Coffee, North Indian, Chinese, Mexican, Italian, Desserts, Beverages : ₹1,300 for two :  Sector 5, Panchkula
+Bella Gusto : 3.8 : Salad, Sandwich, Burger, Pasta, Pizza, Desserts : ₹1,200 for two :  Sector 67, Mohali
+Craaazy Monks - Most Pocket Friendly Cafe : 4.1 : Fast Food, Pizza, Burger, Sandwich, Chinese : ₹300 for two :  Sector 8, Chandigarh
+Matka Punjabi Dhaba : 3.9 : North Indian, Mughlai : ₹350 for two :  Kharar Road, Mohali
+Pizza Hut : 3.2 : Pizza, Pasta, Italian, Fast Food, Desserts, Beverages : ₹800 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+KFC : 3.8 : Burger, Fast Food, Rolls : ₹450 for two :  Sector 67, Mohali
+Fish 'N' Chips : 3.5 : Fast Food, Burger, Wraps, Shake, Beverages : ₹350 for two :  Sector 67, Mohali
+Karim's : 2.8 : Mughlai, North Indian, Rolls : ₹1,300 for two :  Sector 26, Chandigarh
+Pyramid : 4.3 : North Indian, Chinese, Mughlai, Continental, Asian, Italian, Desserts, Beverages : ₹1,600 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+Fanchaistic Chai : 3.7 : Tea, Coffee, Shake, Burger, Continental, Sandwich, Fast Food, Desserts : ₹200 for two :  Phase 7, Mohali
+House Of Wok : 4.2 : Chinese, Asian, Sushi, Thai, Seafood, Salad : ₹1,500 for two :  Sector 70, Mohali
+Bargain Booze : 4.1 : Bar Food, North Indian, Chinese, Continental, Italian, Beverages : ₹1,800 for two :  Sector 26, Chandigarh
+The Back Room : 4.1 : North Indian, Oriental, Continental : ₹2,500 for two :  The Toy Hotel, Sector 34, Chandigarh
+IndiSuBb : 3.3 : North Indian, Rolls, Burger, Sandwich, Fast Food, Street Food, Desserts, Beverages : ₹400 for two :  Sector 67, Mohali
+Rojo Tomate : 4.8 : Italian, Pizza, Pasta, Continental, Beverages, Shake : ₹1,800 for two :  Sector 10, Chandigarh
+Shama Dhaba : 4.0 : North Indian, Mughlai, Biryani : ₹200 for two :  Landran Road, Mohali
+Friends Cafe And Kitchen : 2.9 : North Indian, Biryani, Chinese, Kebab, Pizza, Sandwich, Salad, Beverages : ₹400 for two :  Sector 14, Panchkula
+Kake Da Hotel Since 1931 : 4.2 : North Indian, Mughlai, Chinese : ₹1,000 for two :  Sector 28, Chandigarh
+Dana Paani Punjabi Dhaba : 3.8 : North Indian, Chinese, Fast Food, Rolls, Desserts, Beverages : ₹400 for two :  Phase 3, Mohali
+Jamie Oliver Kitchen Cafe : 3.6 : Healthy Food, Coffee, Salad, Sandwich, Tea, Continental : ₹500 for two :  Sector 17, Chandigarh
+Lord Of Cravings : 4.1 : Sandwich, Salad, Wraps, Fast Food, Juices, Shake, Beverages : ₹1,000 for two :  Sector 10, Panchkula
+BR Chinese Cafe : New : Chinese, Momos : ₹650 for two :  Phase 3, Mohali
+Oven Roast & Grill : 3.7 : Chinese, European, Pizza, Sandwich, Fast Food, Asian, Italian, Sushi : ₹1,450 for two :  Sector 35, Chandigarh
+Burger & Pizza Lovers : - : Pizza, Burger, Sandwich, Wraps : ₹300 for two :  Phase 1, Mohali
+The Platform : 4.2 : Cafe, South Indian, North Indian, Chinese, Fast Food, Beverages : ₹950 for two :  Sector 9, Panchkula
+The Coffee Bean & Tea Leaf : 4.1 : Cafe, Tea, Beverages, Continental, Fast Food, Bakery, Desserts : ₹1,100 for two :  Hotel Aquamarine, Sector 22, Chandigarh
+D'Bakers Home : 4.4 : Bakery, Desserts, Salad, Fast Food, Sandwich, Burger, Beverages : ₹400 for two :  Phase 3, Mohali
+Thai Chai 9 : - : Thai, Chinese : ₹1,000 for two :  Ambala Road, Zirakpur
+OKO - The Lalit Chandigarh : 4.6 : Chinese, Japanese, Thai, Vietnamese, Desserts : ₹4,000 for two :  The Lalit Chandigarh, IT Park, Chandigarh
+Minshi : 3.6 : Chinese, Momos : ₹300 for two :  Kharar Road, Mohali
+Little IDLI : 3.9 : South Indian, Beverages : ₹500 for two :  Sector 14, Panchkula
+Aao Ji Khao Ji : 3.8 : North Indian, Kebab, Mughlai, Chinese, Street Food : ₹600 for two :  VIP Road, Zirakpur
+Tatami : 4.2 : Japanese, Asian, Sushi, Rolls : ₹1,400 for two :  Sector 7, Chandigarh
+Pro Brew Republic : 4.3 : North Indian, Continental, Chinese, Biryani, Fast Food, Italian, Desserts, Beverages : ₹1,800 for two :  Sector 20, Panchkula
+Family Food Delights : New : North Indian : ₹300 for two :  Sector 12, Chandigarh
+Baba Chicken : 3.8 : North Indian, Mughlai, Chinese, Kebab, Seafood, Biryani, Salad, Beverages : ₹1,000 for two :  VIP Road, Zirakpur
+Pomodoro Cafe & Lounge : 3.4 : Cafe, North Indian, Chinese, Italian, Fast Food, Beverages, Desserts : ₹1,100 for two :  Sector 82, Mohali
+Tin Tin Modern Asian Restobar : 3.7 : Coffee, North Indian, Sushi, Japanese, Momos, Beverages, Chinese, Asian : ₹1,600 for two :  Sector 34, Chandigarh
+Dhaba - A Punjabi Theme : 4.1 : North Indian, Mughlai, Chinese, Biryani, Street Food, Desserts : ₹1,700 for two :  Sector 82, Mohali
+Urban Theka - Coffeeholic Cafe : 3.5 : Shake, Pasta : ₹300 for two :  Sector 82, Mohali
+Gillie’s Smokehouse & Cafe : New : Cafe, Coffee, BBQ, Italian, Continental, Tea, Beverages : ₹1,100 for two :  Landran Road, Mohali
+Khao Aur Khane Do : - : North Indian, Street Food, Beverages : ₹200 for two :  Sector 21, Chandigarh
+Noorani By Nihari : 4.3 : North Indian, Biryani, Mughlai : ₹1,200 for two :  Sector 5, Panchkula
+Bolly Vista Blvd : 3.9 : Pizza, Pasta, North Indian, Fast Food, Shake, Beverages : ₹300 for two :  Sector 36, Chandigarh
+WOW! China : - : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹100 for two :  Sector 67, Mohali
+Chawlas 2 Since 1960 : 3.6 : North Indian, Salad : ₹400 for two :  Sector 67, Mohali
+Chaayos Chai+Snacks=Relax : 4.3 : Tea, Fast Food, Cafe, Beverages, Rolls, Coffee : ₹500 for two :  Sector 8, Chandigarh
+Blue Tokai Coffee Roasters : 3.4 : Cafe, Coffee, Beverages : ₹600 for two :  Sector 8, Chandigarh
+Pinxx - Regenta Central Cassia : 4.0 : North Indian, Fast Food : ₹2,500 for two :  Lohgarh, Zirakpur
+IL Forno Magico : 4.0 : Continental, Desserts, Italian, Burger, Bakery : ₹1,100 for two :  Phase 3B2 Market, Phase 3, Mohali
+Bunk And Boom : 4.3 : Continental, North Indian, Chinese, Asian, Pizza, Pasta : ₹1,100 for two :  VIP Road, Zirakpur
+Viva - Holiday Inn Chandigarh Zirakpur : 4.3 : Mughlai, North Indian, Chinese, Continental, Desserts, Beverages : ₹1,600 for two :  Holiday Inn Chandigarh Zirakpur, Zirakpur
+Pal Dhaba : 3.3 : North Indian, Mughlai, Chinese, Fast Food : ₹600 for two :  Sector 28, Chandigarh
+Sultry Noodle : 3.9 : Asian, Sushi, Cafe, Chinese, Desserts : ₹2,000 for two :  Sector 7, Chandigarh
+Moti Mahal Delux : 3.9 : Chinese, North Indian, Biryani, Desserts : ₹850 for two :  Sector 43, Chandigarh
+Zuhra : 3.9 : Bar Food : ₹2,500 for two :  Sector 26, Chandigarh
+Owling By Fat Dad : 4.2 : Cafe, Fast Food, Pizza, Pasta, Salad, Street Food, Beverages, Desserts : ₹900 for two :  Sector 10, Panchkula
+The Hedgehog Café : 4.1 : Cafe, Italian, Continental, BBQ, Burger, Fast Food, Desserts, Beverages : ₹1,400 for two :  Sector 7, Chandigarh
+Lezzetli : 4.0 : North Indian, Chinese, Continental, Mughlai, Fast Food, Biryani, Desserts, Beverages : ₹1,800 for two :  Kharar Road, Mohali
+Chaizade : 3.9 : Tea, Pasta, Burger, Pizza, Wraps, Salad, Fast Food, Street Food : ₹600 for two :  VIP Road, Zirakpur
+Popeyes : 2.8 : Burger, Sandwich, Fast Food, Grilled Chicken : ₹300 for two :  Sector 67, Mohali
+Caffe Sicily : 4.9 : Pizza, Fast Food, Beverages, Desserts : ₹950 for two :  Sector 7, Chandigarh
+Circle Of Crust : 3.4 : Pizza, Fast Food, Coffee, Beverages : ₹1,000 for two :  Sector 35, Chandigarh
+Mosaic - Country Inn & Suites by Radisson : 4.4 : North Indian, Chinese, Continental, Desserts, Beverages : ₹3,000 for two :  Country Inn & Suites by Radisson, Ambala Road, Zirakpur
+Water Bench - Velvet Clarks Exotica : 3.4 : North Indian, Continental, Mughlai, Oriental, Desserts, Beverages : ₹1,400 for two :  Velvet Clarks Exotica, Chandigarh Road, Zirakpur
+Sharman Jain Sweets : New : Mithai, North Indian, South Indian, Pizza, Burger, Street Food, Chinese : ₹400 for two :  Sector 7, Chandigarh
+Xero Degrees : 3.2 : Cafe, Coffee, Pizza, Italian, Fast Food, Waffle, Shake, Beverages : ₹1,000 for two :  Sector 70, Mohali
+JB's Kitchen : 4.4 : North Indian, Chinese, Fast Food, Mughlai, Thai, Beverages, Desserts : ₹1,400 for two :  Phase 5, Mohali
+Sandburgs : 3.9 : Cafe, Coffee, Shake, Beverages, Burger, Sandwich, Fast Food : ₹750 for two :  Chandigarh Industrial Area, Chandigarh
+Veg Village Food : 3.9 : North Indian, Beverages, Desserts, Biryani : ₹1,000 for two :  Phase 5, Mohali
+Rebop : 4.0 : North Indian, Chinese, Mughlai, Kebab, Biryani, Pizza, Sandwich, Fast Food : ₹1,300 for two :  Ambala Road, Zirakpur
+Flavours Of Charcoal : 2.9 : North Indian, Chinese, Biryani, Fast Food : ₹550 for two :  VIP Road, Zirakpur
+Cellar : 4.2 : North Indian, Chinese, Continental, Biryani, Bar Food : ₹2,000 for two :  Sector 35, Chandigarh
+Swad : New : North Indian, Pizza, Sandwich, Fast Food, Tea, Coffee, Beverages : ₹300 for two :  TDI City, Mohali
+Buns Bistro : 2.9 : Cafe, Coffee, Beverages, Fast Food : ₹600 for two :  Sector 19, Chandigarh
+Crazy Food & Juice Bar : 3.3 : Juices, Shake, Beverages, Chinese, Pizza, Fast Food : ₹200 for two :  Sector 15, Panchkula
+Mozimo Chocolates : - : Desserts : ₹300 for two :  Sector 9, Chandigarh
+Waycup Cafe : 4.9 : Cafe, Coffee, Pizza, Burger, Continental, Sandwich, Pasta, Salad : ₹1,200 for two :  Sector 67, Mohali
+House Of Barqat : 3.9 : North Indian, Continental : ₹1,000 for two :  Phase 11, Mohali
+Dera - Taj Chandigarh : 4.5 : North Indian, Desserts : ₹3,500 for two :  Taj Chandigarh, Sector 17, Chandigarh
+Nugget Nation : 4.2 : Fast Food, Burger, Sandwich : ₹400 for two :  Sector 8, Chandigarh
+Masalchi : 4.4 : North Indian, South Indian, Mughlai, Seafood, Biryani, Desserts : ₹950 for two :  Sector 8, Chandigarh
+Zaika The Royal Taste Of Nawabs : 3.7 : North Indian, Sandwich, Burger, Rolls, Fast Food, Street Food, Shake, Beverages : ₹300 for two :  Kharar Road, Mohali
+Wow Dosaaz : New : South Indian, Fast Food : ₹300 for two :  Phase 5, Mohali
+Fratelli's : 3.9 : Cafe, Coffee, Pizza, Italian, Sandwich, Fast Food, Desserts, Shake : ₹850 for two :  Sector 70, Mohali
+Windmill@Cassia : 4.3 : North Indian, Continental, Beverages, Desserts : ₹1,500 for two :  Lohgarh, Zirakpur
+Garam Dharam : 4.2 : North Indian, Bar Food, Mughlai, Biryani, Chinese, Desserts, Beverages : ₹1,400 for two :  TDI City, Mohali
+Kiosk Kaffee : 3.5 : Cafe, Coffee, Sandwich, Shake, Beverages : ₹400 for two :  Sector 67, Mohali
+Cafe Cha'a Brewers : 4.2 : Fast Food, Street Food, Burger, Sandwich, Wraps, Beverages, Shake, Continental : ₹500 for two :  Sector 35, Chandigarh
+Nammos The Rooftop : 3.8 : Asian, North Indian, Italian : ₹1,200 for two :  Sector 5, Panchkula
+Jaguars Cafe & Club : 3.9 : North Indian, Fast Food, Continental, Sushi, Italian, Salad, Desserts, Beverages : ₹1,800 for two :  Ambala Road, Zirakpur
+Thirteen Cafe : New : North Indian, Chinese, Pizza, Sandwich, Fast Food, Beverages : ₹1,000 for two :  Manimajra, Chandigarh
+Bistro 1427 : 4.2 : Cafe, North Indian, Chinese, Fast Food, Asian, Desserts, Pizza, Shake : ₹1,100 for two :  Sector 5, Panchkula
+Sukush : 3.3 : North Indian, Chinese, Fast Food, Beverages : ₹400 for two :  Kharar Road, Mohali
+Tea Bencher's : 3.4 : Tea, Coffee, Shake, Beverages, Sandwich, Burger, Wraps, Street Food : ₹200 for two :  Kharar Road, Mohali
+Pizza Wings : 3.8 : Pizza : ₹550 for two :  Sector 5, Panchkula
+Grinch Resto Bar : 3.9 : Bar Food : ₹1,500 for two :  Kharar Road, Mohali
+Sagar Ratna : 3.8 : South Indian, North Indian, Chinese, Desserts, Beverages : ₹1,000 for two :  Sector 17, Chandigarh
+Bali's Rooftop Lounge : 3.9 : Oriental, Continental, Seafood, Biryani, Desserts, Beverages : ₹2,000 for two :  Hotel Oyester, Sector 17, Chandigarh
+Hamitas Kitchen : - : North Indian, Mughlai, Biryani, Kebab, Chinese, Salad, Seafood, Italian : ₹1,200 for two :  Sector 82, Mohali
+The Avenry Cafe & Kitchen : New : North Indian : ₹2,400 for two :  Sector 67, Mohali
+Lov's Restaurant & Cafe : 4.0 : Fast Food, Asian, Sandwich, Pizza, North Indian, Mughlai, Italian, Chinese : ₹800 for two :  Sector 5, Panchkula
+Gopal's : 3.4 : Mithai, South Indian, North Indian, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Sector 8, Panchkula
+Kanel Scandinavian Bakery : 2.9 : Desserts : ₹800 for two :  Sector 7, Chandigarh
+Sultry Noodle : 3.9 : Asian, Chinese, Sushi, Desserts, Beverages : ₹2,000 for two :  WelcomHotel Bella Vista, Sector 5, Panchkula
+Los Amigo's Cafe : 4.0 : Cafe, Italian, Fast Food, Pizza, Sandwich, Burger, Desserts, Beverages : ₹950 for two :  Phase 3B2 Market, Phase 3, Mohali
+Cafe G - Holiday Inn : 4.1 : North Indian, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,800 for two :  Holiday Inn, Panchkula, Panchkula
+Chawlas 2 Since 1960 : 4.0 : North Indian, Chinese, Seafood, Mughlai, Biryani : ₹1,200 for two :  Sector 7, Chandigarh
+Juicemart : 3.9 : Juices, Shake, Beverages, Fast Food, Pasta, Sandwich : ₹250 for two :  Sector 16, Chandigarh
+Yellow Tomato : 3.7 : North Indian, Chinese, Pizza, Burger, Biryani, Wraps, Fast Food, Street Food : ₹600 for two :  Sunny Enclave, Mohali
+Laziz Rasoi : 4.4 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹550 for two :  Sector 35, Chandigarh
+Theobroma : 3.5 : Bakery, Desserts : ₹500 for two :  Phase 3, Mohali
+Brew Bros : 4.3 : North Indian, Mexican, Continental, Italian, Oriental, Salad, Beverages, Desserts : ₹1,800 for two :  Sector 82, Mohali
+WOW! Momo : 2.2 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts : ₹100 for two :  Sector 67, Mohali
+Captain Sam's : 3.4 : Pizza, Fast Food, Salad, Desserts : ₹300 for two :  Sector 26, Chandigarh
+Get Desserted : 4.8 : Desserts, Waffle, Pancake, Ice Cream, Shake, Beverages : ₹300 for two :  Inner Market, Sector 8 B, Chandigarh
+Crispy Nation : 3.1 : North Indian : ₹300 for two :  Kharar Road, Mohali
+Urban Grilz Restaurant : 3.8 : Chinese, Street Food, Sandwich, Burger, Fast Food, North Indian, Biryani, Shake : ₹400 for two :  Ambala Road, Zirakpur
+PNK Dhaba : 3.5 : North Indian, Chinese, Pizza, Continental, Fast Food, Beverages : ₹500 for two :  Ambala Road, Zirakpur
+Pink Wasabi : 4.2 : Asian, Chinese, Sushi : ₹1,800 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+The Willow Cafe : 4.1 : Cafe, Continental, North Indian, Salad, Burger, Wraps, Beverages, Desserts : ₹1,600 for two :  Sector 10, Chandigarh
+LYKKE : 3.6 : Cafe, Coffee, Pizza, Italian, Sandwich, Desserts, Beverages : ₹1,400 for two :  Sector 9, Chandigarh
+Boston & Co. : 3.9 : American, Italian, Burger, Sandwich, Fast Food, Salad, Shake, Beverages : ₹550 for two :  MDC, Panchkula
+Brewloft Coffee & Co. : 3.9 : Cafe, Coffee, Shake, Beverages, Pizza, Fast Food, Street Food, Desserts : ₹500 for two :  Sector 34, Chandigarh
+Doaba Express : New : North Indian, Chinese, Pizza, Burger, Sandwich, Fast Food, Shake, Beverages : ₹500 for two :  VIP Road, Zirakpur
+Brothers Amritsari Kulcha Hub : 3.9 : North Indian, Street Food : ₹400 for two :  Sector 9, Chandigarh
+Super Pizza Blast : 3.3 : Pizza, Burger, Sandwich, Wraps, Fast Food, Street Food, Momos : ₹300 for two :  Phase 5, Mohali
+Flavours : 4.1 : North Indian, Chinese, Italian, Biryani, Desserts : ₹1,800 for two :  Hotel City Heart Premium, Sector 17, Chandigarh
+Chaubara - Rooftop Bar & Restaurant : 3.5 : North Indian, Mughlai, Chinese, South Indian, Biryani, Bar Food, Desserts, Beverages : ₹1,200 for two :  Sector 35, Chandigarh
+Chandigarh Baking Company - JW Marriott : 4.0 : Bakery, Desserts, Fast Food : ₹1,000 for two :  JW Marriott, Chandigarh, Chandigarh
+Smaaash : 4.2 : Pizza, Kebab, Continental : ₹2,000 for two :  Chandigarh Industrial Area, Chandigarh
+Ghoomar Traditional Thali Restaurants : New : Rajasthani : ₹1,000 for two :  Sector 70, Mohali
+Chilli 65 : 4.4 : Chinese, Oriental, North Indian, Mughlai, Fast Food : ₹500 for two :  VIP Road, Zirakpur
+My Froyoland Premium Frozen Yoghurt : - : Frozen Yogurt, Desserts : ₹200 for two :  Sector 9, Chandigarh
+Spice Route : 4.0 : North Indian, Chinese, Oriental, Biryani, Italian, Fast Food, Desserts, Beverages : ₹1,600 for two :  Glades Hotel, Phase 1 , Mohali
+Shri Shubh Ratan : 3.4 : North Indian, Chinese, South Indian, Street Food, Ice Cream, Desserts, Beverages : ₹950 for two :  Phase 10, Mohali
+The Bridge - Velvet Clarks Exotica : 3.4 : North Indian, Asian, Chinese, Mughlai, Salad, Oriental, Desserts, Beverages : ₹2,100 for two :  Velvet Clarks Exotica, Chandigarh Road, Zirakpur
+Scola : 4.3 : Cafe, Healthy Food, Continental, Italian, Seafood, Fast Food, Beverages, Desserts : ₹1,300 for two :  Sector 7, Chandigarh
+The Beer Cafe : 4.2 : North Indian, Italian, Finger Food, Beverages : ₹1,600 for two :  VR Punjab, Kharar Road, Mohali
+Giulia Armando - Pizzeria, Bar And Grill : 3.7 : Continental, Italian, Fast Food : ₹2,200 for two :  Sector 70, Mohali
+Alpha Q2 Cafe & Pub : 3.9 : North Indian, Pizza, Fast Food, Mediterranean : ₹1,000 for two :  Sector 70, Mohali
+Amrit Sweets : 3.9 : North Indian, South Indian, Street Food, Chinese, Desserts, Beverages : ₹500 for two :  Phase 5, Mohali
+Dominic's Pizza : 3.8 : Pizza, Fast Food, Burger, Wraps, Beverages, Shake, Sandwich : ₹400 for two :  Sector 46, Chandigarh
+Veer Ji Malai Chaap Wale : 3.9 : South Indian, North Indian, Fast Food, Rolls : ₹500 for two :  Sector 16, Panchkula
+Adda Microbrewery : 4.3 : North Indian, Mughlai, Mexican, Continental, Salad, Street Food, Beverages, Desserts : ₹3,000 for two :  Namaste Chandigarh Complex, Dera Bassi, Zirakpur
+Dosa Ratnam : - : South Indian : ₹1,000 for two :  Sector 8, Panchkula
+SHANGZ : 3.8 : Chinese, Fast Food, Thai, Asian, Momos, Salad, Healthy Food, Beverages : ₹500 for two :  Sector 8, Panchkula
+Chicago Pizza : 3.9 : Pizza, Pasta, Italian, Fast Food, Beverages : ₹450 for two :  VIP Road, Zirakpur
+'O' Dilli : 3.8 : North Indian, Mughlai, Shake, Beverages : ₹1,500 for two :  Sector 67, Mohali
+Talatum Restro Bar & Club : - : Bar Food, Finger Food : ₹1,500 for two :  Sector 26, Chandigarh
+Illusion Bar - Velvet Clarks Exotica : 3.9 : North Indian, Chinese, Continental, Salad, Biryani, Desserts, Beverages : ₹2,000 for two :  Velvet Clarks Exotica, Chandigarh Road, Zirakpur
+Shree Rathnam : 3.8 : North Indian, South Indian, Chinese, Fast Food, Ice Cream, Desserts, Beverages : ₹800 for two :  Sector 9, Panchkula
+W Cafe By Wyndham : - : North Indian, Biryani, Pizza, Pasta, Fast Food, Chinese, Oriental, Desserts : ₹2,300 for two :  Phase 11, Mohali
+Satva SkyBar : 4.1 : Chinese, North Indian, Bengali, Continental, Beverages, Desserts, Bar Food : ₹1,700 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+Lamhe : 4.4 : North Indian, Chinese, Continental, Beverages : ₹1,600 for two :  Hotel Pallavi, Sector 5, Panchkula
+Ni Hao : 3.3 : Chinese, Seafood, Oriental, Thai, Sichuan : ₹500 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+Nik Baker's : 4.1 : Bakery, Sandwich, Thai, Continental, Italian, Mexican, Coffee : ₹900 for two :  Sector 35, Chandigarh
+Cafe Nomad : 4.0 : Coffee, Cafe, Healthy Food, Salad, Middle Eastern, Desserts, Beverages : ₹1,200 for two :  Sector 7, Chandigarh
+Delhi Chutney And Co. : 3.9 : North Indian, Street Food, Beverages : ₹250 for two :  Sector 8, Chandigarh
+Tattlers : 4.4 : Italian, European, Fast Food, Finger Food, Beverages, Desserts : ₹1,800 for two :  Inner market, Sector 9 D, Chandigarh
+Double Shot Coffee Roasters : 3.9 : Coffee, Beverages, Continental, Fast Food : ₹400 for two :  Sector 70, Mohali
+Bean Bucket - Hotel Turquoise : 3.7 : North Indian, Fast Food, Chinese, Finger Food, South Indian, Biryani, Italian, Pizza : ₹2,500 for two :  Hotel Turquoise, Chandigarh Industrial Area, Chandigarh
+Xero Degrees : New : Cafe, Coffee, Pizza, Sandwich, Fast Food, Desserts, Shake, Beverages : ₹900 for two :  Sector 9, Panchkula
+Unify Lounge & Bar : New : Chinese, North Indian : ₹300 for two :  Sector 25, Panchkula
+Food Exchange By Novotel : 3.9 : North Indian, Mughlai, Biryani, Chinese, Italian, Fast Food, Desserts, Beverages : ₹2,200 for two :  Novotel Chandigarh, Chandigarh
+Winni Cakes & More : 4.2 : Bakery, Desserts, Pizza, Sandwich, Wraps, Pasta, Waffle, Beverages : ₹500 for two :  Sector 20, Panchkula
+The Flavours - Best Western Maryland : 3.9 : North Indian, Continental, Chinese, Italian, Desserts, Beverages : ₹2,000 for two :  Hotel Best Western Maryland, Ambala Road, Zirakpur
+O' Chicken India - Oil Free Healthy Chicken : 3.9 : BBQ, Shake, Pasta, Healthy Food, North Indian, Salad, Grilled Chicken, Wraps : ₹350 for two :  Landran Road, Mohali
+Pinxx - Regenta Place : 3.8 : North Indian, Goan, Seafood, Italian, Biryani, Mughlai, Desserts, Beverages : ₹2,400 for two :  TDI City, Mohali
+Dimsum Box : 3.7 : Momos, Chinese, Pasta, Fast Food, Shake, Juices, Beverages : ₹400 for two :  Sector 9, Chandigarh
+Super Donuts- American Eatery & Bakery : 3.9 : Continental, Wraps, Pasta, Burger, Coffee, Beverages, Bakery, Desserts : ₹600 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+Vintage Kitchen : 4.0 : North Indian, Continental, Italian, Asian, Chinese, Fast Food, Desserts : ₹1,600 for two :  Ambala Road, Zirakpur
+Burger Blast : 3.7 : Burger, Sandwich, Rolls, Fast Food, Street Food, Beverages : ₹200 for two :  Phase 5, Mohali
+Cinnabon : 4.5 : Bakery, Desserts : ₹300 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+Shree Suvarnam : 4.2 : North Indian, South Indian, Chinese, Street Food, Shake, Desserts, Beverages : ₹850 for two :  Sector 35, Chandigarh
+Chandigarh Junction : 3.9 : North Indian, Street Food, Kebab, Chinese, Mughlai, Biryani, Beverages : ₹450 for two :  Sector 40, Chandigarh
+Kisaan Cafe : - : Tea, Shake, Juices, Healthy Food, Sandwich, Chinese, Beverages : ₹350 for two :  VIP Road, Zirakpur
+Tapiocha Bubble Bar & Café : - : Cafe, Coffee, Tea, Bubble Tea : ₹500 for two :  Sector 70, Mohali
+36 Hotspot Cafee & Kitchen : New : Cafe, Beverages, North Indian, Mughlai, Fast Food, Biryani, Chinese, Desserts : ₹1,000 for two :  Sector 36, Chandigarh
+Pizza's Empire : New : Pizza, Sandwich, Burger, Fast Food : ₹300 for two :  Sector 19, Panchkula
+Tea Steam Cafe : - : Tea, Pizza : ₹500 for two :  Sector 70, Mohali
+Mad Over Chicken : New : Burger, Fast Food, Shake, Beverages : ₹350 for two :  VIP Road, Zirakpur
+Delhi #6  Grilled & Sizzling Cafe : New : North Indian, Burger, Italian, Tea, Shake, Beverages, Pizza, Roast Chicken : ₹1,000 for two :  Phase 5, Mohali
+Durga Vaishno Dhaba : 3.5 : North Indian, Beverages : ₹300 for two :  Gillco Valley, Mohali
+Dak Bunglow : 4.7 : Fast Food, North Indian, Pizza, Pasta, Beverages : ₹2,500 for two :  VIP Road, Zirakpur
+The Local House : - : Cafe, Coffee, North Indian, Mughlai, Shake, Beverages : ₹1,200 for two :  Phase 2, Mohali
+Chai Peeney Chalein : 3.7 : Tea, Coffee, Shake, Beverages, Burger, Sandwich, Wraps, Street Food : ₹250 for two :  Sector 67, Mohali
+Snakkers : 2.7 : Fast Food, Burger, Sandwich, Wraps, Shake, Beverages : ₹250 for two :  Kharar Road, Mohali
+Mummy's Yummys : 3.4 : North Indian, Chinese, Street Food : ₹500 for two :  Kharar Road, Mohali
+Churi House : New : Tea, Coffee, Pizza, Burger, Sandwich, Momos, Street Food, Beverages : ₹300 for two :  Sector 22, Chandigarh
+Cafe The Grind 24x7 Cakes : 3.6 : Bakery, Desserts : ₹400 for two :  Chandigarh Road, Zirakpur
+The Busy Bean Cafe And Restaurant : 3.7 : North Indian, Fast Food, Chinese, Street Food, Desserts, Beverages : ₹900 for two :  Lohgarh, Zirakpur
+Nosherss : 3.9 : North Indian, Chinese, Fast Food, Beverages : ₹300 for two :  VIP Road, Zirakpur
+Chill O Grill : 2.8 : North Indian, Chinese, Mughlai, Fast Food, Beverages : ₹800 for two :  Sector 82, Mohali
+Keventers - Milkshakes & Desserts : 3.4 : Beverages, Shake, Ice Cream, Desserts : ₹400 for two :  Elante Mall, Chandigarh Industrial Area, Chandigarh
+El Mexicano : 3.5 : Mexican, Italian, Fast Food, Shake, Desserts, Beverages : ₹650 for two :  Sector 9, Panchkula
+Zaika - The True Indian Taste : 3.3 : North Indian, Street Food : ₹300 for two :  Dera Bassi, Zirakpur
+Garvik Food Hub : 3.4 : South Indian, Chinese, Fast Food : ₹300 for two :  Sector 67, Mohali
+Mansar Coffee : 3.8 : Cafe, Fast Food, Mexican, Sandwich, Pasta, Pizza, Thai, Coffee : ₹850 for two :  Sector 10, Chandigarh
+Patio Terrasse - Golden Tulip : 4.2 : North Indian, Mughlai, Chinese, Continental, Fast Food, Beverages, Desserts : ₹2,500 for two :  Golden Tulip, Panchkula
+Chilli'z : 3.1 : North Indian, Chinese, Mughlai, Fast Food, Rolls, Desserts, Beverages : ₹700 for two :  Nayagaon, Nayagaon
+Sandhu Punjabi Food Junction : New : Fast Food, Street Food, Beverages : ₹150 for two :  Phase 6, Mohali
+Hotel Home Stay And Restaurant : New : North Indian, Chinese, Street Food, Beverages : ₹600 for two :  Chandigarh Road, Zirakpur
+Roasty : 4.0 : Grilled Chicken, Continental, Wraps, Roast Chicken, Seafood : ₹1,000 for two :  Sector 8, Chandigarh
+Da Bodega Bar & Kitchen : 3.9 : Bar Food, Fast Food, Coffee, Shake, Beverages : ₹3,000 for two :  Sector 5, Panchkula
+La' Punjabi Grill : 4.0 : Chinese, North Indian, Fast Food, Shake, Beverages : ₹450 for two :  TDI City, Mohali
+Shinwari By The Bhullar Kitchen : 3.6 : North Indian : ₹1,100 for two :  Sector 67, Mohali
+Beanwich : 3.4 : Pizza, Burger, Sandwich, Wraps, Pasta, Street Food, Coffee : ₹500 for two :  TDI City, Mohali
+La Pino'z Pizza : 3.1 : Pizza, Fast Food, Italian, Pasta, Beverages, Desserts : ₹500 for two :  Sector 8, Chandigarh
+WildWoods Resort : New : North Indian : ₹1,000 for two :  Kansal, Chandigarh
+Katani Sweets 3B2 : 3.8 : North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts, Beverages : ₹400 for two :  Phase 3B2 Market, Phase 3, Mohali
+Cafe 17 - Taj Chandigarh : 4.0 : North Indian, Italian, Continental, Beverages : ₹3,000 for two :  Taj Chandigarh, Sector 17, Chandigarh
+Boston & Co. : 3.7 : American, Italian, Burger, Sandwich, Fast Food, Salad, Shake, Beverages : ₹550 for two :  TDI City, Mohali
+Black Lotus - Taj Chandigarh : 4.4 : Asian, Chinese, Desserts, Tea, Beverages : ₹3,000 for two :  Taj Chandigarh, Sector 17, Chandigarh
+Uncle Jack's : 3.7 : Cafe, Sandwich, Continental, Shake, Healthy Food, Desserts, Beverages : ₹950 for two :  Sector 9, Panchkula
+Doner Garden : 4.1 : Pizza, Italian, Fast Food, Beverages : ₹1,200 for two :  Phase 3, Mohali
+Buzzczar - Maya Hotel : 4.2 : North Indian, Chinese, Biryani, Desserts, Beverages : ₹2,100 for two :  Sector 35, Chandigarh
+The Chocolate Room : 3.2 : Cafe, Sandwich, Italian, Chinese, Fast Food, Beverages, Desserts : ₹700 for two :  Sector 16, Panchkula
+The Game Palacio : - : Pizza, Burger, North Indian, Momos : ₹800 for two :  Chandigarh Industrial Area, Chandigarh
+Lahori Dhaba : 4.0 : North Indian : ₹300 for two :  Sector 44, Chandigarh
+Wazwan Legacy : 3.6 : North Indian, Kashmiri, Mughlai, Biryani : ₹1,100 for two :  Kharar Road, Mohali
+Lord Petrick Burger & Coffee : - : Burger, Coffee, Cafe, Shake, Beverages, Desserts : ₹350 for two :  Sector 34, Chandigarh
+Malt & Co. : 4.1 : North Indian, Italian, American, Fast Food, Desserts, Beverages : ₹2,000 for two :  The Piccadily Hotel, Sector 22 B, Chandigarh
+The Balkh Grill : 4.1 : North Indian, Mughlai, Iranian, Chinese, Biryani, Seafood, Beverages, Desserts : ₹1,600 for two :  Sector 67, Mohali
+Ghazal : 4.4 : North Indian, Chinese, Mughlai, Continental, Finger Food, Seafood, Desserts, Beverages : ₹1,800 for two :  Sector 17, Chandigarh
+Awadhi Central : 4.1 : Awadhi, North Indian, Kebab, Biryani, Rolls : ₹500 for two :  VIP Road, Zirakpur
+Grand Katani TDI : 3.8 : North Indian, Chinese, Desserts, Beverages : ₹500 for two :  TDI City, Mohali
+Hot Feast : 4.5 : North Indian, Mughlai, Chinese : ₹950 for two :  Sector 16, Panchkula
+Himachali Rasoi : 3.8 : Street Food, Chinese, North Indian, Himachali, Biryani : ₹500 for two :  Sector 67, Mohali
+Castle Grill : 4.3 : Pizza, Burger, Hot dogs, Fast Food, Street Food, Beverages : ₹500 for two :  Sector 37, Chandigarh
+Dumpling Hood : 3.6 : Momos, Fast Food, Chinese, Shake, Beverages : ₹500 for two :  Sector 67, Mohali
+Eden Garden : - : Italian, North Indian, Biryani, Oriental, Fast Food, Pizza, Chinese, Desserts : ₹1,500 for two :  TDI City, Mohali
+The New York Pizza : 2.6 : Pizza, Burger, Pasta, Fast Food, Shake, Beverages : ₹200 for two :  Utrathiya, Zirakpur
+Barbeque Arena : - : North Indian : ₹2,000 for two :  Sector 9, Panchkula
+The Reef : - : North Indian, Chinese, Continental, Sandwich, Salad : ₹1,200 for two :  Balongi, Mohali
+Big Jerks : 4.0 : Cafe, Pizza, Burger, Salad, Fast Food, Waffle, Shake, Beverages : ₹1,100 for two :  Phase 3, Mohali
+Baba Chicken - Ludhiana Wale : 3.5 : North Indian, Mughlai, Chinese, Kebab, Seafood, Biryani, Salad : ₹950 for two :  Phase 10, Mohali
+Scotland Yard : 4.2 : North Indian, Chinese, Mughlai, Beverages, Kebab : ₹1,200 for two :  VIP Road, Zirakpur
+Wokman : 3.8 : Asian, Chinese, Sichuan : ₹500 for two :  Sector 9, Panchkula
+TIKKA E ZAIQA : - : North Indian, Kebab, Rolls, Chinese, Sandwich, Seafood : ₹1,200 for two :  Sector 70, Mohali
+Chhatwal's Haveli : 3.6 : North Indian, Chinese, Biryani, Salad, Desserts, Beverages : ₹950 for two :  Phase 11, Mohali
+Pizza Punjab : New : Pizza, Fast Food : ₹250 for two :  Gharuan, Mohali
+Taste of Amritsar : 4.2 : North Indian, Chinese, Mughlai, Sichuan : ₹500 for two :  Phase 2, Mohali
+Burgrill - The Win Win Burger : 3.7 : Burger, Fast Food, Healthy Food, Beverages : ₹450 for two :  Inner Market, Sector 8 B, Chandigarh
+CP - Chai Prantha By Stateside Dhaba : - : North Indian, Chinese, Fast Food, Beverages : ₹450 for two :  Sector 10, Panchkula

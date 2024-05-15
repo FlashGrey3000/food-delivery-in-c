@@ -1,0 +1,336 @@
+Aman E Khas : 4.4 : North Indian, Mughlai, Chinese, Biryani, Desserts : ₹850 for two :  Bhelupur, Varanasi
+Guleria Kothi Hotel : 4.3 : North Indian, Continental : ₹1,500 for two :  Dashaswmedh Road, Varanasi
+Baati Chokha : 4.5 : North Indian, Bihari : ₹350 for two :  Chetganj, Varanasi
+De Once More : 4.9 : Cafe, Coffee, North Indian, Chinese, South Indian, Continental, Desserts, Beverages : ₹800 for two :  Lanka, Varanasi
+Kerala Cafe : 4.3 : South Indian, North Indian, Chinese, Street Food, Beverages : ₹300 for two :  Bhelupur, Varanasi
+The Taste Factory : 4.9 : North Indian, Chinese, Mughlai : ₹800 for two :  Mahmoorganj, Varanasi
+Ming Garden : 4.1 : Chinese, Fast Food, Desserts, Beverages, Sichuan : ₹600 for two :  Lanka, Varanasi
+Capsicum Food Court : 4.1 : North Indian, South Indian, Chinese, Fast Food, Pizza, Rolls, Beverages : ₹400 for two :  Lanka, Varanasi
+VNS Live Studio : - : Continental, North Indian, Chinese, Beverages, Sichuan : ₹700 for two :  Sigra, Varanasi
+The Yellow Chilli : 4.0 : North Indian, Mughlai, Chinese, Street Food, Desserts, Beverages : ₹900 for two :  Mahmoorganj, Varanasi
+Golden Hour Multi Cuisine Restaurant : - : North Indian, Chinese, Italian : ₹1,000 for two :  Lanka, Varanasi
+Pind Balluchi : 4.5 : North Indian, Mughlai, Biryani, Continental, Chinese, Desserts : ₹1,200 for two :  Sigra, Varanasi
+Dhanyavad Foods : 3.3 : Hyderabadi, Biryani, Mughlai : ₹500 for two :  Lanka, Varanasi
+Kesariya Thaal : 4.3 : North Indian : ₹500 for two :  Shivala, Varanasi
+Tao Bao Korean Cafe : 4.6 : Korean, Beverages, Pasta : ₹500 for two :  Durgakund, Varanasi
+Banaras Food Truck : 4.3 : Chinese, North Indian, Momos, Fast Food : ₹500 for two :  Nadesar, Varanasi
+Canton Royale Restaurant - Hotel Surya : 4.0 : North Indian, Continental, Mediterranean, Fast Food, Salad, Asian, Desserts, Beverages : ₹1,500 for two :  Hotel Surya, Nadersar, Varanasi
+Super Delicious Food : 3.6 : Chinese, Fast Food, North Indian : ₹300 for two :  Lanka, Varanasi
+Burger King : 4.3 : Burger, American, Fast Food, Beverages : ₹500 for two :  Sigra, Varanasi
+My Table - The Lounge Bar : 3.9 : Finger Food, North Indian : ₹1,500 for two :  Shastri Nagar, Varanasi
+Wife On Leave Restaurant : 4.2 : North Indian, Chinese, Charcoal Chicken, BBQ, Continental, Afghan, Biryani, Beverages : ₹700 for two :  Sigra, Varanasi
+Starbucks Coffee : - : Cafe, Coffee, Desserts, Beverages : ₹300 for two :  Lanka, Varanasi
+The Vibe : 3.4 : North Indian, Chinese, Fast Food, Oriental : ₹1,000 for two :  Shastri Nagar, Varanasi
+McDonald's : New : Burger, Fast Food, Wraps, Cafe, Beverages : ₹500 for two :  JHV Mall, Nadesar, Varanasi
+London Live Restaurant : New : North Indian, Mughlai, Sandwich, Burger, Chinese : ₹800 for two :  Chetganj, Varanasi
+Root Restaurant & River Club : 4.2 : North Indian, Chinese, Fast Food, Beverages : ₹800 for two :  Assi Ghat, Varanasi
+Deena Chat Bhandar : 4.0 : Street Food, Chinese : ₹200 for two :  Godaulia, Varanasi
+Khadak Singh Da Dhaba : 4.0 : North Indian, Mughlai, Rolls, Chinese, Biryani, Kebab, Momos : ₹300 for two :  Bhelupur, Varanasi
+The 3rd Floor Bar Stock Exchange : 4.2 : Chinese, Italian, Thai, Fast Food, Beverages, North Indian : ₹1,400 for two :  Sigra, Varanasi
+Rolls Royse Cafe : 4.0 : Rolls, Burger, Sandwich, Pizza, Fast Food, Street Food, North Indian, Chinese : ₹400 for two :  Lanka, Varanasi
+Varuna - The Gateway Hotel : New : North Indian, Mughlai, Desserts : ₹2,000 for two :  Taj Ganges, Nadesar, Varanasi
+Charcoal Fine Dining : 4.0 : North Indian, Continental, Chinese, Fast Food, Desserts, Beverages : ₹3,500 for two :  Mahmoorganj, Varanasi
+Terracotta Cafe : 4.2 : Cafe, Fast Food, North Indian : ₹300 for two :  Assi Ghat, Varanasi
+Saffron Veg Restaurant : 4.2 : North Indian, South Indian, Chinese, Fast Food, Beverages : ₹600 for two :  Godaulia, Varanasi
+Fidka : 4.1 : North Indian, Chinese, Continental, Fast Food, Desserts, Shake, Beverages : ₹400 for two :  Bhelupur, Varanasi
+The Palate - Ramada Plaza : 4.5 : Asian, Continental, North Indian, South Indian, Beverages, Desserts : ₹2,400 for two :  Ramada Plaza JHV, Varanasi
+Kashi Chat Bhandar : 3.0 : Street Food : ₹100 for two :  Dashaswmedh Road, Varanasi
+Domino's Pizza : 4.4 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  IP Mall, Sigra, Varanasi
+Champaran Meat House : 3.9 : North Indian, Bihari : ₹350 for two :  Lanka, Varanasi
+Pallavi Baati Chokha Restaurant : 4.9 : North Indian, Rajasthani, Street Food, Beverages : ₹400 for two :  Sigra, Varanasi
+Momos Of Shaolin ️ : - : Momos, Fast Food : ₹300 for two :  Nadesar, Varanasi
+Behind Yellow Doors Diner : 3.7 : North Indian, Chinese, Continental, Sichuan, Sandwich, Burger : ₹1,100 for two :  Sigra, Varanasi
+Shahi Daya Restaurant : 4.1 : North Indian, Fast Food, Burger, Chinese, Shake, South Indian, Beverages, Desserts : ₹650 for two :  Sigra, Varanasi
+Mysteria : 2.9 : North Indian, Chinese, Italian, Burger, Fast Food, Desserts, Shake, Juices : ₹1,000 for two :  Bhelupur, Varanasi
+Radha Rasoi : 4.1 : North Indian, Chinese, South Indian, Sandwich, Fast Food, Shake, Beverages : ₹1,000 for two :  Sigra, Varanasi
+Cafe Big Chilli : 4.5 : Chinese, Pizza, Italian, Sandwich, Fast Food, Wraps, Waffle, Shake : ₹600 for two :  Assi Ghat, Varanasi
+Burger Emperor : 4.0 : Burger, North Indian, Chinese, Pizza, Fast Food, Shake : ₹500 for two :  Durgakund, Varanasi
+Taste King : 4.0 : North Indian, Burger, Chinese, Fast Food, Desserts, Shake, Beverages : ₹300 for two :  Nadesar, Varanasi
+Saundhi Aanch : 4.3 : North Indian, Chinese : ₹300 for two :  Lanka, Varanasi
+Subway : - : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  IP Mall, Sigra, Varanasi
+KFC : 4.5 : Burger, Fast Food, Rolls : ₹500 for two :  JHV Mall, Nadesar, Varanasi
+Chrystal Bowl Restaurant : 4.4 : North Indian, Italian, Burger, Sandwich, Pasta, Fast Food, Pizza, Mexican : ₹1,100 for two :  Lanka, Varanasi
+Urban Tadka : New : North Indian, Chinese, Fast Food, Rolls, Biryani : ₹500 for two :  Lanka, Varanasi
+East West - Radisson Hotel : 3.9 : Continental, North Indian, Chinese, Mughlai, Fast Food, Desserts, Beverages : ₹1,500 for two :  Radisson Hotel, Nadesar, Varanasi
+Mr. Jalapenos : 4.1 : North Indian, Italian, Mexican, Fast Food, Pasta, Desserts, Beverages : ₹700 for two :  Lanka, Varanasi
+Matka Mutton Corner : - : North Indian, Mughlai, Biryani : ₹650 for two :  Chetganj, Varanasi
+Devanshee City Restaurant : 4.2 : North Indian, South Indian, Chinese, Fast Food, Beverages : ₹500 for two :  Chetganj, Varanasi
+BSB Local : 4.1 : North Indian, Chinese, Fast Food, Pizza, Ice Cream, Desserts, Beverages : ₹700 for two :  Mahmoorganj, Varanasi
+Maharaja Family Restaurant : - : Rolls, Biryani, Chinese : ₹300 for two :  Chetganj, Varanasi
+Goli Vada Pav : 3.5 : Street Food, Fast Food, Beverages : ₹250 for two :  Bhelupur, Varanasi
+Pizza's Hub : 4.0 : Pizza, Italian, Fast Food : ₹450 for two :  Sunderpur, Varanasi
+Pizza's Masti : 3.6 : Pizza, Fast Food : ₹350 for two :  Lanka, Varanasi
+Sol Bar - Hotel Surya : 4.2 : Finger Food, North Indian, Mughlai, Fast Food, Pizza : ₹1,500 for two :  Hotel Surya, Nadersar, Varanasi
+Bhole Chature : 4.1 : North Indian, South Indian, Chinese, Momos, Fast Food, Shake, Beverages : ₹1,000 for two :  Sigra, Varanasi
+Rahil Restaurant : 4.1 : North Indian, South Indian, Chinese, Ice Cream, Beverages, Salad : ₹500 for two :  Sigra, Varanasi
+Sagar Ratna : 3.7 : South Indian, Ice Cream : ₹500 for two :  Lanka, Varanasi
+New Banaras Restaurant & Bhojnalaya : 4.1 : North Indian, Fast Food, South Indian, Chinese, Biryani : ₹400 for two :  Lanka, Varanasi
+The Biryani Mahal Banaras : 4.1 : Biryani, Mughlai, North Indian : ₹1,000 for two :  Bhelupur, Varanasi
+Receipe's Inn Restaurant : - : North Indian, Chinese, Biryani : ₹300 for two :  Nadesar, Varanasi
+Le Buffet- Hotel Le Lotus Grand : 3.6 : North Indian, Chinese, Continental : ₹500 for two :  Kakarmata, Varanasi
+Kimmo’s Kitchen : 3.1 : North Indian, Chinese, Pizza, Burger, Biryani, Momos, Salad, Continental : ₹1,100 for two :  Lanka, Varanasi
+Creme Borne : 4.3 : Ice Cream, Desserts, Fast Food, Burger, Pizza, Pasta, Sandwich, Beverages : ₹550 for two :  Dashaswmedh Road, Varanasi
+Kalika  Restaurant : - : North Indian, Chinese, Mughlai, Rolls, Biryani : ₹450 for two :  Chetganj, Varanasi
+Chowk - The Gateway Hotel : 4.0 : Continental : ₹2,000 for two :  Taj Ganges, Nadesar, Varanasi
+Café De Coop : 3.8 : North Indian, Street Food : ₹500 for two :  Lanka, Varanasi
+Western Street Café  N Restaurant : 4.0 : North Indian, Chinese, Desserts, Fast Food, Beverages, Pizza, Sandwich, Coffee : ₹600 for two :  Bhelupur, Varanasi
+Biryani Global : 3.3 : Biryani, North Indian, Kebab, Chinese, Rolls, Mughlai, Beverages : ₹450 for two :  Nadesar, Varanasi
+Shahi Restaurant : 3.7 : North Indian, Chinese, South Indian, Ice Cream, Biryani, Coffee : ₹1,000 for two :  Sigra, Varanasi
+The Big Chilli : 4.5 : North Indian, Chinese, South Indian, Fast Food, Desserts, Beverages, Mughlai, Sichuan : ₹550 for two :  Nadesar, Varanasi
+A Cube : 4.0 : North Indian, Mughlai, Biryani, Chinese, Sandwich, Fast Food, Desserts, Beverages : ₹1,000 for two :  Nadesar, Varanasi
+The London Shakes & Cafe : - : Fast Food, Chinese, Pasta, Waffle, Wraps, Sandwich, Desserts, Beverages : ₹300 for two :  Bhelupur, Varanasi
+The Chocolate Heaven : 3.7 : Waffle, Fast Food, Desserts, Burger, Sandwich, Pizza, Beverages, Shake : ₹800 for two :  Bhelupur, Varanasi
+The Tripling Bistro : 4.1 : Fast Food, Chinese, Momos, Pizza, Rolls, Shake, Beverages : ₹500 for two :  Assi Ghat, Varanasi
+Flavoroso Cafe And Dine : 4.1 : North Indian, Chinese, Biryani, Street Food : ₹550 for two :  Lanka, Varanasi
+Prasadam : 3.8 : North Indian, Chinese, South Indian, Fast Food : ₹1,000 for two :  Dashaswmedh Road, Varanasi
+The Burger Company : - : Burger : ₹250 for two :  Durgakund, Varanasi
+The Hungry Hub : 4.1 : Pizza, Sandwich, Rolls, Burger, Fast Food, Chinese, Shake, Beverages : ₹500 for two :  Mahmoorganj, Varanasi
+Rajasthani Rasoi : 3.9 : Rajasthani, North Indian, Street Food, Beverages : ₹600 for two :  Mahmoorganj, Varanasi
+Shri Narayan Mishthan : - : Mithai, Street Food : ₹200 for two :  Bhelupur, Varanasi
+The Mud House Cafe : 4.1 : North Indian, Chinese, Pizza, Sandwich, Biryani : ₹1,000 for two :  Dashaswmedh Road, Varanasi
+7th Heaven : 4.3 : Bakery, Fast Food, Desserts : ₹300 for two :  Mahmoorganj, Varanasi
+Tadka - Ramada Plaza : 4.0 : North Indian, Mughlai, Desserts, Beverages : ₹1,200 for two :  Ramada Plaza JHV, Varanasi
+Ming Garden Bakery : New : Bakery, Desserts, Pizza, Shake, Beverages : ₹400 for two :  Lanka, Varanasi
+Satkar's Regale : 4.1 : North Indian, Chinese, Continental, Pasta, Fast Food, Pizza, Shake, Beverages : ₹700 for two :  Sigra, Varanasi
+The Sada Bahar : - : Chinese, Fast Food, North Indian, South Indian : ₹300 for two :  Chetganj, Varanasi
+Paprika Restaurant : - : North Indian, Chinese, South Indian, Fast Food, Mughlai, Beverages, Shake : ₹700 for two :  Lanka, Varanasi
+Sri Annapurna Restaurant : 3.5 : North Indian, South Indian, Street Food, Beverages : ₹200 for two :  Chetganj, Varanasi
+Maharaja Veg & Non-Veg Foods : 3.9 : Rolls, Chinese : ₹400 for two :  Lanka, Varanasi
+Hungry Heads : - : Chinese, Shake, Pizza, Sandwich, Rolls, Burger, Waffle, Beverages : ₹900 for two :  Sigra, Varanasi
+Ambrosia Restaurant : 3.7 : North Indian, Chinese, Biryani, Fast Food, Street Food, Bakery, Desserts, Beverages : ₹500 for two :  Bhikharipur Kala, Varanasi
+Lav Kush Hotel : 4.6 : North Indian, Biryani : ₹400 for two :  Bhelupur, Varanasi
+Banarasi Tadka : 4.8 : Chinese, North Indian, South Indian : ₹350 for two :  Assi Ghat, Varanasi
+Diamond Hotel : 3.9 : Beverages, Coffee, Shake, Tea : ₹150 for two :  Bhelupur, Varanasi
+Rasna Family Restaurant : 3.9 : Chinese, North Indian, South Indian, Fast Food, Beverages, Desserts : ₹600 for two :  Sigra, Varanasi
+Zaika : 2.7 : Mughlai, North Indian, Chinese, Pizza, Fast Food : ₹1,000 for two :  Lanka, Varanasi
+The Kerala House And Cafe : - : South Indian : ₹400 for two :  Lanka, Varanasi
+Mangalam Bakers : 4.0 : Desserts : ₹400 for two :  Assi Ghat, Varanasi
+Moonshiner Restaurant And Bar : 4.3 : North Indian, Mughlai, Biryani, Chinese, Fast Food, Desserts, Beverages, Ice Cream : ₹1,500 for two :  Mahmoorganj, Varanasi
+English Masala : 3.5 : North Indian, Sandwich, Chinese, Italian, Continental, Fast Food, Biryani, Beverages : ₹500 for two :  Lanka, Varanasi
+Sun Rise Restaurant : 2.9 : North Indian, South Indian, Chinese, Pizza, Fast Food, Momos, Shake, Beverages : ₹1,000 for two :  Nadesar, Varanasi
+New Biryani Head Quater : - : Biryani, Pizza, Sandwich : ₹400 for two :  Chetganj, Varanasi
+Treat Cafe And Dine : 3.9 : Italian, North Indian, Continental, Chinese, Sandwich, Desserts, Beverages : ₹600 for two :  Nadesar, Varanasi
+The Matka Chicken King : 4.2 : North Indian, Chinese : ₹500 for two :  Chetganj, Varanasi
+Mangi Ferra Cafe - Hotel Surya : 3.2 : North Indian, Fast Food, Pizza, Sichuan, Kebab, Burger : ₹800 for two :  Hotel Surya, Nadersar, Varanasi
+Marwadi Rasoi : 3.6 : North Indian, Chinese, South Indian, Kebab, Desserts : ₹1,000 for two :  Godaulia, Varanasi
+The Food Palace : 3.2 : North Indian, Chinese, Biryani, Beverages, Kebab, Rolls : ₹400 for two :  Lahartara, Varanasi
+Aahaar Fast Food Court & Restaurant : - : North Indian, South Indian, Chinese, Rolls, Fast Food, Beverages, Sandwich, Pizza : ₹300 for two :  Durgakund, Varanasi
+Hotel Kalika : 2.9 : North Indian, Chinese, Street Food, Biryani : ₹400 for two :  Nadesar, Varanasi
+Urga Restaurant & Cafe : 4.3 : Cafe, Coffee, South Indian, North Indian, Italian, Fast Food, Desserts, Beverages : ₹600 for two :  Jaitpura, Varanasi
+Captain Nova : 3.6 : North Indian, Chinese, Continental, Pizza, Fast Food, Oriental, Mexican, Sichuan : ₹700 for two :  Bhelupur, Varanasi
+The Keshari Restaurant : 4.1 : North Indian, South Indian, Chinese, Continental, Desserts : ₹700 for two :  Dashaswmedh Road, Varanasi
+Bar Bar : 3.3 : Continental, Chinese, North Indian, Desserts, Bar Food : ₹1,100 for two :  Nadesar, Varanasi
+Hotel Four Element : 4.4 : North Indian, Chinese, Pizza, Burger, Desserts, Sichuan : ₹700 for two :  Mahmoorganj, Varanasi
+Drinks On Board : New : North Indian, Chinese, Fast Food, Desserts, Beverages, Pizza, Pasta, Shake : ₹1,000 for two :  Sigra, Varanasi
+Annapurna Rasoi Family Restaurant : - : North Indian, South Indian, Chinese, Beverages, Ice Cream : ₹500 for two :  Dashaswmedh Road, Varanasi
+Mandarin Restaurant : 2.5 : Chinese, North Indian, Seafood, Beverages : ₹1,000 for two :  Sigra, Varanasi
+Udupi Sagar : 3.8 : South Indian, North Indian, Chinese : ₹1,100 for two :  Jaitpura, Varanasi
+Rajesh Sweets & Bakers : New : North Indian, Fast Food, South Indian, Chinese, Biryani, Desserts, Shake, Beverages : ₹500 for two :  Chetganj, Varanasi
+Sita Rasoi - A Unit Of Mint Leaf : 3.7 : North Indian, South Indian, Chinese, Fast Food, Street Food : ₹1,000 for two :  Durgakund, Varanasi
+Aalishan Zaika : 3.0 : North Indian, Fast Food, Chinese, Beverages, Ice Cream : ₹550 for two :  Lahartara, Varanasi
+Amantran : 4.2 : Chinese, North Indian, Mughlai, Biryani, Beverages : ₹550 for two :  Sunderpur, Varanasi
+Baskin Robbins - Ice Cream Desserts : 3.9 : Ice Cream, Desserts, Beverages : ₹500 for two :  Bhelupur, Varanasi
+Mapango Pizza : - : Fast Food, Pizza, Sandwich, Burger, Beverages : ₹200 for two :  Durgakund, Varanasi
+Indian Food Cafezonia : - : North Indian, South Indian, Street Food, Chinese, Beverages : ₹250 for two :  Bhikharipur Kala, Varanasi
+Cubana Heights Club & Restaurant : 4.1 : North Indian, Chinese, Mughlai, Pasta, Pizza, Fast Food, Biryani, Beverages : ₹2,100 for two :  Lanka, Varanasi
+C2H5 Klub : - : Chinese, Fast Food, Salad, North Indian, Bar Food, Desserts, Ice Cream : ₹1,200 for two :  Chetganj, Varanasi
+Desi Chulha : 3.9 : North Indian, Mughlai : ₹550 for two :  Bhelupur, Varanasi
+Caara's Kitchen : 4.3 : North Indian, Mughlai, Biryani, Chinese, Fast Food, Shake, Beverages : ₹500 for two :  Bhikharipur Kala, Varanasi
+Blurry Night Restaurant : 3.9 : North Indian, Mughlai, Chinese, Biryani, Kebab, Momos, Bar Food, Desserts : ₹1,200 for two :  Durgakund, Varanasi
+99 Pancakes : 3.0 : Pancake, Pizza, Fast Food, Shake, Beverages : ₹400 for two :  Bhelupur, Varanasi
+Sneha's Club Family Restaurant : 4.2 : North Indian, South Indian : ₹1,000 for two :  Sunderpur, Varanasi
+Prinsep Bar : - : Bar Food : ₹1,500 for two :  Taj Ganges, Nadesar, Varanasi
+Annapurna Restaurant : - : North Indian, Chinese, Beverages : ₹600 for two :  Sigra, Varanasi
+Root Espresso : - : Continental, Fast Food, Pasta, Asian, Pizza, Bakery, Desserts, Beverages : ₹900 for two :  Sigra, Varanasi
+The Aarna's Cafe : 4.2 : Cafe, Pizza, Sandwich, Wraps, Street Food, Fast Food, Shake, Beverages : ₹300 for two :  Durgakund, Varanasi
+The Pridhee Restaurant : - : North Indian, Chinese : ₹300 for two :  Sunderpur, Varanasi
+The Belgian Waffle Co. : - : Waffle, Pancake, Desserts, Beverages, Ice Cream : ₹300 for two :  Bhelupur, Varanasi
+Made In Banaras Family Restaurant : 4.1 : North Indian, Biryani : ₹400 for two :  Chetganj, Varanasi
+Chef Kitchen's Restaurant : 3.8 : Chinese, Pizza, Burger, Momos, Shake, Beverages : ₹250 for two :  Lahartara, Varanasi
+Kalakaar Cafe And Restaurant : New : North Indian, Pizza, Pasta, Fast Food, Chinese, Street Food, Beverages : ₹500 for two :  Assi Ghat, Varanasi
+Keshari Food Plaza : - : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages, Italian : ₹700 for two :  Lanka, Varanasi
+Flavour Junction : 3.5 : North Indian, Chinese, Momos, Fast Food, Street Food, Shake, Beverages : ₹300 for two :  Bhelupur, Varanasi
+Dosawala : 3.3 : South Indian, Chinese : ₹300 for two :  Lanka, Varanasi
+Assiyum Restaurant & Cafe : - : North Indian, Chinese, Biryani, Sandwich, Pasta, Rolls, Fast Food, Beverages : ₹550 for two :  Durgakund, Varanasi
+Zeenat Restaurant : - : North Indian, Mughlai, Kebab : ₹1,000 for two :  Chetganj, Varanasi
+Shree Annpurna Restaurant : 3.3 : North Indian, Fast Food, Bakery, Beverages : ₹500 for two :  Jaitpura, Varanasi
+1951 - The Clarks Hotel : - : North Indian, Chinese, Mughlai, Italian, Beverages, Sandwich, Continental, Desserts : ₹1,500 for two :  Clarks Hotel, Nadesar, Varanasi
+Gupta Food's Events : New : Chinese, Pizza, Sandwich, Fast Food : ₹200 for two :  Bhelupur, Varanasi
+Panchiyana Hotel : New : North Indian, Biryani : ₹300 for two :  Lahartara, Varanasi
+Hotel Costa River : 3.8 : North Indian, Continental, Oriental, Salad, Desserts, Beverages, Chinese : ₹1,000 for two :  Nadesar, Varanasi
+Shivay Multi Cuisine Restaurant : - : North Indian, South Indian, Biryani, Fast Food, Beverages : ₹450 for two :  Dashaswmedh Road, Varanasi
+Bistro B2 : - : Burger, North Indian, Chinese, Pizza, Shake, Beverages, Sandwich, Ice Cream : ₹900 for two :  Chetganj, Varanasi
+Shivika Cafe & Resturant : New : Pizza, North Indian, Chinese, Pasta, Juices : ₹300 for two :  Assi Ghat, Varanasi
+Lemon Grass Fine Dine And Lounge Bar : 4.1 : Continental, North Indian, Chinese, Mughlai, Biryani, Fast Food, Shake, Beverages : ₹1,000 for two :  Chetganj, Varanasi
+Swastik Fast Food : 3.3 : Fast Food, Chinese, Street Food : ₹250 for two :  Lanka, Varanasi
+Bhojanik - The Amayaa : 3.1 : North Indian, Mughlai, Chinese, Desserts, Shake, Kebab, South Indian, Italian : ₹2,000 for two :  Nadesar, Varanasi
+King's Pizza Factory : New : Pizza, Fast Food, Shake : ₹300 for two :  Nadesar, Varanasi
+The Taste Of Banarasiya : New : North Indian, Beverages, Chinese, Fast Food : ₹250 for two :  Sigra, Varanasi
+7 Days Fry : 3.9 : North Indian, Chinese, Fast Food, Pizza, Italian, Biryani : ₹550 for two :  Lahartara, Varanasi
+Goli Vada Pav No. 1 : New : Street Food, Beverages : ₹250 for two :  Durgakund, Varanasi
+Treat Restaurant & Bar : 4.0 : North Indian, Chinese, Kebab, Mughlai, Continental, Beverages : ₹1,000 for two :  Nadesar, Varanasi
+Petal Of Love And Cake : New : Bakery, Desserts : ₹200 for two :  Godaulia, Varanasi
+Eclipse Gastrobar : 3.9 : North Indian, Chinese, Biryani, Fast Food, Pizza, Momos : ₹1,000 for two :  Chetganj, Varanasi
+Lemon Grass : New : North Indian, Chinese, Fast Food, Mughlai, Ice Cream, Cake : ₹600 for two :  Lanka, Varanasi
+Manbhavan Food Corner : 3.9 : Fast Food, Chinese, Rolls, Biryani, North Indian : ₹300 for two :  Lanka, Varanasi
+Dining Express The Train Restro : - : North Indian, Mughlai, Biryani, Chinese, Fast Food, Beverages, Ice Cream : ₹1,200 for two :  Sunderpur, Varanasi
+The Cake Cottage : 4.0 : Bakery : ₹200 for two :  Mahmoorganj, Varanasi
+Bianca Cafe - Hotel Castillo : 3.6 : North Indian, Thai, Chinese, South Indian, Pizza, Desserts, Beverages, Sichuan : ₹800 for two :  Sigra, Varanasi
+Bikanervala : 3.6 : North Indian, Street Food, South Indian, Chinese, Fast Food, Desserts, Shake, Beverages : ₹500 for two :  IP Vijaya Mall, Varanasi
+Baker's Villa : 4.3 : Bakery : ₹350 for two :  Chetganj, Varanasi
+Cafe Unplugged : 4.4 : Fast Food, Rolls, Chinese, Street Food, Burger, Beverages, Shake : ₹400 for two :  Nadesar, Varanasi
+Kasora : - : North Indian, Biryani, Momos, Pizza, Desserts, Beverages, Mughlai : ₹500 for two :  Lahartara, Varanasi
+Kafe Fusion : 3.0 : North Indian, Chinese, Fast Food : ₹200 for two :  Sigra, Varanasi
+Satkar Family Restaurant : 4.1 : North Indian, Chinese, Street Food, Biryani, Mughlai : ₹500 for two :  Lanka, Varanasi
+Brown Bread Bakery : 3.6 : Sandwich, Continental, Italian, Pizza, North Indian, Desserts, Ice Cream : ₹500 for two :  Dashaswmedh Road, Varanasi
+Toxic Bar - Ramada Plaza : 4.0 : Bar Food, North Indian, Fast Food : ₹1,200 for two :  Ramada Plaza JHV, Varanasi
+Rasoi Restaurant : 3.8 : North Indian, Biryani, Mughlai, Continental, Italian, Pasta, Chinese, Desserts : ₹1,100 for two :  Nadesar, Varanasi
+Zaika Fresh & Tasty : 3.9 : North Indian, Chinese, Fast Food : ₹200 for two :  Sigra, Varanasi
+Hislerim Restaurant : 4.1 : North Indian, Chinese : ₹400 for two :  Lahartara, Varanasi
+Tit Bit Cafe At Home : 3.7 : North Indian, South Indian, Chinese, Fast Food : ₹350 for two :  Lanka, Varanasi
+Lanka Vibes Cafe' & Restaurant : 4.0 : Chinese, North Indian, Biryani, Pizza, Pasta, Fast Food, Street Food, Ice Cream : ₹300 for two :  Lanka, Varanasi
+UP- 65 : 4.5 : North Indian, Chinese, Mughlai, Fast Food, Coffee, Desserts, Beverages, Sichuan : ₹800 for two :  Durgakund, Varanasi
+Ganga Kashi Family Restaurant : 3.9 : North Indian, Chinese, Biryani, Desserts, Beverages : ₹800 for two :  Dashaswmedh Road, Varanasi
+Chestnuts : 3.0 : Bakery : ₹350 for two :  Bhelupur, Varanasi
+POSHTEL VNS : 3.9 : Italian, Fast Food, Oriental, Pizza, North Indian, Coffee, Shake, Beverages : ₹800 for two :  Nadesar, Varanasi
+Time Out Cafe : 4.0 : North Indian, Chinese, Pizza, Continental, Biryani, Desserts, Coffee, Beverages : ₹600 for two :  Chetganj, Varanasi
+Uncle's Kitchen : 3.9 : North Indian, Mughlai, Chinese, Fast Food, Shake : ₹500 for two :  Shivala, Varanasi
+Thanco's Natural Ice Creams : 3.7 : Ice Cream, Desserts, Beverages : ₹250 for two :  Bhelupur, Varanasi
+Himcream Kulfi Parlour : 4.3 : Ice Cream : ₹100 for two :  Bhelupur, Varanasi
+84 Above : 3.8 : North Indian, Kebab, Chinese, Fast Food, Desserts, Beverages : ₹500 for two :  Assi Ghat, Varanasi
+Tarang Bar - The Clarks Hotel : 4.2 : Finger Food, Beverages : ₹1,500 for two :  Clarks Hotel, Nadesar, Varanasi
+Curry Leaves - Hotel Xenia : - : North Indian, Chinese, Oriental, Tea, Kebab, Beverages, Biryani, Pizza : ₹1,000 for two :  Mahmoorganj, Varanasi
+The Dilli Durbar : 3.9 : North Indian, Chinese, Shake, Beverages : ₹200 for two :  Sigra, Varanasi
+Bangs : 3.9 : Burger, Fast Food, Roast Chicken, Beverages : ₹550 for two :  Lanka, Varanasi
+Cresent Villa : 3.9 : North Indian, Chinese, Italian, Shake, Fast Food, Beverages : ₹500 for two :  Bhelupur, Varanasi
+Cafe-65 India Hotel : 3.8 : Continental, Chinese, North Indian, Fast Food, Oriental, Sandwich, Desserts, Beverages : ₹1,000 for two :  Nadesar, Varanasi
+Green Gardens : 3.6 : North Indian, Chinese, Continental, Fast Food, Pancake, Desserts, Shake, Beverages : ₹1,000 for two :  Assi Ghat, Varanasi
+Singh's Delight Restaurant : 4.8 : North Indian, Chinese, Fast Food, Pizza, Beverages, Seafood, Pasta, Desserts : ₹700 for two :  Sunderpur, Varanasi
+Potli Baati Chokha Restaurant : - : Bihari : ₹300 for two :  Assi Ghat, Varanasi
+KBC- Kabab Biryani & Curries : 3.9 : North Indian : ₹400 for two :  Sigra, Varanasi
+Vaishno Punjabi Dhaba : - : North Indian, Chinese : ₹400 for two :  Sigra, Varanasi
+Mr Pizza Wala : - : Pizza, Fast Food, Shake, Beverages : ₹450 for two :  Sigra, Varanasi
+Medovika Bakers : 3.7 : Cafe, Coffee, Shake, Beverages, Bakery, Desserts, Italian, Fast Food : ₹450 for two :  Durgakund, Varanasi
+Silver Spoon Restaurant : 3.9 : North Indian, South Indian, Chinese, Fast Food, Beverages, Desserts : ₹600 for two :  Dashaswmedh Road, Varanasi
+Sita Rasoi : 3.8 : North Indian, Fast Food, Street Food : ₹300 for two :  Lahartara, Varanasi
+RollsKing : 2.9 : Rolls, Fast Food, Beverages : ₹350 for two :  Mahmoorganj, Varanasi
+Ganga View Cafe & Restaurant : 4.1 : North Indian, Beverages : ₹400 for two :  Dashaswmedh Road, Varanasi
+Mamma Mia Biryani : 4.2 : Biryani, North Indian : ₹400 for two :  Kakarmata, Varanasi
+Yelchiko : 4.2 : North Indian, Chinese, Mughlai, Ice Cream, Biryani, Desserts, Beverages, Fast Food : ₹800 for two :  Sigra, Varanasi
+The Rio Pub & Lounge : 4.6 : North Indian, Mughlai, Seafood, Biryani, Chinese, Fast Food, Shake, Beverages : ₹1,300 for two :  Sigra, Varanasi
+Bati Chokha Restaurant : 3.3 : Rajasthani : ₹300 for two :  Bhelupur, Varanasi
+Al-Baik World : - : North Indian, Fast Food : ₹300 for two :  Sigra, Varanasi
+Foodie's Theka : 4.0 : North Indian, Chinese, Biryani, Fast Food, Pasta : ₹300 for two :  Mahmoorganj, Varanasi
+B.B.C  Restaurant : 3.1 : North Indian, Chinese, South Indian : ₹250 for two :  Lanka, Varanasi
+Ganesh Chat Bhandar : 3.8 : Street Food, Chinese : ₹200 for two :  Sigra, Varanasi
+Dolphin Restaurant : 3.9 : North Indian, Chinese, Mexican, Sandwich, Pizza, Beverages, Pasta, Burger : ₹700 for two :  Dashaswmedh Road, Varanasi
+Chilly Hunters Restaurant - Hotel Uday Palace : 4.0 : North Indian, Biryani : ₹600 for two :  Sunderpur, Varanasi
+Cafe Coffee Day : 3.5 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹500 for two :  JHV Mall, Nadesar, Varanasi
+Vasco's Pizza : - : Pizza, Burger, Fast Food, Shake : ₹300 for two :  Lanka, Varanasi
+Gianis - Ice Cream, Shakes & Sundaes : New : Ice Cream, Desserts, Shake, Beverages : ₹300 for two :  Nadesar, Varanasi
+Cafe Choco Craze : 4.2 : Pizza, Burger, Momos, Fast Food, Ice Cream, Desserts, Shake, Beverages : ₹400 for two :  Shivala, Varanasi
+Family Thikana Dhaba : 3.9 : North Indian, Chinese, Street Food : ₹550 for two :  Bhikharipur Kala, Varanasi
+Old Champaran Meat House : - : North Indian : ₹400 for two :  Shastri Nagar, Varanasi
+Grill By The Ocean - The Rivatas : 4.0 : North Indian, Desserts : ₹1,400 for two :  Rivatas, Nadesar, Varanasi
+JBB Restaurant & Cafe : - : North Indian, Chinese, Mughlai, Rolls, Street Food, Biryani, Burger : ₹400 for two :  Durgakund, Varanasi
+Veda Hotel by RKS : 4.0 : North Indian, Chinese, Mughlai, Street Food, Beverages, Fast Food, Shake : ₹500 for two :  Dashaswmedh Road, Varanasi
+Gloria Family Restaurant : 3.1 : South Indian, North Indian, Chinese : ₹400 for two :  Sunderpur, Varanasi
+Apna Fast Food Corner : 3.8 : North Indian, Chinese, Fast Food : ₹200 for two :  Bhelupur, Varanasi
+Tasty Buds Restaurant : 4.0 : North Indian, Chinese, Rolls, Biryani, Beverages, Ice Cream, Salad, Coffee : ₹700 for two :  Shivala, Varanasi
+Royal Livin : 3.9 : North Indian, Chinese, Fast Food, Beverages : ₹700 for two :  Bhelupur, Varanasi
+Mark's Man Bar And Restaurant : 3.6 : Bar Food, North Indian, Chinese, Mughlai, Biryani, Beverages : ₹700 for two :  Mahmoorganj, Varanasi
+The Chowdhary's Chicken : 3.2 : North Indian, Biryani : ₹200 for two :  Bhelupur, Varanasi
+Atrium Cafe- Hotel Hindustan International : 3.9 : Thai, Italian, Continental, North Indian, Fast Food, Desserts : ₹1,200 for two :  Hotel Hindustan International, Varanasi
+Shivaz Restaurant : 3.2 : North Indian, Chinese, South Indian, Momos, Pizza, Pasta, Continental, Beverages : ₹700 for two :  Lanka, Varanasi
+The Chocolate Room : 3.6 : Mexican, Italian, Burger, Healthy Food, Desserts, Ice Cream, Beverages, Wraps : ₹700 for two :  Bhelupur, Varanasi
+The Taste Factory : 3.8 : North Indian, Chinese, Mughlai, Biryani, Italian, Beverages : ₹1,000 for two :  Bhikharipur Kala, Varanasi
+Keshari Chat Corner : 4.1 : Street Food, Desserts, Shake : ₹200 for two :  Dashaswmedh Road, Varanasi
+Pizza Club : 3.7 : Pizza : ₹250 for two :  Lanka, Varanasi
+Al-Baike : - : North Indian, Fast Food : ₹400 for two :  Sigra, Varanasi
+Red Chilli Restaurant : 3.9 : North Indian, South Indian, Chinese, Beverages, Sichuan : ₹550 for two :  Lanka, Varanasi
+Zorko - Brand Of Food Lovers : 4.1 : Burger, Pizza, Sandwich, Pasta, Fast Food, Shake, Beverages, Ice Cream : ₹300 for two :  Nadesar, Varanasi
+Food Express : 4.0 : North Indian, Chinese, Rolls, Mughlai, Sichuan, Fast Food : ₹450 for two :  Nadesar, Varanasi
+Maa Annapurna Bhojnalaya : 3.4 : North Indian, Chinese : ₹300 for two :  Mahmoorganj, Varanasi
+The Coffee House : 4.0 : North Indian, South Indian, Chinese, Beverages, Shake : ₹350 for two :  Bhelupur, Varanasi
+The Green Balcony Cafe & Diner : - : Chinese, Street Food, Fast Food, North Indian, Desserts, Beverages : ₹650 for two :  Assi Ghat, Varanasi
+Hotel Landmark : 3.9 : Mughlai, North Indian, Chinese, Continental, Desserts, Beverages : ₹1,400 for two :  Mahmoorganj, Varanasi
+Flour & Beans : - : Bakery, Fast Food : ₹500 for two :  Jaitpura, Varanasi
+Momo Nation Cafe : 4.1 : Momos, Chinese, Fast Food : ₹400 for two :  Sigra, Varanasi
+Italian Pizza : 4.2 : Pizza, Fast Food, North Indian, Chinese, Burger, Pasta, Biryani, Beverages : ₹500 for two :  Chetganj, Varanasi
+Dawat : - : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Godaulia, Varanasi
+Baker's Pride : 4.1 : Bakery, Pizza, Fast Food, Desserts : ₹400 for two :  Lanka, Varanasi
+Lashish Family Restaurant : 3.1 : North Indian, Chinese : ₹350 for two :  Dashaswmedh Road, Varanasi
+The Charcoal Junction : 2.8 : North Indian, Chinese, Biryani, Afghan, Sichuan : ₹250 for two :  Lanka, Varanasi
+Yadav Hotel : 3.7 : North Indian, Desserts, Beverages : ₹400 for two :  Nadesar, Varanasi
+Basant Bahar Delight : 3.9 : Sandwich, Fast Food, Beverages, Shake : ₹300 for two :  Chetganj, Varanasi
+Rasika Lounge & Bar - The Amayaa : 4.0 : Finger Food, North Indian, Mughlai, Beverages : ₹800 for two :  Nadesar, Varanasi
+Theth Banarasi : 3.9 : Street Food, Fast Food, North Indian : ₹200 for two :  Bhelupur, Varanasi
+Shawarma Wala : 4.3 : Shawarma, Sandwich, Rolls : ₹300 for two :  Sigra, Varanasi
+Cake Me.in : 3.4 : Bakery : ₹550 for two :  Sunderpur, Varanasi
+Champaran The Taste Of Culture : 3.3 : North Indian, Mughlai, Chinese, Kebab : ₹700 for two :  Durgakund, Varanasi
+Cafebility : 3.8 : North Indian, Chinese, Fast Food, Biryani, Pizza, Sandwich, Desserts, Beverages : ₹1,500 for two :  Sunderpur, Varanasi
+On The Plate : 4.4 : Chinese, North Indian, Oriental, Fast Food, Shake, Beverages : ₹600 for two :  Bhelupur, Varanasi
+Satvik Restaurant : 3.9 : North Indian, Chinese, South Indian, Pizza, Fast Food, Shake : ₹1,700 for two :  Dashaswmedh Road, Varanasi
+Baba Family Restaurant : 4.2 : North Indian, Mughlai, Chinese : ₹500 for two :  Dashaswmedh Road, Varanasi
+Ashish Cafe : 3.9 : Momos, North Indian, Fast Food, Pasta, Desserts, Beverages : ₹300 for two :  Assi Ghat, Varanasi
+Central Conversations Cafe : 3.7 : Pizza, Sandwich, Chinese, Fast Food, Shake, Beverages : ₹400 for two :  Lanka, Varanasi
+Dakshin Kashi : 3.7 : South Indian, North Indian, Street Food, Fast Food, Chinese, Beverages : ₹400 for two :  Dashaswmedh Road, Varanasi
+Mr Waffle Therapist : 3.7 : Desserts, Shake, Beverages : ₹300 for two :  Bhelupur, Varanasi
+King Lucknow Biryani Chicken Corner : 3.7 : Mughlai, North Indian : ₹400 for two :  Bhelupur, Varanasi
+Champaran Desi Matka Meat House : 4.3 : Mughlai, Bihari, Lucknowi, North Indian : ₹500 for two :  Nadesar, Varanasi
+Food Square Take A Taste : 3.1 : Chinese, Fast Food, North Indian, Pizza, Street Food : ₹350 for two :  Nadesar, Varanasi
+Cimaya Resto : 3.9 : Cafe, Coffee, North Indian, Chinese, Fast Food, Pizza, Sandwich, Ice Cream : ₹600 for two :  Lanka, Varanasi
+Mom's Kitchen : 3.7 : North Indian, Chinese, Biryani, Beverages : ₹800 for two :  Chetganj, Varanasi
+Lav Kush Family Restaurant : 3.4 : North Indian, Chinese, South Indian : ₹700 for two :  Jaitpura, Varanasi
+Cakery : 4.2 : Bakery, Desserts, Fast Food, Beverages : ₹600 for two :  Bhelupur, Varanasi
+Rocks & Roll Cafe : 3.7 : Fast Food, Chinese, North Indian, Biryani, Rolls, Pizza, Burger : ₹200 for two :  Mahmoorganj, Varanasi
+Hindustan Family Restaurant : 3.9 : Chinese, North Indian : ₹400 for two :  Lanka, Varanasi
+Hunger Valley : 4.2 : Fast Food, Chinese, Momos, Burger, Pizza : ₹550 for two :  Lanka, Varanasi
+Swad Deshi Restaurant : - : North Indian, Italian, Chinese, Biryani, Continental, Salad, Pizza, Desserts : ₹1,000 for two :  Sigra, Varanasi
+Pehalwan Chicken Biryani & Restaurant : 3.0 : Biryani, North Indian : ₹300 for two :  Bhelupur, Varanasi
+KBC- By Raunak's Kitchen : - : North Indian, Fast Food, Sandwich, Burger, Healthy Food, Desserts, Beverages : ₹600 for two :  Sigra, Varanasi
+Cafe 65 : 3.4 : Biryani, North Indian, Chinese, Pizza, Rolls, Fast Food, Mughlai, Beverages : ₹400 for two :  Durgakund, Varanasi
+Chinese Express : - : Chinese, North Indian : ₹300 for two :  Nadesar, Varanasi
+Banaras Darbar : 4.3 : North Indian, Chinese, Tea, Salad, Sandwich, Kebab, Desserts, Biryani : ₹700 for two :  Lanka, Varanasi
+Muskan Kalika Family Restaurant : 3.8 : Mughlai, North Indian, Chinese : ₹300 for two :  Chetganj, Varanasi
+Grill Inn : 4.1 : Burger, Chinese, Momos, Fast Food, Beverages : ₹400 for two :  Sunderpur, Varanasi
+Adda : 3.5 : North Indian, Continental, Chinese, Desserts, Salad : ₹600 for two :  Chetganj, Varanasi
+Shri Nilayam Kutir : 3.7 : North Indian, South Indian, Chinese, Fast Food, Kebab, Beverages, Continental, Desserts : ₹500 for two :  Chetganj, Varanasi
+Hira Sweets : 3.3 : North Indian, Chinese, Street Food, South Indian, Beverages : ₹300 for two :  Nadesar, Varanasi
+Spicy Daawat : 4.4 : North Indian, Chinese, South Indian, Awadhi, Biryani, Mughlai, Fast Food : ₹800 for two :  Mahmoorganj, Varanasi
+The Cake Point : 4.0 : Bakery : ₹250 for two :  Sunderpur, Varanasi
+Bliss Bar & Restaurant - Hotel Zeeras : 3.9 : Finger Food : ₹1,200 for two :  Hotel Zeeras, Varanasi
+Mughlai Hut : 4.4 : Mughlai, Chinese, North Indian : ₹400 for two :  Nadesar, Varanasi
+Chow Khao : 3.9 : North Indian, Chinese, Momos : ₹1,000 for two :  Sigra, Varanasi
+Roti N Rice Darbar : 3.9 : North Indian, Chinese, South Indian, Beverages, Desserts : ₹400 for two :  Sigra, Varanasi
+Muskan Kalika Family Restaurant And Roll Corner : 3.9 : North Indian, Chinese, Rolls, Biryani, Mughlai : ₹600 for two :  Chetganj, Varanasi
+Four Course : 3.5 : Fast Food, Chinese, Street Food, Desserts, Burger, Waffle, Beverages : ₹650 for two :  Lanka, Varanasi
+Knock Out : 2.2 : North Indian, Continental, Ice Cream : ₹600 for two :  Vinayak Plaza, Chetganj, Varanasi
+Neopolitan Pizza : 4.1 : Pizza, Salad, Fast Food : ₹500 for two :  Jaitpura, Varanasi
+The Azamgarh Kalika : 3.7 : Mughlai, North Indian : ₹300 for two :  Lanka, Varanasi
+Daawat Restaurant - Hotel Zeeras : 3.9 : Continental, North Indian, Chinese, Mughlai, Salad, Oriental, Beverages : ₹1,200 for two :  Hotel Zeeras, Varanasi
+Jaws- The Madin Hotel : 3.9 : North Indian, Ice Cream : ₹1,000 for two :  JHV Mall, Nadesar, Varanasi
+Banarasi Rasoi : 3.9 : North Indian, Chinese, South Indian, Fast Food, Healthy Food, Beverages : ₹400 for two :  Lanka, Varanasi
+The Royal Barbeque : 3.4 : North Indian, Mughlai, Chinese : ₹450 for two :  Nadesar, Varanasi
+Kashi Restaurant : 3.7 : North Indian, Chinese : ₹400 for two :  Bhelupur, Varanasi
+Fish Corner : 3.9 : Biryani, Rolls, Chinese, Mughlai, Seafood : ₹500 for two :  Sigra, Varanasi
+AFC Family Restaurant : 3.9 : Chinese, North Indian, Fast Food, Sichuan, Salad, Italian : ₹500 for two :  Nadesar, Varanasi
+The Garage Kitchen : New : Fast Food, Street Food, Pasta, Sandwich, Shake, Beverages : ₹250 for two :  Lanka, Varanasi
+Anamika Coffee And Kulfi : 3.5 : North Indian, South Indian, Fast Food : ₹200 for two :  Sigra, Varanasi
+Hotel Satkar : 3.6 : North Indian, Chinese, Mughlai, Street Food, Beverages : ₹600 for two :  Lanka, Varanasi
+Windsor Bar- Hotel Hindustan International : 3.5 : Finger Food : ₹1,200 for two :  Hotel Hindustan International, Varanasi
+Baba Kal Bhairav Non Veg Bhojanalya : 3.9 : North Indian : ₹250 for two :  Bhikharipur Kala, Varanasi
+Rajesh Sweets : 3.3 : Mithai, South Indian, Chinese : ₹400 for two :  Jaitpura, Varanasi
+Hotel The Westinn : 3.8 : North Indian, Chinese, Continental : ₹650 for two :  Nadesar, Varanasi
+Home Made Momo's : 3.8 : Fast Food, Chinese : ₹200 for two :  Nadesar, Varanasi
+Pine Tree Restaurant : 4.1 : Mughlai, North Indian, Chinese, Biryani : ₹600 for two :  Sunderpur, Varanasi
+Vada Grill : - : Maharashtrian, Street Food, Momos : ₹150 for two :  Sigra, Varanasi
+Chestnuts Cafe : 3.5 : Bakery, Desserts, Fast Food : ₹300 for two :  Sigra, Varanasi
+Champaran : 3.7 : North Indian, Bihari, Biryani : ₹400 for two :  Sigra, Varanasi
+Taste On Tip : 3.9 : Chinese, Momos : ₹400 for two :  Shastri Nagar, Varanasi
+Kripa Bakers And Restaurant : 3.4 : North Indian, Chinese, Fast Food, Street Food, Shake : ₹300 for two :  Bhikharipur Kala, Varanasi
+Tiwari Food Corner : 3.6 : North Indian : ₹250 for two :  Sigra, Varanasi
+Rajwada : 3.8 : North Indian, Rajasthani, Chinese, Beverages, Shake, Sichuan : ₹650 for two :  Bhelupur, Varanasi
+Club Cafe : 4.1 : Continental, Chinese, Fast Food, Ice Cream : ₹400 for two :  Nadesar, Varanasi
+Banarasi Zaika : 3.1 : Chinese, North Indian : ₹350 for two :  Nadesar, Varanasi
+Banarasi Flavours : 3.7 : North Indian, South Indian, Mughlai, Chinese, Fast Food, Biryani, Shake : ₹800 for two :  Sigra, Varanasi

@@ -1,0 +1,333 @@
+Egyptian Brewery : 3.5 : North Indian, Chinese, Italian, Continental, Asian, Desserts, Beverages : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Fiesta : New : North Indian, Fast Food : ₹1,400 for two :  Mall Road, Amritsar
+Olive 97 : 4.2 : North Indian, Chinese, Continental, Italian, Burger, Fast Food, Desserts, Beverages : ₹1,300 for two :  Ranjit Avenue, Amritsar
+Diago : 3.9 : Continental, Sushi, Chinese, Mexican, North Indian, Asian, European, Cafe : ₹1,500 for two :  Ranjit Avenue, Amritsar
+Ecru Cafe & Lounge : 4.0 : North Indian, Continental, Cafe, Bar Food, Chinese, Asian, Pasta : ₹1,000 for two :  Ranjit Avenue, Amritsar
+The Bagh Gourmet Garden & Bar : 3.9 : Continental, Chinese, Asian, North Indian, Mediterranean, Cafe, Desserts, Thai : ₹1,500 for two :  Maquboolpura, Amritsar
+Grain By Elgin : 4.3 : Asian, Continental, Mediterranean, Italian, Seafood, Sushi, Desserts, Cafe : ₹2,000 for two :  Ranjit Avenue, Amritsar
+Elgin Cafe : 4.4 : Cafe, Asian, Continental, Italian, North Indian, Turkish, Chinese, Fast Food : ₹1,500 for two :  Ranjit Avenue, Amritsar
+Aurah : 4.5 : Continental, Chinese, North Indian, Thai, Italian, Asian : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Amritsari Haveli : 3.8 : North Indian, Mughlai, Biryani, Chinese, Asian, Shake, Beverages : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Brick House Kitchen- BHK : New : Continental, North Indian, Chinese, Pizza, Burger, Bakery : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Blink : New : North Indian, Asian, Thai, Continental, Chinese, Desserts, Cafe, Beverages : ₹2,300 for two :  Ranjit Avenue, Amritsar
+Cafe Delhi Heights : 4.4 : Cafe, Continental, Italian, North Indian, Chinese, Beverages : ₹1,500 for two :  Ranjit Avenue, Amritsar
+Bon Chic : New : Italian, Continental, North Indian, Fast Food, Chinese, Sushi, Seafood, Desserts : ₹1,500 for two :  Ranjit Avenue, Amritsar
+Diora Multicuisine Restaurant : New : Continental, Mughlai, Italian, Asian, Chinese, Biryani, Desserts, Beverages : ₹1,100 for two :  Ranjit Avenue, Amritsar
+BABA'S : New : North Indian, Chinese, Mughlai, Biryani, Asian, Continental, Roast Chicken, Cafe : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Kesar Da Dhaba : 4.4 : North Indian : ₹450 for two :  Hathi Gate, Amritsar
+Kava Grill & Lounge - Fairfield By Marriott : 4.9 : North Indian, Asian, Continental, Chinese, Biryani, Thai, Desserts, Beverages : ₹3,000 for two :  Fairfield By Marriott, Amritsar, Amritsar
+Kohi : 3.2 : Cafe, Coffee, Pizza, Pasta, Sandwich, Burger, Fast Food, Shake : ₹800 for two :  Ranjit Avenue, Amritsar
+La Roma Pizzeria : 4.3 : Pizza, Pasta, Sandwich, Burger, Wraps, Italian, Salad : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Le Grand Cafe - Le Méridien : 4.1 : Cafe, Asian, Healthy Food, Oriental, North Indian, Italian, Desserts, Beverages : ₹1,200 for two :  Le M茅ridien Amritsar, Amritsar
+Soho Best Western Merrion : 3.1 : North Indian, Continental, Asian, Chinese, Desserts : ₹1,200 for two :  Best Western Merrion Hotel, Ranjit Avenue, Amritsar
+Mabels Restaurant : New : North Indian, Seafood, Chinese, Italian, Bar Food, Desserts, Asian, Continental : ₹1,600 for two :  Ranjit Avenue, Amritsar
+Shosha - Golden Sarovar Portico : 4.0 : Finger Food, Italian, North Indian, Fast Food, Beverages : ₹800 for two :  Ranjit Avenue, Amritsar
+Makhan Fish And Chicken Corner Since 1962 : 3.2 : North Indian, Chinese, Seafood, Continental, Biryani : ₹700 for two :  Majitha Road, Amritsar
+Greko : 3.0 : Cafe, Italian, Sandwich, Coffee : ₹300 for two :  Ranjit Avenue, Amritsar
+Housewood Villas : 3.7 : North Indian, Continental, Oriental, Chinese, Burger, Sandwich, Pizza, Desserts : ₹2,000 for two :  Ranjit Avenue, Amritsar
+Biryani By Kilo : 4.4 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  Ranjit Avenue, Amritsar
+The Liquid Room : - : North Indian, Continental, Chinese, Italian : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Thrice Restaurant Craft Cocktail Lounge : 3.6 : North Indian, Chinese, Sandwich, Pizza, Burger, Desserts : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Barbeque Nation : 4.3 : BBQ, North Indian, Continental, Chinese, Biryani, Kebab, Desserts, Beverages : ₹1,750 for two :  Maquboolpura, Amritsar
+Kake Da Hotel Since 1931 : 3.5 : North Indian, Chinese, Mughlai, Rolls, Biryani : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Pyramid : - : North Indian, Pizza, Biryani, Mughlai, Seafood, Fast Food, Desserts, Chinese : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Pink Pegy : 3.9 : Cafe, Coffee, Pizza, Fast Food, North Indian, Chinese, Desserts, Beverages : ₹1,400 for two :  Ranjit Avenue, Amritsar
+Punjab Province - Hyatt Regency Amritsar : 4.0 : North Indian, Italian, Thai, Chinese, Continental, Healthy Food, South Indian, Mughlai : ₹3,500 for two :  Hyatt Regency Amritsar, Ranjit Nagar, Amritsar
+Casa Artesa : - : Bar Food, North Indian, Chinese, Pizza, Continental, Italian, Desserts, Coffee : ₹1,800 for two :  Amritsar Cantonment, Amritsar
+Highlanders : 4.0 : North Indian, Chinese, Lebanese, Pizza, Burger, Sandwich, Fast Food, Salad : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Swagath : - : North Indian, Chinese, Fast Food : ₹1,000 for two :  Ranjit Avenue, Amritsar
+The Lord Wings : 3.8 : North Indian, Biryani, Oriental, Asian, Continental, Pizza, Pasta, Sandwich : ₹1,200 for two :  Ranjit Avenue, Amritsar
+Asian Bistro - Le Méridien : 3.8 : Asian, Japanese, Chinese, Oriental, Thai, Seafood, Desserts : ₹2,400 for two :  Le Meridien Amritsar Ranjit Avenue, Amritsar
+Crystal Restaurant Plaza : 3.4 : North Indian, Continental, Chinese, Italian, Biryani, Mughlai, Desserts, Beverages : ₹2,100 for two :  INA Colony, Amritsar
+Xero Degrees : 4.9 : Pizza, Pasta, Burger, Fast Food, Chinese, Waffle, Coffee, Beverages : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Huber & Holly : 3.6 : Ice Cream, Desserts, Pizza, Bakery : ₹1,200 for two :  Ranjit Avenue, Amritsar
+Lazaari Restro And Bar : 3.8 : North Indian, Fast Food : ₹1,000 for two :  Lawrence Road, Amritsar
+Bon Gateau : 4.0 : Cafe, Bakery, North Indian, Continental, Chinese, Italian, Pizza, Burger : ₹700 for two :  Ranjit Avenue, Amritsar
+Charming Chicken : 4.4 : North Indian : ₹600 for two :  Basant Nagar, Amritsar
+Taco Bell : 3.7 : Mexican : ₹500 for two :  Ranjit Avenue, Amritsar
+Rang Punjab : 4.1 : North Indian, Beverages, Desserts : ₹1,000 for two :  Town Hall, Amritsar
+The Amritsar Haveli : 3.7 : North Indian, South Indian, Fast Food, Chinese, Sandwich, Desserts, Pizza, Beverages : ₹400 for two :  Town Hall, Amritsar
+Eden House : - : Asian, Korean, North Indian, Mughlai, Continental, Chinese, Desserts, Beverages : ₹900 for two :  Ranjit Avenue, Amritsar
+Ziva All Day Dining - Holiday Inn : 4.1 : North Indian, Chinese, Continental, Italian, Oriental, Desserts, Beverages : ₹1,500 for two :  Holiday Inn, Ranjit Avenue, Amritsar
+Auralia : - : North Indian, Chinese, Pizza, Sandwich, Beverages : ₹550 for two :  Ranjit Avenue, Amritsar
+Taboo Bar & Kitchen : 3.9 : North Indian, Chinese, Pizza, Asian, Italian, Continental, Mughlai, Biryani : ₹1,800 for two :  Mall Road, Amritsar
+Brothers Dhaba : 3.9 : North Indian, Chinese, Biryani, Street Food, Desserts, Beverages : ₹400 for two :  GNDU Area, Amritsar
+Beera Chicken House : 4.1 : North Indian : ₹500 for two :  Basant Nagar, Amritsar
+Crystal Restaurant : 3.3 : North Indian, Chinese, Biryani, Italian, Burger, Sandwich, Shake, Sichuan : ₹1,200 for two :  INA Colony, Amritsar
+Shangz Luxe Dining : 3.9 : Asian, Japanese, Chinese, Thai, Korean, Burmese, Desserts, Beverages : ₹1,200 for two :  Ranjit Avenue, Amritsar
+Haveli : 4.6 : Chinese, North Indian, Fast Food, Beverages, Desserts : ₹500 for two :  Jandiala, Amritsar
+Sandoz : - : North Indian, Cafe, Coffee, Chinese, Rolls, Fast Food, Mughlai, Tea : ₹1,000 for two :  Lawrence Road, Amritsar
+Jamie Oliver Kitchen Cafe : 3.9 : Healthy Food, Coffee, Salad, Sandwich, Tea, Continental : ₹300 for two :  INA Colony, Amritsar
+Latitude - Le Méridien : - : European, Asian, Chinese, North Indian : ₹2,900 for two :  Le Meridien Amritsar Ranjit Avenue, Amritsar
+EatAsia Food : 4.3 : South Indian, North Indian, Chinese, Maharashtrian : ₹700 for two :  Ranjit Avenue, Amritsar
+L’ Papillae : New : Cafe, Coffee, Italian, Sandwich, Beverages : ₹650 for two :  Ranjit Avenue, Amritsar
+YOLO Courtyard : 3.4 : North Indian, Pizza, Pasta, Fast Food, Chinese, Tea, Shake, Beverages : ₹1,200 for two :  Ranjit Avenue, Amritsar
+R K Food Plaza : 4.1 : North Indian, Beverages : ₹250 for two :  Town Hall, Amritsar
+Pizzetto : 3.2 : Pizza, Burger, Pasta, Momos, Fast Food, Salad, Shake, Beverages : ₹400 for two :  Mohan Nagar, Amritsar
+The Lutyens : 3.9 : North Indian, Mughlai, Japanese, Asian, Salad, Thai, Pizza, Fast Food : ₹2,500 for two :  Hathi Gate, Amritsar
+Dumpling Hood : 3.8 : Momos, Chinese : ₹450 for two :  Ranjit Avenue, Amritsar
+Astoria Food Pavilion : 4.2 : Fast Food, Italian, Chinese, Mughlai, North Indian, Biryani, Desserts : ₹1,000 for two :  Ranjit Avenue, Amritsar
+The BrewMaster : 4.6 : North Indian, Asian, Continental, Oriental, Chinese, Pizza, Desserts : ₹1,400 for two :  Ranjit Avenue, Amritsar
+Firangi Dhaba : 4.2 : North Indian, Chinese, Rolls, Pizza : ₹550 for two :  Ranjit Avenue, Amritsar
+La Grillca Pizzeria : - : Pizza, Pasta, Sandwich, Burger, Beverages : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Coffee and Bagels : 2.9 : Cafe, Beverages, Coffee : ₹500 for two :  Ranjit Avenue, Amritsar
+La Moda : 3.8 : North Indian, Chinese, Biryani, Continental, Fast Food, Italian, Salad, Desserts : ₹1,500 for two :  Ranjit Avenue, Amritsar
+Brothers' Amritsari Dhaba : 3.9 : North Indian, South Indian, Fast Food, Chinese, Sandwich, Desserts, Pizza, Continental : ₹400 for two :  Town Hall, Amritsar
+Subway : 3.4 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Basant Nagar, Amritsar
+Kanha Sweets : 4.8 : Mithai, Street Food : ₹300 for two :  Lawrence Road, Amritsar
+Tandoori Hub - Hotel Swarn House : 3.8 : North Indian, Chinese, Kebab, Mughlai, Rolls : ₹600 for two :  Azad Nagar, Amritsar
+The Locals : - : Cafe, Mughlai, European, Korean, Thai, Oriental, Asian, Modern Indian : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Zodiac - By Fortune ITC : - : Oriental, Continental, North Indian, Chinese, Fast Food, Desserts : ₹1,000 for two :  Ranjit Avenue, Amritsar
+The One - Best Western Merrion : 3.3 : North Indian, Beverages, Desserts, Shake, Chinese : ₹1,300 for two :  Best Western Merrion Hotel, Ranjit Avenue, Amritsar
+Grab & Go By Grain : 3.9 : Italian, Cafe, Salad, Asian, Momos, Fast Food, Coffee, Beverages : ₹2,000 for two :  Ranjit Avenue, Amritsar
+Bharawan Da Dhaba : 3.6 : North Indian, South Indian, Fast Food, Chinese, Desserts, Pizza, Burger, Beverages : ₹600 for two :  Town Hall, Amritsar
+Domino's Pizza : 4.0 : Pizza, Fast Food, Pasta, Desserts, Beverages : ₹400 for two :  Town Hall, Amritsar
+Formos : 3.9 : North Indian, Chinese : ₹1,000 for two :  Lawrence Road, Amritsar
+Pizza Italia : 4.1 : Pizza, Italian : ₹500 for two :  Ranjit Avenue, Amritsar
+The Beer Story : 4.3 : Fast Food, Salad, Italian, Chinese, Mughlai, North Indian, Beverages : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Chai Churi : - : Tea, Chinese, Pizza, Fast Food, Street Food, Coffee, Shake, Beverages : ₹350 for two :  Ranjit Avenue, Amritsar
+DOUBLESHOT COFFEE ROASTERS : 4.1 : Cafe, Desserts : ₹500 for two :  Ranjit Avenue, Amritsar
+Swagath Restaurant And Bar : - : North Indian, Continental, Italian, Chinese, Tex-Mex : ₹1,000 for two :  Amritsar Cantonment, Amritsar
+The Level's Bistro : New : Continental, Asian, North Indian : ₹1,500 for two :  Ranjit Avenue, Amritsar
+The Beer Cafe : 4.8 : North Indian, Italian, Finger Food : ₹1,200 for two :  Ranjit Avenue, Amritsar
+The Chicken Culture : 3.9 : North Indian, Italian, American, Tex-Mex : ₹1,500 for two :  Ranjit Avenue, Amritsar
+Sky Club : - : North Indian, Chinese, Salad, Italian, Arabian, Japanese, Seafood, Fast Food : ₹1,300 for two :  Ranjit Avenue, Amritsar
+Surjit Food Plaza : 4.0 : North Indian, Mughlai, Seafood, Chinese : ₹1,000 for two :  Shastri Nagar, Amritsar
+McDonald's : 3.3 : Burger, Fast Food, Cafe, Beverages : ₹350 for two :  Jandiala, Amritsar
+Spice & Grill : - : North Indian, Chinese : ₹200 for two :  Azad Nagar, Amritsar
+majhail cafe : New : South Indian, Maharashtrian, Fast Food, Chinese, Desserts, Shake, Beverages : ₹250 for two :  Azad Nagar, Amritsar
+Burgitos : - : Burger, Pizza, Pasta, Chinese, Wraps, Shake, Beverages : ₹500 for two :  Ranjit Avenue, Amritsar
+Greko Reserve : New : Cafe : ₹600 for two :  Ranjit Avenue, Amritsar
+Burger King : 3.9 : Burger, Fast Food, Wraps, Beverages : ₹400 for two :  Lawrence Road, Amritsar
+Grillz & Chillz Restaurant : 3.4 : North Indian, Mughlai, Chinese : ₹600 for two :  Ranjit Avenue, Amritsar
+7th Heaven : 3.8 : Bakery, Desserts, Sandwich, Pizza, Fast Food, Coffee, Shake, Beverages : ₹300 for two :  Lawrence Road, Amritsar
+Brothers Dhaba : New : North Indian, Chinese, Street Food, Ice Cream, Shake, Beverages : ₹600 for two :  GT Road, Amritsar
+Kesav Da Dhaba : 2.8 : North Indian, Chinese, Continental, Beverages : ₹1,000 for two :  Rani Ka Bagh, Amritsar
+Hoppers : 3.8 : Italian, Sandwich, Burger, Beverages : ₹500 for two :  Ranjit Avenue, Amritsar
+The Earth : - : North Indian, Chinese, Pizza, Sushi : ₹1,000 for two :  Hathi Gate, Amritsar
+A-One Kulfa : 4.1 : Desserts : ₹100 for two :  INA Colony, Amritsar
+Cafe Blusalz : New : North Indian, Continental, Asian, Fast Food : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Muscleholics : 3.3 : Healthy Food, Salad, Sandwich, Wraps, Beverages : ₹450 for two :  Ranjit Avenue, Amritsar
+Bansal The Food House : 3.0 : Fast Food, Pizza, Pasta, Beverages, Continental, South Indian, Mithai, Desserts : ₹1,000 for two :  Lawrence Road, Amritsar
+Bakers Square : 4.4 : Bakery, Sandwich : ₹300 for two :  Majitha Road, Amritsar
+La Romano Pizzeria : - : Pizza, Pasta, Italian, Beverages : ₹300 for two :  GNDU Area, Amritsar
+Scotch Haus - Hyatt Regency : - : North Indian, Italian, Continental, Beverages : ₹2,500 for two :  Hyatt Regency Amritsar GT Road, Amritsar
+Hooters Indian Restro Bar : 3.4 : North Indian, Mughlai, Chinese, Fast Food, Beverages : ₹800 for two :  Mohan Nagar, Amritsar
+Pizza Hut : 3.8 : Pizza, Fast Food, Burger, Continental, Desserts, Beverages : ₹600 for two :  GT Road, Amritsar
+Pizza Italia : 4.2 : Italian, Pizza, Burger, Sandwich, Salad, Beverages : ₹550 for two :  Lawrence Road, Amritsar
+Bozi Zazrak : - : Pizza, Hot dogs, Sandwich, Fast Food, Wraps, Shake, Beverages : ₹600 for two :  White Avenue, Amritsar
+Adarsh Meat Shop : 3.7 : North Indian, Street Food : ₹500 for two :  Ranjit Avenue, Amritsar
+Rajasthani Chat Bhandar : 4.3 : Street Food : ₹200 for two :  Town Hall, Amritsar
+Eldorado : 4.0 : North Indian, Chinese, Biryani, Continental, Fast Food, Ice Cream, Burger, Sandwich : ₹800 for two :  Ranjit Avenue, Amritsar
+Makhan Fish & Chicken Hut : 3.5 : North Indian, Chinese, Street Food : ₹800 for two :  White Avenue, Amritsar
+Greenhouse - MK Hotel : - : North Indian, Chinese : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Kitrakuisine : 3.0 : Fast Food, Burger, Pizza : ₹400 for two :  Rani Ka Bagh, Amritsar
+MK Hotel : 3.5 : North Indian, Chinese, Fast Food, Desserts : ₹600 for two :  Mohan Nagar, Amritsar
+BluFlamingo : 3.9 : North Indian, Asian, Chinese, Continental, Pizza, Pasta, Bar Food : ₹1,900 for two :  Ranjit Avenue, Amritsar
+Cafe Chokolade : 3.5 : Cafe, Pizza, Burger, Pasta, Beverages, Shake : ₹500 for two :  Ranjit Avenue, Amritsar
+Kale Da Dhaba : 3.9 : North Indian, Mughlai, Chinese, Beverages : ₹500 for two :  Rani Ka Bagh, Amritsar
+Starbucks Coffee : 3.6 : Cafe, Coffee : ₹600 for two :  Ranjit Avenue, Amritsar
+Yummy Tummy : 4.2 : Fast Food, Burger : ₹150 for two :  Modern Colony, Amritsar
+Pizza Club : 3.7 : Pizza, Sandwich, Fast Food, Burger : ₹300 for two :  Majitha Road, Amritsar
+Novelty Sweets & Restaurant : - : Mithai, Chinese, North Indian, Fast Food, Burger, Continental, Desserts, Beverages : ₹500 for two :  Mohan Nagar, Amritsar
+Bar Xchange : 4.5 : North Indian, Fast Food, Chinese, Pizza, Biryani, Sandwich, Italian, Desserts : ₹800 for two :  Ranjit Avenue, Amritsar
+Coco Cabana : 3.9 : North Indian, Chinese, Fast Food, Mughlai, Continental, Rolls, Desserts : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Burgrill - The Win Win Burger : 3.5 : Burger, Healthy Food, Wraps, Fast Food, Beverages : ₹400 for two :  GNDU Area, Amritsar
+The Yellow Chilli : 3.6 : North Indian, Chinese, Continental, Desserts, Sichuan, Italian : ₹1,200 for two :  Ranjit Avenue, Amritsar
+Taal Restaurant : 2.8 : Seafood, Salad, Roast Chicken, North Indian, Italian, Biryani, Momos : ₹500 for two :  Ranjit Avenue, Amritsar
+Amore Cafe : - : Cafe, Coffee, Shake, Beverages, Pizza, Pasta, Healthy Food, Fast Food : ₹800 for two :  Ranjit Avenue, Amritsar
+Birthday Cakes : - : Bakery : ₹400 for two :  Ranjit Avenue, Amritsar
+KFK Bar-B-Que Fish-N-Chips : 4.2 : North Indian, BBQ : ₹500 for two :  Mall Road, Amritsar
+The Cream Way : - : Italian, Burger, Sandwich, Waffle, Ice Cream, Shake, Beverages, Desserts : ₹500 for two :  Ranjit Avenue, Amritsar
+Bade Bhai ka Brothers Dhaba : 4.3 : North Indian, South Indian, Fast Food, Chinese : ₹500 for two :  Town Hall, Amritsar
+Chawlas 2 : 4.1 : North Indian, Chinese : ₹500 for two :  Ranjit Avenue, Amritsar
+The Coffee Bean & Tea Leaf : 2.7 : Cafe, Tea, Bakery, Fast Food : ₹400 for two :  Ranjit Avenue, Amritsar
+Pappi Di Hatti : 4.2 : North Indian, Chinese, Continental, Fast Food, Mughlai, Biryani, Bakery : ₹400 for two :  White Avenue, Amritsar
+Special Bombay Pav Bhaji & Bhel Puri : 4.7 : Street Food, South Indian, Fast Food, Chinese, Pizza, Momos, Pasta, Burger : ₹300 for two :  GNDU Area, Amritsar
+The Brothers : 4.0 : North Indian, Fast Food, Chinese, Sandwich, Desserts, Pizza, Burger, Continental : ₹450 for two :  Basant Nagar, Amritsar
+Anjan Mutton & Chicken Products : 3.5 : Mughlai, Fast Food, Biryani, North Indian : ₹500 for two :  Kabir Park, Amritsar
+Coffee 'N' Tea Bar : - : Beverages, Coffee, Shake, Pizza, Fast Food, Street Food : ₹300 for two :  Town Hall, Amritsar
+Annpurna Veg. Dhaba : 3.9 : North Indian, Chinese : ₹400 for two :  Basant Nagar, Amritsar
+Bubby Fish & Chicken Corner : 3.6 : North Indian, Biryani, Mughlai, Beverages, Fast Food, Chinese, Salad : ₹500 for two :  INA Colony, Amritsar
+The Naivedyam Cafe : 3.7 : Italian, Pizza, Burger : ₹400 for two :  GT Road, Amritsar
+Burger Hut : 3.5 : Burger, Pizza, Wraps, Fast Food, Pasta : ₹400 for two :  White Avenue, Amritsar
+Raj Punjabi Dhaba : 3.0 : North Indian, Chinese, Mughlai, Fast Food : ₹600 for two :  Town Hall, Amritsar
+Maoh American Food : 4.2 : Pizza, Burger, Sandwich, Fast Food, Chinese, Italian, North Indian, Beverages : ₹450 for two :  Ranjit Avenue, Amritsar
+Masala Darbaar : - : North Indian, Chinese, Pizza, Fast Food : ₹1,000 for two :  Town Hall, Amritsar
+Bukhaaraa : 4.0 : North Indian, Mughlai, Rolls : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Chicken Inn : 3.8 : North Indian : ₹400 for two :  Town Hall, Amritsar
+Amritsar Kitchen - Courtyard By Marriott : 3.2 : North Indian, Continental, American, Thai : ₹1,500 for two :  Courtyard By Marriott Amritsar, Amritsar
+Conical Waffles : 3.4 : Waffle, Shake, Beverages : ₹300 for two :  Kabir Park, Amritsar
+The Pizza Point : 3.7 : Pizza, Sandwich, Wraps, Fast Food, Shake : ₹350 for two :  Shakti Nagar, Amritsar
+The Machhiwala By Makhan : New : Seafood, North Indian, Biryani, Chinese, Asian, Pizza, Italian : ₹1,500 for two :  Ranjit Avenue, Amritsar
+Mr. Momo : 2.8 : Momos, Chinese : ₹300 for two :  Ranjit Avenue, Amritsar
+Stone's & Grill : 3.3 : Continental, Sandwich, Burger, Wraps, Beverages : ₹400 for two :  Mohan Nagar, Amritsar
+Pizza Galleria : - : Pizza, Fast Food, Pasta, Shake, Beverages : ₹350 for two :  Ranjit Avenue, Amritsar
+Chinese Wok : - : Chinese : ₹300 for two :  White Avenue, Amritsar
+Novelty Restaurant : 3.5 : Pizza, Chinese : ₹400 for two :  Lawrence Road, Amritsar
+Sanjha Chulha : 3.9 : North Indian, South Indian : ₹400 for two :  Lawrence Road, Amritsar
+Grand Trunk : 4.4 : North Indian, Continental : ₹3,500 for two :  Taj Swarna, Amritsar
+Honey Hut : 2.9 : Bakery, Fast Food, Sandwich, Desserts, Ice Cream, Coffee, Shake, Beverages : ₹400 for two :  AplhaOne Mall, GT Road, Amritsar
+Barista Coffee : 3.9 : Cafe, Coffee, Fast Food, Sandwich, Burger, Rolls, Shake, Desserts : ₹400 for two :  Ranjit Avenue, Amritsar
+Oka Open Kitchen At Astoria : 4.1 : North Indian, Seafood, Chinese, Fast Food, Beverages : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Bakes & Beans : 4.6 : Italian, Beverages, Salad, Fast Food, Lebanese, Desserts : ₹1,200 for two :  Ranjit Avenue, Amritsar
+Kobe Sizzlers : 3.9 : Chinese, Fast Food : ₹1,400 for two :  Ranjit Avenue, Amritsar
+Giani : - : Ice Cream, Desserts, Waffle, Shake, Beverages : ₹300 for two :  Lawrence Road, Amritsar
+The Qahwah Khaana : - : Continental, Mexican, Italian, Middle Eastern, Pizza, Sandwich, Salad : ₹1,200 for two :  Ranjit Avenue, Amritsar
+Bikanervala : 4.0 : Mithai, Street Food, North Indian : ₹600 for two :  Lawrence Road, Amritsar
+Galini Cafe : - : North Indian, Chinese, Momos, Pizza, Pasta, Sandwich, Burger, Fast Food : ₹1,000 for two :  GT Road, Amritsar
+Winni Cakes & More : 3.8 : Bakery, Desserts, Sandwich, Burger, Shake : ₹500 for two :  Mall Road, Amritsar
+Lazeez : - : North Indian, Chinese, Street Food, Sandwich, Biryani, Mughlai, Desserts, Beverages : ₹900 for two :  Mohan Nagar, Amritsar
+Daawat-A-Zayka : New : Pizza, Burger, Sandwich, Pasta, Shake, Coffee, Beverages, Desserts : ₹400 for two :  Modern Colony, Amritsar
+Foodeez : 3.9 : North Indian, Chinese, Mughlai, Continental, Pizza, Pasta, Desserts : ₹900 for two :  Rani Ka Bagh, Amritsar
+Gill Chicken Veg & Non Veg : - : North Indian, Mughlai : ₹600 for two :  Ranjit Avenue, Amritsar
+Flour Fairy Bakery : 4.8 : Bakery, Desserts, Sandwich : ₹300 for two :  Majitha Road, Amritsar
+Tavolo Mondo - Radisson Blu : 4.1 : North Indian, Chinese, Continental, Cafe : ₹1,500 for two :  Radisson BLU Hotel, Anjala Road, Amritsar
+Pinxx Restaurant : - : North Indian : ₹2,000 for two :  Amritsar Junction, Amritsar
+Pax The Mustard Inn : - : North Indian, Chinese : ₹1,000 for two :  Lawrence Road, Amritsar
+Cafe Connect : 3.8 : Fast Food, Pizza, Burger, Sandwich, Wraps, Pasta, Desserts, Beverages : ₹500 for two :  Ranjit Avenue, Amritsar
+Lounge Bar - Holiday Inn : 3.9 : Finger Food : ₹1,500 for two :  Holiday Inn, Ranjit Avenue, Amritsar
+Wholemeal : 4.3 : North Indian, Momos, Fast Food, Shake, Beverages, Sichuan, Wraps : ₹400 for two :  Ranjit Avenue, Amritsar
+Umang Vaishno Bhojan Bhandar : 4.0 : North Indian, Burger, Street Food : ₹400 for two :  Basant Nagar, Amritsar
+Churi House : - : Tea, Coffee, Shake, Beverages, Pizza, Sandwich, Fast Food, Street Food : ₹350 for two :  Kabir Park, Amritsar
+The Chinese Room - Taj Swarna : 3.9 : Chinese : ₹1,500 for two :  Taj Swarna, Amritsar, Amritsar
+Los Fiesta : 4.0 : Chinese, Pizza, Burger, Sandwich, Pasta, Fast Food, Desserts, Shake : ₹1,000 for two :  Majitha Road, Amritsar
+Gup Shup Coffee Cafe : - : Fast Food, Pizza, Beverages, Pasta, Sandwich, Shake : ₹350 for two :  GT Road, Amritsar
+The Ginger : - : North Indian, Chinese, Mughlai : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Zannat Restaurant : 3.9 : North Indian : ₹900 for two :  White Avenue, Amritsar
+Zio - Happy Cravings : 4.9 : North Indian, Continental, Chinese, Burger, Rolls : ₹600 for two :  Ranjit Avenue, Amritsar
+Guru Kripa Veg Chaap : - : North Indian : ₹250 for two :  Shakti Nagar, Amritsar
+Tikke Shikke : New : North Indian, Rolls, Fast Food, Momos, Chinese, Seafood : ₹300 for two :  Ranjit Avenue, Amritsar
+Hummus : 3.0 : Arabian, Fast Food, Beverages : ₹350 for two :  Ranjit Avenue, Amritsar
+Temptation Restaurant : 3.7 : North Indian, Chinese, Fast Food : ₹700 for two :  White Avenue, Amritsar
+Food Fusion : 3.6 : Fast Food, Pizza, Pasta, Burger, North Indian, South Indian, Chinese, Desserts : ₹500 for two :  GT Road, Amritsar
+Haldiram's : 3.2 : North Indian, Street Food, Chinese, Mithai : ₹500 for two :  Ranjit Avenue, Amritsar
+Bala Ji Cafe : New : Burger, Tea, Shake, Beverages, Pizza, Fast Food, Street Food : ₹200 for two :  Kabir Park, Amritsar
+Wok Singh : 3.8 : Chinese, Thai, Seafood, Momos, Beverages : ₹300 for two :  Ranjit Avenue, Amritsar
+Chicken Tonight : - : North Indian : ₹400 for two :  Mohan Nagar, Amritsar
+Cheesy Bun : - : Pizza, Wraps, Sandwich, Fast Food, Street Food, Shake, Coffee, Beverages : ₹300 for two :  Mohan Nagar, Amritsar
+Amritsari Adda : - : Sandwich, Pizza, Pasta, Momos, Fast Food, Ice Cream, Shake, Beverages : ₹400 for two :  Mohan Nagar, Amritsar
+El Cocina : 3.5 : North Indian, Mughlai, Chinese, Continental, Biryani, Fast Food, Desserts, Beverages : ₹1,400 for two :  GT Road, Amritsar
+Old Kundan Dhaba : 3.6 : North Indian : ₹300 for two :  INA Colony, Amritsar
+Italian Fusion : - : Pizza, Burger, Sandwich, Wraps, Pasta, Fast Food, Shake, Beverages : ₹250 for two :  Basant Nagar, Amritsar
+Clubhouse : 4.0 : Chinese, North Indian, Modern Indian, Momos, BBQ, Continental, Italian : ₹1,200 for two :  Ranjit Avenue, Amritsar
+Coffee 'N' Teabar : - : Cafe, Coffee, Chinese, Burger, Pasta, Fast Food, Desserts, Beverages : ₹800 for two :  Ranjit Avenue, Amritsar
+Nakshatra Skydining - By Fortune ITC : - : North Indian, Chinese, Seafood, Bar Food, Desserts, Juices, Beverages : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Ahuja Milk Bhandar And Sweets Shop : 3.9 : Mithai : ₹300 for two :  Hathi Gate, Amritsar
+Pal Dhaba : 4.0 : North Indian : ₹350 for two :  Hathi Gate, Amritsar
+Al Fresco - Ramada : 4.4 : North Indian, Chinese : ₹1,500 for two :  Town Hall, Amritsar
+Fresh 'N' Up Cafe : - : North Indian, Chinese, Sandwich, Burger, Pasta, Fast Food, Tea, Beverages : ₹450 for two :  Rani Ka Bagh, Amritsar
+Nectar : - : North Indian, Bar Food : ₹1,500 for two :  Ranjit Avenue, Amritsar
+Sandhu Da Dhaba : - : North Indian, Street Food, Fast Food, Shake : ₹250 for two :  Town Hall, Amritsar
+In n Out Bakers : 4.1 : Bakery, Desserts : ₹300 for two :  Ranjit Avenue, Amritsar
+Baskin Robbins - Ice Cream Desserts : 3.6 : Ice Cream, Desserts, Beverages : ₹500 for two :  Ranjit Avenue, Amritsar
+The Cake Palette : - : Bakery, North Indian, Chinese, Pizza, Fast Food, Desserts, Shake, Beverages : ₹450 for two :  Basant Nagar, Amritsar
+Chhat : - : North Indian, Beverages : ₹1,800 for two :  Ranjit Avenue, Amritsar
+Kumar Fast Food : 4.1 : North Indian, Mughlai, Biryani, Chinese, Pizza, Fast Food, Desserts, Beverages : ₹1,000 for two :  Mall Road, Amritsar
+WelcomCafe Phulkari : 3.9 : Continental, Italian, North Indian, Desserts : ₹1,000 for two :  Ranjit Avenue, Amritsar
+House Of Shakes : 4.4 : Burger, Sandwich, Italian, Fast Food, Desserts, Beverages : ₹400 for two :  White Avenue, Amritsar
+Muskaan : 4.3 : North Indian : ₹500 for two :  Ranjit Avenue, Amritsar
+Czar : - : North Indian, Biryani, Chinese, Pizza, Continental, Seafood, Pasta, Desserts : ₹1,000 for two :  Ranjit Avenue, Amritsar
+The Peg - Taj Swarna : 3.9 : North Indian, Chinese : ₹1,200 for two :  Taj Swarna, Amritsar, Amritsar
+Ice Cream Lounge & Cafe : 3.8 : Desserts, Waffle, Shake, Beverages : ₹350 for two :  Ranjit Avenue, Amritsar
+Marriott on Wheels - Fairfield By Marriott : 4.3 : Mughlai, North Indian, Chinese : ₹1,000 for two :  Fairfield By Marriott Mall Road, Amritsar
+The Burger Club : 4.1 : Burger, Fast Food, Salad, Wraps, Beverages, Desserts, Shake, Coffee : ₹550 for two :  Ranjit Avenue, Amritsar
+Raja Chick Chicken : 4.0 : North Indian, Chinese, Kebab, Mughlai : ₹500 for two :  Lawrence Road, Amritsar
+The Eve's Garden : - : North Indian, Chinese, Kebab, Biryani, Italian, Pizza, Fast Food, Desserts : ₹1,550 for two :  Mohan Nagar, Amritsar
+Gian Di Lassi : 4.6 : Beverages, Mithai : ₹150 for two :  Hathi Gate, Amritsar
+Parkash Meat Shop : 4.0 : Mughlai, North Indian : ₹600 for two :  White Avenue, Amritsar
+Chawlas 2 Fine Dine : 4.0 : North Indian, Chinese, Mughlai : ₹600 for two :  Ranjit Avenue, Amritsar
+Golden Gate By Kumar's : 3.7 : Chinese, Salad, Sandwich, Wraps, Fast Food, Pasta, Pizza, North Indian : ₹1,100 for two :  INA Colony, Amritsar
+Like Italy : 3.8 : Chinese, North Indian, Pizza, Burger, Italian, Beverages, Coffee : ₹550 for two :  AplhaOne Mall, GT Road, Amritsar
+Veerji Malai Chaap Wale : - : North Indian, Biryani, Chinese, Burger, Rolls, Momos, Shake, Beverages : ₹300 for two :  Ranjit Avenue, Amritsar
+Burger Singh - Big Punjabi Burgers : 3.7 : Burger, Fast Food, Momos, Beverages : ₹400 for two :  Ranjit Avenue, Amritsar
+Wendy's Burgers : 2.6 : Burger, Fast Food, American : ₹500 for two :  Ranjit Avenue, Amritsar
+Zodiac By Fortune Inn Heritage Walk Amritsar : New : North Indian, Chinese : ₹1,000 for two :  Town Hall, Amritsar
+Sip 'n' Bite : 3.9 : Beverages, Fast Food, Pizza, Burger, Pasta : ₹600 for two :  Ranjit Avenue, Amritsar
+SipNBreww : 3.8 : Coffee, Pizza, Burger, Fast Food, Shake, Beverages : ₹600 for two :  Lawrence Road, Amritsar
+Baba Chicken : 4.2 : North Indian, Chinese, Seafood : ₹800 for two :  Lawrence Road, Amritsar
+Blink By Zoca : New : North Indian, Biryani, Chinese, Burger, Sandwich, Pizza : ₹1,000 for two :  Ranjit Avenue, Amritsar
+Aroma De Cafe : - : Cafe, Beverages, Fast Food, Street Food : ₹600 for two :  Rani Ka Bagh, Amritsar
+Punjab Dhaba : 3.9 : North Indian, Seafood, Salad, Beverages : ₹900 for two :  Town Hall, Amritsar
+Glass House Amritsar : 4.1 : North Indian, Pizza, Sandwich, Chinese, Fast Food, Beverages : ₹800 for two :  Mall Road, Amritsar
+Smaaash : 3.9 : North Indian, Chinese, Pizza, Pasta, Bar Food, Fast Food, Desserts : ₹1,000 for two :  Lawrence Road, Amritsar
+Food Adda : 3.9 : Sandwich, Pizza, Burger, Momos, Fast Food, Street Food, Shake, Beverages : ₹450 for two :  Ranjit Avenue, Amritsar
+Pavilion By Comfort Inn Alstonia : 3.1 : North Indian, Chinese, Biryani : ₹700 for two :  Ranjit Avenue, Amritsar
+The Service Club : 3.5 : North Indian, Mughlai, Continental, Chinese, Asian : ₹1,000 for two :  INA Colony, Amritsar
+Bittu Tandoori Meat Shop : 4.3 : North Indian, Seafood : ₹400 for two :  Ranjit Avenue, Amritsar
+Bakewell Bakers : 3.9 : Bakery, Desserts : ₹350 for two :  INA Colony, Amritsar
+Poornima Chinese Food : 4.1 : Fast Food, Chinese, Afghan, Street Food, Sandwich, North Indian : ₹200 for two :  INA Colony, Amritsar
+Ankit Fast Food : 3.8 : Fast Food, Burger, Chinese : ₹200 for two :  Town Hall, Amritsar
+Tasty Hut's Afghani Soya : 4.0 : Street Food, North Indian, Chinese, Biryani, Fast Food, Sichuan : ₹400 for two :  GT Road, Amritsar
+Marwari Dhaba : 4.1 : North Indian, Rajasthani : ₹400 for two :  Town Hall, Amritsar
+Proof - Radisson Blu : 4.2 : North Indian, Beverages : ₹2,000 for two :  Radisson BLU Hotel, Anjala Road, Amritsar
+Bombay Kulfi : 4.8 : Ice Cream : ₹200 for two :  Town Hall, Amritsar
+Bawarchi's Am Pm : 3.5 : Chinese, Fast Food, North Indian, Street Food, Beverages : ₹400 for two :  White Avenue, Amritsar
+Butlerz - Bake House : 3.3 : Cafe, Coffee, Beverages, Continental, Italian, Chinese, North Indian, Bakery : ₹800 for two :  Ranjit Avenue, Amritsar
+South Indian Madrasi Dosa Wala : 4.0 : South Indian, North Indian : ₹300 for two :  INA Colony, Amritsar
+KFC : 3.2 : Burger, Fast Food, Rolls : ₹400 for two :  Kabir Park, Amritsar
+Basil By Ramada Encore By Wyndham : New : Continental, Seafood, Chinese : ₹3,500 for two :  White Avenue, Amritsar
+Neenoo's Bar-B-Que Fish-N-Chips : 4.3 : North Indian, Mughlai : ₹800 for two :  Mall Road, Amritsar
+Abhishek Chinese Corner : 3.9 : Street Food, Fast Food : ₹300 for two :  Ranjit Avenue, Amritsar
+Marriott On Wheels By Courtyard By Marriott : 3.7 : North Indian, South Indian, Asian, Continental, Middle Eastern, Desserts : ₹1,200 for two :  Mall Road, Amritsar
+Et al. Cafe & Restaurant By El nido : 4.0 : Pizza, North Indian, Burger, Pasta, Chinese, Continental : ₹300 for two :  Ranjit Avenue, Amritsar
+Alaska Restaurant & Cafe : - : North Indian, Chinese, Continental, Fast Food, Desserts, Coffee, Shake, Beverages : ₹1,200 for two :  Mall Road, Amritsar
+Wah Ji Wah : 4.0 : North Indian, Street Food, Rolls : ₹200 for two :  Town Hall, Amritsar
+Bombay Pavbhaji - Original : 3.0 : Chinese, Fast Food, Pizza, Sandwich, Beverages : ₹400 for two :  INA Colony, Amritsar
+Texas  Bar & Grill : 4.5 : North Indian, Chinese, Kebab, Mughlai, Street Food, Desserts, Beverages : ₹1,200 for two :  Ranjit Avenue, Amritsar
+Durga's : 4.0 : Ice Cream, Desserts, Shake, Beverages : ₹300 for two :  Lawrence Road, Amritsar
+Swagtam Dhaba : 4.6 : North Indian, Beverages : ₹250 for two :  Town Hall, Amritsar
+Narula's : 3.9 : North Indian, Mughlai, Biryani, Pizza, Fast Food : ₹1,000 for two :  Mall Road, Amritsar
+The Belgian Waffle Co. : 4.2 : Waffle, Pancake, Beverages, Desserts, Ice Cream : ₹300 for two :  Town Hall, Amritsar
+M's Oven Fresh : 3.9 : Bakery, Desserts : ₹400 for two :  Basant Nagar, Amritsar
+Popular Bakery : 4.1 : Bakery, Desserts : ₹300 for two :  INA Colony, Amritsar
+New Kundan Dhaba : 3.2 : North Indian, Desserts, Ice Cream, Beverages : ₹400 for two :  Rani Ka Bagh, Amritsar
+Raju Sweets : 3.7 : Mithai, Street Food, Desserts : ₹300 for two :  Modern Colony, Amritsar
+Vaango : 3.7 : South Indian : ₹300 for two :  INA Colony, Amritsar
+Bhaanja Meat Wala : 3.9 : North Indian, Biryani : ₹300 for two :  Mohan Nagar, Amritsar
+Salt N Pepper : 3.8 : North Indian, Chinese, Pizza, Pasta, Mughlai : ₹350 for two :  Ranjit Avenue, Amritsar
+Cafe Coffee Day : 4.0 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹750 for two :  Ranjit Avenue, Amritsar
+The Kulcha Land : 4.4 : North Indian : ₹200 for two :  Ranjit Avenue, Amritsar
+Salsa Bar : - : Bar Food : ₹2,000 for two :  Amritsar Junction, Amritsar
+Dynasty : - : Bar Food, Beverages : ₹1,050 for two :  Ranjit Avenue, Amritsar
+Om Vaishno Dhaba : 3.3 : North Indian : ₹100 for two :  Ranjit Avenue, Amritsar
+Bittu Kulchian Wala : 4.0 : North Indian : ₹150 for two :  Ranjit Avenue, Amritsar
+Moti Mahal Delux : 4.1 : North Indian, Sandwich, Salad, Rolls, Desserts : ₹1,000 for two :  Golden Tulip, Rani Ka Bagh, Amritsar
+Hungry Pizza : 3.8 : Pizza, Fast Food : ₹500 for two :  Rani Ka Bagh, Amritsar
+The Bridge - H K Clarks Inn : 3.9 : North Indian, Chinese, Italian, Biryani, Desserts : ₹1,600 for two :  Ranjit Avenue, Amritsar
+Shri Bikaner Sweets : 3.8 : Mithai, Street Food : ₹300 for two :  Ranjit Avenue, Amritsar
+New Brijwasi Fast Food Corner : 4.0 : Street Food : ₹200 for two :  Rani Ka Bagh, Amritsar
+The Little Chef : 4.2 : Chinese, Fast Food, North Indian, Continental, Thai, Pizza, Burger, Beverages : ₹1,000 for two :  GNDU Area, Amritsar
+Bobby Meat Shop : 3.7 : North Indian : ₹300 for two :  Ranjit Avenue, Amritsar
+Sadda Pind : - : North Indian : ₹2,000 for two :  Modern Colony, Amritsar
+Poornima Fast Food : 3.8 : Chinese, Fast Food, Beverages : ₹300 for two :  INA Colony, Amritsar
+Lets Chai : 3.8 : Fast Food, Street Food, Pizza, North Indian, Shake, Beverages : ₹500 for two :  Ranjit Avenue, Amritsar
+Cafe Adda : 3.8 : Fast Food, Pizza, Beverages, Desserts, Salad, North Indian, Italian, Sandwich : ₹500 for two :  GT Road, Amritsar
+Citrus Cafe : 3.9 : North Indian, Continental, Chinese, Fast Food : ₹1,100 for two :  White Avenue, Amritsar
+La Pino'z Pizza : 3.9 : Pizza, Pasta, Italian, Fast Food, Beverages : ₹400 for two :  Amritsar Cantonment, Amritsar
+Rolls Mania : 3.3 : North Indian, Fast Food, Rolls, Street Food : ₹250 for two :  Lawrence Road, Amritsar
+Gauri Shankar & Sons : 3.8 : North Indian, Street Food : ₹200 for two :  INA Colony, Amritsar
+The Eternity : 3.9 : North Indian, Chinese, Burger, Continental, Fast Food, Oriental, Pizza : ₹800 for two :  Ranjit Avenue, Amritsar
+B.S Bubby Mutton & Chicken : 4.1 : North Indian : ₹200 for two :  Ranjit Avenue, Amritsar
+Palm Villas : - : North Indian, Chinese, Continental : ₹3,000 for two :  Amritsar Cantonment, Amritsar
+The Cafe Green : 3.6 : Cafe, Coffee, Fast Food, Desserts, Tea, Shake, Beverages : ₹400 for two :  Town Hall, Amritsar
+Elista Cafe : 3.3 : Pizza, Sandwich, Burger, Wraps, Chinese, Seafood, Fast Food, Desserts : ₹500 for two :  Ranjit Avenue, Amritsar
+Western Haveli : - : North Indian, Chinese, Biryani, Pasta, Seafood, Mughlai, Fast Food, Shake : ₹2,100 for two :  Ranjit Avenue, Amritsar
+The Beer Cafe : - : Bar Food : ₹2,000 for two :  Ranjit Avenue, Amritsar
+Roll Express : 3.8 : Rolls : ₹350 for two :  Kabir Park, Amritsar
+Life Bakery : 4.2 : Bakery, Fast Food : ₹500 for two :  Mohan Nagar, Amritsar
+Wall Of Asia - Radisson Blu : 3.9 : Chinese, Thai : ₹1,500 for two :  Radisson BLU Hotel, Anjala Road, Amritsar
+Inderpuri Dhaba : 4.0 : North Indian, Chinese, Mughlai, Desserts, Beverages : ₹300 for two :  INA Colony, Amritsar
+Mama Meat Shop : 4.0 : North Indian : ₹500 for two :  White Avenue, Amritsar
+Kesariya Darbar : 3.7 : North Indian : ₹1,000 for two :  Hathi Gate, Amritsar
+Dal Roti Dhaba : 3.8 : North Indian, Street Food : ₹200 for two :  Hathi Gate, Amritsar
+Basant La Patisserie : 3.4 : Bakery : ₹300 for two :  Ranjit Avenue, Amritsar
+The Ambassador Cafe : - : North Indian, Pizza, Sandwich, Fast Food, Chinese, Salad, Shake, Beverages : ₹1,300 for two :  Jandiala, Amritsar
+Bread Talk By Subhash Juice Bar : 4.2 : Pizza, Fast Food, Burger, Momos, Rolls, Shake, Desserts, Beverages : ₹500 for two :  Basant Nagar, Amritsar
+The Shakes Hub : 3.9 : Fast Food, Pizza, Burger, Sandwich, Beverages : ₹400 for two :  GNDU Area, Amritsar
+Irish Beach : 4.1 : Continental, North Indian, Chinese, Pasta, Oriental, Biryani, Desserts, Beverages : ₹1,200 for two :  Mall Road, Amritsar
+Chaman Family Restaurant : 3.9 : North Indian, Biryani, Fast Food : ₹700 for two :  Rani Ka Bagh, Amritsar
+Billa Chicken House : 3.8 : North Indian : ₹250 for two :  Mohan Nagar, Amritsar
+Bake N Take : 3.9 : Fast Food, Pizza, Beverages : ₹350 for two :  Shakti Nagar, Amritsar
+JS Makhan Fish & Chicken : 3.1 : North Indian, Seafood : ₹500 for two :  Hathi Gate, Amritsar
+Fun Byts : 3.7 : Fast Food, Sandwich, Burger, Wraps, Street Food, Shake, Beverages : ₹300 for two :  Rani Ka Bagh, Amritsar

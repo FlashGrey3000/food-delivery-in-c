@@ -1,0 +1,501 @@
+Barbeque Nation : 4.7 : North Indian, BBQ, Biryani, Street Food, Kebab, Beverages, Desserts : ₹1,700 for two :  Prozone Mall, Chicalthana, Aurangabad
+Shahi Bhoj Restaurant : 4.2 : Maharashtrian : ₹400 for two :  CIDCO, Aurangabad
+Green Leaf : 4.9 : North Indian, Chinese, Beverages, Juices, Desserts, Sichuan : ₹750 for two :  CIDCO, Aurangabad
+Biryani By Kilo : 4.4 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  CIDCO, Aurangabad
+Great Sagar Restaurant : 4.3 : Chinese, Mughlai, Seafood, Kebab, Biryani, North Indian, Desserts, Beverages : ₹600 for two :  Nirala Bazar, Aurangabad
+Bhoj Restaurant : 4.3 : North Indian : ₹300 for two :  Nirala Bazar, Aurangabad
+Hotel Lokseva : 4.2 : Maharashtrian, North Indian : ₹400 for two :  CIDCO, Aurangabad
+That Baat : 4.3 : Maharashtrian : ₹450 for two :  Nirala Bazar, Aurangabad
+Welcome Hotel Rama International : 4.2 : North Indian, Chinese, Thai, South Indian, Seafood : ₹2,000 for two :  WelcomHotel Rama International, CIDCO, Aurangabad
+KA Lounge : 4.1 : North Indian, Continental, Finger Food : ₹1,200 for two :  Mondha, Aurangabad
+Te Amo Pure Veg Restaurant : 4.3 : North Indian, Chinese, Continental, Italian, Desserts, Beverages : ₹800 for two :  Akashwani, Aurangabad
+Indiana Red Velvet : 4.2 : North Indian, Chinese, Continental, Fast Food, Desserts, Beverages, Pizza, Pasta : ₹800 for two :  Gadia Vihar, Aurangabad
+Symphony Cake's & Cafe : 3.8 : Bakery, Desserts, Fast Food, Beverages, Pizza : ₹500 for two :  Usmanpura, Aurangabad
+Natural Ice Cream : 4.3 : Ice Cream, Desserts : ₹200 for two :  Mondha, Aurangabad
+Baraka Kitchen : 3.9 : Turkish, Mughlai, Arabian, North Indian, Biryani, Seafood, Desserts, Beverages : ₹1,800 for two :  CIDCO, Aurangabad
+CFC Shalimar Family Restaurant : 3.4 : North Indian, Chinese, Biryani, Mughlai, Sichuan : ₹1,000 for two :  Jaswantpura, Aurangabad
+Dessert Villa : 3.9 : Ice Cream, Desserts, Beverages, Waffle : ₹300 for two :  CIDCO, Aurangabad
+Indiana Veg Restaurant : 4.0 : North Indian, South Indian, Chinese, Pizza, Sandwich, Fast Food, Beverages, Street Food : ₹400 for two :  CIDCO, Aurangabad
+Kailash Veg Restaurant : 4.0 : South Indian, Chinese, North Indian, Fast Food, Street Food, Beverages, Sichuan : ₹400 for two :  Usmanpura, Aurangabad
+Vivanta By Taj : 4.4 : Chinese, North Indian : ₹2,200 for two :  Vivanta by Taj, CIDCO, Aurangabad
+Hotel VIP Maratha - CIDCO : 3.9 : North Indian, Maharashtrian, Chinese, Mughlai, Sichuan : ₹500 for two :  CIDCO, Aurangabad
+Harry's Bar - The Aures Hotel : 4.4 : Bar Food, North Indian : ₹1,500 for two :  Hotel Keys The Aures, Vedant Nagar, Aurangabad
+Safa Restaurant : 3.9 : North Indian, Mughlai, Chinese, Biryani, Sichuan : ₹350 for two :  Shahgunj, Aurangabad
+Naivedya Thali Restaurant : 4.5 : North Indian : ₹600 for two :  CIDCO, Aurangabad
+Pizza Hut : 4.3 : Pizza, Fast Food, Desserts : ₹500 for two :  Mondha, Aurangabad
+Kareem's : 3.9 : Biryani, Mughlai, Rolls, North Indian, Desserts, Beverages, Seafood, Maharashtrian : ₹700 for two :  Nirala Bazar, Aurangabad
+Mustafa's Dum Biryani : 3.1 : Biryani, North Indian : ₹400 for two :  Usmanpura, Aurangabad
+Yalla Yalla : 3.9 : North Indian, Chinese, Mughlai, Biryani, Seafood, Kebab : ₹400 for two :  Usmanpura, Aurangabad
+Yalla Yalla : 2.8 : Oriental, North Indian, Chinese, Biryani, Desserts : ₹700 for two :  Nyay Nagar, Aurangabad
+Little Greens : 4.5 : North Indian, Chinese, Kebab, Desserts : ₹600 for two :  Sindhi Colony, Aurangabad
+Aaichya Gavat Restro-Dhaba : 3.8 : North Indian, Chinese, Maharashtrian : ₹350 for two :  MIDC, Aurangabad
+Koyla Dum Biryanis & Kebabs : 3.8 : Biryani, North Indian, Mughlai : ₹400 for two :  CIDCO, Aurangabad
+Hotel Atithi's Roof Top Restaurant : 3.2 : North Indian, Chinese, Mughlai, Seafood, Desserts, Beverages : ₹1,200 for two :  CIDCO, Aurangabad
+Citrus Cafe - Lemon Tree Hotel : 4.1 : North Indian, Chinese, Continental, Italian : ₹1,800 for two :  Lemon Tree Hotel, Chicalthana, Aurangabad
+Hotel Green Olive : 4.6 : Continental, Chinese, Biryani, North Indian, Maharashtrian, Mexican, Italian, Sichuan : ₹1,000 for two :  Hotel Green Olive, Nirala Bazar, Aurangabad
+Kozy Restaurant : 3.9 : North Indian, Chinese, Maharashtrian, Desserts, Finger Food, Sichuan : ₹800 for two :  Usmanpura, Aurangabad
+Hotel Tuba : - : North Indian, Biryani : ₹400 for two :  Shahgunj, Aurangabad
+Amigos Kitchen : 4.2 : North Indian, Chinese, Mughlai, Seafood, Desserts, Beverages : ₹800 for two :  CIDCO, Aurangabad
+Dera Punjab : 4.1 : Mughlai, Chinese, North Indian, South Indian, Biryani : ₹500 for two :  Usmanpura, Aurangabad
+Assal Gaonkari : 3.9 : North Indian, Maharashtrian : ₹400 for two :  Nyay Nagar, Aurangabad
+Smile Veg Restaurant : 4.0 : North Indian, South Indian, Chinese, Sandwich, Street Food, Fast Food, Desserts, Beverages : ₹400 for two :  Nirala Bazar, Aurangabad
+Cone-N-Cakes : 4.1 : Fast Food, Chinese, Sandwich, Street Food, Desserts, Beverages : ₹300 for two :  Usmanpura, Aurangabad
+Subway : 2.3 : Healthy Food, Fast Food, Sandwich, Salad, Wraps, Beverages : ₹300 for two :  Mondha, Aurangabad
+Shan-E-Punjab : 4.3 : North Indian, Mughlai, Chinese, Biryani : ₹600 for two :  Sindhi Colony, Aurangabad
+Chilli- The Skycourt Hotel : 3.0 : North Indian, South Indian, Continental : ₹500 for two :  The Skycourt Hotel, Aurangabad
+R B Kitchen : 3.7 : North Indian, Sichuan : ₹200 for two :  Gulmandi, Aurangabad
+Punjab National Hotel : 4.1 : North Indian : ₹400 for two :  Shahgunj, Aurangabad
+Kream N Krunch : 4.0 : North Indian, Chinese, Continental, Italian, Beverages : ₹1,000 for two :  Mondha, Aurangabad
+129 Whiskk. Avenue : 3.6 : Cafe, Coffee, Italian, Pizza, Salad, Fast Food, Bakery, Beverages : ₹900 for two :  Usmanpura, Aurangabad
+Starbucks Coffee : - : Cafe : ₹900 for two :  CIDCO, Aurangabad
+Chilli Fine Dine By The Sky Court : 3.8 : North Indian, Mughlai, Chinese, South Indian, Kebab, Biryani, Beverages : ₹900 for two :  MIDC, Aurangabad
+Swad Restaurant : 3.9 : Maharashtrian, Gujarati, Rajasthani : ₹200 for two :  Usmanpura, Aurangabad
+Greenleaf Resorts The Vegan : 4.2 : North Indian, Fast Food, Chinese, Desserts : ₹800 for two :  Usmanpura, Aurangabad
+Whisk : 3.7 : Bakery, Desserts, Pizza, Fast Food, Shake, Beverages : ₹750 for two :  Chikalthana, Aurangabad
+Sai Prasad Veg Restaurant : 3.9 : North Indian, Maharashtrian : ₹300 for two :  Usmanpura, Aurangabad
+Sai Prasad : 4.3 : North Indian, Chinese : ₹500 for two :  Sindhi Colony, Aurangabad
+Purnabramha Aurangabad : 3.9 : Maharashtrian, Beverages : ₹1,100 for two :  CIDCO, Aurangabad
+Gayatri Mewad Bhojnalaya And Restaurant : 3.4 : Chinese, North Indian, Sichuan : ₹850 for two :  Usmanpura, Aurangabad
+Tuljai Swaypak Ghar : 3.8 : North Indian, Maharashtrian, Street Food, Fast Food, Desserts, Beverages : ₹400 for two :  Ulkanagari, Aurangabad
+TeAmo Bistro : 3.7 : Beverages, Fast Food, Chinese, Shake : ₹600 for two :  Ulkanagari, Aurangabad
+Biryani By Bulk : New : Biryani, Hyderabadi : ₹300 for two :  Anand Nagar, Aurangabad
+Bistro by Pizzawala : 3.8 : Shake, Sandwich, Pizza, Pasta, Continental, Beverages : ₹300 for two :  CIDCO, Aurangabad
+Purani Delhi : 3.5 : North Indian, Mughlai : ₹300 for two :  Jaswantpura, Aurangabad
+Utb Kitchen : - : Coffee, Beverages, Chinese, Fast Food, Sandwich, Pizza, North Indian, Desserts : ₹600 for two :  Akashwani, Aurangabad
+No Meat Naan : 4.1 : Bakery, Desserts : ₹500 for two :  CIDCO, Aurangabad
+Hotel Gaurav Maratha : 3.2 : North Indian, Chinese, Maharashtrian, Street Food : ₹400 for two :  Nyay Nagar, Aurangabad
+Barista Coffee : 3.9 : Cafe, Coffee, Desserts : ₹600 for two :  Gadia Vihar, Aurangabad
+Icy Spicy : 3.9 : Street Food, Beverages, Desserts, South Indian, Chinese, Pizza, Sandwich, Fast Food : ₹500 for two :  CIDCO, Aurangabad
+Riwazz@The Fern Residency Aurangabad : 3.9 : North Indian, Chinese, Continental, Mughlai, Italian, Biryani, Beverages, Desserts : ₹1,800 for two :  CIDCO, Aurangabad
+Udupi Shrikrishna Veg Restaurant : 4.2 : North Indian, South Indian, Chinese, Street Food, Fast Food : ₹300 for two :  Gadia Vihar, Aurangabad
+Pizzawala : 4.0 : Pizza, Fast Food, Beverages : ₹500 for two :  Ulkanagari, Aurangabad
+Hotel Amarpreet : 3.6 : North Indian, Street Food, Chinese, Maharashtrian, Desserts, Beverages : ₹900 for two :  Hotel Amarpreet, Mondha, Aurangabad
+Indiana Cake Boutique : 4.1 : Chinese, Sandwich, Pizza, Fast Food, Bakery, Beverages, Sichuan : ₹300 for two :  CIDCO, Aurangabad
+Falahaar : 3.9 : Fast Food, Sandwich, Chinese, Pizza, Burger, Beverages, Ice Cream, Juices : ₹400 for two :  Akashwani, Aurangabad
+Jazeera Restaurant : 3.7 : North Indian, Chinese, Mughlai, Maharashtrian : ₹450 for two :  Nirala Bazar, Aurangabad
+Ashoka's Veg Restaurant : 3.8 : South Indian, North Indian, Chinese, Pizza, Sandwich, Fast Food, Beverages, Desserts : ₹400 for two :  Nirala Bazar, Aurangabad
+Istanbul Shawarma And Doner Restaurant : 3.5 : Lebanese, Kebab, Fast Food : ₹300 for two :  Shahgunj, Aurangabad
+The Baking Factory : New : Bakery, Mithai : ₹350 for two :  Usmanpura, Aurangabad
+Hotel Amodi Palace : - : Mughlai, North Indian, Chinese, Seafood, Biryani, Desserts, Beverages, Arabian : ₹2,500 for two :  Jaswantpura, Aurangabad
+Indiana's Exotica : 3.6 : Bakery, Desserts, Pizza, Sandwich, Fast Food, Beverages : ₹400 for two :  Akashwani, Aurangabad
+Basil Kitchen : - : North Indian, Biryani, Fast Food, Ice Cream, Desserts, Beverages : ₹1,100 for two :  CIDCO, Aurangabad
+The Salt : 4.1 : North Indian, Chinese : ₹800 for two :  CIDCO, Aurangabad
+Kareem's Kebab & Biryani : 4.1 : North Indian, Biryani, Street Food, Rolls : ₹650 for two :  Prozone Mall, Chicalthana, Aurangabad
+Kitoos Appe : - : South Indian : ₹200 for two :  CIDCO, Aurangabad
+Hotel Zam Zam : 3.8 : North Indian, Mughlai : ₹450 for two :  Shahgunj, Aurangabad
+Konark Pure Veg Restaurant : - : North Indian, Chinese, Sichuan : ₹500 for two :  Gadia Vihar, Aurangabad
+Chhabda's Urban Tadka : 3.0 : North Indian, Chinese, Fast Food, Beverages, Sichuan : ₹500 for two :  Usmanpura, Aurangabad
+Madhuban Garden Restaurant : 4.1 : North Indian, Chinese, Ice Cream, Beverages, Sichuan : ₹800 for two :  Gadia Vihar, Aurangabad
+Domino's Pizza : 4.0 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  Vedant Nagar, Aurangabad
+Hotel Rana Veg Non Veg Restaurant : 4.1 : Chinese, North Indian, Mughlai, Biryani, Ice Cream, Sichuan : ₹500 for two :  CIDCO, Aurangabad
+Mamta Fast Food & Pure Veg Restaurant : - : North Indian, South Indian, Chinese, Sandwich, Pizza, Kebab, Shake : ₹300 for two :  CIDCO, Aurangabad
+The Momo Factory : New : Momos, Burger, Fast Food : ₹300 for two :  Usmanpura, Aurangabad
+Fat Soul : 2.8 : Cafe, Lebanese, Chinese, Fast Food, Italian, Thai, Desserts, Beverages : ₹700 for two :  Usmanpura, Aurangabad
+Rock N Roll : 3.7 : Rolls : ₹200 for two :  Gadia Vihar, Aurangabad
+Rock N Roll : 2.7 : Rolls, Fast Food, Beverages : ₹200 for two :  CIDCO, Aurangabad
+Green Leaf - 2 : 3.7 : North Indian, Chinese, Biryani, Desserts : ₹500 for two :  Ulkanagari, Aurangabad
+Angeethi Restaurant : 4.0 : Seafood, North Indian, Mughlai, Kebab, Chinese, Biryani, Desserts, Beverages : ₹1,000 for two :  CIDCO, Aurangabad
+Karim's Original From Delhi 6 : New : North Indian, Mughlai, Biryani, Rolls : ₹1,000 for two :  Nirala Bazar, Aurangabad
+Twist In Flavours : - : Maharashtrian, North Indian, Continental, Chinese, South Indian, Pizza, Fast Food, Beverages : ₹1,000 for two :  Usmanpura, Aurangabad
+Blue Cilantro - The Aures Hotel : 4.4 : North Indian, Chinese, Continental, Mughlai, Kebab, Beverages, Sichuan : ₹800 for two :  Hotel Keys The Aures, Vedant Nagar, Aurangabad
+Ttok Chaat House : 3.7 : Street Food, Fast Food, Sandwich, Burger : ₹200 for two :  CIDCO, Aurangabad
+KFC : 4.1 : Burger, Fast Food, Rolls : ₹500 for two :  Prozone Mall, Chicalthana, Aurangabad
+Rock Salt Restaurant And Lawn : 3.1 : North Indian, Mughlai, Oriental, Chinese, Salad, Desserts, Ice Cream : ₹800 for two :  MIDC, Aurangabad
+Burpies : 3.7 : Fast Food, Burger, Pizza, Sandwich, Beverages, Desserts : ₹350 for two :  Gadia Vihar, Aurangabad
+Hotel Rana : 4.0 : North Indian, Chinese, Maharashtrian, Sichuan : ₹500 for two :  Usmanpura, Aurangabad
+Riz Fried And Grilled Chicken : 3.9 : Fast Food, Burger, Beverages : ₹300 for two :  Vedant Nagar, Aurangabad
+Hotel Amritsar Punjabi : 4.4 : North Indian, Chinese, Maharashtrian, Beverages : ₹800 for two :  CIDCO, Aurangabad
+Tandoor Restaurant : 4.1 : North Indian, Mughlai, Maharashtrian, Kebab, Chinese, Sichuan : ₹900 for two :  Usmanpura, Aurangabad
+The Palms Hotel And  Restaurant : 2.4 : North Indian, Chinese, Biryani, Street Food, Seafood, Mughlai, Kebab : ₹500 for two :  Nyay Nagar, Aurangabad
+Woodlot Garden Restaurant : 4.1 : North Indian, Chinese, Shake : ₹800 for two :  Gulmandi, Aurangabad
+Accurate Sea Food : 3.8 : Seafood : ₹500 for two :  Shahgunj, Aurangabad
+North South The Fusion Kitchen : - : North Indian, South Indian, Fast Food, Sandwich, Street Food, Beverages : ₹300 for two :  Mondha, Aurangabad
+Biryani Darbar : 3.4 : Biryani : ₹300 for two :  Nyay Nagar, Aurangabad
+Singhavi's Thali And Restro : 3.0 : North Indian : ₹600 for two :  Mondha, Aurangabad
+The Cheesy Bites : 3.3 : Pizza, Burger, Sandwich, Pasta, Rolls, Fast Food, Street Food, Beverages : ₹350 for two :  Nyay Nagar, Aurangabad
+La Pino'z Pizza : - : Pizza, Italian, Pasta, Fast Food, Desserts, Beverages : ₹400 for two :  Nirala Bazar, Aurangabad
+Mumbai Grills Cafe : 3.3 : Chinese, Fast Food, Sandwich, Pizza, North Indian, Street Food, Shake, Beverages : ₹500 for two :  CIDCO, Aurangabad
+The Society - Ambassador Ajanta : 3.9 : North Indian, Chinese, Italian, American, Maharashtrian, Desserts, Beverages : ₹1,500 for two :  Ambassador Ajanta, CIDCO, Aurangabad
+Mewad Hotel Pure Veg : 3.6 : North Indian, Maharashtrian : ₹400 for two :  Gulmandi, Aurangabad
+KFC : 2.8 : Burger, Fast Food, Rolls : ₹300 for two :  Gadia Vihar, Aurangabad
+La Comida : 3.6 : Italian, Mexican, Fast Food, Desserts, Beverages : ₹400 for two :  Usmanpura, Aurangabad
+Bombay Bandra Famous Faluda & Chat : 4.1 : Desserts, Beverages, Ice Cream, Fast Food, Street Food, Shake : ₹200 for two :  Shahgunj, Aurangabad
+Sapna Momos : - : Momos : ₹200 for two :  Shahgunj, Aurangabad
+Slounge - Lemon Tree Hotel : 4.4 : Finger Food, North Indian : ₹2,000 for two :  Lemon Tree Hotel, Chicalthana, Aurangabad
+Dashmesh Restaurant : 4.0 : Chinese, North Indian, Mughlai, Fast Food : ₹500 for two :  CIDCO, Aurangabad
+Chaat Baat : 4.0 : Pizza, Fast Food, Sandwich, Bakery, Sichuan : ₹300 for two :  CIDCO, Aurangabad
+Kakaji's Veg Restaurant : 3.6 : North Indian, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹400 for two :  CIDCO, Aurangabad
+The Hyde-out Cafe : 3.2 : Fast Food, Continental, Rolls, Chinese, North Indian, Beverages, Desserts : ₹400 for two :  Akashwani, Aurangabad
+Tirth Sai Prasad Pure Veg Restaurant : 3.7 : North Indian, Chinese : ₹800 for two :  Mondha, Aurangabad
+Bombay Bistro : 4.3 : Sandwich, Italian, Fast Food, Desserts, Beverages : ₹500 for two :  Akashwani, Aurangabad
+Royal Rasoi - Hotel Grand Kailash : 3.2 : North Indian, Continental : ₹1,000 for two :  CIDCO, Aurangabad
+SNT Tahari House : 4.1 : North Indian, Mughlai, Maharashtrian : ₹300 for two :  Mondha, Aurangabad
+Shawarma Hub : New : Shawarma, North Indian : ₹300 for two :  CIDCO, Aurangabad
+Anand Barf Gola : - : Desserts, Sandwich, Beverages : ₹200 for two :  Sindhi Colony, Aurangabad
+Hotel Modak Pure Veg Restaurant : 4.0 : Chinese, North Indian, South Indian, Fast Food, Kebab, Desserts, Beverages : ₹600 for two :  Mukundwadi, Aurangabad
+Nishant Park : 3.0 : North Indian, Chinese, BBQ, Mughlai, Ice Cream : ₹650 for two :  MIDC, Aurangabad
+Dada Dosa : 3.6 : South Indian : ₹200 for two :  Shahgunj, Aurangabad
+Kale Bandhu Restaurant : 3.4 : North Indian, Maharashtrian, Chinese : ₹400 for two :  Nyay Nagar, Aurangabad
+Gayatri Mewad Hotel : - : Maharashtrian, North Indian, Chinese, Desserts, Ice Cream, Beverages : ₹500 for two :  Usmanpura, Aurangabad
+Suvidha Pure Veg : New : North Indian, South Indian, Chinese : ₹350 for two :  Harsul, Aurangabad
+Indiano Food Junction : New : Chinese, Pizza, Sandwich, Burger, Momos, Fast Food, Shake : ₹300 for two :  Shahgunj, Aurangabad
+Yalla Yalla Express : - : North Indian, Rolls, Chinese, Mughlai, Shawarma, Turkish : ₹500 for two :  Nirala Bazar, Aurangabad
+Bhojan Raaj : - : North Indian, Maharashtrian : ₹450 for two :  Gadia Vihar, Aurangabad
+Hotel Laadli : 3.7 : North Indian, South Indian, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹350 for two :  CIDCO, Aurangabad
+Kef Lounge : 4.5 : North Indian, Chinese, Asian, Biryani, Mughlai, Kebab, Desserts, Sichuan : ₹500 for two :  Usmanpura, Aurangabad
+Burgers Fast Food : New : Burger, Sandwich, Rolls : ₹200 for two :  CIDCO, Aurangabad
+Behind Bar - VITS Hotel : 3.9 : Finger Food, North Indian, Chinese, Continental, Desserts, Beverages : ₹2,200 for two :  VITS Hotel, Vedant Nagar, Aurangabad
+Sai Panchavati Pav Bhaji And Pulav Center : 4.0 : Street Food : ₹250 for two :  Akashwani, Aurangabad
+The Streat Kitchen : New : Pizza, Fast Food : ₹300 for two :  Shahgunj, Aurangabad
+YumWich : 4.1 : Salad, Fast Food, Sandwich, Beverages : ₹300 for two :  Usmanpura, Aurangabad
+Enrise By Sayaji : 3.6 : North Indian, Chinese, Pizza, Desserts, Sandwich, Salad : ₹500 for two :  Harsul, Aurangabad
+New Maratha Hotel : - : South Indian : ₹300 for two :  Gulmandi, Aurangabad
+Mrignayani Restaurant And Bar : 3.5 : North Indian, Chinese, Sichuan : ₹550 for two :  Ulkanagari, Aurangabad
+Beans & Bistro : 4.1 : Coffee, Tea, Fast Food, Desserts, Beverages : ₹600 for two :  Sindhi Colony, Aurangabad
+The Belgian Waffle Co. : - : Waffle, Pancake, Desserts, Shake : ₹350 for two :  Ulkanagari, Aurangabad
+Zalak : 4.2 : Maharashtrian : ₹400 for two :  Nirala Bazar, Aurangabad
+Garbah Bar - Ambassador Ajanta : 4.2 : North Indian, Chinese, Seafood, Shake, Salad, Pasta, Asian, Beverages : ₹1,300 for two :  Ambassador Ajanta, CIDCO, Aurangabad
+Silver Spoon Restaurant : 4.0 : North Indian, Chinese, Mughlai : ₹500 for two :  Shahgunj, Aurangabad
+William John's Pizza : 3.1 : Pizza, Fast Food : ₹450 for two :  Usmanpura, Aurangabad
+The Manor Hotel - Balle Balle : 3.1 : North Indian, Chinese, Continental, Desserts, Beverages : ₹800 for two :  Usmanpura, Aurangabad
+Hotel Jalgaon Bharit Centre : 4.0 : Maharashtrian : ₹350 for two :  CIDCO, Aurangabad
+Hotel Janta Darbar : 4.1 : North Indian, Chinese, Mughlai, Kebab, Biryani, Sichuan : ₹500 for two :  MIDC, Aurangabad
+MH20 : 3.6 : North Indian, Mughlai, Chinese, Biryani, Desserts, Seafood, Maharashtrian, Beverages : ₹1,100 for two :  Gadia Vihar, Aurangabad
+Koyla : 4.0 : Kebab, North Indian : ₹400 for two :  Ulkanagari, Aurangabad
+Balaji South Indian Fast Food : 3.0 : South Indian : ₹200 for two :  Gadia Vihar, Aurangabad
+Sapna Momos : 3.3 : Momos : ₹150 for two :  Usmanpura, Aurangabad
+Tarte Family Restaurant : - : North Indian, Chinese : ₹250 for two :  CIDCO, Aurangabad
+Hotel Maratha : 3.8 : Maharashtrian, North Indian, Chinese : ₹600 for two :  CIDCO, Aurangabad
+Kohinoor Plaza : 4.1 : North Indian, Chinese, Fast Food, Kebab, Biryani : ₹950 for two :  Nirala Bazar, Aurangabad
+New Sagar Restaurant : 3.8 : North Indian, Chinese, South Indian, Biryani, Maharashtrian, Mughlai, Street Food : ₹650 for two :  Shahgunj, Aurangabad
+Saurabh Restaurant : 4.4 : North Indian, Mughlai, Biryani, Kebab, Fast Food : ₹550 for two :  Usmanpura, Aurangabad
+Hotel Ginger : - : North Indian, South Indian, Chinese, Street Food, Fast Food, Desserts, Beverages : ₹900 for two :  Usmanpura, Aurangabad
+Crazy Cheesy Cafe : 3.1 : Pizza : ₹400 for two :  Nirala Bazar, Aurangabad
+Bhalla Chat Centre : 4.2 : Street Food, Mithai : ₹200 for two :  Gulmandi, Aurangabad
+Saani Family Restaurant : New : North Indian, Biryani : ₹500 for two :  Jaswantpura, Aurangabad
+Patil Mama Vadapav Wale : 4.2 : Street Food : ₹250 for two :  Nyay Nagar, Aurangabad
+Sky Touch : 3.3 : North Indian, Chinese : ₹600 for two :  CIDCO, Aurangabad
+Kabab Junction : 3.9 : North Indian, Chinese, Kebab, Biryani, Seafood, Desserts, Mughlai : ₹800 for two :  CIDCO, Aurangabad
+Pulav Assal Swad : 4.0 : North Indian : ₹300 for two :  Sindhi Colony, Aurangabad
+Mannu Fish Restaurant : 3.8 : North Indian, Seafood, Biryani : ₹500 for two :  CIDCO, Aurangabad
+Softy Corner : 4.8 : Ice Cream, Desserts, Beverages : ₹250 for two :  Nirala Bazar, Aurangabad
+Zaitoon Restuarant : - : North Indian, Chinese : ₹1,000 for two :  Shahgunj, Aurangabad
+Gurukrupa Fast Food Center : 4.0 : Street Food, Chinese : ₹250 for two :  Ulkanagari, Aurangabad
+Patiala Peg : 3.6 : North Indian, Chinese, Fast Food, Sichuan : ₹1,000 for two :  Nyay Nagar, Aurangabad
+Sindh Punjab Fine Dine : 4.1 : North Indian, Chinese, Fast Food, Beverages, Biryani : ₹1,000 for two :  MIDC, Aurangabad
+MH 12 Pav Bhaji : 4.1 : Pizza, Sandwich, Fast Food, Shake, Beverages, Street Food : ₹350 for two :  CIDCO, Aurangabad
+Dhanraj Momos Center : 3.8 : Momos : ₹200 for two :  CIDCO, Aurangabad
+Om Tulsi Restaurant : 4.0 : North Indian : ₹400 for two :  Jaswantpura, Aurangabad
+Chopstick Chinese : 3.7 : Chinese, North Indian, Rolls, Sichuan : ₹400 for two :  Usmanpura, Aurangabad
+Hira Pav Bhaji : 4.0 : Street Food : ₹200 for two :  Nirala Bazar, Aurangabad
+Bistro Bar : 4.9 : Chinese, Finger Food : ₹1,500 for two :  Hotel Amarpreet, Mondha, Aurangabad
+Cafe Blush : 3.0 : Fast Food, Pizza, Sandwich, Beverages : ₹350 for two :  CIDCO, Aurangabad
+Mad Over Chicken : 4.5 : Fast Food, Burger, Beverages : ₹350 for two :  Prozone Mall, Chicalthana, Aurangabad
+Khalsa Punjabi Hotel : 3.7 : North Indian, Maharashtrian : ₹350 for two :  Nirala Bazar, Aurangabad
+Cafe Refresho : 3.9 : Cafe, Sandwich, Burger, Fast Food, Chinese, Beverages, Shake : ₹400 for two :  Ulkanagari, Aurangabad
+Aditya Restaurant : 4.0 : North Indian, Biryani, Chinese, Continental, Ice Cream : ₹1,400 for two :  Gadia Vihar, Aurangabad
+Hotel Bagga International : 4.0 : Mughlai, North Indian, Chinese, Continental, Biryani : ₹800 for two :  Hotel Bagga International, Akashwani, Aurangabad
+Hotel Jain Bhoj : 4.3 : North Indian, Chinese, Biryani, Maharashtrian : ₹400 for two :  Harsul, Aurangabad
+Silver Inn : 3.9 : North Indian, South Indian, Chinese, Fast Food, Beverages, Desserts, BBQ, Biryani : ₹800 for two :  Akashwani, Aurangabad
+Red Chilli Executive Family Restaurant : - : BBQ, North Indian, Biryani, Seafood, Mughlai : ₹400 for two :  CIDCO, Aurangabad
+Radhe Pure Veg Restaurant : - : North Indian, Chinese : ₹500 for two :  Sindhi Colony, Aurangabad
+Al Hayat Khaliya House : 3.7 : Chinese, North Indian, Hyderabadi, Mughlai, Biryani : ₹600 for two :  Shahgunj, Aurangabad
+Sagar Restaurant : 3.8 : North Indian, Chinese : ₹300 for two :  Anand Nagar, Aurangabad
+Pride Kitchen Hydrabadi Biryani : 4.2 : North Indian, Mughlai : ₹300 for two :  Usmanpura, Aurangabad
+Chotemiya Kitchen : - : Fast Food, Burger : ₹400 for two :  CIDCO, Aurangabad
+B'Creamy : 3.3 : Ice Cream, Desserts, Beverages, Shake : ₹300 for two :  Nirala Bazar, Aurangabad
+Dinshaw's : 4.0 : Ice Cream, Desserts, Beverages : ₹300 for two :  Nirala Bazar, Aurangabad
+Roza's Cafe : - : Cafe, Pizza, Chinese, Fast Food, Continental, Shake, Beverages : ₹450 for two :  Vedant Nagar, Aurangabad
+Khanna's Mr & Mrs Kulcha : 2.9 : North Indian, Fast Food, Beverages : ₹350 for two :  Ulkanagari, Aurangabad
+Patels Gulshan E Iran Family Restaurant : 4.3 : North Indian, Chinese, Biryani, Mughlai : ₹500 for two :  Jaswantpura, Aurangabad
+New Kailash Pure Veg Restaurant : - : North Indian, Chinese, Street Food : ₹300 for two :  Gadia Vihar, Aurangabad
+New Punjab Hindu Hotel : 3.9 : North Indian, Chinese, Kebab : ₹400 for two :  MIDC, Aurangabad
+Annapurna's 540 West Rest'O'Bar : 3.9 : North Indian, Chinese, Mughlai, Fast Food, Beverages, Sichuan : ₹1,000 for two :  CIDCO, Aurangabad
+Hotel Aurangabad : 3.5 : Biryani, North Indian, Mughlai, Fast Food, Sichuan : ₹400 for two :  Gulmandi, Aurangabad
+Baskin Robbins - Ice Cream Desserts : 3.4 : Ice Cream, Desserts, Beverages : ₹500 for two :  Ulkanagari, Aurangabad
+Istanbul Doner Kabab And Shawarma : 2.9 : Kebab, Fast Food : ₹250 for two :  Shahgunj, Aurangabad
+Jodhpur Chat Bhandar : 3.9 : South Indian, Chinese, North Indian, Street Food : ₹200 for two :  Mondha, Aurangabad
+Coffee N Cuisines : 3.9 : Coffee, Fast Food, Sandwich, Pizza, Chinese, Desserts, Beverages : ₹500 for two :  Nirala Bazar, Aurangabad
+Shawarma King Adil Feel In Saudi : 3.8 : Lebanese : ₹250 for two :  Gulmandi, Aurangabad
+Shail Stock Exchange Bar : 3.3 : Fast Food, Beverages : ₹800 for two :  Usmanpura, Aurangabad
+Hotel Moonlight : 3.7 : North Indian, Chinese : ₹450 for two :  Nirala Bazar, Aurangabad
+Naaz Family Restaurant : 3.8 : North Indian, Chinese, Fast Food, Sichuan : ₹250 for two :  Vedant Nagar, Aurangabad
+Delhi's Rolls Nation : 3.9 : Rolls, Momos, Fast Food : ₹300 for two :  Gadia Vihar, Aurangabad
+Trupti Restaurant : 4.1 : Fast Food, Street Food, North Indian, South Indian, Chinese, Maharashtrian, Shake, Beverages : ₹400 for two :  CIDCO, Aurangabad
+Sukh Sagar : 3.5 : North Indian, Mughlai, Chinese : ₹600 for two :  CIDCO, Aurangabad
+Hotel Ujwal Pure Veg Family Restaurant : 3.7 : North Indian, Chinese, Maharashtrian, Kebab, Beverages : ₹700 for two :  Gadia Vihar, Aurangabad
+Chotemiya Kitchen : - : Shawarma, Burger, Fast Food : ₹400 for two :  Gulmandi, Aurangabad
+Brewburg : 3.1 : Fast Food, Sandwich, Burger, Coffee, Beverages : ₹300 for two :  Usmanpura, Aurangabad
+Shree Gajanan Canteen : 3.8 : Street Food, Fast Food, North Indian : ₹100 for two :  CIDCO, Aurangabad
+Hotel Aroma Executive And Aroma Dinning Hall : 3.9 : North Indian, South Indian, Chinese, Fast Food, Street Food, Beverages, Shake : ₹300 for two :  Nirala Bazar, Aurangabad
+Alankar Restaurant : 4.0 : Mughlai, Chinese, Biryani, North Indian, Fast Food, Desserts, Seafood, Beverages : ₹600 for two :  Nirala Bazar, Aurangabad
+Haldiram's Sweets and Namkeen : - : Mithai, Beverages,  : ₹200 for two :  Usmanpura, Aurangabad
+Hotel Panchavati : 3.5 : Chinese, Maharashtrian, Korean : ₹500 for two :  Usmanpura, Aurangabad
+The D Pizza : New : Pizza : ₹300 for two :  Nyay Nagar, Aurangabad
+Sky Grill Roof Top - Hotel Grand Kailash : 3.8 : North Indian : ₹800 for two :  CIDCO, Aurangabad
+Cafe Coffee Day : 4.4 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹750 for two :  Gadia Vihar, Aurangabad
+Apsara Ice Creams : 3.6 : Ice Cream, Desserts : ₹400 for two :  Akashwani, Aurangabad
+Palkhi Roof Top  Veg Restaurant : 4.0 : North Indian, Chinese : ₹500 for two :  Gadia Vihar, Aurangabad
+Pizza Dominios : 3.1 : Pizza, Fast Food : ₹150 for two :  Mondha, Aurangabad
+Smokin' Joe's : 3.3 : Pizza, Fast Food, Beverages : ₹600 for two :  Nirala Bazar, Aurangabad
+Shanti Poli Bhaji Kendra : 3.9 : North Indian, Maharashtrian : ₹150 for two :  Ulkanagari, Aurangabad
+Gharghuti Kanduri Muton Hand : 3.2 : Maharashtrian, Street Food, North Indian, Biryani : ₹400 for two :  Gadia Vihar, Aurangabad
+Spice Veg Restaurant : 3.7 : Sandwich, Fast Food, South Indian, Street Food, Chinese, North Indian, Maharashtrian, Biryani : ₹400 for two :  Nirala Bazar, Aurangabad
+A S Club : 3.9 : North Indian, South Indian, Chinese, Shake, Fast Food, Sichuan : ₹800 for two :  Waluj, Aurangabad
+Madhur Milan Sweets : 3.9 : Mithai, Street Food : ₹200 for two :  Vedant Nagar, Aurangabad
+Golden Quarter : - : Fast Food, Desserts, Beverages : ₹300 for two :  Usmanpura, Aurangabad
+VIP Maratha : 3.9 : North Indian, Maharashtrian, Mughlai, Biryani : ₹400 for two :  Usmanpura, Aurangabad
+Revelry The Cake House : 3.9 : Bakery : ₹350 for two :  Nirala Bazar, Aurangabad
+Shabri Thalipeeth Center : 3.8 : Maharashtrian : ₹300 for two :  CIDCO, Aurangabad
+Healthy Bites : 4.0 : Salad, Chinese, North Indian, Beverages : ₹600 for two :  Delhi Gate Area, Aurangabad
+A1 Laziz Pizza : 3.8 : Pizza : ₹300 for two :  Shahgunj, Aurangabad
+The Five Elements - The One Hotel : 3.6 : North Indian, South Indian, Chinese, Fast Food, Shake : ₹700 for two :  CIDCO, Aurangabad
+Hotel Palkhi : 3.1 : North Indian, Chinese : ₹500 for two :  CIDCO, Aurangabad
+Krishna Chat House : 4.0 : Street Food : ₹200 for two :  Mondha, Aurangabad
+Urban Shack : 4.3 : Fast Food, Pizza, Sandwich, Desserts, Beverages : ₹400 for two :  Usmanpura, Aurangabad
+Al Baik : 4.4 : Fast Food, Biryani, Burger, Beverages, Sichuan : ₹400 for two :  Nirala Bazar, Aurangabad
+Lokmanya's South Indian Cafe : 3.9 : South Indian, Shake, Beverages : ₹500 for two :  CIDCO, Aurangabad
+Bombay A1 Tawa Spot : 3.5 : North Indian, Chinese, Biryani, Rolls, Fast Food, Lebanese : ₹500 for two :  Shahgunj, Aurangabad
+All New Donatos Pizza : 2.8 : Pizza, Fast Food : ₹300 for two :  Delhi Gate Area, Aurangabad
+Pooja Family Restaurant : 3.4 : North Indian, Chinese, Kebab, Maharashtrian : ₹400 for two :  Nyay Nagar, Aurangabad
+Coffea : New : Cafe, Coffee : ₹500 for two :  CIDCO, Aurangabad
+Crazy Bite : 3.4 : Chinese, North Indian, Street Food, Fast Food, South Indian, Sandwich, Desserts, Beverages : ₹400 for two :  CIDCO, Aurangabad
+Supriya Restaurant & Bar : 4.0 : North Indian, Mughlai, Chinese, Biryani, Fast Food : ₹600 for two :  Nirala Bazar, Aurangabad
+Gharonda Restaurant & Bar : 4.5 : North Indian, Chinese, Street Food, Mughlai, Fast Food, Beverages : ₹700 for two :  Nirala Bazar, Aurangabad
+Cream Stone : 3.8 : Ice Cream, Desserts, Beverages : ₹450 for two :  Gulmandi, Aurangabad
+Shahi Mughal Darbar : 4.1 : North Indian, Biryani : ₹300 for two :  Gulmandi, Aurangabad
+Level Five - The Lounge : - : Continental, Chinese, Pizza, North Indian, Mughlai, Biryani, Desserts : ₹1,100 for two :  CIDCO, Aurangabad
+Ambica Hotspot : 3.9 : Fast Food, Pizza, Sandwich, Burger, Street Food, Beverages : ₹300 for two :  Sindhi Colony, Aurangabad
+Bombay A1 Tawa Spot : 3.0 : Chinese, Biryani, North Indian : ₹300 for two :  Usmanpura, Aurangabad
+Castle Executive Restaurant : 3.7 : North Indian, Mughlai, Seafood, Chinese, Kebab, Ice Cream : ₹1,000 for two :  Akashwani, Aurangabad
+Ira's Curry Leaf Multi Cuisine Restaurant : 2.7 : North Indian, South Indian, Chinese, Seafood : ₹600 for two :  Nirala Bazar, Aurangabad
+Noopur Garden Restaurant : 3.2 : North Indian, Maharashtrian, Chinese, Fast Food, Desserts, Beverages : ₹450 for two :  Usmanpura, Aurangabad
+Renu's Poli Bhaji Kendra : 4.1 : Maharashtrian, North Indian : ₹250 for two :  Vedant Nagar, Aurangabad
+7th Heaven Cakes : - : Bakery : ₹350 for two :  CIDCO, Aurangabad
+Sai Panchavati Restaurant : 3.9 : North Indian, Maharashtrian, Chinese : ₹400 for two :  Akashwani, Aurangabad
+Gianis - Ice Cream, Shakes & Sundaes : - : Ice Cream, Desserts, Shake, Beverages : ₹300 for two :  Usmanpura, Aurangabad
+Non Veg Station : 3.7 : Biryani, Mughlai, South Indian : ₹350 for two :  CIDCO, Aurangabad
+Salt & Pepper Restaurant : 3.3 : Fast Food, Chinese, Beverages, Sichuan : ₹300 for two :  Usmanpura, Aurangabad
+Appa's South Indian & Cafe : 3.5 : South Indian, Ice Cream, Beverages : ₹300 for two :  CIDCO, Aurangabad
+Krishna Mewad Pure Veg : 3.6 : North Indian : ₹200 for two :  Mondha, Aurangabad
+Hindavi Pure Veg Family Restaurant : - : North Indian, South Indian : ₹250 for two :  Gadia Vihar, Aurangabad
+Hotel Sai Prasad : 3.0 : Fast Food, Street Food, South Indian, North Indian : ₹300 for two :  Usmanpura, Aurangabad
+Cafe Royal De : 4.5 : Cafe, Fast Food, Chinese, Beverages, Sandwich, Pizza, Italian, Sichuan : ₹450 for two :  Vedant Nagar, Aurangabad
+Kala Curry Pure Veg : 4.4 : North Indian, Fast Food, Chinese, Desserts, Beverages : ₹600 for two :  CIDCO, Aurangabad
+Lucky Juice Centre : 3.7 : Juices, Beverages : ₹200 for two :  Mondha, Aurangabad
+Hotel Novelty : 4.0 : North Indian, Chinese, Mughlai : ₹350 for two :  MIDC, Aurangabad
+Amul Ice Cream Parlour : - : Ice Cream : ₹300 for two :  Gadia Vihar, Aurangabad
+Bawarchi Dum Biryani & Kabab : 3.9 : Biryani : ₹350 for two :  Nirala Bazar, Aurangabad
+Laziz Pizza : 3.8 : Pizza, Pasta, Burger, Sandwich, Rolls, Fast Food, Street Food, Beverages : ₹450 for two :  Nyay Nagar, Aurangabad
+Golden Quarter : 3.9 : Fast Food, Desserts, Ice Cream, Beverages : ₹300 for two :  CIDCO, Aurangabad
+Tokeo Sky Lounge : - : North Indian, Mughlai, Chinese : ₹1,100 for two :  CIDCO, Aurangabad
+Zalak : 3.3 : Maharashtrian, North Indian, Biryani : ₹850 for two :  Nirala Bazar, Aurangabad
+Nirvana Cafe : 3.4 : Pizza, Sandwich, Burger, Street Food, Fast Food, Chinese, Beverages : ₹500 for two :  Usmanpura, Aurangabad
+Krishna Leela Veg : 3.1 : North Indian, Street Food : ₹350 for two :  Nirala Bazar, Aurangabad
+Kailash Pav Bhaji Centre : - : Street Food, North Indian : ₹300 for two :  CIDCO, Aurangabad
+Yumazing Multi Food Cafe : 4.2 : Chinese, Continental, Shawarma, Momos, Burger, Fast Food, Rolls, Shake : ₹500 for two :  Sindhi Colony, Aurangabad
+Friends Veg Chinese : 3.7 : Chinese, Fast Food, Sichuan : ₹250 for two :  Ulkanagari, Aurangabad
+Lalaji's Veg & Non Veg Family Restaurant : 4.2 : Chinese, North Indian, Maharashtrian, Sichuan, Pizza, Mughlai : ₹400 for two :  Nirala Bazar, Aurangabad
+Hotel Nitin Maratha : 3.9 : North Indian, Biryani : ₹300 for two :  Nyay Nagar, Aurangabad
+Hot Box : 3.9 : North Indian : ₹500 for two :  Chikalthana, Aurangabad
+Aaltitude Sky Lounge And Cafe : - : Chinese, Pizza, Sandwich, North Indian, Street Food, Continental, Desserts, Beverages : ₹500 for two :  Mondha, Aurangabad
+Pokket Cafe : 3.9 : Pizza, Fast Food, Beverages : ₹450 for two :  MIDC, Aurangabad
+Khushi South Indian : - : South Indian : ₹250 for two :  Nyay Nagar, Aurangabad
+Maharastra Hotel : 2.5 : Chinese, North Indian, Kebab : ₹600 for two :  CIDCO, Aurangabad
+New Maratha Restaurant : 4.1 : North Indian, Maharashtrian, Mangalorean : ₹350 for two :  Nirala Bazar, Aurangabad
+Pooja Poli Bhaji Kendra : 3.8 : North Indian : ₹200 for two :  Nyay Nagar, Aurangabad
+Om Sai Bar & Restaurant : 3.9 : North Indian, Mughlai, Malwani, Chinese, Finger Food, Sichuan : ₹700 for two :  Usmanpura, Aurangabad
+Cuba 3 Family Restro Bar : 4.2 : North Indian, Chinese, Seafood, Kebab, Sichuan : ₹1,000 for two :  Akashwani, Aurangabad
+Sawariya Pav Bhaji Center : 3.7 : Street Food : ₹300 for two :  CIDCO, Aurangabad
+Amantran Pure Veg : - : Maharashtrian, North Indian, Chinese, Biryani : ₹1,000 for two :  Ulkanagari, Aurangabad
+Annapurna Mewad Bhoj : 3.8 : North Indian, Maharashtrian : ₹300 for two :  CIDCO, Aurangabad
+Unusual Cafe : 3.5 : Fast Food, Sandwich, Pizza, Chinese, Coffee, Beverages, Desserts, Sichuan : ₹500 for two :  CIDCO, Aurangabad
+Mini Taj Family Restaurant : 3.8 : Chinese, Mughlai, North Indian : ₹800 for two :  Shahgunj, Aurangabad
+Naadkhula Misal Katta : 3.8 : Maharashtrian, Street Food : ₹200 for two :  Ulkanagari, Aurangabad
+Manjiri : 3.6 : South Indian, North Indian, Chinese, Desserts, Beverages : ₹350 for two :  Nirala Bazar, Aurangabad
+Priti Momos & Chinese Food Corner : - : Momos : ₹300 for two :  CIDCO, Aurangabad
+Havmor Ice Cream : - : Ice Cream : ₹200 for two :  CIDCO, Aurangabad
+Ujwal Restaurant & Bar : 4.3 : North Indian, Maharashtrian : ₹600 for two :  Waluj, Aurangabad
+Delite Oven Fresh : 3.9 : Bakery, Fast Food, Chinese, Street Food, North Indian, Desserts : ₹400 for two :  Nirala Bazar, Aurangabad
+Begum's Restaurant : - : North Indian : ₹250 for two :  Delhi Gate Area, Aurangabad
+Hotel Kailash Residency : 3.6 : North Indian, Maharashtrian, Chinese, Street Food, Beverages, Biryani, Desserts : ₹600 for two :  Waluj, Aurangabad
+Lucky Juice Center : 3.4 : Beverages, Pizza : ₹250 for two :  Jaswantpura, Aurangabad
+Balaji South Indian Snacks : - : South Indian : ₹150 for two :  Usmanpura, Aurangabad
+Aaswad Pure Veg : 4.0 : Maharashtrian, North Indian, Fast Food, Chinese, Beverages : ₹350 for two :  Nirala Bazar, Aurangabad
+Zaika Chinese Fast Food : 3.5 : Chinese : ₹300 for two :  Shahgunj, Aurangabad
+Baker's Lounge : 3.3 : Bakery, Desserts : ₹400 for two :  Usmanpura, Aurangabad
+Fresh Juice Centre : 4.1 : Beverages, Shake : ₹250 for two :  Gulmandi, Aurangabad
+Hotel Paradise : 3.9 : North Indian, South Indian, Chinese, Mughlai, Biryani, Ice Cream, Beverages : ₹600 for two :  Nirala Bazar, Aurangabad
+Dalchini Cafe & Resto : 3.6 : North Indian, South Indian, Chinese : ₹350 for two :  Usmanpura, Aurangabad
+Aurangabad Dum Biryani : 3.7 : Biryani : ₹400 for two :  CIDCO, Aurangabad
+Kabab Junction : 4.1 : North Indian, Chinese, Desserts : ₹400 for two :  CIDCO, Aurangabad
+Master Cook : 3.4 : North Indian, Chinese, Sichuan : ₹500 for two :  MIDC, Aurangabad
+Navnath Veg Restaurant : 3.3 : North Indian, Maharashtrian, South Indian, Chinese, Street Food : ₹400 for two :  CIDCO, Aurangabad
+Spicy Chinese Fast Food : 3.7 : Chinese, North Indian, Sichuan : ₹300 for two :  Usmanpura, Aurangabad
+Grills N Wraps : 3.7 : Wraps, Sandwich, Fast Food, Street Food : ₹250 for two :  CIDCO, Aurangabad
+Sai Swayampak Ghar : 3.8 : North Indian, Maharashtrian : ₹200 for two :  Ulkanagari, Aurangabad
+Farmish : 4.1 : Sandwich, Pizza, Shake, Beverages : ₹300 for two :  Ulkanagari, Aurangabad
+Khalsa Punjabi Dhaba : 3.7 : North Indian : ₹450 for two :  MIDC, Aurangabad
+Mad Over Pizza : 3.7 : Pizza, Burger, Fast Food, Sandwich, Rolls, Momos, Beverages, Shake : ₹600 for two :  Usmanpura, Aurangabad
+Kiga Ice Cream : 3.2 : Desserts, Ice Cream, Shake : ₹200 for two :  CIDCO, Aurangabad
+Hotel Shivneri : 3.8 : North Indian, Chinese, Sichuan : ₹350 for two :  Nyay Nagar, Aurangabad
+Cafe Social : 3.9 : Chinese, Italian, Fast Food, Beverages : ₹400 for two :  Ulkanagari, Aurangabad
+Udapi Dosa : 3.3 : Chinese, South Indian, Maharashtrian : ₹400 for two :  CIDCO, Aurangabad
+Spice Tree Family Restaurant : 3.9 : North Indian, Chinese, Sichuan : ₹500 for two :  Nyay Nagar, Aurangabad
+Rudra Food Court : 3.9 : South Indian, Street Food, Fast Food, Sandwich, Chinese, North Indian, Sichuan : ₹350 for two :  Ulkanagari, Aurangabad
+This & That Patisserie & Restaurant : 4.2 : Fast Food, Chinese, Italian, Pizza, Sandwich, Bakery, Desserts, Shake : ₹400 for two :  Nyay Nagar, Aurangabad
+Lucky Ice Cream : 3.7 : Ice Cream, Desserts : ₹200 for two :  CIDCO, Aurangabad
+Tastation : 3.7 : Fast Food, Pizza : ₹350 for two :  CIDCO, Aurangabad
+Indrali Hotel : 3.7 : North Indian, South Indian : ₹500 for two :  Shahgunj, Aurangabad
+Castle Executive : 4.0 : North Indian, Fast Food, Chinese, Seafood : ₹700 for two :  Nyay Nagar, Aurangabad
+Blackstone Cafe & Lounge : - : Shake, Fast Food, Sandwich, Burger, Pizza, Chinese, Beverages, Sichuan : ₹500 for two :  Usmanpura, Aurangabad
+4K's Fast Food : 3.8 : Fast Food, Sandwich, Chinese, Pizza, Beverages, Juices, Sichuan : ₹300 for two :  CIDCO, Aurangabad
+Hotel Uttam Maratha Veg Nonveg Restaurant : 3.9 : North Indian, Maharashtrian : ₹300 for two :  Akashwani, Aurangabad
+Tejas Dum Biryani : 3.9 : North Indian, Chinese, Biryani, Sichuan : ₹450 for two :  Usmanpura, Aurangabad
+Red Chilli Restaurant : 3.9 : Chinese, North Indian, Sichuan : ₹100 for two :  Gulmandi, Aurangabad
+Besseha Kitchen : 4.0 : Kebab, North Indian, Pizza, Burger, Fast Food, Desserts, Beverages : ₹500 for two :  Usmanpura, Aurangabad
+Lucky Sagar : 3.9 : North Indian : ₹350 for two :  Nyay Nagar, Aurangabad
+Dada Dosa : - : South Indian, Beverages : ₹350 for two :  Nyay Nagar, Aurangabad
+Green Hut : 3.4 : North Indian, Street Food, Biryani : ₹300 for two :  Prozone Mall, Chicalthana, Aurangabad
+Green Tahari House : 3.8 : Biryani, North Indian : ₹300 for two :  Shahgunj, Aurangabad
+Sip N' Brew : 3.9 : Fast Food, Beverages, Pizza, Sandwich, Burger, Desserts, Street Food, Sichuan : ₹300 for two :  CIDCO, Aurangabad
+Coffee Shop - VITS : 3.2 : North Indian, Chinese, Kebab, Continental, Shake, Desserts, Beverages : ₹1,200 for two :  VITS Hotel, Vedant Nagar, Aurangabad
+Kranti Chowk Ki Famous Dum Biryani : 3.3 : Biryani : ₹250 for two :  Gadia Vihar, Aurangabad
+Hotel Surya : 4.1 : North Indian, Maharashtrian : ₹600 for two :  CIDCO, Aurangabad
+Raj Mandir Ice Cream : 3.8 : Ice Cream, Desserts : ₹200 for two :  Sindhi Colony, Aurangabad
+Om Veg Restaurant : 3.0 : Maharashtrian, North Indian : ₹250 for two :  CIDCO, Aurangabad
+MTDC Kailasha Restaurant : - : Maharashtrian, Chinese, Beverages, North Indian : ₹500 for two :  Usmanpura, Aurangabad
+Taj Hotel : 3.2 : North Indian, Biryani : ₹300 for two :  MIDC, Aurangabad
+Lassi Shop : - : Shake, Juices, Beverages, Ice Cream, Desserts : ₹250 for two :  CIDCO, Aurangabad
+Hotel Pawan Putra : 4.0 : South Indian, North Indian, Chinese, Fast Food, Shake, Beverages, Ice Cream, Sichuan : ₹500 for two :  Delhi Gate Area, Aurangabad
+The Ghost Kitchen : 3.9 : Fast Food : ₹400 for two :  CIDCO, Aurangabad
+Hotel Shiva Veg & Non Veg : 3.8 : North Indian, Biryani : ₹300 for two :  Mukundwadi, Aurangabad
+King's Fast Food Centre : 3.2 : Street Food, Chinese, Sichuan : ₹300 for two :  Usmanpura, Aurangabad
+Roti And Rassa : 3.9 : North Indian, South Indian, Street Food : ₹200 for two :  Nyay Nagar, Aurangabad
+The Four Seasons : 3.9 : North Indian, Mughlai, European, Chinese : ₹1,500 for two :  Waluj, Aurangabad
+Mauj Restaurant : 4.4 : North Indian, Chinese, Sichuan, Burger, Pizza, Sandwich, Pasta, Wraps : ₹1,000 for two :  CIDCO, Aurangabad
+Hotel Rajput : - : North Indian, Street Food, Chinese, Mughlai : ₹300 for two :  Gulmandi, Aurangabad
+Hotel Natraj : 3.9 : North Indian, Fast Food : ₹400 for two :  CIDCO, Aurangabad
+Dieat Kitchen : 3.3 : Healthy Food : ₹350 for two :  Ulkanagari, Aurangabad
+Raseshwar : 3.6 : North Indian, Street Food : ₹300 for two :  Usmanpura, Aurangabad
+Banjo's The Food Chain : 4.2 : Fast Food, Pizza, Beverages, Shake : ₹250 for two :  CIDCO, Aurangabad
+Bombay Chinese Fast Food Corner : 3.4 : North Indian, Chinese, Sichuan : ₹300 for two :  MIDC, Aurangabad
+Parivar Mithai & Namkin : 3.9 : Mithai, Fast Food, Street Food : ₹350 for two :  Usmanpura, Aurangabad
+Zabees Ismail Family Restaurant : 2.6 : Biryani, North Indian, Mughlai, Hyderabadi, Chinese : ₹500 for two :  Shahgunj, Aurangabad
+Karnal Kabab : 3.7 : North Indian, Chinese : ₹350 for two :  CIDCO, Aurangabad
+Hotel Shivneri : 4.2 : Finger Food, North Indian, Mughlai, Biryani, Maharashtrian, Chinese : ₹800 for two :  CIDCO, Aurangabad
+Padma's Vedaay Pure Veg Restaurant : - : North Indian, South Indian, Kebab, Maharashtrian, Chinese, Desserts, Shake, Beverages : ₹1,000 for two :  Ulkanagari, Aurangabad
+Hotel Venkatesh : 3.8 : Chinese, South Indian, Street Food, Sichuan : ₹250 for two :  Delhi Gate Area, Aurangabad
+New Khalsa Punjabi Hotel : 2.7 : North Indian, Fast Food : ₹250 for two :  Nirala Bazar, Aurangabad
+Sai Bhel : 3.7 : Street Food, Fast Food, Chinese, Sandwich : ₹250 for two :  Nyay Nagar, Aurangabad
+Desi Videshi Cafe : 3.9 : Fast Food, Pizza : ₹300 for two :  Usmanpura, Aurangabad
+Magic Of South : - : South Indian, Ice Cream, Shake, Beverages : ₹350 for two :  Nirala Bazar, Aurangabad
+Marmalade Cafe & Tea Lounge : 3.4 : Cafe : ₹700 for two :  Waluj, Aurangabad
+New Sawaji Maratha Veg & Nonveg : 3.7 : Maharashtrian, North Indian : ₹300 for two :  CIDCO, Aurangabad
+Hotel Kartiki : 3.3 : North Indian, Chinese, Maharashtrian, Mughlai, Beverages : ₹500 for two :  Nirala Bazar, Aurangabad
+The Tulip Multi Cuisine Restaurant : 3.5 : North Indian, Chinese, Fast Food, Desserts, Beverages, Sichuan : ₹600 for two :  Harsul, Aurangabad
+Great Lucky Juice Centre : 3.3 : Beverages, Juices, Shake, Ice Cream : ₹150 for two :  Nirala Bazar, Aurangabad
+Mokoholic Juice Bar : 4.1 : Juices, Desserts, Fast Food, Beverages : ₹400 for two :  Gulmandi, Aurangabad
+Chennai Mazaa Restaurant : 4.4 : South Indian, North Indian : ₹250 for two :  Ulkanagari, Aurangabad
+Fisherman's Den : - : Seafood, Maharashtrian : ₹450 for two :  Nirala Bazar, Aurangabad
+Arihant Cake & Cookies : 3.5 : Bakery : ₹350 for two :  Nirala Bazar, Aurangabad
+Dessert Villa Cafe : 3.9 : Ice Cream, Desserts, Beverages : ₹250 for two :  Nirala Bazar, Aurangabad
+New Savji Maratha Mutton Hotel : - : Maharashtrian : ₹350 for two :  CIDCO, Aurangabad
+Hotel Sher-A-Punjab : 3.9 : North Indian : ₹500 for two :  MIDC, Aurangabad
+Smoken Joy's : 3.5 : Fast Food, Pizza, Lebanese, Wraps, Burger, Sandwich : ₹300 for two :  Akashwani, Aurangabad
+National Hyderabadi Dum Biryani : 3.3 : Biryani, Desserts : ₹250 for two :  Shahgunj, Aurangabad
+Hotel New Savera : 4.1 : North Indian, Biryani, Mughlai : ₹250 for two :  MIDC, Aurangabad
+Maratha Palace Family Restaurant : 3.9 : North Indian, Mughlai : ₹300 for two :  Akashwani, Aurangabad
+Madhur Mewar : 3.5 : North Indian, South Indian, Chinese : ₹300 for two :  Nirala Bazar, Aurangabad
+Sai Chinese Fast Food : 3.2 : Chinese, Fast Food, Sichuan : ₹300 for two :  Akashwani, Aurangabad
+The Gossip Mill : 4.0 : Pizza, Burger, Fast Food, Desserts, Beverages, Sichuan : ₹400 for two :  CIDCO, Aurangabad
+Biryani Nation : 3.9 : North Indian, Chinese, Biryani : ₹400 for two :  Mondha, Aurangabad
+Shree Sandwich : - : Sandwich, Street Food, Chinese, Fast Food : ₹150 for two :  CIDCO, Aurangabad
+Hotel Swagat Maratha : 3.9 : North Indian, Maharashtrian : ₹550 for two :  Shahgunj, Aurangabad
+New Adarsh Hotel : 3.9 : Fast Food, North Indian, Chinese, Burger, Sandwich : ₹200 for two :  Delhi Gate Area, Aurangabad
+Khalsa Dam Biryani Hotel : 2.6 : Maharashtrian, North Indian : ₹650 for two :  Nirala Bazar, Aurangabad
+Manmandir Pure Veg : 3.6 : North Indian, Maharashtrian, Fast Food, Chinese, Street Food, South Indian, Desserts, Beverages : ₹300 for two :  Usmanpura, Aurangabad
+Singh Veg And Non Veg Restaurant : 3.8 : North Indian : ₹250 for two :  Usmanpura, Aurangabad
+China Town : 3.3 : Chinese, North Indian, Shake, Sichuan : ₹800 for two :  Hotel Amarpreet, Mondha, Aurangabad
+Friends Chinese Fast Food Center : 3.9 : North Indian, Chinese, Sichuan : ₹300 for two :  MIDC, Aurangabad
+Hotel Atharwa : 4.4 : Chinese, North Indian : ₹1,000 for two :  CIDCO, Aurangabad
+Roti N Rassa : 3.6 : Maharashtrian, North Indian : ₹300 for two :  Nyay Nagar, Aurangabad
+Shri Bherunath Mix Ice Cream : 3.5 : Ice Cream, Desserts, Beverages : ₹100 for two :  Akashwani, Aurangabad
+Kothimbir Chicken Biryani : - : Biryani, Chinese, Desserts : ₹450 for two :  CIDCO, Aurangabad
+Hotel Rajwardhan : 3.9 : North Indian, Chinese : ₹300 for two :  CIDCO, Aurangabad
+Vrindavan Pure Veg : 3.4 : North Indian, Chinese, South Indian : ₹450 for two :  Nirala Bazar, Aurangabad
+Cafe Marvel : 3.8 : Chinese, Fast Food, Beverages, Desserts : ₹300 for two :  CIDCO, Aurangabad
+Green Chillies Family Restaurant : 3.6 : North Indian, Chinese, Fast Food : ₹300 for two :  Anand Nagar, Aurangabad
+Biryaniwala : - : Biryani, North Indian, Seafood, Kebab : ₹400 for two :  CIDCO, Aurangabad
+Sai Restaurant : 3.9 : Chinese, South Indian, North Indian : ₹400 for two :  Mondha, Aurangabad
+Swamini Shahi Thali : - : Rajasthani, Gujarati, North Indian : ₹300 for two :  Ulkanagari, Aurangabad
+Pet Pooja : 3.2 : North Indian, Fast Food, Street Food : ₹200 for two :  Gulmandi, Aurangabad
+Sara Veg Non Veg Hotel : 3.6 : North Indian, Mughlai, Maharashtrian : ₹350 for two :  CIDCO, Aurangabad
+Al-Baik Restaurant : 3.9 : Fast Food, Beverages, Shake : ₹300 for two :  Anand Nagar, Aurangabad
+Mayuri Restaurant & Bar : 3.9 : North Indian, Chinese : ₹500 for two :  Harsul, Aurangabad
+Sai Naivedya Pure Veg Restaurant : 3.5 : North Indian, Chinese, Beverages : ₹300 for two :  Mondha, Aurangabad
+Havmor Ice Cream : - : Ice Cream : ₹200 for two :  Harsul, Aurangabad
+Dada Dosa : - : South Indian, Shake : ₹400 for two :  Nirala Bazar, Aurangabad
+Sai Prasad Veg Restaurant : - : North Indian, Chinese, Fast Food : ₹350 for two :  CIDCO, Aurangabad
+Daji's Kitchen : 3.7 : Maharashtrian, Biryani, Chinese, Mughlai, North Indian, Kebab, Sichuan : ₹800 for two :  CIDCO, Aurangabad
+Hotel Peshwa Park : 3.5 : North Indian, Mughlai, Chinese, Maharashtrian, Roast Chicken, Sichuan : ₹700 for two :  Ulkanagari, Aurangabad
+50-50's Veg Town Chinese Center : - : Chinese : ₹350 for two :  CIDCO, Aurangabad
+Raviraj Veg & Non-Veg Restaurant : 3.9 : North Indian : ₹700 for two :  Delhi Gate Area, Aurangabad
+Bombay Chat Bhandar : - : Fast Food, Street Food, Desserts, Beverages : ₹200 for two :  Shahgunj, Aurangabad
+Mathura Laasi : 3.5 : Beverages : ₹100 for two :  Shahgunj, Aurangabad
+Hotel Yashraj : 3.9 : North Indian, Mughlai, Chinese, Biryani : ₹500 for two :  Usmanpura, Aurangabad
+Pushkaraj Fast Food : 3.5 : Street Food : ₹250 for two :  Ulkanagari, Aurangabad
+Yours Cafe Shradda Restaurant : 3.9 : Italian, North Indian, Fast Food, Finger Food, Chinese, Mughlai, Desserts, Beverages : ₹600 for two :  CIDCO, Aurangabad
+Dosa Plaza : 3.0 : South Indian, Street Food, Chinese, Beverages, Sichuan : ₹400 for two :  Prozone Mall, Chicalthana, Aurangabad
+Varhadi Maratha Restaurant : 3.9 : Maharashtrian, North Indian, Chinese : ₹300 for two :  Usmanpura, Aurangabad
+Dopa Bean : - : Beverages, Coffee : ₹250 for two :  CIDCO, Aurangabad
+Aurangabad Bowl Company 2 : - : North Indian : ₹400 for two :  Gadia Vihar, Aurangabad
+Shalimar Pizza : 3.1 : Fast Food, Lebanese, Pizza, Burger, Wraps, Street Food : ₹400 for two :  CIDCO, Aurangabad
+Chaap Bites : - : Fast Food : ₹250 for two :  Nirala Bazar, Aurangabad
+Feelme Rest O Cafe : 4.1 : Cafe, Chinese, Shake : ₹400 for two :  MIDC, Aurangabad
+Ahmy’s Turkish Pizzeria : - : Pizza, Sandwich, Fast Food : ₹350 for two :  Delhi Gate Area, Aurangabad
+Sapna Chinese Corner : 3.8 : Chinese, Rolls : ₹400 for two :  Nyay Nagar, Aurangabad
+Naturezz : 3.4 : Ice Cream, Beverages : ₹300 for two :  Usmanpura, Aurangabad
+Tejas Kitchen Pure Veg : 3.9 : North Indian, Chinese, Fast Food, Beverages : ₹400 for two :  Usmanpura, Aurangabad
+Fill & Chill : 3.4 : North Indian, Chinese, Continental, Fast Food, Pasta, Japanese, Mughlai, Seafood : ₹500 for two :  Hotel Green Olive, Nirala Bazar, Aurangabad
+Take Away : 3.2 : Chinese : ₹200 for two :  Ulkanagari, Aurangabad
+Indian Tawa Spot : 3.7 : Chinese, North Indian, Mughlai, Biryani, Sichuan : ₹400 for two :  Usmanpura, Aurangabad
+McDonald's : 3.7 : Burger, Fast Food, Cafe : ₹400 for two :  Mukundwadi, Aurangabad
+The Leaf : 3.9 : Maharashtrian, North Indian, Desserts, Salad, Beverages, Chinese : ₹400 for two :  Chikalthana, Aurangabad
+Hotel Mrignayani : 3.8 : North Indian, Chinese, Seafood, Beverages, Desserts, Shake, Mughlai, Kebab : ₹600 for two :  Waluj, Aurangabad
+Hotel Jagdamba : - : North Indian, Maharashtrian : ₹350 for two :  Waluj, Aurangabad
+Naivedya Thali Restaurant : 4.0 : North Indian : ₹450 for two :  Waluj, Aurangabad
+Hotel Yogesh Nisarg Family Restaurant & Bar : - : Chinese, Kebab, Maharashtrian, Mughlai, Seafood, Sichuan : ₹400 for two :  Chikalthana, Aurangabad
+Monginis : - : Bakery, Street Food, Desserts : ₹500 for two :  Waluj, Aurangabad
+Hotel Sairam & Sweet Mart : - : South Indian : ₹100 for two :  Chikalthana, Aurangabad
+Rajyog Rajasthani Restaurant : 3.3 : North Indian : ₹250 for two :  Waluj, Aurangabad
+Hotel Maratha : 3.6 : North Indian, Biryani, Maharashtrian : ₹550 for two :  Waluj, Aurangabad
+Fauji Dhaba : 3.4 : North Indian : ₹800 for two :  CIDCO, Aurangabad
+Bikaneer Mithaiwala : 3.7 : Mithai, Desserts : ₹200 for two :  Waluj, Aurangabad
+Aditya Garden Restaurant : 4.9 : North Indian, Chinese, Mughlai, Biryani, Sichuan : ₹750 for two :  Waluj, Aurangabad
+Kailash Family Restaurant : 3.0 : North Indian, Chinese, Fast Food : ₹450 for two :  Waluj, Aurangabad
+Hotel Vrundawan Garden : 3.8 : Chinese, North Indian, Kebab, Biryani, Seafood, Fast Food, Ice Cream, Beverages : ₹1,000 for two :  Waluj, Aurangabad
+Treat : 3.6 : North Indian, Chinese, Mughlai, Fast Food, Continental : ₹700 for two :  Waluj, Aurangabad
+Hotel New Abhijeet - Kale Brother's Parbhanikar : 3.9 : North Indian, Chinese, South Indian, Desserts, Beverages : ₹600 for two :  Chikalthana, Aurangabad
+New Ludhiyana Dhaba : 3.7 : North Indian, Maharashtrian, Chinese, Fast Food, Beverages : ₹400 for two :  Waluj, Aurangabad
+Shri Malhar Hotels : 3.3 : North Indian, South Indian, Chinese : ₹500 for two :  Waluj, Aurangabad
+Shelke Mama Dhaba  Hotel Restuarent & Family Garden : 3.7 : North Indian, Maharashtrian, Kebab, Mughlai : ₹550 for two :  Waluj, Aurangabad
+Cafe Mark 30 : 3.5 : Sandwich, Pizza, Fast Food, Beverages, Shake, Desserts : ₹300 for two :  Waluj, Aurangabad
+Jai Bhawani Family Restaurant : 4.0 : North Indian, Maharashtrian : ₹300 for two :  Waluj, Aurangabad
+New Vrundavan Restaurant : 3.8 : North Indian, Chinese, Kebab, Biryani, Maharashtrian, Mughlai, Beverages : ₹800 for two :  Waluj, Aurangabad
+Cafe Madhushaala : 4.2 : Cafe, Sandwich, Pizza, Fast Food, Beverages, Shake : ₹300 for two :  Waluj, Aurangabad
+Bharkadevi Ice Cream : 3.8 : Ice Cream, Desserts, Beverages : ₹150 for two :  Waluj, Aurangabad
+Smiley Bakers : 3.8 : Bakery, Desserts, Fast Food : ₹250 for two :  Waluj, Aurangabad
+Shivam Family Restaurant : 4.0 : Maharashtrian, Chinese : ₹700 for two :  Waluj, Aurangabad
+Shivam Family Restaurant : 4.0 : Maharashtrian, Chinese : ₹700 for two :  Waluj, Aurangabad
+McCafe By McDonald's : - : Cafe, Coffee, Shake, Fast Food : ₹500 for two :  Chikalthana, Aurangabad
+UR'S Pizza : 3.3 : Pizza, Fast Food : ₹450 for two :  Waluj, Aurangabad
+Tuljai Veg Family Restaurant : 4.0 : North Indian, Maharashtrian, Chinese, Kebab : ₹1,000 for two :  Waluj, Aurangabad
+Jai Bhawani Parcel Hotel : 4.0 : North Indian, Maharashtrian : ₹300 for two :  Waluj, Aurangabad
+Hotel Dream Line : 3.7 : North Indian, Mughlai, Chinese : ₹600 for two :  Waluj, Aurangabad
+Hotel Kas : 3.4 : Maharashtrian, North Indian, Chinese, Fast Food : ₹450 for two :  Waluj, Aurangabad
+Shivneri Hotel : 3.8 : North Indian, Mughlai, Beverages : ₹700 for two :  Chikalthana, Aurangabad
+Hotel Shri Sai Lakshy Indian Chinese : 3.2 : North Indian, Chinese, Sichuan : ₹250 for two :  Waluj, Aurangabad
+Cafe Black Crystal : 3.8 : Coffee, Pizza, Sandwich, Pasta, Fast Food, Shake, Beverages : ₹400 for two :  Waluj, Aurangabad
+Jai Bhawani Dhaba : 3.9 : Maharashtrian : ₹200 for two :  Waluj, Aurangabad
+Sharveen Classic Inn : 3.5 : North Indian, South Indian, Chinese, Shake : ₹650 for two :  Waluj, Aurangabad

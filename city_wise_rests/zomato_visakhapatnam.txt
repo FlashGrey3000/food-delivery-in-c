@@ -1,0 +1,168 @@
+Bakasuru : 4.1 : South Indian, Biryani : ₹300 for two :  Marripalem, Vizag
+Uma Parlour : 4.1 : South Indian : ₹200 for two :  Gajuwaka, Vizag
+Alif Family Restaurant : - : Chinese, North Indian, Mughlai, Biryani, Beverages : ₹500 for two :  Gajuwaka, Vizag
+Red Cherry Bakers & Restaurant : 4.1 : North Indian, South Indian, Chinese, Biryani, Pizza, Fast Food, Beverages, Bakery : ₹1,000 for two :  Gajuwaka, Vizag
+Cygnett Lite Ramachandra : 4.3 : North Indian, Chinese, Biryani, Fast Food, Sichuan : ₹500 for two :  Kurmannapalem, Vizag
+Best Western Ramachandra : 4.1 : South Indian, North Indian : ₹800 for two :  Gajuwaka, Vizag
+Food Nation : 3.9 : Fast Food, Pizza, Burger, Sandwich : ₹400 for two :  Gajuwaka, Vizag
+Red Chillies Food Court : 4.0 : North Indian, Chinese, Sichuan : ₹350 for two :  Gajuwaka, Vizag
+Hotel Prabha Veg Restaurant : 3.1 : South Indian, Chinese : ₹200 for two :  Nad Junction, Vizag
+Cake Walk Bakery : - : Bakery, Desserts, Chinese, Fast Food : ₹350 for two :  Gopalapatnam, Vizag
+Raju Gari Biryani : 4.1 : Biryani, North Indian : ₹300 for two :  Gajuwaka, Vizag
+Navyuga Food Parcels : 3.9 : Biryani, South Indian, Chinese, Andhra : ₹400 for two :  Gajuwaka, Vizag
+Barkaas Indo - Arabic Restaurant : 4.0 : Arabian, Mandi, North Indian, Mughlai, Kebab, Shawarma, BBQ, Desserts : ₹1,000 for two :  Gajuwaka, Vizag
+Hotel Grand Alpha : 3.1 : North Indian, Biryani, Kebab, Chinese : ₹500 for two :  Gajuwaka, Vizag
+Real Deepak Punjabi Dhaba : 4.2 : North Indian, Chinese, Kebab, Mughlai, Seafood, Biryani, Rolls : ₹1,000 for two :  Nad Junction, Vizag
+Zoop Cafe : 3.8 : Burger, Pizza, Fast Food, Street Food, Shake, Tea, Beverages : ₹300 for two :  Gajuwaka, Vizag
+Ginger Bowl Restaurant : 4.1 : Chinese, Biryani : ₹500 for two :  Gajuwaka, Vizag
+DFC - Delicious Fried Chicken : 4.2 : Fast Food, Pizza, Burger, Sandwich, Wraps : ₹300 for two :  Nad Junction, Vizag
+Waltair Brew House : 3.9 : Coffee, Beverages : ₹200 for two :  Nad Junction, Vizag
+F3 Family Friends Food Point : - : South Indian : ₹300 for two :  Nad Junction, Vizag
+Alishan : 3.9 : Biryani, Street Food : ₹300 for two :  Gajuwaka, Vizag
+The Thick Jar : 3.9 : Beverages, Shake : ₹350 for two :  Duvvada, Vizag
+Burger King : 3.1 : Burger, Fast Food : ₹350 for two :  Gajuwaka, Vizag
+Suren Pastries : 3.9 : Desserts : ₹300 for two :  Kurmannapalem, Vizag
+Viyyalavaari Vindu : - : South Indian, North Indian, Mughlai, Chinese, Sichuan, Seafood, Kebab, Biryani : ₹500 for two :  Gajuwaka, Vizag
+Signature Hotels : - : North Indian, South Indian, Chinese, Oriental, Fast Food, Biryani, Desserts, Beverages : ₹1,000 for two :  Nathayyapalem, Vizag
+The Mandi Croods : 4.5 : Biryani, Arabian, Lebanese, Mandi : ₹500 for two :  Gajuwaka, Vizag
+Chickpet Donne Biryani House : - : Biryani, Andhra, Chinese : ₹550 for two :  Gajuwaka, Vizag
+Aaswad Lunch & Dinner : New : South Indian, North Indian, Chinese, Biryani, Kebab, Salad, Desserts, Beverages : ₹1,200 for two :  Kurmannapalem, Vizag
+Creme Shakes : - : Desserts, Waffle, Ice Cream, Shake, Beverages : ₹300 for two :  Nad Junction, Vizag
+Grand Alphaa RK Restaurants : - : Biryani : ₹500 for two :  Nad Junction, Vizag
+Arabian Spicers : 4.2 : Arabian, Andhra, Fast Food, Desserts, Beverages : ₹500 for two :  Gajuwaka, Vizag
+Nandini Srinivasa Parlour : 3.7 : South Indian, North Indian, Chinese : ₹350 for two :  Nad Junction, Vizag
+Pastry Chef : 3.7 : Bakery, Desserts, Chinese, Pizza, Sandwich, Fast Food, Sichuan, Beverages : ₹400 for two :  Nad Junction, Vizag
+Sairam Parlour : - : South Indian, North Indian, Fast Food : ₹150 for two :  Kurmannapalem, Vizag
+Deccan Fried Chicken : 3.9 : Fast Food, Burger, Pizza, Beverages : ₹500 for two :  Gajuwaka, Vizag
+Happy Bakery : 3.7 : Bakery, Street Food, Shake, Juices : ₹200 for two :  Gajuwaka, Vizag
+Shawarminos : 4.1 : North Indian, Chinese, Biryani, Kebab : ₹500 for two :  Kurmannapalem, Vizag
+Biryani Box : 4.0 : Biryani, North Indian, Chinese, Mughlai : ₹500 for two :  Gopalapatnam, Vizag
+SKML Mess & Dhaba : 4.1 : Biryani, North Indian, Andhra : ₹400 for two :  Nathayyapalem, Vizag
+Sharma Bhojanalay : 3.7 : North Indian, Chinese : ₹300 for two :  Sriharipuram, Vizag
+Aadaab Restaurant : 4.0 : Chinese, North Indian : ₹500 for two :  Nad Junction, Vizag
+Ramachandra Parlour : 4.0 : South Indian : ₹200 for two :  Gajuwaka, Vizag
+Seven Spices : - : Biryani, Chinese, North Indian, Fast Food, Sichuan : ₹700 for two :  Nad Junction, Vizag
+Jalapenos Food Court : 3.9 : Biryani, Chinese, Street Food, Fast Food, Desserts, Beverages : ₹500 for two :  Sriharipuram, Vizag
+Mana Gajuwaka Ruchulu : 4.0 : North Indian, Chinese, Biryani : ₹250 for two :  Gajuwaka, Vizag
+Royal Mandi : 3.8 : Mandi, North Indian, Seafood, Mughlai, Chinese, Biryani : ₹900 for two :  Kurmannapalem, Vizag
+Inbox Multi Cuisine Restaurant : 3.7 : Biryani, Chinese, North Indian, Seafood : ₹600 for two :  Gajuwaka, Vizag
+Invas Multicuisine Restaurant : 3.8 : Andhra, North Indian, Biryani, Desserts, Shake, Beverages : ₹1,000 for two :  Gajuwaka, Vizag
+Chennupati Tiffins : 3.2 : South Indian : ₹100 for two :  Gajuwaka, Vizag
+Rasoi : 3.9 : Biryani, Chinese, North Indian, Mughlai, Seafood, Ice Cream : ₹700 for two :  Nad Junction, Vizag
+New Punjabi Dhaba : 3.8 : North Indian, Biryani, Chinese, Fast Food : ₹500 for two :  Duvvada, Vizag
+7th Heaven Bakery : 3.9 : Bakery, Desserts, Fast Food : ₹350 for two :  Gajuwaka, Vizag
+Dwaraka Family Restaurant : 3.9 : Chinese, Biryani, Mughlai, North Indian, Ice Cream, Beverages : ₹400 for two :  Gajuwaka, Vizag
+The Cake N Bake : 3.9 : Fast Food, North Indian, Mughlai, Biryani, Beverages : ₹350 for two :  Gajuwaka, Vizag
+Bob's Cafe : 3.6 : South Indian, Chinese, Biryani, Fast Food : ₹300 for two :  Gajuwaka, Vizag
+Crispy's Fried Chicken : 3.6 : Fast Food, Burger, Beverages : ₹500 for two :  Nad Junction, Vizag
+Hotel Golden Alfa : - : Biryani : ₹500 for two :  Nad Junction, Vizag
+The Food Junction : 3.6 : Chinese, Fast Food, Rolls, Street Food : ₹300 for two :  Marripalem, Vizag
+Jalapenos : 3.8 : Italian, North Indian, Chinese, Fast Food, Kebab, Rolls, Desserts, Beverages : ₹800 for two :  Sriharipuram, Vizag
+Sizzlly Chicken : 2.4 : Fast Food, Street Food, Sandwich, Desserts, Beverages : ₹250 for two :  Kurmannapalem, Vizag
+Sahaja - Hotel Green Apple : 3.4 : South Indian, North Indian, Chinese, Biryani, Fast Food, Desserts, Beverages : ₹900 for two :  Gajuwaka, Vizag
+Kolkata Rolls : 3.2 : Fast Food, Rolls, Sichuan, Chinese : ₹200 for two :  Gajuwaka, Vizag
+Nissi Restaurant : 3.8 : North Indian, Chinese, Biryani, Mughlai : ₹500 for two :  Gajuwaka, Vizag
+Kadiyapatnam Military Hotel : 4.3 : South Indian, North Indian, Biryani, Mughlai, Chinese : ₹700 for two :  Nad Junction, Vizag
+Tsangpo Indian & Chinese Restaurant : 3.1 : Chinese, North Indian, Biryani : ₹400 for two :  Gopalapatnam, Vizag
+AB's - Absolute Barbecues : 4.1 : Biryani, BBQ, Kebab, North Indian, Desserts : ₹1,650 for two :  Dwaraka Nagar, Vizag
+The Shack - The Park : 3.2 : Moroccan, Oriental, Desserts : ₹1,500 for two :  The Park, Lawsons Bay, Vizag
+Zodiac - Fortune Inn Sree Kanya : 4.2 : Continental, North Indian, Chinese, South Indian, Oriental, Biryani, Desserts, Beverages : ₹1,100 for two :  Fortune Inn Sree Kanya, Dwarka Nagar , Vizag
+New Ram Sai Parlour & Restaurant : 4.3 : South Indian, Chinese, Biryani : ₹500 for two :  Pendurthi, Vizag
+The Square - Hotel Novotel : 3.8 : Continental, North Indian : ₹3,000 for two :  Hotel Novotel, Maharani Peta, Vizag
+Barbeque Nation : 3.9 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,600 for two :  Siripuram, Vizag
+V Hotel Olive : 4.1 : South Indian, North Indian, Chinese, Thai, Seafood, Biryani, Desserts, Beverages : ₹1,300 for two :  Dwaraka Nagar, Vizag
+Zaffran - Hotel Novotel : 3.7 : North Indian, Mughlai, Biryani, Desserts, Beverages : ₹3,000 for two :  Hotel Novotel, Maharani Peta, Vizag
+Ironhill Brewery : 4.3 : North Indian, Asian, Italian, South Indian, Fast Food, Salad, Desserts : ₹1,400 for two :  Siripuram, Vizag
+365 All Day Dining Restaurant By Radisson Blu : 4.5 : Continental, North Indian, Asian, South Indian, Italian, Biryani, Desserts, Beverages : ₹3,000 for two :  Radisson Sagar Nagar, Vizag
+The Eatery - Four Points By Sheraton : 3.9 : North Indian, Chinese, Mexican, Continental, Biryani, Fast Food, Desserts, Beverages : ₹2,500 for two :  Four Points By Sheraton, Waltair Uplands, Vizag
+Zamindari - Royal South Cuisine : 3.5 : South Indian : ₹1,000 for two :  Maharani Peta, Vizag
+Somaa Restobar : 3.5 : Andhra, Biryani, Chinese, Continental, North Indian, Beverages : ₹1,200 for two :  Asilmetta, Vizag
+Kava - Fairfield By Marriott : 4.1 : Continental, North Indian, Oriental, Andhra, Desserts : ₹1,500 for two :  Fairfield by Marriott Visakhapatnam, Vizag
+Upland Bistro : 4.1 : Continental, Mediterranean, Mexican, Italian, French, Desserts, Beverages, Pizza : ₹1,200 for two :  Waltair Uplands, Vizag
+Cosmic House : 4.4 : Biryani, Continental, North Indian, Beverages : ₹1,000 for two :  Siripuram, Vizag
+Taco Bell : 4.4 : Mexican : ₹500 for two :  Dwaraka Nagar, Vizag
+The Spicy Venue : 4.3 : Biryani, North Indian : ₹500 for two :  Siripuram, Vizag
+S Kota's Hotel Muntaj : 4.3 : North Indian, Chinese, Biryani : ₹500 for two :  Venkojipalem, Vizag
+Infinity - Hotel Novotel : 4.1 : North Indian, Continental, BBQ, Desserts, Beverages : ₹3,900 for two :  Hotel Novotel, Maharani Peta, Vizag
+Ethnic By Radisson Blu : 3.9 : South Indian, Desserts : ₹2,500 for two :  Radisson Sagar Nagar, Vizag
+Myz-Uno Brew Pub : 4.4 : North Indian, South Indian, Andhra, Continental : ₹2,300 for two :  Siripuram, Vizag
+Platform 65 : 4.1 : South Indian, North Indian, Chinese, Biryani, Sichuan, Desserts, Beverages : ₹1,700 for two :  Waltair Uplands, Vizag
+Aqua - The Park : 4.6 : Italian : ₹1,500 for two :  The Park, Lawsons Bay, Vizag
+Flying Spaghetti Monster : 3.9 : Italian, Mexican, Desserts, Beverages : ₹1,400 for two :  Waltair Uplands, Vizag
+Subbaiah Gari Hotel : 3.9 : Andhra : ₹600 for two :  Dondaparithy, Vizag
+Sri Kitchen's : 4.3 : South Indian : ₹300 for two :  Madhurawada, Vizag
+Sam's Griddle : 3.4 : North Indian, Mexican, Italian, Continental, Asian, Biryani : ₹1,000 for two :  Siripuram, Vizag
+KFC : 4.3 : Burger, Fast Food, Rolls : ₹450 for two :  Madhurawada, Vizag
+Upper Deck By Radisson Blu : 4.2 : Bar Food, Continental, Oriental, North Indian, Beverages : ₹3,000 for two :  Radisson Sagar Nagar, Vizag
+Harbour Vue - Hotel Novotel : 4.9 : Bar Food, North Indian, Seafood, Beverages : ₹2,400 for two :  Hotel Novotel, Maharani Peta, Vizag
+R&G - Hotel GreenPark : 3.9 : North Indian, Chinese, Continental, South Indian, Japanese, Kebab, Desserts : ₹1,500 for two :  Hotel GreenPark, Vizag, Vizag
+Qubaa : 4.2 : Bar Food, Biryani, Fast Food, Chinese, Beverages : ₹600 for two :  East Point Colony, Vizag
+Pizza Hut : 4.7 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  MVP Colony, Vizag
+Vista - The Park : 4.1 : American, North Indian, Thai, Continental, Desserts : ₹2,000 for two :  The Park, Lawsons Bay, Vizag
+Amritsar Haveli : 3.4 : North Indian, Chinese, Desserts, Beverages : ₹1,200 for two :  Ram Nagar, Vizag
+Bake N Break Bakery : 3.9 : Bakery : ₹350 for two :  MVP Colony, Vizag
+Best Western Plus Tejvivaan : 3.3 : North Indian, Andhra, Continental, Oriental, Biryani, Desserts : ₹800 for two :  Dondaparithy, Vizag
+Brew 'n' Bistro : 3.9 : Cafe, Continental, Coffee, Italian, Desserts, Beverages : ₹800 for two :  Lawsons Bay, Vizag
+Chutneys Diamond Park : 4.2 : South Indian, North Indian, Chinese, Biryani, Desserts, Beverages : ₹500 for two :  Dwaraka Nagar, Vizag
+Masalah Mafia - Palm Beach Hotel : 4.5 : Chinese, North Indian, Continental : ₹1,500 for two :  Palm Beach Hotel, Vizag
+Dolphin Hotel : - : Chinese, North Indian, Biryani : ₹900 for two :  Dolphin Hotel, Jagadamba Junction , Vizag
+House Of Spice : 3.9 : South Indian, Biryani : ₹500 for two :  MVP Colony, Vizag
+Tulips - Hotel Green Park : 3.6 : North Indian, Chinese, South Indian, Continental : ₹1,000 for two :  Hotel GreenPark, Vizag, Vizag
+Rushi Valley Restaurant : 3.2 : North Indian, Chinese, Biryani : ₹500 for two :  Rushikonda, Vizag
+Mantris Hotel : 3.9 : South Indian, North Indian, Chinese, Continental, Salad, Biryani, Desserts, Beverages : ₹1,200 for two :  Asilmetta, Vizag
+Bot 9 Ai Themed Restaurant : 4.2 : North Indian, Chinese, Italian, Kebab, Seafood, Momos, Salad, Beverages : ₹1,500 for two :  Madhurawada, Vizag
+Horizon Multi Cuisine Restaurant : 3.9 : North Indian, Chinese, Italian, Biryani, Mughlai, Seafood, Beverages, Desserts : ₹1,800 for two :  Dolphin Hotel, Jagadamba Junction , Vizag
+Sea Inn - Raju Gaari Dhaba : 3.7 : Andhra, Biryani : ₹450 for two :  Rushikonda, Vizag
+Zest By Radisson Blu : 3.9 : Bakery, Panini, Fast Food : ₹750 for two :  Radisson Sagar Nagar, Vizag
+Invitation 365 : 4.3 : North Indian, Mughlai, Seafood, Chinese, Biryani, Fast Food, Desserts, Beverages : ₹1,200 for two :  Siripuram, Vizag
+Zeeshan Restaurant - Apna Hyderabadi Food : - : Biryani, North Indian, Mughlai, Chinese, Kebab, Juices, Shake, Beverages : ₹900 for two :  Jagadamba Junction, Vizag
+Tholiprema : 4.2 : North Indian, Mughlai, Biryani, Chinese, Seafood, Kebab, Beverages : ₹1,300 for two :  Madhurawada, Vizag
+Kamat Restaurant : 4.1 : Andhra, North Indian, Chinese, Biryani, Seafood, Beverages, Desserts : ₹800 for two :  Lawsons Bay, Vizag
+Godavari : 4.1 : Andhra, Biryani : ₹700 for two :  Lawsons Bay, Vizag
+Delta Spice : 3.1 : South Indian, North Indian, Chinese, Biryani, Seafood : ₹400 for two :  Allipuram, Vizag
+Vhangout Resto Cafe : - : Fast Food, Mexican, Seafood, Biryani, North Indian, Chinese, Desserts, Beverages : ₹600 for two :  Rushikonda, Vizag
+Bamboo Bay - The Park : 4.4 : North Indian, Mughlai, Andhra, Kerala, South Indian : ₹1,500 for two :  The Park, Lawsons Bay, Vizag
+Aarna Multi Cuisine Restaurant : 3.9 : North Indian, Chinese, Oriental, Italian, Beverages, Desserts : ₹1,000 for two :  Siripuram, Vizag
+Ananth's Chocolate Factory : 3.7 : Bakery, Burger, Sandwich, Rolls, Fast Food, Shake, Beverages : ₹400 for two :  Asilmetta, Vizag
+Gramam - The Canteen : 4.2 : Andhra, South Indian : ₹200 for two :  Madhurawada, Vizag
+MFC Food Court : - : South Indian : ₹200 for two :  Madhurawada, Vizag
+Sugarr - Hotel Novotel : 4.0 : Cafe, Coffee, Panini, Fast Food, Desserts, Tea, Beverages : ₹1,000 for two :  Hotel Novotel, Maharani Peta, Vizag
+Daspalla Executive Court : 4.1 : South Indian, North Indian, Chinese, Biryani, Seafood, Desserts, Beverages : ₹900 for two :  Daspalla Executive Court, Ram Nagar , Vizag
+Dharani : 3.3 : North Indian, South Indian, Chinese, Desserts, Ice Cream, Beverages : ₹800 for two :  Hotel Daspalla, Surya Bagh, Vizag
+New Satyam Multicuisine Restaurant & Takeaway : 3.9 : North Indian, Biryani, Andhra, Chinese, Mughlai, Sichuan : ₹800 for two :  Dwaraka Nagar, Vizag
+Sri Sairam Parlour : 3.9 : Andhra, South Indian, Chinese, North Indian : ₹500 for two :  Dwaraka Nagar, Vizag
+Waltair Kitchen - PL Grand : 3.5 : North Indian, Chinese, Continental, South Indian, Mughlai, Italian, Desserts, Beverages : ₹1,000 for two :  Waltair Uplands, Vizag
+GAD - The Gateway Hotel : - : North Indian, Chinese, Continental, South Indian, Street Food, Fast Food, Biryani, Desserts : ₹2,000 for two :  The Gateway Hotel, Maharani Peta , Vizag
+Ming Garden - The Gateway Hotel : 3.9 : Asian, Chinese : ₹2,800 for two :  The Gateway Hotel, Maharani Peta , Vizag
+Mama's Biryani : - : Biryani, North Indian, Chinese : ₹450 for two :  Venkojipalem, Vizag
+Aroma's Soul Of South : 4.0 : North Indian, Mughlai, Biryani, Seafood, Chinese : ₹1,000 for two :  Lawsons Bay, Vizag
+Bakers Castle : 3.7 : Bakery, Fast Food, Chinese : ₹500 for two :  Siripuram, Vizag
+S. Kota's Hotel Muntaj : 4.3 : North Indian, Biryani, Mughlai, Seafood, Chinese, Kebab, Desserts, Beverages : ₹1,000 for two :  Pendurthi, Vizag
+Datta Sai Godavari Ruchulu Restaurant : 4.0 : South Indian, Biryani, Chinese : ₹500 for two :  Madhavadhara, Vizag
+Shore Front Resort : 4.3 : Andhra, North Indian, Chinese, Pasta, Fast Food, Biryani, Desserts, Beverages : ₹1,200 for two :  Rushikonda, Vizag
+Brew n Bistro : 4.4 : Cafe, Continental, Mexican, Pizza, Pasta, Beverages, Coffee, Desserts : ₹1,400 for two :  Sagar Nagar, Vizag
+Krispy Chicken : 4.5 : Pizza, Burger, Sandwich, Biryani, Fast Food, Italian, Shake, Beverages : ₹450 for two :  Gopalapatnam, Vizag
+Water Bar- The Bheemili Resort : 4.9 : Finger Food : ₹1,500 for two :  Bheemili Bheemunipatnam, Vizag
+Seethayya Family Restaurant : - : Chinese, North Indian, Biryani : ₹500 for two :  Maddilapalem, Vizag
+Cocina Food Plaza : - : Fast Food, Street Food : ₹150 for two :  Allipuram, Vizag
+Creme Castle : 4.4 : Desserts : ₹300 for two :  Anakapalle Locality, Vizag
+Ciro’s Pizzeria : - : Pizza, Italian, Beverages : ₹500 for two :  Siripuram, Vizag
+Beach House : - : South Indian, Fast Food, Chinese, Bar Food : ₹1,000 for two :  Vishalaksmi Nagar, Vizag
+Sai Priya Beach Resort : 4.0 : North Indian, Mughlai, Chinese, South Indian, Biryani, Sichuan, Desserts, Beverages : ₹800 for two :  Rushikonda, Vizag
+The Vizag's Chemistry : 4.2 : Cafe, Coffee, Italian, Seafood, Oriental, Fast Food, Desserts : ₹800 for two :  Asilmetta, Vizag
+Foodie Mama : 4.0 : Chinese, Sichuan : ₹300 for two :  Ram Nagar, Vizag
+Masaledaar Desi Rasoi : 3.9 : North Indian, Chinese, Sichuan, Fast Food, Desserts, Beverages : ₹400 for two :  Dwaraka Nagar, Vizag
+The Fresh Juice : - : Juices : ₹200 for two :  Duvvada, Vizag
+Tiny Kitchen : - : Sandwich, Rolls, Pizza, Fast Food : ₹400 for two :  Arilova, Vizag
+Love 2 Eat Family Restaurant : - : South Indian : ₹200 for two :  Vishalaksmi Nagar, Vizag
+Starkes : 3.7 : South Indian : ₹250 for two :  Waltair Uplands, Vizag
+Panorama - Ambica Sea Green : 3.9 : Continental, South Indian, North Indian, Chinese, Biryani, Salad, Desserts, Beverages : ₹1,200 for two :  Ambica Sea Green, Kirlampudi Layout, Vizag
+Rasa - Hotel Vivana : 3.6 : Chinese, North Indian, Continental, South Indian, Biryani, Kebab, Desserts : ₹700 for two :  Siripuram, Vizag
+Biryanis And More : 3.5 : Biryani, South Indian, Chinese, Andhra, Sichuan : ₹800 for two :  Siripuram, Vizag
+Dakshin - WelcomHotel Grand Bay : 3.5 : South Indian : ₹1,500 for two :  Welcomhotel By ITC Hotels, Devee Grand Bay, Vizag
+Maong's Chinese Restaurant : 3.8 : Chinese, Sichuan, Seafood : ₹500 for two :  Lawsons Bay, Vizag
+Gypsy Resto Cafe : - : Cafe, Coffee, North Indian, Italian, Chinese, Fast Food, Biryani, Desserts : ₹700 for two :  Sagar Nagar, Vizag
+Hotel Jas : - : Andhra, North Indian, Chinese, Seafood, Pasta, Biryani, Ice Cream, Beverages : ₹1,300 for two :  Rushikonda, Vizag
+Legends Of Punjab : - : North Indian, Chinese, Biryani, Fast Food, Continental, Seafood, Desserts : ₹1,500 for two :  MVP Colony, Vizag
+Cascades : - : North Indian, Continental, Chinese, South Indian, Andhra, Kebab, Biryani, Desserts : ₹1,000 for two :  Dolphin Hotel, Jagadamba Junction , Vizag
+Barkaas Arabic Restaurant : 4.1 : Arabian, North Indian, Biryani, Kebab, Mandi, Desserts, Beverages : ₹1,000 for two :  Dwaraka Nagar, Vizag

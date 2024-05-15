@@ -1,0 +1,492 @@
+The Indian Curry House : 4.6 : Chinese, Salad, Italian, North Indian, Pizza, Pasta, Continental, Beverages : ₹1,000 for two :  Chamrajpura, Mysore
+Chinese Wok : 4.9 : Chinese, Momos, Sichuan : ₹1,000 for two :  Jayalakhsmipuram, Mysore
+Sharief Bhai : 4.3 : Biryani, Kebab, Mughlai, Arabian, South Indian, Rolls, Desserts, Beverages : ₹1,100 for two :  Tilak Nagar, Mysore
+Cuppa Redefined : 4.0 : Burger, Fast Food, Healthy Food, Shake, Coffee, Desserts, Juices, Continental : ₹800 for two :  Mall Of Mysore, Ittige Gudu, Mysore
+Oyster Bay : 4.3 : Burger, Sandwich, Fast Food, Beverages, Desserts, Asian, Mughlai, North Indian : ₹1,000 for two :  Vijay Nagar, Mysore
+Onesta : 4.1 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Gokulam, Mysore
+KFC : 4.2 : Burger, Fast Food, Rolls : ₹400 for two :  Vijay Nagar, Mysore
+Olive Garden : 4.5 : North Indian, Chinese, Mughlai, Continental, Burger, Oriental, Sichuan : ₹1,200 for two :  Ittige Gudu, Mysore
+Andhra Ruchulu : 3.9 : Andhra, Biryani, Chinese : ₹1,000 for two :  Pai Hotels, Doora, Mysore
+Mysouth - Radisson Blu Plaza Hotel : 4.3 : South Indian, Kerala, Andhra : ₹2,000 for two :  Radisson Blu Plaza Hotel - Chamrajpura, Mysore
+Fresh Catch Seafood Restaurant : 3.8 : Seafood, Mangalorean, Desserts, Beverages, Shake : ₹800 for two :  Gokulam, Mysore
+Barbeque Nation : 4.1 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,850 for two :  Gayathripuram, Mysore
+White Teak Coffee Roasters : 4.4 : Cafe, Coffee, Tea, Shake, Beverages : ₹400 for two :  Gokulam, Mysore
+Time Square Cafe : 3.9 : Chinese, North Indian, Biryani, Pizza, Fast Food, Coffee, Shake, Desserts : ₹400 for two :  Vijay Nagar, Mysore
+Pizza Hut : 4.5 : Pizza, Pasta, Fast Food, Chinese, Desserts, Beverages : ₹600 for two :  Vijay Nagar 2nd Stage, Mysore
+Jalpaan Restaurant : 4.1 : North Indian, Chinese : ₹1,000 for two :  Vijay Nagar, Mysore
+Bangarpet Pani Puri : 4.4 : Street Food : ₹100 for two :  Gokulam, Mysore
+Zest : 4.0 : Fast Food, Seafood, Continental, South Indian, North Indian, Mughlai, Desserts, Beverages : ₹800 for two :  Yadavgiri, Mysore
+Asian House : 4.9 : Chinese, Asian, Momos, Seafood, Thai, Beverages : ₹700 for two :  Vijay Nagar, Mysore
+Burgermeister - Burgers Shakes & Wings : 4.5 : Burger, Shake, Fast Food, Beverages : ₹600 for two :  Mall Of Mysore, Ittige Gudu, Mysore
+SKY DECK : 4.3 : South Indian, Beverages : ₹300 for two :  Sakthi Nagar, Mysore
+Frosting : 3.2 : Italian, Continental, Desserts : ₹600 for two :  Gokulam, Mysore
+Sepoy's Phirangi : 3.5 : North Indian, Chinese, Pizza, Continental, Beverages, Shake : ₹1,000 for two :  Chamrajpura, Mysore
+Hotel RRR Mysore : 3.7 : Andhra : ₹300 for two :  Chamrajpura, Mysore
+Pelican Pub : - : North Indian, South Indian, Chinese, Beverages : ₹700 for two :  Jayalakhsmipuram, Mysore
+SPR Veg Restaurant : 3.7 : South Indian, North Indian, Fast Food, Street Food, Desserts, Beverages, Juices, Shake : ₹350 for two :  Gokulam, Mysore
+Tusk Restobar : 4.2 : North Indian, Mughlai, Asian, Pizza, Fast Food, Kebab, Salad, Desserts : ₹1,000 for two :  JP Nagar, Mysore
+The Firangi Sutra : 3.9 : Fast Food, Beverages, Desserts, Waffle, Shake : ₹300 for two :  Gokulam, Mysore
+Glen`s Bakehouse : 3.9 : Bakery, Cafe, Italian : ₹800 for two :  Gokulam, Mysore
+Crisp - The Pure Vegetarian Restaurant : - : South Indian, Chinese, Continental, North Indian, Street Food, Fast Food, Desserts, Beverages : ₹800 for two :  Doora, Mysore
+Dosa Point Since 1999 : 4.2 : South Indian, Desserts, Street Food, Juices, Beverages : ₹350 for two :  Kuvempunagar, Mysore
+Iconic Resto Pub : 4.3 : Fast Food, Bar Food, Continental, Asian, Beverages, Desserts : ₹800 for two :  Chamrajpura, Mysore
+Domino's Pizza : 4.1 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  Chamrajpura, Mysore
+Orchid - Fortune JP Palace : 4.5 : North Indian, Chinese, Continental, Fast Food, Desserts, Beverages : ₹1,200 for two :  Fortune JP Palace, Chamrajpura, Mysore
+Gayatri Tiffin Room : 4.2 : South Indian : ₹500 for two :  Ittige Gudu, Mysore
+Etihad Arabian Restaurant : 3.9 : Arabian, Biryani : ₹200 for two :  Bannimantap, Mysore
+Kailash Parbat : 4.1 : North Indian, Chinese, Maharashtrian, Desserts, Street Food, Fast Food, Beverages, Sichuan : ₹700 for two :  Jayalakhsmipuram, Mysore
+Sattvik By Emerald Clarks Inn Suites : 3.0 : North Indian, Kebab, Chinese, Biryani, Fast Food, American, Beverages, Shake : ₹600 for two :  JP Nagar, Mysore
+Gardenia : 4.1 : North Indian, Kebab, Oriental, Biryani, Seafood, Chinese, Desserts : ₹1,100 for two :  Yadavgiri, Mysore
+La Uppu : 3.9 : North Indian, Chinese, Fast Food : ₹1,500 for two :  Grand Mercure - Bannimantap, Mysore
+My Big Daddy's Kitchen : 4.0 : Chinese, North Indian, Kebab, Mongolian, Mughlai, Biryani, Mangalorean, Seafood : ₹1,000 for two :  Sakthi Nagar, Mysore
+HOTEL GOLDEN RIVIERA : 4.0 : South Indian, North Indian, Chinese, Biryani, Salad, Desserts, Beverages : ₹1,000 for two :  Vijay Nagar, Mysore
+Roy's Cafe : 4.3 : Continental, Fast Food, Beverages : ₹600 for two :  Jayalakhsmipuram, Mysore
+Mansukhlal D.Mithaiwala : 4.0 : Mithai, Street Food, Gujarati : ₹200 for two :  Jayalakhsmipuram, Mysore
+Khau Galli : 4.1 : North Indian, Chinese, Fast Food, Street Food, Sichuan : ₹400 for two :  Gokulam, Mysore
+Poojari's Fish Day : 4.1 : Mangalorean, North Indian : ₹200 for two :  Mandi Mohalla, Mysore
+Havana : 4.3 : North Indian, Continental, Chinese, Finger Food, Salad, Shake : ₹500 for two :  Gokulam, Mysore
+Scirocco : 4.2 : North Indian, Chinese, Continental : ₹600 for two :  Vijay Nagar, Mysore
+Myst - Radisson Blu Plaza Hotel : 4.2 : Finger Food, Mediterranean : ₹1,000 for two :  Radisson Chamrajpura, Mysore
+Chickpet Donne Biryani House : 3.7 : Biryani, South Indian : ₹450 for two :  Gokulam, Mysore
+Green Heritage : 3.8 : North Indian, Chinese, South Indian, Biryani : ₹500 for two :  Yadavgiri, Mysore
+Sapa : 4.5 : Bakery, Desserts : ₹400 for two :  Gokulam, Mysore
+Neon Castle : 4.8 : Italian, Burger, Beverages, Shake : ₹300 for two :  Gokulam, Mysore
+Theobroma : 3.1 : Bakery, Desserts : ₹200 for two :  Jayalakhsmipuram, Mysore
+Tamarind Fine Dining : 2.8 : North Indian, Chinese, Continental, Desserts, Beverages, Sichuan : ₹900 for two :  Vijay Nagar, Mysore
+Mahesh Prasad : 3.9 : South Indian, Chinese, North Indian, Street Food, Desserts, Beverages : ₹300 for two :  Chamrajpura, Mysore
+The Noodle Theory : 3.7 : Chinese, Asian, Japanese, Salad, Desserts, Beverages : ₹400 for two :  Gokulam, Mysore
+Sri Chamundeshwari Donne Biriyani Center : 4.9 : Biryani, South Indian, North Indian : ₹300 for two :  Vijay Nagar, Mysore
+The Barge Restaurant : 3.5 : Continental, Chinese, North Indian, Italian : ₹1,500 for two :  Vijay Nagar, Mysore
+Le Terrace Cafe : 3.3 : Chinese, Salad : ₹350 for two :  Gokulam, Mysore
+MY.KA Cafe : 3.1 : Cafe, Continental : ₹600 for two :  Gokulam, Mysore
+Nandhini Deluxe : 3.9 : Andhra, Chinese, Biryani, North Indian, Ice Cream, Shake, Desserts, Beverages : ₹1,000 for two :  Jayalakhsmipuram, Mysore
+Sip And Snacks : 3.5 : Fast Food, Beverages : ₹200 for two :  Bannimantap, Mysore
+Shikari - Royal Orchid Metropole : 4.3 : North Indian, Chinese, European, Continental : ₹1,400 for two :  Royal Orchid Metropole, Yadavgiri, Mysore
+Mysore Mylari : 3.9 : South Indian, Biryani, Juices, North Indian, Chinese, Desserts, Shake : ₹400 for two :  Kuvempunagar, Mysore
+Lemon Three Restaurant : 4.0 : Biryani, Seafood, South Indian, Chinese, Kebab, Desserts, Shake, Beverages : ₹450 for two :  Vijay Nagar, Mysore
+Blue Inn : 4.0 : Biryani, Mughlai, North Indian, Chinese : ₹600 for two :  Bannimantap, Mysore
+Jalandhar Express : 4.9 : North Indian, Biryani : ₹500 for two :  Habitat Mall, Jayalakhsmipuram, Mysore
+Cafelicious : 3.3 : Coffee, Beverages, Fast Food, Sandwich, Pizza, Burger, Panini, Desserts : ₹600 for two :  Jayalakhsmipuram, Mysore
+Mezzaluna : - : Continental, North Indian, Mughlai, Chettinad, Chinese, Desserts, Beverages : ₹800 for two :  Gokulam, Mysore
+Supriya Non-Veg Restaurant : New : South Indian : ₹300 for two :  Chamrajpura, Mysore
+Momo Street : 4.1 : Momos, Pizza : ₹500 for two :  Tilak Nagar, Mysore
+Theobroma : 3.2 : Bakery, Desserts : ₹500 for two :  Kuvempunagar, Mysore
+A2B - Adyar Ananda Bhavan : 4.0 : South Indian, North Indian, Street Food : ₹350 for two :  Yadavgiri, Mysore
+The Cake Room : 3.8 : Bakery, Desserts : ₹300 for two :  Sakthi Nagar, Mysore
+Kapoor's Cafe : 3.3 : North Indian, Desserts, Beverages, Street Food : ₹800 for two :  Jayalakhsmipuram, Mysore
+Green Leaf : 3.6 : North Indian, Chinese, South Indian, Desserts, Beverages, Shake : ₹400 for two :  Jayalakhsmipuram, Mysore
+The Urban Deck : 3.5 : Salad, Steak, Chinese, Fast Food, Sichuan : ₹750 for two :  Bannimantap, Mysore
+Hari Govinda's : 4.6 : South Indian, Chinese : ₹1,000 for two :  Chamrajpura, Mysore
+M2 Eat In Style : New : Chinese, North Indian, Desserts, Shake, Beverages : ₹800 for two :  Gokulam, Mysore
+Om Shanthi - Hotel Siddhartha : - : North Indian, South Indian, Chinese, Shake : ₹600 for two :  Mandi Mohalla, Mysore
+Infinit : 3.3 : North Indian, Biryani, Chinese, Desserts, Beverages, Shake, Sichuan : ₹1,000 for two :  Gokulam, Mysore
+Kung Fu Kitchen : 3.6 : Chinese, Sichuan : ₹500 for two :  Habitat Mall, Jayalakhsmipuram, Mysore
+Chopstix - A Chinese Kitchen : 3.4 : Chinese, Thai, Seafood, Momos, Beverages, Desserts : ₹1,200 for two :  Vijay Nagar, Mysore
+Skan'del Bar - Royal Orchid Metropole : 4.3 : North Indian, Chinese, European : ₹1,900 for two :  Royal Orchid Metropole, Yadavgiri, Mysore
+Kahani Cafe : 4.0 : Fast Food, Sandwich, Burger, Street Food, Beverages : ₹450 for two :  Jayalakhsmipuram, Mysore
+Annapoorna From House Of RRR : 4.3 : South Indian, Biryani : ₹500 for two :  Vijay Nagar, Mysore
+Hotel Hanumanthu Original : - : Biryani, South Indian : ₹450 for two :  Mandi Mohalla, Mysore
+High Park : 3.6 : North Indian, Chinese : ₹800 for two :  Chamrajpura, Mysore
+By the Blue : 3.2 : North Indian : ₹2,000 for two :  Grand Mercure Tilak Nagar, Mysore
+Corner House Ice Creams : 4.1 : Ice Cream, Desserts, Beverages, Shake : ₹350 for two :  Jayalakhsmipuram, Mysore
+Sattvik Rooftop Cafe : 3.4 : South Indian, Fast Food : ₹1,000 for two :  Chamrajpura, Mysore
+Zam Zam-E-Yadgar : 3.9 : Biryani, North Indian : ₹200 for two :  Mandi Mohalla, Mysore
+Big Cup Cafe : 3.9 : Cafe, Coffee, Tea, Beverages, Pizza, Fast Food, Continental, Desserts : ₹600 for two :  Gokulam, Mysore
+This And That : 3.7 : South Indian, North Indian, Chinese, Biryani : ₹300 for two :  Habitat Mall, Jayalakhsmipuram, Mysore
+Mysore Nandhini Family Restaurant : 3.7 : Andhra, Biryani, North Indian : ₹500 for two :  Mandi Mohalla, Mysore
+Hanumanthu New Hotel Devi Annex : 3.7 : South Indian : ₹300 for two :  Kuvempunagar, Mysore
+Golden Riviera Hotel : 3.1 : Biryani, North Indian, Chinese, Ice Cream, Desserts, Beverages : ₹500 for two :  Vijay Nagar, Mysore
+The Courtyard Tree : 4.0 : North Indian, Chinese, Beverages, Sichuan : ₹600 for two :  Bogadi, Mysore
+Khan's Durbar : 4.8 : North Indian, Mughlai, Chinese, Shake : ₹500 for two :  Bannimantap, Mysore
+Panchavati Gardenia : 3.9 : North Indian, South Indian, Biryani, Chinese, Fast Food, Street Food, Desserts, Shake : ₹400 for two :  Chamrajpura, Mysore
+Lakshman Mess : 4.2 : North Indian, South Indian : ₹300 for two :  Chamrajpura, Mysore
+Healthy Hut : - : South Indian, Chinese, North Indian, Fast Food, Healthy Food, Juices, Beverages : ₹1,000 for two :  Gokulam, Mysore
+The Taste Bud : 3.1 : Fast Food, Biryani, Chinese, Sandwich, Burger, Beverages : ₹500 for two :  Jayalakhsmipuram, Mysore
+Kabul House : 3.6 : North Indian, Kebab, Biryani, Afghan, Arabian, Charcoal Chicken, Mughlai, Rolls : ₹400 for two :  Tilak Nagar, Mysore
+Nasheman Foods : 3.9 : Biryani, South Indian : ₹400 for two :  Mandi Mohalla, Mysore
+Greeco Pizzeria & Boulangerie : - : Cafe, Coffee, Pizza, Italian, Pasta, Fast Food, Desserts, Beverages : ₹1,100 for two :  Ittige Gudu, Mysore
+Kudla Fish Land : 3.2 : Fast Food, Chinese, North Indian, South Indian, Healthy Food, Biryani, Desserts, Beverages : ₹950 for two :  Chamrajpura, Mysore
+H Cube Cafe And Restaurant : 3.7 : Cafe, North Indian, Biryani, Chinese, Seafood, Fast Food, Ice Cream, Beverages : ₹1,000 for two :  Vijay Nagar, Mysore
+Balaji Mess : 3.0 : North Indian, Biryani : ₹300 for two :  Kuvempunagar, Mysore
+Arz Bakes & Snacks : 4.4 : Mughlai, Chinese, North Indian, Biryani, Sichuan : ₹550 for two :  Ittige Gudu, Mysore
+Mysore Dhonne Biriyani : 3.9 : Kebab, Chinese, Biryani, North Indian, Sichuan : ₹500 for two :  Kuvempunagar, Mysore
+Lassi Shop : 3.2 : Ice Cream, Beverages, Fast Food : ₹200 for two :  Kuvempunagar, Mysore
+Revival Street Social : - : Cafe, Coffee, Pizza, Salad, Fast Food, Continental, Shake, Beverages : ₹1,000 for two :  Gokulam, Mysore
+Kafe Biryani Corner : 4.1 : Biryani, North Indian, Chinese, Sichuan : ₹700 for two :  Kuvempunagar, Mysore
+Arz Restaurant & Bakes : New : Bakery, Chinese, North Indian, Shake : ₹400 for two :  Gokulam, Mysore
+Leon's Burgers & Wings : - : Burger, Wraps, Fast Food, Beverages : ₹400 for two :  Jayalakhsmipuram, Mysore
+Grilliez : - : Continental, Turkish, BBQ, Fast Food, Seafood, Beverages : ₹800 for two :  Bannimantap, Mysore
+Maurya Veg : 4.2 : Chinese : ₹300 for two :  Jayalakhsmipuram, Mysore
+Kritunga Restaurant - Jagavi's : 4.0 : Andhra, South Indian : ₹300 for two :  Gokulam, Mysore
+Down Town Fast Food : 3.9 : Fast Food : ₹400 for two :  Gokulam, Mysore
+Just Dilli Street : 4.6 : North Indian : ₹300 for two :  Jayalakhsmipuram, Mysore
+Purple Haze : - : North Indian, Mughlai : ₹300 for two :  Vijay Nagar, Mysore
+Veg Kourt : 4.4 : North Indian, Chinese, Fast Food, South Indian, Ice Cream, Beverages, Desserts, Shake : ₹700 for two :  Doora, Mysore
+#Fruitbae : 4.0 : Shake, Juices, Healthy Food, Desserts, Beverages : ₹400 for two :  Jayalakhsmipuram, Mysore
+McDonald's : 4.2 : Burger, Fast Food, Cafe : ₹500 for two :  Chamrajpura, Mysore
+RRR Amaravathi Restaurant : 4.0 : North Indian, Chinese, Biryani : ₹350 for two :  Doora, Mysore
+Amrutha Veg Restaurant : 3.9 : South Indian, North Indian, Chinese, Street Food, Beverages : ₹400 for two :  Chamrajpura, Mysore
+Big Chicken : 2.8 : Arabian, North Indian, Chinese, Thai, Mughlai, Shake, Sichuan : ₹1,000 for two :  Bannimantap, Mysore
+Mumbai Cake Of The Day : 4.1 : Bakery, Desserts : ₹150 for two :  Gokulam, Mysore
+The Lemon Three : 3.9 : Arabian, Biryani, Beverages, North Indian, Chinese, Shake, Sichuan : ₹500 for two :  Kuvempunagar, Mysore
+Chings Chinese Corner : 3.9 : Chinese, Sichuan : ₹300 for two :  Jayalakhsmipuram, Mysore
+Hotel Vijayanagara Galaxy : 4.0 : South Indian, Chinese, Biryani, Kebab : ₹200 for two :  Vijay Nagar, Mysore
+Hanumanthu Devi Mess : - : Biryani : ₹200 for two :  Mandi Mohalla, Mysore
+Keventers - Milkshakes & Desserts : 3.7 : Beverages, Shake : ₹400 for two :  Mall Of Mysore, Ittige Gudu, Mysore
+Pasta Mexican : - : Italian, Sandwich, Rolls : ₹350 for two :  Habitat Mall, Jayalakhsmipuram, Mysore
+Green Food Court : 4.1 : North Indian, South Indian, Chinese, Desserts, Street Food, Juices, Shake, Beverages : ₹500 for two :  Vijay Nagar, Mysore
+Timberyard : 4.1 : Japanese, Continental, Desserts, Cafe, Wraps, Burger, Pizza, Italian : ₹600 for two :  Gokulam, Mysore
+Pupa Pub : 3.4 : Chinese, Fast Food, North Indian, Continental, Biryani, Beverages : ₹400 for two :  Gokulam, Mysore
+King's Coffee Co. : 3.9 : Wraps, Sandwich, Fast Food, Street Food : ₹300 for two :  Chamrajpura, Mysore
+Hyderabadi Biryani House : 3.7 : Biryani, Hyderabadi : ₹300 for two :  Vijay Nagar, Mysore
+Dakshina Paaka : 3.6 : South Indian : ₹300 for two :  Doora, Mysore
+Jewel Rock Restaurant : 3.9 : North Indian, Biryani, Shake : ₹600 for two :  Mandi Mohalla, Mysore
+Fish Land : 3.1 : Mangalorean, North Indian, Biryani : ₹500 for two :  Chamrajpura, Mysore
+Nyt Café 24/7 : 3.2 : Fast Food, Sandwich : ₹550 for two :  Bannimantap, Mysore
+Starbucks Coffee : 4.1 : Cafe, Coffee, Fast Food, Desserts, Beverages : ₹600 for two :  Gokulam, Mysore
+Grub Monkeys : 3.9 : Fast Food, BBQ, Burger, Sichuan : ₹500 for two :  Gokulam, Mysore
+Grillem : 3.6 : Burger, Fast Food, Beverages, Shake, Arabian, Kebab, Desserts : ₹1,000 for two :  Kuvempunagar, Mysore
+Tegu Mess : - : South Indian, Maharashtrian : ₹400 for two :  Gokulam, Mysore
+Shree Guru Residency : 4.1 : South Indian, Chinese, Fast Food, Biryani, North Indian, Kebab, Desserts, Beverages : ₹500 for two :  Yadavgiri, Mysore
+Lemon Three : New : North Indian, Arabian, Chinese, Beverages, Biryani, Shake : ₹1,200 for two :  Kuvempunagar, Mysore
+Cafe Good Vibes : 4.1 : Cafe, Fast Food, Desserts, Italian, Pizza, Pasta, Beverages : ₹500 for two :  Chamrajpura, Mysore
+Tiger Trail - Royal Orchid Metropole : 4.1 : North Indian, Chinese, European : ₹1,400 for two :  Royal Orchid Metropole, Yadavgiri, Mysore
+Simply Kodavas : 4.1 : South Indian, North Indian, Chinese, Sichuan : ₹300 for two :  Vijay Nagar, Mysore
+Ashirvaad Grand : - : South Indian, Fast Food, Ice Cream, Beverages, Shake : ₹350 for two :  Bannimantap, Mysore
+Hotel Ruchi The Prince : 3.8 : North Indian, Chinese, Seafood, Biryani, Shake, Sichuan : ₹600 for two :  Ruchi the Prince, Vijay Nagar, Mysore
+The Roost : New : Chinese, North Indian, Continental, Beverages, Desserts : ₹600 for two :  Vijay Nagar, Mysore
+Vadacurry : 4.4 : South Indian, Beverages : ₹150 for two :  Kuvempunagar, Mysore
+Dastarkhwan : 4.2 : Mughlai, North Indian : ₹400 for two :  Bannimantap, Mysore
+Rasa Dhatu : 4.2 : South Indian, North Indian, Chinese, Desserts, Beverages, Shake : ₹400 for two :  Gokulam, Mysore
+Donne Biriyani Center (DBC) : 3.9 : Biryani, North Indian, Chinese, South Indian, Beverages : ₹400 for two :  Vijay Nagar, Mysore
+Aaha Bombat Tiffanys : 4.0 : South Indian, North Indian, Chinese, Biryani, Juices, Beverages : ₹250 for two :  Kuvempunagar, Mysore
+The Tiffanys House : 4.4 : Mithai, Desserts, Street Food : ₹300 for two :  Jayalakhsmipuram, Mysore
+Dolphins Bakes N Cakes : 4.1 : Bakery, Desserts, Beverages : ₹200 for two :  Vijay Nagar, Mysore
+Ajwa Family Restaurant : 3.5 : Biryani, BBQ, North Indian, Chinese, Seafood, Mughlai, Ice Cream, Beverages : ₹1,000 for two :  Tilak Nagar, Mysore
+Tina's Cafe : 3.6 : North Indian, Mughlai, Shake : ₹200 for two :  Gokulam, Mysore
+Ibaco : - : Ice Cream, Bakery, Desserts : ₹200 for two :  Jayalakhsmipuram, Mysore
+Sandesh The Prince : - : Continental, Chinese, North Indian, Desserts, Shake, Beverages : ₹3,500 for two :  Sandesh The Prince Hotel, Doora, Mysore
+Subway : 4.5 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Forum Centre City Mall, Mysore
+High Tea - Royal Orchid Metropole : 3.6 : Finger Food, Fast Food : ₹500 for two :  Royal Orchid Metropole, Yadavgiri, Mysore
+Aroma The Bakers : - : Bakery, Desserts : ₹300 for two :  Bogadi, Mysore
+Candycloud Factory : - : Sandwich, Pizza, Desserts, Ice Cream, Shake : ₹500 for two :  Bogadi, Mysore
+Chamnundeshwari Biryani Center : 4.2 : Mughlai : ₹400 for two :  Vijay Nagar, Mysore
+Bannur Biryani Cafe : 3.9 : Biryani, North Indian : ₹350 for two :  Sakthi Nagar, Mysore
+Kunafa World : 4.0 : Desserts, Middle Eastern : ₹600 for two :  Jayalakhsmipuram, Mysore
+Burger King : 3.2 : Burger, Fast Food, Desserts, Beverages : ₹400 for two :  Gayathripuram, Mysore
+The Chinese Delight : 3.9 : Chinese, Momos : ₹250 for two :  Rajiv Nagar, Mysore
+Lobo's Courtyard : 3.5 : North Indian, Hyderabadi, Chinese, Seafood, Biryani, Sichuan : ₹600 for two :  Bogadi, Mysore
+Rongkup's Lee : 3.9 : Chinese, Thai : ₹550 for two :  Vijay Nagar, Mysore
+Pizzology Pizza : 4.1 : Pizza, Fast Food, Sandwich, Shake : ₹550 for two :  Chamrajpura, Mysore
+Hotel Dasaprakash Paradise : New : South Indian, North Indian : ₹500 for two :  Yadavgiri, Mysore
+Thalassery Mess : - : Kerala, South Indian, Biryani : ₹350 for two :  Vijay Nagar, Mysore
+Ashirvaad Grand : - : South Indian, North Indian, Fast Food, Chinese, Street Food, Ice Cream, Beverages, Shake : ₹300 for two :  Chamrajpura, Mysore
+Crumbs : 3.4 : Continental, Burger, Sandwich, Chinese, Desserts, Beverages, Pizza : ₹400 for two :  Mandi Mohalla, Mysore
+Salt Restaurant By Soho Boutique Hotel : 3.8 : North Indian, Mughlai, Seafood, Chinese, Fast Food : ₹1,000 for two :  Chamrajpura, Mysore
+Karnataka Ruchilu : - : Andhra, North Indian : ₹350 for two :  Tilak Nagar, Mysore
+Apoorva Veg Restaurant : 3.8 : South Indian, North Indian, Chinese, Biryani, Street Food, Ice Cream, Desserts, Beverages : ₹250 for two :  Vidyaranyapura, Mysore
+Cake Sagar Bakery : 4.3 : Bakery : ₹200 for two :  Chamrajpura, Mysore
+Creme Borne - Ice Creams : 4.0 : Cafe, Shake, Beverages, Ice Cream, Waffle, Pancake : ₹500 for two :  Kuvempunagar, Mysore
+Big Dad's : 3.5 : Arabian, Mughlai, Kerala : ₹300 for two :  Bannimantap, Mysore
+Donne Biryani Palace : 3.8 : Chinese, South Indian : ₹300 for two :  Vijay Nagar, Mysore
+Blu Bird Family Restaurant : 3.0 : Chinese, Biryani, Ice Cream, Juices, Shake, Beverages : ₹400 for two :  Sakthi Nagar, Mysore
+Dolphin Bakes N Icecreams : 3.9 : Desserts, Fast Food, Beverages, Street Food, Shake : ₹400 for two :  Bannimantap, Mysore
+Chinese Corner : - : Chinese, Momos, Sichuan : ₹600 for two :  Gokulam, Mysore
+Cafe Coffee Day : - : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹650 for two :  Jayalakhsmipuram, Mysore
+Original Vinayaka Mylari : 3.8 : South Indian : ₹300 for two :  Doora, Mysore
+A Fish Tawa Fry : - : Seafood : ₹300 for two :  Kuvempunagar, Mysore
+Biriyani Adda : 3.8 : Biryani, Mughlai : ₹350 for two :  Vijay Nagar, Mysore
+Bombay Kulfi : - : Ice Cream, Desserts : ₹200 for two :  Kuvempunagar, Mysore
+Gowdru Donne Biriyani : 3.0 : Biryani, Chinese : ₹300 for two :  Kuvempunagar, Mysore
+Rasooi Magic : - : North Indian, Biryani, Chinese, Sandwich, Street Food, Ice Cream, Beverages, Shake : ₹400 for two :  Jayalakhsmipuram, Mysore
+Mysore Spices Restaurant : 3.9 : South Indian, Chinese : ₹350 for two :  JP Nagar, Mysore
+RV Non - Veg Hotel : 4.2 : Mughlai : ₹200 for two :  Chamrajpura, Mysore
+Bombay Kitchen : 3.3 : Street Food : ₹200 for two :  Chamrajpura, Mysore
+MTR 1924 : 4.6 : South Indian : ₹300 for two :  Jayalakhsmipuram, Mysore
+Rio Merdian : New : North Indian, Mughlai, Seafood, Chinese, Thai, Beverages, Desserts, Fast Food : ₹800 for two :  Bannimantap, Mysore
+New Davanagere Benne Dosa Corner : New : South Indian, North Indian, Chinese, Biryani : ₹450 for two :  Bogadi, Mysore
+The Nanking Chinese Restaurant : - : Chinese, Thai, Korean, Sichuan : ₹400 for two :  Vijay Nagar, Mysore
+Maya Town : 4.2 : Burger, Rolls, Pizza, Fast Food, Shake, Beverages : ₹300 for two :  Vidyaranyapura, Mysore
+Khan's Restaurant : 3.9 : Biryani, North Indian : ₹500 for two :  Tilak Nagar, Mysore
+Indra Cafe's Paras : New : South Indian, North Indian, Street Food, Ice Cream, Juices, Beverages : ₹400 for two :  Chamrajpura, Mysore
+SGS Nonveg Gundu Palav : New : Mughlai, Kebab : ₹500 for two :  Kuvempunagar, Mysore
+Eats Of Arab : - : South Indian, North Indian, Chinese, Street Food, Desserts, Beverages, Sichuan : ₹600 for two :  Bannimantap, Mysore
+Udupi Brahmins Cafe : 3.7 : South Indian : ₹150 for two :  Vidyaranyapura, Mysore
+Seasons : 3.9 : North Indian, Seafood : ₹1,000 for two :  Bannimantap, Mysore
+Darshan : - : South Indian : ₹100 for two :  Bogadi, Mysore
+Davangere Benne Dosa : 3.8 : South Indian : ₹200 for two :  Vidyaranyapura, Mysore
+Polar Bear : New : Ice Cream, Desserts, Shake, Beverages : ₹200 for two :  Jayalakhsmipuram, Mysore
+Dolphin Bakes N Ice Cream : 4.1 : Fast Food, Beverages, Desserts, Shake : ₹250 for two :  Kuvempunagar, Mysore
+Kamat Madhuvan : 3.7 : North Indian, South Indian, Beverages : ₹500 for two :  Ittige Gudu, Mysore
+Fast Cake & Cafe : 3.7 : Bakery, Desserts, Street Food, Beverages : ₹250 for two :  Vijay Nagar, Mysore
+Big Grill : 3.8 : Biryani, North Indian : ₹750 for two :  Tilak Nagar, Mysore
+New Mysore Refreshment : 3.9 : South Indian, Chinese, North Indian, Beverages : ₹250 for two :  Ittige Gudu, Mysore
+Baskin Robbins - Ice Cream Desserts : - : Ice Cream, Desserts, Beverages : ₹500 for two :  Vijay Nagar, Mysore
+Shreyas De Grande : - : South Indian, North Indian, Street Food, Beverages, Desserts : ₹500 for two :  Kuvempunagar, Mysore
+Burger Man : 3.8 : Burger, Pizza, Sandwich, Fast Food, Shake, Coffee, Beverages : ₹500 for two :  Gokulam, Mysore
+Apsara Ice Creams : 3.9 : Ice Cream, Desserts : ₹400 for two :  Gokulam, Mysore
+Chicken Hut : 3.8 : Chinese, Biryani, North Indian, Sichuan : ₹300 for two :  Kuvempunagar, Mysore
+New Hanuman Pulao : 2.8 : Biryani, South Indian : ₹200 for two :  Vijay Nagar, Mysore
+Shreedevi Restaurant : 4.2 : North Indian, Andhra, Biryani : ₹600 for two :  Chamrajpura, Mysore
+Cubs : 3.6 : Continental, Fast Food, Chinese, Burger, Pizza, Bakery, Desserts, Beverages : ₹600 for two :  Gokulam, Mysore
+Drongo Cafe : 3.7 : North Indian, Continental, Beverages : ₹500 for two :  Vidyaranyapura, Mysore
+Kanksshi's Fried Chicken : 4.0 : Fast Food, Biryani, Chinese, North Indian : ₹300 for two :  Bogadi, Mysore
+Amber - Multicuisine Restaurant : 4.4 : North Indian, Bar Food : ₹1,200 for two :  Chamrajpura, Mysore
+Taaja Tindi : - : Chinese, South Indian, North Indian, Desserts : ₹350 for two :  Jayalakhsmipuram, Mysore
+Bamboo Multicuisine Restaurant : 3.8 : Chinese, North Indian, Seafood, Beverages : ₹850 for two :  Bogadi, Mysore
+Flavours Fresh : 4.0 : Bakery, Fast Food, Ice Cream, Burger, Sandwich, Juices, Shake, Beverages : ₹300 for two :  Vijay Nagar, Mysore
+Donne Biriyani : 3.9 : North Indian, Biryani : ₹250 for two :  Kuvempunagar, Mysore
+Shanmukha : 3.7 : Biryani : ₹500 for two :  Vijay Nagar, Mysore
+Ramyaa Restaurant : 3.9 : North Indian, South Indian, Chinese, Street Food, Ice Cream, Beverages : ₹400 for two :  Chamrajpura, Mysore
+Hotel Vaibhav Original : 3.9 : South Indian : ₹300 for two :  Mandi Mohalla, Mysore
+The Cabana Garden : 4.1 : Chinese, North Indian, Fast Food, Desserts, Beverages, Sichuan : ₹600 for two :  Bogadi, Mysore
+US Pizza : - : Pizza, Burger, Beverages, Fast Food : ₹500 for two :  Bannimantap, Mysore
+Sutra Bistro : 3.1 : Chinese, Fast Food, Beverages, Sichuan : ₹400 for two :  Vijay Nagar, Mysore
+Highway 18 : 3.4 : South Indian, North Indian, Chinese, Desserts, Beverages, Shake, Sichuan : ₹400 for two :  Gokulam, Mysore
+Grillem : 4.4 : Shawarma, Beverages : ₹250 for two :  Vijay Nagar, Mysore
+Lemon Three Restaurant : 3.3 : Arabian, Biryani : ₹450 for two :  Tilak Nagar, Mysore
+Gowdru Mess : 3.3 : Biryani, South Indian : ₹400 for two :  Gokulam, Mysore
+Da Chinese House : 3.8 : Chinese, Rolls, Fast Food, Momos, Sichuan : ₹400 for two :  Kuvempunagar, Mysore
+Crunchy Punch : 4.0 : North Indian, Chinese, South Indian : ₹400 for two :  Kuvempunagar, Mysore
+Nalpak Restaurant : 3.8 : South Indian, Chinese : ₹600 for two :  Gokulam, Mysore
+Tandoorie Swaagath : 3.1 : North Indian, Biryani, Rolls, Beverages : ₹500 for two :  Vijay Nagar, Mysore
+Mud Coffee : 4.5 : Beverages, Desserts, Fast Food, Shake, Street Food, Juices, Sandwich : ₹200 for two :  Ittige Gudu, Mysore
+Saffron - Jade Garden : 4.0 : North Indian, Biryani, Desserts, Beverages, Shake : ₹800 for two :  Chamrajpura, Mysore
+Saviruchi  Thindi Mane : 3.7 : South Indian, Beverages : ₹200 for two :  Vijay Nagar, Mysore
+Zoca Cafe : 3.8 : Italian, Continental, North Indian, Chinese, Oriental, Cafe, Coffee, Tea : ₹1,000 for two :  Chamrajpura, Mysore
+Grandpa's Kitchen Bar & Restaurant : 3.3 : North Indian, Biryani, Chinese, Seafood : ₹400 for two :  Jayalakhsmipuram, Mysore
+Hills Special Momo's : 4.2 : Momos, Seafood, Chinese, Sichuan : ₹600 for two :  Jayalakhsmipuram, Mysore
+Basant Roving Feast : 3.9 : Chinese, American, Fast Food : ₹300 for two :  Gokulam, Mysore
+Fish Land Family Restaurant : 3.4 : Mangalorean, South Indian, Chinese, Mughlai, Street Food : ₹600 for two :  Kuvempunagar, Mysore
+Mughal Durbar : 3.3 : Biryani, Mughlai, North Indian, Chinese : ₹500 for two :  Tilak Nagar, Mysore
+Hotel Chamundeswari Biriyani : 3.5 : North Indian, Biryani : ₹300 for two :  Bogadi, Mysore
+Andhra Chilly's Restaurant : 3.7 : Andhra, Biryani, Desserts : ₹400 for two :  Kuvempunagar, Mysore
+Hosakote Dum Biriyani : - : South Indian, Chinese, Biryani : ₹350 for two :  Kuvempunagar, Mysore
+Neelanjana Mahesh Prasad : New : South Indian, Chinese, North Indian, Street Food, Beverages, Shake, Sichuan : ₹700 for two :  Kuvempunagar, Mysore
+Hotel Harihara : 3.9 : South Indian : ₹250 for two :  Kuvempunagar, Mysore
+Flavor Twist : - : North Indian, Chinese, Continental, American : ₹250 for two :  Kuvempunagar, Mysore
+Vaibhav Annexe : 4.3 : South Indian, North Indian, Chinese : ₹400 for two :  Chamrajpura, Mysore
+Tattva Rasa Park View Restaurant : - : North Indian, South Indian, Chinese, Momos, Desserts, Street Food, Tea, Beverages : ₹400 for two :  Bogadi, Mysore
+Hotel Dadaboudi : 3.6 : Seafood, North Indian : ₹400 for two :  Vijay Nagar, Mysore
+Lobos Multi Cuisine Restaurant And Bar : 3.2 : North Indian, South Indian, Chinese : ₹1,100 for two :  Kuvempunagar, Mysore
+Desi Paratha's : 3.8 : North Indian : ₹400 for two :  Vijay Nagar, Mysore
+Arafa Hotel : 2.9 : Kerala, Biryani : ₹700 for two :  Mandi Mohalla, Mysore
+Donut House : 4.2 : Desserts : ₹250 for two :  Gokulam, Mysore
+Frosti : 3.6 : Ice Cream, Beverages, Burger, Sandwich, Fast Food, Shake : ₹400 for two :  Jayalakhsmipuram, Mysore
+Casino Park Restaurant : 4.0 : Chinese, Sichuan, North Indian, Mughlai, Biryani, Arabian, Desserts, Beverages : ₹500 for two :  Tilak Nagar, Mysore
+Cool Cafe : 3.4 : Pizza, Burger, Sandwich, Rolls, Ice Cream, Beverages : ₹250 for two :  Bannimantap, Mysore
+Aroma The Bakers : 3.9 : Bakery, Fast Food, Beverages : ₹300 for two :  Vijay Nagar, Mysore
+EL AFC : 4.3 : Chinese, Kerala, Biryani, Asian : ₹350 for two :  Gayathripuram, Mysore
+The Belgian Waffle Co. : 3.9 : Waffle, Pancake, Desserts, Beverages, Ice Cream : ₹300 for two :  Gokulam, Mysore
+The Coastal Jewel : 4.2 : North Indian, Chinese, Chettinad, South Indian, Beverages, Shake : ₹850 for two :  Bogadi, Mysore
+Evolve : 3.9 : North Indian, Biryani, Fast Food : ₹700 for two :  Vijay Nagar, Mysore
+Mannar's Cafe & Restaurant : 4.1 : North Indian, South Indian, Chinese, Beverages, Ice Cream : ₹550 for two :  Chamrajpura, Mysore
+The Kathi Roll Factory : 3.7 : Rolls, Burger, Momos, Shake, Fast Food : ₹300 for two :  Jayalakhsmipuram, Mysore
+Kitchens Kerala Family Restaurant : 3.7 : Kerala, South Indian : ₹200 for two :  Mandi Mohalla, Mysore
+Guru Darshini Dosa Palace : 3.3 : South Indian : ₹300 for two :  Gokulam, Mysore
+Mayo Town : 3.9 : Pizza, Rolls, Burger, Fast Food : ₹500 for two :  Gokulam, Mysore
+Joy Ice Cream Factory : 3.8 : Ice Cream : ₹100 for two :  Yadavgiri, Mysore
+Swadhdesi - Hotel Le Ruchi : 4.1 : North Indian, Biryani, Chinese, Shake : ₹800 for two :  Vijay Nagar, Mysore
+Depth N Green : 3.1 : Healthy Food, Italian, Sandwich, North Indian, Street Food, Beverages : ₹400 for two :  Gokulam, Mysore
+New Ambur Hot Dum Biriyani : - : Biryani, North Indian : ₹400 for two :  Kuvempunagar, Mysore
+Madhu Shree Rotti Mane : 3.9 : South Indian, Desserts : ₹200 for two :  Kuvempunagar, Mysore
+Sri Shivaprasad Veg Restaurant : 3.6 : South Indian, North Indian, Chinese, Beverages : ₹200 for two :  Chamrajpura, Mysore
+District 9 : 3.8 : North Indian, Seafood, Chinese, Mughlai, Biryani : ₹400 for two :  Kuvempunagar, Mysore
+Wrap Club : 3.6 : Wraps, Burger, Pizza, Fast Food, Shawarma, Chinese, Ice Cream, Shake : ₹300 for two :  Bannimantap, Mysore
+Shree Royal Warrior Bakery : 3.2 : Bakery, Street Food : ₹400 for two :  Kuvempunagar, Mysore
+Tonif : 3.3 : North Indian : ₹600 for two :  Jayalakhsmipuram, Mysore
+Home Cafe : 3.3 : Fast Food, Pizza, Burger, Beverages : ₹400 for two :  Jayalakhsmipuram, Mysore
+Nefty Pure Veg : 4.2 : South Indian : ₹150 for two :  Bogadi, Mysore
+Kannan Bakery : 3.8 : Bakery : ₹400 for two :  Vijay Nagar, Mysore
+Base Camp Bistro : 3.9 : Mexican, Pizza, Fast Food, Beverages, Shake : ₹700 for two :  Gokulam, Mysore
+Cake Bells : 3.0 : Desserts, Bakery : ₹300 for two :  Chamrajpura, Mysore
+Top Stuff : 4.0 : North Indian, Chinese, Beverages : ₹450 for two :  Jayalakhsmipuram, Mysore
+Goal - Villa Park : 3.9 : North Indian, Chinese, South Indian, Beverages, Desserts, Shake, Sichuan : ₹700 for two :  Doora, Mysore
+Pinxx : 3.7 : North Indian, Chinese, BBQ, Afghan, Kebab, Salad, Desserts, Beverages : ₹800 for two :  Bannimantap, Mysore
+Dolphin Bakes N Ice Cream : 4.1 : Bakery, Fast Food, Desserts, Beverages, Shake : ₹350 for two :  Vidyaranyapura, Mysore
+Eat & Drink : 3.6 : Fast Food, Beverages : ₹200 for two :  Bogadi, Mysore
+Maa Annapoorna Bengali Mess : 3.4 : North Indian, Healthy Food : ₹300 for two :  Vijay Nagar, Mysore
+Sansou Cafe : - : Sandwich, Fast Food : ₹250 for two :  Chamrajpura, Mysore
+Lassi Shop : 4.0 : Ice Cream, Beverages, Fast Food : ₹200 for two :  Bogadi, Mysore
+Venkatesh Bhavan : 3.8 : South Indian : ₹150 for two :  Mandi Mohalla, Mysore
+Coco Cane : 4.0 : Beverages : ₹150 for two :  Vijay Nagar, Mysore
+Wah Paranthe : 4.0 : North Indian, Beverages : ₹200 for two :  Jayalakhsmipuram, Mysore
+Hotel R R Andhra Style : 3.3 : Andhra, Biryani, North Indian, Chinese, Sichuan : ₹500 for two :  Mandi Mohalla, Mysore
+Vaishnavi Dose Palace(VDP) : 3.8 : South Indian, Beverages : ₹300 for two :  Chamrajpura, Mysore
+Caravan Family Restaurant : 3.9 : Arabian, North Indian, Chinese, Sichuan : ₹550 for two :  Bannimantap, Mysore
+Tasty Hub : 3.9 : Rolls, Pizza, Burger, Fast Food : ₹400 for two :  Sakthi Nagar, Mysore
+Shawarma Point : 3.8 : Arabian : ₹350 for two :  Bogadi, Mysore
+Smoky Docky : 3.8 : Shawarma, Street Food : ₹350 for two :  Jayalakhsmipuram, Mysore
+Gusto Restaurant : 3.8 : Chinese, Mughlai, North Indian, Continental, Sichuan : ₹600 for two :  Bogadi, Mysore
+Momo House : 3.3 : Momos, Chinese, Desserts, Sichuan : ₹450 for two :  Vijay Nagar, Mysore
+Hotel Hotte Thumba : 3.7 : North Indian : ₹200 for two :  Kuvempunagar, Mysore
+Sherpa's Kitchen : 2.9 : Chinese, Beverages, Sichuan : ₹250 for two :  Jayalakhsmipuram, Mysore
+New Gayithri Bhavan : 3.7 : South Indian, Chinese, North Indian : ₹250 for two :  Vijay Nagar, Mysore
+Hotel Prashanth : 3.2 : South Indian, Mughlai : ₹300 for two :  Kuvempunagar, Mysore
+Bombat Buns : 3.4 : Burger, Beverages : ₹150 for two :  Vijay Nagar, Mysore
+Hatti Kaapi : 3.8 : Coffee : ₹200 for two :  Mandi Mohalla, Mysore
+ISIRI Multi Cuisine Family Restaurant : - : South Indian, North Indian, Chinese, Biryani, Sichuan : ₹450 for two :  Kuvempunagar, Mysore
+The Pastry Shop : 3.7 : Bakery : ₹400 for two :  Yadavgiri, Mysore
+Coconext : 3.7 : Healthy Food, Ice Cream, Desserts, Beverages : ₹300 for two :  Kuvempunagar, Mysore
+New Marathaa Mess : 3.6 : South Indian : ₹400 for two :  Kuvempunagar, Mysore
+Food Box : 3.4 : South Indian : ₹300 for two :  Vidyaranyapura, Mysore
+Sweet Palace : 4.2 : Beverages, Shake : ₹100 for two :  Jayalakhsmipuram, Mysore
+Nandini Cafe Moo : New : Pizza, Sandwich, Fast Food, Burger, Rolls, Waffle, Ice Cream, Shake : ₹600 for two :  Sakthi Nagar, Mysore
+Dosa Point : 3.7 : South Indian : ₹150 for two :  Bogadi, Mysore
+Mumbai Chai & Snacks : 3.9 : Street Food, Fast Food, Tea, Shake, Beverages : ₹300 for two :  Vidyaranyapura, Mysore
+Taj Darbar : 4.3 : Biryani, North Indian, Chinese, Mughlai : ₹300 for two :  Vijay Nagar, Mysore
+Foodie's Zone : 3.7 : Street Food, Sandwich, Fast Food, Beverages : ₹300 for two :  Kuvempunagar, Mysore
+Hyderabad Biriyani House : 4.0 : North Indian, Chinese : ₹400 for two :  Mandi Mohalla, Mysore
+New Gowdru Biryani : 3.1 : Biryani, North Indian : ₹400 for two :  Kuvempunagar, Mysore
+Sitara Cafe : 3.9 : Italian, Burger, Cafe, French, Pizza : ₹1,000 for two :  Chamrajpura, Mysore
+Sri Veg Restaurant : 3.9 : South Indian, North Indian, Chinese, Shake : ₹300 for two :  Kuvempunagar, Mysore
+Drc Cafe : 3.4 : Fast Food, Street Food, Desserts, Beverages, Shake : ₹300 for two :  Jayalakhsmipuram, Mysore
+Rolls Master's : 3.6 : Rolls, Fast Food : ₹200 for two :  Kuvempunagar, Mysore
+Aroha : 3.8 : South Indian, North Indian, Chinese, Desserts, Juices, Shake : ₹1,000 for two :  Vijay Nagar, Mysore
+Suggi Hatti : 3.1 : South Indian, North Indian : ₹300 for two :  Bogadi, Mysore
+Maheshwari Bar & Restaurant : 4.1 : South Indian, North Indian, Chinese, Fast Food, Beverages : ₹800 for two :  Doora, Mysore
+Nonsense Cafe : 3.0 : Beverages : ₹450 for two :  Jayalakhsmipuram, Mysore
+Cakeolicious : 3.9 : Bakery, Desserts, Shake, Juices, Beverages, Fast Food, Sandwich, Panini : ₹300 for two :  Vijay Nagar, Mysore
+Sarati Earth Kitchen : - : North Indian, South Indian, Continental, Fast Food, Beverages : ₹500 for two :  Bogadi, Mysore
+Rasooi Sagar : 3.9 : Fast Food, Street Food, Sandwich, Beverages : ₹150 for two :  Gokulam, Mysore
+Hotel Rajesh : 3.3 : South Indian : ₹200 for two :  Mandi Mohalla, Mysore
+Sri Krishna Upahar Veg : 3.7 : South Indian, North Indian, Chinese, Ice Cream, Beverages, Sichuan : ₹450 for two :  Kuvempunagar, Mysore
+Hotel S R : - : Biryani, South Indian : ₹300 for two :  Bogadi, Mysore
+Baale Ele Baadoota : 3.3 : South Indian, Andhra : ₹300 for two :  Kuvempunagar, Mysore
+Fiesta Juice & Snacks Junction : 3.9 : Fast Food, Street Food, Ice Cream, Beverages, Shake : ₹150 for two :  Bogadi, Mysore
+Sea Food Joint : 3.5 : Chinese : ₹300 for two :  Bogadi, Mysore
+Purohit Restaurant And Residency : 3.8 : North Indian, South Indian : ₹300 for two :  Mandi Mohalla, Mysore
+EL AFC : 3.2 : Fast Food, Burger, Juices, Shake : ₹400 for two :  Gokulam, Mysore
+Hotel Vishnu Bhavan - Pure Veg : 3.1 : South Indian, North Indian : ₹300 for two :  Mandi Mohalla, Mysore
+Cafe Perch : 3.6 : Cafe, Burger, Pizza, Chinese, Beverages, Shake : ₹200 for two :  Vidyaranyapura, Mysore
+Hotel Mylari Original : 3.5 : South Indian : ₹100 for two :  Doora, Mysore
+Yes Baik : 3.8 : Burger, Wraps, Fast Food, Beverages : ₹250 for two :  Rajiv Nagar, Mysore
+Swami's : 3.9 : South Indian, North Indian, Shake : ₹300 for two :  Habitat Mall, Jayalakhsmipuram, Mysore
+Hotel Country Cuisine : 3.5 : South Indian : ₹100 for two :  Kuvempunagar, Mysore
+Rolligion : 3.9 : Fast Food, Rolls, Sandwich, Beverages : ₹200 for two :  Gokulam, Mysore
+Royal Mess : - : Biryani, North Indian : ₹300 for two :  Bannimantap, Mysore
+Bombay Tiffanys Kuvempu : 3.5 : Fast Food, Street Food, Mithai, Desserts, Beverages : ₹400 for two :  Kuvempunagar, Mysore
+Spicy Bite : 3.3 : Fast Food, Chinese, Sandwich, Burger, Beverages : ₹300 for two :  Vijay Nagar, Mysore
+Lassi Shop : 3.7 : Beverages, Shake, Desserts, Juices, Ice Cream : ₹250 for two :  Chamrajpura, Mysore
+Bhairava Mess : 4.4 : South Indian : ₹200 for two :  Kuvempunagar, Mysore
+Hotel Cafe Mysore : - : South Indian, Chinese, North Indian : ₹300 for two :  Ittige Gudu, Mysore
+Purple Restaurant : 3.1 : Chinese, Kerala, North Indian, South Indian, Ice Cream, Beverages, Shake : ₹800 for two :  Ittige Gudu, Mysore
+Zaika : 3.6 : North Indian, Arabian, Chinese, Beverages, Biryani, Sichuan : ₹500 for two :  Mandi Mohalla, Mysore
+Lassi N Cafe : 3.5 : Juices, Beverages, Ice Cream : ₹200 for two :  Jayalakhsmipuram, Mysore
+SRS Venulola : 3.8 : South Indian, Street Food : ₹200 for two :  Vijay Nagar, Mysore
+Auburn : - : North Indian, Biryani, Chinese, Sandwich, Sichuan : ₹500 for two :  Yadavgiri, Mysore
+Ghiza : 4.0 : North Indian, Mandi, Biryani, Chinese, Mughlai, Ice Cream, Juices, Beverages : ₹1,000 for two :  Rajendra Nagar, Mysore
+Samara's Veg : 3.2 : South Indian : ₹300 for two :  Gokulam, Mysore
+Zafran Restaurant Veg & Nonveg : 3.9 : North Indian, Chinese, Biryani, Fast Food, Shake, Sichuan : ₹400 for two :  Mandi Mohalla, Mysore
+Just Bake : 3.0 : Bakery : ₹400 for two :  Vijay Nagar, Mysore
+Preethi Sagar : 3.5 : South Indian : ₹150 for two :  Chamrajpura, Mysore
+Bombay Sweets & Chats : 3.7 : Mithai, Street Food : ₹150 for two :  Gokulam, Mysore
+Stoned Monkey : 3.8 : Desserts, Fast Food, Beverages, Shake : ₹500 for two :  Gokulam, Mysore
+Sizzle N Spice : 3.9 : Chinese, Street Food, Fast Food : ₹150 for two :  Jayalakhsmipuram, Mysore
+Shree Guru Sasyahari : 3.4 : South Indian, North Indian, Chinese, Street Food, Desserts, Beverages : ₹400 for two :  Kuvempunagar, Mysore
+VB Food Court : - : South Indian : ₹600 for two :  Vijay Nagar, Mysore
+Kaveri Mess : New : Biryani, South Indian, Chinese : ₹300 for two :  Vijay Nagar, Mysore
+Rusty Bun : 3.4 : Fast Food, Burger, Steak : ₹400 for two :  Vijay Nagar, Mysore
+9 Tea : 3.6 : Beverages, Street Food : ₹250 for two :  Jayalakhsmipuram, Mysore
+Kanksshi's Cafe : 3.8 : Fast Food : ₹200 for two :  Yadavgiri, Mysore
+Karnataka Biryani Center : 3.6 : South Indian, Biryani, Fast Food : ₹350 for two :  Vijay Nagar, Mysore
+Shetty's Coastal Garden : 3.6 : South Indian, North Indian, Mughlai, Seafood, Biryani, Beverages : ₹750 for two :  Vijay Nagar, Mysore
+Milan Restaurant : 3.9 : North Indian, Chinese, Arabian : ₹300 for two :  Bannimantap, Mysore
+Just Nati : 3.5 : Kerala, South Indian : ₹500 for two :  Vijay Nagar, Mysore
+Honey Drops : 3.4 : Fast Food, Italian, Beverages, Rolls, Shake : ₹400 for two :  Vijay Nagar, Mysore
+The Taste Factory : 3.1 : North Indian, Chinese, Desserts, Beverages, Sichuan : ₹300 for two :  Bannimantap, Mysore
+Sweet Palace Cafe : 3.9 : North Indian, Juices, BBQ, Chinese, Street Food, Fast Food, Beverages, Shake : ₹450 for two :  Kuvempunagar, Mysore
+Homley Meals : 3.5 : Kerala : ₹450 for two :  Vijay Nagar, Mysore
+Pind - Truly Punjabi : 3.9 : North Indian : ₹250 for two :  Vijay Nagar, Mysore
+Eats of Hebbal : 3.7 : Fast Food : ₹200 for two :  Vijay Nagar, Mysore
+Vaishnavi Upahar : - : South Indian, Chinese : ₹600 for two :  Vidyaranyapura, Mysore
+Dhruva Simple Chats : 3.4 : Street Food, Chinese, Fast Food, Biryani : ₹200 for two :  Kuvempunagar, Mysore
+Liquidity : 3.5 : Beverages, Desserts, Fast Food, Sandwich, Street Food : ₹200 for two :  Kuvempunagar, Mysore
+Barista Coffee : 3.7 : Cafe, Coffee, Beverages, Fast Food : ₹500 for two :  Mall Of Mysore, Ittige Gudu, Mysore
+Arabian Streets : 3.8 : Lebanese, BBQ, Sandwich, Beverages : ₹300 for two :  Kuvempunagar, Mysore
+Goli Vada Pav No.1 : 3.4 : Fast Food, Shake : ₹150 for two :  Jayalakhsmipuram, Mysore
+Food Lover Restaurant : 2.9 : North Indian, Biryani : ₹300 for two :  Vijay Nagar, Mysore
+Rali's : 2.6 : Fast Food, Desserts, Beverages, Sandwich, Street Food : ₹150 for two :  Chamrajpura, Mysore
+Dolphin Bakes N Ice Cream : 3.8 : Rolls, Bakery, Desserts, Shake : ₹300 for two :  Jayalakhsmipuram, Mysore
+Biryaniwala : 3.7 : North Indian, Chinese, Biryani, Beverages : ₹500 for two :  Kuvempunagar, Mysore
+Cafe Byte : 3.6 : Chinese, Fast Food, Beverages, Sichuan : ₹400 for two :  Gokulam, Mysore
+Juice Station And More : 3.7 : Beverages, Fast Food, Finger Food, Shake : ₹150 for two :  Kuvempunagar, Mysore
+Sha's : 3.4 : Chinese, Kebab, North Indian, South Indian : ₹500 for two :  Ittige Gudu, Mysore
+Chillz Cafe : 3.8 : Fast Food, Sandwich, Beverages : ₹300 for two :  Rajendra Nagar, Mysore
+Chats Cafe : 3.2 : Fast Food, Chinese : ₹250 for two :  Kuvempunagar, Mysore
+Cafe Tara : 3.8 : Pizza, Italian, Sandwich, Fast Food, Beverages, Mexican, Asian, Shake : ₹600 for two :  Gokulam, Mysore
+Brahmins Dosa Point : 3.5 : South Indian : ₹300 for two :  Chamrajpura, Mysore
+Agarwal Chats : 3.3 : Street Food : ₹200 for two :  Kuvempunagar, Mysore
+Zwarma : 3.8 : Lebanese, Fast Food, BBQ : ₹200 for two :  Sakthi Nagar, Mysore
+Aramane Benne Biryani : 3.9 : Biryani, Chinese, North Indian : ₹300 for two :  Vijay Nagar, Mysore
+Hotel White Parrot : 3.6 : North Indian, Mughlai, Kebab, Chinese, Desserts, Beverages, Shake, Sichuan : ₹600 for two :  Bannimantap, Mysore
+Juice Box : 3.6 : Juices, Sandwich, Shake : ₹200 for two :  Vidyaranyapura, Mysore
+Roti Boss : 3.8 : North Indian, Chinese, Rolls : ₹450 for two :  Kuvempunagar, Mysore
+Grand Chilies Multicuisine Restaurant : 3.2 : Chinese, North Indian, Biryani, Seafood, Fast Food, Beverages, Sichuan : ₹400 for two :  Vijay Nagar, Mysore
+Meghana Restaurant : 3.7 : North Indian, Chinese, Biryani, Street Food : ₹400 for two :  Sharadadevi Nagar, Mysore
+Cloverdale Cuisine : 3.4 : Chinese, Kebab, North Indian, Biryani, Rolls, Shake, Beverages : ₹1,000 for two :  Gokulam, Mysore
+Eat Out Mysuru : 3.1 : Fast Food, Biryani, Beverages : ₹200 for two :  Jayalakhsmipuram, Mysore
+Sri Annapurneshwari Hotel : 3.4 : South Indian, Chinese, North Indian : ₹300 for two :  Kuvempunagar, Mysore
+Just Bake : 3.6 : Bakery, Desserts, Fast Food : ₹300 for two :  Sakthi Nagar, Mysore
+Karnataka Biryani Centre : 3.6 : Biryani, Chinese : ₹250 for two :  Vidyaranyapura, Mysore
+Fanoos Hotel : 3.4 : Biryani, Mughlai, North Indian : ₹300 for two :  Mandi Mohalla, Mysore
+Gulp Chaat Bar : - : Street Food, Maharashtrian, Desserts, Beverages : ₹200 for two :  Jayalakhsmipuram, Mysore
+Swad : 3.6 : North Indian, Kebab, Chinese, Pizza : ₹500 for two :  Bannimantap, Mysore
+Heaven's Cafe : - : Sandwich, Burger, Ice Cream, Beverages, Shake : ₹350 for two :  Vidyaranyapura, Mysore
+Hot Bytes : - : Fast Food, Burger : ₹200 for two :  Kuvempunagar, Mysore
+Hotel Banduru Biryani : 3.6 : South Indian, Seafood, Biryani, Street Food : ₹250 for two :  Bogadi, Mysore
+Hyderabadi Plaza : 3.6 : Hyderabadi, North Indian, Kebab, Rolls, Mughlai, Biryani, Street Food : ₹400 for two :  Mandi Mohalla, Mysore
+Wake Up Bar Cafe : 3.0 : Shake, Juices, Beverages, Sandwich, Rolls, Fast Food, Chinese, Street Food : ₹250 for two :  Kuvempunagar, Mysore
+Turmeric Kitchen : 3.4 : South Indian, North Indian, Chinese, Momos : ₹600 for two :  Chamrajpura, Mysore
+Limelight Multi Cuisine Family Restaurant : 3.3 : North Indian, Chinese, Seafood, Sichuan : ₹400 for two :  Vijay Nagar, Mysore
+Wendy's Burgers : 3.6 : Burger, Fast Food : ₹300 for two :  Vijay Nagar, Mysore
+Five Star Chicken And Koli Hut : 2.7 : Fast Food, Burger, Rolls : ₹300 for two :  JP Nagar, Mysore
+Nuthan Biryani Utsav : 3.4 : Biryani, Fast Food, North Indian : ₹200 for two :  Kuvempunagar, Mysore
+Food Palace : 3.6 : South Indian, North Indian : ₹300 for two :  Doora, Mysore
+American Cuisine : 3.4 : Rolls, Burger, Pizza : ₹400 for two :  Gokulam, Mysore
+Hotel Bhargav : New : South Indian : ₹200 for two :  Bannimantap, Mysore
+Royal Bucket Biryani : - : Biryani, North Indian, Mughlai, Chinese, Sichuan : ₹1,000 for two :  Jayalakhsmipuram, Mysore
+Chef's Biryani - Taste of Mysuru : - : Biryani, North Indian : ₹300 for two :  Vijay Nagar, Mysore
+CLS Veg : 3.5 : South Indian : ₹200 for two :  Vijay Nagar, Mysore
+Cake Desire : - : Bakery : ₹350 for two :  Kuvempunagar, Mysore
+Royal Bucket Biryani : 3.0 : Biryani, North Indian, Kebab : ₹450 for two :  Kuvempunagar, Mysore
+Westend : 3.5 : Sandwich, Fast Food, Shake, Juices, Beverages, Street Food : ₹200 for two :  Gokulam, Mysore
+Chef's De Cuisine : 3.3 : South Indian, Chinese : ₹200 for two :  Kuvempunagar, Mysore
+Kesari Restaurant : 3.3 : North Indian, South Indian, Biryani, Chinese, Shake : ₹500 for two :  Tilak Nagar, Mysore
+Cafe Mist : 3.3 : Cafe, Pasta, Shake : ₹600 for two :  Gokulam, Mysore
+Cafe Grand Restaurant : - : Arabian, Biryani, Chinese, Desserts, Beverages, Sichuan : ₹400 for two :  Vijay Nagar, Mysore
+Pavilion : 2.9 : North Indian, Chinese : ₹750 for two :  Mandi Mohalla, Mysore
+Ice N Spice : - : Beverages, Fast Food, Chinese, Street Food, Desserts, Shake : ₹400 for two :  Jayalakhsmipuram, Mysore
+Cask Pegs & Kitchen : New : Chinese, Fast Food, Seafood, Sichuan : ₹300 for two :  Kuvempunagar, Mysore
+Mysore Union : - : North Indian, Continental, Oriental, Mughlai, Fast Food, Seafood, Sichuan : ₹750 for two :  Vijay Nagar, Mysore
+Lounge 29 At Samasth Palatial : 2.6 : North Indian, Chinese, Continental : ₹1,100 for two :  Vijay Nagar, Mysore
+By The Way : 3.3 : North Indian, Chinese, Mangalorean, Thai, Desserts, Beverages : ₹800 for two :  Vijay Nagar 2nd Stage, Mysore
+Village Hut Restaurant : 2.9 : Biryani, South Indian : ₹350 for two :  Vijay Nagar, Mysore
+Mosaic : 2.8 : Continental, North Indian, Chinese, Mexican, Sandwich, Italian, Fast Food, Beverages : ₹1,900 for two :  Country Inn & Suites By Radisson, Mysore
+Brew Stag : 3.3 : North Indian, Chinese : ₹550 for two :  Vijay Nagar 2nd Stage, Mysore
+Chettai's Family Restaurant : 3.0 : Kerala, South Indian, Chinese, Fast Food, Biryani, Juices, Beverages : ₹350 for two :  Vijay Nagar, Mysore
+Pool Bar & Grill : 3.3 : Finger Food : ₹1,000 for two :  Country Inn & Suites By Radisson, Mysore
+Tonif : 3.3 : North Indian : ₹250 for two :  Vijay Nagar, Mysore
+The Elephant Bar : 3.5 : Bar Food : ₹1,500 for two :  Chamrajpura, Mysore
+Cafe Maya : 4.2 : Fast Food, Sandwich, Rolls, Chinese, Street Food, Ice Cream, Beverages : ₹250 for two :  Vijay Nagar 2nd Stage, Mysore
+Mysore Mylari : 4.1 : South Indian, North Indian, Chinese, Street Food, Desserts, Beverages : ₹400 for two :  Vijay Nagar, Mysore
+Donne Biryani Mane : - : Biryani, Chinese, North Indian, Shake : ₹300 for two :  Vijay Nagar, Mysore
+Cafe Unplugged : 4.3 : Chinese, Beverages, Desserts, Shake, Sichuan : ₹600 for two :  Vijay Nagar, Mysore
+Meat And Eat : New : Burger, Roast Chicken, Wraps, Sandwich : ₹200 for two :  Vijay Nagar 2nd Stage, Mysore
+Rasooi Delite : 2.9 : North Indian, Chinese, Sandwich, Street Food, Desserts, Beverages, Shake, Sichuan : ₹250 for two :  Vijay Nagar, Mysore
+Kalyani Restaurant : 3.9 : North Indian, Biryani, Chinese, Shake : ₹800 for two :  Vijay Nagar 2nd Stage, Mysore
+Fish Curry Rice : 3.8 : North Indian, Chinese, Kerala, Seafood, Biryani, Beverages : ₹500 for two :  Vijay Nagar, Mysore
+Green Park : - : North Indian, South Indian, Chinese, Continental : ₹1,200 for two :  Grand Maurya Hotel, Mysore
+Sainik Restaurant and Bunker Hub : New : Biryani, North Indian, South Indian : ₹250 for two :  Vijay Nagar 2nd Stage, Mysore
+Sainik Restaurant and Bunker Hub : 2.7 : Biryani, North Indian, South Indian : ₹250 for two :  Vijay Nagar 2nd Stage, Mysore
+Sukhadhare Restaurant : 3.8 : North Indian, South Indian : ₹500 for two :  Vijay Nagar, Mysore
+Joe Food Court : 4.2 : North Indian, South Indian, Chinese, Biryani : ₹400 for two :  Vijay Nagar, Mysore
+The Tandoori Bite : 3.8 : North Indian, Biryani, Chinese : ₹300 for two :  Jayalakhsmipuram, Mysore
+Shri Chamundeshwari Military Hotel : 3.2 : South Indian : ₹350 for two :  Bannimantap, Mysore
+Hotel Golden Grass : 3.8 : North Indian, Chinese, South Indian : ₹600 for two :  Jayalakhsmipuram, Mysore
+My-Sooru Benne Biriyani : 3.6 : Biryani, South Indian : ₹250 for two :  Vijay Nagar, Mysore
+Bamm N Boo : 3.5 : Chinese, North Indian : ₹400 for two :  Vijay Nagar, Mysore
+Desi Fries : 3.8 : South Indian, North Indian, Seafood, Kebab : ₹250 for two :  Vijay Nagar 2nd Stage, Mysore
+Mysorean Just Naati : 3.8 : North Indian, Chinese, South Indian, Mughlai : ₹500 for two :  Vijay Nagar, Mysore
+Food Junction : 3.4 : South Indian, Chinese, Beverages : ₹200 for two :  Vijay Nagar, Mysore
+Aramane Benne Biryani : 3.8 : Biryani, North Indian, Chinese, Sichuan, South Indian : ₹400 for two :  Vijay Nagar 2nd Stage, Mysore

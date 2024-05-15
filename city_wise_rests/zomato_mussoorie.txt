@@ -1,0 +1,225 @@
+Little LLAMA Café : 4.9 : Cafe, Pizza, Burger : ₹1,000 for two :  The Mall Road, Mussoorie
+Bellamount Restro & Bar : 4.9 : North Indian, South Indian, Chinese, Continental, Italian, Beverages, Desserts : ₹1,500 for two :  The Mall Road, Mussoorie
+Kalsang : 4.2 : Chinese, Thai, Tibetan, Momos : ₹800 for two :  The Mall Road, Mussoorie
+Cafe De Tavern : 3.9 : Cafe, Bakery : ₹700 for two :  The Mall Road, Mussoorie
+Urban Turban : 4.9 : North Indian, Mughlai, Momos : ₹1,000 for two :  The Mall Road, Mussoorie
+Chick Chocolate Cafe : 3.4 : Cafe, Bakery : ₹800 for two :  The Mall Road, Mussoorie
+Emily's - The Rokeby Manor : 4.0 : North Indian, French, Italian, Desserts, Kebab, Salad : ₹2,500 for two :  Landour, Mussoorie
+The Glen : 4.8 : North Indian, Italian, Chinese, Bar Food : ₹2,000 for two :  The Mall Road, Mussoorie
+Café By The Way : 4.3 : Cafe, Fast Food, Beverages : ₹400 for two :  The Mall Road, Mussoorie
+Cafe De Landour - CDL : 3.4 : Cafe, Italian : ₹500 for two :  Landour, Mussoorie
+Sandoz Restaurant : 3.5 : Healthy Food, Chinese, North Indian, Mughlai, Beverages : ₹1,200 for two :  The Mall Road, Mussoorie
+The Tavern Bar & Restaurant : 4.2 : North Indian, Chinese, Continental : ₹2,000 for two :  The Mall Road, Mussoorie
+JW Cafe : 4.3 : American, Cafe : ₹2,500 for two :  JW Marriott Mussoorie Walnut Grove Resort & Spa, Kempty Fall, Mussoorie
+Cafe Tea Totaler : 4.1 : Cafe, Fast Food, Desserts, Beverages : ₹600 for two :  The Mall Road, Mussoorie
+Cafe Madras : 3.6 : South Indian, Beverages, Desserts : ₹300 for two :  The Mall Road, Mussoorie
+The Grand Dining Room - Welcom Hotels The Savoy : 4.1 : North Indian, Continental, Chinese : ₹4,000 for two :  The Mall Road, Mussoorie
+The Writer's Bar - Hotel Savoy Welcom : 3.9 : Finger Food : ₹2,000 for two :  The Mall Road, Mussoorie
+Neelam Restaurant : 4.3 : Chinese, Mughlai, North Indian : ₹600 for two :  The Mall Road, Mussoorie
+Teppan : 3.9 : Asian : ₹3,500 for two :  JW Marriott Mussoorie Walnut Grove Resort & Spa Kempty Fall Road, Mussoorie
+Mussoorie Sweet Shop : 4.8 : Street Food, Mithai : ₹200 for two :  The Mall Road, Mussoorie
+The Criterion Cafe : 4.1 : Cafe, Italian, Fast Food, Beverages : ₹800 for two :  The Mall Road, Mussoorie
+Paprika Restro &  Cafe : 3.4 : North Indian, Pizza, Fast Food, Chinese, Desserts, Beverages : ₹400 for two :  Landour, Mussoorie
+Madras Cafe : 3.6 : South Indian : ₹500 for two :  The Mall Road, Mussoorie
+Orchid : - : North Indian, Mughlai, Garhwali, Chinese, Continental, Italian : ₹1,200 for two :  The Mall Road, Mussoorie
+Laxmi Mishtan Bhandar : 3.8 : Mithai, North Indian, South Indian : ₹600 for two :  The Mall Road, Mussoorie
+Landour Bakehouse : 4.8 : Cafe, Bakery, Desserts : ₹500 for two :  Landour, Mussoorie
+Xero Degrees : New : Cafe, Coffee, Pizza, Burger, Sandwich, Fast Food, Beverages, Desserts : ₹1,300 for two :  The Mall Road, Mussoorie
+My Shop : 3.7 : North Indian : ₹800 for two :  The Mall Road, Mussoorie
+Cafe Manor - Jaypee Residency Manor : 3.9 : Cafe : ₹1,000 for two :  Jaypee Residency Manor, Barlow Ganj, Mussoorie
+Domino's Pizza : 3.6 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  The Mall Road, Mussoorie
+Trout House Grill & Bar : 4.3 : North Indian : ₹4,000 for two :  JW Marriott Mussoorie Walnut Grove Resort & Spa, Kempty Fall, Mussoorie
+Whispering Windows : 3.9 : North Indian, Chinese, Mughlai, Beverages : ₹700 for two :  The Mall Road, Mussoorie
+The Green Vegetarian : 4.0 : North Indian, Fast Food, Biryani, Chinese, Beverages, Shake : ₹600 for two :  The Mall Road, Mussoorie
+The Doon Diner - Sterling Mussoorie : 3.9 : Continental, North Indian, Chinese, South Indian : ₹1,800 for two :  Library Road, Mussoorie
+Udupi : 3.2 : South Indian : ₹450 for two :  The Mall Road, Mussoorie
+Surichi Restaurant : 4.0 : North Indian, Gujarati, South Indian, Chinese : ₹600 for two :  The Mall Road, Mussoorie
+Marshal's Lounge - Jaypee Residency Manor : 3.9 : North Indian, Chinese, Kebab : ₹1,200 for two :  Jaypee Residency Manor, Barlow Ganj, Mussoorie
+Momos : 4.1 : Tibetan, Momos : ₹800 for two :  The Mall Road, Mussoorie
+Uphar Vegetarian : 3.4 : Chinese, North Indian, South Indian, Fast Food : ₹550 for two :  The Mall Road, Mussoorie
+Shahi Rasoi : 3.9 : North Indian, Chinese, Street Food, Fast Food, Desserts, Beverages : ₹800 for two :  The Mall Road, Mussoorie
+The Rosemary Restaurant : 3.9 : Healthy Food, Seafood, North Indian, Asian, Biryani, Fast Food, Desserts, Beverages : ₹1,800 for two :  Library Road, Mussoorie
+Raj Kamal Restaurant : 3.9 : North Indian, Chinese : ₹800 for two :  The Mall Road, Mussoorie
+Café Library : 3.7 : Cafe, Fast Food, Italian, Chinese, Momos, Desserts, Pasta : ₹700 for two :  The Mall Road, Mussoorie
+The Cliffé Café : 3.3 : Cafe, Fast Food, Kebab, North Indian, Beverages : ₹1,000 for two :  Landour, Mussoorie
+The Glasshouse : 3.8 : North Indian, Italian, Chinese, Continental : ₹1,800 for two :  The Mall Road, Mussoorie
+Funjabi Tandoorzzz : 4.3 : North Indian, Continental, Chinese : ₹600 for two :  The Mall Road, Mussoorie
+Moti Mahal Delux : 3.6 : North Indian : ₹1,000 for two :  The Mall Road, Mussoorie
+Aggarwal Vegetarian : 3.1 : North Indian : ₹600 for two :  The Mall Road, Mussoorie
+Whistling Pines : 3.8 : Continental, South Indian, Desserts : ₹800 for two :  The Mall Road, Mussoorie
+All Seasons Bar Cafe' : 3.9 : Italian, Bar Food : ₹2,500 for two :  The Mall Road, Mussoorie
+Atul Pure Vegetarian : 3.9 : North Indian : ₹800 for two :  The Mall Road, Mussoorie
+Aap Ka Aahar : 3.7 : North Indian, Mughlai, Chinese, Biryani : ₹600 for two :  The Mall Road, Mussoorie
+Sicoh Restaurant & Bar : 3.9 : Bar Food, Chinese, North Indian : ₹1,800 for two :  The Mall Road, Mussoorie
+Honey Hut : 3.8 : Cafe : ₹600 for two :  The Mall Road, Mussoorie
+Cafe Young : 3.6 : Cafe, European, Italian, Thai, Fast Food, Chinese, Beverages : ₹700 for two :  The Mall Road, Mussoorie
+Friends Bar-be-que Nation : 3.4 : Chinese, North Indian : ₹1,000 for two :  The Mall Road, Mussoorie
+The Ginza : 4.2 : Chinese, Fast Food, Momos, Beverages : ₹800 for two :  The Mall Road, Mussoorie
+Clock Tower Cafe : 3.5 : Cafe : ₹1,000 for two :  Landour, Mussoorie
+Zevog Courtyard : 3.9 : Italian, North Indian, Chinese, Fast Food, Beverages : ₹800 for two :  The Mall Road, Mussoorie
+Chacha Ka Restaurant : 3.9 : North Indian : ₹700 for two :  The Mall Road, Mussoorie
+Sher-E-Punjab Restaurant : 3.6 : North Indian, Fast Food, Biryani, Beverages : ₹400 for two :  The Mall Road, Mussoorie
+Restro 89 : 3.7 : Cafe : ₹600 for two :  The Mall Road, Mussoorie
+The Soy Story : 3.1 : Tibetan, Chinese, Thai, Momos : ₹500 for two :  The Mall Road, Mussoorie
+Tunday Kababi : 3.7 : Mughlai : ₹500 for two :  The Mall Road, Mussoorie
+Fro Rolls : 3.9 : Ice Cream : ₹300 for two :  The Mall Road, Mussoorie
+Cafe Anahata : 3.9 : Cafe, Coffee, Tea, Shake, Pizza, Fast Food, Steak, Chinese : ₹600 for two :  Kempty Fall Road, Mussoorie
+Cafe Ivy : 4.5 : Cafe, Coffee, Pizza, Pasta, Sandwich, Burger, Fast Food, Beverages : ₹1,000 for two :  Landour, Mussoorie
+Inder's Bengali Sweets : 3.9 : Mithai : ₹250 for two :  The Mall Road, Mussoorie
+Gupta Fast Food Corner : 3.9 : Fast Food : ₹150 for two :  The Mall Road, Mussoorie
+Laakhi Bhojanalaya : 3.9 : North Indian : ₹100 for two :  The Mall Road, Mussoorie
+Chai Shai. : 3.7 : Fast Food, Burger, Sandwich, Beverages : ₹200 for two :  The Mall Road, Mussoorie
+Hotel Ashirwad : 3.8 : North Indian, Chinese, Street Food, Beverages, Shake : ₹400 for two :  The Mall Road, Mussoorie
+Nijbhog : 3.0 : North Indian, South Indian, Chinese, Continental, Street Food, Desserts, Beverages : ₹300 for two :  Library Road, Mussoorie
+Mughal Dilli ~ 6 : 3.6 : Mughlai, North Indian : ₹800 for two :  The Mall Road, Mussoorie
+Krishna Vegetarian : 3.3 : Street Food : ₹300 for two :  The Mall Road, Mussoorie
+Prince Omelette Centre : 3.5 : Fast Food : ₹200 for two :  The Mall Road, Mussoorie
+Le Chef : 3.0 : North Indian, Fast Food, Cafe : ₹1,000 for two :  The Mall Road, Mussoorie
+Pizza By Icebergs : - : North Indian, Chinese, Sandwich, Fast Food, Mughlai, Seafood, Street Food, Beverages : ₹500 for two :  Kempty Fall Road, Mussoorie
+Golden Restaurant : 2.8 : North Indian, Chinese : ₹450 for two :  Landour, Mussoorie
+The Pebble Street : - : North Indian, Chinese, Mughlai : ₹600 for two :  The Mall Road, Mussoorie
+La Tavola Mussoorie : - : Italian, Fast Food : ₹400 for two :  Landour, Mussoorie
+Park Cafe : - : Continental, Chinese, Beverages : ₹800 for two :  Charleville, Mussoorie
+Nostradamus Bar And Lounge : - : Bar Food : ₹1,500 for two :  Library Road, Mussoorie
+Georgy Porgy Veg & Non-Veg Family Restaurant : - : North Indian, Mughlai, Healthy Food, Kebab, Biryani, Beverages : ₹500 for two :  The Mall Road, Mussoorie
+The Terrace : - : North Indian, Mughlai, European, Chinese : ₹1,800 for two :  Library Road, Mussoorie
+Deodar Kitchen : - : Chinese, North Indian, Biryani, Street Food, Beverages : ₹500 for two :  The Mall Road, Mussoorie
+Cafe Y : - : Fast Food, Beverages : ₹300 for two :  The Mall Road, Mussoorie
+Wildflower Restaurant : - : North Indian, Chinese : ₹500 for two :  The Mall Road, Mussoorie
+Mussoorie Dosa Palace : - : South Indian, North Indian : ₹200 for two :  The Mall Road, Mussoorie
+Regency : - : North Indian, Chinese, Continental : ₹1,500 for two :  Barlow Ganj, Mussoorie
+Roti Chai : - : North Indian, Chinese : ₹250 for two :  Barlow Ganj, Mussoorie
+Wisteria Deck - JW Marriott Walnut Grove Resort & Spa : 4.4 : Italian : ₹3,000 for two :  JW Marriott Mussoorie Walnut Grove Resort & Spa, Kempty Fall, Mussoorie
+Doma's : 4.0 : Tibetan, Chinese, Momos : ₹500 for two :  Landour, Mussoorie
+Big Bite : - : Fast Food : ₹300 for two :  The Mall Road, Mussoorie
+Hotel Naaz : - : North Indian : ₹400 for two :  The Mall Road, Mussoorie
+Tirupati Balaji Vegetarian : - : North Indian, Chinese, South Indian : ₹600 for two :  Landour, Mussoorie
+Thee Spasso Bar And Restaurant : - : North Indian, Chinese, Beverages : ₹1,000 for two :  Christian Village, Mussoorie
+Char Dukan Cafe : 3.9 : Fast Food : ₹250 for two :  Landour, Mussoorie
+Savoy Cafe : - : Cafe, Coffee, Beverages : ₹500 for two :  Landour, Mussoorie
+Hapur Walo Ki Dukan : - : Garhwali, Mithai, Tea : ₹400 for two :  Landour, Mussoorie
+Fay Cafe : - : Chinese, Fast Food, Street Food, North Indian, Salad, Desserts, Beverages : ₹1,500 for two :  Barlow Ganj, Mussoorie
+Seegreen Cafe : - : Cafe, Coffee : ₹500 for two :  Charleville, Mussoorie
+Blue Pine Restaurant : - : Chinese, Continental, North Indian, Italian, South Indian : ₹800 for two :  Kempty Fall Road, Mussoorie
+The Village Cafe : - : North Indian, Beverages, Fast Food : ₹200 for two :  Charleville, Mussoorie
+ArtBuzz : - : North Indian, Fast Food, Beverages : ₹800 for two :  The Mall Road, Mussoorie
+Clark's Restaurant : - : Chinese, North Indian, South Indian : ₹600 for two :  The Mall Road, Mussoorie
+The Royal Cafe : - : North Indian : ₹500 for two :  The Mall Road, Mussoorie
+Hotel Sungrace : - : North Indian : ₹600 for two :  Kempty Fall Road, Mussoorie
+City Point : - : South Indian, North Indian, Chinese : ₹550 for two :  The Mall Road, Mussoorie
+Bindra's South Indian : - : South Indian, North Indian, Chinese : ₹350 for two :  The Mall Road, Mussoorie
+Janta Bhojnalaya : - : North Indian, Fast Food, Biryani, Beverages : ₹300 for two :  The Mall Road, Mussoorie
+Mohan Tea Stall : - : Fast Food : ₹150 for two :  The Mall Road, Mussoorie
+Hotel Ratan : - : North Indian, Chinese : ₹800 for two :  The Mall Road, Mussoorie
+Daawat - Hotel Shiva Continental : - : North Indian : ₹700 for two :  The Mall Road, Mussoorie
+Classic Food Plaza : - : North Indian, South Indian, Chinese, Momos, Fast Food, Sandwich, Beverages : ₹300 for two :  The Mall Road, Mussoorie
+Midway Restaurant : - : North Indian, Chinese, Momos, Street Food, Tea, Coffee : ₹100 for two :  Library Road, Mussoorie
+Cafe C : New : Sandwich, Wraps, Salad, Chinese : ₹300 for two :  The Mall Road, Mussoorie
+Snow View Restaurant : - : North Indian, Chinese : ₹500 for two :  The Mall Road, Mussoorie
+The Bendside Cafe : - : North Indian, Continental : ₹200 for two :  Christian Village, Mussoorie
+Shudh Shakahari Punjabi Khana : - : North Indian : ₹200 for two :  The Mall Road, Mussoorie
+Prem Restaurant : - : Fast Food : ₹150 for two :  The Mall Road, Mussoorie
+The Kothaar By Cafe Garaage : - : Cafe, Coffee, Fast Food : ₹600 for two :  Charleville, Mussoorie
+Gusain Dhaba : - : North Indian : ₹250 for two :  Charleville, Mussoorie
+The Sakala Restaurant : - : North Indian, Italian, Continental, Chinese : ₹1,000 for two :  Library Road, Mussoorie
+Maddy's Latavola : - : Chinese, North Indian, Momos, Pizza, Pasta, Fast Food, Desserts, Beverages : ₹500 for two :  Landour, Mussoorie
+Khanna Khazana : - : North Indian : ₹150 for two :  The Mall Road, Mussoorie
+Wood Brick Cafe : - : Cafe, Coffee : ₹500 for two :  The Mall Road, Mussoorie
+The Mountain Lovers Cafe And Restaurant : - : North Indian, Chinese : ₹500 for two :  Christian Village, Mussoorie
+Chandan Sweet Shop : - : Mithai, Street Food : ₹150 for two :  The Mall Road, Mussoorie
+Gulab : - : Chinese, North Indian : ₹300 for two :  The Mall Road, Mussoorie
+Desi Dera : - : North Indian, Fast Food, Street Food, Chinese, Pizza, Sandwich, Beverages : ₹300 for two :  The Mall Road, Mussoorie
+Beechwood Restaurant : - : Spanish, Bakery : ₹800 for two :  The Mall Road, Mussoorie
+Little Hut Cafe : - : Fast Food : ₹250 for two :  Landour, Mussoorie
+AFC Tandoor : - : Charcoal Chicken, Seafood, Momos : ₹200 for two :  Library Road, Mussoorie
+Lomo Restaurant : - : North Indian, Chinese : ₹400 for two :  The Mall Road, Mussoorie
+Anand Restaurant : - : North Indian : ₹200 for two :  The Mall Road, Mussoorie
+Angrezi Beat : - : Mughlai, North Indian, Chinese : ₹1,000 for two :  The Mall Road, Mussoorie
+Peppers Restaurant : - : North Indian, Fast Food, Chinese, Italian : ₹550 for two :  The Mall Road, Mussoorie
+Rahul Restaurant : - : North Indian, South Indian : ₹100 for two :  Charleville, Mussoorie
+Om Sai Vegetarian : - : Fast Food : ₹150 for two :  Landour, Mussoorie
+Winn Cafe : - : North Indian, Chinese, Fast Food : ₹400 for two :  Barlow Ganj, Mussoorie
+Hotel Mallview : - :  : ₹600 for two :  The Mall Road, Mussoorie
+Rehmat Restaurant : - : North Indian, Mughlai : ₹500 for two :  The Mall Road, Mussoorie
+Sunil Momos Cafe : - : Fast Food : ₹300 for two :  Landour, Mussoorie
+The Bunny Town : - : Chinese : ₹400 for two :  Barlow Ganj, Mussoorie
+Shivroots Cafe : - : North Indian, Chinese, Fast Food, Street Food, Beverages : ₹400 for two :  Kempty Fall Road, Mussoorie
+Rasat Bhojanalaya : - : North Indian, Fast Food : ₹300 for two :  Landour, Mussoorie
+Cafe Green Mount : - : Coffee, Beverages, Continental, Chinese, Fast Food : ₹300 for two :  Kempty Fall Road, Mussoorie
+The Kaafal Cafe : - : North Indian : ₹400 for two :  Charleville, Mussoorie
+Rozana Restaurant : - : North Indian, Chinese, Sandwich, Fast Food, Street Food : ₹300 for two :  Library Road, Mussoorie
+Himalayan Sweets : - : Mithai : ₹200 for two :  The Mall Road, Mussoorie
+OAK Sunlight Restaurant : - : North Indian, Garhwali, Beverages : ₹300 for two :  Charleville, Mussoorie
+Cafe Garage : - : Fast Food : ₹200 for two :  The Mall Road, Mussoorie
+Zahoor Mughlai Dhaba : - : North Indian : ₹300 for two :  The Mall Road, Mussoorie
+Maya Restaurant : - : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹300 for two :  Landour, Mussoorie
+Godiyal Restaurant : - : North Indian, Chinese : ₹600 for two :  The Mall Road, Mussoorie
+Scoopers : - : Ice Cream : ₹150 for two :  The Mall Road, Mussoorie
+RC Specific Chinese Restaurant : - : Chinese : ₹150 for two :  Charleville, Mussoorie
+Hill Paradize Restro & Cafe : - : Fast Food : ₹300 for two :  Kempty Fall Road, Mussoorie
+Fambells : - : Chinese, Fast Food : ₹300 for two :  The Mall Road, Mussoorie
+The Seclude Tables : - : North Indian, Continental : ₹850 for two :  The Mall Road, Mussoorie
+Oishi Cafe : - : North Indian, Chinese, Salad, Beverages : ₹1,200 for two :  The Mall Road, Mussoorie
+Connaught Castle : - : Chinese, North Indian : ₹700 for two :  The Mall Road, Mussoorie
+The Breeze Kitchen Multi Cuisine Restaurant : - : North Indian, Chinese, Mughlai : ₹1,000 for two :  Barlow Ganj, Mussoorie
+Anand Restaurant : - : North Indian : ₹600 for two :  The Mall Road, Mussoorie
+Chimney : - : North Indian, Chinese, Desserts, Beverages : ₹1,400 for two :  The Mall Road, Mussoorie
+Jai Balajee : - : Street Food : ₹150 for two :  The Mall Road, Mussoorie
+Rawat Restaurant : - : North Indian : ₹450 for two :  The Mall Road, Mussoorie
+Abhi restaurant : - : Chinese, North Indian, Street Food : ₹300 for two :  Kempty Fall Road, Mussoorie
+Ashirwad Restaurant : - : North Indian, South Indian : ₹300 for two :  Charleville, Mussoorie
+Chilli & Kebab Restaurant : - : Momos, Chinese, North Indian : ₹300 for two :  The Mall Road, Mussoorie
+Inder Restaurant : - : North Indian : ₹350 for two :  The Mall Road, Mussoorie
+Giani : - : Ice Cream, Desserts : ₹200 for two :  The Mall Road, Mussoorie
+Panwar Bhojanalaya : - : North Indian : ₹200 for two :  The Mall Road, Mussoorie
+Wake Up Cafe n Restro : - : North Indian, Fast Food, Chinese : ₹300 for two :  Kempty Fall Road, Mussoorie
+Anil's Cafe : 3.8 : Fast Food : ₹500 for two :  Landour, Mussoorie
+Ruk Bae Hotel & Restaurant : - : North Indian, Chinese : ₹300 for two :  Charleville, Mussoorie
+Cafe Hinge : 3.9 : Cafe, Continental, Fast Food, Italian, Desserts, Beverages : ₹1,000 for two :  The Mall Road, Mussoorie
+Vaibhav Restaurant And Cafe : - : North Indian : ₹200 for two :  Christian Village, Mussoorie
+Pari Restaurant : - : North Indian : ₹300 for two :  Christian Village, Mussoorie
+Satyam Bhojnalaya : - : North Indian : ₹200 for two :  Library Road, Mussoorie
+Sherawali Restaurant : - : North Indian : ₹200 for two :  Kempty Fall Road, Mussoorie
+Tadka Restaurant : - : North Indian, South Indian : ₹200 for two :  Kempty Fall Road, Mussoorie
+Hills-E-Ishq : 3.9 : Cafe : ₹1,000 for two :  Landour, Mussoorie
+Jeet Restaurant : 3.9 : Garhwali, North Indian, Chinese : ₹300 for two :  Library Road, Mussoorie
+Lovely Omelette Centre : 4.7 : Fast Food : ₹200 for two :  The Mall Road, Mussoorie
+The Mudcup Café : 3.9 : Cafe : ₹700 for two :  Landour, Mussoorie
+Lotte's Homebaked Goods & Cafe : 3.9 : Cafe, Bakery, Desserts, Pancake : ₹550 for two :  Landour, Mussoorie
+Old Baker - Jaypee Residency Manor : 3.6 : Bakery : ₹500 for two :  Jaypee Residency Manor, Barlow Ganj, Mussoorie
+Punjab Restaurant : 3.8 : North Indian : ₹500 for two :  The Mall Road, Mussoorie
+Tip Top Tea Shop : 3.4 : Fast Food : ₹300 for two :  Landour, Mussoorie
+Himgiri's Cafe : 3.9 : Fast Food : ₹500 for two :  Landour, Mussoorie
+Tirupati Restaurant : 3.6 : South Indian : ₹200 for two :  Landour, Mussoorie
+Cafe Prana : 3.8 : North Indian, Chinese, Biryani, Street Food, Momos, Fast Food, Desserts, Beverages : ₹400 for two :  Library Road, Mussoorie
+Lal Tibba : 3.2 : Fast Food, Cafe : ₹400 for two :  Landour, Mussoorie
+The Charleville Bookstore & Cafe : - : Cafe, Fast Food : ₹500 for two :  Charleville, Mussoorie
+Kairos Cafe : - : Chinese, Korean, Japanese, Naga : ₹400 for two :  Landour, Mussoorie
+The Tikka Terrace : - : Continental, Chinese, North Indian, Street Food, Fast Food, Momos, Pasta, Pizza : ₹500 for two :  The Mall Road, Mussoorie
+That's Aroma : - : Chinese, North Indian, Mughlai, Fast Food, Desserts, Beverages : ₹700 for two :  The Mall Road, Mussoorie
+Swad South Indian Restaurant : - : South Indian, Fast Food : ₹100 for two :  The Mall Road, Mussoorie
+Omi Sweet Shop : - : Mithai, Bakery, Street Food : ₹250 for two :  Landour, Mussoorie
+Rawat Veg Restaurant : - : North Indian, Street Food : ₹100 for two :  The Mall Road, Mussoorie
+Travellers Cafe : - : North Indian, Chinese, Momos : ₹200 for two :  Barlow Ganj, Mussoorie
+Star Confectionery and Fast Food : - : Bakery : ₹150 for two :  The Mall Road, Mussoorie
+Rahul Restaurant : - : North Indian : ₹200 for two :  Charleville, Mussoorie
+Food Lay By : - : Chinese, Momos : ₹200 for two :  Barlow Ganj, Mussoorie
+Jadwan Maggi Point & Fast Food Corner : - : Street Food, Fast Food : ₹200 for two :  Christian Village, Mussoorie
+Gunsola Sweet Shop : - : Mithai : ₹150 for two :  Landour, Mussoorie
+Kashi Food : - : North Indian, Fast Food : ₹300 for two :  Christian Village, Mussoorie
+Om Sweets : - : Mithai : ₹300 for two :  Landour, Mussoorie
+Cafe What-A-View : - : Fast Food, North Indian : ₹350 for two :  The Mall Road, Mussoorie
+Cafe Stanrose : - : Fast Food, Street Food, Tea, Coffee : ₹100 for two :  Christian Village, Mussoorie
+Chauhan Cafe & Restaurant : - : North Indian, Chinese, Fast Food : ₹200 for two :  Kempty Fall Road, Mussoorie
+Traveller's Cafe : - : North Indian, Chinese, Continental : ₹800 for two :  Barlow Ganj, Mussoorie
+Bollywood Cafe : - : Chinese, North Indian, Fast Food, Shake, Beverages : ₹400 for two :  Christian Village, Mussoorie
+Al - Baik : - : Fast Food : ₹400 for two :  The Mall Road, Mussoorie
+Wat A Roll : - : Rolls : ₹300 for two :  The Mall Road, Mussoorie
+Ruk Bae Cafe & Restaurant : - : North Indian : ₹500 for two :  Charleville, Mussoorie
+Mister Veg : - : Fast Food, North Indian, Momos, Rolls, Sandwich : ₹600 for two :  The Mall Road, Mussoorie
+Cloud End Restaurant : - : North Indian : ₹300 for two :  Landour, Mussoorie
+Fine Dine Family Restaurant : - : Chinese, North Indian, Mughlai, Kebab, Fast Food, Beverages : ₹400 for two :  Landour, Mussoorie
+Flag Mountain Cafe : - : North Indian, Fast Food, Beverages : ₹200 for two :  Landour, Mussoorie
+Buransh Tha Cafe : - : Chinese, South Indian, North Indian : ₹300 for two :  Kempty Fall Road, Mussoorie
+The Green Cafe : - : North Indian : ₹300 for two :  Landour, Mussoorie
+Shivlinga : - : North Indian, Salad : ₹500 for two :  Kempty Fall Road, Mussoorie

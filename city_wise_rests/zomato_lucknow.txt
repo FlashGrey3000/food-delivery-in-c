@@ -1,0 +1,501 @@
+Wish Your Dish : 3.9 : North Indian, South Indian, Chinese, Mughlai, Kebab, Fast Food, Momos, Beverages : ₹950 for two :  Khurram Nagar, Lucknow
+Little Food Daily : 4.2 : Salad, Fast Food, Healthy Food, Pizza, Pasta, Wraps, Beverages : ₹400 for two :  Indira Nagar, Lucknow
+Mehrnaz : 3.9 : North Indian, Mughlai, Chinese, Rolls, Grilled Chicken, Roast Chicken : ₹1,000 for two :  Indira Nagar, Lucknow
+Grand Patio - Hotel Savvy Grand : 3.8 : North Indian, Continental, Chinese : ₹1,200 for two :  Gomti Nagar, Lucknow
+Spice Caves : 4.3 : North Indian, Chinese, Mughlai, BBQ, Sichuan, Biryani, Fast Food, Ice Cream : ₹1,700 for two :  Gomti Nagar, Lucknow
+Remix Veg Food Hall : 4.0 : North Indian, Fast Food, Chinese, Desserts, South Indian, Modern Indian, Salad, Pasta : ₹1,200 for two :  Gomti Nagar, Lucknow
+Bigg Daddy : 4.2 : North Indian, Mughlai, Continental, Chinese, Italian, Kebab, Biryani, Fast Food : ₹2,000 for two :  Cyber Heights, Gomti Nagar, Lucknow
+Garden Grille & Bar - Hilton Garden Inn : 4.4 : North Indian, Asian, Mughlai, Fast Food, Desserts, Ice Cream : ₹2,000 for two :  Double Tree by Hilton Gomti Nagar, Lucknow
+Cafe Hons - House Of No Sugar : 4.4 : Italian, Mexican, Continental, Sandwich, Burger, Fast Food, Beverages : ₹1,200 for two :  Gomti Nagar, Lucknow
+Black Brew House : 4.2 : North Indian, Continental, Italian, Asian, Fast Food, Beverages, Desserts : ₹1,400 for two :  Summit Building, Gomti Nagar, Lucknow
+Nainital Momos : 4.4 : Momos, Chinese, Beverages, Healthy Food : ₹400 for two :  Gomti Nagar, Lucknow
+Tanatan : 4.5 : North Indian, Lucknowi, Desserts, Beverages : ₹2,500 for two :  Hazratganj, Lucknow
+ZAO : 4.9 : Asian, Chinese, Japanese, Korean, Thai, Sushi, Sichuan, Desserts : ₹1,800 for two :  Cyber Heights, Gomti Nagar, Lucknow
+Purple Basil : 4.5 : North Indian, Sandwich, Pizza, Sushi, Italian, Fast Food, Mexican, Salad : ₹1,100 for two :  Gomti Nagar, Lucknow
+Void Bar & Nightclub : 4.0 : Continental, Asian, Chinese, Fast Food, Pasta, Pizza, North Indian, Desserts : ₹1,500 for two :  Gomti Nagar, Lucknow
+Vint Club : 4.3 : Chinese, Continental, Italian, Beverages, Asian, Fast Food, Desserts : ₹1,000 for two :  Gomti Nagar, Lucknow
+The Hype Room : 3.8 : Asian, Italian, BBQ, Continental, North Indian, European, Finger Food, Beverages : ₹3,000 for two :  Gomti Nagar, Lucknow
+Molecule Air Bar : 4.4 : North Indian, Continental, Asian, Finger Food, Desserts, Beverages : ₹1,800 for two :  Riverside Mall, Gomti Nagar, Lucknow
+The Drowning Street : 4.2 : North Indian, Chinese, Continental, Fast Food, Desserts, Beverages : ₹1,700 for two :  Gomti Nagar, Lucknow
+Que : 4.4 : North Indian, Continental, Chinese, Finger Food, Italian, Fast Food, Desserts, Beverages : ₹1,000 for two :  Gomti Nagar, Lucknow
+The Pebbles Bistro & Bar : 4.1 : European, North Indian, Sandwich, Salad, Burger, Street Food, Desserts, Beverages : ₹1,200 for two :  Gomti Nagar, Lucknow
+Tickled Pink : 4.5 : North Indian, Continental, Thai, Pizza, Turkish, Desserts, Beverages, Coffee : ₹2,000 for two :  Gomti Nagar, Lucknow
+Unplugged Courtyard : 4.0 : North Indian, Chinese, Continental, Desserts, Beverages : ₹2,500 for two :  Summit Building, Gomti Nagar, Lucknow
+Mashup Cafe & Bar : 4.2 : North Indian, Chinese, Mughlai, Italian, Continental, Pizza, Desserts : ₹1,200 for two :  Summit Building, Gomti Nagar, Lucknow
+Raahe kitchen+coffee bar : 4.0 : Cafe, Coffee, Continental, Asian, Italian, Fast Food, Desserts, Beverages : ₹2,300 for two :  Gomti Nagar, Lucknow
+Chili's Grill & Bar : 4.7 : Pasta, American, Mexican, BBQ, Continental, Burger, Pizza, Beverages : ₹1,000 for two :  Lulu Mall, Lucknow
+Sky Glass Brewing Co. : 4.9 : Bar Food, Italian, Chinese, Desserts, Beverages : ₹1,800 for two :  Phoenix Plassio Mall, Lucknow
+Eight : 4.5 : Asian, Japanese, Sushi, Chinese : ₹2,000 for two :  Phoenix Plassio Mall, Lucknow
+Masaki Cafe Couture : 4.2 : Bakery, Italian, Mexican, Fast Food, Asian, Desserts, Juices, Beverages : ₹1,200 for two :  Hazratganj, Lucknow
+The Big Grill : 4.6 : Chinese, Salad, North Indian, Oriental, Desserts, Beverages : ₹2,000 for two :  Phoenix Plassio Mall, Lucknow
+L 14 - Renaissance Lucknow Hotel : 4.2 : North Indian, Mughlai, Continental, Asian, Healthy Food, BBQ, Desserts, Beverages : ₹3,500 for two :  Renaissance Lucknow Hotel, Lucknow
+Punjab Grill : 4.5 : North Indian, Kebab, Biryani, Mughlai : ₹2,500 for two :  Gomti Nagar, Lucknow
+Cafe Delhi Heights : 4.6 : Continental, North Indian, Chinese, Street Food, Fast Food, Seafood, Desserts, Beverages : ₹1,500 for two :  Riverside Mall, Gomti Nagar, Lucknow
+Distillery : 4.1 : North Indian, Chinese, Italian, Street Food, BBQ, Finger Food, Desserts, Beverages : ₹1,900 for two :  Summit Building, Gomti Nagar, Lucknow
+Skyhilton : 4.3 : North Indian, Chinese, Continental, Oriental, Kebab, Fast Food, Desserts, Beverages : ₹1,800 for two :  Alambagh, Lucknow
+MERAKI the Bistro : 3.5 : North Indian, Chinese, Italian, Pizza, Continental, Biryani, Desserts, Bar Food : ₹1,600 for two :  Gomti Nagar, Lucknow
+Roastery Coffee House : 4.6 : Cafe, American, Continental, Italian, Pizza, Fast Food, Desserts, Beverages : ₹950 for two :  Gomti Nagar, Lucknow
+Dobaraa : 4.3 : Cafe, Coffee, Salad, Continental, Pizza, North Indian, Asian : ₹1,700 for two :  Phoenix Plassio Mall, Lucknow
+The Fancave : 4.9 : Cafe, Continental, Fast Food, Healthy Food, Tex-Mex, Italian, Mexican, Desserts : ₹1,300 for two :  Gomti Nagar, Lucknow
+Barkaas Indo-Arabic Restaurant : 3.1 : Arabian, Mughlai, Kebab, Mandi, Fast Food, Salad, Desserts, Beverages : ₹1,300 for two :  Aliganj, Lucknow
+Fashiontv Cafe : 3.4 : Cafe, Coffee, Pizza, Fast Food, Continental, Beverages : ₹1,000 for two :  Gomti Nagar, Lucknow
+Ishaara : 4.5 : North Indian, Mughlai, Seafood, Biryani, Pizza, Fast Food, Street Food, Desserts : ₹2,000 for two :  Phoenix Plassio Mall, Lucknow
+Sky Bar - Renaissance Lucknow Hotel : 4.1 : Finger Food, Fast Food, Beverages : ₹3,500 for two :  Renaissance Lucknow Hotel, Lucknow
+Lord of the Drinks : 4.3 : North Indian, Chinese, Continental, Pizza, Pasta : ₹2,500 for two :  Nirala Nagar, Lucknow
+The Terrace : 4.0 : North Indian, Pizza, Salad, Fast Food, Street Food, Desserts, Beverages : ₹1,700 for two :  Hazratganj, Lucknow
+Tonique Bistro & Bar : 3.9 : North Indian, Mughlai, Italian, Asian, Fast Food, Biryani, Bar Food, Desserts : ₹1,800 for two :  Phoenix Plassio Mall, Lucknow
+The Chocolate Room : 4.1 : Bakery, Cafe, Coffee, Salad, Italian, Fast Food, Chinese, Mexican : ₹900 for two :  Hazratganj, Lucknow
+Mocha : 4.4 : Italian, Continental, North Indian, Fast Food, Desserts, Beverages : ₹1,800 for two :  Anand Plaza, Patkapuram, Gomti Nagar, Lucknow
+Nucleus : 3.5 : Continental, Chinese, Italian, Desserts : ₹1,800 for two :  Gomti Nagar, Lucknow
+Romeo Lane : 4.2 : Chinese, Biryani, Italian, North Indian, Asian, Oriental, Desserts, Beverages : ₹1,900 for two :  Gomti Nagar, Lucknow
+Mamagoto : 4.5 : Asian, Sushi, Japanese, Thai, Chinese, Salad, Desserts : ₹1,800 for two :  Riverside Mall, Gomti Nagar, Lucknow
+Cafè 1991 : 4.6 : Coffee, Chinese, Fast Food, Desserts : ₹700 for two :  Gomti Nagar, Lucknow
+Boombox Bar Xchange : 4.3 : North Indian, Chinese, Continental, Asian, Biryani, Italian, Desserts, Beverages : ₹2,000 for two :  Summit Building, Gomti Nagar, Lucknow
+Spice Sutra : 4.4 : North Indian, Fast Food, Chinese, Continental, Mughlai, Pizza, Desserts, Beverages : ₹850 for two :  Gomti Nagar, Lucknow
+Hons  All Day Dining : 4.0 : Cafe, Coffee, Tea, Shake, Beverages, Continental, Italian, Salad : ₹600 for two :  Hazratganj, Lucknow
+The Fresh Factory : 4.3 : Cafe, Italian, Salad, Continental, Healthy Food, Pizza, Pasta, Beverages : ₹1,200 for two :  Gomti Nagar, Lucknow
+WOW! China : 3.9 : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹700 for two :  Lulu Mall, Lucknow
+Falak Numa Restaurant - Hotel Clarks Avadh : 3.9 : North Indian, Lucknowi, Awadhi, Desserts, Beverages : ₹3,500 for two :  Hotel Clarks Avadh, Hazratganj, Lucknow
+Jannat-Dayal Paradise : 4.0 : Italian, Continental, Finger Food, Desserts : ₹1,400 for two :  Hotel Dayal Paradise, Gomti Nagar, Lucknow
+M E A Cafe And Restaurant : 4.3 : North Indian, Chinese, BBQ, Fast Food, Beverages, Ice Cream : ₹1,200 for two :  Indira Nagar, Lucknow
+Firefly : 3.9 : North Indian, South Indian, Chinese, Italian, Thai, Japanese, Beverages, Desserts : ₹1,900 for two :  Summit Building, Gomti Nagar, Lucknow
+Marksmen : New : Chinese, South Indian, Fast Food, Burger, Continental, Desserts, Beverages : ₹600 for two :  Gomti Nagar, Lucknow
+WOW! Chicken by WOW! Momo : 3.3 : American, Fast Food, Burger, Beverages : ₹300 for two :  Lulu Mall, Lucknow
+Gola Sizzlers : 4.3 : North Indian, Mughlai, Chinese, Continental, Ice Cream : ₹2,000 for two :  Lulu Mall, Lucknow
+B4 : 4.1 : North Indian, Chinese, Continental, Desserts, Modern Indian, South Indian : ₹1,800 for two :  Gomti Nagar, Lucknow
+Marilyn - Cafe & Bar : New : Cafe : ₹1,900 for two :  Gomti Nagar, Lucknow
+Gravy Groovy : 4.6 : North Indian, Lucknowi, Biryani, Seafood, Fast Food, Continental : ₹700 for two :  Gomti Nagar, Lucknow
+Kokkam : New : South Indian, Seafood, Andhra, Coffee, Beverages : ₹1,000 for two :  Gomti Nagar, Lucknow
+WOW! Momo : 4.1 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts : ₹400 for two :  Aashiana, Lucknow
+Legend Inn : 4.3 : North Indian, South Indian, Chinese, Pizza, Momos, Mughlai, Fast Food, Salad : ₹1,200 for two :  Gomti Nagar, Lucknow
+Farzi Café : 4.4 : North Indian, Mughlai, Italian, Continental, Asian, Fast Food, Desserts, Beverages : ₹2,500 for two :  Gomti Nagar, Lucknow
+Biryani Stock Exchange : 3.9 : Biryani, North Indian, Momos : ₹600 for two :  Gomti Nagar, Lucknow
+Barbeque Nation : 4.3 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,650 for two :  Aliganj, Lucknow
+Cafe Repertwahr : 4.2 : Chinese, Continental, Sandwich, Burger, Pizza, North Indian, Coffee, Desserts : ₹1,100 for two :  Indira Nagar, Lucknow
+Cafe De Leila : 4.2 : North Indian : ₹300 for two :  Gomti Nagar, Lucknow
+Royale Asian : 2.8 : Thai, Chinese, Momos, Asian : ₹700 for two :  Sadar Bazaar, Lucknow
+Azrak- Saraca Lucknow : 4.3 : Chinese, Fast Food, Street Food, North Indian, Kebab, Mughlai, Biryani, Desserts : ₹3,500 for two :  lebua Lucknow, Lucknow
+ICDC-Influence Car Dining Cafe : 3.8 : Pizza, Pasta, Fast Food, Momos, Beverages, Desserts : ₹150 for two :  Gomti Nagar, Lucknow
+Manbhavan Premium Thali Restaurant : 4.0 : North Indian, Rajasthani, Gujarati : ₹1,200 for two :  Phoenix Plassio Mall, Lucknow
+Jamie Oliver's Pizzeria : 4.5 : Italian, Pizza, Fast Food, Pasta, Salad, Continental, Beverages : ₹1,200 for two :  Phoenix Plassio Mall, Lucknow
+Oudhyana - Taj Mahal : 4.9 : Mughlai, Lucknowi, North Indian : ₹4,200 for two :  Taj Mahal, Lucknow, Lucknow
+Bellissimo : 4.0 : Mughlai, Italian, Continental, North Indian : ₹1,800 for two :  Gomti Nagar, Lucknow
+Melting Point- Dayal Paradise : 3.7 : Cafe, Beverages, Italian : ₹800 for two :  Hotel Dayal Paradise, Gomti Nagar, Lucknow
+Pizza Tavola : 4.5 : Pizza, Pasta, Sandwich, Fast Food, Tea, Shake, Desserts, Beverages : ₹850 for two :  Indira Nagar, Lucknow
+Namak Mirchi Nook : 3.6 : North Indian, Coffee : ₹1,000 for two :  Jankipuram, Lucknow
+Sassy Canteen : 4.9 : North Indian, Sushi, Chinese, Continental, Oriental, Rolls, Desserts : ₹1,400 for two :  Nishatganj, Lucknow
+The Posh Pouf : 4.1 : North Indian, Chinese, South Indian, Fast Food, Mughlai, Biryani, Desserts, Beverages : ₹1,200 for two :  Alambagh, Lucknow
+1936 - Saraca Lucknow : 4.4 : Italian, Pasta, Pizza, Beverages, Desserts : ₹3,500 for two :  lebua Lucknow, Lucknow
+On High - Hotel Silvete : 4.2 : North Indian, Chinese, Biryani, Mughlai, Italian, Continental, Desserts, Beverages : ₹1,800 for two :  Hazratganj, Lucknow
+Kaleidoscope : 3.2 : North Indian, Desserts : ₹1,000 for two :  Gomti Nagar, Lucknow
+Kava Restaurant - Fairfield by Marriott : 3.8 : North Indian, Asian, Italian, Fast Food, Desserts, Beverages : ₹3,000 for two :  Fairfield by Marriott Lucknow, Lucknow
+Rominus Pizza And Burger : 4.1 : Pizza, Burger, Fast Food : ₹400 for two :  Hazratganj, Lucknow
+Aadab- Dayal Paradise : 4.1 : North Indian, Continental, Chinese, Sichuan, Desserts, Beverages : ₹1,400 for two :  Hotel Dayal Paradise, Gomti Nagar, Lucknow
+Barkaas -  Indo - Arabic Resturant : 3.9 : North Indian, Chinese, Kebab, Arabian, Desserts : ₹1,000 for two :  Sapru Marg, Lucknow
+Rollsking : 3.0 : North Indian, Rolls, Fast Food, Beverages : ₹450 for two :  Gomti Nagar, Lucknow
+Robot Restaurant - The Yellow House : 4.0 : North Indian, Chinese : ₹1,000 for two :  Aliganj, Lucknow
+Vito's Pizzeria : 3.9 : Fast Food, Italian, Pizza, Desserts, Beverages, Seafood : ₹1,200 for two :  Hazratganj, Lucknow
+Home Sweet Home : 4.2 : North Indian, Continental, Biryani, Mughlai, Italian, Chinese, Desserts, Beverages : ₹1,400 for two :  Hazratganj, Lucknow
+Royal Sky : 4.2 : North Indian, Mughlai, Chinese, Continental, Sichuan, Fast Food, Desserts, Beverages : ₹1,800 for two :  Hazratganj, Lucknow
+Irani Kafe 2.7 : 4.1 : Cafe, Coffee, North Indian, Continental, Fast Food, Biryani, Chinese, Desserts : ₹600 for two :  Gomti Nagar, Lucknow
+Food Mohalla : 3.7 : Pizza, Burger, Sandwich, Fast Food, Street Food : ₹450 for two :  Aliganj, Lucknow
+Tunday Kababi - Since 1905 : 4.4 : Kebab, Biryani, Awadhi, North Indian, Desserts : ₹300 for two :  Chowk, Lucknow
+Branche - Hotel Golden Tulip : 4.0 : North Indian, Mughlai, Continental, Chinese, Kebab, Finger Food, Beverages : ₹3,500 for two :  Husain Ganj, Lucknow
+Chinese Wok : 3.7 : Chinese, Momos, Beverages, Desserts : ₹400 for two :  Gomti Nagar, Lucknow
+The Twilight Kitchen & Bar : 4.5 : North Indian, Oriental, Italian, Fast Food, Kebab, Mughlai, Desserts, Beverages : ₹1,700 for two :  Jankipuram, Lucknow
+Sardar-Ji-Bakhsh Coffee : 3.7 : Coffee, Cafe : ₹400 for two :  Gomti Nagar, Lucknow
+Royal Cafe - Royal Inn : 4.2 : North Indian, BBQ, Mughlai, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,500 for two :  Royal Inn, Hazratganj, Lucknow
+Moti Mahal : 4.1 : North Indian, Chinese, South Indian, Street Food, Fast Food, BBQ, Desserts, Beverages : ₹950 for two :  Hazratganj, Lucknow
+Haldiram Bhujiawala : 4.0 : North Indian, South Indian, Chinese, Street Food, Desserts, Ice Cream, Beverages : ₹500 for two :  Sadar Bazaar, Lucknow
+Moti Mahal Delux : 3.9 : North Indian, Mughlai, Chinese, Seafood, Kebab, Biryani, Desserts, Beverages : ₹1,400 for two :  Gomti Nagar, Lucknow
+Green Garden Bakery : 3.9 : Bakery, Mithai, North Indian : ₹550 for two :  Aashiana, Lucknow
+AY7 Restaurant : 3.6 : South Indian, North Indian, Chinese, Biryani, Rolls, Fast Food, Shake, Beverages : ₹450 for two :  Aliganj, Lucknow
+The House Of Honour : 3.9 : Cafe, Coffee, Shake, Beverages, North Indian, Chinese, Sandwich, Fast Food : ₹750 for two :  Gomti Nagar, Lucknow
+La Chakhna : 3.1 : Korean, Bubble Tea, Japanese, Asian : ₹450 for two :  Aliganj, Lucknow
+Woodpecker : 4.0 : North Indian, Continental, Italian, Pizza, Fast Food, Shake, Desserts, Beverages : ₹2,000 for two :  Hazratganj, Lucknow
+Lucknowi Thaath : 3.7 : Cafe, Coffee, North Indian, Mughlai, Biryani, Rolls, Fast Food, Beverages : ₹1,400 for two :  Gomti Nagar, Lucknow
+Chango's : 4.3 : Asian, Japanese, Thai, Sushi, Chinese, Korean : ₹500 for two :  Gomti Nagar, Lucknow
+The Square - Novotel : 4.1 : North Indian, Mughlai, Oriental, Continental, Fast Food, Desserts : ₹3,500 for two :  Novotel, Gomti Nagar, Lucknow
+The Vault Disc And Lounge : 4.2 : Continental, Chinese, Fast Food, Bar Food, Beverages, North Indian : ₹1,200 for two :  Khurram Nagar, Lucknow
+My Bar Headquarters : 4.0 : Asian, North Indian, Fast Food, Italian, European, Chinese, American, Desserts : ₹1,200 for two :  Summit Building, Gomti Nagar, Lucknow
+The Oven : 4.1 : Pizza, Fast Food : ₹200 for two :  Sadar Bazaar, Lucknow
+3 Idiots Garden Cafe : 3.9 : North Indian, South Indian, Chinese, Momos, Fast Food, Burger, Pizza, Salad : ₹800 for two :  Jankipuram, Lucknow
+Hudson Chopsticks - Fresh Chinese : 4.4 : Chinese, Thai, Asian, Fast Food, Beverages, Desserts : ₹1,000 for two :  Gomti Nagar, Lucknow
+Zaika By Gemini Continental Hotel : 4.1 : Chinese, Mughlai, North Indian, Continental, Japanese, Beverages : ₹2,500 for two :  Gemini Continental, Hazratganj, Lucknow
+Groove -Lounge, Bar & Rooftop : 4.0 : North Indian, Mughlai, Kebab, Chinese, Salad, Pizza, Fast Food, Desserts : ₹1,400 for two :  Alambagh, Lucknow
+All Seasons : 2.9 : North Indian, Desserts, Chinese, Beverages : ₹1,000 for two :  Gomti Nagar, Lucknow
+Dastarkhwan : 4.6 : Mughlai, North Eastern, Biryani, Kebab, Lucknowi, Awadhi : ₹500 for two :  Kaiserbagh, Lucknow
+Best Choice Of Awadh : 4.4 : North Indian, Awadhi, Chinese, Italian, Continental, Desserts, Beverages, Shake : ₹1,400 for two :  Kanpur Road, Lucknow
+Karim's - The Original From Jama Masjid Delhi 6 : 3.3 : Fast Food, Mughlai, North Indian : ₹800 for two :  Lalbagh, Lucknow
+Cake 'N' Cafe : 4.2 : Bakery, Desserts, Fast Food : ₹450 for two :  Aashiana, Lucknow
+Hudaba Classic : 3.8 : North Indian, Continental, Italian, Oriental, Chinese, Pizza, Desserts, Coffee : ₹1,250 for two :  Gomti Nagar, Lucknow
+Limone Lounge : 4.5 : North Indian, Mughlai, Chinese, Salad, Pizza, Biryani, Fast Food, Beverages : ₹950 for two :  Mahanagar, Lucknow
+Arabania Indo-Arabic Restaurant : 4.0 : Arabian, North Indian, Mughlai, Mandi, Continental, Chinese, Desserts, Beverages : ₹1,600 for two :  Kanpur Road, Lucknow
+Richi Rich : 3.5 : North Indian, Fast Food, Chinese, South Indian, Street Food : ₹400 for two :  Aliganj, Lucknow
+Raheem's Kulcha Nahari : 4.3 : Lucknowi, Kebab, Biryani, Mughlai, North Indian : ₹400 for two :  Chowk, Lucknow
+Sahib Cafe - Taj Mahal : 4.5 : North Indian, Mughlai, Continental, Italian, Sandwich, Oriental, Mediterranean, Desserts : ₹4,000 for two :  Taj Mahal, Lucknow, Lucknow
+Upper Deck - Restro Bar : 4.2 : North Indian, Chinese, Mughlai, Biryani, Sandwich, Pizza, Fast Food : ₹1,100 for two :  Jankipuram, Lucknow
+Kake Di Hatti : 4.0 : Chinese, North Indian, Pizza, Italian, Desserts, Beverages, Cake : ₹950 for two :  Gomti Nagar, Lucknow
+Saraca - Lucknow : 3.9 : North Indian : ₹1,400 for two :  lebua Lucknow, Lucknow
+Colours - Royal Cafe : 4.1 : North Indian, Chinese, Continental, Italian, Oriental, Biryani, Desserts, Beverages : ₹1,800 for two :  Royal Inn, Hazratganj, Lucknow
+The House Of Honour : 4.2 : Shake, Desserts, Beverages, Ice Cream, Pizza, Burger, Sandwich, Pasta : ₹500 for two :  Gomti Nagar, Lucknow
+Uncle Peter's Pancakes : 3.9 : Waffle, Desserts, Pancake, Sandwich, Fast Food, Beverages : ₹500 for two :  Aashiana, Lucknow
+Alpha Restaurant : 3.5 : North Indian, Biryani, Mughlai, Fast Food, Salad, Chinese, Desserts, Beverages : ₹1,200 for two :  Hazratganj, Lucknow
+Pizza Cave : 4.0 : Pizza, Fast Food, Ice Cream, Beverages : ₹300 for two :  Rajajipuram, Lucknow
+Moti Mahal Delux : 3.4 : North Indian, Chinese, Sandwich, Pasta, Pizza, Biryani, Kebab, Salad : ₹1,000 for two :  Hazratganj, Lucknow
+KFC : 3.6 : Burger, Fast Food, Rolls : ₹450 for two :  Aliganj, Lucknow
+Buttercup Bungalow : 3.0 : Continental, Chinese, Healthy Food, Pizza, Pasta, Fast Food, Desserts, Beverages : ₹1,200 for two :  Gomti Nagar, Lucknow
+The Mughal's Dastarkhwan : 4.5 : Mughlai, Lucknowi, North Indian, Chinese : ₹1,100 for two :  Lalbagh, Lucknow
+Viva - All Day Dining Holiday Inn : New : North Indian, Mexican, Italian, Mughlai, Kebab, Salad, Desserts, Beverages : ₹2,000 for two :  Holiday Inn Amausi, Lucknow
+Indiyana Pizza : 3.7 : Pizza, Italian, Burger, Pasta, Sandwich, Fast Food : ₹500 for two :  Aashiana, Lucknow
+Melting Point : 4.0 : Cafe, Coffee, Sandwich, Pizza, Fast Food, Bakery : ₹850 for two :  Gomti Nagar, Lucknow
+Amritsar 0 Km : 4.4 : North Indian, Chinese, Mughlai, Fast Food, Biryani, Desserts, Ice Cream : ₹1,200 for two :  Alambagh, Lucknow
+The Haven Italian House : 3.9 : Pizza, Continental, Beverages, Italian, Healthy Food, Coffee, Juices, Burger : ₹1,300 for two :  Gomti Nagar, Lucknow
+Ulta Tawa Multi-Cuisine Restaurant : 3.6 : Mughlai, North Indian, Chinese, Continental : ₹200 for two :  Aliganj, Lucknow
+Tripathi Fast Food : New : Fast Food : ₹200 for two :  Nirala Nagar, Lucknow
+The Terrace Grill - La Place Sarovar Portico : 4.3 : North Indian, Continental, Mughlai, Oriental, Pizza, Beverages : ₹3,000 for two :  La Place Sarovar Portico, Hazratganj, Lucknow
+EDGE - Rooftop Bar & Lounge : 4.1 : Finger Food : ₹1,200 for two :  Novotel, Gomti Nagar, Lucknow
+Lemon Bee Cafe & Restraunt : 3.4 : Fast Food, Burger, Sandwich, Chinese, Momos, Street Food, Shake, Desserts : ₹300 for two :  Gomti Nagar, Lucknow
+Bikaner Express ( Vrindavan Colony ) : 3.9 : North Indian, Mithai, South Indian, Chinese, Italian, Fast Food, Desserts, Beverages : ₹950 for two :  Aashiana, Lucknow
+Tunday Kababi : 4.4 : Kebab, North Indian, Mughlai, Biryani : ₹300 for two :  Aminabad, Lucknow
+Cappuccino Blast : 4.0 : North Indian, Chinese, Biryani, Italian, Continental, Kebab, Desserts, Beverages : ₹1,200 for two :  Hazratganj, Lucknow
+Amritsari Haveli : 3.0 : Lucknowi, North Indian, Chinese, Biryani, Beverages : ₹1,000 for two :  Aliganj, Lucknow
+BohoBar : 3.9 : Asian, North Indian, Continental, Italian, Mughlai : ₹1,300 for two :  Levana Cyber Heights, Gomti Nagar, Lucknow
+Indie Grill : 3.9 : North Indian, Chinese : ₹350 for two :  Aliganj, Lucknow
+Citrus Cafe - Lemon Tree : 3.7 : Continental, North Indian, South Indian, Chinese, Beverages : ₹1,400 for two :  Lemon Tree, Lucknow, Lucknow
+La Pino'z Pizza : 3.5 : Pizza, Pasta, Italian, Fast Food : ₹800 for two :  Khurram Nagar, Lucknow
+Savoy : 3.9 : North Indian, Italian, Seafood, Mughlai, Desserts, Beverages, Pizza, Biryani : ₹1,100 for two :  Gomti Nagar, Lucknow
+Namaskaram - Taste Of South : 3.4 : South Indian, Beverages : ₹300 for two :  Gomti Nagar, Lucknow
+The Manish Eating Point : 3.8 : North Indian, Chinese, Continental, Kebab, Mughlai, Biryani, Rolls, Salad : ₹1,000 for two :  Gomti Nagar, Lucknow
+The Cellar : 4.6 : Fast Food, Pasta, Pizza, Mexican, Salad, Desserts, Beverages : ₹1,700 for two :  Mahanagar, Lucknow
+Urban Terrace : 4.2 : North Indian, Mughlai, Italian, Continental, Oriental, BBQ, Desserts, Beverages : ₹1,800 for two :  Lineage Hotels, Gomti Nagar, Lucknow
+Vintage Machine : 4.2 : Cafe, American, Italian, Lebanese, Continental, Healthy Food, Beverages, Desserts : ₹1,200 for two :  Gomti Nagar, Lucknow
+Pavillion - La Place Sarovar Portico : 4.1 : North Indian, Mughlai, Chinese, Seafood, Continental, Fast Food, Desserts, Beverages : ₹2,800 for two :  La Place Sarovar Portico, Hazratganj, Lucknow
+Saffron Kitchen Restaurant : 4.2 : Mughlai, North Indian, Lucknowi, Chinese, Desserts, South Indian : ₹1,200 for two :  Sahara Plaza, Patkapuram, Gomti Nagar, Lucknow
+NutriPlate India : 4.7 : Sandwich, Healthy Food, Beverages, Ice Cream : ₹350 for two :  Mahanagar, Lucknow
+The Hazelnut Factory : 4.2 : Bakery, Mithai, Pizza, Desserts, Fast Food, Cafe, Beverages, Street Food : ₹900 for two :  Nirala Nagar, Lucknow
+Bagicha - By Dayal Bagh : 2.4 : North Indian, Street Food, Desserts : ₹1,000 for two :  Husain Ganj, Lucknow
+Mister Buffet- The Metropolitan Club : 4.2 : North Indian, Italian, Chinese, Continental, Fast Food, Oriental, Desserts, Beverages : ₹2,500 for two :  Metropolitan Club, Gomti Nagar, Lucknow
+La Milano Pizzeria : 3.6 : Pizza, Pasta, Italian, American, Mexican, Fast Food, Desserts, Beverages : ₹500 for two :  Chowk, Lucknow
+Divine Maple : 3.7 : North Indian, South Indian, Chinese, Italian, Fast Food, Bakery : ₹800 for two :  Gomti Nagar, Lucknow
+Dreamy Delicacies : 4.1 : North Indian, Mughlai, Continental, Seafood, Chinese, Desserts, Beverages : ₹850 for two :  Aliganj, Lucknow
+Pomona Orchard : 4.7 : Healthy Food, Italian, Continental, Salad, Sandwich, Juices, Beverages, Desserts : ₹700 for two :  Gomti Nagar, Lucknow
+Caprice - Radisson Lucknow City Center : 4.3 : North Indian, Continental, South Indian, Sandwich, Wraps, Fast Food, Salad, Desserts : ₹1,900 for two :  Radisson Aminabad, Lucknow
+Birendra Mahal : 4.0 : North Indian, Mughlai, Italian, Continental, Asian, Fast Food, Beverages, Desserts : ₹3,500 for two :  Hazratganj, Lucknow
+Clove At Damson Plum : 4.1 : North Indian, Continental, Pizza, Kebab, Chinese, Salad, Desserts, Belgian : ₹1,600 for two :  Gomti Nagar, Lucknow
+The Admiral Restaurant & Bar : 3.9 : North Indian, Desserts : ₹1,000 for two :  Gomti Nagar, Lucknow
+Alborz Multicuisine Restaurant : 3.4 : Mughlai, North Indian : ₹1,000 for two :  Aliganj, Lucknow
+New Janta 2 & Family Restaurant : 3.5 : North Indian, Chinese, Sandwich, Burger : ₹300 for two :  Gomti Nagar, Lucknow
+Mom's Kitchen Food Lounge : New : North Indian, Fast Food, Chinese : ₹350 for two :  Gomti Nagar, Lucknow
+Uppercase Diner : 3.8 : North Indian, Chinese, Burger, Pizza, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Hazratganj, Lucknow
+My Juice Box : 3.9 : Juices, Shake, Ice Cream, Fast Food, Beverages : ₹500 for two :  Alambagh, Lucknow
+Aryan Family’s Delight : 3.9 : North Indian, Mughlai, Chinese, Awadhi : ₹950 for two :  Alambagh, Lucknow
+Marine Room - The Piccadily : 4.4 : North Indian, Mughlai, Continental, Oriental, Biryani, Fast Food, Desserts, Beverages : ₹3,100 for two :  The Piccadily Lucknow, Alambagh, Lucknow
+Royal Train Cuisine - RTC : 3.0 : North Indian, South Indian : ₹1,000 for two :  Gomti Nagar, Lucknow
+Chung Fa Chinese Restaurant - Since 1981 : 4.1 : Chinese, Seafood, Fast Food : ₹1,000 for two :  Mahanagar, Lucknow
+Plum : 3.9 : North Indian, Mughlai, Continental, Italian, Oriental, Fast Food, Seafood, Desserts : ₹3,000 for two :  Gomti Nagar, Lucknow
+Dosa Planet : 4.3 : South Indian, North Indian, Chinese, Desserts, Beverages, Ice Cream : ₹700 for two :  Aliganj, Lucknow
+Dhindhora Fine Dine Restaurant : 4.4 : North Indian, Chinese, South Indian, Beverages : ₹1,000 for two :  Chowk, Lucknow
+Roll Out : 3.6 : Rolls : ₹300 for two :  Gomti Nagar, Lucknow
+Sohey : 3.9 : North Indian, Chinese, Asian, Sushi, Seafood, Biryani, Mughlai, Desserts : ₹2,000 for two :  Levana Cyber Heights, Gomti Nagar, Lucknow
+The Blend Haus Coffee Bar & Dine : 4.0 : Coffee, Shake, Beverages, Pizza, Burger, Sandwich, Fast Food, Desserts : ₹400 for two :  Gomti Nagar, Lucknow
+Nachos Fried Chicken : 3.9 : Fast Food : ₹300 for two :  Indira Nagar, Lucknow
+Raj Darbaar : 3.9 : North Indian, Chinese, Mughlai, Biryani, Kebab, Rolls, BBQ : ₹1,000 for two :  Lalbagh, Lucknow
+The Marigold - Fine Dine Restaurant : 3.7 : North Indian, Continental, Chinese, Momos, Pizza, Fast Food, Desserts, Beverages : ₹950 for two :  Aashiana, Lucknow
+Curry Leaf : 4.3 : South Indian, Desserts, Shake, Beverages : ₹500 for two :  Hazratganj, Lucknow
+Togo's Momo : 4.2 : Momos, Chinese : ₹300 for two :  Aashiana, Lucknow
+Burger King : 3.8 : Burger, Fast Food, Beverages, Desserts : ₹350 for two :  Nishatganj, Lucknow
+The Concept-Headquarters : 3.9 : North Indian, Mughlai, Continental, Chinese, Pizza, Kebab : ₹850 for two :  Mahanagar, Lucknow
+Up 53 The Taste Of Gorakhpur : New : North Indian : ₹450 for two :  Gomti Nagar, Lucknow
+Baati Chokha : 4.3 : North Indian, Street Food, Desserts, Beverages : ₹500 for two :  Gomti Nagar, Lucknow
+Roll Out : 4.5 : Rolls : ₹300 for two :  Aliganj, Lucknow
+Ranbirs : 3.2 : Chinese, North Indian, Salad : ₹400 for two :  Alambagh, Lucknow
+Free Spirit : 4.3 : Cafe, Coffee, Beverages, Italian, Chinese, Sandwich, Fast Food, Street Food : ₹700 for two :  Gomti Nagar, Lucknow
+Kake Da Kulcha : 3.9 : North Indian, Desserts, Coffee, Shake, Beverages : ₹500 for two :  Gomti Nagar, Lucknow
+Cafe Roost - Restaurant & Roof Top : 4.0 : Mughlai, Chinese, North Indian, Fast Food, Biryani, Afghan, Pizza, Beverages : ₹1,200 for two :  Aliganj, Lucknow
+Pahle Aap Restaurant : 3.7 : North Indian, Chinese, South Indian, Biryani, Street Food, Beverages : ₹350 for two :  Rajajipuram, Lucknow
+Global Tandoor : 3.3 : North Indian, South Indian, Chinese, Momos, Fast Food : ₹1,000 for two :  Mahanagar, Lucknow
+Pizza Cafe Day : 3.8 : Pizza, Fast Food : ₹350 for two :  Nirala Nagar, Lucknow
+Giani : 3.6 : Desserts, Ice Cream, Beverages, Shake : ₹200 for two :  Sapru Marg, Lucknow
+Aabshaar - Ranbirs : 4.2 : North Indian, Chinese, Biryani, Fast Food, Italian, Desserts, Beverages : ₹1,600 for two :  Gomti Nagar, Lucknow
+The Deli - Novotel : 3.9 : Fast Food, Bakery, Beverages, Desserts : ₹1,000 for two :  Novotel, Gomti Nagar, Lucknow
+Cake - A - Way : New : Bakery, Cafe, Coffee, Desserts, Beverages : ₹350 for two :  Aliganj, Lucknow
+Aryan Family's Delight : 3.7 : North Indian, Chinese, Italian, Pizza, Mughlai, South Indian, Desserts, Beverages : ₹1,000 for two :  Hazratganj, Lucknow
+The Peddler's : 4.2 : North Indian, Continental, Chinese, Fast Food, Beverages : ₹950 for two :  Hazratganj, Lucknow
+Pizza Hut : 3.8 : Pizza, Pasta, Italian, Desserts, Beverages : ₹600 for two :  Jankipuram, Lucknow
+Havana Kitchen : 3.9 : North Indian, South Indian, Chinese, Pizza, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Chowk, Lucknow
+Food Paradise : 3.5 : North Indian, South Indian, Chinese, Fast Food, Desserts : ₹450 for two :  Aliganj, Lucknow
+Naimat Khana : 4.5 : Awadhi, North Indian, Beverages : ₹950 for two :  Kaiserbagh, Lucknow
+Orchid - Fortune Park BBD : 4.3 : Continental, Oriental, North Indian, Chinese, Mughlai, Fast Food, Desserts, Beverages : ₹2,000 for two :  Fortune Park BBD, Lucknow
+Vintage Machine - Kitchen + Cocktail Bar : 3.7 : Asian, Italian, North Indian, Oriental, Mexican, Continental, Desserts, Beverages : ₹1,200 for two :  Gomti Nagar, Lucknow
+Champaran Ahuna Meat : 3.4 : North Indian, Biryani : ₹450 for two :  Transport Nagar, Lucknow
+Arabesca - Indo Arabic Restaurant : 3.9 : North Indian, Arabian, Mandi, Biryani, Desserts : ₹1,400 for two :  Kaiserbagh, Lucknow
+Lazybean Cafe & Bistro : New : Chinese, Pizza, Burger, Sandwich, Fast Food, Beverages : ₹250 for two :  Aliganj, Lucknow
+Zafran : New : North Indian, Mughlai, Kebab, Chinese, Asian, Salad, Desserts, Beverages : ₹2,500 for two :  Gomti Nagar, Lucknow
+The Brew Hubb : 4.4 : Cafe, Chinese, Fast Food, Pizza, Shake, Coffee, Beverages : ₹700 for two :  Aliganj, Lucknow
+The Sentient Cafe : 4.0 : North Indian, Chinese, Pizza, Momos, Fast Food, Street Food, Shake, Beverages : ₹400 for two :  Indira Nagar, Lucknow
+Theka - The Piccadily : 4.4 : Finger Food : ₹3,000 for two :  The Piccadily Lucknow, Alambagh, Lucknow
+Shree Rajbhog : 4.4 : Rajasthani : ₹700 for two :  Gomti Nagar, Lucknow
+The Centurion : 4.2 : North Indian, Continental, Chinese, Italian, Awadhi, Pasta : ₹2,000 for two :  Gomti Nagar, Lucknow
+The Cherry Tree Bakery & Cafe : 3.8 : Bakery, Desserts, Pizza, Sandwich, Continental, Beverages : ₹850 for two :  Alambagh, Lucknow
+Boston Housee Cafe : - : Chinese, Sandwich, Rolls, Fast Food, Beverages, North Indian, Italian : ₹500 for two :  Gomti Nagar, Lucknow
+10th Goodness : 3.8 : Pizza, Bakery, Fast Food, Beverages : ₹250 for two :  Gomti Nagar, Lucknow
+Leto : - : Sushi, Sandwich, Salad, European, Coffee, Japanese, Italian, Beverages : ₹1,400 for two :  Aliganj, Lucknow
+Mubeen's : 4.0 : Mughlai, Kebab : ₹300 for two :  Chowk, Lucknow
+Urban Crave : 3.9 : South Indian, Chinese, Fast Food : ₹200 for two :  Amausi, Lucknow
+Centaurus : 4.2 : North Indian, Chinese, Pizza, Italian, Continental, Mughlai, Desserts, Beverages : ₹1,200 for two :  Hazratganj, Lucknow
+Dante Bar : 3.9 : BBQ, Mughlai, Chinese, Continental, Desserts, Beverages : ₹1,800 for two :  Comfort Inn, Gomti Nagar, Lucknow
+Pizza Farm : 3.6 : Pizza, Burger, Shake : ₹400 for two :  Rajajipuram, Lucknow
+Baradari Nights : 3.7 : North Indian : ₹600 for two :  Gomti Nagar, Lucknow
+Naushijaan : 3.2 : Kebab, Biryani, Mughlai, Awadhi, BBQ, Lucknowi, North Indian : ₹400 for two :  Gomti Nagar, Lucknow
+The Hungry House : 3.3 : Chinese, Fast Food, Momos, Sichuan : ₹300 for two :  Chowk, Lucknow
+Subway : 3.8 : Healthy Food, Salad, Sandwich, Wraps, Fast Food, Beverages : ₹400 for two :  Phoenix Plassio Mall, Lucknow
+Chuck Bungalow : 4.3 : Cafe, Fast Food, Chinese, Pizza, Sandwich, Continental, Desserts, Mexican : ₹550 for two :  Gomti Nagar, Lucknow
+The Coffee Palette : 4.1 : Cafe, Continental, Chinese, North Indian, Fast Food, Sichuan, Beverages, Desserts : ₹1,100 for two :  Gomti Nagar, Lucknow
+Urban Turban - The Metropolitan Club : 4.5 : North Indian, Mughlai, Chinese, Continental, Kebab, Biryani, Beverages, Desserts : ₹2,500 for two :  Metropolitan Club, Gomti Nagar, Lucknow
+Domino's Pizza : 3.5 : Pizza, Italian, Fast Food, Desserts : ₹400 for two :  Phoenix United Mall, Alambagh, Lucknow
+Kalika Haveli : 3.2 : North Indian, Chinese, Mughlai, Biryani, Wraps, Desserts, Shake, Beverages : ₹1,200 for two :  Gomti Nagar, Lucknow
+Raheem's : 4.3 : Awadhi : ₹300 for two :  Chowk, Lucknow
+Kool Break : 3.9 : Continental, North Indian, Mughlai, Biryani, Sandwich, Pizza, Seafood, Beverages : ₹1,000 for two :  Hazratganj, Lucknow
+Copper Handi - Hotel Vijay Paradise : 4.0 : Chinese, Continental, North Indian, Fast Food, Sandwich, Desserts : ₹1,200 for two :  Khurram Nagar, Lucknow
+The Tarrace Restaurant : 3.7 : North Indian, Chinese, Fast Food, Mughlai, Biryani : ₹900 for two :  Aliganj, Lucknow
+Mummba : 3.9 : Street Food, Sandwich : ₹350 for two :  Gomti Nagar, Lucknow
+Plan B Food Court : 2.8 : North Indian, Chinese, Rolls, Biryani, Mughlai, Ice Cream, Juices, Shake : ₹650 for two :  Gomti Nagar, Lucknow
+Madhurima Veg : 3.2 : North Indian, South Indian, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹900 for two :  Gomti Nagar, Lucknow
+The Pizza Dine : - : Pizza, Burger, Sandwich, Wraps, Chinese, Coffee, Shake, Beverages : ₹300 for two :  Bakshi Ka Talab, Lucknow
+Gumtea Cafe : 4.4 : Cafe, Healthy Food, Burger, Street Food, Fast Food, Wraps, Sandwich, Beverages : ₹250 for two :  Aashiana, Lucknow
+Grandeurs Bakery & Cafe : 3.5 : Cafe, Beverages, Bakery, Desserts, Italian, Sandwich, Waffle, Chinese : ₹1,000 for two :  Gomti Nagar, Lucknow
+Dabbu's Rich Tadka : 3.7 : North Indian, Chinese, Fast Food, South Indian, Awadhi, Biryani, Healthy Food, Lucknowi : ₹250 for two :  Rajajipuram, Lucknow
+Panorama Terrace : 3.7 : North Indian, Chinese, Italian, Street Food, Biryani, Mughlai, Tea : ₹1,000 for two :  Khurram Nagar, Lucknow
+Chalte Firte Momos & Special Food : 4.2 : Momos, Chinese, Pasta, North Indian, Street Food, Shake, Beverages : ₹250 for two :  Sahara Plaza, Patkapuram, Gomti Nagar, Lucknow
+Orya Foodhall : 3.9 : North Indian, Mughlai, Oriental, Italian, Chinese, Salad, Desserts, Beverages : ₹1,000 for two :  Gomti Nagar, Lucknow
+Barista Coffee : 3.4 : Cafe, Coffee, Fast Food, Desserts, Sandwich, Italian : ₹750 for two :  West End Mall, Gomti Nagar, Lucknow
+Fusion Flavour : 4.3 : North Indian, Biryani, Mughlai, Chinese, Sichuan : ₹850 for two :  Aliganj, Lucknow
+Cafe Quane - Ramada Lucknow : 3.9 : North Indian, Continental, Oriental, Biryani, Mughlai, Beverages : ₹1,800 for two :  Kanpur Road, Lucknow
+Taste & Toniq : 4.0 : North Indian, Chinese, Fast Food, Street Food, Mughlai, Biryani, Desserts, Beverages : ₹500 for two :  Aashiana, Lucknow
+Aadab-e-Dastarkhwan : 4.3 : Mughlai, Lucknowi, North Indian, Chinese : ₹950 for two :  Indira Nagar, Lucknow
+Dastarkhwan Sumayya Restaurant : 3.8 : North Indian, Mughlai, Biryani : ₹600 for two :  Gomti Nagar, Lucknow
+Sattva : 3.7 : North Indian, Chinese, Fast Food, Street Food, Mughlai, Biryani, Desserts, Beverages : ₹650 for two :  Aliganj, Lucknow
+14Greens : 3.5 : North Indian, Chinese, Continental : ₹950 for two :  Indira Nagar, Lucknow
+Burger Point : 3.1 : Burger, Sandwich, Wraps, Pizza, Shake, Beverages, Fast Food : ₹450 for two :  Chowk, Lucknow
+The Beer Cafe : 4.1 : Finger Food, Italian, North Indian, Continental, Fast Food, Beverages : ₹1,400 for two :  Gomti Nagar, Lucknow
+Daal Mein Kala : 3.9 : Chinese, North Indian, Mughlai, Biryani : ₹700 for two :  Mahanagar, Lucknow
+Humming Hour : - : North Indian, Chinese, Mughlai : ₹1,100 for two :  Alambagh, Lucknow
+Garden Bakery : 3.9 : Bakery, Desserts, Chinese, Pizza, Pasta, Fast Food, Coffee, Beverages : ₹950 for two :  Indira Nagar, Lucknow
+Sanik Family Restaurant : 3.9 : North Indian, Lucknowi : ₹300 for two :  Sadar Bazaar, Lucknow
+Pizza Pool : 4.2 : Pizza, Fast Food, Burger, Pasta : ₹300 for two :  Rajajipuram, Lucknow
+Kalika Kothi : New : North Indian, Chinese, Pasta, Desserts : ₹650 for two :  Gomti Nagar, Lucknow
+Theobroma : 2.9 : Bakery, Desserts : ₹300 for two :  Gomti Nagar, Lucknow
+Billu Tandooria : 4.2 : North Indian, Fast Food : ₹500 for two :  Gomti Nagar, Lucknow
+New Jone Hing Chinese Restaurant : 3.9 : Chinese, Seafood, Rolls : ₹650 for two :  Hazratganj, Lucknow
+Raj Luxmi Alambagh : 4.2 : North Indian, South Indian, BBQ, Chinese, Biryani, Street Food, Desserts : ₹850 for two :  Alambagh, Lucknow
+Mahesh's Mansarovar : 3.9 : North Indian, South Indian, Chinese, Pizza, Fast Food, Street Food, Momos, Desserts : ₹500 for two :  Aliganj, Lucknow
+The Little Epicure : 4.0 : North Indian, Chinese, Pizza, Rolls, Momos, Continental, Fast Food : ₹500 for two :  Indira Nagar, Lucknow
+The House 21 : 3.9 : Arabian, Mughlai, Mandi, Desserts, Beverages : ₹1,800 for two :  Mahanagar, Lucknow
+TeaMax Cafe : - : Shake, Tea, Beverages, Pizza, Burger, Maharashtrian, Street Food : ₹300 for two :  Jopling Road, Lucknow
+Ganesha Restaurant : - : North Indian, Chinese : ₹300 for two :  Aashiana, Lucknow
+Mast Bite : 4.1 : Chinese, North Indian, Fast Food, Rolls, Burger : ₹300 for two :  Aishbagh, Lucknow
+The Greenhouse Cafe : 4.1 : Fast Food : ₹600 for two :  Aliganj, Lucknow
+Tandoori Tadka Veg Point : New : North Indian, Rolls : ₹300 for two :  Shekhpur, Lucknow
+Maa Chinese Junction : New : Chinese, Momos, Fast Food, Shake : ₹150 for two :  Chowk, Lucknow
+Spice N Spirits : New : North Indian, Mughlai, Continental, Oriental, Chinese, Fast Food, Kebab, Biryani : ₹600 for two :  Gomti Nagar, Lucknow
+Firdaus - Awadhi Kitchen : 3.8 : North Indian, Mughlai : ₹450 for two :  Gomti Nagar, Lucknow
+The Rich Bites : - : North Indian, Biryani, Chinese, Rolls, Momos : ₹300 for two :  Charbagh, Lucknow
+Smile4Miles : 3.9 : Rolls, Momos, Chinese : ₹350 for two :  Mahanagar, Lucknow
+Royal Rabdi & Chai Pe Charcha : - : Desserts, Tea, North Indian, Chinese, Street Food : ₹100 for two :  Jankipuram, Lucknow
+Grandson Of Tunday Kababi : 3.7 : Kebab, Rolls : ₹500 for two :  Aliganj, Lucknow
+Butter Leaf : 3.9 : North Indian, Chinese, American, Fast Food, Salad, Beverages, Biryani, Pizza : ₹450 for two :  Gomti Nagar, Lucknow
+The Indian Table - Hotel Vaibhav Inn : 4.2 : North Indian, South Indian, Chinese, Biryani, Sichuan : ₹950 for two :  Gomti Nagar, Lucknow
+Olivas Pizzeria : 4.4 : Pizza, Italian, Fast Food, Beverages : ₹950 for two :  Gomti Nagar, Lucknow
+Bikanervala : 3.9 : North Indian, South Indian, Fast Food, Chinese, Street Food, Mithai, Desserts, Beverages : ₹500 for two :  Gomti Nagar, Lucknow
+Dosa Planet : 4.1 : South Indian : ₹300 for two :  Phoenix United Mall, Alambagh, Lucknow
+Pizza Nice! : New : Pizza, Sandwich, Burger, Fast Food, Bakery, Beverages : ₹300 for two :  Gomti Nagar, Lucknow
+The Ancestry - A Cafe & Eatery : - : Cafe, Coffee, Chinese, Pizza, Fast Food, Shake, Beverages : ₹350 for two :  Chowk, Lucknow
+Culture Eatery : New : Cafe, Coffee, Chinese, Italian, Oriental, Continental, Tea, Shake : ₹1,000 for two :  Gomti Nagar, Lucknow
+The Blend : 3.7 : Sandwich, Pizza, Fast Food, Street Food, Burger, Tea, Beverages : ₹300 for two :  Aashiana, Lucknow
+Coriander : New : Pizza, Chinese, Street Food : ₹250 for two :  Alambagh, Lucknow
+Foodie Adda : - : South Indian, North Indian, Chinese, Momos, Fast Food : ₹300 for two :  Aashiana, Lucknow
+The Ritz Restaurant : 3.3 : North Indian, Mughlai, Chinese, Oriental, Biryani, Kebab, Desserts, Beverages : ₹900 for two :  Mahanagar, Lucknow
+Cakes 555 : 3.8 : Bakery, Pizza, Sandwich, Burger, Beverages : ₹250 for two :  Gomti Nagar, Lucknow
+Mr Delight 24 : 3.5 : Pizza, Burger, Fast Food, Chinese, Momos, Street Food, Bakery, Beverages : ₹350 for two :  Aashiana, Lucknow
+Ijya Pizza : - : Pizza, Burger : ₹400 for two :  Shekhpur, Lucknow
+Peepal : - : Chinese, Fast Food, Momos : ₹500 for two :  Rajajipuram, Lucknow
+Radhey Lal Premium Sweets : 4.0 : Mithai, South Indian, Chinese : ₹400 for two :  Chowk, Lucknow
+Raj Luxmi : 4.0 : South Indian, Chinese, Fast Food, Oriental, Beverages : ₹400 for two :  Aashiana, Lucknow
+Enjoy Your Foods : 3.7 : South Indian, North Indian, Chinese, Fast Food, Desserts : ₹400 for two :  Rajajipuram, Lucknow
+Swadisht Matka Biryani Mutton : 3.1 : Biryani, North Indian, Lucknowi : ₹350 for two :  Sadar Bazaar, Lucknow
+Kebabchi : 3.1 : Kebab : ₹200 for two :  Chowk, Lucknow
+Masala Darbar : 4.2 : North Indian, Mughlai, Chinese, Fast Food, Biryani, Desserts, Beverages : ₹950 for two :  Gomti Nagar, Lucknow
+Zaika Junction : 3.5 : Biryani, Mughlai, North Indian, Fast Food, Street Food : ₹300 for two :  Aliganj, Lucknow
+Dosaverse : 3.9 : South Indian, North Indian, Chinese : ₹350 for two :  Aashiana, Lucknow
+Swadishtm : 3.8 : North Indian, Rolls, Fast Food, Biryani, Chinese, South Indian, Desserts, Beverages : ₹900 for two :  Jankipuram, Lucknow
+Mr. Brown - Danbro : 4.1 : Cafe, Coffee, Italian, Continental, Pizza, Salad, Desserts, Beverages : ₹950 for two :  Indira Nagar, Lucknow
+Moti Mahal Delux- Tandoori Trail : 4.2 : North Indian, Chinese, Mughlai, Kebab, Seafood, Biryani : ₹1,200 for two :  Aashiana, Lucknow
+The Red Pepper : 3.7 : North Indian, Chinese, South Indian, Biryani, Fast Food, Continental, Desserts, Beverages : ₹1,100 for two :  Aashiana, Lucknow
+SkyLords : 3.6 : Continental, North Indian, Chinese, Italian, Asian, Oriental, Desserts, Beverages : ₹950 for two :  Mahanagar, Lucknow
+Urban Sweets and Bakers : - : Fast Food, Chinese : ₹1,100 for two :  Aashiana, Lucknow
+Amigo's : 4.1 : Fast Food, Street Food : ₹400 for two :  Gomti Nagar, Lucknow
+Altitude - Radisson Lucknow City Center : 4.3 : Continental, Finger Food, North Indian, Italian, Asian, Beverages : ₹1,800 for two :  Radisson Aminabad, Lucknow
+Bhukkad Panda : 4.1 : Chinese, North Indian, Biryani, Mughlai, Rolls, Fast Food, Desserts, Beverages : ₹1,000 for two :  Gomti Nagar, Lucknow
+Net Ram Mithai : 4.3 : Mithai : ₹200 for two :  Aminabad, Lucknow
+Capoor & Sons : 4.3 : North Indian, Chinese, Oriental, Fast Food, Street Food, Desserts, Coffee, Beverages : ₹1,200 for two :  Gomti Nagar, Lucknow
+Al Bateel Indo-Turkish Restaurant : 3.6 : Chinese, Mughlai, Arabian, North Indian, Desserts, Mandi, Beverages : ₹1,000 for two :  Aliganj, Lucknow
+Exchange RestoBar : 3.3 : North Indian, Chinese, Salad, Beverages : ₹1,600 for two :  Gomti Nagar, Lucknow
+Gazal Caffe & Ristretto : 3.6 : Cafe, Coffee, Continental, Chinese, Burger, Momos, Fast Food, Beverages : ₹700 for two :  Mahanagar, Lucknow
+The Kitchenette : 3.9 : North Indian, South Indian, Chinese, Sichuan, Mughlai, Beverages : ₹950 for two :  Gomti Nagar, Lucknow
+Nothing Before Coffee : - : Cafe, Coffee, Desserts, Tea, Shake, Beverages : ₹450 for two :  Gomti Nagar, Lucknow
+Kuduk Chicken : 3.8 : Fast Food, Burger : ₹250 for two :  Chowk, Lucknow
+The Kalika Hut : 3.9 : North Indian, Chinese, Seafood : ₹1,000 for two :  Gomti Nagar, Lucknow
+Balaji Ka Dhaba : 4.0 : North Indian, South Indian, Chinese, Street Food : ₹350 for two :  Kanpur Road, Lucknow
+Balaji Bhojnalay : 3.8 : North Indian, Chinese : ₹200 for two :  Charbagh, Lucknow
+Butter Half : 3.9 : North Indian : ₹400 for two :  Gomti Nagar, Lucknow
+Royal Sky - Skyotel : 4.0 : Continental, Chinese, Seafood, North Indian, Oriental, Fast Food, BBQ, Desserts : ₹1,200 for two :  Hazratganj, Lucknow
+Shivom The Mithai Shop & Restaurant : 4.1 : Mithai, Chinese, North Indian, Fast Food, Desserts, South Indian, Beverages : ₹500 for two :  Alambagh, Lucknow
+Dinin' Delight : 3.8 : Mughlai, Continental, North Indian, Fast Food : ₹800 for two :  Aishbagh, Lucknow
+Biryani Queen : 3.9 : Biryani, North Indian, Rolls, Kebab, Awadhi, Beverages : ₹1,400 for two :  Phoenix United Mall, Alambagh, Lucknow
+Punjab - The Piccadily : 4.2 : North Indian, Mughlai, Beverages, Desserts : ₹3,000 for two :  The Piccadily Lucknow, Alambagh, Lucknow
+Black Buck's Cafe : 2.6 : North Indian, Chinese, Italian, Fast Food, Beverages, Sichuan : ₹700 for two :  Aliganj, Lucknow
+Dum : New : North Indian, Biryani, Mughlai : ₹2,000 for two :  Gomti Nagar, Lucknow
+Red Dragon : 3.6 : Chinese, Momos, Shawarma, Fast Food, Street Food, Beverages : ₹350 for two :  Gomti Nagar, Lucknow
+Pack 'N' Chew : 4.2 : North Indian, Chinese, Continental, Mughlai, Asian, Desserts, Beverages, Sichuan : ₹1,000 for two :  Gomti Nagar, Lucknow
+Madhurima Sweets : 3.8 : Mithai, South Indian, Fast Food, Street Food, Beverages : ₹400 for two :  Aashiana, Lucknow
+Siraj Restaurant : 4.0 : Mughlai, Biryani, North Indian : ₹300 for two :  Chowk, Lucknow
+Tamaasha Bistro Bar : 4.4 : North Indian, Italian, Chinese, Fast Food, Shake, Mughlai : ₹2,500 for two :  Gomti Nagar, Lucknow
+Hotel Lazeez Al Darbar : 4.0 : Mughlai, Rolls, Biryani : ₹450 for two :  Chowk, Lucknow
+Radheylal Parampara Sweets : 4.2 : North Indian, Mithai, Street Food : ₹400 for two :  Alambagh, Lucknow
+Franzo's Pizza : 3.3 : Pizza, Burger, Fast Food, Ice Cream, Shake : ₹300 for two :  Gomti Nagar, Lucknow
+Choppstix : 3.8 : North Indian, South Indian, Chinese, Fast Food, Mughlai, Desserts : ₹850 for two :  Aliganj, Lucknow
+China Town Fast Food & Burger King : 4.0 : Chinese, Fast Food, Street Food : ₹300 for two :  Aliganj, Lucknow
+The Burger's Castle : 3.1 : Burger, Wraps, Sandwich, Fast Food, Street Food, Coffee, Shake, Beverages : ₹300 for two :  Nirala Nagar, Lucknow
+Kebabchi : - : Kebab, North Indian, Mughlai : ₹550 for two :  Aliganj, Lucknow
+Maa Paa Cafe & Restaurant : - : North Indian, Chinese, Rolls, Burger, Fast Food, Shake : ₹400 for two :  Gomti Nagar, Lucknow
+Assemble Cafe : 3.9 : North Indian, Chinese, Fast Food, Beverages : ₹850 for two :  Aliganj, Lucknow
+Kebabishk : 4.0 : North Indian, Mughlai, Rolls, Biryani : ₹600 for two :  Aliganj, Lucknow
+The Waffle Co. : 3.9 : Waffle, Pancake, Desserts, Shake, Beverages : ₹200 for two :  Antas Mall, Gomti Nagar, Lucknow
+Gale Regale - The Metropolitan Club : 4.8 : Finger Food, North Indian, Oriental, Continental, Beverages : ₹2,000 for two :  Metropolitan Club, Gomti Nagar, Lucknow
+The Caffeine Factor : New : Chinese, Fast Food, Pasta, Street Food, North Indian, Shake, Beverages : ₹300 for two :  Gomti Nagar, Lucknow
+Drunken Monkey : 3.9 : Healthy Food, Beverages, Coffee : ₹450 for two :  Aashiana, Lucknow
+Healthy Panda : 4.6 : Healthy Food, Italian, Continental, Sandwich, Salad, Fast Food, Burger, Beverages : ₹950 for two :  Gomti Nagar, Lucknow
+Dunkin' - Donuts & Coffee : - : Bakery, Desserts : ₹200 for two :  Gomti Nagar, Lucknow
+Shri Balaji Dhaba : 4.0 : North Indian, Desserts, Beverages : ₹400 for two :  Alambagh, Lucknow
+McDonald's : 4.0 : Burger, Fast Food, Coffee, Cafe, Beverages : ₹500 for two :  Sahara Ganj Mall, Hazratganj, Lucknow
+Dine Out City (DOC) : 4.4 : North Indian, Chinese, Pizza, Mexican, Asian, Japanese, Thai, Sushi : ₹850 for two :  Aliganj, Lucknow
+Naivedyam By Moti Mahal : 3.5 : North Indian, Chinese, Fast Food, Italian, South Indian, Desserts, Beverages : ₹700 for two :  Aashiana, Lucknow
+Kabila : 3.5 : North Indian, Chinese, Continental, Mughlai, Sandwich, Fast Food, Desserts, Beverages : ₹1,900 for two :  Hazratganj, Lucknow
+Champaran Fish & Mutton Handi : New : Seafood, Mughlai, North Indian, Biryani, Healthy Food, Street Food, Beverages : ₹650 for two :  Gomti Nagar, Lucknow
+Balaji Madras Coffee House : - : Beverages, South Indian, Pizza, Pasta, Fast Food : ₹250 for two :  Rajajipuram, Lucknow
+AFC : 3.9 : Fast Food : ₹150 for two :  Lalbagh, Lucknow
+Shoaib Chicken Biryani Corner : - : Biryani : ₹300 for two :  Rajajipuram, Lucknow
+Shawarma Wala : 3.7 : Fast Food, Shawarma, Arabian : ₹300 for two :  Aliganj, Lucknow
+The Sky Town : New : North Indian, Pasta : ₹500 for two :  Gomti Nagar, Lucknow
+Mishri Malai Shaan E Awadh Sweets and Restaurant : 3.4 : Mithai, South Indian, Chinese, Street Food : ₹450 for two :  Gomti Nagar, Lucknow
+Al-Baik : 4.2 : Fast Food, Burger : ₹300 for two :  Chowk, Lucknow
+Ice & Spice : 4.1 : North Indian, Chinese, South Indian, Pizza, Fast Food, Desserts, Beverages, Ice Cream : ₹1,000 for two :  Indira Nagar, Lucknow
+Adarsh Dhaba : 3.9 : North Indian : ₹150 for two :  Gomti Nagar, Lucknow
+Mutual Flavours Restaurant : New : North Indian, Sandwich : ₹1,000 for two :  Gomti Nagar, Lucknow
+Shree Bakers : New : Bakery, Desserts, Pizza, Beverages : ₹400 for two :  Indira Nagar, Lucknow
+W Cafe : 3.9 : North Indian, Chinese, Continental, Italian, South Indian, Desserts, Shake, Beverages : ₹1,700 for two :  Husain Ganj, Lucknow
+Sooo Tea Cafe : 4.2 : Beverages, Fast Food, Street Food : ₹300 for two :  Aliganj, Lucknow
+V2 Cafe : 3.9 : Fast Food, Chinese, North Indian, Street Food, Beverages : ₹250 for two :  Indira Nagar, Lucknow
+Go 69 Pizza : 3.9 : Pizza, Burger, Fast Food, Beverages : ₹450 for two :  Aliganj, Lucknow
+The Vyanjan Box : 3.2 : North Indian, Chinese, Burger, Sandwich, Fast Food, Shake, Desserts, Beverages : ₹450 for two :  Aashiana, Lucknow
+Shaukeens The Bistro : 4.2 : Chinese, North Indian, Mughlai, Biryani, Beverages : ₹1,000 for two :  Aliganj, Lucknow
+Kanha Veg Point : New : Pizza, Burger, Fast Food, Shake, Beverages : ₹300 for two :  Charbagh, Lucknow
+Al-Nawaz Muradabadi Chicken Biryani : - : Biryani, North Indian : ₹450 for two :  Gomti Nagar, Lucknow
+Ritzz Continental Corner : 3.8 : North Indian, Chinese, Continental, Fast Food, Pizza, Beverages : ₹850 for two :  Mahanagar, Lucknow
+Shri Kachodi Corner : 4.1 : Street Food, North Indian : ₹100 for two :  Chowk, Lucknow
+Barbeque Non Veg Restaurant : 3.7 : BBQ, Mughlai, North Indian, Biryani, Lucknowi : ₹400 for two :  Indira Nagar, Lucknow
+My Tea & Cafe : New : Tea, North Indian, Street Food, Momos : ₹200 for two :  Transport Nagar, Lucknow
+The Modern : New : North Indian, Fast Food : ₹300 for two :  Aliganj, Lucknow
+New Lucknow Kitchen : 4.0 : North Indian, Chinese, South Indian, Fast Food, Seafood, Mughlai, Desserts, Beverages : ₹1,200 for two :  Jankipuram, Lucknow
+Paratha's : 4.3 : North Indian, Street Food : ₹400 for two :  Gomti Nagar, Lucknow
+Bhole Chature : 3.6 : North Indian : ₹200 for two :  Chowk, Lucknow
+Champaran Meat House : 3.5 : North Indian : ₹450 for two :  Gomti Nagar, Lucknow
+Ice Cream Sundae, Shakes And More : 3.9 : Ice Cream, Desserts, Beverages : ₹500 for two :  Hazratganj, Lucknow
+Bollywood Blast : 3.6 : North Indian : ₹600 for two :  Gomti Nagar, Lucknow
+Burger Point : 4.1 : Burger, Sandwich, Pizza, Momos, Wraps, Chinese, Fast Food, Beverages : ₹400 for two :  Hazratganj, Lucknow
+Club Momentz : 4.1 : North Indian, Continental, Chinese, Italian, Kebab, Seafood, Fast Food, Beverages : ₹1,200 for two :  Gomti Nagar, Lucknow
+EOS Bar & Bistro- Hotel Levana : 4.2 : Finger Food, Continental, North Indian, Chinese, Thai : ₹2,500 for two :  Hotel Levana, Hazratganj, Lucknow
+Meals on Wheels : 3.7 : Momos, Burger, Chinese, Fast Food, Street Food : ₹200 for two :  Rajajipuram, Lucknow
+Good Food : 3.3 : North Indian, Chinese, Pizza, South Indian : ₹300 for two :  Rajajipuram, Lucknow
+Maa Kripa Hotel & Banquets : 3.9 : North Indian, Chinese, South Indian, Biryani, Fast Food, BBQ : ₹700 for two :  Rajajipuram, Lucknow
+Alamgir Hotel : 4.2 : Mughlai, Biryani : ₹350 for two :  Aminabad, Lucknow
+Cafe Delight : 3.3 : North Indian, Chinese, Mughlai, Continental, Oriental, Biryani, Desserts, Beverages : ₹1,200 for two :  Lineage Hotels, Gomti Nagar, Lucknow
+The Happy Plates : 3.8 : Chinese, Sandwich, Fast Food, Street Food, Pizza, Momos, Desserts, Beverages : ₹650 for two :  Aliganj, Lucknow
+Rail Coach Restaurant : 3.6 : North Indian, South Indian, Mughlai, Chinese, Fast Food, Biryani, Desserts, Beverages : ₹1,200 for two :  Kanpur Road, Lucknow
+Mr Bajra : 3.8 : North Indian, Chinese, Street Food, Fast Food, Beverages : ₹450 for two :  Mahanagar, Lucknow
+Handi & Tandoor : 3.9 : North Indian, Biryani, Chinese, Afghan : ₹700 for two :  Gomti Nagar, Lucknow
+Shriji Foods : 3.9 : North Indian, Street Food : ₹200 for two :  Aminabad, Lucknow
+Le Bougainvillea - Hotel Clarks Avadh : 3.2 : North Indian, Chinese, Continental, Italian : ₹2,000 for two :  Hotel Clarks Avadh, Hazratganj, Lucknow
+Chaap Wale : 4.4 : North Indian, Rolls : ₹200 for two :  Rajajipuram, Lucknow
+Pawan Sweet & Bhojnalay : 3.2 : North Indian, Street Food, Mithai, Chinese : ₹300 for two :  Indira Nagar, Lucknow
+Mr. Pizza : 3.5 : Pizza, Fast Food, Burger : ₹300 for two :  Alambagh, Lucknow
+Shahi Muradabadi Biryani : 3.8 : Biryani : ₹300 for two :  Aashiana, Lucknow
+Winni Cakes & More : 3.9 : Bakery, Desserts, Fast Food : ₹500 for two :  Alambagh, Lucknow
+The Bun Bistro : 3.4 : Burger, Sandwich, Wraps, Shake, Pizza, Desserts, Tea, Beverages : ₹250 for two :  Rajajipuram, Lucknow
+New Janta Dhaba : 3.5 : Fast Food, Burger, Wraps, Sandwich, Pasta, North Indian : ₹350 for two :  Gomti Nagar, Lucknow
+Get Your Burger : 3.7 : Burger, Sandwich, Fast Food, Street Food, Coffee, Shake, Beverages : ₹400 for two :  Sadar Bazaar, Lucknow
+Khatirdari Multicuisine Restaurant : 3.8 : North Indian, South Indian, Chinese, Seafood, Fast Food, Desserts, Beverages : ₹1,200 for two :  Alambagh, Lucknow
+Make Eat Easy : 3.9 : North Indian, Mughlai, Chinese, Rolls, Momos : ₹350 for two :  Aliganj, Lucknow
+Yadav Dhaba : 3.4 : North Indian : ₹300 for two :  Gomti Nagar, Lucknow
+Foodie Pizza - Baked With Love : 3.5 : Momos, Chinese, Pizza, Pasta, Shake : ₹300 for two :  Transport Nagar, Lucknow
+Lavi Food Service : 2.8 : North Indian, South Indian, Chinese, Fast Food, Street Food : ₹200 for two :  Indira Nagar, Lucknow
+Fauji Dhaba- Sitapur Road : - : North Indian : ₹300 for two :  Jankipuram, Lucknow
+The Street Vendor : 3.9 : Street Food, South Indian, Fast Food : ₹200 for two :  Gomti Nagar, Lucknow
+Santosh Mithai Mahal : 3.9 : Mithai, Street Food, North Indian, Desserts : ₹300 for two :  Gomti Nagar, Lucknow
+Singh Non Veg Point : 3.5 : North Indian, Mughlai : ₹300 for two :  Alambagh, Lucknow
+Smiley's Food Court : 3.4 : Chinese, South Indian, North Indian, Fast Food, Street Food, Beverages : ₹300 for two :  Alambagh, Lucknow
+Esselate! : 3.6 : Burger, Fast Food : ₹400 for two :  Kaiserbagh, Lucknow
+Open Air Restaurant : 3.9 : North Indian, Chinese, Mughlai, Seafood, Desserts : ₹600 for two :  Hazratganj, Lucknow
+Atithi Kitchen : 2.9 : North Indian, Chinese : ₹400 for two :  Gomti Nagar, Lucknow
+Starbucks Coffee : 3.3 : Beverages, Desserts, Coffee : ₹700 for two :  Gomti Nagar, Lucknow
+The White Shadow Cafe & Restaurant : 3.9 : Chinese, Fast Food : ₹950 for two :  Aliganj, Lucknow
+Let's Curry : 3.7 : Lucknowi, North Indian, Mughlai, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Gomti Nagar, Lucknow
+The Pizza Town : 3.9 : Pizza, Burger, Fast Food, Street Food, Beverages : ₹450 for two :  Indira Nagar, Lucknow
+M. Factoree : - : Tea, Beverages, Cafe, Coffee : ₹200 for two :  Aliganj, Lucknow
+DOR : 3.9 : Chinese, North Indian, Continental, Pasta, Desserts : ₹500 for two :  Gomti Nagar, Lucknow
+Brio Art House & Cafe - Ramada Lucknow : 4.2 : Fast Food, North Indian, Continental, Beverages : ₹950 for two :  Kanpur Road, Lucknow
+Bombay Natural's Pizza & Soya Chaap : 4.1 : North Indian, Pizza, Street Food : ₹400 for two :  Hazratganj, Lucknow
+Junkyard Cafe : 3.5 : Chinese, South Indian, North Indian : ₹200 for two :  Gomti Nagar, Lucknow
+A-1 Point : 3.6 : North Indian, BBQ : ₹400 for two :  Nirala Nagar, Lucknow
+Milkshake Factory : 3.6 : Shake, Beverages : ₹300 for two :  Chowk, Lucknow
+Harman Punjabi Dhaba : 3.2 : North Indian, Chinese, Biryani, Mughlai, Street Food, Lucknowi, Awadhi, Sindhi : ₹550 for two :  Kanpur Road, Lucknow
+Art of Chaap : 3.8 : North Indian, Rolls : ₹300 for two :  Gomti Nagar, Lucknow
+Karaari Angeethi : - : Fast Food, Street Food : ₹200 for two :  Indira Nagar, Lucknow
+Chetram Pindi Chole Bhature : 3.6 : North Indian : ₹200 for two :  Aashiana, Lucknow
+Pendulum Bar : 3.9 : Bar Food, North Indian, Fast Food : ₹1,200 for two :  Gomti Nagar, Lucknow
+Zync Bar & Lounge : 4.2 : Chinese, Mughlai, North Indian, Beverages, Ice Cream : ₹1,100 for two :  Cyber Heights, Gomti Nagar, Lucknow
+Puzzle Pizza : 3.9 : Pizza, Fast Food, Beverages : ₹500 for two :  Indira Nagar, Lucknow
+Spice Adda : 3.3 : Chinese, North Indian, Italian, Fast Food, Desserts, Beverages : ₹500 for two :  Aliganj, Lucknow
+9191 Cafe & Lounge : 3.2 : Cafe : ₹700 for two :  Aliganj, Lucknow
+Cook Du Koo : 3.7 : Mughlai, North Indian : ₹300 for two :  Aliganj, Lucknow
+Chattore Junction : 3.9 : North Indian, Mughlai, Chinese, Biryani, Kebab, Fast Food, Desserts : ₹600 for two :  DLF My Pad, Gomti Nagar, Lucknow
+Fit Food Bistro : 3.2 : Chinese, Shake, Salad, Cafe, Coffee, Healthy Food, North Indian : ₹300 for two :  Aliganj, Lucknow
+Awadh Grill : 3.9 : North Indian, Roast Chicken, Burger, Wraps, Fast Food, Beverages : ₹1,200 for two :  Gomti Nagar, Lucknow
+Momo Nation Cafe : 3.9 : Momos, Burger, Fast Food, Chinese, Street Food, Beverages : ₹450 for two :  Gomti Nagar, Lucknow
+Hari Bhojanalaya : 3.2 : North Indian : ₹200 for two :  Gomti Nagar, Lucknow
+Pizza Pub : - : Pizza, Fast Food, Burger, Beverages : ₹500 for two :  Triveni Nagar, Lucknow
+Jai Maa Hotel & Restaurant : 3.2 : North Indian, Chinese, Desserts : ₹400 for two :  Charbagh, Lucknow
+Mahalaxmi Sweets : 4.1 : Mithai, North Indian, South Indian, Chinese, Fast Food, Street Food, Beverages : ₹500 for two :  Aliganj, Lucknow
+Kareem's : 4.0 : Mughlai, North Indian, Biryani : ₹1,000 for two :  Gomti Nagar, Lucknow
+Neelkanth Sweets : 4.3 : Mithai, North Indian, Street Food, Beverages : ₹300 for two :  Gomti Nagar, Lucknow
+JJ Bakers : 4.4 : Bakery, Desserts : ₹500 for two :  Hazratganj, Lucknow
+Owl Café : 4.0 : Fast Food, Chinese, North Indian, Cafe, Beverages : ₹950 for two :  Gomti Nagar, Lucknow
+Sangam Restaurant : 3.8 : North Indian, Chinese, South Indian : ₹250 for two :  Jankipuram, Lucknow
+Dream Art Cafe : 4.1 : North Indian, Chinese, Sandwich, Fast Food : ₹700 for two :  Aliganj, Lucknow
+The Waffle Bee : - : Waffle, Desserts, Beverages : ₹300 for two :  Crown Mall, Lucknow
+Let's Bake Stories : 4.5 : Cafe, Coffee, Bakery, Beverages : ₹500 for two :  Hazratganj, Lucknow
+Vaango! : 3.3 : South Indian : ₹450 for two :  One Awadh Center Mall, Gomti Nagar, Lucknow
+The Coffee Crest : 3.9 : Cafe, Fast Food, North Indian, Desserts, Beverages : ₹950 for two :  Nishatganj, Lucknow
+Ritz Continental : 3.9 : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages : ₹600 for two :  Hazratganj, Lucknow
+Karim's - Original From Jama Masjid Delhi-6 : New : North Indian, Mughlai, Ice Cream, Beverages : ₹1,100 for two :  Aliganj, Lucknow
+Meliora Cafe : 3.7 : Chinese, Salad, Pasta, Pizza, Sandwich, Fast Food, Street Food, Beverages : ₹300 for two :  Jankipuram, Lucknow
+Burgers & Brew : 3.6 : Burger, Fast Food : ₹300 for two :  Aashiana, Lucknow
+Food O' Clock : 3.8 : North Indian, Chinese, Rolls, Mughlai, Fast Food, Kebab, Desserts, Beverages : ₹1,000 for two :  Gomti Nagar, Lucknow
+Kabeer’s : - : North Indian, Fast Food, Street Food, South Indian, Chinese, Beverages, Ice Cream : ₹400 for two :  Hazratganj, Lucknow
+The Punjab Grill : 3.9 : North Indian, Mughlai, Biryani, Kebab, Chinese : ₹400 for two :  Shekhpur, Lucknow
+Gabru Di Chaap : New : North Indian, Kebab, Momos, Fast Food, Beverages : ₹550 for two :  Gomti Nagar, Lucknow
+Le Cafe - Skyotel : 3.8 : North Indian, Chinese, Fast Food, Oriental, Continental, Thai, Desserts, Beverages : ₹1,200 for two :  Nishatganj, Lucknow
+The Dugout Sports Lounge : - : North Indian, Chinese, Sandwich, Wraps, Pasta, Fast Food, Desserts : ₹1,000 for two :  Transport Nagar, Lucknow
+The Filbert House : 3.6 : North Indian, South Indian, Chinese, Bakery, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Gomti Nagar, Lucknow
+Sangam Restaurant : 3.9 : North Indian : ₹400 for two :  Aliganj, Lucknow

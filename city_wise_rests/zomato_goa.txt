@@ -1,0 +1,501 @@
+Sarvaa : 4.0 : Modern Indian, Cuisine Varies : ₹2,000 for two :  Panaji, Goa
+Angry Sardar Courtyard : New : Mughlai, North Indian, Biryani, Chinese, Desserts, Beverages : ₹1,500 for two :  Panaji, Goa
+Caravela Cafe & Bistro : 4.6 : Cafe, Goan, Continental, Healthy Food, Italian, Fast Food, Beverages, Desserts : ₹1,000 for two :  Panaji, Goa
+Mamagoto : 4.6 : Asian, Chinese, Thai, Sushi, Japanese, Desserts : ₹1,200 for two :  Panaji, Goa
+The Curry Multicuisine Family Restro-Bar : 4.1 : Finger Food, Chinese, North Indian, Biryani, Seafood, Goan, Beverages : ₹1,200 for two :  Panaji, Goa
+Workshop Restaurant : 4.4 : North Indian, Goan, Mughlai, Biryani, Chinese : ₹1,300 for two :  Penha de Franca, Goa
+Tereza Beach House-By Sly Granny : 4.5 : Continental, Pizza, Italian, Goan, Fast Food, Salad, Desserts : ₹1,900 for two :  Nerul, Goa
+Comida-Double Tree by Hilton Goa : 4.5 : North Indian, Asian, Italian, Mediterranean, Desserts : ₹3,500 for two :  DoubleTree by Hilton Goa - Panaji, Goa
+Shivers Garden Restaurant : 4.3 : Thai, Japanese, Asian, Beverages, Chinese, Continental, Desserts, North Indian : ₹2,000 for two :  Candolim, Goa
+The Goan Room : 4.4 : Goan, Seafood, North Indian, Chinese, Continental, Biryani, Desserts, Beverages : ₹1,200 for two :  Panaji, Goa
+Kismoor Sangolda : 4.5 : Goan, Seafood, South Indian, North Indian, Oriental, Desserts, Beverages : ₹1,400 for two :  Penha de Franca, Goa
+Purple Martini : 4.4 : Continental, Goan, Fast Food, Chinese, North Indian, Beverages, Ice Cream : ₹3,000 for two :  Anjuna Beach, Anjuna, Goa
+Wok & Roll : 4.7 : Oriental, Thai, Chinese, Asian, Desserts : ₹1,200 for two :  Candolim, Goa
+Tomato's Beachside Kitchen And Bar : 4.3 : North Indian, Continental, Chinese, Italian, Seafood, Asian, Mughlai, Desserts : ₹1,800 for two :  Candolim Beach, Candolim, Goa
+Fat Panda : 4.4 : North Indian, Chinese, Sichuan, Biryani, Desserts, Beverages : ₹1,000 for two :  Candolim, Goa
+Elephant & Co. : 4.7 : Continental, Asian, Italian, Bar Food, Desserts, Beverages : ₹1,500 for two :  Anjuna, Goa
+BYOB - Bring Your Own Booze : 3.8 : Goan, Continental, Pizza, Salad : ₹1,500 for two :  Candolim, Goa
+Bawri : 4.1 : North Indian, South Indian, Kebab, Biryani, Goan, Desserts : ₹1,900 for two :  Assagao, Goa
+Prime Rose : 4.4 : Steak, Healthy Food, Chinese, Mexican, Burger, Pizza, Seafood, Beverages : ₹1,800 for two :  Saligao, Goa
+Birch By Romeo Lane : 4.2 : Mediterranean, Goan, Bar Food, North Indian, Continental, European : ₹1,000 for two :  Baga, Goa
+Tomato's Garden Kitchen And Bar : 4.4 : North Indian, Chinese, Finger Food, Pizza : ₹2,000 for two :  Candolim, Goa
+The Temptation - 24 Hour Complete Food Shop : 3.9 : Bakery, Pizza, Sandwich, Desserts, Beverages : ₹800 for two :  Vasco, Goa
+Kiki - By The Sea : 3.8 : North Indian, Continental, Italian, Asian, Kebab, Biryani, Seafood, Beverages : ₹1,800 for two :  Vagator, Goa
+Thalassa Beach : 4.2 : Seafood, Mediterranean, Italian, Greek, Continental, Beverages, Bar Food : ₹2,000 for two :  Ashwem, Goa
+SOPÓ : 4.8 : Burmese, Desserts, Asian : ₹1,600 for two :  Assagao, Goa
+Noah : 3.1 : European, Continental, Seafood, Sushi, Chinese, Pizza, Pasta, Asian : ₹1,500 for two :  Vagator, Goa
+Toro Toro : 4.6 : Asian, Italian, Goan, Seafood, Continental, Beverages, Desserts, Pizza : ₹1,800 for two :  Baga, Goa
+The Lazy Goose : 4.6 : Goan, Continental, Seafood, Fast Food : ₹1,800 for two :  Nerul, Goa
+Calamari Bathe & Binge : 4.1 : Goan, Chinese, North Indian, Continental, Seafood, Italian, Desserts, Beverages : ₹1,800 for two :  Candolim, Goa
+Afterlyf - Club & Lounge : New : Asian, North Indian, Pasta, Pizza, Bar Food : ₹2,500 for two :  Candolim, Goa
+Vaddo 15 : 4.4 : Continental, North Indian, Chinese, Goan, Pizza, Salad, Biryani, Beverages : ₹1,000 for two :  Candolim, Goa
+Howling Wolves : 4.6 : Continental, North Indian, Asian, Italian, Salad, Mediterranean, Pizza, Burger : ₹1,800 for two :  Anjuna, Goa
+Artjuna - Anjuna : 3.7 : Cafe, Mediterranean, Italian, Seafood, Fast Food, Desserts, Beverages : ₹950 for two :  Anjuna, Goa
+Colonel Saheb : 4.1 : North Indian, Mughlai, Biryani, Seafood : ₹1,700 for two :  Morjim, Goa
+Blue Turtle Beach Bar & Restaurant : 4.3 : Continental, Pizza, Burger, Goan, Seafood, Salad, Desserts : ₹2,000 for two :  Morjim, Goa
+Beno : 4.4 : Continental, Bar Food, European, Fast Food, Street Food, Healthy Food, Desserts, Beverages : ₹1,100 for two :  Benaulim, Goa
+Elrow Ocean Front : 4.4 : Goan, Italian, Chinese, Beverages, Desserts : ₹2,319 for two :  Calangute, Goa
+Jamun : 4.6 : Goan, North Indian, South Indian, Seafood, Biryani, Desserts, Beverages : ₹1,800 for two :  Assagao, Goa
+Kalliste : 4.5 : Spanish, Greek, Bar Food, Italian, Mediterranean : ₹1,500 for two :  Colva, Goa
+Jamming Goat : 4.7 : North Indian, Continental, Goan, Fast Food, Desserts : ₹1,800 for two :  Majorda, Goa
+Mayan Beach Club : 3.9 : Turkish, Korean, Salad, Burger, Pasta, Desserts : ₹2,000 for two :  Anjuna, Goa
+Tesouro : 4.6 : Salad, Italian, Continental : ₹1,300 for two :  Colva, Goa
+Miri-Modern Kitchen & Bar : 3.7 : Goan, Oriental, Continental, North Indian, Desserts : ₹1,400 for two :  Panaji, Goa
+Fat Fish : 4.2 : Goan, Seafood, Continental, North Indian, Italian, Beverages, Desserts : ₹1,800 for two :  Baga, Goa
+The Fisherman's Wharf : 4.5 : Seafood, Goan, North Indian, Mughlai, Chinese, Continental, Desserts : ₹1,300 for two :  Calangute, Goa
+Romeo Lane : 3.8 : Finger Food, Italian, Lebanese, North Indian : ₹1,800 for two :  Vagator, Goa
+Bao Story : 3.8 : Chinese, Asian : ₹450 for two :  Aquem, Goa
+The Market - Westin Goa : 4.2 : Asian, Continental, North Indian, Biryani, Goan, Desserts : ₹3,500 for two :  The Westin Goa, Goa
+Pepper Bar And Dining : 3.9 : North Indian, Continental, Chinese, Biryani, Mughlai, Goan, Desserts, Beverages : ₹800 for two :  Candolim, Goa
+Kasav : 4.1 : Continental, Oriental, Vietnamese, Chinese, Pasta, Salad : ₹1,200 for two :  Anjuna, Goa
+Raeeth : 4.0 : Goan, Continental, BBQ, Pizza, Italian, Seafood, Desserts : ₹1,800 for two :  Vagator, Goa
+Garden of Dreams Goa : 3.5 : Cafe, Coffee, Tea, Sandwich, Fast Food, Healthy Food, Salad, Desserts : ₹1,000 for two :  Arambol, Goa
+Avo's Kitchen : 4.7 : Goan, Seafood, North Indian, Street Food, Fast Food, Desserts : ₹1,400 for two :  Assagao, Goa
+The Tanjore Tiffin Room : 4.5 : South Indian, Biryani, Tamil, Bar Food : ₹1,000 for two :  Anjuna, Goa
+Moyrah : 4.0 : North Indian, Seafood, Biryani, Chinese, Rolls, Kebab, Desserts, Beverages : ₹1,100 for two :  Anjuna, Goa
+One Calangute Beach Club : 4.5 : Goan, North Indian, Continental, Chinese, Seafood, Biryani, Desserts, Beverages : ₹2,000 for two :  Calangute, Goa
+Baba Au Rhum : 4.5 : Cafe, Coffee, Italian, Mediterranean, Salad, Pizza, Fast Food, Beverages : ₹1,200 for two :  Baga, Goa
+Yazu - Pan Asian Beach Club : 4.4 : Asian, Chinese, Sushi, Japanese, Desserts : ₹1,900 for two :  Candolim, Goa
+The Cape Goa : 4.5 : North Indian, Mughlai, Continental, Fast Food, Goan, Seafood, Desserts, Beverages : ₹1,800 for two :  Agonda, Goa
+Souza Lobo - Since 1932 : 4.4 : Goan, Seafood, Continental, Italian, Chinese, Desserts, North Indian : ₹1,800 for two :  Calangute Beach, Calangute, Goa
+Chhupa Rustam : 4.4 : North Indian, Mughlai : ₹2,000 for two :  Vagator, Goa
+The Great Bath : 4.5 : North Indian, Mughlai, Goan, Seafood, Desserts : ₹1,400 for two :  Vagator, Goa
+Angry Sardar Courtyard : 4.2 : Mughlai, North Indian, Biryani, Chinese, Desserts, Beverages : ₹1,500 for two :  Anjuna, Goa
+Cafe Cotinga : 4.3 : Goan, North Indian, Mughlai, Biryani, Italian, Fast Food, Desserts, Beverages : ₹1,800 for two :  Anjuna, Goa
+Britto's Restaurant & Bar : 4.4 : North Indian, Goan, Italian, Seafood, Desserts, Beverages : ₹1,700 for two :  Baga, Goa
+Martin's Corner : 4.5 : North Indian, Chinese, Goan, Sandwich, Salad, Beverages : ₹1,800 for two :  Betalbatim, Goa
+Hosa : 4.1 : Goan, South Indian, Seafood, Continental, Finger Food, Tea, Coffee, Desserts : ₹3,600 for two :  Siolim, Goa
+WOW! Momo : 4.1 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts : ₹400 for two :  Vagator, Goa
+The Southern Deck : 4.3 : Seafood, Goan, Continental, Fast Food, Asian, Thai, North Indian : ₹1,000 for two :  Benaulim, Goa
+The Second House : 4.3 : European, Korean, Beverages, Desserts : ₹1,800 for two :  Saligao, Goa
+antiSocial Morjim : 3.7 : Beverages, North Indian : ₹2,000 for two :  Morjim, Goa
+Antares Restaurant & Beach Club : 4.2 : Goan, Italian, Desserts, Beverages : ₹2,500 for two :  Vagator, Goa
+Burger Factory : 4.7 : Burger, Shake, Beverages : ₹1,000 for two :  Anjuna, Goa
+Raki Modern Mezze And More : 4.4 : Kebab, Lebanese, Middle Eastern, Egyptian, Turkish : ₹1,800 for two :  Panaji, Goa
+Sea Pebbles : 4.4 : Goan, North Indian, Mughlai, Chinese, Biryani, Beverages : ₹1,400 for two :  Panaji, Goa
+Bean Me Up : 4.5 : Continental, Asian, Fast Food, Healthy Food, Mexican, Salad, Desserts, Beverages : ₹1,400 for two :  Vagator, Goa
+Maka Zai : 4.9 : Goan, Asian, Chinese, Seafood, Beverages : ₹1,700 for two :  Anjuna, Goa
+House Of Goth : 3.9 : Bar Food, Continental, Hot dogs, Pasta : ₹2,000 for two :  Assagao, Goa
+Thalassa : 4.3 : Greek, Mediterranean, Seafood, Fast Food, Bar Food, Goan, Beverages : ₹2,500 for two :  Siolim, Goa
+Pisco By The Beach : 4.1 : Seafood, Italian, Steak : ₹2,000 for two :  Anjuna, Goa
+Olive Bar & Kitchen : 4.3 : Mediterranean, Italian, Bar Food, Goan, Fast Food, Desserts, Beverages : ₹3,500 for two :  Vagator, Goa
+Bay 15 : 4.4 : Desserts, Asian, Continental, Goan, Italian, North Indian : ₹1,800 for two :  Panaji, Goa
+The Black Sheep Bistro : 4.9 : Continental, European, Thai, Desserts, Beverages : ₹1,800 for two :  Panaji, Goa
+The White Goa : 3.6 : Asian, Modern Indian, Bar Food, Seafood : ₹1,400 for two :  Morjim, Goa
+Como Agua : 4.2 : Cafe, Coffee, Healthy Food, Pasta, Pizza, Beverages, Italian : ₹1,500 for two :  Vagator, Goa
+Fireback : 4.1 : Thai, Asian : ₹2,000 for two :  Siolim, Goa
+Saz On The Beach : 4.1 : Continental, Italian, Fast Food, Salad : ₹1,400 for two :  Morjim, Goa
+TBH - The Burger House : 4.4 : Burger, Bar Food, Continental, Italian, Sandwich, Salad, Beverages, European : ₹1,200 for two :  Anjuna, Goa
+Fish Ka Bar & Restaurant : 4.4 : Seafood, Salad, Goan, Chinese, North Indian, Continental, Desserts, Beverages : ₹950 for two :  Betalbatim, Goa
+Kaia : 4.4 : Healthy Food, Italian, Pizza : ₹1,000 for two :  Ashwem, Goa
+Juju : 4.6 : South Indian, North Indian, Kerala, Goan, Biryani, Desserts : ₹1,500 for two :  Colva, Goa
+Pings Bia Hoi : 4.5 : Asian, Japanese, Thai, Sushi, Seafood, Beverages : ₹1,700 for two :  Porvorim, Goa
+Maai - Inspired Food : 4.3 : Goan, Burger, Sandwich, Lebanese : ₹1,700 for two :  Assagao, Goa
+La Cucina : 4.5 : Pizza, Pasta, Italian, Desserts, Beverages : ₹1,500 for two :  Morjim, Goa
+Nazaré : 4.3 : North Indian, Chinese, Goan, Seafood, Pizza, Salad, Fast Food, Desserts : ₹1,600 for two :  Betalbatim, Goa
+Sushi Mushi : 3.9 : Asian, Japanese, Chinese, Thai, Sushi, Beverages : ₹1,500 for two :  Assagao, Goa
+Vamos : 3.9 : Continental : ₹1,500 for two :  Vagator, Goa
+Nova Kitchen & Bar : 4.5 : Finger Food, Seafood, Goan, North Indian, Chinese, Sichuan, Beverages : ₹1,200 for two :  Candolim, Goa
+Mystras : 4.5 : Salad, Asian, Arabian, Italian, Seafood, Continental, Chinese : ₹1,700 for two :  Assagao, Goa
+Mama Miso : 4.5 : Asian, Chinese, Sushi, Seafood, Desserts : ₹1,000 for two :  Majorda, Goa
+Navtara Veg Restaurant : 4.0 : South Indian, North Indian, Goan, Chinese, Street Food, Fast Food, Pizza, Desserts : ₹700 for two :  Calangute, Goa
+Sussegado : 4.4 : Seafood, North Indian, Goan, Desserts, Continental, Chinese : ₹1,100 for two :  Calangute, Goa
+Gunpowder : 4.6 : South Indian, Seafood, Desserts : ₹1,500 for two :  Assagao, Goa
+Azule : 4.0 : Continental, Seafood, Pasta, Pizza, Salad, Desserts : ₹1,300 for two :  Ashwem, Goa
+Feri Bar : 4.0 : North Indian, Goan, Bar Food : ₹2,500 for two :  Penha de Franca, Goa
+Veggie Delight : 4.1 : North Indian, Chinese, Italian, Continental, Street Food, Momos, Beverages : ₹850 for two :  Varca, Goa
+Fortune's Pizzeria & Gelateria : 3.9 : Pizza, Italian : ₹650 for two :  Assagao, Goa
+Vietnom : 4.4 : Vietnamese, Healthy Food, Asian, Salad, Rolls, Desserts : ₹1,400 for two :  Assagao, Goa
+Izumi Assagao : 4.2 : Japanese, Sushi : ₹2,500 for two :  Assagao, Goa
+Sanctuary Bar & Kitchen : New : Bar Food, Seafood, North Indian, Biryani, Pizza, Italian, Asian, Desserts : ₹1,200 for two :  Vagator, Goa
+RocoMamas : 4.6 : American, Burger, Fast Food, Pizza, Shake, Beverages : ₹1,400 for two :  Calangute, Goa
+Jungle Cafe : 3.8 : Sandwich, Italian, Bar Food, Pizza, BBQ, Goan, Desserts : ₹1,000 for two :  Porvorim, Goa
+Mikey's Place : 4.4 : Continental, North Indian, Goan, Seafood, Salad, Desserts, Chinese : ₹1,200 for two :  Candolim, Goa
+Turmeric Kitchen & Bar : 4.4 : North Indian, Mughlai, Goan, Chinese, Seafood, Biryani, Finger Food, Desserts : ₹1,200 for two :  Porvorim, Goa
+Sukkha - The Indian Platter : 4.4 : North Indian, Seafood, Biryani, Kebab, Mughlai, Rolls, Desserts : ₹1,800 for two :  Assagao, Goa
+Lollo Rosso : 4.7 : Finger Food, Continental, Japanese, Burmese, Desserts, Beverages : ₹1,800 for two :  Anjuna, Goa
+Vinayak Family Restaurant : 4.4 : Goan, North Indian, Kebab, Chinese, Seafood, Biryani, Salad, Beverages : ₹1,100 for two :  Bardez, Goa
+Cafe Zelo : 4.2 : Cafe, Fast Food, Beverages, Desserts : ₹600 for two :  Margao, Goa
+Sylvia - W Goa : 4.3 : Asian : ₹2,500 for two :  W Goa, Vagator, Goa
+Greenr Cafe : 3.9 : Cafe, Salad, Pizza, Italian, Desserts, Beverages : ₹1,500 for two :  Panaji, Goa
+Makani On The Beach : 3.9 : Continental, Mexican, Goan, Seafood, Desserts, Beverages : ₹1,700 for two :  Anjuna, Goa
+@Saipe- Hilton Goa Resort : 4.0 : North Indian, Fast Food, Goan, Mughlai, Desserts : ₹1,400 for two :  Hilton Goa Resort, Goa
+Colina : 4.3 : Goan, Pizza, Fast Food, Chinese, Beverages : ₹1,200 for two :  Assagao, Goa
+LILOLA : New : Italian, Asian, Seafood : ₹2,000 for two :  Mandrem, Goa
+Kefi-Cafe And Bistro : 4.3 : Middle Eastern, Arabian : ₹500 for two :  Assagao, Goa
+Miss Margarita : 4.3 : Mexican, Bar Food, Desserts, Beverages : ₹2,000 for two :  Vagator, Goa
+Thyme & Ash - Westin : 3.9 : Continental, Desserts, Beverages : ₹3,500 for two :  The Westin Goa, Goa
+Raasta Goa : 4.2 : Bar Food, Continental, Italian, Asian, Pizza, Shake, Beverages, Desserts : ₹1,500 for two :  Vagator, Goa
+Aangan Restaurant : 4.0 : Modern Indian, Goan, Biryani, Kebab : ₹1,500 for two :  Panaji, Goa
+Miradouro Bakery and Cafe : 4.0 : Fast Food, Pizza, Pasta, Sandwich, Burger, Desserts, Beverages : ₹1,000 for two :  Panaji, Goa
+Luna's Ristorante : 4.1 : Italian, Continental, Pizza, Desserts, Beverages : ₹2,800 for two :  Anjuna, Goa
+Barfly : 4.2 : Continental, Salad, Pizza, Desserts : ₹1,000 for two :  Assagao, Goa
+Thalassa Cliff : New : Greek, Mediterranean, Seafood, Wraps : ₹1,000 for two :  Vagator, Goa
+Grumps : 3.9 : Asian, Beverages, Bar Food, Finger Food : ₹2,000 for two :  Penha de Franca, Goa
+Sao By The Shore : 4.3 : Salad, European, Seafood, Continental, Portuguese, Beverages : ₹1,600 for two :  Ashwem, Goa
+Kokni Kanteen : 4.6 : Goan, North Indian, Seafood, Beverages : ₹850 for two :  Panaji, Goa
+Yeti - The Himalayan Kitchen : 4.2 : Tibetan, Nepalese, Momos, Chinese, Beverages, Assamese : ₹1,300 for two :  Vagator, Goa
+AJ's : 4.4 : Fast Food, Continental, American, Italian, Burger, Pizza : ₹500 for two :  Margao, Goa
+Goodfellas Italian Restaurant : 4.2 : Italian, Pizza : ₹950 for two :  Benaulim, Goa
+Jambalaya Bar & Restaurant : 4.4 : North Indian, Salad, Continental, Seafood, Goan, Chinese, Desserts, Bar Food : ₹1,200 for two :  Candolim, Goa
+Casanoni Trattoria : 3.9 : Italian : ₹1,700 for two :  Panaji, Goa
+Mexicola - Tequila Bar And Restaurant : 4.1 : Mexican, Bar Food, Fast Food, Beverages : ₹1,800 for two :  Anjuna, Goa
+Clay Cafe : 3.9 : North Indian, South Indian, Street Food, Beverages : ₹400 for two :  Anjuna, Goa
+Fat Fish : 4.2 : Goan, Salad, Fast Food, North Indian, Kebab, Seafood, Continental, Desserts : ₹1,500 for two :  Anjuna, Goa
+Slow Tide : 4.2 : Seafood, Konkan, Sandwich, Beverages : ₹2,500 for two :  Anjuna, Goa
+Ticana : 3.6 : Continental, Seafood, Goan : ₹1,000 for two :  Panaji, Goa
+Aguada Riverside : 4.3 : Goan, North Indian, South Indian, Fast Food, Bar Food, Desserts, Beverages : ₹1,200 for two :  Candolim, Goa
+Mojigao : 4.1 : Cafe, Mediterranean, Middle Eastern, Fast Food, Beverages : ₹950 for two :  Assagao, Goa
+Gagan's : 4.1 : North Indian, Chinese, Salad, Fast Food, Biryani, Thai, Seafood, Desserts : ₹700 for two :  Varca, Goa
+Oh, La La : 3.6 : Goan, Continental, Italian : ₹1,800 for two :  Baga, Goa
+Joseph Bar : 4.3 : Bar Food, Goan : ₹1,000 for two :  Panaji, Goa
+Lush By The Cliff : 4.3 : North Indian, Chinese, Goan, Continental, Salad, Seafood, Italian, Fast Food : ₹950 for two :  Anjuna, Goa
+Uptown - Multi Cuisine Restaurant, Pub & Sports Bar : 4.2 : North Indian, Chinese, Goan, Continental, Desserts, Beverages : ₹1,300 for two :  Candolim, Goa
+BOOKED! Cafe : 3.8 : Cafe, Coffee, Tea, Sandwich, Fast Food, Shake, Desserts, Beverages : ₹800 for two :  Anjuna, Goa
+Zodiac - All Day Dining : 4.2 : Goan, North Indian, Asian, Oriental, Italian, Continental, Desserts, Beverages : ₹1,200 for two :  Benaulim, Goa
+Suvasa Cafe : 3.1 : Cafe, Coffee, Continental, Fast Food, Beverages : ₹500 for two :  Morjim, Goa
+Aloha : 4.2 : Continental, North Indian, Chinese, Fast Food, Seafood, Desserts, Beverages : ₹1,600 for two :  Morjim, Goa
+Sogo Bar & Grill : 4.3 : Continental, Salad, Bar Food, Desserts : ₹1,400 for two :  Varca, Goa
+MEA-Goa : 3.9 : Bar Food : ₹1,800 for two :  Siolim, Goa
+Spice Goa Restaurant : 4.6 : Goan, Seafood, North Indian, Chinese, Fast Food, Biryani, Desserts, Beverages : ₹1,100 for two :  Mapusa, Goa
+Barbeque Nation : 4.4 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,700 for two :  Caculo Mall, Panaji , Goa
+Love Fine Dining - The Park : 3.9 : North Indian, Chinese, Goan, Fast Food, Desserts, Beverages, Coffee : ₹2,000 for two :  The Park, Calangute, Goa
+Upper Deck - Radisson Blu Resort : 4.4 : Goan, Seafood, North Indian, Asian, Continental, Pasta, Desserts, Beverages : ₹2,700 for two :  Radisson Blu Resort Goa, Cavelossim Beach, Goa
+Las Olas : 4.0 : Continental, Asian, Chinese, North Indian, Italian, Sandwich, Salad, Beverages : ₹2,000 for two :  Bardez, Goa
+Matsya : 3.9 : Goan, Seafood, North Indian, Kebab, Biryani, Asian : ₹1,400 for two :  Bardez, Goa
+Roadhouse Pizzeria : 3.9 : Pizza, Pasta, Italian, Continental, Ice Cream, Desserts, Tea, Beverages : ₹1,000 for two :  Nerul, Goa
+Versus : 3.9 : Continental, Mexican, Fast Food, Bar Food, Coffee, Beverages : ₹1,300 for two :  Anjuna, Goa
+Poseidon's Cove - Planet Hollywood : 4.1 : Continental, Seafood, Sushi, Goan, Thai, Fast Food : ₹1,800 for two :  Majorda, Goa
+Mon Petit Frère Café : 4.5 : Sandwich, Fast Food : ₹400 for two :  Colva, Goa
+Urth Cafe & Eatery : 3.8 : Cafe, Juices, Beverages, Healthy Food : ₹600 for two :  Anjuna, Goa
+Caffe Sicily : 3.9 : Pizza, Coffee, Desserts, Beverages : ₹800 for two :  Anjuna, Goa
+Miri : 3.9 : South Indian, North Indian, Asian, Goan : ₹4,800 for two :  Cavelossim, Goa
+Brisa Do Mar : 4.3 : North Indian, Continental, Asian, Goan, Italian, Fast Food, Chinese, Desserts : ₹2,000 for two :  Candolim, Goa
+Palms N Sands : 4.3 : Continental, Seafood, Goan, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,300 for two :  Candolim Beach, Candolim, Goa
+Susazu : 3.9 : Continental, Salad, Pizza, Pasta, Wraps : ₹300 for two :  Arambol, Goa
+Novu Rooftop Dining : 3.9 : North Indian, Fast Food, Beverages : ₹1,500 for two :  Candolim, Goa
+The Red Ginger : 4.4 : Asian, Chinese, Thai, Japanese, Desserts : ₹1,600 for two :  Panaji, Goa
+Issa : New : Mediterranean, Italian, Sandwich, Burger, Pasta, Desserts : ₹2,000 for two :  Siolim, Goa
+Summer House Goa : 3.9 : Goan, Sandwich, Salad, Chinese, Pasta, Mexican : ₹2,200 for two :  Vagator, Goa
+Vanakkam Goa Cafe : 3.5 : South Indian, Beverages : ₹300 for two :  Morjim, Goa
+Petisco Goa : 4.6 : Continental : ₹1,400 for two :  Panaji, Goa
+Tataki Immersive Asian Dining : 4.3 : Asian, Japanese, Thai, Sushi, Sichuan, Salad, Desserts, Beverages : ₹2,000 for two :  Panaji, Goa
+Zest Vegan And Vegetarian Restaurant : 3.9 : North Indian, Shawarma, Shake, Beverages : ₹400 for two :  Agonda, Goa
+Samarkand : 3.6 : Goan, Chinese, Desserts : ₹1,000 for two :  Panaji, Goa
+SinQ Nightclub : 3.9 : Finger Food : ₹2,000 for two :  Candolim, Goa
+Johncy : 3.5 : North Indian, Goan, Continental, Seafood : ₹1,200 for two :  Benaulim, Goa
+Te Fitti Cafe : 4.3 : Cafe, Coffee, Tea, Beverages, Pizza, Burger, Fast Food, Desserts : ₹600 for two :  Panaji, Goa
+Shiori - Yakitori Bar : 4.2 : Japanese, Sushi : ₹2,500 for two :  Siolim, Goa
+GetAWay - Ice Creams & Desserts : 3.5 : Ice Cream, Healthy Food, Desserts, Bakery : ₹300 for two :  Panaji, Goa
+Copa Cabana : 3.9 : Bar Food, American, Asian, Fast Food, Beverages : ₹1,700 for two :  Radisson Blu Resort - Cavelossim, Goa
+Nerul Eat Street : 4.1 : North Indian, South Indian, Chinese, Mughlai, Continental, Seafood, Beverages, Goan : ₹950 for two :  Nerul, Goa
+Marai - The Courtyard of Slow Living : 3.9 : Bakery, Sandwich, Salad : ₹1,500 for two :  Baga, Goa
+Vedanta Pure Veg Family Restaurant : 3.3 : North Indian, South Indian, Chinese, Fast Food, Street Food, Beverages, Shake, Desserts : ₹700 for two :  Calangute, Goa
+Sheetal Dhaba : 3.8 : North Indian, Chinese, Fast Food, Street Food, Beverages : ₹400 for two :  Nerul, Goa
+Joecons Beach Shack : 4.0 : Continental, Chinese, Goan, Seafood : ₹950 for two :  Benaulim, Goa
+The Off White : 3.9 : North Indian, Continental, Italian, Desserts : ₹1,800 for two :  Navelim, Goa
+Terttulia : 4.2 : Pizza, Italian, Continental, Bar Food, Desserts : ₹2,000 for two :  Panaji, Goa
+Club Tito's : 3.9 : Goan, North Indian, Mughlai, Seafood, Chinese, Sushi, Pasta : ₹1,800 for two :  Baga, Goa
+Anand Bar Seafood Restaurant : 4.5 : North Indian, Goan, Chinese, Biryani, Seafood : ₹950 for two :  Anjuna, Goa
+KFC : 3.3 : Burger, Fast Food, Rolls : ₹450 for two :  Margao, Goa
+Disco Singh : 3.8 : North Indian, Mughlai, Biryani, Kebab, Desserts : ₹1,600 for two :  Anjuna, Goa
+One80 Sunset Bar : 3.9 : Italian, Continental, Seafood : ₹2,000 for two :  Mandrem, Goa
+Mustard Cafe : 4.5 : Italian, Seafood, Fast Food, Burger, Desserts : ₹1,900 for two :  Assagao, Goa
+C'est La Vie : 4.0 : Continental, Fast Food, Street Food : ₹500 for two :  Assagao, Goa
+Misu Restaurant & Bar : 3.8 : North Indian, Seafood, Goan, Chinese, Desserts : ₹1,100 for two :  Panaji, Goa
+Trails Of Taste - TOTGOA : 3.9 : Andhra, South Indian, Biryani, Desserts : ₹600 for two :  Anjuna, Goa
+SinQ Beach : 4.1 : North Indian, Goan, Italian, Sandwich, Seafood, Salad, Desserts : ₹950 for two :  Morjim, Goa
+Perfect Cup : 4.4 : Cafe, Continental, Beverages, Desserts : ₹1,000 for two :  Panaji, Goa
+Diaz Pool Club & Bar : 3.6 : Bar Food : ₹3,000 for two :  Anjuna, Goa
+The Kitchen On Top : 4.4 : North Indian, Chinese, Asian, Mughlai, Fast Food, Continental, Biryani, Desserts : ₹1,000 for two :  Margao, Goa
+Greco : 4.2 : Goan, Greek, Italian, Continental, Seafood : ₹1,700 for two :  Cavelossim, Goa
+Soi : 4.3 : Goan, Desserts : ₹800 for two :  Candolim, Goa
+Square Sparrow : 4.3 : North Indian, Italian, Continental, Asian : ₹1,300 for two :  Anjuna, Goa
+Cavatina : 4.8 : Goan : ₹2,500 for two :  Benaulim, Goa
+De Candolim Deck : 4.0 : Goan, North Indian, Continental, Chinese, Mughlai, Italian, Desserts, Beverages : ₹1,600 for two :  Candolim, Goa
+Banana Leaf : 4.3 : South Indian, North Indian, Chinese, Goan, Desserts, Beverages : ₹1,000 for two :  Candolim, Goa
+White Plate By Chef Jason : 4.4 : French, Italian, American, Desserts : ₹2,500 for two :  Candolim, Goa
+Kuchun's : 4.0 : North Indian, Mughlai, Fast Food, Beverages : ₹1,400 for two :  Morjim, Goa
+Devang : 3.9 : Goan, Desserts : ₹1,000 for two :  Assagao, Goa
+The Rasoda : 4.3 : North Indian, Kebab, Biryani, Beverages : ₹1,000 for two :  Old Goa, Goa
+Tribe : 3.9 : South Indian, Oriental, North Indian, Desserts : ₹1,700 for two :  Calangute, Goa
+Tastara : 3.9 : North Indian, Fast Food : ₹500 for two :  Baga, Goa
+Aura Beach Cafe : 3.9 : North Indian, Goan, Pasta, Chinese, Desserts : ₹1,500 for two :  Anjuna, Goa
+Antonio : 4.2 : Goan, Portuguese : ₹1,300 for two :  Panaji, Goa
+Woo Bar - W Goa : 4.4 : Finger Food, Continental, Beverages : ₹3,600 for two :  W Goa, Vagator, Goa
+Anjuna Coffee & Co : 3.9 : Cafe, Coffee, Bakery, Desserts, Continental : ₹1,000 for two :  Anjuna, Goa
+Vivo - Alila Diwa : 4.4 : Turkish, Pizza, Goan, Chinese, North Indian, Mughlai, Desserts : ₹2,500 for two :  Alila Diwa, Majorda, Goa
+Curlies : 3.5 : Continental, North Indian, Goan, Fast Food, Israeli, Desserts, Juices, Beverages : ₹1,700 for two :  Anjuna Beach, Anjuna, Goa
+Bomras : 4.1 : Burmese, Thai, Asian, Desserts : ₹1,900 for two :  Anjuna, Goa
+Goan Spice : 4.2 : Goan, North Indian, Chinese, Malwani, Continental, Kebab, Desserts, Beverages : ₹1,200 for two :  Anjuna, Goa
+Goan Spice Family Bar & Restaurant : 3.7 : Seafood, North Indian, Goan, Chinese : ₹600 for two :  Calangute, Goa
+Royal Enfield Garage Cafe : 4.6 : Continental, Italian, Fast Food, Beverages, Desserts : ₹1,400 for two :  Baga, Goa
+Hammerzz : 3.6 : Chinese, Pasta, Wraps : ₹5,000 for two :  Baga, Goa
+The Bodhi Tree Cafe And Bar : 4.1 : North Indian, Chinese, Seafood, Fast Food, Goan, Beverages, Sichuan : ₹500 for two :  Morjim, Goa
+Tkyo : 4.3 : Asian, Japanese, Thai, Chinese, Seafood, Momos, Sushi, Beverages : ₹1,400 for two :  Anjuna, Goa
+Peace Bar - The Park : 4.0 : North Indian, Mughlai, Goan, Chinese, Continental, Desserts, Beverages : ₹1,900 for two :  The Park, Calangute, Goa
+Carlito's By The Sea : 3.9 : Goan, Continental, Bar Food : ₹1,000 for two :  Nerul, Goa
+Piccola Roma : 4.2 : Continental, Italian, Pizza, Goan, Fast Food, Desserts, Coffee, Beverages : ₹1,200 for two :  Vagator, Goa
+Pizza Wings : 3.3 : Pizza, Italian, Fast Food : ₹450 for two :  Vasco, Goa
+Big Fat Sandwich & Pizza : 4.2 : Cafe, Pizza, Sandwich, Fast Food, Italian, Beverages, Coffee : ₹1,200 for two :  Anjuna, Goa
+Club Cubana : 4.3 : Finger Food : ₹3,000 for two :  Anjuna, Goa
+Pizza Hut : 4.0 : Pizza, Italian, Fast Food : ₹600 for two :  Margao, Goa
+Feliz - Double Tree By Hilton : 3.9 : Goan, Seafood, Mangalorean : ₹2,200 for two :  DoubleTree by Hilton Goa - Panaji, Goa
+The Square - Novotel Goa Shrem Hotel : 4.3 : North Indian, Continental, Asian, Fast Food, Sandwich, Burger, Desserts, Beverages : ₹3,000 for two :  Novotel Goa Shrem Hotel, Candolim, Goa
+Amour Bistro : 3.9 : Pizza, Italian, Burger, Fast Food, Beverages : ₹1,500 for two :  Assagao, Goa
+Rockpool - W Goa : 4.4 : Finger Food, European, Goan, Fast Food, Beverages : ₹3,000 for two :  W Goa, Vagator, Goa
+Mum's Kitchen : 4.4 : Goan, Seafood : ₹2,000 for two :  Panaji, Goa
+A Reverie : 4.7 : European, Continental, Beverages, Desserts : ₹3,500 for two :  Calangute, Goa
+Spice Traders - W Goa : 4.7 : Thai, Chinese, Japanese, Sri Lankan, Vietnamese, Desserts : ₹4,200 for two :  W Goa, Vagator, Goa
+Bomblii : 4.1 : Asian, Seafood : ₹1,000 for two :  Panaji, Goa
+Ritz Classic : 4.1 : Continental, Seafood, North Indian, Chinese, Mughlai, Asian, Desserts, Beverages : ₹1,500 for two :  Panaji, Goa
+The Black Sheep Bistro At Aguad : 4.8 : Continental, Thai, Burger, Fast Food, Desserts : ₹2,000 for two :  Candolim, Goa
+Legacy Of Bombay - Fidalgo : 3.9 : North Indian, South Indian, Continental, Street Food : ₹1,100 for two :  Fidalgo, Panaji, Goa
+Postal 66 : 3.5 : Cafe, Coffee, Pancake, Wraps, Fast Food, Continental, Desserts, Beverages : ₹800 for two :  Penha de Franca, Goa
+Black Forest - Lounge Cafe & Gastro Bar : 3.9 : Bar Food, Italian, Cafe, Mediterranean, Thai, Pizza, North Indian : ₹1,000 for two :  Siolim, Goa
+Amavi : 4.6 : Continental, Desserts, Thai, Seafood, Italian, Beverages : ₹2,500 for two :  Calangute, Goa
+Jardin D'Ulysse : 4.5 : Italian, Continental, Salad, Tibetan, Asian, Desserts, Coffee, Beverages : ₹1,200 for two :  Morjim, Goa
+WOW! China : 3.8 : Chinese, Asian, Sichuan, Momos : ₹500 for two :  Penha de Franca, Goa
+Miguel's - Cocktails & Petiscos : 4.2 : Goan, Portuguese, Beverages : ₹1,900 for two :  Panaji, Goa
+Spice Studio - Alila Diwa Goa : 4.3 : Goan, Seafood, Kerala, Desserts : ₹2,500 for two :  Alila Diwa, Majorda, Goa
+Saké - The Asian Lounge : 4.9 : Asian, Sushi, Japanese, Cantonese, Desserts : ₹2,500 for two :  Assagao, Goa
+Domingo's Gazebo : 4.3 : North Indian, Continental, Goan, Steak : ₹700 for two :  Benaulim, Goa
+Inara : 3.9 : Italian, Burger : ₹1,500 for two :  Panaji, Goa
+Juna : 3.9 : American, Chinese, Mexican : ₹1,200 for two :  Anjuna, Goa
+ĀSRO : 3.9 : Coffee, Beverages, North Indian, Biryani : ₹700 for two :  Porvorim, Goa
+Cohiba : 4.1 : Finger Food, Continental, Bar Food, Goan, Italian, Seafood, North Indian, Desserts : ₹1,800 for two :  Candolim, Goa
+Pineapple Villa By Raddish : 4.4 : North Indian, Chinese, Goan, Continental, Seafood, American, Desserts, Beverages : ₹1,300 for two :  Bardez, Goa
+Rabbit Hole : 3.8 : Continental, Middle Eastern, Fast Food, Desserts : ₹950 for two :  Siolim, Goa
+Peep Kitchen : 4.6 : Goan, Seafood, North Indian, Biryani, Oriental, Beverages : ₹1,100 for two :  Panaji, Goa
+GROK : 4.4 : Modern Indian, Goan, Pizza : ₹2,000 for two :  Hyatt Centric, Candolim, Goa
+The Den Bar & Lounge : 3.9 : Continental, Finger Food, Beverages : ₹3,500 for two :  Navelim, Goa
+Copperleaf - Porvorim : 4.5 : Goan, North Indian, Mughlai, Chinese, Kebab, Seafood, Biryani, Desserts : ₹1,100 for two :  Penha de Franca, Goa
+Tukaram Bar and Restaurant : 3.9 : Goan, North Indian, Seafood : ₹1,000 for two :  Mapusa, Goa
+South Delhi : 3.9 : Juices, Beverages, Biryani, Chinese, North Indian, Seafood, Street Food : ₹1,100 for two :  Vagator, Goa
+Pedro's Bar And Restaurant : 3.9 : Goan, Chinese, Continental, Bar Food, Seafood, North Indian, Mughlai, Desserts : ₹950 for two :  Benaulim, Goa
+Samudra - The Spice Of Andhra : 3.6 : Andhra, South Indian : ₹600 for two :  Calangute, Goa
+The Palms - Radisson Goa Candolim : 3.6 : North Indian, South Indian, Continental, Goan, Oriental, Fast Food, Healthy Food, Desserts : ₹2,000 for two :  Radisson Goa Candolim , Candolim, Goa
+Village 36 - Street Eats Of Asia : 4.2 : Chinese, Thai, Asian, Salad, Coffee, Beverages : ₹1,700 for two :  Assagao, Goa
+Vida : 3.9 : Goan, North Indian, Continental, Chinese : ₹1,500 for two :  Margao, Goa
+Kokum Curry : 3.9 : Goan, Continental, North Indian : ₹1,000 for two :  Panaji, Goa
+Star Light : 4.2 : Goan, North Indian, Chinese, Seafood, Salad, Biryani : ₹850 for two :  Baga, Goa
+De Baga Deck : 4.3 : Goan, Biryani, North Indian, Italian, Chinese, Salad, Seafood, Desserts : ₹1,000 for two :  Calangute, Goa
+La Selle : 4.4 : Continental, Italian, Sandwich, Burger : ₹2,000 for two :  Margao, Goa
+Soi : 4.1 : Goan, Seafood, North Indian, Biryani, Chinese, Desserts : ₹1,200 for two :  Panaji, Goa
+Chocolate House : 3.7 : Waffle, Desserts, Pizza, Sandwich, Fast Food, Beverages, Cafe : ₹500 for two :  Colva, Goa
+Telugu Kitchen : New : Bar Food, North Indian, Biryani, Chinese : ₹600 for two :  Baga, Goa
+Harbour Cafe - The Crown : 4.2 : North Indian, Goan, Seafood, Continental, Healthy Food, Oriental, Chinese, Biryani : ₹1,700 for two :  Panaji, Goa
+Bibhitaki Vegan & Vegetarian Cafe : 3.2 : Cafe, Fast Food, Healthy Food, Desserts, South Indian, Beverages, Coffee : ₹650 for two :  Palolem, Goa
+Kailash Parbat : 4.1 : North Indian, Chinese, Maharashtrian, Fast Food, Desserts, Beverages : ₹950 for two :  Candolim, Goa
+Dropadi : 4.0 : North Indian, Chinese, Continental, Seafood, Goan, Italian : ₹800 for two :  Palolem, Goa
+Kokum Curry : 4.2 : Bar Food, Goan, Beverages : ₹1,000 for two :  Candolim, Goa
+Mimi's : 4.2 : Continental, Goan, Healthy Food, Fast Food, Coffee, Beverages : ₹850 for two :  Morjim, Goa
+Robin's Ark : 4.5 : North Indian, Seafood, Continental, Fast Food, Goan, Italian, Desserts, Beverages : ₹1,400 for two :  Cavelossim, Goa
+Aur Jalsa - A Pure Vegetarian Restaurant : 3.9 : North Indian, Rajasthani, Gujarati, Desserts : ₹1,000 for two :  Resort Rio, Goa
+Cafe Chai Coffee : 4.3 : Cafe, Fast Food, Beverages, Coffee : ₹900 for two :  Vasco, Goa
+Baked In Goa : 4.2 : Pizza, Continental, Fast Food : ₹800 for two :  Calangute, Goa
+Gratitude : 4.5 : Healthy Food, Continental, Fast Food, Desserts, Beverages : ₹1,200 for two :  Anjuna, Goa
+The Rice Mill : 4.1 : Cafe, Continental, Goan, Healthy Food, Juices, Beverages, Desserts : ₹950 for two :  Morjim, Goa
+German Bakery : 4.3 : Seafood, Fast Food, North Indian, Beverages, Salad, Desserts, Asian : ₹1,000 for two :  Anjuna, Goa
+Sakana : 4.2 : Japanese, Sushi, Rolls, Chinese, Salad, Beverages : ₹2,000 for two :  Vagator, Goa
+Pablo's : - : Bar Food, Goan : ₹1,000 for two :  Assagao, Goa
+Grubsoul At Bandstand : 3.9 : Seafood, Continental, Asian, North Indian, Goan : ₹1,500 for two :  Anjuna, Goa
+Fame - Planet Hollywood : 3.9 : Continental, Mexican, Italian, Fast Food, Sushi, Beverages : ₹3,000 for two :  Majorda, Goa
+The Sage : - : Cafe, Continental, Goan, North Indian, Chinese, Pasta, Sandwich, Beverages : ₹1,500 for two :  Morjim, Goa
+Smita's Lake View Restaurant & Bar : 3.9 : North Indian, Goan, Chinese, Seafood : ₹1,000 for two :  Bambolim, Goa
+Ministry Of Spices By Ramatan Resorts : 4.1 : North Indian, Chinese, Goan, Continental, Sandwich, Biryani, Desserts, Beverages : ₹1,200 for two :  Vagator, Goa
+Downtown Resto Cafe : 4.0 : Fast Food, Chinese, Desserts : ₹500 for two :  Ponda, Goa
+Delhi Darbar : 3.8 : North Indian, Kebab, Seafood, Biryani, Chinese, Desserts : ₹800 for two :  Candolim, Goa
+La Barraca : - : Goan : ₹1,000 for two :  Benaulim, Goa
+Sublime : 4.3 : Salad, European, Mexican, Spanish, Fast Food, Desserts, Beverages : ₹2,000 for two :  Assagao, Goa
+Cinnamon : 3.4 : Italian, Pasta, Mexican, Continental, Burger, Panini, Fast Food, Salad : ₹1,000 for two :  Benaulim, Goa
+Elephant Beach Cafe : 3.7 : Continental, Sandwich, Healthy Food, Desserts, Beverages : ₹950 for two :  Anjuna, Goa
+Guru Bar : 4.0 : Goan, Italian, Continental, Thai, Seafood, Chinese : ₹1,000 for two :  Anjuna Beach, Anjuna, Goa
+Tuscany Gardens : 4.6 : Continental, Italian, Pizza, Salad, Beverages : ₹1,400 for two :  Candolim, Goa
+Baowich : 3.9 : Chinese, Fast Food, Sichuan, Shake, Beverages : ₹800 for two :  Vasco, Goa
+Beetle Restaurant & Bar : 3.9 : Goan, Modern Indian, North Indian, Chinese, Pizza, Desserts : ₹800 for two :  Porvorim, Goa
+Charlie Chang's : 4.2 : Chinese, Thai, Seafood, Asian, Sichuan : ₹500 for two :  Panaji, Goa
+Melt Pizza Bar : 4.5 : Pizza, Beverages : ₹1,000 for two :  Vagator, Goa
+Soul Curry : 4.1 : North Indian, Chinese, Goan, Biryani, Desserts : ₹1,200 for two :  Panaji, Goa
+Prana Mandrem : 3.7 : Cafe, Beverages, Goan, Continental, Desserts : ₹1,200 for two :  Mandrem, Goa
+Cafe Basil : 4.4 : Fast Food, Continental : ₹400 for two :  Panaji, Goa
+Bacchus Bar & Kitchen : 4.1 : Cafe, Continental, Fast Food, Bakery, Pasta, Coffee, Beverages, Shake : ₹850 for two :  Anjuna, Goa
+ToraShir : 3.9 : Chinese, North Indian, Seafood : ₹500 for two :  Benaulim, Goa
+Noaa Social Dining : 4.2 : Chinese, Pizza, Asian, Oriental, Bar Food : ₹2,000 for two :  Candolim, Goa
+Korea Goa : 4.0 : Korean, Asian : ₹1,500 for two :  Verna, Goa
+Yaki Zushi : 4.4 : Japanese, Thai, Chinese, Sushi, Beverages : ₹1,700 for two :  Penha de Franca, Goa
+Tiamo Gelato : 3.9 : Desserts, Ice Cream, Shake : ₹300 for two :  Anjuna, Goa
+The Origin Sports Bar & Cafe : 3.9 : Bar Food, Continental, Italian, Beverages, Desserts : ₹800 for two :  Margao, Goa
+Amigueiro : 3.6 : Chinese, Continental, Pasta, Goan, Oriental, North Indian, Desserts, Beverages : ₹1,400 for two :  Betalbatim, Goa
+Bistro - Alila Diwa : 3.7 : Italian, Continental, Beverages : ₹3,000 for two :  Alila Diwa, Majorda, Goa
+Tom's Resto By The Beach : 3.8 : North Indian, Chinese, Goan, Seafood, Continental, Beverages : ₹600 for two :  Calangute Beach, Calangute, Goa
+Villa 259 : 4.2 : Salad, Goan, Desserts : ₹1,300 for two :  Assagao, Goa
+Goafornia : New : Salad, Italian, Asian, Mediterranean, North Indian, European, Pizza : ₹2,200 for two :  Morjim, Goa
+St. Anthony's : 4.0 : Goan, North Indian, Kebab, Oriental, Italian, Seafood, Desserts, Beverages : ₹1,200 for two :  Baga, Goa
+Mandala Cafe : 3.9 : Juices, Tea, Salad, North Indian : ₹800 for two :  Agonda, Goa
+The Farmhouse Bar & Bistro : 4.1 : Continental, Goan, Seafood, Steak, Pasta, Salad, Finger Food : ₹1,800 for two :  Benaulim, Goa
+Coastal Crave : 3.9 : Goan, Chinese : ₹1,000 for two :  Candolim, Goa
+Tien B&B And Bistro : 4.3 : Continental, Asian, Sandwich, Salad, Sushi, Bar Food, Desserts : ₹2,200 for two :  Vagator, Goa
+Veggie Delight : 3.1 : North Indian, South Indian, Biryani, Chinese, Pizza, Fast Food, Desserts, Beverages : ₹500 for two :  Colva, Goa
+The Camron : 4.4 : Goan, North Indian, Mughlai, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,200 for two :  Majorda, Goa
+Leda Balcao : 4.5 : Goan, North Indian, Fast Food, Continental : ₹1,400 for two :  Benaulim, Goa
+Godinho Bar And Restaurant : 4.2 : Chinese, Seafood, Goan, North Indian, Sichuan : ₹950 for two :  Panaji, Goa
+Masko Cafe : New : Continental : ₹300 for two :  Porvorim, Goa
+Sabado : 3.9 : Continental, Bar Food, Sandwich, Salad, Desserts : ₹1,800 for two :  Anjuna, Goa
+Waffle Planet : 3.9 : Waffle, Desserts, Shake : ₹400 for two :  Margao, Goa
+Coconut Grove - Bogmalo Beach Resort : 3.6 : Goan, Chinese, Italian, Kebab, North Indian, Desserts : ₹2,500 for two :  Bogmalo Beach Resort, Bogmal, Goa
+Chilli N Spice - Fidalgo : 3.6 : Continental, Asian, Seafood, Goan, Desserts, European : ₹2,500 for two :  Fidalgo, Panaji, Goa
+Indus Cafe 24.7 : 3.9 : Cafe, Italian, Salad, Fast Food, Continental, Bakery, American, Desserts : ₹1,300 for two :  Vagator, Goa
+Cafe Sutra : 3.9 : Pasta, Salad, Juices : ₹1,000 for two :  Morjim, Goa
+Udupi Anand Sagar : 3.8 : Street Food, South Indian, Sandwich, North Indian, Chinese, Beverages : ₹550 for two :  Calangute, Goa
+Creamchoc Ice Creams : 4.8 : Ice Cream, Desserts, Frozen Yogurt, Waffle : ₹450 for two :  Anjuna, Goa
+Pavilion At the Village Square - ITC Grand Goa Resort & Spa : 3.9 : North Indian, Mexican, Goan, Asian, South Indian, Salad, Desserts, Beverages : ₹4,200 for two :  ITC Grand Goa Resort & Spa, Majorda, Goa
+The Bigg Mouth By Tosigos : 3.9 : North Indian, Desserts, Goan, Continental : ₹700 for two :  Candolim, Goa
+Uncle Tim's : 4.2 : Continental, Pasta, Mexican, Steak, Juices, Beverages : ₹1,000 for two :  Porvorim, Goa
+Kamaya Restaurant : 3.9 : Goan, Salad, Continental, Burger, Sandwich, Pasta, Pizza, North Indian : ₹1,400 for two :  Agonda, Goa
+Valonia's Wheel : 4.1 : Goan, North Indian, Mughlai, Continental, Italian, Chinese, Desserts, Beverages : ₹1,200 for two :  Benaulim, Goa
+The Dining Room - Grand Hyatt : 4.4 : Asian, Italian, North Indian, Fast Food, Goan, Kebab, Beverages, Desserts : ₹3,000 for two :  Grand Hyatt, Bambolim, Goa
+Tree Top Tava : 4.4 : Continental, North Indian, Goan, Mughlai, Chinese, Fast Food, Desserts, Beverages : ₹1,200 for two :  Agonda, Goa
+Bloom And Brew : 4.0 : Cafe, Beverages, Mediterranean, Salad, Coffee, Desserts : ₹1,200 for two :  Assagao, Goa
+Cafe Bhonsle : 3.7 : South Indian, North Indian, Chinese, Street Food, Beverages : ₹300 for two :  Ponda, Goa
+Cafe El Mar : 3.2 : Goan, Cafe : ₹1,000 for two :  Baga, Goa
+Zest Cafe : - : Coffee, Shake, Salad, Pizza : ₹600 for two :  Palolem, Goa
+Viggis : 3.9 : Chinese, Continental, North Indian, Goan, Seafood, Desserts, Beverages : ₹1,100 for two :  Mapusa, Goa
+Cafe Bangalore : 3.5 : South Indian : ₹200 for two :  Panaji, Goa
+The Kitchen Table - W Goa : 4.4 : European, North Indian, Asian, Beverages : ₹3,000 for two :  W Goa, Vagator, Goa
+La Concha - Azaya Beach Resort : 3.9 : North Indian, Continental, Biryani : ₹1,800 for two :  Azaya Beach Resort, Goa
+Crabs And Curries : New : Bar Food, Chinese, North Indian, Desserts : ₹1,800 for two :  Anjuna, Goa
+Urban Anna : 3.3 : South Indian, Fast Food, Beverages : ₹300 for two :  Porvorim, Goa
+The Drool Company : 4.2 : Burger, Fast Food, Shake : ₹500 for two :  Ponda, Goa
+Viva Panjim : 4.6 : Goan, Continental, Chinese, Seafood, North Indian, Steak, Desserts, Beverages : ₹1,200 for two :  Panaji, Goa
+Sand & Sea : 3.2 : Goan, North Indian, Seafood, Chinese : ₹1,000 for two :  Bambolim, Goa
+Moonstar : 3.9 : Goan, Bar Food : ₹1,000 for two :  Anjuna, Goa
+Kokum Kitchen - Taj Fort Aguada Resort & Spa : 4.3 : Seafood, Goan, Continental : ₹3,500 for two :  Taj Fort Aguada Resort & Spa, Candolim, Goa
+Domino's Pizza : 3.3 : Pizza, Italian, Pasta, Fast Food, Desserts, Beverages : ₹400 for two :  Siolim, Goa
+Kutumbh : 4.0 : Continental, Chinese, Goan, North Indian, Seafood : ₹800 for two :  Panaji, Goa
+La Merito Charcoal Pizza & Cafe : 4.1 : Pizza, Pasta, Fast Food, Oriental, Sushi, Continental, Tea, Beverages : ₹1,000 for two :  Calangute, Goa
+Shambhala Beach Lounge : - : Asian, Goan, Mexican : ₹2,000 for two :  Candolim, Goa
+Spice Multicuisine Restaurant By Club Mahindra : 3.9 : Continental, Fast Food, Desserts : ₹1,000 for two :  Bicholim, Goa
+Cafe Kashish : 3.8 : Fast Food : ₹500 for two :  Palolem, Goa
+Golden Oven : 3.9 : Bakery, Fast Food, Street Food, Coffee, Beverages : ₹400 for two :  Mapusa, Goa
+Roboto : - : Japanese : ₹1,700 for two :  Vagator, Goa
+Saudagar - Pure Veg Restaurant : 3.9 : South Indian, North Indian : ₹400 for two :  Vagator, Goa
+Cucina Rosetta : New : North Indian, European, Asian, Fast Food, Desserts : ₹1,600 for two :  Varca, Goa
+On The Rocks : - : Bar Food, Continental, North Indian, Chinese, Fast Food, Beverages : ₹1,000 for two :  Agonda, Goa
+Kafa : 3.9 : North Indian, Asian, Italian, Seafood, Fast Food, Biryani, Desserts : ₹2,000 for two :  Anjuna, Goa
+Veggie Delight San Thome : 3.8 : North Indian, South Indian, Mughlai, Fast Food, Chinese, Street Food, Beverages, Desserts : ₹550 for two :  Varca, Goa
+Laguna Anjuna : 3.9 : Continental, Goan : ₹1,800 for two :  Anjuna, Goa
+Daivya's : 3.9 : Chinese, Biryani, Salad, Pizza, Wraps, Sandwich, Fast Food, Desserts : ₹1,100 for two :  Anjuna, Goa
+Casa De Goa : 3.9 : Goan, North Indian, South Indian, Continental, Biryani, Fast Food, Desserts, Beverages : ₹1,800 for two :  Calangute, Goa
+Kourm Soulful Kebabs & Curries : 4.1 : North Indian, Kebab, Biryani, Seafood, Mughlai : ₹950 for two :  Anjuna, Goa
+Abraco : 3.9 : Italian, Fast Food, Seafood, Chinese, Pizza, Continental : ₹1,000 for two :  Penha de Franca, Goa
+Tikitii : New : Continental, Italian, Bar Food, Pizza : ₹2,100 for two :  Morjim, Goa
+Ocean World : 4.1 : Goan, North Indian, Mughlai, Kebab, Continental, Asian, Desserts, Beverages : ₹1,000 for two :  Margao, Goa
+Darling's  Bar : - : Italian, Pizza, Bar Food : ₹1,500 for two :  Vagator, Goa
+Cremeux Cafe & Bistro : 4.3 : Cafe, Beverages, Bakery, Desserts, Sandwich, Pizza, Fast Food : ₹1,000 for two :  Panaji, Goa
+Sai Leela Family Restaurant : 3.5 : Chinese, Seafood, Kebab, North Indian, Goan, Biryani, Mughlai, Fast Food : ₹600 for two :  Mapusa, Goa
+Mezmiz Goa : 4.4 : Lebanese, Kebab, Middle Eastern, Egyptian, Desserts : ₹1,100 for two :  Penha de Franca, Goa
+The Tibet Cafe : 3.5 : Tibetan, Sandwich, Fast Food, Street Food, Goan, Juices, Shake, Beverages : ₹400 for two :  Morjim, Goa
+Soul Curry - Multi Cuisine Restaurant : 4.5 : Goan, North Indian, Chinese, Biryani, Desserts, Beverages : ₹1,100 for two :  Mapusa, Goa
+Hyderabadi Resto Bar : 3.9 : South Indian, Biryani, Chinese : ₹350 for two :  Calangute, Goa
+Star Light : 4.2 : Goan, Chinese, North Indian, Seafood, Finger Food : ₹650 for two :  Cavelossim, Goa
+McDonald's : 3.9 : Burger, Fast Food, Cafe : ₹500 for two :  Panaji, Goa
+O Poco : 3.9 : Burger, Mexican, Modern Indian, Beverages : ₹1,800 for two :  Anjuna, Goa
+Starboy Pizza & Shakes : 3.3 : Pizza, Italian, Beverages : ₹300 for two :  Ponda, Goa
+Montego Bay Beach Village : 4.5 : Goan, North Indian, Chinese, Continental, Pizza, Seafood, Desserts, Beverages : ₹1,200 for two :  Morjim, Goa
+Raviraj Cafe : 3.0 : Street Food, South Indian, Chinese, North Indian, Beverages, Fast Food : ₹500 for two :  Navelim, Goa
+Tamil Table : 3.8 : South Indian, Chettinad, Seafood : ₹1,500 for two :  Assagao, Goa
+Paper Moon - Taj Fort Aguada Resort & Spa : - : Italian : ₹2,500 for two :  Taj Fort Aguada Resort & Spa, Candolim, Goa
+Mango Tree : New : Continental, North Indian, Pizza, Chinese, Goan : ₹1,800 for two :  Vagator, Goa
+Slique Beach Club : New : Asian, Continental, Finger Food, Italian : ₹2,500 for two :  Vagator, Goa
+Hibiscus - Pride Sun Village Resort And Spa Goa : 3.8 : Seafood, Mughlai : ₹1,000 for two :   Pride Sun Village Resort and Spa Goa, Goa
+Let's Juice : 3.9 : Juices, Beverages : ₹450 for two :  Anjuna, Goa
+Tapiokka : 3.6 : South Indian, Kerala, Seafood, Biryani, Beverages, Chinese : ₹1,000 for two :  Benaulim, Goa
+Eva Cafe : 4.2 : Sandwich, Fast Food : ₹950 for two :  Anjuna, Goa
+Pandara Street : 3.9 : North Indian, Mughlai : ₹600 for two :  Siolim, Goa
+Folga Kitchen + Bar : 4.1 : Goan, Continental, North Indian, Kebab, Chinese, Seafood, Desserts, Beverages : ₹1,000 for two :  Colva, Goa
+Jambul House : 3.6 : Goan, Fast Food, Desserts, Tea, Coffee, Beverages : ₹1,300 for two :  Panaji, Goa
+KBC Kabaab & Biryani Centre : 4.2 : Kebab, Rolls, North Indian, Sandwich : ₹500 for two :  Candolim, Goa
+Salud : 3.9 : Goan, Continental, Fast Food, Seafood, Pizza : ₹1,300 for two :  Vagator, Goa
+Amancio Classic Bar and Family Restaurant : 4.2 : Finger Food, Goan, North Indian, Mughlai, Chinese, Sichuan, Seafood : ₹800 for two :  Siolim, Goa
+Cavala : 4.3 : Italian, Rolls, North Indian, Continental, Desserts : ₹2,000 for two :  Baga, Goa
+C'Roque Resort : 4.5 : North Indian, Chinese, Asian, Goan, Continental, Pizza, Sandwich, Desserts : ₹1,100 for two :  Colva, Goa
+Zest Café & Kitchen - Holiday Inn : 4.5 : North Indian, Goan, Chinese, Seafood, Oriental, Salad, Desserts, Beverages : ₹2,700 for two :  Holiday Inn Resort, Salcette, Goa
+Kofuku : 4.3 : Japanese, Korean, Asian, Goan, Salad, Sushi, Desserts : ₹2,500 for two :  Mapusa, Goa
+Food Court : 3.5 : North Indian, South Indian, Chinese, Biryani, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Dempo Towers, Panaji, Goa
+Baa's Kitchen : 4.4 : Goan, North Indian, Fast Food, Beverages : ₹1,300 for two :  Palolem, Goa
+Biryani By Kilo : 4.3 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  Panaji, Goa
+Amuz By Hemant Oberoi : 3.3 : Goan, North Indian, Continental, Burger, Fast Food, Beverages : ₹2,000 for two :  The Ivy Anjuna, Goa
+7 Aromas Resto & Cafe : New : Goan, North Indian : ₹1,000 for two :  Calangute, Goa
+Frida Cantina : 4.3 : Continental, Bar Food, Mexican, Desserts, Beverages : ₹2,000 for two :  Panaji, Goa
+Seascape Waterfront : - : Goan, North Indian, Chinese, Continental, Italian, Desserts, Beverages : ₹1,100 for two :  Siolim, Goa
+Pentagon : 4.2 : Goan, Seafood, Chinese, North Indian, Kerala, Desserts, Beverages : ₹1,400 for two :  Majorda, Goa
+Mrs Morgan's By Vea Homes : 4.3 : South Indian, Goan : ₹400 for two :  Vagator, Goa
+Balcao Bar & Restaurant : 4.3 : North Indian, Continental, Chinese, Goan, Seafood, Desserts : ₹1,300 for two :  Mandrem, Goa
+Taikun Bar & Kitchen : - : Asian, Japanese, Seafood, Chinese, Rolls : ₹1,200 for two :  Colva, Goa
+Jain Roti Wala Pure Veg Family Restaurant : 3.1 : Chinese, North Indian, South Indian : ₹500 for two :  Candolim, Goa
+Baga 24 Family Restaurant & Bar : 3.1 : North Indian, Goan, Mughlai, Chinese, Continental, Sandwich, Fast Food, Beverages : ₹450 for two :  Baga, Goa
+Restaurant Chef Pillai : 4.3 : Bar Food, Beverages : ₹250 for two :  Goa Marriott Resort & Spa, Panaji, Goa
+Sonic : 3.8 : Goan, Seafood, BBQ, Continental, Italian, North Indian, Desserts, Beverages : ₹1,300 for two :  Anjuna Beach, Anjuna, Goa
+The Pirates Cove : 3.9 : Goan, Seafood, North Indian, Biryani, Chinese, Desserts : ₹1,200 for two :  Baga, Goa
+Olio's : 3.9 : North Indian, Chinese, Desserts, Beverages : ₹800 for two :  Benaulim, Goa
+Cardamom Kerala Restaurant & Bar : - : Kerala, North Indian : ₹1,300 for two :  Candolim, Goa
+Casa Lusitana : 3.9 : Continental : ₹1,000 for two :  Panaji, Goa
+Three Kisses : 4.5 : Finger Food, Seafood, Pancake, Steak, Pasta, North Indian, Shake, Beverages : ₹950 for two :  Benaulim, Goa
+Casanova : 3.8 : Seafood, North Indian, Fast Food : ₹800 for two :  Palolem, Goa
+Joet's Bar And Restaurant : 4.2 : North Indian, Chinese, Goan, Seafood : ₹950 for two :  Bogmalo, Goa
+Big Fish : 4.1 : Chinese, Seafood, North Indian, Goan : ₹700 for two :  Assagao, Goa
+Nireas - Healthy Haven : 3.9 : North Indian, Continental, Thai, Fast Food, Desserts, Beverages : ₹1,300 for two :  Palolem, Goa
+7 Short 1 Long Restaurant : 4.3 : Cafe, Goan, Fast Food : ₹850 for two :  Moira, Goa
+Trip Restobar : 3.2 : North Indian, Chinese, Pizza, Fast Food, Salad, Biryani : ₹950 for two :  Calangute, Goa
+Mademoiselle Boutique Hotel & Cafe : 4.0 : Cafe, Coffee, Sandwich, American, Tea, Desserts, Shake, Beverages : ₹800 for two :  Assagao, Goa
+Breakers : 4.3 : Healthy Food, South Indian, Chinese, Italian, Asian, North Indian, Desserts, Beverages : ₹1,800 for two :  Ashwem, Goa
+Aunty Maria - Fidalgo : 3.4 : Cafe, American, Salad, Desserts, Beverages : ₹950 for two :  Fidalgo, Panaji, Goa
+Planet Dailies - Planet Hollywood : 4.3 : Asian, Continental, North Indian, South Indian, Chinese, Desserts : ₹3,000 for two :  Majorda, Goa
+Marbela Bar & Restaurant : 3.8 : North Indian, Chinese, Goan, Italian, Fast Food : ₹1,400 for two :  Marbela Beach Resort, Arambol, Goa
+Himalaya Restaurant : 4.2 : Tibetan, Chinese, Continental, North Indian, Seafood, Desserts : ₹950 for two :  Candolim, Goa
+Cow Corner : 4.1 : North Indian, Burger, Fast Food, Beverages : ₹950 for two :  Palolem, Goa
+Siolim Deck Family Restaurant & Bar : 3.5 : Goan, North Indian, Chinese, Seafood, Continental, Desserts, Beverages : ₹1,200 for two :  Siolim, Goa
+Viva Goa : 4.2 : Goan, Chinese, Continental, North Indian, Seafood, Salad, Finger Food, Desserts : ₹950 for two :  Colva, Goa
+Mia Goa Kitchen & Bar : 3.8 : Goan, North Indian, Chinese, Biryani, Desserts, Beverages : ₹950 for two :  Anjuna, Goa
+Jamies : 4.3 : Asian, Chinese, Continental, Italian, Pizza : ₹1,100 for two :  Baga, Goa
+O Coqueiro : 4.3 : Goan, North Indian, Asian, Finger Food : ₹1,200 for two :  Porvorim, Goa
+Martins Place : 3.8 : Goan, Seafood, Chinese, North Indian, Biryani : ₹1,400 for two :  Navelim, Goa
+Peppers : 4.2 : Goan, Continental, North Indian, Mughlai, Chinese : ₹1,000 for two :  Margao, Goa
+Schandis : 4.3 : Biryani, Kebab, Lebanese, Desserts, Beverages : ₹1,800 for two :  Panaji, Goa
+Route 66 : 4.4 : Italian, Continental, American, Burger, Pasta, Salad, Desserts, Beverages : ₹1,600 for two :  Panaji, Goa
+Manveer's Kitchen : 4.3 : Continental, North Indian, Seafood, Finger Food, Bar Food, Beverages : ₹950 for two :  Palolem, Goa
+Papa Joe's : 4.3 : North Indian, Goan, Chinese, Seafood, Fast Food : ₹1,100 for two :  Cavelossim, Goa
+Moksha Restaurant : 4.0 : Tibetan, Nepalese, Chinese : ₹500 for two :  Porvorim, Goa
+Pinch Bistro & Bar : - : Continental : ₹1,200 for two :  Panaji, Goa
+Gharan : - : Goan : ₹1,000 for two :  Porvorim, Goa
+Seven Rivers Brewing Co. - Taj Holiday Village : 4.4 : European : ₹1,900 for two :  Taj Holiday Village Resort & Spa, Candolim, Goa
+Noronha's Corner : 4.4 : Goan, Kerala : ₹300 for two :  Anjuna, Goa
+A1 : 4.2 : North Indian, Chinese, Tibetan, Goan, Italian, Fast Food, Beverages : ₹850 for two :  Arambol, Goa
+Hotel Darbar : 3.0 : North Indian, Mughlai, Kebab, Goan, Chinese, Biryani : ₹500 for two :  Panaji, Goa
+The Singh Family Bar & Restaurant : 4.0 : North Indian, Italian, Continental, Mexican, Goan, Seafood, Beverages, Desserts : ₹1,200 for two :  Palolem, Goa
+K Bar : - : Chinese, Bar Food, North Indian, Beverages, Goan : ₹1,500 for two :  Panaji, Goa
+Praia Da Colva Kitchen & Bar : 3.9 : Goan, Seafood, Bar Food, Beverages : ₹1,000 for two :  Colva, Goa
+Cafe Lilliput : 3.8 : Continental, North Indian, Seafood, Steak, Italian, Chinese, Beverages, Desserts : ₹1,700 for two :  Anjuna Beach, Anjuna, Goa
+Banyan-Tree - Taj Holiday Village Resort & Spa : 4.9 : Asian, Seafood : ₹3,500 for two :  Taj Holiday Village Resort & Spa, Candolim, Goa
+Gharcha Darbaar : - : Biryani, North Indian, Mughlai : ₹300 for two :  Panaji, Goa
+Chef Peter's Kitchen : 4.0 : Goan, Seafood, Desserts : ₹1,200 for two :  Penha de Franca, Goa
+Affo Home Of Affogato : - : Cafe, South Indian, North Indian, Ice Cream, Beverages, Coffee : ₹600 for two :  Arambol, Goa
+O' Cuzinero : 4.2 : Goan, Seafood, North Indian, Mughlai, Chinese, Sichuan, Biryani, Beverages : ₹1,000 for two :  Quepem, Goa
+Avocado Garden Restaurant And Bar : 3.9 : Goan, Fast Food, Bar Food : ₹1,000 for two :  Palolem, Goa
+Abbie's Garden : - : Salad, Bar Food, Fast Food, Sandwich, North Indian, Goan, Seafood, Beverages : ₹1,000 for two :  Varca, Goa
+O'mio Gelateria : 4.3 : Fast Food, Desserts, Beverages, Mexican, Rolls : ₹500 for two :  Porvorim, Goa
+Sai Krupa Family Restaurant & Bar : 3.9 : Seafood, North Indian, Goan : ₹700 for two :  Porvorim, Goa
+Kalika Bar And Restaurant : 4.1 : North Indian, Chinese, Goan : ₹500 for two :  Margao, Goa
+Little Tibet Restrobar : - : Chinese, Momos, Tibetan : ₹400 for two :  Calangute, Goa
+Kandeel Bar & Restaurant : 3.9 : North Indian, Seafood, Kebab, Biryani, Chinese, Goan, Desserts : ₹1,400 for two :  Margao, Goa
+JW Kitchen : 3.9 : North Indian, Chinese, Continental, Desserts, Beverages : ₹5,000 for two :  JW Marriott Goa, Vagator, Goa
+Koleso 24/7 Bar & Restaurant : 4.1 : Continental, Russian, Chinese, North Indian, Salad, Italian, Desserts, Beverages : ₹1,050 for two :  Ashwem, Goa
+La Shack : 4.3 : North Indian, Chinese, Continental, Goan : ₹1,200 for two :  Baga Beach, Baga, Goa
+Nadora - Kitchen & Bar : 4.2 : North Indian, Chinese, South Indian, Mughlai, Biryani, Italian, Beverages, Bar Food : ₹2,000 for two :  Palolem, Goa
+Just Lobo's : 4.2 : Goan, North Indian, Chinese, Continental, Middle Eastern, Biryani, Desserts, Beverages : ₹1,800 for two :  Calangute, Goa
+Spice Mantraa : 4.4 : Goan, North Indian, Biryani, Desserts, Beverages : ₹1,400 for two :  Candolim, Goa
+Toast : 4.2 : Continental, Salad, Asian, Italian, North Indian, Desserts, Beverages : ₹2,000 for two :  Ashwem, Goa
+Silver Spoon Beach Shack : - : Goan, Seafood, North Indian : ₹900 for two :  Colva, Goa
+Sweet Nation : 3.5 : North Indian, Street Food, Desserts, Beverages : ₹400 for two :  Margao, Goa
+Shining Star Beach Shack : 3.9 : North Indian, Goan : ₹950 for two :  Baga, Goa

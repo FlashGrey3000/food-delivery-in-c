@@ -1,0 +1,360 @@
+AB's - Absolute Barbecues : 4.3 : Biryani, BBQ, Kebab, North Indian, Desserts : ₹1,700 for two :  Hindpiri, Ranchi
+Seasons Restaurant : 4.7 : North Indian, Chinese, Fast Food, Biryani, Rolls, Pizza, Mughlai, Shake : ₹800 for two :  Lalpur, Ranchi
+Soros : 4.6 : North Indian, BBQ, Chinese, Continental, Sushi, Desserts : ₹1,200 for two :  Kadru, Ranchi
+Jackson Diner By Moti Mahal Of India : 4.5 : North Indian, Mughlai, Biryani, Chinese, Italian, Seafood, Desserts, Beverages : ₹1,200 for two :  Ahirtoli, Ranchi
+The Ruin House : 4.9 : North Indian, Chinese, Mughlai, Desserts : ₹1,000 for two :  Morabadi, Ranchi
+Greeka : 3.8 : North Indian, Chinese, Mediterranean, Pasta, Italian, Desserts : ₹1,200 for two :  Gandhi Nagar, Ranchi
+Flaves : 4.3 : North Indian, South Indian, Chinese, Fast Food, Ice Cream, Desserts, Beverages, Shake : ₹500 for two :  Dhurwa, Ranchi
+Prana : 3.9 : European, North Indian, Continental, Italian, Beverages : ₹1,000 for two :  Harmu, Ranchi
+Dhunki : 4.6 : North Indian, Chinese, Italian, Continental : ₹1,000 for two :  Lalpur, Ranchi
+Outhouse Cafe : 4.5 : Fast Food, Chinese, Desserts, Beverages, Sichuan : ₹300 for two :  Ashok Nagar, Ranchi
+The Royal Wega Restaurant : 3.9 : North Indian, Rolls, Chinese, Pasta, Biryani, Mughlai : ₹500 for two :  Lalpur, Ranchi
+Acs -2 : 3.5 : Fast Food, Sandwich, Burger, Beverages : ₹200 for two :  Lalpur, Ranchi
+Madeera Family Restaurant : New : North Indian, Continental, Biryani, Chinese, Seafood, Fast Food, Desserts, Beverages : ₹2,200 for two :  Ashok Nagar, Ranchi
+Tickled Pink Ranchi : 3.4 : Seafood, Sushi, Asian, Continental : ₹1,000 for two :  Upper Bazar, Ranchi
+Waterfront - Radisson Blu : - : North Indian, Oriental, Chinese, Biryani, Kebab, Continental : ₹2,500 for two :  Radisson Blu, Hindpiri, Ranchi
+WOW! Momo : 4.2 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Desserts, Beverages : ₹300 for two :  Lalpur, Ranchi
+Pizza Hut : 4.4 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Nucleus Mall, Lalpur, Ranchi
+Karim's : 3.4 : Biryani, Mughlai, North Indian : ₹500 for two :  Kanka, Ranchi
+Zinnia Restaurant : 4.4 : North Indian, Biryani, Chinese : ₹200 for two :  Kantatoli, Ranchi
+Mirch Masala : 3.7 : Chinese, North Indian, Biryani, Sichuan, Beverages : ₹800 for two :  Kanka, Ranchi
+Five Zaika : 4.0 : North Indian, Chinese, Fast Food, Street Food, Beverages : ₹250 for two :  Harmu, Ranchi
+Moti Mahal Delux Tandoori Trail : 3.9 : North Indian, Chinese, Biryani, Desserts, Beverages, Sichuan : ₹1,000 for two :  Kanka, Ranchi
+Burger King : 2.9 : Burger, Fast Food, Street Food : ₹400 for two :  Upper Bazar, Ranchi
+Pies & Thighs : 4.2 : Bakery, Desserts, Cafe, Coffee : ₹500 for two :  Ahirtoli, Ranchi
+Venky's Chicken Xperience : 3.4 : Wraps, Burger, North Indian, Fast Food, Street Food : ₹300 for two :  Lalpur, Ranchi
+TCM - The Care Of Mom : 3.9 : Momos, Chinese, Rolls, Fast Food : ₹450 for two :  Kokar, Ranchi
+Samrat Restaurant - Chanakya BNR Hotel : 4.1 : North Indian, South Indian, Beverages, Mughlai, Seafood : ₹1,500 for two :  Chanakya BNR Hotel, Kanka, Ranchi
+Kaveri's Ashok Nagar : 4.5 : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages, Shake : ₹600 for two :  Ashok Nagar, Ranchi
+Kaveri - Lalpur : 4.9 : North Indian, Chinese, South Indian, Biryani, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Lalpur, Ranchi
+Shyama’s : New : South Indian, Chinese, Rolls, Street Food, Fast Food : ₹400 for two :  Samlong, Ranchi
+Kaveri's : 4.2 : North Indian, South Indian, Chinese, Fast Food, Street Food, Desserts : ₹1,000 for two :  Kanke, Ranchi
+Yellow Sapphire - Hotel Capitol Hill : 3.5 : North Eastern, Biryani, Chinese, Pizza, Pasta, South Indian, Street Food, Desserts : ₹1,000 for two :  Hotel Capitol Hill, Hindpiri, Ranchi
+Moti Mahal Delux : New : North Indian, Biryani, Rolls : ₹600 for two :  Nucleus Mall, Lalpur, Ranchi
+New Kathi Kabab : 3.2 : North Indian, Mughlai, Chinese, Rolls, Fast Food : ₹400 for two :  Hindpiri, Ranchi
+The Biryani Moments : 3.5 : Biryani, Kebab, Chinese : ₹300 for two :  Lalpur, Ranchi
+Punjabi Kitchen : 4.9 : North Indian, Biryani, Kebab, Beverages, Mughlai, Chinese, Desserts : ₹500 for two :  Lalpur, Ranchi
+Kuppuswami : 4.0 : South Indian, North Indian, Chinese : ₹500 for two :  Kanke, Ranchi
+Cafe Bae : 4.0 : Pizza, Fast Food : ₹400 for two :  Lalpur, Ranchi
+The Reef : 4.1 : North Indian, Fast Food, Chinese, Bakery, Desserts, Beverages : ₹600 for two :  Kantatoli, Ranchi
+Hyderabadi Zaika : 3.2 : Biryani, North Indian : ₹350 for two :  Kanka, Ranchi
+Caramel The Bistro - Radisson Blu : 4.5 : Bakery, Desserts, Sandwich, Pizza, Fast Food, Beverages : ₹600 for two :  Radisson Blu, Hindpiri, Ranchi
+KFC : 3.1 : Burger, Fast Food, Rolls : ₹400 for two :  Nucleus Mall, Lalpur, Ranchi
+I2I Biryani : 3.8 : Biryani, Chinese : ₹200 for two :  Kanka, Ranchi
+Subway : 3.5 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹600 for two :  Bariatu, Ranchi
+Flavours By Le Lac Sarovar Portico : 4.3 : Continental, North Indian, Biryani, Chinese, Fast Food, Desserts : ₹1,500 for two :  Ahirtoli, Ranchi
+Biryani By Kilo : 4.0 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  Ahirtoli, Ranchi
+The Lemon : 4.1 : Chinese, North Indian, Biryani, Mughlai, Street Food, Beverages : ₹1,000 for two :  Morabadi, Ranchi
+Jalajoga Restaurant : 3.0 : North Indian, South Indian, Ice Cream, Beverages : ₹400 for two :  Lalpur, Ranchi
+Domino's Pizza : 3.2 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  Ashok Nagar, Ranchi
+Skyscape Club And Lounge : 3.9 : North Indian, Chinese, Fast Food, Salad, Rolls, Mughlai, Desserts, Beverages : ₹800 for two :  Ahirtoli, Ranchi
+Snax & Juice : 3.9 : North Indian, Chinese, Rolls : ₹250 for two :  Doranda, Ranchi
+O'Dam : New : Continental, Italian, Chinese, Mexican, European, Asian, Desserts, Beverages : ₹1,000 for two :  Lalpur, Ranchi
+Carnival Lounge Bar & Restaurant : 3.6 : Chinese, North Indian : ₹1,500 for two :  Khelgaon, Ranchi
+Zoca Dine & Bar : 4.4 : Italian, Continental, North Indian, Chinese, Oriental, Cafe, Beverages, Coffee : ₹1,000 for two :  Ahirtoli, Ranchi
+The Best Bakery : 4.3 : Bakery : ₹300 for two :  Lalpur, Ranchi
+Nanak Dhaba : 3.8 : Chinese, Pizza, North Indian, Fast Food : ₹700 for two :  Lalpur, Ranchi
+Nectar Cafe : 3.8 : Juices, Shake, Beverages, Pizza, Fast Food : ₹400 for two :  Harmu, Ranchi
+The Gully Kitchen : 3.1 : North Indian, Chinese, Rolls, Momos, Fast Food : ₹400 for two :  Pandra, Ranchi
+Tao Bao : 3.0 : Korean, Chinese, Rolls, Fast Food, Bubble Tea, Coffee, Shake, Beverages : ₹1,000 for two :  Hatia, Ranchi
+Wine N Dine : 3.9 : North Indian, Chinese, Seafood, Kebab, Mughlai, Biryani, Beverages, Bar Food : ₹1,000 for two :  Lalpur, Ranchi
+Cocktail Khichdee : 4.2 : North Indian, Chinese, Mughlai, Fast Food, Beverages : ₹450 for two :  Doranda, Ranchi
+The Urbanbrava : 3.9 : North Indian, Chinese, Italian, Fast Food : ₹1,000 for two :  Hindpiri, Ranchi
+Hot Lips : - : North Indian, Chinese, Mughlai, Fast Food, Street Food, Seafood, Sichuan : ₹500 for two :  Doranda, Ranchi
+Banjara Fast Food : 4.4 : Chinese, Fast Food : ₹250 for two :  Hindpiri, Ranchi
+The Heroes - Radisson Blu : 4.3 : North Indian, Continental, Chinese : ₹1,500 for two :  Radisson Blu, Hindpiri, Ranchi
+Wat-a-Burger! - India ka Burger : - : Burger, Fast Food : ₹550 for two :  Harmu, Ranchi
+The Hideout Cafe : - : Chinese, Sandwich, Street Food, North Indian, Beverages, Sichuan : ₹400 for two :  Lalpur, Ranchi
+Hitchki Thela : - : Chinese, Rolls, North Indian, Sichuan : ₹300 for two :  Eastern Mall, Lalpur, Ranchi
+Navratna - Hotel Green Acres : 4.6 : North Indian, Chinese : ₹600 for two :  Hotel Green Acres, Doranda, Ranchi
+Aounkar Hotel - Since 1982 : 4.1 : North Indian, Chinese, Desserts : ₹400 for two :  Ratu, Ranchi
+Pind Balluchi : 4.5 : North Indian, Kebab, Biryani, Desserts : ₹1,000 for two :  Hindpiri, Ranchi
+Italian Pizza Hub : 4.1 : Pizza, Fast Food, Beverages, Sandwich : ₹550 for two :  Eastern Mall, Lalpur, Ranchi
+Ni Hao : 3.1 : Thai, Chinese, Seafood : ₹600 for two :  Nucleus Mall, Lalpur, Ranchi
+The Food Court : 4.2 : North Indian, Chinese, South Indian, Biryani : ₹400 for two :  Hatia, Ranchi
+Jail In Highway Kitchen : 4.3 : North Indian, Chinese, Seafood, Mughlai, Biryani, Kebab, Desserts, Beverages : ₹1,100 for two :  Gandhi Nagar, Ranchi
+Tirupati South Indian Coffee House : 4.4 : South Indian, Chinese : ₹500 for two :  Ahirtoli, Ranchi
+The Barbeque Company : 3.9 : BBQ, North Indian, Chinese, Desserts, Bakery : ₹1,800 for two :  Ashok Nagar, Ranchi
+Chill- Le Lac Sarovar Portico : 3.9 : Bar Food, Salad, North Indian, Mughlai, Fast Food, Beverages : ₹1,000 for two :  Lalpur, Ranchi
+Grill Inn : 4.3 : Fast Food, Burger, Pizza, Sandwich, Wraps, Shake, Desserts, Beverages : ₹400 for two :  Ashok Nagar, Ranchi
+Dosa Plaza : - : South Indian, Street Food, Beverages, Sichuan : ₹400 for two :  Nucleus Mall, Lalpur, Ranchi
+Chowringhee Square : 4.5 : Rolls, Lebanese, Biryani, North Indian, Kebab : ₹450 for two :  Nucleus Mall, Lalpur, Ranchi
+The Local Eatery Restro & Cafe : 3.3 : Chinese, North Indian, Biryani, Italian, Desserts, South Indian : ₹600 for two :  Ashok Nagar, Ranchi
+Titli By Jashn : 3.8 : Chinese, Sandwich, Street Food, Pasta, Pizza, North Indian, Shake, Desserts : ₹900 for two :  Pandra, Ranchi
+Punjabi Bar And Restaurant : - : North Indian : ₹500 for two :  Anandpur, Ranchi
+Capitol Residency- Melange : 3.1 : Sushi, Lebanese, South Indian, North Indian, Chinese, Mexican, Desserts, Kebab : ₹1,400 for two :  Capitol Residency, Kanka, Ranchi
+Food Villa Restaurant : 3.5 : Chinese, Street Food, North Indian, Mughlai : ₹300 for two :  Ashok Nagar, Ranchi
+Liquor Bar And Restaurant : 4.9 : North Indian, Chinese, Roast Chicken, Biryani, Grilled Chicken, Mughlai : ₹1,000 for two :  Ashok Nagar, Ranchi
+Nirvana : 4.0 : Salad, Chinese, North Indian, Fast Food, Desserts, Beverages, Pizza, Mediterranean : ₹1,000 for two :  Upper Bazar, Ranchi
+Umang : 3.7 : Chinese, Rolls, Fast Food, North Indian, Momos : ₹350 for two :  Ashok Nagar, Ranchi
+Krsna The Veg Restaurant : 3.4 : North Indian, Chinese, South Indian, Fast Food, Desserts, Street Food : ₹500 for two :  GEL Church Complex, Hindpiri, Ranchi
+Hunger Treat : 3.8 : Chinese, Momos : ₹200 for two :  Lalpur, Ranchi
+Buddy Bites : 4.2 : Bakery, Desserts : ₹300 for two :  Samlong, Ranchi
+The Reef Rooftop Restaurant : New : North Indian, Bengali : ₹700 for two :  Kantatoli, Ranchi
+Second Wife Restaurant : 4.3 : North Indian, Fast Food, Chinese, Rolls, Kebab, Mughlai : ₹450 for two :  Lalpur, Ranchi
+Shree Krishna : 3.8 : North Indian, Chinese, Fast Food, South Indian, Desserts, Beverages, Pizza, Rajasthani : ₹1,000 for two :  Khelgaon, Ranchi
+Food Bazaar Rajdhani : 4.5 : Biryani, North Indian, Chinese, South Indian, Fast Food, Beverages : ₹400 for two :  Ratu, Ranchi
+Smell Feast : 4.5 : Chinese, Sandwich, Pizza : ₹150 for two :  Ratu, Ranchi
+The Burger Company : 3.3 : Burger, Pizza, Fast Food : ₹400 for two :  Lalpur, Ranchi
+Susi Pizza : 4.0 : Pizza : ₹200 for two :  Harmu, Ranchi
+Biryani 360 : - : Biryani, North Indian, Chinese : ₹400 for two :  Khelgaon, Ranchi
+Arpan Smart Dining : 3.5 : North Indian, Mughlai, Fast Food, Chinese, South Indian, Shake, Sichuan : ₹700 for two :  Ratu, Ranchi
+Snacks Street : 3.4 : North Indian, Fast Food, Pizza, Chinese, Kebab, Beverages : ₹450 for two :  Hindpiri, Ranchi
+The Crepe Cafe : 4.1 : Cafe, Coffee, Waffle, Healthy Food, Pancake, Ice Cream, Tea, Beverages : ₹650 for two :  Ahirtoli, Ranchi
+Moti Mahal Foodtruck Trail : 3.4 : North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages : ₹800 for two :  Lalpur, Ranchi
+Atari Kitchen & Lounge : 4.0 : Cantonese, Chinese, Continental, Pizza, North Indian : ₹350 for two :  Namkum, Ranchi
+Bhukkadd : 3.0 : Chinese, Fast Food : ₹250 for two :  Lalpur, Ranchi
+Aami Bangali Restaurant : 3.9 : Bengali : ₹350 for two :  Lalpur, Ranchi
+Level 7 Rooftop Multicuisine  Restaurant : 4.1 : North Indian, Chinese, Mughlai, Biryani, Sichuan : ₹1,000 for two :  Doranda, Ranchi
+Mechanix Restaurant And Lounge : 3.3 : Finger Food : ₹700 for two :  Anandpur, Ranchi
+Ansh : 4.0 : South Indian, Rolls, Fast Food : ₹1,000 for two :  Upper Bazar, Ranchi
+Ten 11 Restaurant & Bar : 3.9 : North Indian, Chinese, Biryani : ₹800 for two :  Hatia, Ranchi
+The Hungers Point : 4.4 : Chinese, Rolls : ₹200 for two :  Lalpur, Ranchi
+Biryani Mahal : 4.0 : North Indian, Chinese, Biryani, Rolls, Ice Cream, Shake, Beverages, Sichuan : ₹500 for two :  Kadru, Ranchi
+Jon Jos : - : Burger, Pizza, Sandwich, American, Italian, Wraps, Rolls, Beverages : ₹400 for two :  Upper Bazar, Ranchi
+The Breaking Bread : 4.8 : Bakery, Fast Food, Beverages, Shake, Wraps : ₹400 for two :  Kanka, Ranchi
+Vyanjan Restaurant : 3.0 : North Indian, Biryani, South Indian, Fast Food, Rolls, Momos, Desserts, Ice Cream : ₹600 for two :  Dhurwa, Ranchi
+The Mud Island Cafe & Restro : 3.9 : Italian, Chinese, Pizza, Burger, Sandwich, Fast Food, Street Food, Shake : ₹300 for two :  Lalpur, Ranchi
+Food Vatika The Family Restaurant : 3.7 : Chinese, Burger, Fast Food, Rolls : ₹100 for two :  Samlong, Ranchi
+0 Mile Restaurant : - : Chinese, Rolls : ₹200 for two :  Kokar, Ranchi
+Snacks Villa : 4.0 : Chinese, Pizza, Momos, Rolls, Fast Food : ₹200 for two :  Hindpiri, Ranchi
+Viren Bhojanalya : - : North Indian : ₹300 for two :  Namkum, Ranchi
+Dosa Plaza : 3.2 : South Indian, North Indian, Chinese, Fast Food, Pizza, Biryani, Desserts, Beverages : ₹400 for two :  Kanka, Ranchi
+Crown 7 - A Family Restaurant : - : North Indian, Chinese : ₹1,000 for two :  Doranda, Ranchi
+Brijwasi Pure Veg : 4.2 : North Indian, South Indian, Chinese, Fast Food : ₹200 for two :  Kokar, Ranchi
+Bharat Bakery : 4.0 : Bakery, Desserts : ₹300 for two :  Hindpiri, Ranchi
+Lazeez Banarsi Hotel : - : North Indian : ₹300 for two :  Namkum, Ranchi
+Good Spoon Lounge & Restaurant : - : North Indian, Chinese, Mughlai, Fast Food, Pizza, Beverages, Desserts, Sichuan : ₹600 for two :  Lalpur, Ranchi
+Veeraswamy Cafe : - : South Indian, Chinese : ₹200 for two :  Ahirtoli, Ranchi
+Seven Heaven : New : North Indian, Bakery, Fast Food, Desserts, Beverages, Sandwich, Street Food, Pizza : ₹500 for two :  Lalpur, Ranchi
+Xtreme Sports Bar & Grill : - : North Indian, Italian, Chinese : ₹800 for two :  Anandpur, Ranchi
+Kairo Bar And Lounge : 3.7 : Bar Food, North Indian, Chinese : ₹1,500 for two :  Ahirtoli, Ranchi
+Dilkush Punjabi Food Express : New : Chinese, Rolls : ₹250 for two :  Hindpiri, Ranchi
+Hunger Garden : 3.3 : North Indian, Chinese, Continental, Mughlai, Fast Food, Desserts, Beverages, Sichuan : ₹600 for two :  Harmu, Ranchi
+Chicken 99/- : 4.1 : Bihari, North Indian, Burger : ₹200 for two :  Samlong, Ranchi
+Sky Fall - Hotel The Raso : - : North Indian, Chinese, South Indian, Continental : ₹700 for two :  Hotel The Raso, Ranchi
+Never The Less : 4.3 : North Indian, Asian, Pizza, Fast Food, Continental, Biryani, Desserts, Beverages : ₹1,200 for two :  Ashok Nagar, Ranchi
+Moti Mahal Delux : 4.1 : North Indian, Mughlai, Biryani : ₹400 for two :  Nucleus Mall, Lalpur, Ranchi
+The Kav's : 3.7 : North Indian, Fast Food, Chinese, Street Food, Mughlai, Biryani, Beverages, Sichuan : ₹500 for two :  Harmu, Ranchi
+Mehfil - Chanakya BNR Hotel : 4.0 : North Indian, Finger Food, Mughlai, Seafood, Biryani : ₹1,500 for two :  Chanakya BNR Hotel, Kanka, Ranchi
+WOW! China : - : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹300 for two :  Upper Bazar, Ranchi
+Aditi Kitchen : 3.5 : North Indian, South Indian, Chinese : ₹350 for two :  Hatia, Ranchi
+Baskin Robbins - Ice Cream Desserts : 3.6 : Ice Cream, Desserts, Beverages : ₹500 for two :  GEL Church Complex, Hindpiri, Ranchi
+Tribong : - : North Indian, Chinese : ₹500 for two :  Lalpur, Ranchi
+Simla Chat : 3.6 : North Indian, Chinese, Street Food, Fast Food, Rolls, Mithai, South Indian, Biryani : ₹300 for two :  Hindpiri, Ranchi
+Pooja Restaurant - Hotel The Park Retreat : - : North Indian, Biryani, Kebab, Chinese, Mughlai, Sichuan : ₹1,100 for two :  Hatia, Ranchi
+Mamta's Oak Grove : 3.7 : North Indian, Chinese, Mughlai, Continental, Desserts, Beverages : ₹800 for two :  Ashok Nagar, Ranchi
+New Raj Sweets : 3.6 : Mithai, Fast Food, South Indian, Chinese, Biryani, Shake, North Indian : ₹250 for two :  Hindpiri, Ranchi
+Go69 Pizza : 4.2 : Pizza, Fast Food : ₹300 for two :  Hatia, Ranchi
+New India Hotel : 3.7 : North Indian, Bengali : ₹250 for two :  Anandpur, Ranchi
+Palash Restaurants & Bars : - : North Indian, Chinese, Street Food, Beverages : ₹600 for two :  Kanka, Ranchi
+24 Carrot's - Hotel AVN Grand : 3.4 : North Indian, Chinese, South Indian, Continental, Mughlai, Desserts, Beverages : ₹1,000 for two :  Hindpiri, Ranchi
+The Mirage : 3.7 : Sandwich, Fast Food, Chinese, North Indian, Mughlai : ₹700 for two :  Bariatu, Ranchi
+Biggies Burger : 3.2 : Burger, Wraps, Fast Food, Shake, Beverages, Desserts : ₹450 for two :  Ashok Nagar, Ranchi
+Chaibubble : 4.1 : North Indian, Chinese, Continental, Wraps, Bubble Tea, Tea, Italian, Mexican : ₹1,000 for two :  Hindpiri, Ranchi
+Seventh Heaven : 4.3 : North Indian, South Indian, Chinese, Pizza, Beverages, Desserts : ₹400 for two :  Hindpiri, Ranchi
+Moksha Bar And Restaurant : 3.6 : North Indian, Chinese, Mughlai, Desserts : ₹800 for two :  Doranda, Ranchi
+ACS : 3.9 : Burger, Sandwich, Fast Food, Shake, Beverages : ₹400 for two :  Lalpur, Ranchi
+The Biryani Paradise : 4.1 : Biryani, Mughlai : ₹500 for two :  Nucleus Mall, Lalpur, Ranchi
+Gokul Kitchen : 4.2 : North Indian, Chinese, South Indian : ₹150 for two :  Kanke, Ranchi
+Little Italiano : 4.4 : Italian, Mexican, Pizza, Fast Food, Desserts, Beverages : ₹900 for two :  Doranda, Ranchi
+Asian Tree : 3.3 : Oriental, Chinese, Seafood, Momos, Asian : ₹800 for two :  Spring City Mall, Doranda, Ranchi
+Vreehi : 4.3 : North Indian, Chinese, Biryani, Fast Food, Coffee, Beverages, Odia, Seafood : ₹500 for two :  Lalpur, Ranchi
+Chillout Cafe : 3.8 : North Indian, Chinese, Fast Food, Biryani, Momos : ₹300 for two :  Lalpur, Ranchi
+Lassi Ghar : 4.2 : Fast Food, Chinese, Beverages, Ice Cream, Juices, South Indian, Shake, Desserts : ₹400 for two :  Lalpur, Ranchi
+Biryani House - Khorha Toli : 3.9 : Biryani, North Indian, Rolls, Chinese : ₹300 for two :  Kokar, Ranchi
+The Chocolate Room : - : Coffee, Desserts, Beverages, Sandwich, Burger, Rolls, Fast Food : ₹500 for two :  Kanka, Ranchi
+The Chocolate Room : 3.8 : Beverages, Italian, Sandwich, Desserts, Coffee : ₹500 for two :  Nucleus Mall, Lalpur, Ranchi
+Alpine : 2.8 : North Indian, South Indian, Desserts, Chinese : ₹400 for two :  Gandhi Nagar, Ranchi
+Roll Point : 3.8 : Fast Food, Rolls, Chinese : ₹250 for two :  Kanka, Ranchi
+Lazeez : 3.4 : Fast Food, North Indian, Biryani : ₹300 for two :  Hatia, Ranchi
+Chopsticks : 3.6 : Chinese, North Indian, Seafood, Ice Cream, Beverages : ₹800 for two :  Lalpur, Ranchi
+The Belgian Waffle Co. : 3.9 : Waffle, Pancake, Ice Cream, Desserts, Beverages : ₹200 for two :  Lalpur, Ranchi
+The Chicken Table : 3.9 : North Indian, Fast Food, Chinese, Mughlai, Biryani, Street Food, Shake, Beverages : ₹500 for two :  Lalpur, Ranchi
+OMG Cafe : 3.0 : North Indian, Italian, Desserts : ₹800 for two :  Kantatoli, Ranchi
+Chatori Gali : 3.8 : Chinese, Biryani, Rolls : ₹250 for two :  Ahirtoli, Ranchi
+Amigos The Lounge : - : North Indian, Continental, Chinese, Fast Food, Beverages : ₹600 for two :  Ahirtoli, Ranchi
+Hooch : 3.4 : Finger Food, Chinese, North Indian, Beverages, Shake : ₹1,000 for two :  Kanka, Ranchi
+The Pizza Point : 4.0 : Chinese, Pizza, Pasta, Rolls, Fast Food : ₹350 for two :  Ratu, Ranchi
+Madras Cafe : 3.5 : South Indian, Chinese : ₹300 for two :  Lalpur, Ranchi
+Sensex The Tea Point : 3.6 : North Indian, Biryani, Chinese, Sandwich, Burger, Street Food, Sichuan, Beverages : ₹400 for two :  Doranda, Ranchi
+Smoked : - : North Indian, Chinese, Mughlai, Beverages, Bakery, Desserts, South Indian, Shake : ₹400 for two :  Hindpiri, Ranchi
+Al-Diwan : 3.7 : Fast Food, Mughlai : ₹300 for two :  Hindpiri, Ranchi
+ACS : 4.0 : Burger, Sandwich, Fast Food, Shake, Beverages : ₹400 for two :  Doranda, Ranchi
+Arsalan Biryani : 4.0 : Biryani, Mughlai, Rolls, Fast Food : ₹400 for two :  Ahirtoli, Ranchi
+7th Heaven : 4.9 : Bakery, Desserts, Waffle, Coffee, Shake, Ice Cream, Fast Food, Beverages : ₹500 for two :  Ratu, Ranchi
+La Pino'z Pizza : 4.0 : Pizza, Pasta, Italian, Fast Food : ₹600 for two :  Lalpur, Ranchi
+Cilantro Restaurant : 3.8 : North Indian, Mughlai, Chinese, Seafood, Oriental, Biryani, Shake, Beverages : ₹1,200 for two :  Doranda, Ranchi
+Palki Restaurant : 4.0 : North Indian, Chinese, South Indian, Fast Food, Beverages : ₹700 for two :  Lalpur, Ranchi
+Orchid - Maplewood : 3.9 : North Indian, Chinese, Continental, Mughlai, Sichuan : ₹1,500 for two :  Maplewood, Kanka, Ranchi
+Tao Bao Korean Cafe : 3.6 : Korean, Beverages : ₹500 for two :  Hatia, Ranchi
+Hyderabad Biryani House : 3.9 : Biryani, Hyderabadi, Chinese : ₹450 for two :  Kadru, Ranchi
+Fork N Cork : 3.8 : Chinese, North Indian, Biryani, Beverages, Desserts : ₹900 for two :  Kanka, Ranchi
+Daawat : 2.6 : North Indian, Chinese, Biryani, Rolls, Kebab, Pizza, Desserts, Beverages : ₹800 for two :  Bariatu, Ranchi
+Delico Cakes & Cafe : 3.0 : North Indian, Chinese, Kebab, Pizza, Wraps, Sandwich, Fast Food, Bakery : ₹1,000 for two :  Anandpur, Ranchi
+Food Center : 2.7 : North Indian, Chinese, Mughlai, Biryani, Fast Food : ₹200 for two :  Kokar, Ranchi
+JH-01 Cafe & Restro : - : Fast Food, Chinese, North Indian, Mughlai, Pizza, Sandwich, Kebab, Biryani : ₹800 for two :  Lalpur, Ranchi
+Green Park Sapan : 4.3 : North Indian, Chinese, Mughlai, Kebab : ₹500 for two :  Lalpur, Ranchi
+Pizza Da Dhaba Cafe : 4.0 : Cafe, Pizza : ₹400 for two :  Kadru, Ranchi
+Momo Nation Cafe : - : Momos, Chinese, Fast Food, Beverages : ₹500 for two :  Kadru, Ranchi
+Olive Garden : 2.9 : North Indian, Mughlai, Fast Food, Chinese, Pasta, Sandwich, Desserts, Beverages : ₹1,000 for two :  Doranda, Ranchi
+Bhola Litti : 4.3 : Bihari, Fast Food, Chinese, Street Food : ₹250 for two :  Gandhi Nagar, Ranchi
+Golki Cafe & Dinner : 3.4 : Chinese, Street Food, North Indian, Mughlai, South Indian, Fast Food, Desserts, Beverages : ₹450 for two :  Hatia, Ranchi
+Hungrella Biryani : - : Chinese, North Indian, Mughlai, Kebab, Rolls : ₹500 for two :  Lalpur, Ranchi
+Little's Bakes Bistro : 3.9 : North Indian, Fast Food : ₹1,000 for two :  Kadru, Ranchi
+Igloo Wood Fired Pizza : 4.4 : Pizza : ₹550 for two :  Lalpur, Ranchi
+Chef's Chowpati : 3.9 : Chinese, Rolls, North Indian, Biryani, Mughlai, Street Food : ₹600 for two :  Ashok Nagar, Ranchi
+Army Restaurant : 3.3 : Rolls, Chinese, North Indian, Biryani : ₹350 for two :  Ratu, Ranchi
+Maheswari Sweets & Restaurant : 3.8 : Mithai, North Indian, Chinese, South Indian, Beverages, Street Food : ₹350 for two :  Lalpur, Ranchi
+Mechanics Cafe & Restaurant : - : Chinese, Fast Food : ₹400 for two :  Upper Bazar, Ranchi
+Biryani Ghar : 2.7 : Biryani, North Indian, Chinese, Beverages : ₹350 for two :  Ratu, Ranchi
+Tao Bao Korean : 3.4 : Korean, Healthy Food : ₹300 for two :  Hatia, Ranchi
+Kasha Multi Cuisine Restaurant : 3.8 : Fast Food, North Indian, Chinese, Biryani, Beverages, Sichuan : ₹400 for two :  Kadru, Ranchi
+Tbet Trail : - : Momos, Chinese : ₹250 for two :  Lalpur, Ranchi
+Swarnrekha Restaurant - Hotel Ganga Residency : 3.6 : Fast Food, North Indian, Chinese : ₹500 for two :  Ahirtoli, Ranchi
+Coffee Lounge - Maplewood : 4.1 : Italian, Fast Food, Sandwich, Chinese : ₹600 for two :  Maplewood, Kanka, Ranchi
+Sky Walk - The Sports Lounge : 4.0 : Chinese, Continental, North Indian, Thai, Sichuan, South Indian : ₹600 for two :  Harmu, Ranchi
+Madan Dhaba : 3.5 : North Indian : ₹400 for two :  Kokar, Ranchi
+The Great Indian Cafe : 3.4 : Chinese, Continental, North Indian, Italian, Fast Food, Desserts, Street Food, Beverages : ₹600 for two :  Ahirtoli, Ranchi
+Brooklyn Burgers & Shakes : 3.6 : Burger, Fast Food, Shake, Beverages : ₹400 for two :  Lalpur, Ranchi
+Hotel Bliss : - : North Indian, Chinese : ₹300 for two :  Ashok Nagar, Ranchi
+The London Shakes 1950 : 4.0 : Shake, Beverages, Burger, Pizza, Fast Food : ₹300 for two :  Lalpur, Ranchi
+Gucchi - Hotel Holiday Home : 3.6 : North Indian, Italian, Continental, Chinese, Mughlai, Beverages, Shake : ₹1,800 for two :  Hotel Holiday Home, Kanke, Ranchi
+Lazzat Restaurant : 3.8 : Chinese, North Indian, Biryani, BBQ, Beverages : ₹400 for two :  Anandpur, Ranchi
+Baba Ka Rasoi : 4.1 : North Indian, Biryani, Chinese : ₹300 for two :  Kokar, Ranchi
+New Delhi Biryani Hut : 4.2 : Biryani, North Indian : ₹350 for two :  Hindpiri, Ranchi
+Suvai : 3.4 : South Indian : ₹300 for two :  Kanke, Ranchi
+Zaika : - : North Indian, Chinese, Mughlai : ₹400 for two :  Doranda, Ranchi
+The Shack Kitchen : 4.1 : North Indian, Mughlai, Biryani, Kebab, Chinese, Fast Food, Momos, Rolls : ₹1,100 for two :  Hatia, Ranchi
+Creambell Icecreams : 3.4 : Desserts, Ice Cream : ₹200 for two :  Lalpur, Ranchi
+The Chicken Company 1975 : 4.6 : Burger, Biryani, Pizza, Fast Food, Momos, North Indian, Chinese : ₹400 for two :  Lalpur, Ranchi
+Delhi 6 Good Food Good Mood : 3.9 : North Indian, Biryani, Burger, Fast Food, Pizza : ₹600 for two :  Ahirtoli, Ranchi
+Rollacosta : 4.1 : Chinese, North Indian, Continental, Biryani : ₹500 for two :  Kadru, Ranchi
+Spice Villa : 3.8 : Biryani, North Indian, Rolls, Chinese, Shawarma, Mughlai : ₹350 for two :  Hindpiri, Ranchi
+Mahi Restaurant : 3.5 : North Indian, Chinese, Mughlai, Seafood, Fast Food, Rolls, Momos : ₹700 for two :  Ashok Nagar, Ranchi
+Big Kathi Nation : 2.6 : North Indian, Mughlai, Chinese, Rolls, Biryani, South Indian : ₹350 for two :  Morabadi, Ranchi
+-301°F! & Urban Waffle : 3.6 : Ice Cream, Waffle, Desserts, Shake : ₹300 for two :  Harmu, Ranchi
+The Grove : - : North Indian, Mughlai, Chinese, Rolls, Fast Food, Momos, Desserts, Beverages : ₹1,000 for two :  Kanka, Ranchi
+Kwality Wall’s Frozen Dessert and Ice Cream Shop : 3.7 : Ice Cream, Desserts : ₹200 for two :  Kanka, Ranchi
+Chimni Restaurant - Pearl Regency : 4.0 : North Indian, Chinese, Mughlai, Kebab, Biryani : ₹800 for two :  Kadru, Ranchi
+Ching Ming : 3.4 : North Indian, Chinese, Rolls, Mughlai : ₹300 for two :  Doranda, Ranchi
+Burger Point : 4.0 : Burger, Fast Food : ₹400 for two :  Ahirtoli, Ranchi
+Biryani Darbar : 3.4 : Biryani, North Indian, Chinese : ₹300 for two :  Ahirtoli, Ranchi
+Velvet Patisserie : 3.2 : Bakery, Desserts, Fast Food : ₹250 for two :  Lalpur, Ranchi
+Aranya - Hotel Green Acres : 3.9 : Chinese, North Indian, Continental : ₹700 for two :  Hotel Green Acres, Doranda, Ranchi
+Kingdom Of Momos : 3.9 : Momos, Chinese, Sichuan : ₹450 for two :  Lalpur, Ranchi
+Hum Tum Aur Momos : 3.2 : Chinese, Momos, Fast Food, Rolls, North Indian : ₹300 for two :  Doranda, Ranchi
+Maa Annapurna Bhojnalay : 3.6 : North Indian : ₹300 for two :  Harmu, Ranchi
+Choukni Restaurant : 3.9 : North Indian, Fast Food : ₹300 for two :  Doranda, Ranchi
+Elora Restaurant - Hotel Yuvraj : 3.8 : North Indian, Continental, Chinese, Biryani, Desserts, Beverages : ₹1,600 for two :  Hotel Yuvraj Palace, Doranda, Ranchi
+Kapoor’s Punjabi Restaurant : 3.6 : North Indian, Chinese, Burger, Pizza, Pasta, Rolls, Fast Food, Street Food : ₹500 for two :  Doranda, Ranchi
+Hotspot : 4.1 : Chinese, North Indian, Fast Food, Rolls, Momos : ₹250 for two :  Upper Bazar, Ranchi
+Swirl N Yum : 4.8 : Bakery, Waffle, Desserts, Fast Food, Shake : ₹350 for two :  Lalpur, Ranchi
+The Cake Gallery : 3.0 : Bakery, Desserts, Fast Food, Shake : ₹300 for two :  Kadru, Ranchi
+The Biryani Man : 3.2 : Biryani, Chinese : ₹300 for two :  Lalpur, Ranchi
+Batido The Shake Paradise : 3.8 : Shake, Beverages : ₹250 for two :  Lalpur, Ranchi
+Thapa's Hunger Point : 3.8 : Chinese : ₹250 for two :  Ashok Nagar, Ranchi
+Snacks Valley : 3.7 : Rolls, Chinese, Biryani, North Indian : ₹450 for two :  Hindpiri, Ranchi
+Kundan's Kitchen : 3.5 : Fast Food, Sandwich, Sichuan : ₹350 for two :  Lalpur, Ranchi
+BNB : 3.6 : Burger, Wraps, Fast Food : ₹350 for two :  Lalpur, Ranchi
+J-FCR : 3.9 : Chinese : ₹200 for two :  Harmu, Ranchi
+Mr. Showarma : 3.5 : Shawarma, Fast Food, Rolls, Chinese, North Indian, Beverages : ₹400 for two :  Bariatu, Ranchi
+Pahalwan Hotel : 3.7 : North Indian, Biryani, Beverages : ₹350 for two :  Ashok Nagar, Ranchi
+Sheila Restaurant - Hotel Arya : 4.5 : North Indian, Chinese, Continental, South Indian, Fast Food, Kebab, Desserts, Sichuan : ₹1,200 for two :  Lalpur, Ranchi
+Pizza Rilla : - : Fast Food, Pizza, Street Food, Beverages : ₹400 for two :  Harmu, Ranchi
+Maa Annapurna Bhojnalaya : 3.1 : North Indian, Chinese : ₹300 for two :  Hindpiri, Ranchi
+Daju's Kitchen : 3.8 : Chinese, North Indian, Mughlai, Fast Food : ₹450 for two :  Anandpur, Ranchi
+Dream Cream : 3.9 : Fast Food, Pizza, Wraps, Waffle, Shake, Beverages, Desserts : ₹350 for two :  Gandhi Nagar, Ranchi
+Woody Grill : 3.4 : North Indian : ₹500 for two :  Hindpiri, Ranchi
+Al Baik : 3.9 : Fast Food, Burger, Biryani, Pizza, Rolls : ₹250 for two :  Kanka, Ranchi
+Giani : 3.4 : Ice Cream, Beverages, Desserts : ₹200 for two :  Harmu, Ranchi
+100 Bytes : 3.4 : Chinese, Rolls, Fast Food, Sichuan : ₹400 for two :  Doranda, Ranchi
+Code And Cook : 4.0 : Biryani, Chinese, Street Food : ₹250 for two :  Lalpur, Ranchi
+Madan Dhaba : 3.7 : North Indian, Chinese, Mughlai, Rolls : ₹300 for two :  Lalpur, Ranchi
+Sardar Fast Food Plaza : 4.1 : Chinese, Mughlai, Biryani, North Indian : ₹450 for two :  Lalpur, Ranchi
+Maa Pitambara Restaurant : 3.7 : North Indian, Chinese, Street Food, Rolls, Beverages : ₹300 for two :  Upper Bazar, Ranchi
+Sautan Bar & Restaurant : 3.9 : Bar Food, North Indian, Mughlai, Biryani, Chinese : ₹1,000 for two :  Hatia, Ranchi
+Taffreh : 4.2 : Sandwich, Tea : ₹200 for two :  Kanka, Ranchi
+Live Cake Shop : - : Bakery, Desserts : ₹400 for two :  Lalpur, Ranchi
+Cafe-Bestaste Momo : 3.2 : Fast Food, Momos : ₹200 for two :  Ashok Nagar, Ranchi
+Bawarchi : 3.1 : North Indian, Biryani, Chinese, Pizza, Mughlai, Fast Food, Beverages, Desserts : ₹350 for two :  Ashok Nagar, Ranchi
+Maheswari : 3.5 : North Indian : ₹300 for two :  Kokar, Ranchi
+Zaika : 3.9 : North Indian, Chinese, Beverages, Fast Food : ₹300 for two :  Doranda, Ranchi
+Hot & Fresh : 3.9 : Chinese, Fast Food, Biryani : ₹300 for two :  Kanke, Ranchi
+Ginger : 3.9 : North Indian, Chinese, Biryani, Continental, Desserts, Beverages, Shake : ₹800 for two :  Doranda, Ranchi
+Cafe Zam Zam : New : Chinese, Fast Food : ₹300 for two :  Hindpiri, Ranchi
+Kareem's : 3.5 : Biryani, North Indian, Mughlai, Fast Food, Rolls, Seafood, Beverages : ₹1,000 for two :  Lalpur, Ranchi
+House Of Cream : 3.4 : Ice Cream, Desserts : ₹100 for two :  Morabadi, Ranchi
+Rangoli Sweets & Bakery : 3.9 : Mithai : ₹300 for two :  Ratu, Ranchi
+CVS Burger : 3.0 : Burger, Fast Food, Shake, Tea, Beverages : ₹350 for two :  Morabadi, Ranchi
+Shades Restaurant & Lounge : 2.6 : Chinese, South Indian, Biryani, North Indian, Mughlai, Fast Food, Beverages : ₹500 for two :  Hindpiri, Ranchi
+Freshco Biryani : 3.4 : Biryani : ₹150 for two :  Kadru, Ranchi
+Hotel Raindew : 4.1 : North Indian, Chinese : ₹400 for two :  Lalpur, Ranchi
+The Street Bites : 3.9 : Chinese, Sichuan, Rolls, Fast Food, Street Food : ₹250 for two :  Ahirtoli, Ranchi
+R. K. Hotel : 4.2 : North Indian : ₹200 for two :  Upper Bazar, Ranchi
+Sunny Restaurant : 4.1 : North Indian, Fast Food, Chinese, South Indian, Beverages : ₹400 for two :  Kanka, Ranchi
+Punjaabi Hunt : 3.8 : North Indian, Chinese, Kebab, Biryani, Street Food, Sichuan : ₹400 for two :  Lalpur, Ranchi
+Aminia Darbar : 3.9 : Biryani, North Indian, Kebab : ₹400 for two :  Hindpiri, Ranchi
+Punjab Sweet House : - : Mithai, Desserts, Street Food, South Indian, Beverages : ₹200 for two :  Hindpiri, Ranchi
+Biryani Center : 3.9 : Biryani, Fast Food : ₹300 for two :  Doranda, Ranchi
+Calories - The Landmark : 3.7 : North Indian, Continental, Chinese, Fast Food, Desserts, Beverages, Shake, Sichuan : ₹800 for two :  Lalpur, Ranchi
+Hill View Food Zone : 3.6 : Chinese, North Indian, Biryani, Rolls, Street Food : ₹350 for two :  Morabadi, Ranchi
+Mogli's Cafe And Kitchen : 3.6 : Coffee, Chinese, North Indian, Fast Food, Beverages, Shake, Sichuan : ₹400 for two :  Lalpur, Ranchi
+Troika : 3.7 : North Indian, South Indian, Thai, Pasta, Fast Food, Biryani, Desserts, Shake : ₹1,100 for two :  Morabadi, Ranchi
+Sangam Burger Centre : 3.6 : Chinese, Fast Food, Rolls, Pasta : ₹300 for two :  Kadru, Ranchi
+Kamla Sweets : 3.9 : Mithai, Desserts, Street Food : ₹100 for two :  Doranda, Ranchi
+Arafat Restaurant : 3.8 : North Indian, Mughlai, Rolls, Chinese, Biryani, Mandi, Beverages : ₹300 for two :  Hindpiri, Ranchi
+Biriyani Box : 4.0 : Biryani, North Indian, Chinese : ₹400 for two :  Bariatu, Ranchi
+The Food Hub : 3.3 : North Indian, Mughlai, South Indian, Chinese, Rolls, Beverages : ₹400 for two :  Upper Bazar, Ranchi
+Frosty Sky : 3.8 : Chinese, North Indian, Kebab, Mughlai, Sichuan : ₹500 for two :  Lalpur, Ranchi
+Chatori Gully : 3.4 : North Indian : ₹300 for two :  Kantatoli, Ranchi
+Oak Grove Lounge Bar & Restaurant : 3.7 : Continental, Chinese, North Indian, Fast Food, Kebab, Beverages, Ice Cream : ₹1,200 for two :  Ashok Nagar, Ranchi
+Maa Ki Rasoi : - : Chinese, North Indian : ₹400 for two :  Kanka, Ranchi
+HOTEL ADITYA : 3.7 : North Indian, Chinese, Continental, South Indian, Mughlai, Beverages, Desserts, Sichuan : ₹400 for two :  Bariatu, Ranchi
+Sanjha Chulha : 3.8 : North Indian, Chinese, Fast Food, Street Food, Beverages, Sichuan : ₹500 for two :  Bariatu, Ranchi
+Shere Punjab : - : North Indian, Biryani : ₹150 for two :  Ahirtoli, Ranchi
+Kolkata Biryani House : 3.0 : Biryani, North Indian : ₹200 for two :  Ashok Nagar, Ranchi
+Garden Palace Restaurant : 2.9 : North Indian, Chinese, Rolls, Momos, BBQ : ₹400 for two :  Upper Bazar, Ranchi
+Amul Ice Cream Parlour And Bakery : 4.0 : Bakery, Ice Cream : ₹350 for two :  Ashok Nagar, Ranchi
+Patiala House : 3.7 : North Indian, Chinese, South Indian, Sichuan : ₹300 for two :  Hindpiri, Ranchi
+Bombay Kitchen : - : Fast Food, Chinese, North Indian, Pizza, Rolls, Mughlai, Biryani : ₹400 for two :  Ratu, Ranchi
+Let's Eat : 3.3 : Chinese, North Indian, South Indian, Rolls, Mughlai, Street Food, Desserts, Beverages : ₹400 for two :  Ahirtoli, Ranchi
+Birsa Munda Food Plaza : 2.8 : North Indian, South Indian, Chinese, Continental, Kebab, Desserts, Beverages, Fast Food : ₹600 for two :  Kanka, Ranchi
+Solitaire : 3.1 : North Indian, Chinese, Beverages : ₹600 for two :  Doranda, Ranchi
+Desi Flavours : 3.9 : North Indian, Street Food, Chinese, Rolls, South Indian : ₹300 for two :  Ahirtoli, Ranchi
+Fine Dine : 3.7 : North Indian, Street Food, Rolls : ₹500 for two :  Lalpur, Ranchi
+Grill 'N' Chill : 3.9 : North Indian, Chinese, Biryani, Rolls, Street Food : ₹300 for two :  Kokar, Ranchi
+Harry Donar Kabab & Pizza/Pasta : - : Italian, Kebab, Pizza : ₹500 for two :  Ashok Nagar, Ranchi
+Cafe Lime Green : 3.8 : Pasta, Pizza, Burger, Beverages, Fast Food : ₹350 for two :  Ashok Nagar, Ranchi
+Kataani's Restro : 3.7 : North Indian, South Indian, Chinese, Momos, Rolls, Mughlai : ₹600 for two :  Morabadi, Ranchi
+Eat : 4.2 : North Indian, Chinese, Fast Food, Beverages, Desserts : ₹800 for two :  Kanka, Ranchi
+Tandoor E Laziz : 3.2 : North Indian, Chinese, Fast Food, Biryani, Kebab, Sichuan : ₹400 for two :  Lalpur, Ranchi
+Neela Aasman - Royal Ranchi : 3.9 : North Indian, Chinese, Fast Food, Kebab, Mughlai, Seafood, Shake, Sichuan : ₹650 for two :  Doranda, Ranchi
+New Anand Vatika Restaurant : 4.0 : Chinese, Fast Food, North Indian, Maharashtrian, Desserts, Beverages, Sichuan : ₹500 for two :  Lalpur, Ranchi
+Blue Bansi : 3.7 : North Indian, South Indian, Fast Food, Chinese, Beverages : ₹300 for two :  Bariatu, Ranchi
+Kullhad : 3.9 : North Indian, Fast Food, Sandwich, South Indian, Chinese, Desserts, Shake, Beverages : ₹800 for two :  Lalpur, Ranchi
+Comesum Food Plaza : 3.8 : Chinese, Biryani, Street Food : ₹200 for two :  Kantatoli, Ranchi
+Mehfil Restaurant : 3.6 : Chinese, North Indian, Mughlai : ₹400 for two :  Harmu, Ranchi
+Gravity : 3.8 : North Indian, Chinese : ₹1,000 for two :  Upper Bazar, Ranchi
+Cater By Car : 3.7 : North Indian, Fast Food, Chinese, Rolls : ₹300 for two :  Kanke, Ranchi
+Crispy Grill : 4.0 : Kebab, Pizza, Burger, Sandwich, Fast Food : ₹350 for two :  Hindpiri, Ranchi
+Food Point Rolls & Snacks : 3.5 : Rolls, Momos, Burger, Pasta, Chinese : ₹250 for two :  Morabadi, Ranchi
+Snack Hub : 3.9 : Street Food, Mithai : ₹100 for two :  Kantatoli, Ranchi
+The Chillies : 3.9 : Chinese, Rolls, Momos : ₹350 for two :  Harmu, Ranchi
+Kitchen Karahi : 4.4 : North Indian, Chinese, Desserts : ₹700 for two :  Ratu, Ranchi
+Momomia Love In Every Bite : - : Momos, Fast Food, Beverages, Shake : ₹200 for two :  Lalpur, Ranchi
+Vrindanand Confectioner : New : Mithai, Street Food : ₹350 for two :  Kokar, Ranchi
+Apna Kitchen Resturant : - : Chinese, North Indian, Mughlai, Biryani, Kebab, Rolls : ₹500 for two :  Dhurwa, Ranchi
+Shubham Spice Klub : 3.2 : North Indian, Chinese, Rolls, Street Food, Momos, Fast Food : ₹300 for two :  Kokar, Ranchi
+Mamta Ristorante Cafe : 3.6 : Chinese, North Indian, Kebab, Burger, South Indian : ₹500 for two :  Kanka, Ranchi
+9 Eleven : 3.1 : North Indian, Chinese, Momos, Rolls, Biryani, Mughlai : ₹500 for two :  Upper Bazar, Ranchi
+Hotel AVN Plaza : 3.9 : North Indian, Biryani, Chinese, Desserts, Beverages, Shake, Sichuan : ₹600 for two :  Kanka, Ranchi
+Satkar Restaurant : 3.8 : North Indian, Rolls, Biryani, Chinese, Beverages : ₹400 for two :  Kanke, Ranchi
+Born And Bread In Ranchi : 3.9 : Fast Food : ₹250 for two :  Gandhi Nagar, Ranchi
+Fun N Foods : 3.9 : Desserts, Ice Cream : ₹150 for two :  Lalpur, Ranchi
+Biryani 365 : 3.6 : Biryani, Chinese, Rolls : ₹250 for two :  Kantatoli, Ranchi
+Sachin Hotel : 3.3 : North Indian : ₹200 for two :  Dhurwa, Ranchi
+Spice Bistro : 3.8 : Pizza, Burger, Sandwich, Fast Food, Shake, Beverages : ₹300 for two :  Hindpiri, Ranchi
+Rollicks : 3.9 : Ice Cream, Desserts, Beverages, Shake : ₹250 for two :  Lalpur, Ranchi
+Sukh Sagar : 3.9 : North Indian, Chinese, Fast Food, Beverages : ₹450 for two :  Namkum, Ranchi
+Churuwala's : 3.8 : Mithai, Street Food : ₹500 for two :  Ahirtoli, Ranchi

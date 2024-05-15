@@ -1,0 +1,501 @@
+Pirates Of Grill : 4.3 : Chinese, Salad, North Indian, BBQ, Mughlai, Oriental, Desserts : ₹1,500 for two :  Model Town, Patiala
+Cafe Delhi Heights : 3.9 : Continental, Pizza, Fast Food : ₹1,500 for two :  Model Town, Patiala
+Barbeque Nation : 4.9 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,500 for two :  Urban Estate, Patiala
+Door No. 3 : 4.3 : Continental, Chinese, North Indian, Finger Food : ₹900 for two :  Model Town, Patiala
+Tim Hortons : 4.3 : Coffee, Cafe, Beverages, Italian, Sandwich, Fast Food : ₹700 for two :  Model Town, Patiala
+Mocha Cafe And Bar : 4.5 : North Indian, Fast Food, Chinese, Beverages : ₹800 for two :  Model Town, Patiala
+Olivia House : - : Bar Food, North Indian, Italian, Lebanese, Mughlai, Fast Food, Desserts, Beverages : ₹1,400 for two :  Model Town, Patiala
+Biryani By Kilo : 4.4 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  Model Town, Patiala
+KFC : 4.2 : Burger, Fast Food, Rolls : ₹450 for two :  Model Town, Patiala
+Jaggi's Restaurant : 4.1 : Chinese, Fast Food, Desserts, Beverages : ₹700 for two :  Model Town, Patiala
+The Red Dragon : 4.1 : Chinese, Seafood : ₹900 for two :  Model Town, Patiala
+Refections Cafe : 3.8 : Cafe, Coffee, Sandwich, Fast Food, Mexican, Italian, Middle Eastern, Desserts : ₹1,000 for two :  Model Town, Patiala
+Romatini : 4.2 : Pizza, Fast Food, Beverages : ₹800 for two :  Model Town, Patiala
+Burger King : 3.9 : Burger, Fast Food, Beverages : ₹300 for two :  Urban Estate, Patiala
+Megh's : 3.7 : North Indian, Chinese, Pizza, Burger, Biryani, Continental, Desserts : ₹1,400 for two :  Model Town, Patiala
+Pizza Hut : 3.9 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Model Town, Patiala
+Nik Baker's : 3.1 : Bakery, Desserts : ₹800 for two :  Model Town, Patiala
+SHANGZ : 4.2 : Chinese, Fast Food, Seafood, Desserts, Beverages : ₹1,100 for two :  Urban Estate, Patiala
+Brooklyn Central : - : Continental, Mexican, Fast Food, Burger, Italian, Steak, Desserts : ₹1,900 for two :  Model Town, Patiala
+Agya Singh's Dhaba : 4.3 : North Indian : ₹250 for two :  Adalat Bazaar, Patiala
+Jaggis : 3.8 : Burger, North Indian, Chinese, Salad, Desserts, Beverages, Ice Cream, Fast Food : ₹500 for two :  Model Town, Patiala
+Pizza Wings : 3.8 : Pizza, Burger, Fast Food : ₹750 for two :  Urban Estate, Patiala
+The Shaurya : 3.8 : Beverages, Continental, North Indian, South Indian, Salad : ₹1,000 for two :  Tripuri, Patiala
+The Coffee Bean & Tea Leaf : 2.9 : Cafe, Coffee, Beverages, Italian, Fast Food, Sandwich, Desserts, Bakery : ₹700 for two :  Model Town, Patiala
+Aneja's : 4.4 : North Indian, Fast Food, Desserts, Beverages, Biryani, Chinese, Bakery, Pasta : ₹700 for two :  Urban Estate, Patiala
+Jaggi Sweets : 3.6 : South Indian, North Indian, Chinese, Pizza, Fast Food, Street Food, Ice Cream, Beverages : ₹400 for two :  Adalat Bazaar, Patiala
+Sahni Dhaba : 3.8 : North Indian : ₹300 for two :  Adalat Bazaar, Patiala
+Jaggis Sweets Bakery Restaurant : 4.8 : Mithai, Fast Food, South Indian, North Indian, Chinese, Beverages : ₹400 for two :  Tripuri, Patiala
+Dons Restaurant : 3.0 : North Indian, Fast Food, Street Food, Beverages : ₹400 for two :  Urban Estate, Patiala
+Domnik Pizza : 4.1 : Pizza, Burger, Mexican, Beverages : ₹500 for two :  Tripuri, Patiala
+Elevate : 4.4 : North Indian, Pizza, Italian : ₹1,400 for two :  Model Town, Patiala
+Rosha : - : Cafe, Coffee, North Indian, Chinese, Asian, Continental, Desserts, Shake : ₹1,200 for two :  Model Town, Patiala
+Club 16 : 3.9 : North Indian, Chinese, Mughlai, Continental, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  New Officers Colony, Patiala
+Har- Rozz The Daily Cafe : 3.8 : Chinese, Pizza, Fast Food, Sandwich, Shake, Juices, Ice Cream, Beverages : ₹300 for two :  Nabha Gate, Patiala
+Nagpal's Fine Dine : 3.2 : North Indian, Chinese, Biryani, Salad, Continental : ₹600 for two :  Model Town, Patiala
+The Bellrocc Resto Bar : 4.4 : North Indian : ₹1,000 for two :  Model Town, Patiala
+Roll Xpress Cafe : 3.8 : Rolls, North Indian, Shake, Beverages : ₹300 for two :  Model Town, Patiala
+Boombox Penthouse : 4.3 : North Indian, Continental, Chinese, Pizza, Pasta, Biryani, Fast Food, Desserts : ₹750 for two :  New Officers Colony, Patiala
+Elysian Bakehouse : New : Continental, Pizza : ₹400 for two :  Model Town, Patiala
+Cafe Helados : 3.0 : Fast Food, Wraps, Pizza, Burger, Thai, Pasta, North Indian : ₹500 for two :  Model Town, Patiala
+Gopal's : 3.4 : North Indian, South Indian, Chinese, Desserts, Fast Food, Bakery, Beverages, Continental : ₹500 for two :  Model Town, Patiala
+Maan Veg Soya Chaap : - : Fast Food, North Indian : ₹200 for two :  Gurbax Colony, Patiala
+Restaurante - The Garden Resort : 4.0 : North Indian, Chinese, Continental, Biryani : ₹1,000 for two :  The Garden Resort, Model Town, Patiala
+McDonald's : 4.0 : Burger, Fast Food, Cafe, Beverages : ₹500 for two :  Lahori Gate, Patiala
+Domino's Pizza : 3.8 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  Urban Estate, Patiala
+The Waffle Co. : 3.5 : Cafe, Coffee, Waffle, Pancake, Shake, Beverages : ₹350 for two :  Model Town, Patiala
+Starbucks Coffee : 3.7 : Cafe, Beverages, Desserts : ₹600 for two :  Model Town, Patiala
+La Club : - : North Indian, Mughlai, Chinese, Italian, Bar Food, Seafood, Desserts, Beverages : ₹1,300 for two :  Model Town, Patiala
+Jaggi's Restaurant : 4.1 : North Indian, South Indian, Chinese, Street Food, Fast Food, Ice Cream, Desserts, Beverages : ₹500 for two :  Adalat Bazaar, Patiala
+Boston & Co. : 4.2 : Pizza, Pasta, Burger, American, Fast Food, Healthy Food, Beverages : ₹500 for two :  Model Town, Patiala
+Chawlas Heavenz Fine Dine : 4.1 : North Indian, Fast Food, Chinese : ₹800 for two :  Model Town, Patiala
+Sahni's Bakery and Restaurant : 3.4 : North Indian, Chinese, Street Food, Pizza, Italian, Desserts, Beverages : ₹500 for two :  Model Town, Patiala
+The Belgian Waffle Co. : - : Waffle, Pancake, Ice Cream, Desserts, Beverages : ₹200 for two :  Model Town, Patiala
+Street Club : 3.9 : Continental, Chinese, North Indian, Mughlai, Fast Food, Salad : ₹1,200 for two :  Model Town, Patiala
+Patiala Grill : 3.8 : Chinese, North Indian, Mughlai, BBQ : ₹450 for two :  New Officers Colony, Patiala
+Kohli Sweets : 4.3 : Bakery, North Indian : ₹300 for two :  Tripuri, Patiala
+Uttam's Buffet & Restaurant : 3.8 : North Indian, Chinese, Fast Food, Beverages : ₹600 for two :  Urban Estate, Patiala
+Family Food Co. : 3.7 : Kebab, Chinese, North Indian, Biryani, Mughlai, Beverages : ₹1,000 for two :  Tripuri, Patiala
+Nagpal Restaurant : 4.2 : Chinese, North Indian, Salad, Beverages : ₹300 for two :  Nabha Gate, Patiala
+Shera Chat : - : Street Food : ₹100 for two :  Gurbax Colony, Patiala
+Punjab Mail : 3.0 : North Indian, Chinese, Fast Food, Beverages, Desserts, Biryani, Street Food : ₹500 for two :  Lahori Gate, Patiala
+Hudson Chopsticks : - : Chinese, Momos : ₹500 for two :  Model Town, Patiala
+Ice Cream Villa : - : Ice Cream, Waffle, Pancake, Desserts, Shake : ₹400 for two :  Model Town, Patiala
+Krishan's Corner Restaurant : 3.3 : North Indian, Chinese, Mughlai, Fast Food : ₹650 for two :  Lahori Gate, Patiala
+Lazeez Pizza : - : Pizza, Burger, Italian, Fast Food : ₹300 for two :  Model Town, Patiala
+The Chocolate Room : 3.9 : Coffee, Bakery, Pizza, Fast Food, Beverages : ₹500 for two :  Urban Estate, Patiala
+Baba's : 3.6 : North Indian, Mughlai, Chinese, Kebab : ₹700 for two :  Nabha Gate, Patiala
+Baskin Robbins - Ice Cream Desserts : 3.1 : Ice Cream, Desserts, Beverages : ₹500 for two :  Abchal Nagar, Patiala
+Pizza Junction : 4.0 : Pizza, Beverages, Rolls, Sandwich, Wraps, Fast Food, Shake : ₹350 for two :  Lahori Gate, Patiala
+Aneja's Sweets And Bakers : 3.9 : Bakery, Street Food, Chinese : ₹300 for two :  Adalat Bazaar, Patiala
+Sheetal Dhaba : 3.8 : North Indian, Chinese, Ice Cream, Beverages : ₹300 for two :  Nabha Gate, Patiala
+Moti Mahal Delux Tandoori Trail : - : North Indian, Mughlai, Seafood, Biryani, Chinese, Beverages : ₹1,300 for two :  Tripuri, Patiala
+Creamy Lover : 3.9 : Desserts, Ice Cream : ₹200 for two :  New Officers Colony, Patiala
+Sagar Ratna : - : South Indian, North Indian, Chinese, Desserts, Beverages : ₹1,100 for two :  Model Town, Patiala
+Kohli Dhaba : 4.1 : North Indian : ₹650 for two :  Nabha Gate, Patiala
+Lucky Snacks & Champs Point : 4.0 : Fast Food, Chinese, North Indian, Desserts, Beverages : ₹350 for two :  Gurbax Colony, Patiala
+Chai Sutta Bar : - : Tea, Coffee, Beverages, Shake, Sandwich, Fast Food, Street Food : ₹200 for two :  Urban Estate, Patiala
+Wrapchik : 4.1 : Wraps, Salad, Fast Food : ₹350 for two :  Model Town, Patiala
+Yo China : 4.0 : Chinese, Sichuan : ₹700 for two :  Model Town, Patiala
+Food Point : - : North Indian, Chinese, Fast Food : ₹450 for two :  Lahori Gate, Patiala
+Roll Express : 4.0 : Rolls : ₹200 for two :  Adalat Bazaar, Patiala
+Patiala Rolls : 3.9 : Rolls : ₹200 for two :  Prem Nagar, Patiala
+Roadies Koffeehouz : 4.5 : Cafe, Continental, Pizza, Burger, Fast Food, Desserts : ₹600 for two :  Model Town, Patiala
+The Hobnob Grill : - : Pizza, Fast Food, Street Food, Momos, Chinese, North Indian, Shake, Beverages : ₹500 for two :  Model Town, Patiala
+The Aroma Espresso Bar : 3.3 : Sandwich, Wraps, Burger, Pasta, Fast Food, Salad, Coffee, Beverages : ₹350 for two :  Urban Estate, Patiala
+The Belgian Waffle Co. : 3.6 : Waffle, Pancake, Desserts, Beverages, Ice Cream : ₹400 for two :  Urban Estate, Patiala
+Chawla's Heavenz : 4.0 : Sandwich, Pizza, Burger, Rolls, Chinese, North Indian, Beverages : ₹500 for two :  Urban Estate, Patiala
+Sahni Bakery : 3.8 : Bakery, Mithai, Street Food, Desserts : ₹300 for two :  Lahori Gate, Patiala
+Gopal's : 3.0 : North Indian, South Indian, Chinese, Desserts, Fast Food, Street Food, Beverages : ₹500 for two :  Urban Estate, Patiala
+Asli Old Madrasi Dosa : 4.0 : South Indian : ₹300 for two :  Lahori Gate, Patiala
+Dream Puff : 3.3 : Bakery, Fast Food, Burger, Wraps, Pizza, Desserts, Shake, Beverages : ₹400 for two :  Urban Estate, Patiala
+Charan Juice & Confectionery : 3.7 : Juices, Beverages, Shake : ₹250 for two :  Adalat Bazaar, Patiala
+Da Ameeri : - : Cafe, Coffee, Pizza, Italian, North Indian, Chinese, Kebab, Desserts : ₹1,100 for two :  Model Town, Patiala
+Uncle Jack's : 3.4 : American, Fast Food, Desserts, Beverages, Shake : ₹500 for two :  Model Town, Patiala
+Vijay Shakti Chat : - : Street Food, Fast Food : ₹100 for two :  Model Town, Patiala
+Chawlas 2 : 4.0 : North Indian, Biryani : ₹500 for two :  Urban Estate, Patiala
+Kohli Dhaba : 3.3 : Street Food, North Indian : ₹500 for two :  Ranjit Nagar, Patiala
+Barista Coffee : 4.0 : Cafe, Coffee, Desserts : ₹550 for two :  Model Town, Patiala
+Bombay Pav Bhaji : 4.3 : Fast Food : ₹200 for two :  Model Town, Patiala
+Zafran : 4.0 : Mughlai : ₹700 for two :  Model Town, Patiala
+Nott Street : - : Italian, Continental, Chinese, North Indian, Desserts, Coffee, Beverages : ₹1,200 for two :  Model Town, Patiala
+Hotel MG64 : 3.4 : North Indian, Chinese, Seafood, Beverages : ₹700 for two :  Urban Estate, Patiala
+ChaoMan : 3.7 : Chinese, Japanese, Asian, Thai : ₹350 for two :  Urban Estate, Patiala
+Hungry Point : 3.7 : Fast Food, Beverages, Sandwich, Pizza, Burger, Pasta, Shake : ₹300 for two :  Prem Nagar, Patiala
+Mohan Murge Wala : 4.4 : North Indian, Rolls, Street Food : ₹450 for two :  Adalat Bazaar, Patiala
+New Sheetal Restaurant : 3.7 : North Indian, Chinese, Fast Food, Street Food, Ice Cream, Beverages : ₹400 for two :  Model Town, Patiala
+Verma's : 4.0 : Bakery, Mithai, Pizza, Fast Food : ₹400 for two :  Model Town, Patiala
+Nagpal Dhaba : 3.9 : North Indian, Chinese : ₹500 for two :  Nabha Gate, Patiala
+Yellow Pizza : 4.0 : Fast Food, Pizza, Burger, Desserts : ₹600 for two :  Ranjit Nagar, Patiala
+Old Madrasi Dosa : 3.6 : South Indian : ₹250 for two :  Lahori Gate, Patiala
+Hotel Dhillon Residency : 3.5 : North Indian, Chinese, Mughlai, Biryani : ₹300 for two :  Abchal Nagar, Patiala
+Endora Hotel : - : North Indian, Chinese, Mughlai, Continental, Fast Food, Sandwich, Desserts, Beverages : ₹1,500 for two :  Urban Estate, Patiala
+Super Donuts-American Eatery & Bakery : 4.2 : Fast Food, Desserts, Bakery, Beverages : ₹500 for two :  Urban Estate, Patiala
+Eqbal Inn : - : North Indian, Chinese, Continental, Desserts, Beverages : ₹1,500 for two :  Tej Bagh Colony, Patiala
+Hotel Narain Continental : - : North Indian, Continental, Chinese, Mughlai, Desserts : ₹700 for two :  Nabha Gate, Patiala
+Ramu Fish : - : Seafood, North Indian : ₹450 for two :  Model Town, Patiala
+Param Bakers & Namkeens : 3.6 : Bakery, Burger, Street Food : ₹150 for two :  Lahori Gate, Patiala
+Hotel Lazeez : 4.0 : Fast Food, Chinese, North Indian, Beverages, Ice Cream, Desserts : ₹650 for two :  Tripuri, Patiala
+Ravinder Corner Dhabha : - : North Indian : ₹250 for two :  Nabha Gate, Patiala
+Ambala Chaat House : 3.9 : Street Food : ₹100 for two :  New Officers Colony, Patiala
+The Dream Creamery : 4.3 : Fast Food, Desserts, Ice Cream, Beverages : ₹200 for two :  Urban Estate, Patiala
+Veg King Wah Ji Wah Patiala : 3.8 : North Indian, Rolls, Biryani, Street Food : ₹400 for two :  Abchal Nagar, Patiala
+Ganpati Fast Food : 4.2 : Fast Food, Pizza, Burger, Sandwich : ₹200 for two :  Prem Nagar, Patiala
+Yummy Bites : 3.6 : Pizza, Fast Food, Italian, Burger, Beverages : ₹400 for two :  Nabha Gate, Patiala
+Abbott's Cafe n Bistro : 4.2 : Cafe, Mexican, Fast Food, Desserts, Pizza, Coffee, Sandwich, Beverages : ₹500 for two :  Model Town, Patiala
+Nagpal Restaurant Since 1999 : 3.9 : Chinese, North Indian, Salad, Beverages : ₹300 for two :  Nabha Gate, Patiala
+Cava - Bar & Lounge : - : North Indian, Mughlai, Pasta, Fast Food, Chinese, Biryani, Kebab, Desserts : ₹1,400 for two :  Model Town, Patiala
+Wahi's Restaurant : New : North Indian, Mughlai, Chinese, Seafood, Momos, Rolls : ₹500 for two :  Adalat Bazaar, Patiala
+Prem Chat : 4.0 : Fast Food, Chinese, Ice Cream : ₹200 for two :  Tripuri, Patiala
+Bhen Da Dhaba : 3.7 : North Indian : ₹350 for two :  Tripuri, Patiala
+The No Objection Cafe : 4.9 : Cafe, Italian, North Indian, Chinese, Desserts, Beverages, Salad, Sichuan : ₹650 for two :  Model Town, Patiala
+Nagpal's Chole Bhature - Delhi ke Famous : - : North Indian, Chinese : ₹450 for two :  Model Town, Patiala
+Loh Pizza : 4.4 : Pizza, Salad, Fast Food, Healthy Food, Desserts, Beverages : ₹400 for two :  Model Town, Patiala
+Food Masters : 3.6 : Fast Food, Burger, Wraps, Sandwich, Beverages : ₹300 for two :  Tripuri, Patiala
+HC Burger : 3.9 : Burger, Sandwich, Pizza, Wraps, Fast Food, Beverages : ₹300 for two :  Model Town, Patiala
+Bombay Maharashtra Pav Bhaji : 3.2 : Street Food : ₹100 for two :  Adalat Bazaar, Patiala
+Gagz Food Point : 3.5 : North Indian, Chinese, Momos, Fast Food : ₹300 for two :  Lahori Gate, Patiala
+Gianis - Ice Cream, Shakes & Sundaes : 3.3 : Ice Cream, Desserts, Beverages : ₹300 for two :  New Officers Colony, Patiala
+Veer Ji Malai Chaap Wale : - : North Indian, Biryani, Chinese, Momos, Burger, Rolls, Beverages : ₹300 for two :  Urban Estate, Patiala
+Peddler's Patiala : 4.0 : North Indian, Chinese, Fast Food, Pasta, Finger Food : ₹1,200 for two :  Model Town, Patiala
+Kala Chicken Corner : 3.7 : North Indian, Mughlai : ₹400 for two :  Lahori Gate, Patiala
+The Cafe Infinity : 3.3 : Cafe, Burger, Sandwich, Pizza, Fast Food, Desserts : ₹500 for two :  Nabha Gate, Patiala
+Verma's Restaurant & Fast Food : 4.2 : North Indian, Chinese, Fast Food : ₹500 for two :  New Officers Colony, Patiala
+The Dribble Cafe : 3.5 : Beverages, Desserts, Healthy Food, Sandwich, Wraps, North Indian, Italian : ₹800 for two :  Leela Bhavan, Model Town, Patiala
+Cafe Coffee Day : 3.9 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹500 for two :  New Officers Colony, Patiala
+Jeet Bakery & Restaurant : - : Bakery, North Indian, Chinese, Fast Food : ₹300 for two :  Tripuri, Patiala
+Bagga Grills : New : North Indian, Pizza, Burger, Fast Food : ₹400 for two :  Model Town, Patiala
+Jeet's Confectionary : 4.1 : Pizza, Fast Food, Chinese, North Indian : ₹200 for two :  Tripuri, Patiala
+Apna Dhaba : 3.5 : North Indian, Chinese, Fast Food, Mughlai, Beverages : ₹400 for two :  Abchal Nagar, Patiala
+Harbans Dhaba : 3.1 : North Indian, Fast Food, Beverages : ₹150 for two :  New Officers Colony, Patiala
+Awesome Restaurant : - : North Indian, Chinese : ₹500 for two :  Ranjit Nagar, Patiala
+Shivam Veg Soya Chaap : - : North Indian, South Indian, Street Food : ₹200 for two :  Model Town, Patiala
+Brew Lounge : 3.2 : Coffee, Fast Food, Continental, Chinese, Asian, Italian, Shake, Beverages : ₹1,000 for two :  Model Town, Patiala
+Scotland Yard : 4.3 : North Indian, Chinese : ₹1,000 for two :  Model Town, Patiala
+Grill Masters : 3.9 : Wraps, Fast Food, Burger, Italian, Beverages : ₹450 for two :  Urban Estate, Patiala
+Simomis : 4.2 : Pizza, Italian, Wraps, Burger, Beverages : ₹450 for two :  Urban Estate, Patiala
+Clarion Inn Amps : 4.3 : Continental, North Indian, Asian, Oriental, Italian, Mughlai, Biryani, Desserts : ₹1,200 for two :  Tripuri, Patiala
+Gastro Eatery Hub : 4.1 : Fast Food, Burger, Pizza, Chinese, Beverages : ₹500 for two :  Model Town, Patiala
+Biryani Chef : 4.7 : Biryani, North Indian, Kebab, Mughlai : ₹300 for two :  Model Town, Patiala
+Amul Fuzzies Ice Cream Parlour : 4.1 : Ice Cream, Desserts, Beverages : ₹350 for two :  Model Town, Patiala
+GoGo Restaurant : 3.7 : North Indian, Chinese, Fast Food, Continental : ₹400 for two :  Lahori Gate, Patiala
+The Yellow Chilli : 4.0 : North Indian, Chinese, Biryani : ₹600 for two :  Nabha Gate, Patiala
+Shangz : - : Chinese, Seafood, Momos, Wraps, Street Food, Beverages : ₹500 for two :  Model Town, Patiala
+Golden Hut : - : North Indian, Chinese, Biryani, South Indian : ₹1,000 for two :  Nabha Gate, Patiala
+Burger House : 4.3 : Burger : ₹250 for two :  Adalat Bazaar, Patiala
+Eleven Brew Bar & Restaurant : - : North Indian, Chinese, Continental, Pizza, Salad, Bar Food, Mughlai : ₹1,000 for two :  Urban Estate, Patiala
+Sahni Sweets 22 No : 3.8 : Mithai : ₹100 for two :  Model Town, Patiala
+Grill Heaven : 3.8 : North Indian, Rolls, Chinese, Burger, Sandwich, Beverages : ₹200 for two :  Tripuri, Patiala
+Aggarwal Vaishnu Dhaba : 4.6 : North Indian : ₹300 for two :  Model Town, Patiala
+Hotel TNG : 3.0 : North Indian, Fast Food, Chinese, Pizza, Kebab, Salad, Mughlai, Desserts : ₹1,000 for two :  Model Town, Patiala
+Neeraj Chat Bhandar : 3.9 : Fast Food : ₹200 for two :  New Officers Colony, Patiala
+Fuffad Di Chaap : - : North Indian : ₹250 for two :  Lahori Gate, Patiala
+Burger Bite : 4.1 : Fast Food, Burger : ₹300 for two :  Nabha Gate, Patiala
+Hotel Sea : 3.7 : North Indian, Chinese, Beverages, Fast Food : ₹500 for two :  Abchal Nagar, Patiala
+Ghar Di Rasoi : 3.5 : North Indian : ₹200 for two :  Tripuri, Patiala
+The Brew Estate : 4.9 : North Indian, Continental, Chinese, Beverages, Finger Food : ₹2,400 for two :  Model Town, Patiala
+King Burger : 4.6 : Fast Food, Burger, Chinese, North Indian, Beverages, Momos : ₹300 for two :  Model Town, Patiala
+Happy Frozen Stuff : 3.6 : North Indian, Fast Food, BBQ : ₹300 for two :  Model Town, Patiala
+Bikaner Misthan Bhandar : 3.4 : Fast Food, Mithai, Street Food, South Indian, Chinese, Rajasthani, North Indian : ₹300 for two :  Patiala Cantt, Patiala
+Elite Club : 3.9 : North Indian, Chinese, Fast Food, Seafood, Beverages : ₹800 for two :  Urban Estate, Patiala
+Willkommen : 3.8 : North Indian, South Indian, Chinese, Street Food, Fast Food, Ice Cream, Beverages : ₹800 for two :  Nabha Gate, Patiala
+Kohli Patiala Shahi Chaap : 4.0 : North Indian, Chinese : ₹200 for two :  Abchal Nagar, Patiala
+Henry Veg Snacker : 4.1 : Street Food, Fast Food, North Indian : ₹250 for two :  Adalat Bazaar, Patiala
+Hotel Mohan Continental : 4.2 : North Indian, Fast Food, Chinese, Beverages : ₹1,000 for two :  Model Town, Patiala
+The Crave Lab : 4.2 : Fast Food, Chinese, Desserts, Beverages : ₹700 for two :  Model Town, Patiala
+Urban Food Nest : 3.5 : Fast Food, Chinese, Pizza, Wraps, Burger, Sandwich, Beverages : ₹350 for two :  Urban Estate, Patiala
+Royal Mystic Bistro : 3.8 : North Indian, Chinese, Fast Food : ₹400 for two :  New Officers Colony, Patiala
+Sardar Icecream : 3.9 : Ice Cream : ₹200 for two :  Lahori Gate, Patiala
+Sahni's Bakery : - : Bakery, North Indian, Pizza, Fast Food, Chinese, Street Food, Desserts, Beverages : ₹350 for two :  New Officers Colony, Patiala
+The Royal Kitchen : 3.9 : North Indian, Chinese, Desserts : ₹800 for two :  Lahori Gate, Patiala
+Cool n Fire : 4.3 : Fast Food, Pizza, Beverages, Desserts : ₹600 for two :  Model Town, Patiala
+Khan Shama Dhaba : 2.7 : North Indian, Biryani : ₹600 for two :  Adalat Bazaar, Patiala
+Patiala Pizza : 3.8 : Pizza, Burger, Sandwich : ₹400 for two :  Tripuri, Patiala
+Sant Sweets & Fast Food : 4.2 : Mithai, Chinese, Fast Food, Street Food : ₹300 for two :  Tripuri, Patiala
+Pal Dhaba : 3.5 : North Indian, Desserts, Beverages : ₹500 for two :  Lahori Gate, Patiala
+Xero Degrees : 4.2 : Fast Food, Pizza, Desserts, Burger, Sandwich, Beverages, Shake : ₹400 for two :  Model Town, Patiala
+Basant Restaurant : 3.1 : Fast Food, Street Food : ₹400 for two :  Abchal Nagar, Patiala
+Patiala House : 3.8 : North Indian : ₹500 for two :  Nabha Gate, Patiala
+Posh Microbrewery : 3.1 : Chinese, Fast Food, North Indian, Biryani : ₹300 for two :  Urban Estate, Patiala
+Yogesh Dhaba : 3.2 : North Indian : ₹200 for two :  Tripuri, Patiala
+Green's Restobar : 4.1 : North Indian, Chinese, Continental, Beverages, Fast Food, Kebab : ₹600 for two :  Lahori Gate, Patiala
+Food Cloud Restaurant : 3.9 : North Indian, Fast Food, Healthy Food, Desserts : ₹300 for two :  Lahori Gate, Patiala
+Roll Express : - : North Indian, Fast Food, Shake, Beverages : ₹300 for two :  Model Town, Patiala
+Sunrise Motel : 3.9 : North Indian, Chinese, Continental, Mughlai, Fast Food : ₹1,000 for two :  Tripuri, Patiala
+Retro Barbecue Restobar : 3.9 : North Indian, Chinese, Street Food, Seafood, Beverages : ₹1,000 for two :  Tripuri, Patiala
+Euphoria Brewing Co. : 3.1 : North Indian, Chinese, Italian, Fast Food, Desserts : ₹800 for two :  Tripuri, Patiala
+Naveen Taste Creators : 3.5 : Fast Food, Burger : ₹400 for two :  New Officers Colony, Patiala
+Chawlas : 3.5 : North Indian, Chinese, Mughlai, Rolls : ₹400 for two :  Patiala Cantt, Patiala
+Pappu Fruit Juice : 3.6 : Juices, Shake : ₹100 for two :  Lahori Gate, Patiala
+Yes Lounge - Clarion Inn Amps : 3.9 : Continental, North Indian, Asian, Oriental, Italian, Mughlai, Biryani, Desserts : ₹1,200 for two :  Clarion Inn Amps, Tripuri, Patiala
+The Food Code : 3.8 : North Indian, Chinese, Fast Food : ₹300 for two :  New Officers Colony, Patiala
+Eat 'N' Repeat : 3.9 : North Indian, Chinese : ₹500 for two :  Nabha Gate, Patiala
+Amul Ice Cream Parlour : - : Ice Cream, Beverages, Shake : ₹200 for two :  Urban Estate, Patiala
+Pawan Parantha House : 3.9 : Street Food, North Indian : ₹150 for two :  Lahori Gate, Patiala
+Shivam Restaurant : 3.8 : North Indian, Ice Cream, Desserts : ₹350 for two :  Model Town, Patiala
+Harbans Ice Cream : 4.3 : Ice Cream, Desserts, Beverages : ₹100 for two :  Adalat Bazaar, Patiala
+Shiv Parantha House : 3.3 : North Indian : ₹100 for two :  Lahori Gate, Patiala
+Mr. Hot dog : 3.6 : Fast Food, Hot dogs : ₹400 for two :  Prem Nagar, Patiala
+Dominis Pizza : 3.9 : Pizza, Fast Food : ₹300 for two :  Lahori Gate, Patiala
+Pasta Wraps & Salad : 3.7 : Sandwich, Fast Food, Beverages, Pizza, Pasta, North Indian : ₹300 for two :  Lahori Gate, Patiala
+Ahuja Vegetarian Restaurant : 3.9 : North Indian, Beverages : ₹200 for two :  Lahori Gate, Patiala
+Green Corner Dhaba : 3.9 : North Indian : ₹250 for two :  Lahori Gate, Patiala
+The Greasy Spoon : 3.7 : Burger, Fast Food, Beverages, Pasta : ₹300 for two :  Tripuri, Patiala
+Chix Bang's Shawarma : 3.9 : Shawarma, Chinese, Fast Food, Momos, North Indian : ₹600 for two :  Urban Estate, Patiala
+Veer Ji Malai Chaap Wale : - : North Indian, Momos, Rolls, Chinese, Biryani, Shake : ₹600 for two :  Model Town, Patiala
+Lucky Dhaba : 3.9 : North Indian : ₹300 for two :  Model Town, Patiala
+Plaza Beer Bar : 4.2 : North Indian, Chinese : ₹500 for two :  Adalat Bazaar, Patiala
+The HotShots : 3.3 : North Indian, Fast Food, Beverages : ₹700 for two :  Model Town, Patiala
+Tandoori Junction : 3.7 : Fast Food, North Indian, Chinese, Beverages : ₹750 for two :  Sunny Enclave, Patiala
+Cafe Yorker : 4.2 : Cafe, Salad, Italian, Biryani, Desserts : ₹1,000 for two :  Model Town, Patiala
+Godwin Restaurant : 3.1 : North Indian, Chinese, Sandwich, Continental, Beverages, Italian, Burger : ₹300 for two :  Nabha Gate, Patiala
+Mr. Singh's Tandoori Hut : New : North Indian, Rolls : ₹250 for two :  Urban Estate, Patiala
+Kataria Bakers & Confectioners : 3.7 : Bakery, Fast Food, Desserts : ₹300 for two :  Tripuri, Patiala
+Zaika Restaurant & Fast Food : 3.5 : North Indian, Chinese, Fast Food : ₹500 for two :  Gurbax Colony, Patiala
+Vaishnu Dhaba : 3.8 : North Indian : ₹150 for two :  Model Town, Patiala
+Hangout : 3.9 : Pizza, Burger, Fast Food, Beverages, Shake : ₹500 for two :  Model Town, Patiala
+Mann Veg & Non-Veg : 3.4 : North Indian, Fast Food : ₹400 for two :  Urban Estate, Patiala
+Ice Cream Station : 3.7 : Ice Cream, Beverages, Fast Food, Burger, Desserts : ₹250 for two :  Tripuri, Patiala
+Prism Dine - Clarion Inn Amps : 3.9 : Continental, North Indian, Asian, Oriental, Italian, Mughlai, Biryani, Desserts : ₹1,200 for two :  Clarion Inn Amps, Tripuri, Patiala
+Tandoori Corner : 3.6 : North Indian, Mughlai : ₹350 for two :  Urban Estate, Patiala
+Cafe N Food Corner : 4.1 : Fast Food, Beverages : ₹200 for two :  Nabha Gate, Patiala
+Jaidka : 4.1 : Chinese, North Indian, Fast Food, Street Food, Beverages, Desserts : ₹300 for two :  Gurbax Colony, Patiala
+BBQ Theka : 4.0 : North Indian, Chinese, Fast Food, Rolls, Beverages : ₹350 for two :  Urban Estate, Patiala
+Punjabi Bro’s Restaurant : 3.2 : Burger, Sandwich, Wraps, Pizza, Fast Food, Shake, Beverages : ₹400 for two :  Prem Nagar, Patiala
+Pizza Sector : 2.3 : Pizza, Burger, Wraps, Sandwich, Pasta, Fast Food, Salad, Beverages : ₹400 for two :  Model Town, Patiala
+Dawat Dhabha : 3.6 : North Indian : ₹400 for two :  Abchal Nagar, Patiala
+Raje De Mashoor Special Kulche And Bhature : 3.4 : North Indian, Beverages : ₹200 for two :  Adalat Bazaar, Patiala
+Family Dhaba : 3.6 : North Indian : ₹200 for two :  Tripuri, Patiala
+Punjabeez Restaurant : 2.5 : North Indian, Fast Food, Chinese, Desserts, Beverages, Bakery, Pizza : ₹500 for two :  Model Town, Patiala
+New Samrat Dhaba : 3.4 : North Indian, Fast Food, Chinese : ₹250 for two :  Model Town, Patiala
+Sapper Sama : 2.9 : North Indian, Biryani, Chinese, Rolls : ₹500 for two :  New Officers Colony, Patiala
+PB 11 : 4.1 : North Indian, Chinese, Mughlai, Beverages : ₹1,000 for two :  Model Town, Patiala
+Foodies Point : 3.9 : Fast Food, North Indian, Chinese, Beverages : ₹300 for two :  Tripuri, Patiala
+The Hungers Point : 3.4 : Pizza, Fast Food, Beverages : ₹400 for two :  Sanaur, Patiala
+Yummy Point : 3.5 : Fast Food, Burger, Pizza : ₹200 for two :  Adalat Bazaar, Patiala
+Koko's Kitchen : 3.1 : North Indian, Fast Food, Chinese, Beverages : ₹600 for two :  Model Town, Patiala
+Jassi Dhaba : 3.7 : North Indian : ₹300 for two :  Gurbax Colony, Patiala
+Kohli Fish : 3.0 : North Indian, Chinese : ₹400 for two :  Adalat Bazaar, Patiala
+Yellow Pizza : - : Pizza, Burger : ₹350 for two :  Gurbax Colony, Patiala
+Delhi Dhaba : 4.0 : North Indian, Mughlai, Seafood : ₹500 for two :  Tripuri, Patiala
+Veg King Wah Ji Wah : - : North Indian, Biryani, Rolls, Street Food : ₹400 for two :  Model Town, Patiala
+Hotel AD Crown : 3.6 : North Indian, Chinese : ₹250 for two :  Lahori Gate, Patiala
+Green's Restaurant & Hotel : 3.4 : North Indian, Chinese, Shake : ₹800 for two :  Lahori Gate, Patiala
+Punjabi Tadka Family Restaurant : 3.8 : Chinese, North Indian, Mughlai, Desserts, Beverages : ₹600 for two :  Tripuri, Patiala
+Kukrukru : 4.3 : North Indian, Biryani : ₹400 for two :  Model Town, Patiala
+AMPS Lounge - Clarion Inn Amps : 3.9 : Continental, North Indian, Asian, Oriental, Italian, Mughlai, Biryani, Desserts : ₹1,200 for two :  Clarion Inn Amps, Tripuri, Patiala
+Silver Spoon - Hotel Grand Park : 3.9 : North Indian, Desserts, Beverages, Salad : ₹1,000 for two :  Model Town, Patiala
+Shiva Fast Food : 3.7 : North Indian, Pizza, Burger, Sandwich, Beverages : ₹500 for two :  Lahori Gate, Patiala
+Kashmir For You : 3.8 : North Indian : ₹400 for two :  New Officers Colony, Patiala
+Super Panda : 3.9 : Pizza, Burger, Fast Food, Beverages : ₹400 for two :  Urban Estate, Patiala
+PB 11 Food Junction : 3.3 : Street Food, South Indian, Chinese, Fast Food, Beverages : ₹300 for two :  Urban Estate, Patiala
+Drum Of Beans : 3.9 : Fast Food, Desserts, Beverages, Shake : ₹500 for two :  Model Town, Patiala
+The Beer Studio : 3.9 : Continental, North Indian, Salad, Italian, Asian, Oriental : ₹1,000 for two :  Nabha Gate, Patiala
+Bhupinder Veg Chaap : 3.9 : North Indian, Fast Food : ₹300 for two :  Prem Nagar, Patiala
+Simran Juice & Confectionery : 3.5 : Beverages, Desserts, Rolls, Fast Food : ₹200 for two :  Lahori Gate, Patiala
+Kohli Dhaba : - : North Indian : ₹300 for two :  Lahori Gate, Patiala
+Hashtag The Multicuisine : 3.9 : North Indian, Chinese : ₹800 for two :  Model Town, Patiala
+Pizzacha : 3.8 : Burger, Pizza, Fast Food : ₹300 for two :  Adalat Bazaar, Patiala
+Kababchi : 4.1 : Kebab, North Indian, Rolls, Salad : ₹400 for two :  Tripuri, Patiala
+The Bookworm Cafe : - : Chinese, Sandwich, Pizza, Wraps, Pasta, Salad, Shake, Beverages : ₹700 for two :  Nabha Gate, Patiala
+Kwality Bakers : 4.8 : Bakery : ₹200 for two :  Adalat Bazaar, Patiala
+Sonu Veg Chaap : 3.7 : North Indian, Fast Food : ₹250 for two :  Gurbax Colony, Patiala
+New York Pizza : 3.7 : Fast Food, Wraps, Italian, Beverages : ₹300 for two :  Tripuri, Patiala
+Kaka Hotel : 3.4 : North Indian, Fast Food, Beverages, Shake : ₹800 for two :  Abchal Nagar, Patiala
+Pizza Italian : 3.4 : Fast Food, Pizza : ₹300 for two :  Abchal Nagar, Patiala
+Dumpling Hood : 3.9 : Momos : ₹200 for two :  Lahori Gate, Patiala
+Roll King : 3.9 : Rolls : ₹300 for two :  Urban Estate, Patiala
+The Jacks : 3.7 : Fast Food, Desserts, Beverages : ₹400 for two :  New Officers Colony, Patiala
+Punjabi Dhaba : 3.3 : North Indian, Chinese, Biryani : ₹350 for two :  Urban Estate, Patiala
+Mysha's Kitchen : - : North Indian, Chinese : ₹1,000 for two :  Model Town, Patiala
+Grill Hub : 3.9 : Italian, Sandwich, Wraps, Burger, Fast Food, Beverages : ₹400 for two :  Urban Estate, Patiala
+The Downtown Cafe : 3.6 : Cafe, Fast Food : ₹400 for two :  New Officers Colony, Patiala
+Ambala Special Chaat House : - : Street Food : ₹200 for two :  Ranjit Nagar, Patiala
+Aashirwad : 4.1 : Fast Food, Chinese, Beverages, Shake, Sichuan : ₹350 for two :  Nabha Gate, Patiala
+Thind Dairy : 3.9 : North Indian, Beverages : ₹100 for two :  Adalat Bazaar, Patiala
+Sizzling Grill : 3.8 : Beverages, Burger, Sandwich, Pasta, Fast Food : ₹300 for two :  Urban Estate, Patiala
+Hari Da Vaishnoo Dhaba : 3.8 : North Indian : ₹300 for two :  Lahori Gate, Patiala
+Ghar Ki Rasoi : 3.6 : North Indian : ₹100 for two :  Model Town, Patiala
+Sandeep Snacks & Kathi Roll : 3.9 : North Indian, Fast Food, Chinese : ₹400 for two :  Tripuri, Patiala
+Lamba Bakery : 3.2 : Bakery : ₹300 for two :  Lahori Gate, Patiala
+New Hotel Ranjit : 4.0 : North Indian, Mughlai, Fast Food, Chinese, Desserts : ₹700 for two :  Abchal Nagar, Patiala
+Pizza Hub : 3.3 : Fast Food, Pizza, Beverages : ₹350 for two :  Lahori Gate, Patiala
+Pizza Puff 67 : 3.7 : Pizza, Fast Food : ₹450 for two :  Model Town, Patiala
+Parkash Sweets : 3.6 : Mithai, Street Food, Desserts : ₹100 for two :  Adalat Bazaar, Patiala
+Patiala Bar And Restaurant : 3.4 : North Indian, Mughlai, Chinese, Desserts, Beverages : ₹800 for two :  Model Town, Patiala
+Proboscis : 4.0 : Fast Food, Burger, Wraps, Beverages : ₹450 for two :  Urban Estate, Patiala
+Dalhousie Food Point : 3.1 : North Indian : ₹400 for two :  Abchal Nagar, Patiala
+Sanjha Chulha : 4.0 : North Indian, Chinese, Fast Food : ₹300 for two :  Model Town, Patiala
+HeadQuarters Cafe : 3.9 : North Indian, Chinese : ₹900 for two :  Urban Estate, Patiala
+Shivo Juices : 3.9 : Beverages, Juices : ₹200 for two :  Adalat Bazaar, Patiala
+Hotel Al Kreem : 3.6 : Mughlai : ₹200 for two :  Lahori Gate, Patiala
+Mambo Italiano : - : Italian, Fast Food, Beverages : ₹400 for two :  New Officers Colony, Patiala
+Fresh Burger Cafe : 3.8 : Burger, Sandwich, Fast Food, Beverages : ₹300 for two :  Prem Nagar, Patiala
+Burger Bite : 3.7 : Pizza, Burger, Sandwich, Wraps, Desserts, Beverages : ₹300 for two :  New Officers Colony, Patiala
+R-Chef Family Restaurant : 3.6 : North Indian, Chinese, Fast Food, Beverages, Sichuan : ₹700 for two :  Urban Estate, Patiala
+Papa G Rasoi : 3.8 : North Indian, Fast Food, Chinese : ₹400 for two :  Urban Estate, Patiala
+Tampees : 3.9 : Fast Food, Beverages, North Indian : ₹500 for two :  Model Town, Patiala
+Burgh Bites : 3.9 : Fast Food, Beverages : ₹500 for two :  Model Town, Patiala
+Vegas 21 : 3.9 : Burger, Wraps, Fast Food, Street Food, Shake, Beverages : ₹250 for two :  Urban Estate, Patiala
+Food Darbar : 3.9 : North Indian, Chinese, Mughlai : ₹400 for two :  Prem Nagar, Patiala
+Godwin Hotel Vegetarian Restaurant : 3.7 : North Indian, Chinese, Continental, Fast Food, Beverages, Desserts : ₹300 for two :  Tripuri, Patiala
+2 States : 3.5 : North Indian, Fast Food, Street Food, South Indian : ₹250 for two :  New Officers Colony, Patiala
+Sehaj Fast Food : 2.8 : Fast Food, North Indian : ₹250 for two :  Tripuri, Patiala
+Swad : 3.7 : North Indian, Chinese, Biryani, Beverages : ₹200 for two :  Tripuri, Patiala
+Lifetime Nutrition Cafe : 3.9 : Healthy Food, Salad, Pasta, Wraps, Sandwich : ₹400 for two :  Gurbax Colony, Patiala
+ChaiMinati : 3.4 : Fast Food, Beverages, Sandwich : ₹300 for two :  Urban Estate, Patiala
+Rasoi Tadka : 3.8 : North Indian, Chinese, Biryani : ₹300 for two :  Prem Nagar, Patiala
+Klassic Dhaba : 3.7 : North Indian, Chinese, Fast Food : ₹200 for two :  Prem Nagar, Patiala
+Jungle Junction : 3.6 : Street Food, Sandwich, Fast Food, Beverages : ₹300 for two :  Tripuri, Patiala
+The Chimney : 3.6 : North Indian, Chinese : ₹400 for two :  Prem Nagar, Patiala
+Patiala Shakes & Snacks : 3.7 : Fast Food, Beverages, Shake : ₹300 for two :  Lahori Gate, Patiala
+Taste Hunt : 3.8 : Fast Food : ₹200 for two :  Urban Estate, Patiala
+Kaali Billi Shakes Expert : 3.5 : Beverages, Fast Food : ₹200 for two :  Tripuri, Patiala
+Mr. Delicious : 3.5 : Street Food : ₹150 for two :  Prem Nagar, Patiala
+Nanaksar Vaishno Dhaba : 3.3 : North Indian : ₹300 for two :  Lahori Gate, Patiala
+Rangeela Fast Food : 3.7 : North Indian, Fast Food : ₹300 for two :  Lahori Gate, Patiala
+Freshers Shakes & Snacks : 3.6 : Fast Food, Beverages, Shake : ₹250 for two :  Lahori Gate, Patiala
+Pizza House : 3.2 : Fast Food, Pizza : ₹150 for two :  Tripuri, Patiala
+Tandoori Flames : 3.5 : North Indian : ₹300 for two :  Tripuri, Patiala
+Jashan Restaurant : 3.5 : North Indian, Fast Food : ₹500 for two :  Prem Nagar, Patiala
+Southall Cafe & Lounge : - : Pizza, Burger, Fast Food, Waffle, Desserts, Shake, Beverages : ₹300 for two :  Model Town, Patiala
+Patiala Shahi Pakode : 3.2 : Fast Food, North Indian : ₹250 for two :  Abchal Nagar, Patiala
+Punjabi Rasoi Restaurant : 3.4 : North Indian : ₹200 for two :  Urban Estate, Patiala
+Route 22 Dhaba : 3.6 : North Indian : ₹300 for two :  Model Town, Patiala
+Hunger Jack's : 3.8 : Fast Food, Desserts, Beverages : ₹250 for two :  New Officers Colony, Patiala
+Cool'n Hot : 3.8 : Fast Food, Street Food, Beverages : ₹250 for two :  Prem Nagar, Patiala
+Super Chef Restaurant : 3.6 : Pizza, Sandwich, Chinese, Fast Food, North Indian, Mughlai, Desserts, Beverages : ₹400 for two :  Prem Nagar, Patiala
+The Chaap Master : 2.9 : Fast Food, North Indian : ₹250 for two :  Lahori Gate, Patiala
+Parivaar Dhaba : 3.9 : North Indian : ₹100 for two :  Lahori Gate, Patiala
+Gopal's : 3.7 : North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts, Beverages : ₹500 for two :  Nabha Gate, Patiala
+Highway Food Junction : 3.5 : North Indian, Chinese, Fast Food, Momos : ₹300 for two :  Urban Estate, Patiala
+La Pino'z Pizza : - : Pizza, Fast Food : ₹400 for two :  Tripuri, Patiala
+Super Chef : 3.5 : Fast Food, North Indian, Mughlai, Chinese, Pizza, Burger : ₹500 for two :  Prem Nagar, Patiala
+Ashu Dairy : 3.3 : Beverages : ₹100 for two :  Nabha, Patiala
+Mohan Chicken Wala : 3.2 : North Indian, Fast Food : ₹400 for two :  Prem Nagar, Patiala
+The Chicken Street : 3.1 : North Indian : ₹400 for two :  Prem Nagar, Patiala
+M M Family Restaurant : 3.3 : North Indian : ₹300 for two :  Tripuri, Patiala
+Spice Roof By Verma's : 4.4 : North Indian, Continental, Chinese, Bakery, Mithai, Beverages, Rolls, Wraps : ₹500 for two :  Urban Estate, Patiala
+Rolls Cafe : 3.4 : Rolls : ₹200 for two :  Adalat Bazaar, Patiala
+The Coffee Bar : 3.1 : Beverages, Fast Food : ₹150 for two :  Model Town, Patiala
+The Harbans Ice Cream And Snacks Bar : 2.6 : Chinese, Fast Food, North Indian, Beverages : ₹150 for two :  Model Town, Patiala
+Black Pepper Restaurant And Dhaba : 3.2 : North Indian, Fast Food, Street Food : ₹250 for two :  Urban Estate, Patiala
+Kitchenette 29 : 3.2 : Pizza, Burger, Fast Food, Beverages, Shake : ₹500 for two :  Model Town, Patiala
+Maan First Bite : 3.2 : Chinese, North Indian, Burger, Fast Food : ₹350 for two :  Lahori Gate, Patiala
+Deutschland Pizza Service : 2.8 : Pizza, Fast Food : ₹400 for two :  Urban Estate, Patiala
+Petu Pankaj : 3.2 : North Indian : ₹400 for two :  Model Town, Patiala
+Hungry Hub : 3.0 : Fast Food, Pizza, Beverages : ₹450 for two :  Sanaur, Patiala
+Tummy Full : 3.1 : Fast Food, North Indian : ₹250 for two :  Nabha Gate, Patiala
+Doner & Gyros - Salad , Shawarma & Falafel House : - : Lebanese, Middle Eastern, Greek, Fast Food, Beverages : ₹500 for two :  Model Town, Patiala
+Top Notch Pub : 2.8 : North Indian, Mughlai, Fast Food, Continental, Beverages, Desserts : ₹700 for two :  Omaxe Mall, Lahori Gate, Patiala
+King Chat : 2.6 : Street Food, South Indian : ₹200 for two :  Urban Estate, Patiala
+Patiala Shahi Lassi : 3.8 : Beverages, Juices, Desserts, Fast Food, Shake : ₹150 for two :  Nabha Gate, Patiala
+Ashoka's Juice Bar : 3.4 : Juices, Shake, Beverages : ₹250 for two :  New Officers Colony, Patiala
+Bhangu Chicken And Fish Corner : - : North Indian, Street Food : ₹300 for two :  Prem Nagar, Patiala
+Vatsa Food Factory : 2.8 : Pasta, Wraps, Burger, Pizza, Hot dogs, Chinese, Sandwich, Shake : ₹400 for two :  Urban Estate, Patiala
+The Tasty Pav Bhaji : 2.9 : Street Food : ₹200 for two :  Prem Nagar, Patiala
+Ambala Chaat World : - : North Indian, Chinese, Street Food : ₹200 for two :  Model Town, Patiala
+Food Jail : - : North Indian, Chinese, Mughlai, Seafood, Biryani, Fast Food, Shake, Beverages : ₹1,100 for two :  Lahori Gate, Patiala
+Deepak Veg Chaap : - : North Indian, Fast Food : ₹400 for two :  Adalat Bazaar, Patiala
+Chinese Food : - : Fast Food : ₹200 for two :  Tripuri, Patiala
+Prabhu Ji Chhole Bhature : 4.1 : North Indian : ₹150 for two :  Leela Bhavan, Model Town, Patiala
+Manchanda Sweets & Restaurants : 4.0 : South Indian, Burger, Fast Food, Chinese, Mithai, North Indian, Beverages, Desserts : ₹500 for two :  Model Town, Patiala
+Santa Di Hatti : 4.5 : Street Food, Mithai, Desserts : ₹200 for two :  Model Town, Patiala
+Snakkers : 3.9 : Fast Food, Pizza, Burger, Wraps, Shake, Beverages : ₹800 for two :  Model Town, Patiala
+PB11 Tandoori Adda : - : North Indian, Momos, Fast Food : ₹200 for two :  Tripuri, Patiala
+Krisperio : New : Pizza, Chinese, Sandwich, Wraps, Momos, Pasta, Fast Food, Shake : ₹300 for two :  Urban Estate, Patiala
+Chicken Adda : - : North Indian, Mughlai, Chinese, Fast Food, Street Food, Shake : ₹500 for two :  Model Town, Patiala
+The Brooks Central : 3.9 : Sandwich, Salad, Continental, Italian, Desserts, North Indian, Beverages, Pizza : ₹650 for two :  New Officers Colony, Patiala
+Shahi Juice & Shakes : 3.9 : Beverages, Juices : ₹100 for two :  Nabha Gate, Patiala
+Ravi Tikki Wala : 3.3 : South Indian, Chinese, Street Food, Fast Food : ₹200 for two :  Prem Nagar, Patiala
+Santa Di Hatti : 4.2 : Street Food : ₹200 for two :  Tripuri, Patiala
+Juice Masters : - : Juices, Fast Food, Sandwich, Wraps, Street Food, Shake, Beverages : ₹400 for two :  Model Town, Patiala
+Samrat Fish Shop : - : North Indian, Roast Chicken, Seafood : ₹600 for two :  Model Town, Patiala
+Haveli Hotel & Restaurant : - : North Indian : ₹500 for two :  Nabha, Patiala
+Neelgiri Food And Tiffen Services : 3.0 : North Indian, Street Food : ₹300 for two :  Lahori Gate, Patiala
+Mohan Murga : 2.9 : North Indian, Mughlai : ₹500 for two :  Model Town, Patiala
+R. K. Samosa House : 3.8 : Street Food : ₹150 for two :  Tripuri, Patiala
+The Royal Cuisine : - : North Indian, Continental, Pizza : ₹650 for two :  New Officers Colony, Patiala
+Hotel Prince Palace : - : North Indian, Chinese, Fast Food, Pizza, Shake, Beverages, Desserts : ₹1,300 for two :  Lahori Gate, Patiala
+Khan Shama Dhaba : - : Biryani, North Indian, Mughlai : ₹400 for two :  Lahori Gate, Patiala
+X Chinese : - : Chinese, Fast Food : ₹200 for two :  Ranjit Nagar, Patiala
+Perfetto Pizza Plus : - : Pizza, Italian, Fast Food, Burger, Sandwich, Salad, Shake, Beverages : ₹450 for two :  Tripuri, Patiala
+Wahi's Veg & Non - Veg Restaurant : New : North Indian, Chinese, Rolls, Biryani, Momos : ₹600 for two :  Nabha Gate, Patiala
+Eat O Pio : 3.9 : Street Food, Coffee, Burger, Tea, Fast Food, Wraps : ₹250 for two :  Urban Estate, Patiala
+Charanjeet Food Point : 4.0 : North Indian : ₹200 for two :  Tripuri, Patiala
+Pritam De Mashoor Pakode : 4.0 : Street Food : ₹200 for two :  Tripuri, Patiala
+Mota Halwai Pehalwans : 3.9 : Mithai, Street Food : ₹300 for two :  Lahori Gate, Patiala
+Malhotras Tandoor : 3.5 : Chinese, North Indian, Fast Food, Beverages : ₹400 for two :  Gurbax Colony, Patiala
+Bella Bistro Inn : New : Cafe, Coffee, Sandwich, Fast Food, Burger, Pizza, Shake, Beverages : ₹450 for two :  Urban Estate, Patiala
+Apna Chai Wala : - : Fast Food, Street Food, North Indian, Beverages : ₹250 for two :  Model Town, Patiala
+Snakkers : New : Pizza, Burger, Sandwich, Fast Food, Shake : ₹450 for two :  Urban Estate, Patiala
+Mr. Shawarma : 3.9 : North Indian, Chinese, Fast Food, Seafood, Rolls : ₹500 for two :  Urban Estate, Patiala
+Sardar Ji Soya Chaap Wale : 3.7 : North Indian : ₹200 for two :  Adalat Bazaar, Patiala
+Minna Paratha House : 3.5 : North Indian : ₹150 for two :  Lahori Gate, Patiala
+Pizza Plaza : 2.5 : Pizza, South Indian, Burger, Sandwich, Fast Food, Street Food : ₹300 for two :  Adalat Bazaar, Patiala
+Sunder Chat : 3.9 : Street Food, Beverages : ₹200 for two :  Urban Estate, Patiala
+Xtreme Nutrition Cafe : 3.9 : Healthy Food, Fast Food, Pasta, Burger, Sandwich, North Indian, Chinese : ₹400 for two :  Model Town, Patiala
+Aussie Kitchen : 4.0 : Salad, Pizza, Italian, Burger, Sandwich, Rolls, Wraps, Beverages : ₹500 for two :  New Officers Colony, Patiala
+Shyam Kulcha : 3.4 : Street Food : ₹100 for two :  Tripuri, Patiala
+Delhi Sehaj Dhaba : 3.8 : North Indian : ₹200 for two :  Prem Nagar, Patiala
+New Harbans Icecream & Sons : 3.2 : Ice Cream, Fast Food, Beverages : ₹300 for two :  Abchal Nagar, Patiala
+Cafe Clove : 3.9 : Beverages, Fast Food, Bakery, Street Food, Pizza, Burger : ₹350 for two :  Prem Nagar, Patiala
+Preet Fast Food : 3.5 : Fast Food : ₹150 for two :  Abchal Nagar, Patiala
+Shyam Vegetarian : 3.7 : North Indian : ₹200 for two :  Adalat Bazaar, Patiala
+Food Slice : 3.5 : Pizza, Burger, Sandwich, Fast Food, Beverages : ₹350 for two :  Ranjit Nagar, Patiala
+The Godfather Style : 3.9 : North Indian, Chinese, Fast Food : ₹500 for two :  Urban Estate, Patiala
+Sip N Spills : 3.7 : Fast Food, Beverages, Continental, Pizza : ₹800 for two :  Model Town, Patiala
+Royal Nutrition House : - : Healthy Food, North Indian, Italian, Burger, Sandwich, Pasta, Salad, Beverages : ₹500 for two :  Urban Estate, Patiala
+Pehalwan Sweets And Bakery : 3.2 : North Indian, Mithai, Bakery : ₹200 for two :  Gurbax Colony, Patiala
+Bachans Amritsari Kulche Chole : 3.9 : Street Food, North Indian : ₹200 for two :  Adalat Bazaar, Patiala
+Saini Food Point : 3.6 : Street Food, Beverages : ₹300 for two :  Abchal Nagar, Patiala
+Pammi Ice Cream : 3.8 : Ice Cream, Beverages : ₹200 for two :  Adalat Bazaar, Patiala
+Bolton Pizza & Burger : - : Fast Food, Pizza, Burger, Healthy Food, Beverages : ₹500 for two :  Model Town, Patiala
+The Salad Studio : - : Healthy Food, Salad, Wraps : ₹300 for two :  Model Town, Patiala
+Ambala Chaat : New : Street Food : ₹200 for two :  Model Town, Patiala
+The Chauhan's Fast Food : - : North Indian, Chinese, Fast Food, Street Food : ₹250 for two :  Model Town, Patiala
+New Kohli Sweets : New : Mithai, Chinese, Street Food : ₹250 for two :  Model Town, Patiala
+Take It Chessy : - : Pizza, Wraps, Fast Food, Momos, Chinese, Shake, Beverages : ₹300 for two :  Lahori Gate, Patiala
+Cravings Bakery : 3.5 : Bakery, Fast Food, Pizza, Pasta, Beverages : ₹400 for two :  Patiala Cantt, Patiala
+Tasty Square : 3.8 : North Indian, Fast Food, Chinese, Beverages : ₹500 for two :  Prem Nagar, Patiala
+Hotel Harbans Residency : 3.2 : North Indian, Chinese, Continental : ₹500 for two :  Model Town, Patiala
+PFC Frozen Chick : 3.4 : North Indian, Fast Food : ₹200 for two :  Model Town, Patiala
+Ambala Special Bindra Chaat Bhandar : 3.7 : Street Food : ₹100 for two :  Nabha Gate, Patiala
+Balle Balle Chaap : 3.9 : North Indian, Chinese : ₹350 for two :  Adalat Bazaar, Patiala
+Khalsa Bakers : 3.6 : Fast Food, Chinese, Sandwich, Beverages : ₹200 for two :  Model Town, Patiala
+Thind Dhaba : 3.4 : North Indian : ₹150 for two :  Adalat Bazaar, Patiala
+Super Panda : 3.2 : Pizza, Burger, Italian, Beverages, Sandwich : ₹500 for two :  Model Town, Patiala
+Shakes And Snacks Paradise : 3.2 : Fast Food, Burger, Beverages : ₹250 for two :  Gurbax Colony, Patiala
+Burger Hut : 3.4 : North Indian, Fast Food, Burger : ₹400 for two :  Urban Estate, Patiala
+The Juicy Hut : 3.2 : Beverages, Juices, Shake : ₹100 for two :  Sanaur, Patiala
+Ambala Chat House : - : Street Food : ₹150 for two :  Adalat Bazaar, Patiala
+Buns & Bites : 3.4 : Chinese, Burger, Fast Food, Shake : ₹300 for two :  New Officers Colony, Patiala
+American Pizza : - : Pizza, Burger, Sandwich, Pasta, Fast Food, Shake, Beverages : ₹300 for two :  Urban Estate, Patiala
+Bawa Gian Da Dhaba : - : Street Food, North Indian : ₹200 for two :  Nabha Gate, Patiala
+La Pino'z Pizza : 3.6 : Pizza, Pasta, Italian, Fast Food : ₹400 for two :  Nabha, Patiala
+Katani Vaishno Dhaba : 3.4 : North Indian, Chinese : ₹500 for two :  Nabha, Patiala
+Oasis Restro Bar : - : North Indian : ₹1,000 for two :  Ranjit Nagar, Patiala
+VIP Pizza : 4.0 : Pizza, Fast Food, Burger : ₹250 for two :  Nabha, Patiala
+Sahni Bakery Sweets Restaurant : 3.7 : Bakery, South Indian, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹500 for two :  Nabha, Patiala
+Burger Bar : 4.1 : Fast Food, Sandwich, Desserts, Burger, Beverages : ₹250 for two :  Nabha, Patiala
+Subway : 3.6 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Nabha, Patiala
+Rimjhim Sweets : - : Mithai, Desserts : ₹200 for two :  Sanaur, Patiala
+The Dessert Club : - : Ice Cream, Desserts, Beverages, Fast Food, Street Food : ₹300 for two :  Nabha, Patiala
+Moti Mahal Delux : 3.7 : North Indian, Chinese, Mughlai : ₹800 for two :  Nabha, Patiala
+Khalsa Fast Food : 3.8 : Fast Food, Chinese : ₹150 for two :  Nabha, Patiala
+Baker Huts : 2.9 : Fast Food, Bakery, Desserts, Pizza, Burger : ₹200 for two :  Nabha, Patiala
+Ruffians Restaurant & Bar : 3.5 : North Indian, Chinese, Fast Food : ₹900 for two :  Nabha, Patiala
+R.K. Sweets And Bakery : 3.5 : Mithai, North Indian, South Indian, Fast Food, Chinese, Street Food, Desserts, Beverages : ₹300 for two :  Urban Estate, Patiala
+New Chinese Tadka : - : Chinese, North Indian, Desserts, Beverages : ₹500 for two :  Nabha, Patiala
+Singh Sons : 4.1 : Fast Food, Pizza, Burger, Sandwich, Beverages : ₹400 for two :  Nabha, Patiala
+Pizza O’ Clock : - : Pizza, Burger, Wraps, Fast Food, Shake : ₹250 for two :  Patiala Cantt, Patiala
+City Heart Hotel & Restaurant : 4.1 : North Indian, Continental, Chinese, Beverages : ₹600 for two :  Nabha, Patiala
+Canadian Pizza : 3.7 : Pizza, Fast Food, Beverages : ₹350 for two :  Nabha, Patiala
+Chetan Restaurant and Milk Dairy : 4.0 : Street Food, Mithai : ₹200 for two :  Nabha, Patiala
+Deepak Restaurant : 4.1 : North Indian, Chinese, Biryani, Beverages : ₹250 for two :  Nabha, Patiala
+Royal Meals : 3.6 : Burger, Wraps, Sandwich, Salad : ₹200 for two :  Nabha, Patiala
+Chaat Ka Chaska : 3.7 : Street Food, Fast Food, Chinese, South Indian : ₹400 for two :  Nabha, Patiala
+Crunchil : - : Pizza, Burger, Wraps, Fast Food, Desserts, Shake, Beverages : ₹500 for two :  Nabha, Patiala
+PFC - 34 : 3.1 : South Indian, Fast Food, Chinese, Burger, Beverages : ₹350 for two :  Nabha, Patiala
+Soya Town : 3.7 : Street Food, North Indian : ₹250 for two :  Nabha, Patiala
+Hotel Krishna : 3.1 : North Indian, Fast Food, Desserts, Beverages : ₹250 for two :  Nabha, Patiala
+Khalsa Soya Vaishno Chaap : 3.6 : North Indian : ₹200 for two :  Nabha, Patiala
+Spill The Beans : - : Fast Food, Pizza, Pasta, Salad : ₹350 for two :  Nabha, Patiala
+Krishan Naan Chola & Bhatura : 3.6 : North Indian : ₹150 for two :  Nabha, Patiala
+Kaka Fish Shop : 3.8 : North Indian : ₹300 for two :  Nabha, Patiala
+Hunger For Pizza : 3.2 : Pizza, Fast Food, Beverages : ₹400 for two :  Nabha, Patiala
+Sukoon Cafe : 3.3 : Fast Food, Sandwich, Burger, Beverages, Shake : ₹200 for two :  Nabha, Patiala
+Chilly Flakes : 3.1 : North Indian, Roast Chicken : ₹400 for two :  Nabha, Patiala
+Arora Sweets And Bakery : 3.7 : South Indian, Chinese, Street Food, Desserts : ₹350 for two :  Nabha, Patiala
+Arora Sweets And Bakery : 3.7 : South Indian, Chinese, Street Food, Desserts : ₹350 for two :  Nabha, Patiala
+Walia Vaishnu Dhaba : 2.7 : North Indian : ₹200 for two :  Nabha, Patiala
+X Burger : - : Burger, Fast Food : ₹250 for two :  Nabha, Patiala
+2nd Wife Hut : - : Pizza, Burger, Fast Food, Salad, Street Food, Shake, Beverages : ₹300 for two :  Nabha, Patiala
+Krishan's Ice cream : 3.8 : Ice Cream, Beverages : ₹200 for two :  Nabha, Patiala
+Shiv Chat Bhandar : 3.8 : Street Food : ₹150 for two :  Nabha, Patiala
+Kirat Breakfast Point : 3.8 : North Indian, Street Food : ₹150 for two :  Nabha, Patiala
+Cento Cafe : - : Fast Food, Pizza, Burger, Sandwich, Wraps, Shake, Beverages : ₹450 for two :  Nabha, Patiala
+Hamlet : - : North Indian, Chinese, Mughlai, Biryani, Salad, Desserts, Beverages : ₹1,900 for two :  Patiala Cantt, Patiala
+X Burger : New : Burger, Pizza, Sandwich, Pasta, Fast Food, Shake, Beverages : ₹250 for two :  Nabha, Patiala
+Punjab Chicken Centre : 3.2 : North Indian, Mughlai : ₹450 for two :  Urban Estate, Patiala
+American Cafe : - : Fast Food, Pizza, Beverages : ₹300 for two :  Nabha, Patiala

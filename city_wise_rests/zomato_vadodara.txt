@@ -1,0 +1,453 @@
+Wok On Fire : 4.0 : Chinese, Thai, Asian, Momos, Beverages : ₹1,000 for two :  Diwalipura, Vadodara
+Lollo Rosso : 3.5 : Italian, Sushi, Mexican, North Indian, Sandwich, Chinese, Beverages, Desserts : ₹2,200 for two :  Nizampura, Vadodara
+Spice Kraft Restaurant : 4.5 : North Indian, Chinese, Asian, Pizza, Pasta, Continental, Desserts, Beverages : ₹1,600 for two :  Alkapuri, Vadodara
+Kake Di Hatti : 4.1 : North Indian : ₹1,000 for two :  Vadiwadi, Vadodara
+Pind Di Gali - Taste Of Punjab : 4.4 : North Indian, Biryani, Desserts, Beverages : ₹1,000 for two :  Bhayli, Vadodara
+Pind Balluchi : 4.2 : North Indian, Mughlai, Biryani, Desserts : ₹600 for two :  Bhayli, Vadodara
+Barbeque Nation : 4.5 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,850 for two :  Vadiwadi, Vadodara
+Nini's Kitchen : 4.6 : North Indian, Chinese, Italian, Shawarma, Salad, Biryani, Desserts, Beverages : ₹1,700 for two :  Vadiwadi, Vadodara
+Old School Eatery : 4.7 : North Indian, Biryani, Pizza, Sandwich, Chinese, Desserts, Beverages : ₹1,200 for two :  Alkapuri, Vadodara
+Little Italy : 4.3 : Italian, Pizza, Pasta, Continental, Desserts, Healthy Food, Beverages : ₹1,500 for two :  Akota, Vadodara
+Jassi De Parathe : 4.5 : North Indian, Kebab, Desserts, Beverages : ₹1,000 for two :  Alkapuri, Vadodara
+Koa Cafe : 3.4 : Cafe, Coffee, Tea, Shake, Beverages, Fast Food, Desserts : ₹800 for two :  Bhayli, Vadodara
+Teal - Fairfield By Marriott : 4.0 : North Indian, South Indian, Biryani, Desserts, Chinese, Pizza, Fast Food, Shake : ₹2,000 for two :  Fairfield by Marriott Vadodara, Vadodara
+Le Privé : 4.9 : North Indian, Kebab, Biryani, Continental, Italian, Asian, Desserts, Beverages : ₹1,000 for two :  Alkapuri, Vadodara
+Cafe Bengaluru : 4.0 : South Indian, Juices, Beverages : ₹400 for two :  Alkapuri, Vadodara
+Pizzawala's : 3.8 : Pizza, Italian : ₹800 for two :  Alkapuri, Vadodara
+Fressia : New : North Indian, Fast Food, Chinese, Street Food : ₹1,000 for two :  Bhayli, Vadodara
+Kareem's : 4.2 : North Indian, Mughlai, Biryani, Kebab, Seafood, Rolls, Chinese : ₹1,200 for two :  Vadiwadi, Vadodara
+Rasa - Four Points By Sheraton : 4.4 : North Indian, Chinese, Continental, Biryani, Fast Food, Desserts, Tea, Beverages : ₹2,000 for two :  Four Points by Sheraton Vadodara, Vadodara
+Lark Kitchen- Regenta Fairlark : 3.9 : North Indian, South Indian, Mughlai, Continental, Italian, Oriental, Desserts, Beverages : ₹1,400 for two :  Bhayli, Vadodara
+Cafe Fitoor : 4.9 : Cafe, Continental, Pasta, Wraps, Sandwich, North Indian, Biryani, Beverages : ₹1,500 for two :  Vadiwadi, Vadodara
+Tomato's : 4.1 : North Indian, Mughlai, Mexican, Thai, Pizza, Salad, Chinese, Asian : ₹1,200 for two :  Alkapuri, Vadodara
+Tara Suns Boutique Hotel : 4.2 : North Indian, Chinese, Asian, Italian, Biryani, Fast Food, Desserts, Beverages : ₹1,500 for two :  Gotri, Vadodara
+Moti Mahal : 4.5 : North Indian, Chinese, Shake, Beverages : ₹1,200 for two :  Vadiwadi, Vadodara
+La Benito : 4.2 : Italian, Mexican, Continental, Lebanese, Salad, Desserts, Juices, Beverages : ₹1,500 for two :  Vadiwadi, Vadodara
+Artistry Cafe : New : Cafe, Coffee, Fast Food : ₹300 for two :  Gotri, Vadodara
+Zing by Hyatt Place : 4.1 : Asian, Italian, Continental, Sandwich, Burger, Chinese, Desserts, Beverages : ₹2,000 for two :  Hyatt Place Bhayli, Vadodara
+Azure - Grand Mercure Vadodara Surya Palace : 4.3 : North Indian, Mughlai, South Indian, Continental, Chinese, Oriental, Desserts, Beverages : ₹3,500 for two :  Grand Mercure Vadodara Surya Palace - Sayajigunj, Vadodara
+Munchane : 3.9 : Pizza, Fast Food : ₹1,000 for two :  Bhayli, Vadodara
+Tea Post : 3.8 : Tea, Coffee, Shake, Beverages, Sandwich, Fast Food, Street Food : ₹300 for two :  Gotri, Vadodara
+Sizzante - Sizzlers & More : 4.0 : Asian, Sandwich, Pizza, Burger, Pasta, Continental, Coffee, Beverages : ₹1,100 for two :  Alkapuri, Vadodara
+POCA -  The Global Dining : 3.6 : Mexican, Pizza, Pasta, Italian, Salad, Continental, Desserts, Beverages : ₹1,200 for two :  Bhayli, Vadodara
+Mirch Masala : 4.0 : North Indian, Mughlai, Kebab, Biryani, Beverages : ₹1,400 for two :  Alkapuri, Vadodara
+Bento B : 3.9 : Japanese, Sushi, Beverages : ₹1,000 for two :  Nizampura, Vadodara
+The Secret Kitchen : 4.0 : Modern Indian : ₹1,000 for two :  Alkapuri, Vadodara
+Thyme & Whisk : 4.0 : Continental, Salad, Mexican, Italian, Asian, Oriental, Desserts, Beverages : ₹1,400 for two :  Vadiwadi, Vadodara
+The Bombay Kitchn & Sanjha Chula : 4.0 : North Indian, Mughlai, Chinese, Malwani, Seafood, Kebab, Biryani, Desserts : ₹1,100 for two :  Gotri, Vadodara
+Mad Over Grills : 4.2 : BBQ, North Indian, Fast Food, Desserts : ₹1,000 for two :  Manjalpur, Vadodara
+Seven Herbs : 4.8 : Mexican, Italian : ₹1,000 for two :  Bhayli, Vadodara
+Stellar Kitchen : 3.9 : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Karelibaug, Vadodara
+RD's Infusion Global Veg Kitchen : 4.2 : North Indian, Chinese, Fast Food, Beverages : ₹1,000 for two :  Akota, Vadodara
+Maharaja Thal : 3.5 : North Indian, Gujarati : ₹600 for two :  Subhanpura, Vadodara
+Social Affair : 4.3 : Salad, Continental, Mexican, Chinese, Italian, North Indian, Desserts, Beverages : ₹1,500 for two :  Vadiwadi, Vadodara
+Retro Bistro : 4.9 : North Indian, Biryani, Pasta, Continental, Italian, Asian, Desserts, Beverages : ₹1,200 for two :  Vadiwadi, Vadodara
+Lord Petrick Burger & Coffee : 3.9 : Burger, Coffee, Cafe, Fast Food, Beverages, Shake : ₹600 for two :  Vadiwadi, Vadodara
+Art Of Kitchen : 3.5 : North Indian, Chinese, Biryani : ₹500 for two :  Sama, Vadodara
+The Brewery : - : Pizza, Mughlai, Fast Food, Rolls, Coffee, Juices, Shake, Beverages : ₹500 for two :  Gorwa, Vadodara
+Taco Bell : 3.1 : Mexican, Wraps : ₹500 for two :  Alkapuri, Vadodara
+Amaya - Fern Residency : 4.2 : Gujarati, North Indian, Mughlai, South Indian, Asian, Continental, Desserts, Beverages : ₹1,200 for two :  Sayajigunj, Vadodara
+Husaini Food Hub : 3.8 : Biryani, North Indian : ₹350 for two :  Sayajipura, Vadodara
+Maratha Katta : 4.2 : Maharashtrian, North Indian, Biryani : ₹500 for two :  Alkapuri, Vadodara
+Curators Coffee : 4.6 : Cafe, Coffee, Beverages, Continental, Desserts : ₹600 for two :  Alkapuri, Vadodara
+The House Of Earthmonk : 3.2 : Cafe, Asian, Pizza, Pasta, Italian, Continental, Thai, Salad : ₹1,000 for two :  Bhayli, Vadodara
+The Table At Splatter : 4.3 : Cafe, Coffee, Shake, Beverages, Pizza, Pasta, Continental : ₹700 for two :  Alkapuri, Vadodara
+Sasumaa Gujarati Thali : 4.2 : Gujarati : ₹350 for two :  Alkapuri, Vadodara
+Kareems Kitchen : 4.3 : North Indian, Mughlai, Seafood, Kebab, Rolls, Biryani : ₹1,400 for two :  Bhayli, Vadodara
+Peshawri - Welcomhotel By ITC Hotels : 4.5 : North Indian, Mughlai, Kebab, Fast Food, Desserts : ₹1,800 for two :  Welcomhotel By ITC Hotels, Alkapuri, Vadodara
+Chicago Pizza : 3.5 : Pizza, Pasta, Fast Food, Beverages : ₹500 for two :  Bhayli, Vadodara
+Grill Kitchen : 3.8 : North Indian, Fast Food : ₹800 for two :  Manjalpur, Vadodara
+Zeste - The Fern : 4.2 : Biryani, Continental, Mughlai, Fast Food, North Indian, Chinese, Desserts, Beverages : ₹1,000 for two :  Akota, Vadodara
+Italian Affair : 4.1 : Italian, Salad, Pizza, Pasta, Desserts, Juices, Beverages : ₹1,000 for two :  Alkapuri, Vadodara
+Spark Food Variety : New : South Indian, Street Food : ₹200 for two :  Panchvati, Vadodara
+Kai Asia - Vivanta Vadodara : 4.2 : Asian, Thai, Chinese : ₹1,400 for two :  Vivanta Vadodara, Akota, Vadodara
+812 CE - Courtyard By Marriott : 4.0 : North Indian, South Indian, Mughlai, Gujarati, Continental, Beverages, Desserts : ₹1,800 for two :  Courtyard By Marriott Alkapuri, Vadodara
+The Stuff Kitchen : 4.3 : North Indian : ₹850 for two :  Karelibaug, Vadodara
+The Tulip Touch Cafe : 3.6 : Cafe, Coffee, Tea, Beverages, Pizza, Pasta, Continental, Mexican : ₹700 for two :  Akota, Vadodara
+Sayaji's Home Delivery - Kalaghoda : 4.3 : North Indian, Mughlai, Chinese, Kebab, Biryani : ₹1,200 for two :  Sayaji Hotel, Sayajiganj, Vadodara
+Pizzonia Pizza : 3.5 : Pizza, Italian, Fast Food, Chinese, Beverages : ₹500 for two :  Manjalpur, Vadodara
+Hong Kong Chinese Food : 3.9 : Chinese, Sichuan : ₹200 for two :  Sama, Vadodara
+Maa Anjani Pav Bhaji Center : 3.4 : Fast Food : ₹600 for two :  Diwalipura, Vadodara
+Vibes - The Bistro : 4.4 : Pizza, Sandwich, Pasta, Burger, Italian, Mexican, Continental, Desserts : ₹1,000 for two :  Diwalipura, Vadodara
+La Milano Pizzeria : 3.8 : Pizza, Pasta, Italian, American, Mexican, Desserts, Beverages, Fast Food : ₹500 for two :  Nizampura, Vadodara
+Premvati : 4.4 : Gujarati, South Indian, North Indian, Chinese, Fast Food, Street Food : ₹300 for two :  Akota, Vadodara
+Om Cafe : New : Sandwich, Fast Food, Street Food, Tea, Coffee, Beverages : ₹250 for two :  Kendranagar, Vadodara
+Finca Restro Cafe : 3.2 : Cafe, Coffee, Beverages, Continental, Italian, North Indian, Asian, Desserts : ₹1,000 for two :  Bhayli, Vadodara
+Domino's Pizza : 3.9 : Pizza, Fast Food : ₹550 for two :  Kendranagar, Vadodara
+Shiv Shakti Cafe : 3.4 : Chinese, South Indian, North Indian, Beverages : ₹350 for two :  Madhavpura, Vadodara
+Spice Nation : 4.1 : North Indian, Chinese, Continental : ₹1,000 for two :  Makarpura, Vadodara
+The Barbeque Grill : 3.7 : BBQ, North Indian, Chinese : ₹1,000 for two :  Centre Square Mall, Alkapuri, Vadodara
+Fiorella - Hotel Express Residency : 4.9 : Italian, Pizza, Desserts, Beverages, Shake : ₹1,500 for two :  Hotel Express Residency, Alkapuri, Vadodara
+Pizza Hut : 3.5 : Pizza, Fast Food, Desserts, Beverages : ₹500 for two :  Akota, Vadodara
+MMV - Mumbaiya Misal & Vadapav : 3.9 : Street Food, Fast Food, Shake, Beverages : ₹200 for two :  Fatehgunj, Vadodara
+Anjoy The Family Restaurant : 3.8 : North Indian, Chinese, Continental, Pizza, Salad, Biryani, Shake, Coffee : ₹1,200 for two :  Alkapuri, Vadodara
+Tru Kitchen : 4.2 : North Indian, Italian, Mexican, Asian, Desserts, Beverages : ₹1,000 for two :  Akota, Vadodara
+Tandur By Old School : 3.1 : North Indian, Street Food, Desserts : ₹600 for two :  Diwalipura, Vadodara
+The Dhaba : 4.6 : North Indian, Biryani : ₹1,000 for two :  Alkapuri, Vadodara
+Tandoori Spice : 4.2 : North Indian, Mughlai : ₹1,000 for two :  Manjalpur, Vadodara
+Chai Baithak : 3.4 : Tea, Shake, Beverages, Pizza, Sandwich, Burger, Fast Food, Street Food : ₹300 for two :  Manjalpur, Vadodara
+Saffron : 3.2 : North Indian, Chinese, Ice Cream, Beverages : ₹1,000 for two :  Vadiwadi, Vadodara
+Sky Dine : 3.5 : North Indian, Chinese, Asian, Italian, Continental, Desserts : ₹1,200 for two :  Diwalipura, Vadodara
+Kansaar Gujarati Thali : 4.0 : Gujarati : ₹1,000 for two :  Sayajigunj, Vadodara
+22nd Parallel : 4.6 : South Indian, Beverages : ₹800 for two :  Alkapuri, Vadodara
+Cafe Brewito : 3.9 : Cafe, North Indian, Sandwich, Pizza, Pasta, Fast Food, Desserts, Beverages : ₹700 for two :  Sama, Vadodara
+HanuRam Foods : 2.9 : North Indian, Mithai, Street Food, Beverages : ₹350 for two :  Alkapuri, Vadodara
+Varie Tea : 4.5 : Cafe, Coffee, Tea, Beverages, Pizza, Italian, Continental, Mexican : ₹700 for two :  Alkapuri, Vadodara
+Mandap - Hotel Express Towers : 4.0 : Gujarati, North Indian, Oriental, Continental : ₹1,000 for two :  Hotel Express Towers, Alkapuri, Vadodara
+The Big Mouth Co. : 3.9 : Mexican : ₹500 for two :  Bhayli, Vadodara
+Sky Roof Restaurant & Cafe : 3.6 : North Indian, Chinese, Biryani, Beverages : ₹850 for two :  Makarpura, Vadodara
+Dilly's Veg Kitchen : 3.9 : North Indian, Biryani, Chinese, Pizza, Italian, Coffee, Beverages : ₹1,000 for two :  Gotri, Vadodara
+Moti Mahal Delux : 3.5 : North Indian, Chinese, Biryani : ₹1,000 for two :  Gotri, Vadodara
+Shree Kathiyawadi Khadki : 4.2 : Kathiyawadi, Gujarati, North Indian : ₹700 for two :  Mandvi, Vadodara
+Cafe Madrid : 4.2 : Cafe, Coffee, Pizza, Sandwich, Fast Food, Desserts, Tea, Shake : ₹600 for two :  Diwalipura, Vadodara
+Gusto's Pizzafe : 2.5 : Pizza, Italian : ₹1,000 for two :  Manjalpur, Vadodara
+Picaso - The Master Chef : 2.8 : Pizza : ₹1,000 for two :  Akota, Vadodara
+The Glass House - Eastin : 4.1 : Gujarati, North Indian, Mughlai, Biryani, Seafood, Continental, Asian, Desserts : ₹1,700 for two :  Alkapuri, Vadodara
+Zuma - Hampton By Hilton : 3.8 : North Indian, Mughlai, Seafood, Chinese, Asian, Beverages : ₹1,200 for two :  Double Tree by Hilton Alkapuri, Vadodara
+Pinxx - Royal Orchid Central : 3.7 : North Indian, Continental, Chinese, Seafood, Desserts, Beverages : ₹1,200 for two :  Akota, Vadodara
+Bendys Kitchen : 4.7 : Biryani, North Indian, Mughlai : ₹1,000 for two :  Gotri, Vadodara
+Indian Salt : 4.4 : North Indian, Chinese, Pizza, Biryani, Continental, Fast Food, Beverages, Desserts : ₹800 for two :  L&T Knowledge City, Vadodara
+The BBQ Company : - : BBQ, North Indian, Chinese, Fast Food, Salad, Desserts : ₹1,000 for two :  Bhayli, Vadodara
+Cafe Amistoso : 3.9 : Cafe, Fast Food : ₹500 for two :  Bhayli, Vadodara
+Crush Coffee : 3.9 : Cafe, Coffee : ₹400 for two :  Gotri, Vadodara
+Craveyard - The Restro Cafe : - : Continental, Salad, Beverages : ₹1,200 for two :  Bhayli, Vadodara
+Roasted Onion Multi Cuisine Restaurant : 4.1 : North Indian, Mughlai, Biryani, Chinese, Asian, Continental, Desserts, Beverages : ₹1,000 for two :  Kendranagar, Vadodara
+Shetty's Kitchen : 3.9 : South Indian, Juices, Beverages : ₹300 for two :  Bhayli, Vadodara
+McDonald's : 4.0 : Burger, Fast Food, Cafe : ₹500 for two :  Seven Seas Mall, Fatehgunj, Vadodara
+De Courtyard : 4.1 : North Indian, Biryani, Chinese, Continental : ₹1,000 for two :  Akota, Vadodara
+The Spot : 4.1 : Burger, Fast Food : ₹200 for two :  Mandvi, Vadodara
+Charmant - The Heritage Café : 4.5 : Cafe, Coffee, Pizza, Pasta, Sandwich, Fast Food, Desserts, Beverages : ₹800 for two :  Alkapuri, Vadodara
+The Blue Oven : 4.3 : Pizza, Italian, Coffee, Beverages : ₹1,000 for two :  Vadiwadi, Vadodara
+KFC : 4.1 : Burger, Fast Food, Rolls : ₹450 for two :  Manjalpur, Vadodara
+Flavor : 4.0 : North Indian, Mughlai, Biryani, Seafood, Chinese, Continental, Desserts, Beverages : ₹1,000 for two :  Makarpura, Vadodara
+Prasadam Authentic Gujarati Thali : 3.5 : Gujarati : ₹1,000 for two :  Vadiwadi, Vadodara
+Shree Madhur Bhoj Authentic Thali Restaurant : 3.9 : Gujarati, North Indian, Rajasthani : ₹700 for two :  Nizampura, Vadodara
+Burger King : 4.1 : Burger, Fast Food, Desserts, Beverages : ₹400 for two :  Madhavpura, Vadodara
+Charger Cafe : - : Fast Food, Beverages : ₹200 for two :  L&T Knowledge City, Vadodara
+Falafel Lovers : 4.0 : Middle Eastern, Lebanese, Continental, Pizza, Pasta, Fast Food, Shake, Beverages : ₹1,000 for two :  Diwalipura, Vadodara
+Kaka Ni Bhaji Pav And Fast Food : - : North Indian, South Indian, Chinese, Street Food : ₹1,000 for two :  Diwalipura, Vadodara
+Egg Delicious Point : New : North Indian, Street Food, Fast Food : ₹300 for two :  Sayajipura, Vadodara
+Ustaad Miyaan : 4.3 : North Indian, Mughlai, Biryani, Kebab : ₹1,000 for two :  Alkapuri, Vadodara
+Deckers : 3.6 : North Indian, Biryani, Continental, Asian, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Sayajigunj, Vadodara
+That Place : 4.2 : Seafood, Pizza, Salad, Fast Food, Desserts : ₹1,500 for two :  Alkapuri, Vadodara
+Arun's Biryani : 4.0 : Biryani, North Indian, Chinese, Sandwich, Fast Food, Street Food, Ice Cream, Beverages : ₹400 for two :  Gotri, Vadodara
+Cheelizza - India Ka Pizza : 4.5 : Pizza, Pasta, Italian, Continental, Fast Food, Shake, Beverages, Desserts : ₹1,100 for two :  Fatehgunj, Vadodara
+C & C House Of Coffee And Chocolates : 3.3 : Cafe, Coffee, Beverages, Continental, Mexican, Pasta, Italian, Desserts : ₹900 for two :  Alkapuri, Vadodara
+The Pizza Box : 3.9 : Pizza, Fast Food : ₹400 for two :  Diwalipura, Vadodara
+Sayaji’s Home Delivery – Cravings : 4.4 : North Indian, Mughlai, Biryani, Chinese : ₹1,200 for two :  Sayaji Hotel, Sayajiganj, Vadodara
+Rugmani's Kitchen : 4.6 : South Indian : ₹400 for two :  Manjalpur, Vadodara
+Southa : 3.8 : South Indian, Street Food, Beverages : ₹400 for two :  Diwalipura, Vadodara
+Soul Brew Coffee : 3.9 : Cafe, Coffee, Tea, Shake, Beverages, Sandwich, Fast Food, Pizza : ₹650 for two :  Diwalipura, Vadodara
+Izakaya : New : Japanese, Thai, Vietnamese, Korean, Indonesian, Chinese, Desserts, Beverages : ₹1,300 for two :  Gotri, Vadodara
+A’casa By Piztalian : 3.0 : Pizza, Italian, Pasta, Fast Food, Beverages : ₹1,500 for two :  Gotri, Vadodara
+1944 - The Hocco Kitchen : 4.2 : North Indian, Mughlai, Chinese, Continental, Fast Food, Biryani, Ice Cream, Beverages : ₹1,200 for two :  Sayajigunj, Vadodara
+Dawat Restaurant : - : North Indian, Mughlai, Seafood, Chinese, Sichuan, Kebab, Biryani, Beverages : ₹1,500 for two :  Manjalpur, Vadodara
+Saffron : 3.7 : North Indian, Chinese, Desserts, Beverages : ₹1,400 for two :  Manjalpur, Vadodara
+Staple : 4.1 : South Indian, Desserts : ₹1,000 for two :  Akota, Vadodara
+Sawan's Gravies : 4.0 : North Indian, Biryani, Chinese, Asian, Continental, Italian, Desserts, Beverages : ₹1,200 for two :  Subhanpura, Vadodara
+Amritsari Kulcha : 4.3 : North Indian, Beverages : ₹250 for two :  Nizampura, Vadodara
+Rock Soul Cafe - Bistro : - : Cafe, Italian, Mexican, Sandwich, Salad, Tea, Shake, Beverages : ₹950 for two :  Bhayli, Vadodara
+Failure's Kitchen : 3.8 : North Indian, Chinese : ₹300 for two :  Karelibaug, Vadodara
+1331 Alfresco : - : Cafe, Fast Food : ₹500 for two :  Bhayli, Vadodara
+The Eateries Cafe & Pool Table : 3.6 : North Indian, Chinese, Sandwich, Fast Food, Street Food, Seafood : ₹500 for two :  Bhayli, Vadodara
+Rasoi By Rosette : 3.7 : North Indian, Kebab, Chinese, Asian, Italian, Continental, Desserts : ₹1,000 for two :  Fatehgunj, Vadodara
+Pefeteria : 4.4 : Cafe, Coffee, Tea, Beverages, Sandwich, Pizza, Fast Food, Desserts : ₹700 for two :  Alkapuri, Vadodara
+Popular Bites : 3.4 : Fast Food : ₹250 for two :  Akota, Vadodara
+Sankalp : 3.8 : South Indian, Desserts, Beverages : ₹1,000 for two :  Vadiwadi, Vadodara
+Honest : 3.3 : North Indian : ₹500 for two :  Vadiwadi, Vadodara
+Milton's South Corner : 4.4 : South Indian, Chettinad, Beverages : ₹700 for two :  Akota, Vadodara
+Om Sai Chinese Food : 3.6 : Chinese, Sichuan : ₹150 for two :  Fatehgunj, Vadodara
+Champaran Handi House : - : North Indian : ₹400 for two :  Sama, Vadodara
+The Morsel : 4.1 : North Indian, Chinese, Italian, Mexican, Salad, Biryani, Desserts, Beverages : ₹1,200 for two :  Vadiwadi, Vadodara
+Santushti Shakes : 3.2 : Shake, Beverages, Juices, Ice Cream, Waffle, Desserts : ₹350 for two :  Karelibaug, Vadodara
+Natural Ice Cream : - : Ice Cream, Desserts : ₹350 for two :  Alkapuri, Vadodara
+Nizam's The Royal Kitchen : 3.9 : North Indian, Mughlai : ₹1,000 for two :  Madhavpura, Vadodara
+Humptee Dumptee : 4.4 : North Indian, Chinese, Sichuan, Biryani : ₹1,000 for two :  Gotri, Vadodara
+Jagdish Foods : 4.3 : Fast Food, Street Food, Mithai : ₹400 for two :  Vadiwadi, Vadodara
+Royal Frankies : 4.0 : Rolls, Burger, Hot dogs, Fast Food : ₹300 for two :  Fatehgunj, Vadodara
+Food Mohalla : 3.2 : Pizza, Burger, Sandwich, Salad, Momos, Wraps, Coffee, Beverages : ₹1,000 for two :  Bhayli, Vadodara
+Gazebo Garden Restaurant : 4.0 : North Indian : ₹1,000 for two :  Panchvati, Vadodara
+Hashtag Boba : - : Bubble Tea : ₹300 for two :  Akota, Vadodara
+Sarvottam Restaurant : 3.8 : North Indian : ₹1,000 for two :  Nizampura, Vadodara
+Om Pind Da Dhaaba : - : North Indian : ₹150 for two :  Gotri, Vadodara
+Cafe Motogaze : - : Cafe, Coffee, Fast Food, Pizza, Beverages : ₹500 for two :  Bhayli, Vadodara
+Cafe Appetito : 4.0 : Cafe, Coffee, Beverages, North Indian, Chinese, Sandwich, Fast Food, Desserts : ₹1,000 for two :  Manjalpur, Vadodara
+Tastea Cafe : New : Cafe, Coffee, Tea, Pizza, Sandwich, Fast Food, Steak, Beverages : ₹200 for two :  Manjalpur, Vadodara
+Canara Coffee House : 4.1 : Coffee, Juices, Shake, South Indian, Sandwich, Street Food, Ice Cream, Desserts : ₹300 for two :  Mandvi, Vadodara
+La Patisserie 20 : - : Bakery, Desserts : ₹700 for two :  Akota, Vadodara
+Maji Sainik Omlet Centre : 3.8 : Street Food, North Indian : ₹500 for two :  Akota, Vadodara
+Kolhapuri Tadka : 4.0 : Maharashtrian, Coffee : ₹450 for two :  Mandvi, Vadodara
+Madras Bhavan : 3.1 : South Indian, Beverages : ₹800 for two :  Gotri, Vadodara
+Popzilla : - : Ice Cream, Shake : ₹200 for two :  Vadiwadi, Vadodara
+Dawat Food Resort : 3.9 : North Indian, Mughlai, Chinese, Seafood, Kebab, Biryani, Desserts, Beverages : ₹1,100 for two :  Suryanagar, Vadodara
+Hotel Sudha : 4.4 : South Indian : ₹300 for two :  Subhanpura, Vadodara
+Yaadgar Omlet Center : 4.4 : Street Food, North Indian, Fast Food : ₹350 for two :  Diwalipura, Vadodara
+PC'S Kitchen : - : North Indian : ₹500 for two :  Bhayli, Vadodara
+Southak : 2.9 : South Indian, Desserts, Beverages : ₹1,000 for two :  Panchvati, Vadodara
+Hotel Durga : 4.1 : North Indian, South Indian, Chinese, Beverages : ₹400 for two :  Makarpura, Vadodara
+Sheesh Mahal Multi Cuisine Restaurant : 4.3 : North Indian, Chinese, Salad, Pasta, Italian, Beverages : ₹1,200 for two :  Vadiwadi, Vadodara
+The Grilled Cafe : 3.5 : Burger, Wraps, Fast Food, Beverages : ₹400 for two :  Gotri, Vadodara
+WelcomCafe Cambay - Welcomhotel By ITC Hotels : 3.9 : Continental, Chinese, North Indian, Desserts : ₹3,500 for two :  Welcomhotel By ITC Hotels, Alkapuri, Vadodara
+White Potato : 3.5 : North Indian, South Indian, Biryani, Chinese, Italian, Continental, Desserts, Beverages : ₹1,000 for two :  Akota, Vadodara
+La Pino'z Pizza : 3.4 : Pizza, Pasta, Italian, Modern Indian : ₹500 for two :  Sayajipura, Vadodara
+0265 Burgers & Pizzas : 4.5 : Burger, Pizza, Fast Food : ₹500 for two :  Alkapuri, Vadodara
+Starbucks Coffee : 4.2 : Cafe, Coffee, Fast Food, Desserts, Beverages : ₹600 for two :  Alkapuri, Vadodara
+Kabul - Grills & Kabab : - : Kebab, North Indian, Mughlai, Seafood : ₹1,200 for two :  Kendranagar, Vadodara
+Saladific : 3.9 : Salad, Wraps, Healthy Food, Sandwich, Juices, Beverages : ₹400 for two :  Vadiwadi, Vadodara
+Miloo Ki Biryani : 4.3 : Biryani, North Indian, Chinese : ₹400 for two :  Akota, Vadodara
+Goodies Cafeteria : 3.6 : Cafe, North Indian, Sandwich, Pizza, Fast Food, Desserts, Beverages : ₹1,000 for two :  Hotel Kalyan, Sayajigunj, Vadodara
+Mahakali Sev Usal : 3.6 : Gujarati, Street Food : ₹150 for two :  Manjalpur, Vadodara
+Lazeez Shawarma : 4.5 : Shawarma : ₹300 for two :  Akota, Vadodara
+Bombay Sandwich : 4.2 : Sandwich, Street Food, Juices, Shake : ₹300 for two :  Alkapuri, Vadodara
+Caffein Cafe : 3.9 : Cafe, Coffee, Sandwich, Fast Food, Desserts, Burger, Shake, Beverages : ₹600 for two :  Bhayli, Vadodara
+Baroda Sandwich : 3.6 : Sandwich, Pizza, Fast Food : ₹350 for two :  Manjalpur, Vadodara
+The Mexican Tapas Bar : - : Mexican, South Indian, Italian, Fast Food, Street Food, Desserts : ₹500 for two :  Bhayli, Vadodara
+Roasted Onion Restaurant : 3.6 : North Indian : ₹400 for two :  Waghodiya, Vadodara
+Bayleaf - Hotel Express Residency : 3.9 : North Indian, Mughlai, South Indian, Italian, Continental, Oriental, Desserts, Beverages : ₹1,000 for two :  Hotel Express Residency, Alkapuri, Vadodara
+The Matka Khichdi : 3.9 : North Indian : ₹300 for two :  Manjalpur, Vadodara
+The Nirvaan Cafe & Lounge : 2.9 : Cafe, Coffee, Shake, Beverages, Sandwich, Fast Food, Desserts : ₹500 for two :  Diwalipura, Vadodara
+Shree Kismat Kathiyawadi Restaurant : 4.2 : Kathiyawadi, North Indian, Desserts, Beverages : ₹1,000 for two :  Gotri, Vadodara
+Jashn E Paratha : 3.8 : North Indian, Biryani, Chinese, Beverages : ₹1,000 for two :  Diwalipura, Vadodara
+Rangoli Restaurant : 3.5 : North Indian, Chinese, Seafood, Fast Food, Desserts, Ice Cream : ₹800 for two :  Fatehgunj, Vadodara
+Bole To Vadapav : 3.1 : Street Food : ₹100 for two :  Sayajigunj, Vadodara
+Shree Rasanand : 3.3 : Mithai, Sandwich, Pizza, Street Food : ₹300 for two :  Alkapuri, Vadodara
+Old Morals Restaurants : 3.9 : Kathiyawadi, North Indian, South Indian, Biryani, Chinese, Sandwich, Pizza, Fast Food : ₹1,000 for two :  Sayajipura, Vadodara
+Brew 13 : 4.0 : Cafe, Coffee, Tea, Shake, Salad, Pizza, Italian, Mexican : ₹700 for two :  Akota, Vadodara
+Santushti Shakes & More : 3.6 : Shake, Beverages : ₹300 for two :  Manjalpur, Vadodara
+Sunny Paji Da Dhaba : 3.5 : North Indian, Biryani, Chinese, Beverages : ₹500 for two :  Kendranagar, Vadodara
+Basundi - The Authentic Gujarati Thali : 3.4 : Gujarati : ₹1,000 for two :  Karelibaug, Vadodara
+The Signature Brew : 3.7 : Cafe, Coffee, Chinese, North Indian, Pasta, Fast Food, Desserts, Beverages : ₹750 for two :  Alkapuri, Vadodara
+Bombay Sandwich Bites : 4.0 : Sandwich, Burger, Rolls, Pizza, Hot dogs, Juices, Shake, Beverages : ₹250 for two :  Alkapuri, Vadodara
+Laxmi Film City Garden Restaurant : 4.0 : North Indian, Chinese : ₹1,000 for two :  Sayajipura, Vadodara
+Hotel Grand Paradise : 3.9 : North Indian, Biryani, Chinese, Continental, Pizza, Italian, Desserts, Beverages : ₹1,000 for two :  Alkapuri, Vadodara
+China Blue : 3.7 : North Indian, Biryani, Chinese, Street Food : ₹400 for two :  Makarpura, Vadodara
+Indian Spices 4U : 4.0 : Street Food, North Indian : ₹400 for two :  Manjalpur, Vadodara
+Kathiyawadi Darbar : 3.4 : Kathiyawadi : ₹1,000 for two :  Vadiwadi, Vadodara
+Pizza Maverik : 2.9 : Pizza : ₹400 for two :  Gotri, Vadodara
+Cafe Teastro : 3.9 : Coffee, Shake, Sandwich, Street Food, Burger : ₹300 for two :  Manjalpur, Vadodara
+Dawat Pure Veg Restaurant : 3.9 : North Indian, South Indian, Chinese, Continental, Biryani, Fast Food, Ice Cream, Beverages : ₹800 for two :  Manjalpur, Vadodara
+City South Corner : 4.2 : South Indian : ₹350 for two :  Karelibaug, Vadodara
+My Restaurant : 3.9 : North Indian, Mughlai, Kebab, Biryani, Chinese, Seafood, Rolls : ₹1,000 for two :  Diwalipura, Vadodara
+Flavour Dine Restaurant : 4.0 : North Indian, Biryani, Chinese, Continental, Sandwich, Pizza, Beverages : ₹1,000 for two :  Makarpura, Vadodara
+Cafe Coffee Day : 2.9 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹750 for two :  Fatehgunj, Vadodara
+Hodophile : 3.3 : Italian, Beverages : ₹1,000 for two :  M Cube Mall, Vadiwadi, Vadodara
+The Chocolate Room : 4.3 : Cafe, Coffee, Continental, Pasta, Fast Food, Desserts, Pizza, Beverages : ₹750 for two :  Manjalpur, Vadodara
+Egg Station - By Ustaad Miyaan : 3.5 : North Indian, Street Food, Beverages : ₹300 for two :  Alkapuri, Vadodara
+Gamda No Rotlo : 4.2 : North Indian, Mughlai, Biryani, Seafood : ₹1,000 for two :  Sayajipura, Vadodara
+Ziiro Restaurant & Cafe : 3.6 : Pizza, Sandwich, Burger, Fast Food, Street Food, Coffee, Shake, Beverages : ₹400 for two :  Fatehgunj, Vadodara
+Hocco Eatery : 2.3 : Pizza, Sandwich, Fast Food, Street Food, Ice Cream, Desserts, Shake, Burger : ₹600 for two :  Sayajigunj, Vadodara
+Blue Lagoon's : 4.0 : North Indian, Biryani, Chinese, Continental, Beverages : ₹1,000 for two :  Manjalpur, Vadodara
+Mandarin Asian Kitchen : - : Chinese, Asian, Thai, Desserts : ₹1,000 for two :  Diwalipura, Vadodara
+Dayro Kathiyawadi Rasthal : 2.8 : Kathiyawadi, Gujarati, North Indian : ₹500 for two :  Sama, Vadodara
+Dragon Momos : 4.8 : Momos : ₹200 for two :  Subhanpura, Vadodara
+South Bombay : 3.8 : South Indian, Juices, Shake, Beverages : ₹400 for two :  Inorbit Mall, Subhanpura, Vadodara
+Rabdiwala Corner : 4.4 : Desserts : ₹200 for two :  Karelibaug, Vadodara
+Jalaram Khichdi Restaurant : 3.8 : Gujarati, North Indian : ₹1,000 for two :  Gotri, Vadodara
+Egg Green Surati : 3.2 : Gujarati, Street Food, North Indian : ₹350 for two :  Manjalpur, Vadodara
+William John's Pizza : 3.7 : Pizza, Fast Food : ₹500 for two :  Manjalpur, Vadodara
+DD DE Kulche : - : North Indian : ₹400 for two :  Karelibaug, Vadodara
+Aditi Nasto & Chinese : 3.7 : Chinese, Street Food : ₹350 for two :  Sama, Vadodara
+Grill N Bites : 3.7 : Sandwich, Burger, Pizza, Fast Food, Street Food, Tea, Shake, Beverages : ₹250 for two :  Bhayli, Vadodara
+Rajasthan Bhel And Kulfi House : 3.7 : Street Food, Ice Cream, Desserts, Shake, Juices, Beverages : ₹200 for two :  Karelibaug, Vadodara
+Shree Tirupati Dhosa Corner : 3.6 : South Indian : ₹300 for two :  Sayajipura, Vadodara
+Tarkari - A Banyan Paradise Kitchen : 4.2 : North Indian, Chinese, Continental, Pizza, Salad, Biryani, Desserts, Beverages : ₹1,500 for two :  Karelibaug, Vadodara
+HappineZzz Cafe : 3.6 : Fast Food, Pizza, Street Food : ₹200 for two :  Fatehgunj, Vadodara
+Sai's Cheese Panipuri & Sandwich : 2.9 : Sandwich, Street Food, Fast Food : ₹350 for two :  Alkapuri, Vadodara
+Mahesh Omlet : 3.2 : Street Food, North Indian : ₹450 for two :  Kendranagar, Vadodara
+Bistro Eleven : 4.1 : Continental, North Indian, Chinese, Pizza, Pasta, Fast Food, Desserts, Beverages : ₹1,000 for two :  Alkapuri, Vadodara
+Martino'z Pizza : 3.9 : Pizza, Pasta, Italian : ₹700 for two :  Manjalpur, Vadodara
+Pangaea Resto : 3.6 : Continental, Italian, Mexican, Oriental, Salad, Middle Eastern, North Indian, Biryani : ₹1,000 for two :  Gotri, Vadodara
+Hariyali Gujarati Thali : 4.0 : Chinese, North Indian, Gujarati : ₹850 for two :  Kendranagar, Vadodara
+Waves Restaurant : 4.3 : North Indian, Biryani, Chinese, Asian, Continental, Desserts : ₹1,000 for two :  Bhayli, Vadodara
+Madhuram Sweets & Farsan : 3.1 : Mithai, Street Food : ₹200 for two :  Nizampura, Vadodara
+D S Pizza Sandwich & More : 3.5 : Pizza, Sandwich, Fast Food : ₹250 for two :  Kendranagar, Vadodara
+Kulchas & More : 4.5 : North Indian, Pizza, Street Food : ₹400 for two :  Inorbit Mall, Subhanpura, Vadodara
+Amar Restaurant : 3.1 : North Indian, Chinese : ₹300 for two :  Kendranagar, Vadodara
+L'amour Patisserie : 4.4 : Bakery, Coffee : ₹400 for two :  Vadiwadi, Vadodara
+The Billion Waffles : 4.8 : Waffle, Pancake, Desserts, Pizza, Fast Food, Shake, Coffee, Beverages : ₹400 for two :  Alkapuri, Vadodara
+Kaka Ni Pav Bhaji : 3.8 : Street Food, North Indian, Chinese, South Indian, Biryani : ₹400 for two :  Karelibaug, Vadodara
+Pahadi Chicken Dum Biriyani & Tawa Fry : - : Biryani, North Indian : ₹500 for two :  Makarpura, Vadodara
+Shiv Shakti Kathiyawadi Hotel : 4.1 : Kathiyawadi, Gujarati : ₹300 for two :  Akota, Vadodara
+Jeet Food Corner : - : Chinese : ₹300 for two :  Fatehgunj, Vadodara
+Bong Flavours : 4.1 : Bengali, Chinese, North Indian : ₹300 for two :  Gotri, Vadodara
+Theobroma : - : Bakery, Desserts : ₹200 for two :  Diwalipura, Vadodara
+Keshav Kutir Restaurant : 4.1 : North Indian, Biryani, Chinese : ₹800 for two :  Suryanagar, Vadodara
+Kathiyawadi Village : 3.5 : Kathiyawadi, North Indian, Biryani, Healthy Food, Rajasthani, Chinese, Beverages : ₹1,000 for two :  Sama, Vadodara
+Prakruti Resort : 3.9 : North Indian, Chinese, Desserts, Beverages : ₹600 for two :  Prakruti Resort, Nizampura, Vadodara
+Sudama Kathiyawadi Restaurant : 4.2 : Kathiyawadi : ₹300 for two :  Nizampura, Vadodara
+Orizon Restaurant : 3.6 : North Indian, Chinese, Continental, Kebab, Salad, Biryani, Beverages : ₹800 for two :  Akota, Vadodara
+Raju Omlet : 3.9 : Street Food, North Indian : ₹300 for two :  Karelibaug, Vadodara
+Size Zero Cafe : 3.9 : Cafe, Coffee, Chinese, Pizza, Sandwich, Burger, Fast Food, Shake : ₹600 for two :  Alkapuri, Vadodara
+Offside Lounge : 4.0 : North Indian, Chinese, Continental, Pizza, Sichuan, Fast Food : ₹1,400 for two :  Vadiwadi, Vadodara
+Pizzeria 21 : 4.3 : Pizza, Pasta, Fast Food, Beverages : ₹400 for two :  Gotri, Vadodara
+Darshan Restaurant : - : North Indian, Biryani, Chinese, Beverages : ₹300 for two :  Sayajigunj, Vadodara
+Berry Que Cafe : 3.1 : Pizza, Burger, Rolls, Fast Food, Street Food, Shake : ₹450 for two :  Gotri, Vadodara
+Infi Pizzeria : 4.5 : Pizza : ₹500 for two :  Gotri, Vadodara
+Thepla Junction : - : North Indian, Desserts, Beverages : ₹200 for two :  Vadiwadi, Vadodara
+Subway : 4.0 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹500 for two :  Alkapuri, Vadodara
+Qadri's Biryani : 4.4 : Biryani, North Indian : ₹400 for two :  Sayajigunj, Vadodara
+Shree Khodiyar Kathiyawadi Dhaba : 4.1 : Kathiyawadi, Desserts : ₹1,000 for two :  Nizampura, Vadodara
+La Pizza Treno : 3.3 : Pizza, Italian : ₹700 for two :  Alkapuri, Vadodara
+Baked By Nini's : - : Bakery, Desserts : ₹600 for two :  Nizampura, Vadodara
+Sanskruti Cafe & Restaurant : New : Cafe, Coffee, North Indian, Biryani, Chinese, Pizza, Continental, Ice Cream : ₹1,400 for two :  Gotri, Vadodara
+South Samarth Restaurant : - : South Indian : ₹300 for two :  Vadiwadi, Vadodara
+Ghee Gud : 2.9 : Gujarati, Rajasthani, North Indian : ₹500 for two :  Alkapuri, Vadodara
+Sasumaa's Gujarati Thali : 4.1 : Gujarati, North Indian : ₹1,000 for two :  Kendranagar, Vadodara
+Blue Lagoons : 3.7 : North Indian, Kebab, Biryani, Chinese, Continental, Beverages : ₹1,000 for two :  Fatehgunj, Vadodara
+Coffea : New : Cafe, Coffee, Sandwich, Pizza, Fast Food, North Indian, Shake, Beverages : ₹800 for two :  Gotri, Vadodara
+Raju Bhai Chhole Kulche : 4.2 : North Indian : ₹300 for two :  Alkapuri, Vadodara
+Gamthi Kathiyawadi : 3.8 : Kathiyawadi, North Indian : ₹300 for two :  Vadiwadi, Vadodara
+Surya Prakash Restaurant : 3.9 : North Indian, South Indian, Chinese, Beverages : ₹400 for two :  Mandvi, Vadodara
+24 Royal Chinese Cafe : 3.6 : Chinese, Asian : ₹400 for two :  L&T Knowledge City, Vadodara
+Chatoree : 4.0 : North Indian, Chinese, Fast Food, Street Food, Desserts : ₹400 for two :  Inorbit Mall, Subhanpura, Vadodara
+Guru Chinese : 3.4 : Chinese, Sichuan : ₹200 for two :  Makarpura, Vadodara
+Sai Krupa Punjabi Khana : 4.2 : North Indian, Chinese, Sichuan, Biryani, Fast Food : ₹400 for two :  Karelibaug, Vadodara
+Sai Krupa Multi - Cuisine Restaurant : 4.1 : North Indian, Biryani, Chinese, Sichuan : ₹1,000 for two :  Sayajipura, Vadodara
+Ajay Hotel : 4.0 : North Indian, Seafood, Biryani : ₹400 for two :  Makarpura, Vadodara
+Nan King Chinese : 3.9 : Chinese, Sichuan : ₹350 for two :  Karelibaug, Vadodara
+Coffee Clan : 4.4 : Cafe, North Indian, Pizza, Sandwich, Fast Food, Desserts, Tea, Beverages : ₹650 for two :  Vivanta Vadodara, Akota, Vadodara
+Citrus Cafe - Lemon Tree Hotel : 3.8 : North Indian, Mughlai, South Indian, Chinese, Italian, Healthy Food, Desserts, Beverages : ₹1,100 for two :  Lemon Tree Hotel, Vadodara, Vadodara
+Foodista Restaurant : - : Gujarati, North Indian : ₹1,000 for two :  Gorwa, Vadodara
+Times Cafe : - : Cafe, Coffee, Shake, Beverages, Pizza, Sandwich, Fast Food, Desserts : ₹500 for two :  Gotri, Vadodara
+Tandoori Flames : 4.1 : North Indian, Mughlai, Kebab, Biryani, Chinese, Asian, Seafood, Beverages : ₹1,000 for two :  Nizampura, Vadodara
+3B Tea : - : Tea, Beverages : ₹300 for two :  Manjalpur, Vadodara
+Chola Flavors Of Tamil Nadu : New : Tamil, South Indian, Chettinad : ₹350 for two :  Alkapuri, Vadodara
+The Egg Station : - : Street Food, North Indian : ₹400 for two :  Vadiwadi, Vadodara
+Grill Kitchen : 3.9 : BBQ, North Indian, Fast Food, Beverages : ₹1,000 for two :  Vadiwadi, Vadodara
+Fat Boys : - : Street Food, Sandwich : ₹250 for two :  Subhanpura, Vadodara
+Blaze Bites : - : North Indian, Fast Food : ₹1,000 for two :  Manjalpur, Vadodara
+Sai Punjabi Khana : - : North Indian, Biryani, Chinese, Sichuan : ₹500 for two :  Manjalpur, Vadodara
+Kishan Punjabi Chole Kulcha : 3.9 : North Indian : ₹300 for two :  Karelibaug, Vadodara
+Tyagi's Eatery : 4.0 : Chinese, Pasta, Pizza, Sandwich, Burger, Fast Food, Desserts : ₹800 for two :  Alkapuri, Vadodara
+Jay Bhavani Punjabi Khana : - : North Indian, Biryani : ₹350 for two :  Manjalpur, Vadodara
+Nanimaa Kathiyawadi & Gujarati Thal : - : Kathiyawadi, Gujarati, North Indian : ₹700 for two :  Panchvati, Vadodara
+Madhuvan Restaurant : - : North Indian, Biryani, Chinese : ₹400 for two :  Suryanagar, Vadodara
+Pizza On The Rock : 4.3 : Pizza, Fast Food, Beverages : ₹500 for two :  Diwalipura, Vadodara
+Shiv Pan & Cafe : New : Pizza, Pasta, Sandwich, Fast Food, Street Food, Paan, Coffee, Beverages : ₹250 for two :  Subhanpura, Vadodara
+Waffly : - : Waffle, Desserts, Shake : ₹350 for two :  Makarpura, Vadodara
+Shri Ganesh Chula Dosa : New : South Indian : ₹350 for two :  Tarsali, Vadodara
+The Big Bang Cafe : - : Cafe, Coffee, Tea, Shake, Beverages, Pizza, Sandwich, Continental : ₹500 for two :  Akota, Vadodara
+Frigtemp : 4.2 : Hot dogs, Rolls, Pizza, Fast Food : ₹300 for two :  Fatehgunj, Vadodara
+Art Of Tandoor : 3.9 : North Indian, Biryani : ₹550 for two :  Bhayli, Vadodara
+Salad Republic : 4.1 : Salad, Healthy Food, Beverages : ₹350 for two :  Diwalipura, Vadodara
+Papa Louie's Pizza : 3.3 : Pizza, Pasta, Italian, Salad : ₹700 for two :  Fatehgunj, Vadodara
+Orchid : 3.8 : North Indian, Mughlai, Biryani, Chinese, Oriental, Continental, Desserts, Beverages : ₹1,000 for two :  Akota, Vadodara
+Amritsari Zaika : 4.0 : North Indian, Biryani, Chinese, South Indian : ₹1,000 for two :  Akota, Vadodara
+Udupi Restaurant : 4.1 : South Indian, North Indian, Chinese, Biryani : ₹400 for two :  Fatehgunj, Vadodara
+Bombay Spicy Bite : - : Street Food, Rolls, North Indian : ₹300 for two :  Bhayli, Vadodara
+Joy Vadapav Dabeli & More : - : Sandwich, Burger, Fast Food, Street Food : ₹250 for two :  Tarsali, Vadodara
+Aamhi Marathi : 3.7 : Maharashtrian, Malwani, Biryani : ₹1,000 for two :  Gotri, Vadodara
+Krispy Sandwich : - : Sandwich : ₹200 for two :  Manjalpur, Vadodara
+Cleo's Coffee & More : New : Coffee, Pizza : ₹400 for two :  Manjalpur, Vadodara
+Cafe Cup90s : - : Chinese, Pizza, Burger, Sandwich, Street Food, Beverages : ₹300 for two :  Subhanpura, Vadodara
+Hotel Sapphire Regency : - : North Indian, Seafood, Chinese, Biryani : ₹300 for two :  Sayajigunj, Vadodara
+Mandvi - The Baroda Residency : 3.3 : North Indian, Continental, Chinese, Biryani, Fast Food, Desserts, Beverages : ₹1,500 for two :  Alkapuri, Vadodara
+Dream Bean Cafe : - : North Indian, Sandwich, Burger, Pizza, Fast Food, Street Food, Shake, Beverages : ₹400 for two :  Fatehgunj, Vadodara
+Prayosha Chaat Hub : - : Street Food : ₹200 for two :  Manjalpur, Vadodara
+Hari Om Foods : New : North Indian, Street Food : ₹300 for two :  Sayajipura, Vadodara
+Pawsitive Cafe : - : Pizza, Burger, Fast Food, Street Food, Shake, Beverages : ₹300 for two :  Manjalpur, Vadodara
+Velvet Bakers : 3.6 : Cafe, Coffee, Bakery, Sandwich, Pizza, Fast Food, Shake, Tea : ₹500 for two :  Alkapuri, Vadodara
+Om Testy Vadapav : - : Street Food : ₹100 for two :  Kendranagar, Vadodara
+Chai Nasta Co. : - : Tea, Street Food : ₹250 for two :  Vadiwadi, Vadodara
+Delicacy Restaurant & Banquet : 4.2 : North Indian, Biryani, Chinese, Continental, Pizza, Ice Cream, Desserts, Beverages : ₹1,000 for two :  Alkapuri, Vadodara
+Chung Fa : 3.7 : Chinese, Asian, Thai, Sichuan : ₹1,000 for two :  Alkapuri, Vadodara
+Rajput Tea Bar : New : Tea, Sandwich, Fast Food, Street Food, Beverages : ₹300 for two :  Akota, Vadodara
+Idlikaaran By 22nd Parallel : 3.8 : South Indian : ₹350 for two :  L&T Knowledge City, Vadodara
+Haveli Restaurant : 3.9 : Gujarati, North Indian, Chinese, Biryani : ₹400 for two :  Mandvi, Vadodara
+Ice Cream Factory & Shahi Darbar : 3.6 : Ice Cream, Pancake, Waffle, Desserts, Shake, Beverages : ₹400 for two :  Gotri, Vadodara
+Food Dude Cafe : - : Burger, Pizza, Sandwich, Momos, North Indian, Fast Food, Street Food : ₹300 for two :  Diwalipura, Vadodara
+Theist Cafe : - : Cafe, Fast Food : ₹500 for two :  Bhayli, Vadodara
+Krishna Cafe : - : North Indian, Chinese : ₹250 for two :  Subhanpura, Vadodara
+MS Fast Food & Cafe : - : Pizza, Sandwich, Burger, Coffee, Shake, Fast Food : ₹350 for two :  Sayajipura, Vadodara
+GJ -  06 Chaat & Snack's : - : Pizza, Rolls, Fast Food, Street Food, Momos, Desserts, Juices, Beverages : ₹350 for two :  Nizampura, Vadodara
+Millennium Restaurant : 4.1 : North Indian, Mughlai, Chinese, Seafood, Biryani : ₹1,000 for two :  Fatehgunj, Vadodara
+RSVP Ristorante : 3.4 : North Indian, Chinese, Continental, Desserts, Beverages : ₹1,500 for two :  Alkapuri, Vadodara
+Cafe Royal : 4.3 : North Indian, Chinese, Sandwich, Fast Food, Biryani : ₹400 for two :  Fatehgunj, Vadodara
+La Saante : 3.9 : Healthy Food, Pizza, Italian, Continental, Desserts : ₹1,300 for two :  Bhayli, Vadodara
+Kalpana Kathiyawadi Dining Hall : - : Kathiyawadi : ₹300 for two :  Gotri, Vadodara
+Cha Sudhi : - : Cafe, Coffee, Tea, Pizza, Sandwich, Fast Food, Street Food, Beverages : ₹200 for two :  Subhanpura, Vadodara
+Flavours Of South : New : South Indian, Chinese, Biryani, Fast Food : ₹300 for two :  Amodar, Vadodara
+Hyderabadi's : 3.7 : North Indian, Biryani : ₹500 for two :  Fatehgunj, Vadodara
+Hotel Surya : 3.3 : North Indian, Biryani, Continental, Chinese, Desserts, Beverages : ₹1,000 for two :  Sayajigunj, Vadodara
+Joy's Cafe And Eatery : - : North Indian, Fast Food, Beverages : ₹250 for two :  Amodar, Vadodara
+Oak Leaf : 3.5 : North Indian, Biryani, Continental, Chinese, Ice Cream, Desserts, Shake, Beverages : ₹1,000 for two :  Sama, Vadodara
+MS Fast Food And Cafe : New : Fast Food : ₹300 for two :  Kendranagar, Vadodara
+Hotel Sangam : 3.8 : North Indian, Gujarati : ₹300 for two :  Karelibaug, Vadodara
+Zesty Treat : 3.8 : North Indian, Chinese, Continental, Pizza, Sandwich, Ice Cream, Beverages : ₹1,000 for two :  Subhanpura, Vadodara
+Farki : 3.5 : Ice Cream, Desserts, Shake, Beverages : ₹250 for two :  Karelibaug, Vadodara
+Tea Max Cafe : New : Tea, Coffee, Shake, Beverages, Burger, Sandwich, Fast Food, Street Food : ₹250 for two :  Tarsali, Vadodara
+Chai Theka Bar : - : Tea, Fast Food : ₹250 for two :  Nizampura, Vadodara
+Kittli Junction : - : Tea, Coffee, Shake, Sandwich, Fast Food, Street Food : ₹200 for two :  Akota, Vadodara
+Octant Pizza : 3.4 : Pizza, Chinese, North Indian, BBQ, Salad, Sandwich, Fast Food, Desserts : ₹1,000 for two :  Diwalipura, Vadodara
+Ashish Restaurant : 3.8 : North Indian, Chinese, Biryani : ₹1,000 for two :  Gotri, Vadodara
+Hoppers Restrocafe & Sports Arena : 3.2 : Continental, Mexican, Pizza, Pasta, Coffee, Shake, Beverages : ₹1,000 for two :  Bhayli, Vadodara
+Cafe Bistro : 3.7 : Cafe, Coffee, Tea, Beverages, Sandwich, Burger, Pizza, Continental : ₹700 for two :  Akota, Vadodara
+Tasty Vada Pav : 4.0 : Street Food, Rolls : ₹150 for two :  Fatehgunj, Vadodara
+New Alka Restaurant : 3.9 : North Indian, South Indian, Chinese, Pizza, Sandwich, Street Food, Desserts, Shake : ₹1,000 for two :  Fatehgunj, Vadodara
+Gwalia Sweets : 3.7 : Mithai, North Indian, Chinese, Street Food : ₹400 for two :  Vadiwadi, Vadodara
+Zaafran : 4.0 : North Indian, Mughlai, Chinese, Seafood, Kebab, Biryani : ₹1,000 for two :  Fatehgunj, Vadodara
+Chicken Mamna Center : 4.0 : North Indian, Biryani : ₹350 for two :  Akota, Vadodara
+Chinese Wok : - : Chinese, Asian, Momos : ₹500 for two :  Sayajigunj, Vadodara
+Ministry Of Eggs : 3.9 : Street Food, North Indian, Rolls : ₹400 for two :  Manjalpur, Vadodara
+Shree Maruti Restaurant & Banquets : 4.0 : Kathiyawadi, North Indian, Chinese, Pizza, Continental, Beverages : ₹1,000 for two :  Vadiwadi, Vadodara
+Creme Borne - Ice Cream And Desserts : 3.9 : Ice Cream, Desserts, Waffle, Pancake, Fast Food : ₹500 for two :  Bhayli, Vadodara
+Legend Restaurant : 3.9 : North Indian, Chinese : ₹800 for two :  Tarsali, Vadodara
+Maji Sainik Egg Recipies : 4.0 : Street Food, North Indian, Fast Food : ₹350 for two :  Akota, Vadodara
+Biryani Wala : 4.1 : Biryani, North Indian : ₹300 for two :  Makarpura, Vadodara
+Piztalian Wood Fired Pizza : - : Pizza, Pasta, Fast Food : ₹650 for two :  Karelibaug, Vadodara
+Jashn E Paratha Express : 4.4 : North Indian, Chinese, Biryani, Beverages : ₹350 for two :  Diwalipura, Vadodara
+Soul Brew Coffee : 4.1 : Cafe, Coffee, Beverages, Sandwich, Chinese, Desserts : ₹500 for two :  Vadiwadi, Vadodara
+Cafe Pluto : 4.1 : Cafe, Fast Food : ₹500 for two :  Alkapuri, Vadodara
+Amritsari Kulcha And Restaurant : 3.5 : North Indian, Biryani : ₹300 for two :  Gorwa, Vadodara
+Indian Spice Restaurant : 3.6 : North Indian, Biryani, Chinese, Pizza, Pasta, Continental, Desserts, Beverages : ₹1,000 for two :  Subhanpura, Vadodara
+Assal Marathi Paakshala : 3.9 : Maharashtrian, Beverages : ₹500 for two :  Manjalpur, Vadodara
+Girnar Kathiyawadi : 3.9 : Kathiyawadi : ₹1,000 for two :  Tarsali, Vadodara
+Sovereign Restaurant & Banquet : 4.2 : North Indian, Chinese, Pasta, Pizza, Continental : ₹1,000 for two :  Nizampura, Vadodara
+Hari Om Dalbati : 4.3 : Rajasthani, North Indian : ₹300 for two :  Sama, Vadodara
+Al Madina : 3.9 : Mughlai, North Indian : ₹400 for two :  Diwalipura, Vadodara
+Rajasthan Ice Cream Parlour : 4.4 : Ice Cream, Desserts, Shake, Juices, Beverages : ₹200 for two :  Navapura, Vadodara
+Silver Family Restaurant : 4.3 : North Indian, Chinese, Pizza, Fast Food, Beverages : ₹1,000 for two :  Manjalpur, Vadodara
+Banana Leaf : 3.1 : Kerala, South Indian, Beverages : ₹300 for two :  Gotri, Vadodara
+The Chocolayer Hub : 2.8 : Bakery, Waffle, Desserts, Shake : ₹300 for two :  Manjalpur, Vadodara
+Baroda Sandwich : 2.8 : Sandwich : ₹200 for two :  Manjalpur, Vadodara
+Chatoree : 3.3 : Fast Food, North Indian, Chinese, Desserts, Beverages, Sichuan : ₹500 for two :  Gotri, Vadodara
+Red China : 4.0 : Chinese : ₹200 for two :  Karelibaug, Vadodara
+Healthy Junction Cafe : 3.9 : Salad, Healthy Food, Burger, Sandwich, Fast Food, Street Food, Shake, Beverages : ₹350 for two :  Subhanpura, Vadodara
+Candle Light Date N Dinner Restaurant : - : North Indian, Continental, Chinese, Beverages : ₹1,000 for two :  Gotri, Vadodara
+Foodies - Food Court : 3.8 : North Indian, Chinese, Biryani, Sandwich, Pizza, Fast Food : ₹350 for two :  Karelibaug, Vadodara
+Sardar Pavbhaji (Sursagar Wala) : 4.1 : Street Food, North Indian : ₹350 for two :  Sayajipura, Vadodara
+South Nation : 3.8 : South Indian : ₹700 for two :  Manjalpur, Vadodara
+Momoman : 3.9 : Chinese, Momos, Street Food, Seafood, Italian, Thai : ₹1,000 for two :  Gotri, Vadodara
+The Kaur's Kitchen : 3.9 : North Indian, Beverages : ₹350 for two :  Manjalpur, Vadodara
+Al Baik.com : 3.9 : Burger, Fast Food : ₹350 for two :  Bhayli, Vadodara
+Rolls Mania : 4.3 : Rolls, Fast Food : ₹350 for two :  Alkapuri, Vadodara
+Wooddy Jhone’s Pizza : 3.7 : Pizza, Italian, Chinese : ₹700 for two :  Manjalpur, Vadodara
+The Food Express : 3.3 : North Indian, Mughlai, Biryani, Kebab, Seafood, Chinese : ₹1,000 for two :  Sayajipura, Vadodara
+New Rasthal Gujarati Thali : 4.0 : Gujarati : ₹1,000 for two :  Alkapuri, Vadodara
+Swagat Corner : 2.7 : North Indian, Chinese, Sichuan, Biryani, Street Food : ₹350 for two :  Nizampura, Vadodara
+Mezbaan Restaurant : 3.9 : North Indian, Mughlai, Kebab, Biryani, Seafood, Desserts : ₹1,000 for two :  Diwalipura, Vadodara
+Tapi Restaurant : 3.1 : North Indian : ₹250 for two :  Nizampura, Vadodara
+Annapoorna Corner : 3.9 : North Indian, South Indian, Biryani, Street Food : ₹400 for two :  Makarpura, Vadodara
+Vintage Vibes Restro : 3.7 : Chinese, Shake : ₹1,000 for two :  Bhayli, Vadodara
+Yes Frankie : 4.0 : Rolls, Sandwich, Pizza, Fast Food, Beverages : ₹300 for two :  Subhanpura, Vadodara
+Gir Gamthi Kathiyawadi Punjabi : 3.8 : Kathiyawadi, North Indian : ₹300 for two :  Subhanpura, Vadodara
+Pure Beans & Creams : 3.8 : Coffee, Tea, Shake, Beverages, Ice Cream : ₹350 for two :  Alkapuri, Vadodara
+Lazzate Nayab : 4.0 : North Indian, Mughlai, Biryani, Chinese : ₹1,000 for two :  Akota, Vadodara
+Tasty Family Restaurant : 4.0 : North Indian, Chinese, Biryani : ₹700 for two :  Karelibaug, Vadodara
+Chaat Ka Chaska : 3.9 : North Indian, Chinese, Fast Food, Pizza, Street Food, Shake, Beverages, Desserts : ₹1,200 for two :  Alkapuri, Vadodara
+Hotel New Larilappa Babubhai : 4.2 : North Indian : ₹400 for two :  Mandvi, Vadodara
+Coffee Yard : 3.5 : Cafe, Coffee, Sandwich, Burger, Pizza, Pasta, Fast Food, Beverages : ₹600 for two :  Akota, Vadodara
+Winner Winner Chicken Dinner : 4.3 : North Indian, Mughlai, Biryani, Seafood, Chinese, Beverages : ₹550 for two :  Bhayli, Vadodara
+Nukkad Pe : 4.0 : Sandwich, Fast Food, Shake, Coffee, Beverages : ₹300 for two :  Bhayli, Vadodara
+Geeta Lodge : 4.2 : Gujarati, Desserts : ₹250 for two :  Subhanpura, Vadodara
+Mezban Biryani And Rolls : - : Biryani, Rolls, North Indian : ₹300 for two :  Fatehgunj, Vadodara
+Jashan : 4.1 : North Indian, Mughlai, Chinese, Continental, Seafood, Biryani, Desserts, Beverages : ₹1,200 for two :  Gotri, Vadodara
+Pizza Da Dhaba : 3.9 : Pizza, Sandwich, Fast Food, North Indian, Chinese, Coffee, Shake, Beverages : ₹800 for two :  Kendranagar, Vadodara
+Real Kathiyawadi Restaurant : 4.2 : Kathiyawadi, Gujarati, North Indian, Biryani, Chinese, Beverages : ₹1,000 for two :  Sayajipura, Vadodara
+Samosazz The Fun Triangle : 3.4 : Street Food, Burger, Pizza, Sandwich, Pasta, Fast Food, Momos, Beverages : ₹300 for two :  Karelibaug, Vadodara
+Sista's Kitchen : 3.6 : Maharashtrian : ₹150 for two :  Kendranagar, Vadodara
+Egg Station - By Ustad Miyaan : 3.9 : Fast Food, North Indian, Bakery : ₹400 for two :  Nizampura, Vadodara
+Tealogy Cafe : 3.5 : Tea, Coffee, Shake, Beverages, Sandwich, Burger, Fast Food, Street Food : ₹200 for two :  Karelibaug, Vadodara
+Drunken Monkey : 3.8 : Beverages, Coffee, Shake, Healthy Food : ₹450 for two :  Gotri, Vadodara
+Bogo Unplugged : 3.9 : Cafe, Coffee, Mexican, Pasta, Pizza, Fast Food, Desserts, Beverages : ₹1,000 for two :  Karelibaug, Vadodara
+Santosh Pav Bhaji : 3.8 : Street Food, North Indian : ₹200 for two :  Subhanpura, Vadodara

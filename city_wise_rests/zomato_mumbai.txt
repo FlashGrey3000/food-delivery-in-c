@@ -1,0 +1,501 @@
+Tanatan : 4.6 : North Indian, Mughlai, South Indian, Seafood, Biryani, Desserts, Beverages : ₹1,800 for two :  Dadar Shivaji Park, Mumbai
+Cafe Noir : 4.4 : Italian, Continental, Pasta, Fast Food, Pizza, Desserts, Coffee, Cafe : ₹1,800 for two :  Lower Parel, Mumbai
+KOKO : 4.7 : Asian, Sushi, Desserts, Chinese, Beverages : ₹3,500 for two :  Kamala Mills Compound, Mumbai
+Nho Saigon : 4.5 : Vietnamese, Asian, Finger Food, Thai, Beverages, Desserts : ₹2,000 for two :  Jet Airways Godrej, Bandra Kurla Complex, Mumbai
+Younion : 4.1 : Finger Food, Finger Food, Continental, European, Chinese, North Indian, Italian, Fast Food, Desserts : ₹2,000 for two :  Kamala Mills Compound, Mumbai
+P.F. Chang's : 4.2 : Asian, Sushi, Desserts : ₹2,200 for two :  Lower Parel, Mumbai
+Pints Of Wisdom : 4.5 : North Indian, Bar Food, Chinese, Biryani, Fast Food : ₹1,000 for two :  Bandra Kurla Complex, Mumbai
+Kenko By Manav Shah : 3.5 : Continental, Salad, Healthy Food, Burger, Sandwich, Pasta, Juices, Beverages : ₹1,800 for two :  Linking Road, Bandra West, Mumbai
+China Bistro : 4.5 : Chinese, Asian, Sushi, Japanese, Korean, Thai, Seafood, Desserts : ₹1,500 for two :  Bandra Kurla Complex, Mumbai
+Mamagoto : 4.3 : Asian, Sushi, Thai, Japanese, Salad, Desserts, Chinese : ₹1,200 for two :  Hill Road, Bandra West, Mumbai
+The Little Easy : 4.3 : American, Finger Food, Italian, Pizza, Kebab, Seafood, Beverages : ₹1,700 for two :  Linking Road, Bandra West, Mumbai
+The Nines : 4.2 : Continental, Asian, North Indian, Pizza, Italian, Desserts, Sushi, Oriental : ₹2,000 for two :  Juhu, Mumbai
+Chala Basuya Bar & Kitchen : 4.3 : Bar Food, North Indian, Chinese, Beverages : ₹1,200 for two :  Mahim, Mumbai
+All Saints : 4.0 : Continental, Italian, Salad, Sushi, Chinese, Desserts, Bar Food, Asian : ₹1,500 for two :  Khar, Mumbai
+Therapy Cocktail Bar : 4.1 : Bar Food : ₹1,000 for two :  Khar, Mumbai
+Pleo : 4.3 : Pizza, Italian, Asian, Continental, European, North Indian, Sushi, Desserts : ₹1,500 for two :  Bandra East, Mumbai
+SAQI : 4.1 : North Indian, Italian, Asian, Chinese, Pizza, Continental, Desserts, Bar Food : ₹1,800 for two :  Khar, Mumbai
+Nxt Lvl : 4.2 : North Indian, Continental, Bar Food, Desserts : ₹1,800 for two :  Wagle Estate, Thane West, Thane
+U Turn : 4.2 : North Indian, Chinese, Continental, Bar Food, Seafood : ₹1,200 for two :  Khar, Mumbai
+Bastian : 4.5 : Asian, Chinese, Continental, Beverages, Desserts : ₹3,500 for two :  Linking Road, Bandra West, Mumbai
+House Of Pandora - HOP : 4.2 : Continental, European, Italian, Desserts : ₹1,800 for two :  Khar, Mumbai
+Yuhi : 4.2 : Asian, Chinese, Sushi, Italian, North Indian, Biryani, Pizza, Desserts : ₹1,800 for two :  Powai, Mumbai
+True Tramm Trunk : 4.1 : Finger Food, Fast Food, Continental, Pizza, North Indian, Beverages, Desserts : ₹2,500 for two :  Bandra Kurla Complex, Mumbai
+Blah! : 4.0 : Continental, Bar Food, Fast Food, Asian, Beverages : ₹2,000 for two :  Bandra Kurla Complex, Mumbai
+Roofberries Rooftop : 4.2 : Modern Indian, Asian, Sushi, Italian, Pizza, Continental, European, Beverages : ₹2,300 for two :  Linking Road, Bandra West, Mumbai
+Cray Craft : 4.5 : Modern Indian, North Indian, Chinese, Pizza, Asian : ₹1,000 for two :  Marol, Mumbai
+Mitron : 4.2 : North Indian, European, Continental, Asian, Sushi, Chinese, Desserts, Beverages : ₹2,000 for two :  Linking Road, Bandra West, Mumbai
+Demy : 4.4 : Sushi, Italian, Continental, North Indian, Pizza, Asian, Desserts, Beverages : ₹2,000 for two :  Lower Parel, Mumbai
+Masala Library : 4.3 : North Indian : ₹4,000 for two :  First International Financial Centre, Bandra Kurla Complex, Mumbai
+Eve : 4.6 : Asian, Continental, North Indian, Sushi, Pizza, Coffee, Beverages : ₹1,200 for two :  Powai, Mumbai
+Asia Kitchen By Mainland China : 4.4 : Chinese, Sushi, Asian, Rolls, Seafood, Desserts, Beverages : ₹1,600 for two :  Bandra Kurla Complex, Mumbai
+3 Stories - All Day Bar : 3.9 : Asian, Continental, North Indian, Pizza, Beverages : ₹1,500 for two :  Juhu, Mumbai
+Raasta : 4.2 : Continental, Chinese, Italian, Fast Food, Beverages : ₹2,000 for two :  Khar, Mumbai
+Bustle : 4.1 : North Indian, Chinese, Italian, Continental, Desserts, Shake, Beverages : ₹1,900 for two :  Borivali West, Mumbai
+Millo : 4.3 : Mexican, Italian, Asian, Modern Indian, Sushi, Desserts, Beverages : ₹2,000 for two :  Kamala Mills Compound, Mumbai
+Gigi : 4.1 : European, Japanese, Pizza, Pasta, Beverages, Desserts : ₹2,500 for two :  Linking Road, Bandra West, Mumbai
+Lord Of The Drinks : 4.4 : Fast Food, Italian, Chinese, North Indian, Bar Food, Finger Food, Beverages : ₹2,500 for two :  Worli, Mumbai
+Bawri : 4.1 : North Indian : ₹3,000 for two :  Bandra Kurla Complex, Mumbai
+Plum by Bent Chair : 4.5 : Asian, Sushi, Desserts : ₹3,000 for two :  Worli, Mumbai
+Blabber All Day : 4.5 : Asian, Italian, Pasta, North Indian, Pizza, Chinese, Cafe, Beverages : ₹1,800 for two :  Juhu, Mumbai
+Pop Tate's : 4.5 : Italian, Fast Food, Pizza, Chinese, Continental, Asian, Seafood, Beverages : ₹1,300 for two :  Bandra Kurla Complex, Mumbai
+Doolally Taproom : 4.6 : Finger Food, American, Italian, Pizza, Fast Food, Beverages, Desserts : ₹2,500 for two :  Veera Desai Area, Mumbai
+Bandra Born : 3.9 : Continental, Pasta, Salad, Desserts, Beverages, Modern Indian : ₹2,000 for two :  Bandstand, Bandra West, Mumbai
+Takumi : 4.2 : Salad, Asian, Japanese, Chinese, Desserts, Thai, Sushi, Vietnamese : ₹1,500 for two :  Santacruz West, Mumbai
+Blanco Bar By The Pool : 4.0 : Asian, North Indian, Japanese, Mediterranean, Continental, Italian, Thai, American : ₹1,200 for two :  Hill Road, Bandra West, Mumbai
+Oriv Resto - Cafe - Bar : 4.3 : North Indian, Chinese, Oriental, Continental, Italian, Fast Food, Wraps, Kebab : ₹1,400 for two :  Borivali West, Mumbai
+SodaBottleOpenerWala : 4.2 : Parsi, North Indian, Street Food, Desserts, Beverages : ₹1,600 for two :  Bandra Kurla Complex, Mumbai
+Baliboo : 4.3 : North Indian, Chinese, Korean, Pasta, Continental, Italian, Coffee, Beverages : ₹2,100 for two :  Goregaon East, Mumbai
+Earth Cafe @ BKC : 4.4 : Cafe, Coffee, Continental, Pizza, Pasta, Sandwich, Wraps, Desserts : ₹1,700 for two :  Bandra Kurla Complex, Mumbai
+Lucy Lou : New : Modern Indian, Asian, Turkish : ₹1,500 for two :  Mahakali, Mumbai
+Noa By The Nutcracker : 3.6 : Sandwich, Fast Food, Healthy Food, Desserts, Coffee, Continental, American, European : ₹600 for two :  Linking Road, Bandra West, Mumbai
+Amazonia : 3.9 : Chinese, Asian, Japanese, Sushi, Italian, Korean, Salad, Seafood : ₹1,800 for two :  Bandra Kurla Complex, Mumbai
+Veranda Rooftop : 4.2 : Bar Food, Mexican, Asian, Italian, Desserts : ₹2,800 for two :  Pali Hill, Bandra West, Mumbai
+One8 Commune : 4.0 : Finger Food, Asian, European, Mediterranean, Desserts : ₹2,500 for two :  Juhu, Mumbai
+Smoke House Deli : 4.6 : Italian, Burger, Sandwich, Pizza, Salad, Tea, Desserts, Beverages : ₹1,800 for two :  Pali Hill, Bandra West, Mumbai
+Razzberry Rhinoceros : 4.0 : Mediterranean, Italian, North Indian, Continental, Beverages, Desserts : ₹2,000 for two :  Juhu, Mumbai
+Veranda : 4.4 : North Indian, Chinese, Sandwich, Pasta, Desserts, Beverages : ₹2,000 for two :  Pali Hill, Bandra West, Mumbai
+Yazu - Pan Asian Supper Club : 4.6 : Thai, Korean, Japanese, Chinese, Sichuan, Asian, Sushi, Desserts : ₹1,800 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+BKC  Dive. : 4.3 : Bar Food, North Indian, Chinese, Continental, Pizza, Fast Food, Biryani, Desserts : ₹1,300 for two :  Bandra Kurla Complex, Mumbai
+Bayleaf Cafe : 4.2 : Cafe, Coffee, Healthy Food, Fast Food, North Indian, Italian, Asian, Desserts : ₹1,000 for two :  Juhu, Mumbai
+Nomad PizzaBar : 4.1 : Pizza, Italian, French, American, Turkish, Desserts, Coffee, Tea : ₹2,000 for two :  Linking Road, Bandra West, Mumbai
+Oh So Silly! : 4.0 : Continental, Salad, North Indian, Pizza, Asian, Desserts, Coffee, Beverages : ₹2,000 for two :  Khar, Mumbai
+Spice Laundry : 4.3 : Asian, Modern Indian, Sushi, Chinese, Biryani, Desserts, Beverages : ₹1,600 for two :  Chembur, Mumbai
+Aegyo Cafe & Bakehouse : 3.9 : Cafe, Coffee, Korean, Desserts, Tea, Asian, Hot Pot, Bubble Tea : ₹900 for two :  Khar, Mumbai
+Napoli By Shatranj : 4.3 : Italian, European, Desserts, Beverages, Bar Food, Pasta : ₹3,500 for two :  Pali Hill, Bandra West, Mumbai
+Lyla : 3.5 : Mexican, Beverages, Desserts, American : ₹2,500 for two :  Bandra Kurla Complex, Mumbai
+Poco Loco : 4.3 : Mexican, Spanish, Continental, Pizza, Salad, Desserts, Beverages, Fast Food : ₹3,000 for two :  Khar, Mumbai
+Fairy Tale - SIP DINE DANCE : 3.9 : North Indian, Biryani, Kebab, Chinese, Beverages, Continental, Pizza, Pasta : ₹1,200 for two :  Borivali West, Mumbai
+Journal : 4.3 : Coffee, Continental, Italian, Bakery : ₹700 for two :  Santacruz West, Mumbai
+Dobaraa : 4.6 : North Indian, Continental, Salad, Desserts : ₹1,200 for two :  Phoenix Palladium, Lower Parel, Mumbai
+Megumi : 3.7 : Japanese, Asian, Sushi, Beverages, Seafood : ₹3,500 for two :  Santacruz West, Mumbai
+Juliette Ristorante & Bar : 4.4 : European, Italian, Desserts, Pizza, Pasta, Continental : ₹2,500 for two :  Oshiwara, Andheri West, Mumbai
+Neuma : 4.0 : Asian, Continental, European, Mediterranean, Salad, Sandwich, Desserts, Beverages : ₹2,500 for two :  Colaba, Mumbai
+Someplace Else : 4.2 : North Indian, Continental, Asian, Sushi : ₹2,500 for two :  Jio World Drive, Bandra Kurla Complex, Mumbai
+The Tanjore Tiffin Room : 4.8 : Chettinad, South Indian, Biryani, Beverages : ₹1,800 for two :  Pali Hill, Bandra West, Mumbai
+Trèsind : 4.9 : Modern Indian : ₹8,000 for two :  Bandra Kurla Complex, Mumbai
+The Bombay Cartel : 4.2 : Sushi, Pizza, North Indian, Pasta, Fast Food, Healthy Food, Thai, Continental : ₹1,800 for two :  Juhu, Mumbai
+The Nutcracker : 4.5 : American, European, Salad, Italian, Sandwich, Desserts, Beverages : ₹1,800 for two :  Jio World Drive, Bandra Kurla Complex, Mumbai
+Bohoba : 4.4 : Modern Indian, Asian, Italian, European, Desserts, Beverages : ₹1,500 for two :  Malad West, Mumbai
+Fingerprint Kitchen & Bar : 4.3 : Continental, Japanese, North Indian, Biryani, Chinese, Kebab, Asian, Beverages : ₹1,400 for two :  Malad West, Mumbai
+Ishaara : 4.7 : North Indian, Mughlai, Kebab, Biryani : ₹1,900 for two :  Palladium Mall, Lower Parel, Mumbai
+LVEL - Bar & Dinner : 4.2 : Continental, Italian, North Indian, Mexican, Desserts, Beverages : ₹1,200 for two :  Sakinaka, Mumbai
+Mansionairre By The Roof : 4.1 : North Indian, Asian, Chinese, Continental, Italian, Japanese, Lebanese : ₹2,000 for two :  Wagle Estate, Thane West, Thane
+Silk Route : 4.2 : North Indian, Continental, Asian, Bar Food, Italian, Middle Eastern, Beverages : ₹1,400 for two :  Juhu, Mumbai
+Luuma House : New : Continental, Italian, North Indian, Asian, Beverages, Desserts : ₹1,500 for two :  Juhu, Mumbai
+Eight : 4.6 : Asian, Japanese, Sushi : ₹3,500 for two :  Palladium Mall, Lower Parel, Mumbai
+Tango Tamari : New : Japanese, Asian, Sushi : ₹2,000 for two :  Hotel King's International, Juhu, Mumbai
+Epitome : 4.1 : Italian, North Indian, Asian, Arabian, Sushi, Desserts, Beverages : ₹2,500 for two :  Lower Parel, Mumbai
+Rude Lounge : 4.1 : North Indian, Italian, Chinese, Bar Food, Fast Food, Biryani : ₹1,900 for two :  Supreme Business Park, Powai, Mumbai
+Badmaash : 4.2 : North Indian, Desserts, South Indian, Asian : ₹1,800 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+The Sassy Spoon : 4.4 : Chinese, Mexican, Salad, Burger, Desserts, Beverages : ₹2,500 for two :  Powai, Mumbai
+Zaika Fun Dining | Club Aquaria : 4.3 : North Indian, Chinese, Continental, Mughlai, Biryani, Sichuan, Shake, Beverages : ₹1,400 for two :  Borivali West, Mumbai
+August Cafe : 4.7 : Cafe, Beverages, Italian, Continental, Asian, Healthy Food, Mediterranean, Desserts : ₹1,200 for two :  Khar, Mumbai
+Estella : 4.2 : Asian, Desserts : ₹3,000 for two :  Juhu, Mumbai
+Mannrangi : 4.3 : Finger Food, Italian, North Indian, Biryani, Seafood, Mughlai, Desserts : ₹1,800 for two :  Goregaon West, Mumbai
+Spotlight Skydeck : 4.3 : North Indian, Italian, Fast Food, Chinese, Bar Food, Street Food, Desserts, Beverages : ₹1,800 for two :  Wagle Estate, Thane West, Thane
+Episode One : 4.4 : Chinese, Asian, Italian, North Indian, Sushi, Fast Food, Bar Food, Beverages : ₹1,600 for two :  Powai, Mumbai
+The Little Door : 4.0 : Mediterranean, Italian, European, Middle Eastern, Greek, Spanish, French, Cafe : ₹2,000 for two :  Veera Desai Area, Mumbai
+Sante Spa Cuisine : 4.4 : Continental, Healthy Food, Asian, Italian, Desserts, Cafe, Beverages : ₹2,100 for two :  Bandra Kurla Complex, Mumbai
+Gin Gin : 4.1 : Continental, Italian, Chinese, Oriental, Mexican, Sushi, Salad : ₹1,800 for two :  4 Bungalows, Mumbai
+Liv Eatery & Bar : 4.3 : Asian, Continental, Mediterranean, North Indian, Italian, Chinese, Sushi, Desserts : ₹1,600 for two :  Wagle Estate, Thane West, Thane
+Mool: Kitchen & Bar : 4.3 : Modern Indian, Beverages, Desserts : ₹1,000 for two :  Fort, Mumbai
+Tipsy Bro - Rooftop Lounge Bar & Luxury Dining : New : Continental, Asian, Mexican, Chinese, Pizza, Seafood, Bar Food, North Indian : ₹1,750 for two :  Vashi, Navi Mumbai
+Rikē - Terrace Bar & Grill : 4.2 : Continental, Mexican, Kebab, Asian, Pizza, Italian, North Indian, Bar Food : ₹2,000 for two :  Veera Desai Area, Mumbai
+Fiona by Radisson Blu : 4.2 : North Indian, Continental, Asian, Italian, Desserts, Beverages : ₹3,500 for two :  Radisson Blu Mumbai International Airport, Mumbai
+Indian BBQ Co. : 4.6 : BBQ, Finger Food, Street Food, Desserts : ₹1,700 for two :  Veera Desai Area, Mumbai
+The Bliss Cuisine & Libations : 4.4 : North Indian, Chinese, Kebab, Pizza, Continental, Biryani, Salad, Desserts : ₹1,600 for two :  Borivali West, Mumbai
+Pa Pa Ya : 4.3 : Asian, Japanese, Thai, Chinese, Sushi, Desserts : ₹1,500 for two :  Inorbit Mall, Malad West, Mumbai
+You Mee : 4.5 : Chinese, Sushi, Beverages, Asian : ₹1,000 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+AB's - Absolute Barbecues : 4.5 : Biryani, BBQ, Kebab, North Indian, Desserts : ₹1,750 for two :  Powai, Mumbai
+KOA - Cafe & Bar : 4.2 : Pizza, Pasta, North Indian, Sushi, Chinese, Desserts : ₹1,700 for two :  Korum Mall, Khopat, Thane West, Thane
+Kyma : 4.2 : Mediterranean, Asian : ₹3,000 for two :  Bandra Kurla Complex, Mumbai
+1 BHK - Brew House Kitchen : 4.4 : Cafe, Salad, European, Coffee, Beverages, Modern Indian, Desserts : ₹1,900 for two :  Oshiwara, Andheri West, Mumbai
+Boojee Cafe : 4.2 : Cafe, Coffee, Beverages, Continental, Bakery, Burger, Sandwich, Desserts : ₹1,200 for two :  Carter Road, Bandra West, Mumbai
+Chili's American Grill & Bar : 4.3 : American, Mexican, Burger, Tex-Mex, Healthy Food : ₹1,900 for two :  Ventura Building, Powai, Mumbai
+Burma Burma - Fort : 4.7 : Burmese, Asian, Salad, Ice Cream, Desserts, Bubble Tea : ₹1,800 for two :  Fort, Mumbai
+Nadara : 4.1 : Bar Food, Continental, Chinese, Salad : ₹1,100 for two :  Goregaon East, Mumbai
+Sao By The Sea : 3.6 : Goan, Seafood, Continental, Italian : ₹2,000 for two :  Gorai, Mumbai
+Veronica's : 3.0 : Cafe, Fast Food, Beverages : ₹1,500 for two :  Bandstand, Bandra West, Mumbai
+The Lantern Bar At Kandeel : 4.4 : Chinese, North Indian, Kebab, Mughlai, Seafood, Pasta, Bar Food, Beverages : ₹1,500 for two :  Fort, Mumbai
+Cava Lounge Bar : 4.3 : Bar Food, Pasta, Continental, North Indian, Asian, Chinese, Pizza : ₹1,500 for two :  Malad West, Mumbai
+Hitchki : 4.5 : North Indian, Bar Food, Asian, Continental, Desserts, Beverages : ₹2,000 for two :  First International Financial Centre, Bandra Kurla Complex, Mumbai
+Mannyogi : 4.0 : North Indian, Chinese, Mexican, Pizza, Pasta, Desserts, Shake, Beverages : ₹1,000 for two :  Kandivali West, Mumbai
+The Flying Saucer : 4.1 : Bar Food, Continental, Pizza, Pasta, Desserts, Beverages, Chinese : ₹2,500 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Tattva Bar & Cafe : 4.4 : Italian, Mexican, Continental : ₹1,800 for two :  Peninsula Redpine, Marol, Mumbai
+Heng Bok : 4.0 : Korean, Beverages, Desserts, Asian : ₹2,000 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Magna - Café & Bar : 4.3 : Asian, Continental, Mediterranean, Sushi, Lebanese, Pizza, Desserts, Beverages : ₹2,500 for two :  Wagle Estate, Thane West, Thane
+Balsa : 4.1 : North Indian, Chinese, Mexican, Beverages : ₹1,800 for two :  Lower Parel, Mumbai
+Izumi : 4.4 : Japanese, Sushi, Salad, Desserts, Beverages : ₹1,800 for two :  Linking Road, Bandra West, Mumbai
+Burma Burma : New : Burmese, Asian, Salad, Bubble Tea, Desserts : ₹1,800 for two :  Goregaon East, Mumbai
+Tiger Yaki : 4.0 : Asian, Japanese, Sandwich : ₹500 for two :  Pali Hill, Bandra West, Mumbai
+Yauatcha : 4.7 : Asian, Seafood, Chinese, Sichuan, Desserts, Beverages, Cantonese : ₹3,000 for two :  Bandra Kurla Complex, Mumbai
+Mulk : 4.6 : Street Food, North Indian, Kebab, Mughlai, Biryani, BBQ, Beverages, Desserts : ₹1,800 for two :  Veera Desai Area, Mumbai
+Avatāra : New : Modern Indian : ₹9,000 for two :  Santacruz West, Mumbai
+CinCin : 4.3 : Italian, European, Pasta, Pizza : ₹3,500 for two :  Bandra East, Mumbai
+Grey Cravings : 4.3 : North Indian, Asian, Lebanese, Turkish, Salad, Continental, Desserts : ₹2,500 for two :  Chembur, Mumbai
+Blanco : 4.0 : Chinese, Fast Food, Japanese, Modern Indian, Sushi, Pizza, Beverages : ₹1,200 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Ruby Talkies : 4.5 : Continental, Italian, North Indian, Salad, Pasta, Healthy Food, Street Food, Desserts : ₹1,500 for two :  Sakinaka, Mumbai
+Sammy Sosa : 4.7 : Mexican, Continental, Salad, Asian, Desserts, Bar Food : ₹1,200 for two :  Oshiwara, Andheri West, Mumbai
+The Game Ranch : 4.2 : Pizza, North Indian, Chinese, Burger, Italian : ₹1,600 for two :  Malad West, Mumbai
+Joey's Pizza : 4.5 : Pizza, Beverages, Salad : ₹500 for two :  Malad West, Mumbai
+Up In The Air : 4.2 : North Indian, Continental, Italian, Chinese, Kebab, Salad, Mughlai, Desserts : ₹1,500 for two :  Veera Desai Area, Mumbai
+POMPA : New : Mexican : ₹2,500 for two :  Linking Road, Bandra West, Mumbai
+SAZ - American Brasserie : 4.5 : Continental, Italian, Street Food, Fast Food, Desserts, Beverages : ₹2,000 for two :  Jio World Drive, Bandra Kurla Complex, Mumbai
+PizzaExpress : 4.3 : Pizza, Bakery, Italian, Salad, Coffee, Beverages : ₹1,400 for two :  Viviana Mall, Majiwada, Thane West, Thane
+Banjara - Goldfinch Hotel : 4.4 : Bengali, North Indian, South Indian, Asian, Continental, Mangalorean, Desserts, Beverages : ₹4,000 for two :  Goldfinch Hotel, Mahakali, Mumbai
+Cream Centre - Veg Bistro : 3.7 : North Indian, Street Food : ₹1,900 for two :  Inorbit Mall, Malad West, Mumbai
+Canto Restaurant & Banquet : 4.6 : Continental, Italian, Mexican, American, North Indian, Desserts, Beverages : ₹2,000 for two :  Lower Parel, Mumbai
+The Finch : 4.2 : Pizza, North Indian, Oriental, Italian, European, Asian, Desserts, Beverages : ₹1,800 for two :  Powai, Mumbai
+Leopold Cafe & Bar : 4.0 : North Indian, Chinese, Continental, Seafood, Sandwich, Desserts, Beverages : ₹2,500 for two :  Colaba, Mumbai
+Aer - Four Seasons : 4.3 : Continental, Mediterranean : ₹4,500 for two :  Four Seasons, Worli, Mumbai
+Captain's Brew : 4.5 : North Indian, Continental, Italian, Asian : ₹1,500 for two :  Wagle Estate, Thane West, Thane
+Buzz N Banter : New : Chinese, North Indian, Biryani, Italian, South Indian, Seafood, Kebab : ₹1,000 for two :  Kopar Khairane, Navi Mumbai
+The Bluebop Cafe : 4.5 : Italian, Burger, Mexican, Pizza, Continental, American, Desserts, Beverages : ₹1,700 for two :  Khar, Mumbai
+Donna Deli : 4.3 : Asian, Italian, Salad, Chinese, Pizza, Fast Food : ₹1,700 for two :  Linking Road, Bandra West, Mumbai
+The Bombay Canteen : 4.7 : Modern Indian, Bar Food, Beverages : ₹1,700 for two :  Kamala Mills Compound, Mumbai
+The Atrangii House Sky Lounge : 4.3 : Chinese, Asian, Sushi, Seafood, North Indian, Oriental, Fast Food, Desserts : ₹1,800 for two :  Sanpada, Navi Mumbai
+Rustico : 3.8 : North Indian, Chinese, Continental, Italian, Pizza, Beverages : ₹1,400 for two :  Fort, Mumbai
+Light House Cafe & Bar : 4.1 : Chinese, Salad, Continental, Sandwich, Burger, Pizza, Pasta, Italian : ₹1,500 for two :  Worli, Mumbai
+The Fusion Kitchen : 4.8 : Continental, Mexican, Italian, Thai, Asian, Desserts, Beverages : ₹1,900 for two :  Borivali West, Mumbai
+Corkage & Co. : 4.3 : American, Andhra, Asian, Arabian, Afghani, Biryani : ₹1,000 for two :  Powai, Mumbai
+Courtyard Pavilion - Courtyard By Marriott Navi Mumbai : 4.4 : Continental, Asian, North Indian, Italian, South Indian, Fast Food, Desserts : ₹3,200 for two :  Courtyard By Marriott Navi Mumbai, Navi Mumbai
+East Asia - Indian | Asian | Continental : 4.4 : Asian, Chinese, North Indian, Sushi, Continental, Pizza, Pasta, Sichuan : ₹1,800 for two :  Borivali West, Mumbai
+Pondichery Cafe - Sofitel : 4.0 : North Indian, European, Asian, French, Healthy Food, Beverages, Desserts : ₹3,000 for two :  Sofitel, Bandra Kurla Complex, Mumbai
+Shaadi Mubarak : 4.4 : North Indian, Chinese : ₹2,000 for two :  Oshiwara, Andheri West, Mumbai
+Opa! Bar & Cafe - Peninsula Grand Hotel : 4.2 : Lebanese, Middle Eastern, Arabian, Salad : ₹4,000 for two :  The Peninsula Grand Hotel, Sakinaka, Mumbai
+Mekada Tapas & Cocktail Bar : 4.5 : Italian, Continental, North Indian, Bar Food, Asian, Chinese, Mexican : ₹1,800 for two :  Vashi, Navi Mumbai
+Cosy Box : 4.0 : Mediterranean, Asian, Italian, Turkish, Seafood, European, North Indian, Desserts : ₹3,000 for two :  Lower Parel, Mumbai
+Butterfly High : 4.5 : Continental, Mughlai, North Indian, Bar Food, Asian, Modern Indian : ₹2,100 for two :  Oshiwara, Andheri West, Mumbai
+Glocal Junction : 4.5 : Continental, North Indian, Biryani, Asian, Pizza, Pasta, Desserts, Beverages : ₹1,800 for two :  Worli, Mumbai
+Warehouse Kitchenbar : 4.4 : Bar Food, Continental, North Indian, Chinese, Asian, Seafood, Desserts, Beverages : ₹1,900 for two :  Malad West, Mumbai
+Pizza By The Bay : 4.1 : Italian, Fast Food, Beverages : ₹2,500 for two :  Churchgate, Mumbai
+La Cena By Di Mora : 3.9 : Asian, Mexican, Pizza, Italian, Continental, Spanish, Finger Food, Desserts : ₹1,800 for two :  Wagle Estate, Thane West, Thane
+Out Of The Blue : 4.3 : European, Continental, Italian, Fast Food : ₹2,000 for two :  Le Sutra Hotel, Khar, Mumbai
+Greenr Cafe : 4.9 : Cafe, Salad, Pizza, Healthy Food, Pasta, Desserts, Beverages : ₹800 for two :  Pali Hill, Bandra West, Mumbai
+Sunday The Comfort Kitchen : 4.5 : Continental, Chinese, Oriental, Italian, Burger, North Indian, Asian, Desserts : ₹1,400 for two :  Borivali West, Mumbai
+Sigree Global Grill : 4.2 : North Indian, Biryani, Beverages : ₹1,950 for two :  Ventura Building, Powai, Mumbai
+Angrezi Patiyalaa : 4.5 : North Indian, Mughlai, Chinese, Salad, Bar Food, Beverages : ₹1,900 for two :  Korum Mall, Khopat, Thane West, Thane
+Kalinda : 4.3 : North Indian, Cantonese, Kebab, Mughlai, Rolls, Salad, Street Food, Beverages : ₹1,800 for two :  Malad West, Mumbai
+1522 - Bar And Kitchen : 4.3 : North Indian, Continental, Chinese, Modern Indian, Sichuan, Italian, Desserts, Beverages : ₹1,800 for two :  Goldfinch Hotel, Mahakali, Mumbai
+Torii : 4.2 : Asian, Japanese, Thai, Spanish, Mexican, Bar Food : ₹2,000 for two :  Khar, Mumbai
+Aqua : 4.4 : North Indian, Mediterranean, Sandwich, Wraps, Burger, Desserts : ₹1,500 for two :  CBD-Belapur, Navi Mumbai
+Corra : 4.4 : Continental, Pizza, Pasta, Mexican, Chinese, Coffee, Beverages : ₹2,000 for two :  Oshiwara, Andheri West, Mumbai
+Tunak Tunak Tunn : 4.3 : North Indian, Chinese, Kebab, Fast Food, Mughlai, Biryani, Desserts, Beverages : ₹1,300 for two :  Mulund West, Mumbai
+The Earth Plate - Sahara Star : 4.0 : Italian, Asian, Mediterranean, North Indian : ₹5,000 for two :  Sahara Star, Vile Parle East, Mumbai
+Basil & Beans : 4.5 : North Indian, Pasta, Pizza, Italian, Desserts, Continental, Street Food, Bakery : ₹600 for two :  Turbhe, Navi Mumbai
+Farzi Cafe : 4.3 : North Indian, Continental : ₹3,500 for two :  Oberoi Mall, Goregaon East, Mumbai
+Cha : 4.5 : Asian, Chinese : ₹1,500 for two :  Palladium Mall, Lower Parel, Mumbai
+Foo NESCO : 4.7 : Chinese, Asian, Sushi, Japanese, Desserts : ₹2,000 for two :  Goregaon East, Mumbai
+Facing East : 4.5 : Asian, Chinese, Sushi, Rolls, Salad, Desserts, Beverages : ₹1,700 for two :  Oshiwara, Andheri West, Mumbai
+Grandmama's Cafe : 4.0 : Cafe, Italian, Continental, American, Burger, Pizza, Fast Food, Beverages : ₹1,600 for two :  Juhu, Mumbai
+Nusara - Ramee Guestline Hotel : 4.3 : Asian, Rolls, Pizza, Chinese, Desserts : ₹2,000 for two :  Ramee Guestline Hotel, Juhu, Mumbai
+Shy : 4.4 : Continental, Asian, Italian, North Indian, Chinese, Desserts : ₹1,800 for two :  Cubic Mall, Chembur, Mumbai
+Saffron & Soy : 4.4 : North Indian, Chinese, Biryani, Oriental, Continental, Finger Food, Desserts, Beverages : ₹1,800 for two :  Juhu, Mumbai
+Punjab Grill : 4.2 : North Indian, Kebab, Biryani, Mughlai : ₹2,500 for two :  Infiniti Mall, Malad West, Mumbai
+The Irish House : 4.3 : Continental, Mediterranean, BBQ, Coffee : ₹2,500 for two :  Phoenix Palladium, Lower Parel, Mumbai
+Mag St. : 3.2 : Pizza, Asian, Continental, Bakery, Beverages, Burger, Cafe, European : ₹3,000 for two :  Linking Road, Bandra West, Mumbai
+Fillo : 4.5 : North Indian, Chinese, Italian, Continental, Pizza, Beverages : ₹1,000 for two :  Bhayandar, Mumbai
+Copper Chimney : 4.4 : North Indian, Mughlai, Biryani, Kebab, Desserts, Beverages : ₹1,600 for two :  Juhu, Mumbai
+Toit : 4.5 : Continental, South Indian, Italian, Fast Food, Desserts : ₹2,500 for two :  Lower Parel, Mumbai
+Gaylord : 3.7 : North Indian, Continental, Fast Food, Seafood, Italian, Biryani, Desserts, Beverages : ₹3,000 for two :  Churchgate, Mumbai
+Bombay Brasserie : 4.6 : North Indian, South Indian, Biryani, Desserts, Beverages : ₹1,800 for two :  Colaba, Mumbai
+Charlee : 3.9 : Salad, Asian, Modern Indian, Bar Food : ₹2,000 for two :  Khar, Mumbai
+1 BHK - Bar House Kitchen : 4.5 : North Indian, Goan, Italian, Portuguese, Bar Food : ₹2,000 for two :  Vashi, Navi Mumbai
+Shizusan : 4.4 : Japanese, Asian, Korean, Desserts, Chinese, Beverages : ₹2,500 for two :  Phoenix Marketcity, Kurla, Mumbai
+Sukoon : 2.7 : Salad, Wraps, South Indian, Pasta : ₹1,200 for two :  Carter Road, Bandra West, Mumbai
+The Brasserie - Hilton Mumbai International Airport : 4.1 : North Indian, Mughlai, Continental, Salad, Chinese, Shake, Beverages, Desserts : ₹3,500 for two :  Hilton Mumbai International Airport, Chakala, Mumbai
+Hana Pan Asian Kitchen and Bar : 4.5 : Asian, Chinese, Sushi, Desserts, Cantonese, Japanese, Korean, Thai : ₹1,600 for two :  Naupada, Thane West, Thane
+Bo Reverie : 4.3 : North Indian, Continental, Japanese, Thai, Asian : ₹1,500 for two :  Borivali West, Mumbai
+Mainland China : 4.5 : Chinese, Asian, Seafood, Japanese, Sushi, Desserts, Beverages : ₹2,000 for two :  Veera Desai Area, Mumbai
+Mia Cuccinna : 4.0 : American, Pizza, Italian, Pasta, Panini, Salad, Beverages, Desserts : ₹3,000 for two :  Hill Road, Bandra West, Mumbai
+Toast - Bistro & Bar : 4.6 : Continental, Italian, North Indian, Asian, Thai, Seafood, Desserts, Beverages : ₹2,500 for two :  T24 Residency, Marol, Mumbai
+145 Andheri : 4.4 : Bar Food, Beverages : ₹1,500 for two :  Veera Desai Area, Mumbai
+Asilo - The St. Regis Mumbai : 4.3 : European, Asian, Italian, Continental : ₹6,000 for two :  The St. Regis, Lower Parel, Mumbai
+Nosh & Beyond : 4.6 : Continental, Italian, Mexican, Middle Eastern, North Indian, Salad, Desserts, Beverages : ₹1,200 for two :  Marol, Mumbai
+Fisco Restobar : 4.3 : North Indian, Italian, Asian, Chinese, Fast Food, Biryani, Desserts, Beverages : ₹1,800 for two :  Kandivali West, Mumbai
+House Of Mandarin : 4.6 : Asian, Chinese, Japanese, Seafood, Desserts, Oriental, Beverages : ₹2,500 for two :  Powai, Mumbai
+PAUL : 4.0 : Cafe, Coffee, French, Continental, Italian, Desserts, Beverages : ₹1,500 for two :  Lower Parel, Mumbai
+Sea Fire Salt : 4.5 : Seafood, Maharashtrian, North Indian, Mughlai, Biryani, Desserts, Bar Food : ₹1,300 for two :  Wagle Estate, Thane West, Thane
+Tuya's : New : North Indian, Salad, Kebab, Italian, Chinese, Street Food, Asian, Pizza : ₹1,400 for two :  Juhu, Mumbai
+1441 Pizzeria : 4.5 : Pizza, Pasta, Italian, Desserts, Beverages : ₹1,400 for two :  Fort, Mumbai
+The Global Adda : 3.3 : North Indian, Asian, Italian, Sandwich, Chinese, Fast Food, Desserts : ₹1,200 for two :  Dadar Shivaji Park, Mumbai
+Ocean Kitchen Fine Dine : 4.1 : Seafood, North Indian, Continental, Oriental, Asian, Desserts, Chinese, Sushi : ₹1,200 for two :  Malad West, Mumbai
+The lovefools : 3.8 : Italian, Coffee, Tea, Beverages : ₹1,000 for two :  Hill Road, Bandra West, Mumbai
+Julius : 4.6 : European, Continental, Mediterranean : ₹2,000 for two :  Phoenix Palladium, Lower Parel, Mumbai
+Rodeo Drive - Peninsula Redpine : 4.2 : Continental, Pizza, Pasta, Burger, Salad, Desserts, Beverages : ₹2,000 for two :  Peninsula Redpine, Marol, Mumbai
+Ihop : 4.1 : Pancake, Burger, Steak, Healthy Food, American, Desserts, Shake, Coffee : ₹1,000 for two :  Palladium Mall, Lower Parel, Mumbai
+Olive Garden : 4.1 : Asian, North Indian, Continental, Italian, Oriental, Salad, Desserts, Beverages : ₹1,000 for two :  Borivali West, Mumbai
+Miniyaturk : 4.8 : Mediterranean, Italian, Desserts, Mexican, Asian, Chinese, Lebanese, Middle Eastern : ₹1,800 for two :  Veera Desai Area, Mumbai
+Casper's Bar And Kitchen : 4.4 : Bar Food, North Indian, Biryani, Oriental, Salad, Pizza, Desserts, Beverages : ₹1,750 for two :  Satra Plaza, Vashi, Navi Mumbai
+Deja Woo : 4.0 : Sushi, Continental, Desserts, Bar Food, Salad, Beverages, North Indian, Lebanese : ₹2,000 for two :  Inorbit Mall, Malad West, Mumbai
+Mastee : 4.3 : Japanese, North Indian, Italian, Continental, Chinese, Fast Food, Desserts, Beverages : ₹2,500 for two :  Borivali West, Mumbai
+Sirocco : 4.1 : Finger Food, North Indian, Pizza, Pasta, Salad, Chinese, Coffee, Beverages : ₹1,800 for two :  Versova, Andheri West, Mumbai
+71 Tales - Bar & Cafe : 4.4 : Bar Food, Asian, Mexican, Kebab, Seafood, Chinese, Desserts, Beverages : ₹1,300 for two :  Chembur, Mumbai
+Cirqa : New : Continental, Modern Indian, Desserts : ₹2,000 for two :  Lower Parel, Mumbai
+Taftoon Bar & Kitchen : 4.4 : North Indian, Lucknowi, Bengali, Kashmiri, Bihari, Beverages : ₹3,000 for two :  Bandra Kurla Complex, Mumbai
+Angrezi Dhaba : 4.2 : North Indian, Mughlai, Chinese, Seafood, Pasta, Biryani, Bar Food, Desserts : ₹1,500 for two :  Mahakali, Mumbai
+Legume : 4.3 : Street Food, North Indian, Italian : ₹1,000 for two :  Phoenix Palladium, Lower Parel, Mumbai
+The Bayview Restaurant - Marine Plaza : 4.0 : North Indian, Mughlai, Fast Food, Pizza, Biryani : ₹4,000 for two :  Marine Plaza, Marine Lines, Mumbai
+The Stables - Peninsula Redpine : 4.3 : North Indian, Continental, Chinese, Italian, Beverages, Desserts : ₹3,500 for two :  Peninsula Redpine, Marol, Mumbai
+La Loca Maria : 4.5 : Spanish, European, Italian, Tea, Coffee, Beverages : ₹4,500 for two :  Pali Hill, Bandra West, Mumbai
+Indian Accent : 4.1 : Modern Indian, North Indian, Desserts, Cafe, Tea, Beverages : ₹6,000 for two :  Bandra Kurla Complex, Mumbai
+Effingut : 4.4 : Mexican, Continental, North Indian, Beverages : ₹3,000 for two :  Colaba, Mumbai
+Bara Bara Bistro & Bar : 4.5 : North Indian, Continental, Kebab, Chinese, Biryani, Italian, Bar Food, Desserts : ₹1,000 for two :  Airoli, Navi Mumbai
+MH04 The Drunk Yard : 4.3 : Finger Food, North Indian, Continental, Beverages : ₹1,800 for two :  Manpada, Thane West, Thane
+Al Ayamna : 4.2 : North Indian, Chinese, Mughlai, Arabian, Turkish, Biryani, Desserts : ₹1,400 for two :  Jogeshwari, Mumbai
+Mato Mato : 4.4 : Continental, Oriental, North Indian, Sandwich, Burger, Pizza, Pasta, Salad : ₹1,800 for two :  Hiranandani Estate, Thane West, Thane
+Lyke : 4.2 : Asian, North Indian, Chinese, Sushi, Japanese, Continental, Pasta, Pizza : ₹1,600 for two :  Mulund West, Mumbai
+Kofuku : 4.1 : Japanese, Sushi, Rolls, Desserts, Beverages : ₹2,500 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Goa Portuguesa : 4.4 : Goan, Portuguese, South Indian, Maharashtrian, Desserts, Beverages : ₹2,500 for two :  Mahim, Mumbai
+Peshawri - ITC Maratha : 4.5 : North Indian, Mughlai, Kebab, Seafood, Desserts : ₹8,500 for two :  ITC Maratha, Chakala, Mumbai
+Western Tadka : 4.0 : North Indian, Chinese, Biryani : ₹1,200 for two :  Borivali West, Mumbai
+One Aura - Pool, Eatery & Bar : 4.2 : Continental, North Indian, Modern Indian, Oriental, Asian, American, Italian : ₹2,000 for two :  Andheri East, Mumbai
+The Godfather : 4.1 : North Indian, Continental, Italian, Chinese, Bar Food : ₹1,500 for two :  Veera Desai Area, Mumbai
+Si Nonna’s – The Original Sourdough Pizza : 4.6 : Pizza, Italian : ₹1,200 for two :  Fun Republic Mall, Veera Desai Area, Mumbai
+Indiana Water's : 4.3 : North Indian, Mughlai, Seafood, Chinese, Kebab, Asian, Biryani, Desserts : ₹1,400 for two :  Viviana Mall, Majiwada, Thane West, Thane
+Òsteria : 4.5 : Continental, European, Italian, Mexican, Pizza, Asian, Desserts, American : ₹2,000 for two :  Veera Desai Area, Mumbai
+Prithvi Cafe : 4.3 : North Indian, Bakery, Biryani, Pasta, Rolls, Beverages, Fast Food : ₹600 for two :  Juhu, Mumbai
+Knotty Yard : 4.3 : Continental, Chinese, Finger Food, Seafood, Pasta, Oriental, Desserts, Beverages : ₹1,800 for two :  Powai, Mumbai
+Cafe Delhi Heights : 4.4 : Continental, Italian, Oriental, North Indian, Seafood, Street Food : ₹1,500 for two :  Phoenix Marketcity, Kurla, Mumbai
+Zaika Restaurant & Party Hall : 4.2 : North Indian, South Indian, Chinese, Continental, Biryani, Italian, Ice Cream, Beverages : ₹800 for two :  Bhayandar, Mumbai
+The Kerala Table : 4.5 : Kerala, Seafood, Biryani, Chinese, Desserts, Beverages : ₹1,200 for two :  Vashi, Navi Mumbai
+PCO : 4.4 : Bar Food, Sushi, Rolls : ₹2,000 for two :  Lower Parel, Mumbai
+Americano : 4.2 : American, Continental, Italian : ₹3,000 for two :  Fort, Mumbai
+Mizu : 4.0 : Japanese, Sushi, Seafood, Ice Cream, Desserts : ₹2,500 for two :  Khar, Mumbai
+The Yellow Chilli : 4.1 : North Indian, Mughlai, Biryani, Chinese, Continental, Desserts, Beverages : ₹1,800 for two :  Star Mall, Dadar West, Mumbai
+Bonfire Multicuisine Restro Cafe : 4.5 : North Indian, Continental, Seafood, Salad, Healthy Food, Asian, Desserts, Cafe : ₹1,000 for two :  Versova, Andheri West, Mumbai
+The Studs Sports Bar & Grill : 4.1 : Modern Indian, Continental, Bar Food, Pizza, Thai, Desserts, Beverages, Chinese : ₹1,200 for two :  Wagle Estate, Thane West, Thane
+Thai Naam : 4.9 : Thai, Asian, Chinese, Desserts : ₹2,500 for two :  The Orb, Marol, Mumbai
+Gosssip Corner Cafe Resto : 4.4 : Mexican, Cafe, Panini, Chinese, Momos, Arabian, Desserts, Beverages : ₹1,500 for two :  Dahisar West, Mumbai
+Axo Mezze Lounge & Grill : 4.2 : Greek, Mediterranean, Modern Indian, Beverages, Desserts, Italian : ₹1,800 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Caffe Allora : 4.5 : Pizza, Italian, Pasta : ₹1,200 for two :  Phoenix Palladium, Lower Parel, Mumbai
+The Terrace - A Maiden Affair : 4.3 : Continental, Italian, Chinese, Fast Food, Salad, Desserts : ₹1,800 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Fir Milenge : New : North Indian, Chinese, Beverages, Desserts, Italian, Mexican, Coffee : ₹1,000 for two :  Malad West, Mumbai
+Ditas : 4.7 : European, Italian, Salad, Desserts, Beverages : ₹3,500 for two :  Lower Parel, Mumbai
+Sesame - Hyatt Centric Juhu Mumbai : 4.6 : Asian, Sushi, European, Pizza, Japanese, Salad, Beverages, Desserts : ₹2,150 for two :  Hyatt Centric Juhu Mumbai, Mumbai
+Shelter By Javaphile Cafe : 4.3 : Bakery, Salad, Desserts, Beverages, Burger, Pizza : ₹1,000 for two :  Versova, Andheri West, Mumbai
+The Nest : 4.2 : European, Asian, Lebanese, Continental, Cafe, Salad : ₹900 for two :  Hill Road, Bandra West, Mumbai
+Fisco Hub Restobar : 4.1 : Chinese, Salad, North Indian, Asian, Continental, Italian, Desserts, Beverages : ₹1,900 for two :  Borivali West, Mumbai
+Surocus : 4.2 : Continental, Mexican, Italian, Fast Food, Pizza, Healthy Food : ₹1,200 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+The Bliss Heritage Kitchen : New : North Indian, Maharashtrian, Biryani, Chinese, Continental, Sushi, Salad, Desserts : ₹1,400 for two :  Borivali West, Mumbai
+Kake Di Hatti : 3.9 : North Indian, Chinese, Pasta, Fast Food, Desserts, Beverages : ₹800 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Shizuru : 4.3 : Asian, Continental, Salad, Pizza, Burger, Healthy Food, Sushi, Beverages : ₹1,000 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Once Upon A Dine : 4.3 : Cafe, Italian, Continental, Chinese : ₹950 for two :  Khar, Mumbai
+Three 60 Daily Bar & Kitchen : 4.3 : Bar Food, North Indian, Mughlai, Biryani, Kebab, Chinese, Seafood, Desserts : ₹1,000 for two :  Versova, Andheri West, Mumbai
+O Pedro : 4.8 : Goan, Sandwich, Finger Food, Desserts, Beverages : ₹3,500 for two :  Jet Airways Godrej, Bandra Kurla Complex, Mumbai
+Mountain Goat Cafe : 4.0 : Momos, Chinese, Nepalese, Asian : ₹1,000 for two :  Bandstand, Bandra West, Mumbai
+Dome : 4.3 : Mediterranean, Japanese, Mexican, Asian, Beverages : ₹4,000 for two :  InterContinental, Churchgate, Mumbai
+Versova Vibes Cafe : 4.2 : North Indian, Chinese, Sichuan, Seafood, Kebab, Biryani, Mughlai, Fast Food : ₹1,000 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Mynt - Vivanta Navi Mumbai : 4.2 : Continental, North Indian, Pizza, Pasta, Salad, Seafood, Desserts, Beverages : ₹3,500 for two :  Turbhe, Navi Mumbai
+Makabo : 4.3 : Chinese, North Indian, Pizza, Rolls, Beverages : ₹1,750 for two :  Kandivali West, Mumbai
+Jamjar Diner : 4.3 : Italian, Mexican, Pizza, Burger, Fast Food, Desserts, Beverages : ₹1,500 for two :  Hill Road, Bandra West, Mumbai
+Que Sera Sera : 4.4 : Continental, Italian, Salad, European, Desserts, Beverages : ₹1,800 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Global Fusion : 4.5 : Chinese, Desserts : ₹3,000 for two :  Times Square, Marol, Mumbai
+Yard  64 : 4.4 : Bar Food, Beverages, North Indian, Finger Food, Pizza, Pasta, Mughlai, Lebanese : ₹1,200 for two :  Malad West, Mumbai
+Jyran - Sofitel : 4.3 : Desserts, Mughlai, North Indian : ₹4,000 for two :  Sofitel, Bandra Kurla Complex, Mumbai
+The Food Studio : 4.3 : North Indian, Kebab, Asian, Biryani, Italian, Seafood, Desserts : ₹1,000 for two :  Malad West, Mumbai
+Shalimar Restaurant : 4.2 : North Indian, Chinese, Mughlai, Seafood, Kebab, Biryani, Desserts, Beverages : ₹1,500 for two :  Kurla, Mumbai
+Asian Kitchen - Four Points By Sheraton : 4.1 : Asian, North Indian, Continental, Italian, Beverages, Desserts : ₹2,500 for two :  Four Points by Sheraton, Vashi, Navi Mumbai
+Bomb’ar : 4.1 : North Indian, Mexican, Oriental, Pizza, Continental, Shake, Beverages : ₹1,500 for two :  Goregaon West, Mumbai
+La Veggie : 4.1 : North Indian, Continental, Chinese, Italian, Mexican, Pizza, Pasta, Beverages : ₹1,700 for two :  Chowpatty, Mumbai
+The Berliner Bar : 4.3 : Burger, American, Continental, Finger Food, Beverages, German, Bar Food, Hot dogs : ₹1,800 for two :  Versova, Andheri West, Mumbai
+Rasotsav : 4.5 : Gujarati, North Indian : ₹1,400 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Finch Brewhouse : 4.3 : Chinese, Pizza, North Indian, Seafood, Mediterranean, Oriental, Bar Food, Beverages : ₹1,800 for two :  Manpada, Thane West, Thane
+Kona Eatery & Bar : 4.4 : North Indian, Chinese, Continental, Biryani, Italian, Bar Food, Desserts : ₹1,300 for two :  CBD-Belapur, Navi Mumbai
+TAB - Thoughtful American Bistronomy : 4.4 : American, Mexican, Desserts : ₹1,800 for two :  Lower Parel, Mumbai
+Meraki : 4.0 : Chinese, Thai, Burmese, Asian, Sichuan, Fast Food, Beverages : ₹1,000 for two :  Malad West, Mumbai
+93 East Lounge : 4.4 : Bar Food, Beverages : ₹1,000 for two :  Mahakali, Mumbai
+Persia Darbar : 4.4 : North Indian, Mughlai, Chinese, Asian, Seafood, Shawarma, Desserts, Beverages : ₹1,700 for two :  Malad West, Mumbai
+House Party : 4.4 : Oriental, Italian, Pizza, Modern Indian, Continental, Desserts, Shake, Beverages : ₹1,000 for two :  Khar, Mumbai
+Maujja : 4.4 : North Indian, Chinese, Seafood, BBQ, Biryani, Drinks Only, Kebab, Desserts : ₹1,800 for two :  Vile Parle East, Mumbai
+Shiloh Bar And Experience : 3.9 : Modern Indian, Continental, Pizza, Pasta, European, Finger Food, Bar Food : ₹2,800 for two :  Veera Desai Area, Mumbai
+The Atrangii House : 4.5 : Chinese, North Indian, Finger Food, Asian, Italian, Oriental, Fast Food, Desserts : ₹1,800 for two :  Airoli, Navi Mumbai
+The Game Palacio : 4.2 : Pizza, Sushi, Asian : ₹2,400 for two :  Linking Road, Bandra West, Mumbai
+Sorozai - Goan Bar & Restaurant : 4.3 : Bar Food, Goan, Seafood, Mexican, Salad : ₹1,200 for two :  Versova, Andheri West, Mumbai
+Los Cavos : 4.4 : Peruvian, Desserts : ₹2,500 for two :  Linking Road, Bandra West, Mumbai
+The Butler And The Bayleaf : 4.6 : North Indian, Awadhi, Kebab, Biryani : ₹2,500 for two :  Hotel King's International, Juhu, Mumbai
+Eleven Eleven : 4.5 : North Indian, Asian, Pizza, Chinese, Seafood, Salad, Desserts, Beverages : ₹900 for two :  CBD-Belapur, Navi Mumbai
+Pickle & Pint - The Paradise By Tunga : 4.4 : North Indian, Chinese, Continental, Seafood, Mughlai, Oriental, Salad, Beverages : ₹1,700 for two :  The Paradise By Tunga, Mahakali, Mumbai
+Freny's All Day Dining & Bar : New : Modern Indian, Italian, Pizza, Pasta : ₹1,000 for two :  Linking Road, Bandra West, Mumbai
+West 1 - The Park, Navi Mumbai : 4.0 : North Indian, Continental, Bar Food, Fast Food, Beverages : ₹3,000 for two :  The Park, CBD Belapur, Navi Mumbai
+Rajdhani : 4.1 : North Indian : ₹1,200 for two :  Vashi, Navi Mumbai
+Gymkhana 91 Bar & Kitchen : 4.3 : North Indian, Japanese, Thai, Burmese, Chinese, Beverages : ₹1,800 for two :  Lower Parel, Mumbai
+Glass House : 3.8 : North Indian, Chinese, Italian, Fast Food, Finger Food : ₹2,000 for two :  Malad West, Mumbai
+Fusion Ville : 4.3 : North Indian, Oriental, Pizza, Pasta, Kebab, Chinese, Mughlai, Beverages : ₹1,000 for two :  Marol, Mumbai
+Pritam Da Dhaba : 3.8 : North Indian, Mughlai, Kebab, Seafood, Biryani, Desserts, Beverages : ₹1,600 for two :  Juhu, Mumbai
+Spice It - ibis Thane : 4.1 : Continental, North Indian, Biryani, Asian, Pizza, Italian, Desserts, Beverages : ₹2,000 for two :  Ibis Khopat, Thane West, Thane
+Boho Bar & Kitchen : 4.2 : North Indian, Asian, Italian, Continental, Mughlai, Fast Food, Desserts, Beverages : ₹1,800 for two :  Goregaon West, Mumbai
+Maharaja Bhog : 4.4 : North Indian, Gujarati, Rajasthani : ₹1,800 for two :  Juhu, Mumbai
+Praia Bar & Kitchen : 4.0 : Greek, Lebanese, Continental : ₹2,000 for two :  Atria Mall, Worli, Mumbai
+Hops Kitchen & Bar : 4.3 : North Indian, Chinese, Sichuan, Bar Food : ₹1,900 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Dusk - The Park, Navi Mumbai : 4.3 : Bar Food, Modern Indian, Chinese, Oriental, Italian, Desserts : ₹2,500 for two :  The Park, CBD Belapur, Navi Mumbai
+Coco Cafe : 4.6 : Cafe, Coffee, Sandwich, Healthy Food, Continental, Fast Food, Shake, Beverages : ₹1,200 for two :  Oberoi Mall, Goregaon East, Mumbai
+Mini Punjab Restaurant & Bar : 3.9 : North Indian, Chinese, Biryani, Mughlai, Beverages, Bar Food, Bakery, BBQ : ₹1,000 for two :  Vashi, Navi Mumbai
+Origami Japanese And Korean Restaurant : 4.3 : Japanese, Korean, Sushi, BBQ, Rolls : ₹2,500 for two :  Supreme Business Park, Powai, Mumbai
+Joshi House : 3.6 : North Indian, Continental, Italian, Salad, Chinese, Bar Food : ₹2,000 for two :  Pali Hill, Bandra West, Mumbai
+Earth Cafe @ Juhu : 4.1 : Cafe, Coffee, Continental, Healthy Food, Italian, Fast Food, Desserts, Beverages : ₹2,000 for two :  Juhu, Mumbai
+145 The Mill : 4.7 : American, Korean, North Indian, Asian, Italian, Desserts, Beverages : ₹1,800 for two :  Kamala Mills Compound, Mumbai
+Baoji Asian Home : 4.6 : Chinese, Asian, Japanese, Rolls, Korean, Sushi, Seafood, Beverages : ₹2,000 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Tiger Yaki : 3.6 : Japanese, Asian : ₹500 for two :  Oshiwara, Andheri West, Mumbai
+One 'O' One : 4.2 : Asian, North Indian, Pizza, Continental : ₹1,500 for two :  Kandivali East, Mumbai
+Sannidhi Bar and Kitchen : 4.3 : Continental, Chinese, North Indian, Beverages, Pizza, Biryani, Pasta : ₹1,200 for two :  Kandivali West, Mumbai
+Bustling Brew Bistro Cafe : 4.6 : Cafe, Beverages, Italian, Chinese, Fast Food, Salad, Sushi, Desserts : ₹700 for two :  Wagle Estate, Thane West, Thane
+Tim Hortons : 4.0 : Coffee, Sandwich, Cafe, Beverages : ₹700 for two :  Oshiwara, Andheri West, Mumbai
+Open Your Soda Bottle : 3.9 : North Indian, Chinese, Continental : ₹1,000 for two :  Malad West, Mumbai
+Seesaw : 4.6 : Middle Eastern, Continental, Mediterranean, Healthy Food, Beverages, Desserts : ₹2,000 for two :  Jio World Drive, Bandra Kurla Complex, Mumbai
+Thane Social : 4.2 : North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Kebab, Beverages : ₹1,800 for two :  Viviana Mall, Majiwada, Thane West, Thane
+Independence Brewing Company : 4.6 : American, Cafe, Continental, Desserts, Fast Food, Bar Food, Beverages : ₹2,500 for two :  Ventura Building, Powai, Mumbai
+Folk : 4.8 : North Indian, Goan, Salad, Desserts, Beverages : ₹1,000 for two :  Fort, Mumbai
+Cafe Crema - Peninsula Grand Hotel : 4.3 : North Indian, Pizza, Sushi, Chinese, Asian, Pasta, Desserts, Beverages : ₹1,400 for two :  Sakinaka, Mumbai
+Zoila : 3.9 : North Indian, Chinese, Continental, Salad, Fast Food, Bar Food, Desserts, Beverages : ₹1,800 for two :  Fun Republic Mall, Veera Desai Area, Mumbai
+Chef's House : 4.2 : Asian, Continental, Italian, North Indian, Mughlai, Chinese, Desserts, Beverages : ₹1,000 for two :  Mahakali, Mumbai
+Ping's Cafe Orient : 4.5 : Asian, Chinese, Japanese, Salad, Vietnamese, Oriental, Sushi, Thai : ₹2,000 for two :  Lower Parel, Mumbai
+Food Exchange By Novotel : 4.2 : North Indian, Chinese, Pasta, Pizza, Asian : ₹3,500 for two :  Novotel - Mumbai Chakala, Mumbai
+Zerua - Rooftop Dining Lounge : 3.8 : Mediterranean, Mexican, Sushi, Italian, Desserts : ₹2,500 for two :  Atria Mall, Worli, Mumbai
+Keiba X All Saints : 4.3 : Sushi, Japanese, Chinese, Asian, Salad, Desserts, Beverages : ₹2,500 for two :  Mahalaxmi, Mumbai
+Malido Cafe : 4.6 : Parsi, Continental, Salad, Sandwich, Desserts, Bakery, Coffee : ₹1,000 for two :  Fort, Mumbai
+Blue Tokai Coffee Roasters : 4.0 : Cafe, Coffee, Beverages : ₹600 for two :  Airoli, Navi Mumbai
+Mangii Ferra : 4.4 : Italian, Continental, Salad, Pizza, Pasta, Desserts, Beverages : ₹3,000 for two :  Juhu, Mumbai
+Chimichurri : 4.5 : Chinese, Sushi, Asian, Thai, Japanese, Seafood, Beverages : ₹2,000 for two :  Times Square, Marol, Mumbai
+Lake View Cafe - The Westin Mumbai Powai Lake : 4.1 : North Indian, Chinese, Italian, Mughlai, Desserts, Beverages : ₹3,500 for two :  The Westin Mumbai Powai Lake, Mumbai
+Chin Chin Chu : 4.4 : Asian, Japanese, Seafood, Sushi, Chinese, Desserts, Beverages : ₹2,500 for two :  Juhu, Mumbai
+The Coconut Boy : 3.8 : Goan, Portuguese : ₹1,000 for two :  Pali Hill, Bandra West, Mumbai
+Surbhi Pure Veg : 4.1 : North Indian, South Indian, Sandwich, Chinese, Pizza, Italian, Desserts, Beverages : ₹950 for two :  Kandivali East, Mumbai
+Tessa : 4.5 : Continental, North Indian, Italian, Biryani, Seafood, Mughlai, Chinese, Bar Food : ₹1,200 for two :  Malad West, Mumbai
+Mia Cucina : 4.3 : Italian, Pizza, Panini, Continental, Pasta, Desserts : ₹2,500 for two :  Transocean House, Powai, Mumbai
+British Brewing Company : 4.1 : British, Italian, Fast Food, Continental, Chinese, Pizza, Salad, Desserts : ₹1,800 for two :  Times Square, Marol, Mumbai
+TomTom  Sky Bar & Club : 4.3 : North Indian, Chinese : ₹1,000 for two :  Turbhe, Navi Mumbai
+Kubec : 4.1 : North Indian, Fast Food, Chinese : ₹1,000 for two :  Powai, Mumbai
+Soho House : - : Continental, Pizza, Tea : ₹2,000 for two :  Juhu, Mumbai
+Cecconi's : 3.7 : Italian, Pizza, Finger Food : ₹4,000 for two :  Santacruz West, Mumbai
+Masque : 4.6 : Modern Indian, Finger Food : ₹6,000 for two :  Mahalaxmi, Mumbai
+Nomi : 4.3 : Lebanese, Middle Eastern, Shawarma, Arabian, Continental, Beverages : ₹1,500 for two :  Veera Desai Area, Mumbai
+Bombay Martini : 4.3 : Chinese, Fast Food, North Indian, Biryani, Desserts, Beverages : ₹1,400 for two :  Powai, Mumbai
+Cafe Panama : 4.2 : Mexican, Salad, Sandwich, Burger, Desserts : ₹2,000 for two :  Lower Parel, Mumbai
+Cafe Holiday : New : Cafe, Beverages, North Indian, Italian, Continental, Asian, Salad, Desserts : ₹1,250 for two :  Wagle Estate, Thane West, Thane
+Perch Wine And Coffee Bar : 3.7 : Cafe, Bar Food, Coffee, European, Mediterranean, Desserts, Beverages : ₹1,800 for two :  Khar, Mumbai
+Brunch Bar Cafe : 4.2 : Continental, Chinese, Oriental, Fast Food, Pizza, Shake, Beverages, Desserts : ₹1,200 for two :  Ghodbunder Road, Thane
+Moon Palace Restaurant : 4.2 : Maharashtrian, Oriental, North Indian, Biryani, Chinese, Pizza, Pasta, Desserts : ₹1,500 for two :  Airoli, Navi Mumbai
+Black Bull Bar & Restaurant : 4.3 : North Indian, Chinese, Kebab, Biryani, Mughlai, Seafood, Sichuan, Desserts : ₹1,200 for two :  Near Andheri East Station, Mumbai
+Malang - Courtyard By Marriott Navi Mumbai : 4.5 : North Indian, Mughlai, Biryani : ₹2,500 for two :  Courtyard By Marriott Navi Mumbai, Navi Mumbai
+Santa Maria : New : Sandwich, Salad, Finger Food : ₹1,000 for two :  Hill Road, Bandra West, Mumbai
+Nebo Fête House : New : North Indian, Continental, Bar Food : ₹1,000 for two :  Chakala, Mumbai
+Malhar Tribes : 4.6 : North Indian, Maharashtrian, Andhra, Seafood, Chinese, Italian, Desserts, Beverages : ₹1,900 for two :  Marol, Mumbai
+Thyme & Whisk : 4.2 : North Indian, Continental, Asian, Italian, Salad, Fast Food, Desserts : ₹1,400 for two :  Atria Mall, Worli, Mumbai
+California Pizza Kitchen : 4.2 : Pizza, American, Italian, Pasta, Continental, Salad, Beverages, Desserts : ₹1,800 for two :  Kohinoor Square Mall, Mumbai
+Zoca Cafe : 4.0 : Cafe, Coffee, Beverages, Pizza, Chinese, Continental, Pasta, Desserts : ₹1,200 for two :  Veera Desai Area, Mumbai
+Ikka - Pallavi Avida : 4.4 : North Indian, Chinese, Fast Food : ₹1,400 for two :  Pallavi Avida, Kalamboli, Navi Mumbai
+Coast & Bloom : 4.5 : Seafood, Maharashtrian, South Indian, Asian, Chinese, Desserts : ₹2,000 for two :  Kohinoor Square Mall, Mumbai
+Hakkasan : 4.6 : Cantonese, Asian, Seafood, Desserts : ₹3,000 for two :  Linking Road, Bandra West, Mumbai
+Nav Chaitanya : 4.6 : Malwani, Seafood, Maharashtrian, Desserts : ₹1,600 for two :  4 Bungalows, Mumbai
+Bokka Coffee : 3.7 : Cafe, Coffee : ₹700 for two :  Pali Hill, Bandra West, Mumbai
+Diablo : 4.1 : Asian, North Indian, Chinese, Desserts, Beverages : ₹1,900 for two :  Worli, Mumbai
+Taki Taki : 4.7 : Sushi, Japanese, Asian, Thai, Chinese, Desserts : ₹3,000 for two :  Lower Parel, Mumbai
+Mutuswami : 4.1 : Tea, Coffee, Juices, Beverages, South Indian, Pizza, Sandwich, Street Food : ₹500 for two :  Khar, Mumbai
+Lil Gamby Pizza Shop And Bar : 4.7 : Pizza, Sandwich, Pasta, Beverages, Coffee : ₹500 for two :  Khar, Mumbai
+Nock Nock Resto Bar : 4.2 : Continental, Mexican, Chinese, Desserts : ₹900 for two :  Kalyan, Thane
+Turkey Central : 4.0 : Turkish, North Indian, Mughlai, Biryani, Desserts : ₹950 for two :  Oshiwara, Andheri West, Mumbai
+Shams Alibaba Cafe : 4.0 : North Indian, Chinese, Mughlai, Kebab, Biryani, Seafood, Desserts : ₹1,000 for two :  Jogeshwari, Mumbai
+Boulevard - The Orchid : 4.4 : North Indian, Continental, Pasta, Pizza, Chinese, Biryani, Seafood, Desserts : ₹3,000 for two :  The Orchid, Vile Parle East, Mumbai
+Samvene - The Bagel Cafe : 4.2 : Cafe, Salad, Continental, Fast Food, Desserts, Beverages, Shake : ₹1,100 for two :  Malad West, Mumbai
+Fauna Cafe : 4.5 : Cafe, Coffee, Fast Food, Sandwich, Pizza, Italian, Healthy Food, Desserts : ₹1,000 for two :  Wagle Estate, Thane West, Thane
+Magnolia Bakery : 3.1 : Bakery, Desserts, Beverages : ₹500 for two :  Pali Hill, Bandra West, Mumbai
+La Mar Bar & Kitchen : New : Mediterranean, European : ₹3,800 for two :  Worli, Mumbai
+Shore : 4.2 : North Indian, Chinese, Italian, Fast Food, Seafood, Continental : ₹1,000 for two :  Versova, Andheri West, Mumbai
+Riviera : 3.9 : Chinese, North Indian, Seafood, Biryani, Oriental, Desserts : ₹1,200 for two :  Vasant Vihar, Thane West, Thane
+Art House - The Fern Residency : 4.0 : North Indian, Continental, Chinese, Sandwich, Mughlai, Salad, Desserts, Beverages : ₹2,500 for two :  Chembur, Mumbai
+Goma -  Asian Experience : 4.6 : Japanese, Sushi, Asian, Chinese, Coffee, Desserts : ₹2,000 for two :  Radisson, Goregaon West, Mumbai
+Kayko - Dining & Bar : 4.4 : Modern Indian, Italian, Chinese, Bar Food, Seafood, Asian, Desserts, Beverages : ₹1,200 for two :  Times Square, Marol, Mumbai
+Ammas Restaurant & Bar : 4.3 : North Indian, Chinese, Seafood, Fast Food, Mughlai, Desserts, Beverages : ₹1,000 for two :  Near Andheri East Station, Mumbai
+The Villa Exotic Sip And Cuisine : 3.5 : North Indian, Continental, Oriental, Kebab, Pizza, Sushi, Chinese, Desserts : ₹1,400 for two :  Borivali West, Mumbai
+Persian Darbar : 4.0 : North Indian, Biryani, Kebab, Chinese, Mughlai : ₹1,800 for two :  Times Square, Marol, Mumbai
+Pibatie : 4.5 : Cafe, Italian, Pasta, Mexican, Fast Food, Desserts, Coffee, Beverages : ₹800 for two :  Borivali West, Mumbai
+Gurukripa : 4.2 : North Indian, Mughlai, Chinese, Fast Food, Rolls, Biryani, Kebab, Beverages : ₹1,700 for two :  Powai, Mumbai
+Lotus Cafe - JW Marriott Mumbai Juhu : 4.3 : North Indian, Asian, Italian, Continental, Lebanese : ₹5,000 for two :  JW Marriott Mumbai, Juhu, Mumbai
+Saptami - Holiday Inn : 4.1 : Continental, North Indian, Italian, American, Chinese, Healthy Food, Beverages : ₹2,700 for two :  Holiday Inn, Sakinaka, Mumbai
+Hillview Cafe - Marriott Executive Apartments Navi Mumbai : 4.4 : North Indian, Continental, Asian, Salad, Chinese, Pizza, Biryani, Desserts : ₹2,100 for two :  Marriott Executive Apartments Turbhe, Navi Mumbai
+Bharat Excellensea Restaurant : 4.5 : North Indian, Seafood, Chinese, Continental, Malwani, Desserts : ₹1,700 for two :  Fort, Mumbai
+Mamba : 4.4 : Chinese, Italian, Asian, North Indian, Continental, Seafood : ₹2,300 for two :  Manpada, Thane West, Thane
+Arggo's : 4.1 : Italian, Asian, Beverages, Desserts, Pizza, Pasta, Bar Food, Coffee : ₹2,000 for two :  Linking Road, Bandra West, Mumbai
+Jimis Burger : 4.5 : Burger, Fast Food, Beverages, Salad : ₹650 for two :  Malad West, Mumbai
+Sun & Moon Korean Restaurant : 4.4 : Korean, Bubble Tea, Coffee : ₹2,500 for two :  Worli, Mumbai
+The Munchbox : 4.4 : Mexican, Continental, Desserts, North Indian, Chinese, Sichuan, Shake, Beverages : ₹2,000 for two :  Malad West, Mumbai
+The Backyard Brew : 4.6 : Cafe, Coffee, Burger, Pasta, Continental, Fast Food, Pizza, Sandwich : ₹1,200 for two :  Versova, Andheri West, Mumbai
+Thyme & Whisk : 4.2 : North Indian, Continental, Italian, Asian, Fast Food, Chinese, Desserts : ₹2,000 for two :  Juhu, Mumbai
+Malvan Tadka : 4.2 : Malwani, Seafood, Chinese, North Indian, Mughlai, Kebab, Desserts, Biryani : ₹1,400 for two :  Vashi, Navi Mumbai
+5 Spice : 3.9 : Chinese, Sichuan, Asian, Thai, Seafood : ₹1,300 for two :  CBD-Belapur, Navi Mumbai
+Trento : 4.5 : North Indian, Asian, Italian, Salad, Seafood, Biryani, Desserts, Beverages : ₹1,100 for two :  Goregaon West, Mumbai
+Agent Jack's Bar : 4.2 : North Indian, Chinese, Continental, Italian, Beverages, Pasta, Pizza, Oriental : ₹1,500 for two :  Ghatkopar West, Mumbai
+Farmhouse Palladium : 4.4 : North Indian, Chinese, Asian, Continental, Seafood, Fast Food, Biryani, Desserts : ₹1,650 for two :  Borivali West, Mumbai
+Game Palacio : 4.1 : Continental, Mexican, Chinese, Pizza, Pasta, Seafood, Biryani, Desserts : ₹1,600 for two :  Phoenix Marketcity, Kurla, Mumbai
+Bombay Republic : 4.1 : Asian, Oriental, North Indian : ₹1,000 for two :  Marol, Mumbai
+Mezcalita Cantina y Tequila Bar : 4.0 : Mexican, Bar Food, Sandwich, Fast Food, Coffee, Beverages : ₹1,500 for two :  Churchgate, Mumbai
+Dakshinayan : 4.4 : South Indian, Desserts, Beverages : ₹700 for two :  Juhu, Mumbai
+Shifuku Asian Dining & Cocktail Bar : 4.5 : Sushi, Asian, Korean, Japanese, Chinese, Desserts : ₹2,000 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Bayroute : 4.8 : Middle Eastern, Arabian : ₹3,500 for two :  Transocean House, Powai, Mumbai
+China Ming : 4.2 : Chinese, Sushi, Seafood, Bar Food, Asian, Desserts, Beverages : ₹1,800 for two :  The Hub Mall, Goregaon East, Mumbai
+MoMo Cafe - Courtyard By Marriott : 4.0 : North Indian, South Indian, Asian, Continental, Street Food, Desserts, Beverages : ₹4,000 for two :  Courtyard by Marriott, Chakala, Mumbai
+Farmer's Cafe : 3.6 : Cafe, Italian, Healthy Food, Desserts : ₹1,700 for two :  Khar, Mumbai
+Akina Contemporary Japanese Restaurant And Bar : 3.9 : Asian, Japanese, Sushi, Desserts, Beverages : ₹3,000 for two :  Linking Road, Bandra West, Mumbai
+House Of KO : 4.3 : European, Asian, Continental, Salad, Desserts, Pizza, Beverages, Bar Food : ₹1,800 for two :  Chembur, Mumbai
+TAP : 4.1 : Continental, Asian, Italian, Chinese, North Indian, Seafood, Salad, Desserts : ₹2,200 for two :  Times Square, Marol, Mumbai
+Mostly Grills - The Orchid : 4.4 : Continental, American, North Indian, Finger Food, Desserts, Beverages : ₹4,000 for two :  The Orchid, Vile Parle East, Mumbai
+Waves - The Hightide Club : 4.2 : Continental, North Indian : ₹3,000 for two :  Mumbai CST Area, Mumbai
+T2 Lounge : New : North Indian, Continental, Biryani, Chinese, Sandwich, Fast Food, Shake, Beverages : ₹1,300 for two :  Chakala, Mumbai
+Banyan Tree Cafe : 4.4 : Salad, Healthy Food, Sandwich, Continental, Coffee, Beverages : ₹700 for two :  Fort, Mumbai
+Communion Cafe : 4.4 : Cafe, Desserts, Beverages, Wraps : ₹1,300 for two :  CBD-Belapur, Navi Mumbai
+Barista Coffee : 3.6 : Cafe, Coffee, Desserts : ₹600 for two :  Chembur, Mumbai
+Turkey Junction Restaurant : 4.2 : Turkish, Arabian, Mughlai, North Indian, Chinese, Desserts, Beverages : ₹1,000 for two :  Bandra Talao, Bandra West, Mumbai
+Fifty Five East - Grand Hyatt Mumbai Hotel & Residences : 4.3 : Thai, Lebanese, Japanese, Asian, Chinese, North Indian, Mughlai : ₹5,000 for two :  Grand Hyatt Mumbai & Residences, Santacruz East, Mumbai
+Green Leaf Family Restaurant Lounge And Pub : 3.5 : North Indian, Continental, Chinese, Seafood, Fast Food, Mughlai, Desserts, Beverages : ₹1,500 for two :  Kalyan, Thane
+Chantilly : 4.3 : Bakery, Waffle, Desserts, Coffee : ₹850 for two :  Pali Hill, Bandra West, Mumbai
+Achija : 2.8 : North Indian, South Indian, Biryani, Pizza, Sandwich, Juices, Shake, Beverages : ₹1,000 for two :  Lower Parel, Mumbai
+On Toes Retro Bar & Restaurant : New : Bar Food, North Indian, Chinese : ₹1,000 for two :  Malad West, Mumbai
+Si Nonna's - The Original Sourdough Pizza : 4.5 : Pizza, Italian, Desserts, Coffee : ₹1,000 for two :  Inorbit Mall, Vashi, Navi Mumbai
+Seven Kitchens - The St. Regis Mumbai : 4.2 : Chinese, North Indian, Italian, European, Asian, Desserts, Beverages : ₹5,000 for two :  The St. Regis, Lower Parel, Mumbai
+The Bandstand Pantry : 4.1 : Cafe, Healthy Food, Continental, Sandwich, Pizza, Beverages, Shake, Desserts : ₹1,700 for two :  Bandstand, Bandra West, Mumbai
+Gallops : 4.4 : North Indian, Continental, Seafood, Desserts, Beverages : ₹2,700 for two :  Mahalaxmi, Mumbai
+Merakee Kitchen & Bar : 4.1 : Chinese, North Indian, Kebab, Fast Food, Beverages, Sichuan, Sandwich, Desserts : ₹1,000 for two :  Mira Road, Mumbai
+WOW! China : 4.0 : Chinese, Momos : ₹900 for two :  Sion, Mumbai
+Project Hum : 4.9 : Salad, Sandwich, Wraps, Desserts, Beverages : ₹950 for two :  Pali Hill, Bandra West, Mumbai
+Status Veg Restaurant : 4.3 : North Indian, South Indian, Street Food, Fast Food, Beverages, Shake, Sichuan : ₹950 for two :  Nariman Point, Mumbai
+Hapi Beer Co. : 4.2 : Finger Food, Asian, Continental, Italian, Bar Food, Desserts, Beverages, European : ₹1,300 for two :  Reclamation, Bandra West, Mumbai
+Oye Kake : 4.2 : North Indian, Ice Cream, Desserts, Beverages : ₹1,300 for two :  Ghatkopar West, Mumbai
+The Caravan Menu : 4.4 : North Indian, Chinese, Pasta, Fast Food, Desserts : ₹1,600 for two :  Panch Pakhadi, Thane West, Thane
+Khyber : 4.2 : North Indian, Seafood, Mughlai, Kebab, Desserts : ₹3,000 for two :  Fort, Mumbai
+Smoor : 4.3 : Asian, Salad, Pizza, Sandwich, Burger, Desserts, Beverages : ₹600 for two :  Reclamation, Bandra West, Mumbai
+Aromas Cafe & Bistro : 4.3 : Cafe, Beverages, Italian, Mexican, Lebanese, Continental, Desserts : ₹1,400 for two :  Oshiwara, Andheri West, Mumbai
+WOW! Momo : 4.1 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages : ₹400 for two :  Prabhadevi, Mumbai
+Vivi - Neapolitan Pizzeria : 4.4 : Pizza, Italian, Pasta, Bar Food, Continental, Desserts, Coffee, Beverages : ₹2,700 for two :  Wagle Estate, Thane West, Thane
+Platess Multicuisine Restaurant : 4.1 : North Indian, Asian, Continental, Oriental, Beverages : ₹1,600 for two :  Borivali East, Mumbai
+The Box Lounge - Coutryard By Marriott Navi Mumbai : 4.4 : Bar Food, Mexican : ₹2,800 for two :  Courtyard By Marriott Navi Mumbai, Navi Mumbai
+Cafe Luna : 3.5 : Continental, Italian, Mexican, Coffee, Cafe, European : ₹550 for two :  Veera Desai Area, Mumbai
+Curry N Pasta : 3.8 : North Indian, Chinese, South Indian, Fast Food, Continental, Arabian, American : ₹3,000 for two :  Parle International, Vile Parle East, Mumbai
+Fleur - The Fern Goregaon : 4.3 : Asian, Continental, North Indian, Shake, Beverages, Desserts : ₹1,800 for two :  Goregaon East, Mumbai
+Krave - The Multi Cuisine : 4.1 : North Indian, Chinese, Beverages, Continental, Burger, Pizza : ₹600 for two :  Vile Parle East, Mumbai
+Seasonal Tastes - The Westin Mumbai Garden City : 4.1 : North Indian, Continental, Asian, South Indian, Fast Food : ₹5,000 for two :  The Westin Mumbai Garden City, Goregaon East, Mumbai
+Koyla : 3.9 : North Indian, Mughlai, Biryani, Kebab, Desserts, Beverages : ₹2,500 for two :  Colaba, Mumbai
+Olive Bar & Kitchen : 4.4 : Italian, Pizza, Greek, Salad, Fast Food, Desserts : ₹4,000 for two :  Khar, Mumbai
+Mountain Goat Cafe : 3.7 : Chinese, Nepalese, Momos : ₹550 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+Chai Fusion : 3.8 : Cafe, Continental, Italian, Wraps, Beverages, Bubble Tea, Waffle : ₹600 for two :  Versova, Andheri West, Mumbai
+Brew Haus Cafe : 4.1 : Cafe, Coffee, Continental, Italian, Desserts, Tea, Fast Food, Beverages : ₹1,000 for two :  Dadar West, Mumbai
+Hype House 72 : New : Bar Food, North Indian, Continental, Italian, Chinese, Finger Food, Desserts : ₹1,000 for two :  Sakinaka, Mumbai
+Crispy Crowns : 4.2 : Street Food, Beverages : ₹300 for two :  Dadar Shivaji Park, Mumbai
+Polysky : 4.1 : Salad, North Indian, Biryani, Thai, Asian, Burger, Pizza, Pasta : ₹1,000 for two :  Ulhasnagar, Thane
+On The Docks : 4.2 : Chinese, Continental, Italian, Pizza, Pasta, North Indian, Bar Food, Beverages : ₹1,200 for two :  Fort, Mumbai
+Mockingbird Cafe Bar : 4.4 : Italian, French, Chinese, Salad, Fast Food, Desserts, Tea, Beverages : ₹2,500 for two :  Churchgate, Mumbai
+Zima : 4.3 : Lebanese, Mediterranean, Kebab, Middle Eastern, Arabian, Seafood, Desserts, Beverages : ₹2,500 for two :  Linking Road, Bandra West, Mumbai
+House Of Lords : 4.1 : Italian, Salad, Kebab, Sushi, Chinese, Shake, Beverages : ₹2,000 for two :  Vashi, Navi Mumbai
+Mirchi & Mime : 4.9 : Fast Food, North Indian, Biryani, Maharashtrian, Salad, Desserts : ₹2,000 for two :  Transocean House, Powai, Mumbai
+Rekdi Club : 4.1 : Fast Food, Street Food, Pasta, Pizza, Finger Food, Desserts, Shake, Beverages : ₹300 for two :  Manpada, Thane West, Thane
+Moly : 3.9 : Drinks Only, Bar Food, Beverages : ₹2,500 for two :  Andheri Lokhandwala, Andheri West, Mumbai
+The Romeo House - Kitchen And Bar : 3.9 : North Indian, Biryani, Chinese, Pizza, Fast Food, Salad, Beverages : ₹1,000 for two :  Parel, Mumbai
+Kuuraku : 4.0 : Japanese, Sushi : ₹2,000 for two :  Linking Road, Bandra West, Mumbai
+The Homemade Cafe & Bar : 4.2 : Cafe, Italian, Continental, Pizza, Pasta, Beverages, Desserts : ₹1,400 for two :  Juhu, Mumbai
+Cafe Mommy Joon : 4.9 : Middle Eastern, Kebab, Iranian, Desserts, Healthy Food, Mediterranean, Tea, Coffee : ₹3,500 for two :  Linking Road, Bandra West, Mumbai
+Cafe Holiday : 4.5 : Bar Food, Tea, Coffee, Shake, Beverages : ₹1,000 for two :  Bhayandar, Mumbai
+Golden Delicacy : 4.1 : Italian, Mexican, North Indian, Oriental, Chinese, South Indian, Desserts, Beverages : ₹1,700 for two :  Borivali West, Mumbai
+Hellz Kitchen : 3.9 : Italian, Continental, Healthy Food, Burger, Pasta, Shake : ₹700 for two :  Lower Parel, Mumbai
+Breve : 3.0 : Cafe, Coffee, Continental, Beverages : ₹500 for two :  Bandstand, Bandra West, Mumbai
+Spesso Gourmet Kitchen : 4.4 : European, Mexican, Italian, Continental, Desserts, Beverages : ₹1,600 for two :  Nariman Point, Mumbai

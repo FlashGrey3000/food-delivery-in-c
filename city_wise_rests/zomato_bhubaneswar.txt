@@ -1,0 +1,501 @@
+Asiatic Kitchen & Cafe : 4.6 : Chinese, North Indian, Thai, Biryani, Sushi : ₹1,000 for two :  Bapuji Nagar, Bhubaneshwar
+Kabsa Biryani : 3.2 : Biryani, North Indian, South Indian, Rolls : ₹1,000 for two :  Jagmohan Nagar, Bhubaneshwar
+Beyrut Classy Dine : - : North Indian, Chinese, Shawarma, Wraps, Rolls, Biryani, Salad : ₹600 for two :  Jagmohan Nagar, Bhubaneshwar
+Dil - E - Mughlai : 4.1 : Mughlai, North Indian, Biryani, Rolls : ₹1,000 for two :  Khandagiri, Bhubaneshwar
+BBi Booze Buzz Inhouse : 4.6 : Chinese, North Indian, Biryani, Fast Food, Pizza, Pasta, Bar Food, BBQ : ₹1,200 for two :  Chandrasekharpur, Bhubaneshwar
+Chili's Grill & Bar : 4.9 : Mexican, Italian, American, Tex-Mex, Bar Food, Beverages : ₹1,200 for two :  Sahid Nagar, Bhubaneshwar
+Oppheem : 4.4 : North Indian, Continental, Italian, Chinese, Mughlai, Biryani, Desserts, Beverages : ₹800 for two :  Patia, Bhubaneshwar
+Raasta : New : North Indian, Biryani, Seafood, Continental, Oriental, Chinese, Salad, Desserts : ₹1,400 for two :  Satya Nagar, Bhubaneshwar
+AB's - Absolute Barbecues : 4.4 : Biryani, BBQ, Kebab, North Indian, Desserts : ₹1,600 for two :  Patia, Bhubaneshwar
+Cafe Sundowner : 4.0 : Continental, Mexican, Fast Food : ₹1,000 for two :  Lakshmi Sagar, Bhubaneshwar
+Barbeque Nation : 4.8 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,750 for two :  Chandrasekharpur, Bhubaneshwar
+Topnotch : 4.3 : Bar Food, North Indian, Seafood, Beverages : ₹1,000 for two :  Patia, Bhubaneshwar
+Citrus Cafe - Lemon Tree Premier : 4.5 : Cafe, Coffee, Chinese, North Indian, Continental, Odia, Desserts, Beverages : ₹1,500 for two :  Lemon Tree Premier, Bhubaneswar, Bhubaneshwar
+Oopre Kitchen & Bar : 4.3 : North Indian, Chinese, Continental, Italian, Biryani, Healthy Food, Beverages, Desserts : ₹1,000 for two :  Chandrasekharpur, Bhubaneshwar
+Oppheem 2.0 : 4.4 : North Indian, Continental, Thai, Asian, Chinese, Fast Food, Oriental, Desserts : ₹1,500 for two :  Pahala, Bhubaneshwar
+Olive Cafe : 4.5 : Chinese, Continental, Bar Food : ₹1,000 for two :  Chandrasekharpur, Bhubaneshwar
+Kegs And Barrels Brewing Co. : 3.2 : Fast Food, Asian, Chinese, North Indian, Biryani, Desserts, Beverages : ₹1,400 for two :  Patia, Bhubaneshwar
+Republic Of Noodles - Lemon Tree Premier : 4.4 : Chinese, Asian, Desserts, Beverages : ₹2,000 for two :  Lemon Tree Premier, Bhubaneswar, Bhubaneshwar
+Crunchy Munchie : New : North Indian, Continental, Oriental, Salad, Rolls, Fast Food, Desserts, Beverages : ₹1,000 for two :  Ashok Nagar, Bhubaneshwar
+Moody Blues : 4.6 : Chinese, Italian, Continental, Greek, Arabian, North Indian, Mughlai, Desserts : ₹1,000 for two :  Gajapati Nagar, Bhubaneshwar
+Yeti - The Himalayan Kitchen : New : Tibetan, Nepalese : ₹1,500 for two :  Satya Nagar, Bhubaneshwar
+Echoes : 4.0 : North Indian, Chinese, Fast Food, Sandwich, Biryani, Burger, Pasta : ₹1,000 for two :  Patia, Bhubaneshwar
+Topnotch Air : 4.5 : North Indian, Biryani, Fast Food, Desserts, Beverages, Continental : ₹1,550 for two :  Patia, Bhubaneshwar
+OPD-One Peg Down : 4.8 : Bar Food, North Indian, Chinese, Italian, Fast Food, Mughlai, Continental, Salad : ₹1,000 for two :  Chandrasekharpur, Bhubaneshwar
+Kake Da Minar : 3.4 : North Indian, Mughlai, Biryani, Chinese, Fast Food, Desserts : ₹1,000 for two :  Chandrasekharpur, Bhubaneshwar
+The Upper Story - Skydeck & Lounge : New : North Indian, Chinese, Italian, Japanese, Mangalorean, Lebanese, Pizza, Desserts : ₹1,500 for two :  Chandrasekharpur, Bhubaneshwar
+Adda Unplugged : 4.3 : North Indian, Continental, Pasta, Italian, Chinese, Desserts, Coffee, Beverages : ₹1,000 for two :  Jagmohan Nagar, Bhubaneshwar
+Sigree : 4.2 : North Indian, Fast Food, Mughlai : ₹800 for two :  Rasulgarh, Bhubaneshwar
+Four Petals By Varenya's : 3.7 : Continental, Oriental, Salad, North Indian, Desserts : ₹700 for two :  Nayapalli, Bhubaneshwar
+Let's Talk : 3.9 : Beverages, Fast Food, North Indian, Biryani, Desserts : ₹1,000 for two :  Patia, Bhubaneshwar
+Mustard By Hotel Lucky India : 3.9 : North Indian, Biryani, Chinese, Asian, Continental, Salad, Desserts, Beverages : ₹1,200 for two :  Patia, Bhubaneshwar
+Embassy Club And Sky Lounge : 4.1 : North Indian, Continental, Biryani, Chinese, Seafood, Fast Food, Desserts : ₹1,200 for two :  Chandrasekharpur, Bhubaneshwar
+New Mughlai Darbar : 3.8 : North Indian, Mughlai, Chinese, Fast Food, Street Food, Beverages : ₹400 for two :  Unit 4, Bhubaneshwar
+Rajasthani Rasoi : 3.3 : Rajasthani, North Indian : ₹450 for two :  Patia, Bhubaneshwar
+Mainland China : 4.7 : Chinese, Asian, Sushi, Japanese, Thai, Beverages : ₹1,500 for two :  The Crown, Nayapalli, Bhubaneshwar
+Arabikaas Arabian Restaurant : - : Mughlai, Mandi, Arabian : ₹1,000 for two :  Patia, Bhubaneshwar
+Silver Streak Premium : 4.2 : Thai, Chinese : ₹600 for two :  Sahid Nagar, Bhubaneshwar
+Biryani Box : 4.1 : Biryani, North Indian, Fast Food, Kebab, Rolls, Desserts, Beverages : ₹400 for two :  BJB Nagar, Bhubaneshwar
+Truly Publik : 4.4 : Bar Food, North Indian, Mexican, Chinese, Italian, Pizza, Desserts : ₹1,000 for two :  Patia, Bhubaneshwar
+Momoway : 3.7 : Momos, Chinese : ₹500 for two :  Patia, Bhubaneshwar
+KFC : 4.0 : Burger, Fast Food, Rolls : ₹450 for two :  Kharabela Nagar, Bhubaneshwar
+Kruti Coffee : 4.2 : Continental, Italian, Coffee, Beverages : ₹350 for two :  Patia, Bhubaneshwar
+Civilians : New : North Indian, Chinese, Seafood, Asian, Italian : ₹1,000 for two :  Satya Nagar, Bhubaneshwar
+WOW! Momo : 4.2 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts : ₹500 for two :  Lakshmi Sagar, Bhubaneshwar
+Biggies Burger : 4.5 : Burger, Wraps, Fast Food, Desserts, Shake, Beverages : ₹400 for two :  Sahid Nagar, Bhubaneshwar
+Tandooriwala : 3.9 : Mughlai, Biryani, Chinese, North Indian, Kebab, Seafood, Desserts, Beverages : ₹700 for two :  Patia, Bhubaneshwar
+Hotel Toshali : 4.1 : North Eastern, North Indian, Chinese, Odia, Seafood, Mughlai, Biryani : ₹500 for two :  Patia, Bhubaneshwar
+Uptown Vibes : 3.9 : Chinese, Continental, Italian, Pasta, Sandwich, Oriental, Fast Food : ₹400 for two :  Patia, Bhubaneshwar
+Xcuse Bar - Prangan by Mango Hotel : 4.5 : North Indian, Chinese, Odia, Desserts : ₹1,800 for two :  Prangan by Mango Hotel, Lakshmi Sagar, Bhubaneshwar
+Sliced - Cafe & Bakery : 3.9 : North Indian, Continental, Biryani, Chinese, Coffee, Kebab, Healthy Food, Beverages : ₹600 for two :  Chandrasekharpur, Bhubaneshwar
+Taste of China : 4.5 : Chinese, Seafood, Thai, Sichuan, North Indian : ₹500 for two :  Sahid Nagar, Bhubaneshwar
+Mezé : 4.0 : Turkish, Pizza : ₹1,000 for two :  Nayapalli, Bhubaneshwar
+Alley - Gourmet Cafe : 3.5 : Burger, Wraps, Continental, Pasta, Pizza, Cafe, Coffee, Beverages : ₹700 for two :  Kalinga Nagar, Bhubaneshwar
+Courtyard - Pal Heights Mantra : 4.1 : Arabian, Chinese, Continental, Thai, North Indian, Sichuan : ₹3,500 for two :  Pahala, Bhubaneshwar
+Tea Pot - Mayfair Lagoon : 4.5 : North Indian, Asian, Continental, Beverages : ₹3,000 for two :  Mayfair Lagoon, Jayadev Vihar, Bhubaneshwar
+Terra Rosso : 3.8 : Pizza, Salad, Sushi, Juices, Beverages : ₹1,100 for two :  Kharabela Nagar, Bhubaneshwar
+Beyrut Classy Dine : 4.3 : Lebanese, North Indian, Salad, Biryani, Rolls, Shawarma : ₹500 for two :  Kharabela Nagar, Bhubaneshwar
+Three Kings : 4.6 : Arabian, Mughlai, Biryani, Shake, Desserts, Beverages : ₹700 for two :  Patia, Bhubaneshwar
+Shohala Ana Odia : 4.0 : Chinese, Odia, Bengali, Sichuan : ₹1,000 for two :  Patia, Bhubaneshwar
+Zaika - Pal Heights : 4.3 : North Indian, Continental, Chinese, Biryani, Sichuan, Bar Food : ₹2,000 for two :  Pal Heights, Jayadev Vihar, Bhubaneshwar
+Re-Born : 4.4 : North Indian, Mughlai, Oriental, Chinese, Continental, Fast Food, Pizza, Beverages : ₹1,400 for two :  Patia, Bhubaneshwar
+Alpha Multi Cuisine Restaurant : 3.8 : North Indian, Biryani, Seafood, Pizza, Fast Food, Chinese, Shake, Beverages : ₹1,000 for two :  Jagmohan Nagar, Bhubaneshwar
+The Restaurant - Trident Bhubaneshwar : 4.3 : Odia, North Indian, Italian, Continental, Asian, Fast Food : ₹2,500 for two :  Trident Bhubaneshwar, Nayapalli, Bhubaneshwar
+Connect Night Club : 4.2 : Chinese, North Indian, Seafood, Biryani, Sandwich : ₹1,100 for two :  Patrapada, Bhubaneshwar
+Mamma Mia - Mayfair Lagoon : 4.9 : Bakery, Continental, Beverages : ₹1,000 for two :  Mayfair Lagoon, Jayadev Vihar, Bhubaneshwar
+BOCCA Cafe : 4.5 : Cafe, Coffee, Beverages, Salad, Sandwich, Shake, Fast Food, Healthy Food : ₹450 for two :  Kharabela Nagar, Bhubaneshwar
+Hotel Shree Vineeth's : 3.1 : North Indian, South Indian, Chinese : ₹300 for two :  Kharabela Nagar, Bhubaneshwar
+The Dragon House : 3.3 : North Indian, Chinese, Seafood, Sichuan : ₹500 for two :  Kalinga Nagar, Bhubaneshwar
+The Beer Cafe : 3.9 : Finger Food, North Indian, Continental, Italian, Fast Food, Desserts, Juices, Beverages : ₹1,500 for two :  Sahid Nagar, Bhubaneshwar
+Local Restro Cafe : 3.9 : North Indian, Kebab, Biryani, Seafood, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Rasulgarh, Bhubaneshwar
+Oberai Bakers & Cafe : 3.1 : North Indian, Biryani, Chinese, Pizza, Burger, Pasta, Fast Food : ₹1,000 for two :  Nayapalli, Bhubaneshwar
+The Amsterdam Cafe & Restro : 2.8 : North Indian, Chinese, Mughlai, Italian, Kebab, Pizza, Fast Food, Desserts : ₹1,000 for two :  Patia, Bhubaneshwar
+Raadium Cafe : 2.8 : North Indian, Chinese, Fast Food, Pizza, Oriental : ₹900 for two :  Pahala, Bhubaneshwar
+Cinnabon : 4.1 : Cafe, Coffee, Beverages, Desserts : ₹300 for two :  Rasulgarh, Bhubaneshwar
+Shree Lal Inn : 3.5 : North Indian, Chinese, South Indian : ₹300 for two :  Khandagiri, Bhubaneshwar
+Zingiber : 4.1 : South Indian, Asian : ₹1,000 for two :  Nayapalli, Bhubaneshwar
+Nakli Dhaba - Mayfair Lagoon : 4.2 : North Indian, Mughlai, Mithai, Desserts, Kebab : ₹2,000 for two :  Mayfair Lagoon, Jayadev Vihar, Bhubaneshwar
+Starlit - Lounge Bar & Restaurant : 3.3 : Chinese, North Indian, Biryani, Sichuan : ₹650 for two :  Satya Nagar, Bhubaneshwar
+The Hunger's Hangout Cafe & Restro : New : North Indian, Mughlai, Biryani, Asian, Continental, Salad, Desserts, Beverages : ₹1,500 for two :  Patia, Bhubaneshwar
+Brick And Clay : 4.7 : Italian, Pizza, Fast Food : ₹500 for two :  Sahid Nagar, Bhubaneshwar
+Burger King : 4.0 : Burger, Fast Food, Wraps, Desserts, Beverages : ₹400 for two :  Sahid Nagar, Bhubaneshwar
+Orchid- The Multi-Cuisine Restaurant : 4.0 : North Indian, Asian, Chinese, Beverages, Continental : ₹2,000 for two :  Fortune Park Sishmo, Bapuji Nagar, Bhubaneshwar
+Burger Singh - Big Punjabi Burgers : 3.4 : Burger, Fast Food : ₹300 for two :  Patia, Bhubaneshwar
+Cafe Indistinct Chatter : 3.3 : Coffee, Sandwich, Beverages, Desserts, Pizza, Continental, Fast Food, Salad : ₹600 for two :  Sahid Nagar, Bhubaneshwar
+LaaLach - Where Every Food Tells A Story : 3.5 : North Indian, Chinese, Fast Food, Biryani : ₹400 for two :  Dumduma, Bhubaneshwar
+Vox Pop : 3.8 : Chinese, Continental, Italian, Fast Food, Sandwich, Pasta, Desserts, Beverages : ₹1,000 for two :  Sahid Nagar, Bhubaneshwar
+Lal Qila : 4.1 : Mughlai, Chinese, North Indian, Biryani, Sichuan : ₹600 for two :  Patia, Bhubaneshwar
+Melbourne Pizza : 4.2 : Pizza, Wraps, Pasta, Desserts, Beverages : ₹250 for two :  Patia, Bhubaneshwar
+Chill Out : 3.7 : Thai, Chinese, Sichuan, Ice Cream, Beverages, Seafood : ₹800 for two :  Chandrasekharpur, Bhubaneshwar
+Ann's Cafe and Bakers : 4.2 : Continental, North Indian, Italian, Bakery : ₹800 for two :  Khandagiri, Bhubaneshwar
+Sky Hi : 3.2 : North Indian, Chinese, Continental, Seafood, Italian, Grilled Chicken, Pizza, Fast Food : ₹1,000 for two :  Kalinga Nagar, Bhubaneshwar
+Wok : 3.8 : Chinese, Thai, Japanese, Oriental : ₹1,000 for two :  Hotel Sandy's Tower, Gajapati Nagar, Bhubaneshwar
+The Belgian Waffle Co. : 3.8 : Waffle, Pancake, Desserts, Beverages, Ice Cream : ₹500 for two :  Patia, Bhubaneshwar
+Odisha Hotel : 3.6 : Odia, North Indian, Desserts, Mithai, Beverages : ₹500 for two :  Sahid Nagar, Bhubaneshwar
+Asian Delicacy : 4.7 : Thai, Chinese, Asian, Salad, Beverages : ₹1,100 for two :  Sahid Nagar, Bhubaneshwar
+Malva Restaurant : 4.3 : North Indian, Chinese, Continental, Thai, Biryani, Sichuan : ₹1,000 for two :  Patia, Bhubaneshwar
+Monarca : 4.0 : North Indian, Chinese, Seafood, Kebab, Biryani, Mughlai, Beverages : ₹1,000 for two :  Chandrasekharpur, Bhubaneshwar
+Doppio Coffee & Bistro : 3.1 : Cafe, Continental, Italian, Bakery, Beverages, Coffee : ₹200 for two :  Patia, Bhubaneshwar
+VTR Since 1989 : 3.7 : South Indian : ₹200 for two :  Patia, Bhubaneshwar
+Karim's- Original From Jama Masjid Delhi- 6 : 2.8 : Mughlai, North Indian, BBQ : ₹600 for two :  Patia, Bhubaneshwar
+The Cutting Chai : 3.3 : Tea, Sandwich, Pizza, Pasta, Burger, Fast Food, Shake, Beverages : ₹350 for two :  Kharabela Nagar, Bhubaneshwar
+Kanika - Mayfair Lagoon : 4.2 : Odia, Salad, Healthy Food, Desserts, Beverages : ₹1,800 for two :  Mayfair Lagoon, Jayadev Vihar, Bhubaneshwar
+Grains : 3.8 : South Indian, North Indian, Chinese, Continental, Italian, Kebab, Desserts, Beverages : ₹1,200 for two :  Lakshmi Sagar, Bhubaneshwar
+Beijing Bites : 4.0 : Chinese, Thai, Malaysian : ₹500 for two :  Pahala, Bhubaneshwar
+99 Hints Club & Lounge : 3.9 : Bar Food, Chinese : ₹2,300 for two :  Patia, Bhubaneshwar
+Sizzler Fast Food : 4.4 : North Indian, Biryani, Rolls, Chinese : ₹350 for two :  Unit 4, Bhubaneshwar
+GROOVE - The Brew Club : 4.9 : Continental, North Indian, Chinese, Bar Food : ₹800 for two :  Kharabela Nagar, Bhubaneshwar
+Zingiber : - : South Indian, North Indian, Chettinad, Fast Food, Mughlai, Biryani, Desserts, Beverages : ₹1,200 for two :  Forest Park, Bhubaneshwar
+Pizza Hut : - : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Lakshmi Sagar, Bhubaneshwar
+Peshawri - Welcomhotel By ITC Hotels : - : Mughlai, North Indian : ₹4,000 for two :  Dumduma, Bhubaneshwar
+Asia Seven – Sizzling Chinese : 3.7 : Chinese, Momos, Asian, Sichuan : ₹550 for two :  Rasulgarh, Bhubaneshwar
+Gelhi's Cafe : New : Cafe, Coffee, Italian, Pasta, Sandwich, Tea, Beverages : ₹1,300 for two :  Patia, Bhubaneshwar
+Barbecue Odisha : 4.2 : North Indian, Chinese, BBQ, Biryani : ₹1,100 for two :  Chandrasekharpur, Bhubaneshwar
+Mad Over Brownie : 3.9 : Desserts, Sandwich, Burger, Fast Food, Pizza : ₹300 for two :  Kharabela Nagar, Bhubaneshwar
+Golden Bird - Hotel Pushpak : 4.2 : North Indian, Oriental, Italian, Biryani, Desserts, Beverages : ₹1,000 for two :  Hotel Pushpak, Lakshmi Sagar, Bhubaneshwar
+Breeze - Pal Heights : 3.9 : North Indian, Chinese, Continental, Thai, Sichuan : ₹1,400 for two :  Pal Heights, Jayadev Vihar, Bhubaneshwar
+Bandhej - Empires Hotel : 4.3 : Continental, North Indian, Mughlai, Chinese, Desserts, Sichuan : ₹1,500 for two :  Empires Hotel, Sahid Nagar, Bhubaneshwar
+Slounge - Lemon Tree Premier : 3.9 : Chinese, Pizza, Beverages : ₹2,500 for two :  Lemon Tree - Chandrasekharpur, Bhubaneshwar
+Bangalore Express : 4.0 : North Indian, Continental, Seafood, Chinese, Pizza, Sandwich, Salad, Fast Food : ₹900 for two :  Patia, Bhubaneshwar
+TCD Restaurant & Banquet : 4.2 : North Indian, Mughlai : ₹1,000 for two :  Chandrasekharpur, Bhubaneshwar
+Sufi's Restaurant And Coffee Shop : 2.6 : Salad, Chinese, Pizza, Pasta, North Indian, Rolls, Continental, Desserts : ₹450 for two :  Patia, Bhubaneshwar
+The Divine Bite : 3.4 : Continental, Italian, Salad, Fast Food, Pizza, Desserts, Beverages : ₹1,500 for two :  Sahid Nagar, Bhubaneshwar
+Biryani Secrets : - : Biryani, North Indian : ₹500 for two :  Unit 4, Bhubaneshwar
+Michael's Kitchen : 3.9 : European, Modern Indian, Asian, Biryani, Seafood, Sushi, Desserts, Beverages : ₹600 for two :  Gajapati Nagar, Bhubaneshwar
+Cafe 16 Satyanagar : 3.2 : Cafe, Pasta, Continental, Coffee, Desserts : ₹500 for two :  Satya Nagar, Bhubaneshwar
+Raadium Cafe : 3.6 : Tea, Beverages, Shake, Juices, Chinese, Continental, North Indian, Fast Food : ₹600 for two :  Patia, Bhubaneshwar
+The Old Delhi : New : North Indian, Mughlai, Biryani, Rolls : ₹350 for two :  Baramunda, Bhubaneshwar
+Narula's Restaurant : 4.4 : North Indian, Biryani, Beverages : ₹1,000 for two :  Ashok Nagar, Bhubaneshwar
+Chickpet Donne Biriyani House : 3.5 : Biryani : ₹400 for two :  Jagmohan Nagar, Bhubaneshwar
+Cafe Maytan : New : Cafe, Coffee, Shake, Beverages : ₹400 for two :  Lakshmi Sagar, Bhubaneshwar
+9th Street : 3.9 : North Indian, Mughlai, Chinese, Biryani, Sichuan, Seafood : ₹800 for two :  Unit 4, Bhubaneshwar
+Laziz Pizza : 3.1 : Pizza, Fast Food, Burger, Biryani, Sandwich, Sichuan, Beverages : ₹300 for two :  Khandagiri, Bhubaneshwar
+Sabooz : 3.5 : North Indian, Fast Food, Continental, Pizza : ₹500 for two :  Jagmohan Nagar, Bhubaneshwar
+Pind Da Dhaba - Pal Heights Mantra : 4.1 : Cafe, North Indian, Seafood, Desserts, Coffee, Beverages, Tea : ₹1,300 for two :  Pahala, Bhubaneshwar
+Pizza Hut : 3.6 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Jayadev Vihar, Bhubaneshwar
+Bobastic : 3.5 : Beverages : ₹300 for two :  Chandrasekharpur, Bhubaneshwar
+Chai Break : 4.0 : Cafe, Coffee, North Indian, Mexican, Chinese, Pizza, Desserts, Italian : ₹800 for two :  BMC Bhawani Mall, Sahid Nagar, Bhubaneshwar
+Havana Club & Sky Lounge : - : North Indian, Continental, Chinese, Seafood : ₹2,000 for two :  Chandrasekharpur, Bhubaneshwar
+Anna's Biryani And Restaurant : 3.9 : North Indian, Chinese, Biryani, Fast Food, Rolls, Beverages : ₹400 for two :  Jagmohan Nagar, Bhubaneshwar
+Shine X Club & Lounge : New : North Indian, Biryani, Continental, Chinese, Fast Food : ₹1,200 for two :  BMC Bhawani Mall, Sahid Nagar, Bhubaneshwar
+Hare Krishna Restaurant : 4.0 : North Indian, Chinese, Desserts : ₹600 for two :  Kharabela Nagar, Bhubaneshwar
+Raghav's - Hotel Priya : 4.3 : North Indian, South Indian, Mughlai, Chinese, Fast Food, Desserts, Beverages : ₹400 for two :  Unit 4, Bhubaneshwar
+Chote Miyan Cafe And Restrurant : - : Biryani, North Indian, Chinese : ₹400 for two :  Kalinga Nagar, Bhubaneshwar
+99 North Restaurant : 4.0 : North Indian, Chinese, Sichuan, Desserts : ₹600 for two :  Patia, Bhubaneshwar
+New Delhi Sweets : - : Mithai, Fast Food, Street Food : ₹200 for two :  Jayadev Vihar, Bhubaneshwar
+Domino's Pizza : 4.3 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹500 for two :  Patrapada, Bhubaneshwar
+7 Life Restro Cafe : - : North Indian, Mughlai, Chinese, Biryani, Seafood, Fast Food, Pasta, Beverages : ₹1,000 for two :  Patia, Bhubaneshwar
+# Fab Shaolin : - : Chinese, Shake : ₹300 for two :  Khandagiri, Bhubaneshwar
+The Living Room - The Presidency : 4.5 : Chinese, North Indian, Fast Food, Shake, Beverages, Desserts : ₹1,000 for two :  The Presidency, Nayapalli, Bhubaneshwar
+All Dough Bakers : 4.1 : Cafe, Fast Food, Pizza, Beverages : ₹400 for two :  Jatni, Bhubaneshwar
+Hotel Charlie : 3.7 : North Indian, Chinese, Mughlai, Seafood : ₹400 for two :  Chandrasekharpur, Bhubaneshwar
+Curry Leaf The Kitchen : 3.9 : North Indian, Andhra, Biryani, Chinese : ₹700 for two :  Patia, Bhubaneshwar
+Club Venom : 3.9 : Bar Food, North Indian, Chinese : ₹1,200 for two :  Chandrasekharpur, Bhubaneshwar
+The Social : 2.8 : Chinese, Continental, Pizza, North Indian, Rolls, Desserts, Beverages : ₹500 for two :  Chandrasekharpur, Bhubaneshwar
+Cabana : 2.7 : North Indian, South Indian : ₹350 for two :  Patia, Bhubaneshwar
+McDonald's : 3.4 : Burger, Fast Food, Cafe : ₹400 for two :  Chandrasekharpur, Bhubaneshwar
+Waffle House : 4.3 : Waffle, Pizza, Sandwich, Mexican, Fast Food, Beverages : ₹500 for two :  Khandagiri, Bhubaneshwar
+Amaravathi Bistro : 3.1 : South Indian, Biryani : ₹300 for two :  Rasulgarh, Bhubaneshwar
+Suvy's Cafe : 4.0 : Continental, Fast Food, Beverages : ₹500 for two :  Kharabela Nagar, Bhubaneshwar
+The Gourmet - Swosti Premium : 3.8 : North Indian, Continental, Pizza, Salad, Beverages, Shake, Thai, Odia : ₹1,000 for two :  Swosti Premium, Jayadev Vihar, Bhubaneshwar
+Super Food : 3.4 : Healthy Food, Beverages, Burger, Sandwich, Desserts, Salad, Wraps, Bakery : ₹500 for two :  Patia, Bhubaneshwar
+The Local Eatery : - : North Indian, Chinese, Street Food, Biryani : ₹200 for two :  Patia, Bhubaneshwar
+Hydrabadi Biryani House : 3.7 : Biryani, Chinese, North Indian, Mughlai, Sichuan : ₹400 for two :  Jatni, Bhubaneshwar
+Hotel Maa Santoshi : 3.8 : Odia, North Indian, Biryani : ₹250 for two :  Bapuji Nagar, Bhubaneshwar
+The Cellar - Mayfair Lagoon : 4.4 : Bar Food, Continental : ₹1,400 for two :  Mayfair Lagoon, Jayadev Vihar, Bhubaneshwar
+Wok On : 4.2 : Asian, Chinese, Seafood : ₹300 for two :  Patia, Bhubaneshwar
+Green Chillyz : 3.5 : Chinese, North Indian, Biryani, BBQ, Rolls, Kebab, Street Food : ₹500 for two :  Sahid Nagar, Bhubaneshwar
+Vicky's Restaurant : 4.1 : North Indian, Chinese, Mughlai, Sichuan, Biryani : ₹500 for two :  Jatni, Bhubaneshwar
+107 Notout : 4.1 : North Indian, Chinese, Seafood, Kebab, South Indian, Mughlai, Beverages : ₹1,000 for two :  Lakshmi Sagar, Bhubaneshwar
+Pakodawala Fast Food : New : Fast Food, North Indian, Biryani, Chinese : ₹250 for two :  Rasulgarh, Bhubaneshwar
+Rice Bowl : 3.5 : North Indian, Chinese, Continental, Mughlai, Seafood, Fast Food, Sichuan : ₹600 for two :  Ashok Nagar, Bhubaneshwar
+Burger Bar : 3.3 : Burger, Wraps, Sandwich, Salad, Fast Food, Beverages : ₹400 for two :  BJB Nagar, Bhubaneshwar
+Pahadi Dhaba & Cafe : 3.0 : North Indian, Chinese : ₹500 for two :  Patia, Bhubaneshwar
+Baron & Baroness - Mayfair Lagoon : 4.6 : Bar Food, BBQ, Sandwich, Continental, Kebab, Seafood, Beverages : ₹1,800 for two :  Mayfair Lagoon, Jayadev Vihar, Bhubaneshwar
+Street Foods By Punjab Grill : 4.1 : North Indian, Rolls, Biryani, Street Food : ₹400 for two :  Bapuji Nagar, Bhubaneshwar
+Curry Up : 3.9 : North Indian, Biryani, Chinese : ₹500 for two :  Kalinga Nagar, Bhubaneshwar
+Chicago Pizza : 3.5 : Pizza, Fast Food, Italian, Beverages : ₹500 for two :  Baramunda, Bhubaneshwar
+Truptee Restaurant : 4.1 : North Indian, South Indian, Chinese, Fast Food, Beverages : ₹1,000 for two :  Unit 4, Bhubaneshwar
+Jungle View : 4.0 : Chinese, Mughlai, Seafood, North Indian, Biryani : ₹400 for two :  Patia, Bhubaneshwar
+Super Snax - Mayfair Lagoon : 4.4 : South Indian, North Indian, Kerala, Mithai, Mishti, Beverages : ₹1,000 for two :  Mayfair Lagoon, Jayadev Vihar, Bhubaneshwar
+Zingiber : 4.6 : South Indian, Chettinad, Biryani, Bakery, Seafood, Desserts, Beverages : ₹450 for two :  Patia, Bhubaneshwar
+Aqua - Hotel Swosti : 3.6 : North Indian, Oriental, Continental, Bengali : ₹1,000 for two :  Hotel Swosti, Kharabela Nagar, Bhubaneshwar
+Hotel Tridev : 4.0 : North Indian, Chinese, South Indian : ₹300 for two :  Jatni, Bhubaneshwar
+Chalte Firte : 3.6 : Fast Food, Momos : ₹300 for two :  Jatni, Bhubaneshwar
+World Baker - Pal Heights : 3.8 : Bakery, Desserts : ₹500 for two :  Pal Heights, Jayadev Vihar, Bhubaneshwar
+Dalma : 3.9 : Odia, Desserts, Beverages : ₹1,000 for two :  Unit 4, Bhubaneshwar
+Starbucks Coffee : 3.5 : Beverages, Desserts : ₹600 for two :  Rasulgarh, Bhubaneshwar
+Blueberrys Cafe : 4.4 : Cafe, Sandwich, Fast Food, Beverages, Pasta, Wraps, Shake : ₹500 for two :  Patia, Bhubaneshwar
+Venus Restaurant : 3.9 : North Indian, South Indian, Chinese, Biryani, Salad : ₹500 for two :  Patrapada, Bhubaneshwar
+Magnolia 6 Bar : 3.9 : Bar Food, North Indian, Kebab, Chinese, Beverages : ₹1,500 for two :  Patia, Bhubaneshwar
+ICE- Indian Chicken Express : 4.4 : Fast Food, Burger : ₹350 for two :  Patia, Bhubaneshwar
+Caffeine The Roof Top Cafe : 3.3 : Beverages : ₹300 for two :  Sahid Nagar, Bhubaneshwar
+Rice Bowl : 2.8 : North Indian, South Indian, Seafood, Chinese, Fast Food : ₹400 for two :  Dumduma, Bhubaneshwar
+Marwari Rasoi : 4.1 : North Indian, Rajasthani, Street Food, Chinese, Rolls : ₹300 for two :  Patia, Bhubaneshwar
+Isti Bites : 3.7 : North Indian, Chinese, Biryani : ₹600 for two :  Chandrasekharpur, Bhubaneshwar
+The Cross Street Cafe : 3.8 : Sandwich, Burger, Fast Food, Beverages, Wraps, Pizza, Shake : ₹300 for two :  Bapuji Nagar, Bhubaneshwar
+Priya : 4.0 : South Indian, North Indian, Beverages : ₹300 for two :  Jayadev Vihar, Bhubaneshwar
+Cabana Terrace Lounge - Pal Heights Mantra : 4.0 : Continental, Chinese, Thai, Asian, Sichuan, Beverages : ₹1,000 for two :  Pahala, Bhubaneshwar
+MBA Chai Wala : 3.6 : Tea, Shake, Coffee, Beverages, Fast Food, Momos, Pizza, Desserts : ₹200 for two :  Patia, Bhubaneshwar
+Go South : 4.0 : South Indian, Biryani, Street Food, Chinese, Andhra, Desserts, Beverages : ₹400 for two :  Patia, Bhubaneshwar
+Hotel Namaste : 3.5 : North Indian, Seafood, Mughlai, Chinese, Biryani, Odia : ₹400 for two :  Nayapalli, Bhubaneshwar
+Zoca Cafe : 2.8 : Fast Food, Street Food : ₹400 for two :  Patia, Bhubaneshwar
+Khopcha : 3.9 : Mexican, Chinese, Continental, Sichuan : ₹1,000 for two :  Patia, Bhubaneshwar
+Middleton : 4.4 : Chinese, Italian, North Indian, Beverages : ₹1,000 for two :  Chandrasekharpur, Bhubaneshwar
+Hill View Cafe & Restro : 3.1 : North Indian, Chinese, Sandwich, Fast Food, Continental : ₹400 for two :  Patia, Bhubaneshwar
+Parkland Restaurant : 3.5 : North Indian, Chinese, Mughlai, Kebab, Biryani, Desserts, Shake, Beverages : ₹1,000 for two :  Jagmohan Nagar, Bhubaneshwar
+Moto Machan : - : Salad, Chinese, Sandwich, Seafood, Desserts : ₹1,200 for two :  Lakshmi Sagar, Bhubaneshwar
+Shawarma Xpress : 3.3 : North Indian, Chinese, Ice Cream, Juices, Beverages : ₹400 for two :  Kalinga Nagar, Bhubaneshwar
+Aangan Premium : 4.1 : North Indian, Chinese : ₹1,000 for two :  Gajapati Nagar, Bhubaneshwar
+The Champaran Mutton : - : Bihari : ₹300 for two :  Chandrasekharpur, Bhubaneshwar
+Keshari Garnish : 3.6 : North Indian, Seafood, Chinese, Biryani, Kebab, Sichuan, Desserts, Beverages : ₹700 for two :  Jagmohan Nagar, Bhubaneshwar
+Byond Anna : - : South Indian, Andhra : ₹300 for two :  Khandagiri, Bhubaneshwar
+Nutmeg : 3.6 : Bakery, Fast Food, Pizza, Sandwich, Burger, Desserts : ₹400 for two :  Sahid Nagar, Bhubaneshwar
+Big Cup Cafe : 3.9 : Cafe, Desserts, Ice Cream, Beverages, Fast Food, Chinese, Shake : ₹500 for two :  Pahala, Bhubaneshwar
+The Klove : 3.7 : North Indian, Chinese, Biryani, Sichuan, Salad : ₹600 for two :  Jagmohan Nagar, Bhubaneshwar
+Country Kitchen : 3.8 : North Indian, Chinese, Biryani, Sichuan : ₹350 for two :  Jagmohan Nagar, Bhubaneshwar
+Chhapan Bhog : 4.1 : Mithai, North Indian, Street Food : ₹300 for two :  Jayadev Vihar, Bhubaneshwar
+Tequila Bar And Grill : 4.0 : North Indian, Biryani, Chinese, Fast Food : ₹1,000 for two :  Patia, Bhubaneshwar
+Downtown Delight : - : North Indian, Mughlai, Biryani, Chinese, Seafood : ₹550 for two :  Kalinga Nagar, Bhubaneshwar
+Mohan's Handi Biriyani : 3.8 : Biryani, Bengali, North Indian, Fast Food : ₹300 for two :  Rasulgarh, Bhubaneshwar
+Mirch Masala - Hotel Marrion : 4.0 : North Indian, Continental, Biryani, Chinese, Desserts, Beverages : ₹1,200 for two :  New Marrion Hotel, Kharabela Nagar, Bhubaneshwar
+The Bar - Trident Bhubaneshwar : 4.4 : Finger Food : ₹1,500 for two :  Trident Bhubaneshwar, Nayapalli, Bhubaneshwar
+Fortune Deli  By Fortune Park Sishmo : 3.4 : Bakery, North Indian, Chinese, Continental, South Indian, Biryani, Desserts, Beverages : ₹1,000 for two :  Bapuji Nagar, Bhubaneshwar
+Spica : 4.2 : Bakery, Continental, Salad, Wraps, Italian, European, Fast Food, Desserts : ₹900 for two :  Chandrasekharpur, Bhubaneshwar
+Bo-Kitchen : 4.4 : North Indian, Biryani, Fast Food, Continental, Chinese, Sichuan, Beverages : ₹500 for two :  Patia, Bhubaneshwar
+Lingaraj Lassi Sarbat : 3.9 : Beverages : ₹100 for two :  Sahid Nagar, Bhubaneshwar
+Richard's Kitchen & Coffee Bar : 3.8 : Cafe, Chinese, Fast Food, Seafood, Sichuan : ₹600 for two :  Patia, Bhubaneshwar
+One 5 : New : Korean, Japanese, North Indian, Chinese : ₹550 for two :  Ananta Vihar, Bhubaneshwar
+Bites Fast Food : - : Chinese, Biryani, Rolls : ₹200 for two :  Surya Nagar, Bhubaneshwar
+The Second Wife Kitchen : 3.3 : North Indian, Chinese, Biryani : ₹400 for two :  Jatni, Bhubaneshwar
+Fat Tiger : 3.1 : Shake, Beverages, Momos, Burger, Pizza, Fast Food : ₹350 for two :  Patia, Bhubaneshwar
+Swizzle- Welcomhotel by ITC Hotels : - : Bar Food, Finger Food : ₹2,400 for two :  Dumduma, Bhubaneshwar
+The Aromas - Multi Cuisine Restaurant : 3.9 : Mughlai, North Indian, Chinese, Rolls : ₹300 for two :  Jagmohan Nagar, Bhubaneshwar
+Rajdhani Fast Food : 3.2 : North Indian, Biryani, Rolls, Chinese, Seafood, Mughlai, Street Food : ₹300 for two :  Kharabela Nagar, Bhubaneshwar
+Sanvi Rasoi : 3.5 : North Indian, Chinese, Street Food : ₹400 for two :  Baramunda, Bhubaneshwar
+WOW! China : 4.2 : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹500 for two :  Patia, Bhubaneshwar
+SMOG Resto Cafe : 4.1 : North Indian, Chinese, Continental, Biryani, Sichuan : ₹800 for two :  Gajapati Nagar, Bhubaneshwar
+Manomay : 4.8 : Mithai, Chinese, Street Food, North Indian, Fast Food, South Indian : ₹200 for two :  Lakshmi Sagar, Bhubaneshwar
+Old Bull : 4.9 : North Indian, Chinese, Kebab, Seafood, Sichuan : ₹700 for two :  Patia, Bhubaneshwar
+Venus Inn Restaurant : 3.6 : North Indian, South Indian, Chinese, Biryani, Salad, Desserts, Shake, Beverages : ₹500 for two :  Bapuji Nagar, Bhubaneshwar
+Appam Central : New : South Indian, Odia : ₹150 for two :  BJB Nagar, Bhubaneshwar
+The Herbs : - : South Indian, Biryani, Fast Food : ₹300 for two :  Patia, Bhubaneshwar
+XS Super Club : - : Continental : ₹1,000 for two :  Patia, Bhubaneshwar
+Lemon Chilly : New : North Indian, Biryani, Seafood, Mughlai, Chinese, Sichuan, Shake, Beverages : ₹500 for two :  Rasulgarh, Bhubaneshwar
+BRE 100 Platters : New : Odia, North Indian, Mughlai, Seafood, Fast Food, Chinese, Desserts, Beverages : ₹1,500 for two :  Sahid Nagar, Bhubaneshwar
+Taste With Dibyam : - : Burger, Sandwich, Pizza, Fast Food, Street Food, Ice Cream, Desserts, Coffee : ₹250 for two :  Lakshmi Sagar, Bhubaneshwar
+3 Angels Rolls & Kebab : - : North Indian, Chinese, Rolls, Kebab : ₹150 for two :  Rasulgarh, Bhubaneshwar
+Hotel Maa Tara Tarini : 3.9 : North Indian, Seafood, Mughlai, Biryani : ₹500 for two :  Rasulgarh, Bhubaneshwar
+Area 8 Cafe : - : Tea, Shake, Beverages, Burger, Sandwich, Wraps, Fast Food, Salad : ₹400 for two :  Nayapalli, Bhubaneshwar
+Mithai Express : - : Mithai, Street Food : ₹300 for two :  Khandagiri, Bhubaneshwar
+Sagas Bistro : New : North Indian, Biryani, Chinese, Continental, Seafood, Pasta, Desserts, Beverages : ₹1,400 for two :  Rasulgarh, Bhubaneshwar
+Keeva Restaurants & Banquets : 3.6 : North Indian, Mughlai, Biryani, Continental, Chinese, Desserts, Beverages : ₹1,000 for two :  Khandagiri, Bhubaneshwar
+Buffet Restaurant & Banquet : - : Odia, Chinese, North Indian : ₹500 for two :  Gajapati Nagar, Bhubaneshwar
+Waffle Bites : 4.1 : Waffle, Ice Cream, Desserts : ₹350 for two :  Patia, Bhubaneshwar
+Desire - Pal Heights : 4.3 : Finger Food : ₹500 for two :  Pal Heights, Jayadev Vihar, Bhubaneshwar
+Burgerwala Babu : - : Burger, Pizza, Sandwich, Fast Food, Beverages : ₹300 for two :  Patia, Bhubaneshwar
+Mughlai Roast : 4.0 : Mughlai, Biryani, Kebab : ₹350 for two :  Chandrasekharpur, Bhubaneshwar
+Street Cafe : - : Sandwich, Burger, Pizza, Fast Food, Street Food, Juices, Shake, Beverages : ₹400 for two :  Kalinga Nagar, Bhubaneshwar
+ODO2Taste : - : Chinese, North Indian, Rolls, Seafood, Biryani, Mughlai, Sichuan : ₹400 for two :  Patia, Bhubaneshwar
+Num Num-The Ultimate Taste : - : North Indian, Chinese : ₹300 for two :  Gajapati Nagar, Bhubaneshwar
+DJ Cafe : New : Coffee, Fast Food : ₹300 for two :  Nayapalli, Bhubaneshwar
+Hotel Ritika : - : North Indian, Chinese, Mughlai, Rolls, Seafood, Biryani : ₹450 for two :  BJB Nagar, Bhubaneshwar
+Chilli Spice Hotel & Fast Food : - : Chinese, North Indian : ₹250 for two :  Nayapalli, Bhubaneshwar
+Ghatikia Junction : New : North Indian, Mughlai, Seafood, Biryani, Kebab, Chinese, Sichuan : ₹600 for two :  Kalinga Nagar, Bhubaneshwar
+Idli Bhavan : 4.0 : South Indian, Chinese, Fast Food, North Indian, Beverages : ₹500 for two :  Patia, Bhubaneshwar
+Subway : 4.0 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Sahid Nagar, Bhubaneshwar
+Hotel Shirose : 3.9 : North Indian, Chinese, Biryani, Mughlai, Beverages : ₹700 for two :  BJB Nagar, Bhubaneshwar
+Sips : New : Juices, Desserts : ₹350 for two :  Chandrasekharpur, Bhubaneshwar
+Foods Day : 4.2 : Biryani, Fast Food, Rolls, Chinese, Sichuan, Kebab : ₹300 for two :  Sahid Nagar, Bhubaneshwar
+Swadishtam : New : South Indian : ₹300 for two :  Kalinga Nagar, Bhubaneshwar
+My Family Hotel & Restaurant : New : North Indian, Mughlai, Chinese : ₹300 for two :  Patia, Bhubaneshwar
+Amma Kitchen : New : Odia : ₹300 for two :  Rasulgarh, Bhubaneshwar
+Sardar Ji Restaurant : 3.2 : North Indian : ₹400 for two :  Patia, Bhubaneshwar
+Cicada : - : North Indian, Chinese, Mughlai, Biryani, Rolls : ₹400 for two :  Chandrasekharpur, Bhubaneshwar
+Little Chef Restaurant : 3.4 : North Indian, Chinese, Biryani, Mughlai, Seafood, Odia, Ice Cream, Beverages : ₹500 for two :  Patia, Bhubaneshwar
+Salt Kitchen & Llounge : 4.2 : Chinese, North Indian, Beverages : ₹500 for two :  Patia, Bhubaneshwar
+Breathe By Biswajit : 3.1 : Asian, North Indian, Italian, Mughlai, Seafood, Desserts : ₹500 for two :  Sahid Nagar, Bhubaneshwar
+Baithack : 3.9 : Tea, Coffee, Beverages, Pasta, Pizza, Sandwich, Fast Food, Street Food : ₹400 for two :  Patia, Bhubaneshwar
+THALI & FASTFOOD JUNCTION : - : Odia, Fast Food : ₹300 for two :  Jayadev Vihar, Bhubaneshwar
+Hotel Spice Emperio : New : North Indian, Biryani, Chinese, Rolls, Mughlai, Seafood, Street Food : ₹450 for two :  Chandrasekharpur, Bhubaneshwar
+Dosa Plaza : 4.4 : South Indian, Street Food, Beverages : ₹400 for two :  Patia, Bhubaneshwar
+Secret Taste AC Restaurant : New : Odia, North Indian, Seafood, Biryani, Chinese : ₹400 for two :  Patia, Bhubaneshwar
+The Chocolate House : 4.0 : Fast Food, Desserts, Coffee, Beverages, Shake, Sichuan, Salad : ₹500 for two :  Sahid Nagar, Bhubaneshwar
+Jugaad Jn. : 4.1 : North Indian, Street Food, Chinese, Fast Food, Beverages : ₹400 for two :  Lakshmi Sagar, Bhubaneshwar
+Hotel Deepali International : - : North Indian, Chinese, Seafood, Sichuan : ₹500 for two :  Lakshmi Sagar, Bhubaneshwar
+Mishri : New : South Indian, North Indian : ₹400 for two :  Lakshmi Sagar, Bhubaneshwar
+Sweetest Burger : - : Burger, Fast Food, Wraps, Sandwich, Salad, North Indian, Beverages : ₹200 for two :  Baramunda, Bhubaneshwar
+The Paradise Food Boxx : New : North Indian, Biryani, Rolls, Chinese : ₹400 for two :  Kalinga Nagar, Bhubaneshwar
+Cream Stone Ice Cream : 4.3 : Ice Cream, Desserts, Beverages : ₹400 for two :  Jayadev Vihar, Bhubaneshwar
+Big Cup Cafe : New : North Indian, Chinese, Continental, Biryani, Coffee : ₹1,000 for two :  Kalinga Nagar, Bhubaneshwar
+Pathsala Cafe & Restro : 3.7 : Chinese, Coffee, Fast Food, North Indian, Beverages, Rolls : ₹450 for two :  Khandagiri, Bhubaneshwar
+Natural's Ice Cream Parlour : 3.4 : Ice Cream, Desserts : ₹200 for two :  Jayadev Vihar, Bhubaneshwar
+BabuMoshai : 3.6 : North Indian, Mughlai, Bengali, Odia, Chinese : ₹500 for two :  Sahid Nagar, Bhubaneshwar
+Keventers - Milkshakes & Desserts : 4.1 : Shake, Beverages, Desserts : ₹400 for two :  Patia, Bhubaneshwar
+Zambar : 3.4 : South Indian, Seafood, Beverages : ₹600 for two :  Biju Patnayik International Airport, Bhubaneswar , Bhubaneshwar
+Spice Library : 3.9 : North Indian, Mughlai, Odia, Kebab, Biryani, Seafood : ₹400 for two :  Patia, Bhubaneshwar
+Venus Multicuisine Restaurant : 4.1 : North Indian, Biryani, Chinese, Sichuan : ₹600 for two :  Surya Nagar, Bhubaneshwar
+Milky Den Veg Restaurant : 4.4 : North Indian : ₹350 for two :  Kharabela Nagar, Bhubaneshwar
+Go Cool : 4.4 : Bakery, Sandwich, Burger : ₹600 for two :  Patia, Bhubaneshwar
+Adi's Dhaba : 3.7 : Odia, North Indian, Chinese, BBQ, Biryani, Mughlai : ₹400 for two :  Kharabela Nagar, Bhubaneshwar
+Coco & Chill : - : North Indian, Seafood, Chinese, Momos : ₹1,000 for two :  Kalinga Nagar, Bhubaneshwar
+Hotel Charlie : 4.1 : North Indian, Chinese, Biryani, Seafood, Mughlai, Street Food : ₹300 for two :  Kharabela Nagar, Bhubaneshwar
+Reverb Resto Cafe : 4.1 : North Indian, Continental, Chinese, Hyderabadi, Shake, Sichuan : ₹850 for two :  Patia, Bhubaneshwar
+Aangan Highway : 4.3 : North Indian, Continental, Chinese, Biryani, Seafood, Shake : ₹900 for two :  Patia, Bhubaneshwar
+Silver Stick-The Jewels Of Food And Coffee : 3.9 : Chinese, Seafood, Sichuan : ₹500 for two :  Nayapalli, Bhubaneshwar
+Grand Kalinga : 3.8 : North Indian, Chinese, Seafood : ₹500 for two :  Chandrasekharpur, Bhubaneshwar
+Pegasus Restro Bar : 4.4 : Chinese, Continental, North Indian : ₹800 for two :  Unit 4, Bhubaneshwar
+La Pino'z Pizza : 3.9 : Pizza, Pasta, Fast Food, Italian : ₹400 for two :  Patia, Bhubaneshwar
+The Chef Restaurant : 3.9 : North Indian, Chinese, Biryani, Sichuan : ₹1,000 for two :  Nayapalli, Bhubaneshwar
+Mad Moose Artisan Gelato : 4.5 : Ice Cream, Desserts, Shake, Sandwich, North Indian, Beverages : ₹300 for two :  Patia, Bhubaneshwar
+Bharpoor : 4.0 : North Indian, Chinese, Italian, Pizza, Fast Food, Continental, Desserts, Beverages : ₹1,000 for two :  Patia, Bhubaneshwar
+Gupta's Sweets & Chats : 3.9 : Mithai, Street Food, Sandwich : ₹200 for two :  Lakshmi Sagar, Bhubaneshwar
+Mio Amore : 4.1 : Bakery, Desserts, Fast Food, Burger, Kebab, Rolls : ₹300 for two :  Sahid Nagar, Bhubaneshwar
+Chickpet Donne Biryani House : 3.7 : Biryani, South Indian : ₹1,000 for two :  Patia, Bhubaneshwar
+Hideaway Restro And Cafe : 3.9 : North Indian, Fast Food, Biryani, Chinese, Italian, Mughlai, Sichuan : ₹300 for two :  Unit 4, Bhubaneshwar
+WelcomCafe : - : North Indian, Continental, Beverages : ₹2,500 for two :  Dumduma, Bhubaneshwar
+Leo Bite : 3.6 : North Indian, Fast Food, Biryani : ₹300 for two :  Khandagiri, Bhubaneshwar
+The Big Bike Hub Cafe : 4.6 : Fast Food, Pizza, Burger, Sandwich, Shake : ₹500 for two :  Patia, Bhubaneshwar
+Chancellor Restaurant : 3.9 : North Indian, Mughlai, Chinese, Salad, Biryani, Desserts : ₹250 for two :  Ashok Nagar, Bhubaneshwar
+Ama Odisha Hotel : 3.6 : Odia, North Indian, Mughlai : ₹600 for two :  Rasulgarh, Bhubaneshwar
+Kolkata Bhoj : 4.0 : North Indian, Bengali, Mughlai, Biryani, Chinese, Sichuan : ₹800 for two :  Patia, Bhubaneshwar
+Hotel Venus : 3.9 : South Indian, North Indian, Fast Food, Chinese, Beverages : ₹600 for two :  Surya Nagar, Bhubaneshwar
+Biryani Bhoj : 4.1 : Biryani, North Indian, Kebab, Chinese, Rolls, Sichuan : ₹450 for two :  Patia, Bhubaneshwar
+Zam Zam Grills : 3.8 : North Indian, Chinese, Mughlai, Seafood, Rolls : ₹700 for two :  Patia, Bhubaneshwar
+Hotel Raj Bhog : 3.9 : North Indian, South Indian, Chinese, Fast Food : ₹1,000 for two :  Kharabela Nagar, Bhubaneshwar
+Ice - Indian Chicken Express : 3.9 : Fast Food, Burger : ₹400 for two :  Jagmohan Nagar, Bhubaneshwar
+Pent Cafe : 3.7 : Fast Food, Beverages : ₹300 for two :  Patia, Bhubaneshwar
+OD 02 The Next Level : 3.9 : North Indian, Mughlai, Chinese, Continental, Pizza, Fast Food, Desserts : ₹1,000 for two :  BJB Nagar, Bhubaneshwar
+Rob Roy - Swosti Premium : 4.2 : Finger Food, Shake, Continental, Oriental, Kebab, Odia, Asian, Beverages : ₹1,500 for two :  Swosti Premium, Jayadev Vihar, Bhubaneshwar
+Omlet Raja : 3.9 : Chinese, Street Food, Rolls, Biryani : ₹400 for two :  Patia, Bhubaneshwar
+Chick Blast : 3.1 : Fast Food, Beverages, Sichuan : ₹450 for two :  Patrapada, Bhubaneshwar
+Scholars : 4.0 : North Indian, Chinese : ₹400 for two :  Jagmohan Nagar, Bhubaneshwar
+Eat Street : 3.7 : North Indian, Chinese, Mughlai, Seafood, Biryani, Kebab, Sichuan : ₹700 for two :  Jayadev Vihar, Bhubaneshwar
+Hotel Sriyaram : 4.0 : Odia, Chinese, Pizza, Burger, Sandwich, Street Food, Coffee, Beverages : ₹400 for two :  Sahid Nagar, Bhubaneshwar
+Shiraz Golden Restaurant : 3.5 : North Indian, Biryani, Mughlai, Kebab, Seafood : ₹1,000 for two :  Unit 4, Bhubaneshwar
+Dawat : - : North Indian, Chinese : ₹400 for two :  Sahid Nagar, Bhubaneshwar
+Saffron Spice : 4.0 : North Indian, Odia : ₹300 for two :  Jatni, Bhubaneshwar
+Hotel Maa Santoshi : 3.3 : Odia, North Indian : ₹200 for two :  Sahid Nagar, Bhubaneshwar
+atithi Devo Bhaba : - : Odia : ₹1,000 for two :  Sahid Nagar, Bhubaneshwar
+Aeroplane Restaurant - Queen Airways : - : North Indian, Chettinad, Biryani, Rajasthani, Odia, Goan, Chinese, Continental : ₹500 for two :  Rasulgarh, Bhubaneshwar
+TDM Shawarma : 3.1 : Shawarma, Mughlai, Chinese, Seafood, Biryani, South Indian, North Indian, Beverages : ₹400 for two :  Kalinga Nagar, Bhubaneshwar
+The Rock Sports Bar - Hotel Pushpak : 4.2 : South Indian, North Indian, Chinese : ₹800 for two :  Hotel Pushpak, Lakshmi Sagar, Bhubaneshwar
+Sunbean Café- Welcomhotel by ITC Hotels : - : Bakery, Desserts : ₹2,000 for two :  Dumduma, Bhubaneshwar
+Mungeri Dhaba : 4.0 : North Indian, Mughlai : ₹350 for two :  Patia, Bhubaneshwar
+Tangerine 9 Restaurant : 4.0 : North Indian, Chinese, Biryani, Kebab, Seafood, Desserts, Beverages : ₹800 for two :  Kharabela Nagar, Bhubaneshwar
+Ostra : 4.4 : Seafood, Pizza, Chinese, Continental, North Indian, Salad, Fast Food, Desserts : ₹1,000 for two :  Unit 4, Bhubaneshwar
+Ras Darbar : 3.0 : North Indian, Chinese, Odia, Mughlai, Sichuan : ₹450 for two :  Kalinga Nagar, Bhubaneshwar
+Biriyani King : 3.9 : Rolls, Chinese, North Indian, Mughlai, Biryani : ₹300 for two :  Patia, Bhubaneshwar
+7th Heaven : 3.9 : Bakery, Desserts, Fast Food : ₹400 for two :  Patia, Bhubaneshwar
+Hi-5 - The Lounge Bar : 4.9 : Finger Food, Fast Food : ₹1,500 for two :  Hotel Sandy's Tower, Gajapati Nagar, Bhubaneshwar
+Shree Kunj Restaurant : 3.6 : North Indian, Chinese, South Indian, Mithai, Ice Cream, Street Food, Beverages : ₹1,000 for two :  Ashok Nagar, Bhubaneshwar
+Maa Matihandi Mutton : 4.4 : Mughlai, North Indian : ₹400 for two :  Chandrasekharpur, Bhubaneshwar
+Flavours - Hotel Hindustan International : 4.0 : North Indian, Chinese, Continental, Mughlai, Bar Food, Shake, Burger : ₹1,200 for two :  Hotel Hindustan International, Kharabela Nagar, Bhubaneshwar
+Venus Premium : 3.3 : Odia, Chinese, North Indian, Biryani, Seafood, Mughlai, Desserts : ₹600 for two :  Chandrasekharpur, Bhubaneshwar
+Patiala House : 4.3 : North Indian, Chinese, Mughlai, Rolls, Biryani, Desserts, Beverages : ₹1,000 for two :  Patia, Bhubaneshwar
+Hotel Swadist : 4.3 : North Indian, South Indian : ₹200 for two :  Lakshmi Sagar, Bhubaneshwar
+Marwari Express : 3.9 : Rajasthani, North Indian, Fast Food : ₹250 for two :  Patia, Bhubaneshwar
+Rodeo Bar - Pal Heights Mantra : 3.9 : Bar Food, Chinese, Asian : ₹1,400 for two :  Pahala, Bhubaneshwar
+Mimosa : 4.2 : North Indian, Chinese, Seafood, Fast Food, Biryani, Desserts, Beverages, Sichuan : ₹800 for two :  Unit 4, Bhubaneshwar
+Brew XpresZ : 3.9 : Mexican, Italian, Burger, Desserts, Beverages, Pizza, Pasta, Sandwich : ₹600 for two :  Jayadev Vihar, Bhubaneshwar
+The Tandoori Night : 3.6 : Fast Food, Mughlai, Biryani, North Indian : ₹400 for two :  Chandrasekharpur, Bhubaneshwar
+Baskin Robbins - Ice Cream Desserts : 3.3 : Ice Cream, Desserts, Beverages : ₹500 for two :  Kharabela Nagar, Bhubaneshwar
+Choolaa By 100 Platters : - : South Indian, Chinese, Street Food : ₹300 for two :  Sahid Nagar, Bhubaneshwar
+Club On The Roof - The Presidency : 3.7 : Chinese, North Indian, Kebab, Fast Food, Beverages : ₹1,200 for two :  The Presidency, Nayapalli, Bhubaneshwar
+Downtown Bistro & Cafe : 3.9 : Coffee, Chinese, Pasta, Waffle, Beverages : ₹500 for two :  Kalinga Nagar, Bhubaneshwar
+Bonfire : 3.9 : North Indian, Chinese, Mughlai, Rolls : ₹300 for two :  Chandrasekharpur, Bhubaneshwar
+Hotel Sriyaram : 3.7 : Odia, North Indian : ₹100 for two :  Patia, Bhubaneshwar
+The Blue Heaven : 3.8 : North Indian, Chinese, Bengali, Odia, Rolls, Kebab, Desserts : ₹500 for two :  Chandrasekharpur, Bhubaneshwar
+Faruuzi : 3.8 : Fast Food, Kebab, North Indian, Sichuan, Rolls, Sandwich : ₹350 for two :  Patia, Bhubaneshwar
+Keyars Food : 3.7 : North Indian, Biryani, Chinese, Mughlai, Seafood, Kebab, Desserts, Beverages : ₹500 for two :  Bapuji Nagar, Bhubaneshwar
+Kasbaa - Pal Heights : 4.3 : Finger Food : ₹800 for two :  Pal Heights, Jayadev Vihar, Bhubaneshwar
+Hotel Challenger : 4.0 : North Indian, Biryani : ₹500 for two :  Unit 4, Bhubaneshwar
+Kalash - Hotel Hindustan International : 3.7 : Mughlai, Kebab, Biryani, North Indian, Desserts : ₹1,400 for two :  Hotel Hindustan International, Kharabela Nagar, Bhubaneshwar
+The Mirchi Masala : 3.9 : Chinese, North Indian, Biryani, Fast Food, Seafood, Sichuan : ₹400 for two :  Lakshmi Sagar, Bhubaneshwar
+Priya Hotel & Restaurant : 3.3 : North Indian, Chinese, Biryani, Sichuan : ₹300 for two :  Nayapalli, Bhubaneshwar
+Bawarchi 9 In 9 Out : 3.9 : Mughlai, North Indian, Street Food, Biryani : ₹300 for two :  Ashok Nagar, Bhubaneshwar
+Mughlai House : 2.9 : Mughlai, North Indian, Seafood, Chinese, Rolls : ₹400 for two :  Patia, Bhubaneshwar
+Alina Hub : 3.9 : Chinese, Seafood, Odia, North Indian, Desserts : ₹450 for two :  Sahid Nagar, Bhubaneshwar
+Shanghai Express - Hotel Marrion : 3.8 : Chinese, Sichuan, Seafood : ₹1,200 for two :  New Marrion Hotel, Kharabela Nagar, Bhubaneshwar
+Bhaiji Family Resturant : 3.9 : North Indian : ₹300 for two :  Patrapada, Bhubaneshwar
+Budapest Bake Inn : 4.0 : Desserts, Ice Cream, Beverages, Shake, Waffle : ₹400 for two :  Jagmohan Nagar, Bhubaneshwar
+Charcha Global Kitchen : 3.6 : Fast Food, Mughlai, North Indian, Seafood, Chinese, Biryani, Sandwich, Pasta : ₹500 for two :  Patia, Bhubaneshwar
+Nice Restaurant : 3.6 : North Indian, Chinese, Biryani, Mughlai, Ice Cream, Sichuan : ₹300 for two :  Lakshmi Sagar, Bhubaneshwar
+Chai Sutta Bar : 3.9 : Cafe, Coffee, Fast Food, Sandwich, Burger, Pizza, Shake, Beverages : ₹500 for two :  Sahid Nagar, Bhubaneshwar
+Carageen : 3.9 : North Indian, Mughlai, Seafood, Biryani, Chinese, Fast Food, Desserts, Beverages : ₹400 for two :  Patia, Bhubaneshwar
+Sripuram : 3.4 : North Indian, Chinese, South Indian, Sichuan : ₹500 for two :  Chandrasekharpur, Bhubaneshwar
+What’s That Flavour : 3.9 : North Indian, Chinese, Wraps, Burger, Fast Food : ₹450 for two :  Sahid Nagar, Bhubaneshwar
+Eat Street : 3.5 : North Indian, Chinese : ₹400 for two :  Patia, Bhubaneshwar
+Select Fresh Roof Top Cafe : 3.9 : Cafe, Chinese, South Indian, Pasta, Beverages : ₹600 for two :  Kharabela Nagar, Bhubaneshwar
+Plaza Club - Swosti Premium : 4.2 : Finger Food, Continental, North Indian, Beverages : ₹2,000 for two :  Swosti Premium, Jayadev Vihar, Bhubaneshwar
+Nimapara Sweets : 3.4 : Mithai, Street Food : ₹200 for two :  Bapuji Nagar, Bhubaneshwar
+CFC - Crispy Fried Chicken : 3.9 : Fast Food, Shake, Burger, Pizza, Sandwich, North Indian : ₹350 for two :  Jatni, Bhubaneshwar
+Ooo Delicious : 4.2 : South Indian, North Indian, Chinese, Continental, Beverages, Sichuan : ₹500 for two :  Patia, Bhubaneshwar
+Mommy's Momos : 3.1 : Momos, Chinese : ₹200 for two :  BJB Nagar, Bhubaneshwar
+Shree Lal Food Plaza : 3.8 : North Indian, Chinese, South Indian, Shake, Beverages : ₹350 for two :  Khandagiri, Bhubaneshwar
+Xenia : 3.2 : North Indian, Chinese, Continental, Desserts, Beverages : ₹1,500 for two :  Hotel Sandy's Tower, Gajapati Nagar, Bhubaneshwar
+Hotel The Sutrupti : 4.2 : North Indian, Chinese, South Indian, Biryani, Rolls, Mughlai : ₹500 for two :  Unit 4, Bhubaneshwar
+Bhojohori Manna : 3.9 : North Indian, Mughlai, Chinese, Biryani : ₹400 for two :  Unit 4, Bhubaneshwar
+Hydra Club And Sky Lounge : - : Bar Food, Chinese : ₹1,000 for two :  Baramunda, Bhubaneshwar
+Hotel Baripada Mutton : 3.8 : Mughlai, North Indian, Biryani : ₹300 for two :  Sahid Nagar, Bhubaneshwar
+The Fork : 4.1 : North Indian, Pasta, Salad, Sandwich, Fast Food, Chinese : ₹350 for two :  Ananta Vihar, Bhubaneshwar
+House Of Biryani : 3.4 : Biryani, North Indian, Mughlai, Chinese, Rolls : ₹400 for two :  Jayadev Vihar, Bhubaneshwar
+Maa Cloud Kitchen : 3.6 : South Indian, Grilled Chicken, Fast Food : ₹350 for two :  Patrapada, Bhubaneshwar
+WarmOven Cake & Desserts : 3.4 : Bakery, Desserts, Ice Cream, Shake, Beverages : ₹500 for two :  Chandrasekharpur, Bhubaneshwar
+Hotel Tarini Cottage : 3.7 : North Indian, Fast Food, Seafood, Chinese, Biryani : ₹300 for two :  Chandrasekharpur, Bhubaneshwar
+Victoria Authentic Oriental & Thai Restaurant : 4.1 : North Indian, Chinese, Thai, Biryani, Kebab, Seafood, Mughlai, Desserts : ₹700 for two :  Nayapalli, Bhubaneshwar
+Hi Bhubaneswar : 3.4 : Chinese, North Indian, Kebab, Biryani, Sichuan : ₹600 for two :  Patia, Bhubaneshwar
+Aladdin Grills & Barbeque : 4.3 : BBQ, Mughlai, North Indian, Biryani, Beverages : ₹500 for two :  Patia, Bhubaneshwar
+Global Belly - Hotel Seetal : 4.2 : North Indian, Continental, Odia, Biryani : ₹1,000 for two :  Hotel Seetal, Sahid Nagar, Bhubaneshwar
+Sura - Empires Hotel : 4.0 : Bar Food, North Indian, Chinese, Biryani, Fast Food, South Indian, Sichuan, Kebab : ₹1,000 for two :  Empires Hotel, Sahid Nagar, Bhubaneshwar
+Seasoning Kitchen : 4.4 : North Indian, Odia, Chinese, Mughlai : ₹200 for two :  Chandrasekharpur, Bhubaneshwar
+Mughlai Affair : 4.1 : Mughlai, Chinese, North Indian, Rolls, Street Food, Biryani : ₹400 for two :  Lakshmi Sagar, Bhubaneshwar
+Keyar's Food Multi Cuisine : 3.5 : North Indian, Chinese, Biryani, Kebab, Ice Cream : ₹800 for two :  Bapuji Nagar, Bhubaneshwar
+Hotel 7 Miles : 3.8 : North Indian, Chinese, Beverages, Finger Food, Biryani, Seafood : ₹550 for two :  Khandagiri, Bhubaneshwar
+Maharaja Ganguram : 3.9 : Mithai, Fast Food, Chinese, Biryani : ₹250 for two :  Baramunda, Bhubaneshwar
+Brewbakes : 4.2 : Cafe, Coffee, Pizza, Burger, Pasta, Fast Food, Desserts, Beverages : ₹500 for two :  Jatni, Bhubaneshwar
+Oceana : 4.2 : North Indian, Chinese, Fast Food, Kebab, Beverages : ₹1,000 for two :  Hotel Swosti, Kharabela Nagar, Bhubaneshwar
+Shree Bidya Ganguram : 3.5 : Street Food, Mithai : ₹150 for two :  Sahid Nagar, Bhubaneshwar
+Vaango : 3.8 : South Indian, Beverages, Desserts : ₹300 for two :  Patrapada, Bhubaneshwar
+Pipul Restaurant & Banquet : 3.9 : North Indian, South Indian, Chinese, Fast Food, Biryani, Sichuan : ₹400 for two :  Rasulgarh, Bhubaneshwar
+Burnt : 4.3 : Fast Food, Momos, Beverages : ₹300 for two :  Patia, Bhubaneshwar
+Swarna Restaurant : 4.2 : North Indian, South Indian, Chinese, Belgian : ₹550 for two :  Ashok Nagar, Bhubaneshwar
+Second Wife Kitchen : 3.9 : Odia, Biryani : ₹450 for two :  Rasulgarh, Bhubaneshwar
+Food Factory : 3.8 : Fast Food, Chinese, Biryani, Rolls, Sichuan : ₹400 for two :  Kharabela Nagar, Bhubaneshwar
+Capital Biryani Centre : 4.2 : North Indian, Biryani, Chinese : ₹400 for two :  Chandrasekharpur, Bhubaneshwar
+The Regal Food Park : 3.8 : North Indian, Modern Indian, Continental, Seafood, Odia : ₹400 for two :  Patia, Bhubaneshwar
+D'bake : 3.6 : Bakery, Desserts : ₹300 for two :  Chandrasekharpur, Bhubaneshwar
+UG Cafe & Bar - Hotel Hindustan International : 4.1 : Continental, Mexican, Desserts, Italian, Cuisine Varies, Shake : ₹1,200 for two :  Hotel Hindustan International, Kharabela Nagar, Bhubaneshwar
+Sandhyarani Hotel : 3.9 : Odia, North Indian, Seafood, Chinese : ₹400 for two :  Gajapati Nagar, Bhubaneshwar
+99 Bakers Street : 4.3 : Bakery, Desserts, Fast Food : ₹500 for two :  Nayapalli, Bhubaneshwar
+Waffle N Creme : 4.3 : Cafe, Coffee, Desserts, Shake, Beverages : ₹500 for two :  Patia, Bhubaneshwar
+Odia Dalama : 3.0 : Odia, North Indian : ₹400 for two :  Unit 4, Bhubaneshwar
+Drunken Monkey : 3.9 : Beverages, Juices, Shake, Coffee, Healthy Food, Mexican, Wraps : ₹300 for two :  BMC Bhawani Mall, Sahid Nagar, Bhubaneshwar
+Lemonmustard : 4.1 : North Indian, Biryani, Chinese, Kebab : ₹500 for two :  BJB Nagar, Bhubaneshwar
+Sai Smruti Veg Fast Food : 4.0 : Fast Food : ₹200 for two :  Nayapalli, Bhubaneshwar
+The Veg World : 3.3 : North Indian, Chinese : ₹300 for two :  Khandagiri, Bhubaneshwar
+Break Time Burger : 3.6 : Burger, Pizza, Sandwich, Street Food, Fast Food, Shake, Beverages : ₹300 for two :  Jatni, Bhubaneshwar
+Mughal Mings : 3.8 : Rolls, Chinese, North Indian, Biryani, Beverages, Juices, Seafood : ₹500 for two :  Surya Nagar, Bhubaneshwar
+Hotel Sunrise : 3.6 : North Indian, Chinese, Odia, Mughlai : ₹400 for two :  Khandagiri, Bhubaneshwar
+Bling It On Courtyard : 3.9 : Cafe, Italian, Mexican, Beverages, Desserts : ₹450 for two :  Patia, Bhubaneshwar
+Behind Bars - VITS Hotel : 4.0 : Finger Food, Fast Food, Beverages : ₹700 for two :  VITS Hotel, Lakshmi Sagar, Bhubaneshwar
+Amber Hotel : 4.1 : North Indian, Chinese, Biryani : ₹400 for two :  Kharabela Nagar, Bhubaneshwar
+Mitha & Pitha : 3.8 : Mithai, Street Food : ₹300 for two :  Chandrasekharpur, Bhubaneshwar
+Hotel Maa Tarini : 3.8 : North Indian, Fast Food : ₹400 for two :  Patia, Bhubaneshwar
+Sri Kunj Fast Food : 3.4 : Rolls, North Indian, Chinese, Mughlai, Biryani, Seafood, Street Food : ₹400 for two :  Ashok Nagar, Bhubaneshwar
+Ghassfhuss Restaurant : 4.0 : North Indian : ₹600 for two :  Bapuji Nagar, Bhubaneshwar
+Jalsa - Hotel Suryansh : 4.3 : Finger Food : ₹1,200 for two :  Chandrasekharpur, Bhubaneshwar
+Qdoba : 4.2 : North Indian, Fast Food : ₹200 for two :  Patia, Bhubaneshwar
+Anjuman Bar And Restaurant : 4.1 : Finger Food : ₹500 for two :  Gajapati Nagar, Bhubaneshwar
+Appetite : 3.6 : Bengali, Odia, North Indian, Chinese, Seafood, Sichuan : ₹400 for two :  Patia, Bhubaneshwar
+Bengal Kitchen : 3.4 : Fast Food, Biryani, Rolls, Chinese : ₹300 for two :  Unit 4, Bhubaneshwar
+Girija Hotel And Fast Food : 3.2 : Chinese, North Indian, Odia, Street Food, Sichuan : ₹500 for two :  Baramunda, Bhubaneshwar
+Guavaz - Natural Ice Creams : 3.5 : Desserts, Ice Cream : ₹200 for two :  Patia, Bhubaneshwar
+Country Kitchen : 4.1 : Seafood, North Indian, Mughlai, Biryani, Chinese, Ice Cream, Sichuan : ₹450 for two :  Chandrasekharpur, Bhubaneshwar
+Sanu Family Restaurant : 3.9 : Fast Food, Chinese, North Indian : ₹350 for two :  Chandrasekharpur, Bhubaneshwar
+Bismillah Biryani Zone : 3.4 : Mughlai, Biryani : ₹250 for two :  Jatni, Bhubaneshwar
+High Me Up : - : Fast Food, Chinese, North Indian, Mughlai, Beverages : ₹800 for two :  Jayadev Vihar, Bhubaneshwar
+The Cafe Heaven : New : Cafe, Coffee, Pizza, Burger, Fast Food, Chinese, Tea, Beverages : ₹750 for two :  Gajapati Nagar, Bhubaneshwar
+Hotel Trupti : 3.6 : North Indian, Chinese : ₹250 for two :  Kalinga Nagar, Bhubaneshwar
+Omm Sai Ram Fast Food : 3.9 : Fast Food, Chinese, Sichuan, Rolls : ₹300 for two :  Chandrasekharpur, Bhubaneshwar
+Wings and Burger : 4.4 : Burger, Fast Food, Beverages : ₹400 for two :  Patia, Bhubaneshwar
+TRI FC : 3.7 : Fast Food, Beverages, Burger : ₹400 for two :  Patia, Bhubaneshwar
+Oasis Lounge Bar : 4.0 : Finger Food, Bar Food : ₹600 for two :  Bapuji Nagar, Bhubaneshwar
+Rainbow Cafe : 3.7 : North Indian, Chinese, Mughlai, Street Food, Seafood, Desserts : ₹550 for two :  Nayapalli, Bhubaneshwar
+Hotel Chetan Inn : 3.9 : North Indian, Mughlai, Seafood, Biryani, Chinese : ₹1,000 for two :  Chandrasekharpur, Bhubaneshwar
+Refresh Live Cafe And Restro : 3.8 : Beverages, Chinese, Fast Food, Pizza, Biryani, North Indian, Desserts, Shake : ₹400 for two :  Chandrasekharpur, Bhubaneshwar
+Biriyani On Call : 4.0 : Biryani, Chinese, North Indian : ₹300 for two :  Jatni, Bhubaneshwar
+Creme Berry : 4.8 : Desserts, Ice Cream, Beverages : ₹300 for two :  Patia, Bhubaneshwar
+Mio Amore : 3.9 : Bakery, Desserts, Fast Food : ₹300 for two :  BJB Nagar, Bhubaneshwar
+Apsara Ice Creams : 3.6 : Ice Cream : ₹300 for two :  Patia, Bhubaneshwar
+Solariz - Hotel Suryansh : 3.4 : South Indian, Chinese, Continental, North Indian : ₹900 for two :  Hotel Suryansh, Chandrasekharpur, Bhubaneshwar
+Royal Biryani Garden : 4.1 : North Indian, Chinese, Biryani, Mughlai : ₹400 for two :  Dumduma, Bhubaneshwar
+Behera Dhaba : 3.4 : South Indian : ₹450 for two :  Khandagiri, Bhubaneshwar
+Momo House : 4.1 : Momos, Chinese : ₹150 for two :  Patia, Bhubaneshwar
+Giani : 3.7 : Ice Cream, Desserts, Beverages, Shake : ₹300 for two :  Chandrasekharpur, Bhubaneshwar
+The Oregano : 3.7 : Chinese, Fast Food, Street Food, Kebab, Sandwich, Seafood : ₹300 for two :  Nayapalli, Bhubaneshwar
+Cafe Inferno : - : North Indian, Chinese, Biryani, Mughlai, Continental, Seafood, Desserts, Beverages : ₹1,500 for two :  Rasulgarh, Bhubaneshwar
+Tasty Momos : 3.8 : Momos, Street Food : ₹200 for two :  Patia, Bhubaneshwar
+Spice Garden : 3.3 : North Indian, Chinese : ₹800 for two :  Bapuji Nagar, Bhubaneshwar
+Brothers Kitchen & Fast Food : 3.8 : North Indian, Chinese, Fast Food, Biryani, Italian : ₹350 for two :  Chandrasekharpur, Bhubaneshwar
+Chaturbhuja Legacy : 3.1 : North Indian, Chinese, Desserts, Biryani, Salad, Rolls, Kebab, Beverages : ₹300 for two :  Lakshmi Sagar, Bhubaneshwar
+Bombay Kulfi : 4.2 : Ice Cream, Desserts : ₹200 for two :  Patia, Bhubaneshwar
+Ganguram : 3.7 : Mithai, Fast Food : ₹100 for two :  Sahid Nagar, Bhubaneshwar
+Bombay Times : 2.4 : North Indian, Chinese, American, Fast Food : ₹300 for two :  Rasulgarh, Bhubaneshwar
+Food Fever : 4.1 : North Indian, Mughlai, Seafood, Kebab, Biryani, Chinese, Asian, Desserts : ₹1,000 for two :  Sahid Nagar, Bhubaneshwar
+Nanaa's Urban Dhaba : 3.2 : Chinese, North Indian, Odia : ₹200 for two :  Chandrasekharpur, Bhubaneshwar
+The Kadhai Bar : 3.4 : Chinese, Sichuan, North Indian, Mughlai, Rolls, Seafood : ₹600 for two :  Sahid Nagar, Bhubaneshwar
+Brown & Cream Parlour : 3.5 : Desserts, Bakery, Fast Food : ₹500 for two :  Hotel Swosti, Kharabela Nagar, Bhubaneshwar
+Vrindavan Chaat : 3.3 : Street Food, North Indian, Beverages : ₹300 for two :  Patia, Bhubaneshwar
+Food I'land : 3.8 : North Indian, Fast Food, Sichuan : ₹400 for two :  Sahid Nagar, Bhubaneshwar
+Rolling Crunchy's Express : New : Sandwich, Burger, Rolls, Street Food, Shake : ₹200 for two :  Sahid Nagar, Bhubaneshwar
+Golden Chillyz : 3.2 : Fast Food, Chinese, Sandwich, Sichuan : ₹400 for two :  Baramunda, Bhubaneshwar
+Haldi : 3.8 : North Indian, Odia : ₹400 for two :  Nayapalli, Bhubaneshwar
+Swadist Premium Veg Restaurant : 3.8 : South Indian, North Indian, Biryani : ₹150 for two :  Lakshmi Sagar, Bhubaneshwar
+Teatotaler : 3.7 : Beverages, Shake : ₹200 for two :  Unit 4, Bhubaneshwar
+Phoolbani - Hotel Kalinga Ashok : 3.7 : North Indian, South Indian, Biryani, Chinese, Kebab, Salad, Beverages, Desserts : ₹1,000 for two :  BJB Nagar, Bhubaneshwar
+Yo Panda The Oriental Express : 4.2 : Chinese, Fast Food : ₹350 for two :  Satya Nagar, Bhubaneshwar
+Dhaba Junction : 3.6 : North Indian, Chinese, Seafood, Mughlai, Kebab, Desserts, Beverages : ₹300 for two :  Patrapada, Bhubaneshwar
+Richie's Fastfood & Restaurant : 3.9 : North Indian, Chinese, Biryani, Fast Food, Sichuan : ₹350 for two :  Surya Nagar, Bhubaneshwar
+Garlic Cafe And Restaurant : 2.7 : North Indian, Chinese, Mughlai, Sandwich, Momos, Fast Food : ₹500 for two :  Chandrasekharpur, Bhubaneshwar
+JAJABARA-By Juhar Kalinga Kitchen : 3.9 : Odia, Fast Food, North Indian, South Indian : ₹250 for two :  Bapuji Nagar, Bhubaneshwar

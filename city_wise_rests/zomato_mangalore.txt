@@ -1,0 +1,405 @@
+Dhriti's All Day Diner : New : Chinese, Thai, Continental, North Indian, Italian, South Indian, Beverages : ₹700 for two :  Kadri, Mangalore
+Sanadige - Goldfinch Hotel : 4.7 : Seafood, Mangalorean, Goan, South Indian, North Indian, Chinese, Desserts, Beverages : ₹1,000 for two :  Goldfinch Hotel, Balmatta, Mangalore
+The Loft : 4.4 : Italian, Pizza, Desserts, Continental, Beverages : ₹750 for two :  Attavar, Mangalore
+Kni Hau : 4.5 : Chinese, Cantonese : ₹1,000 for two :  Balmatta, Mangalore
+Machali : 4.7 : Seafood, Mangalorean, South Indian : ₹800 for two :  Kodailbail, Mangalore
+Sharief Bhai : 3.7 : Biryani, Kebab, Mughlai, Arabian, South Indian, Rolls, Desserts, Beverages : ₹200 for two :  Hampankatta, Mangalore
+Village Restaurant : 4.1 : Seafood, Mangalorean, South Indian, Pizza, Biryani, Chinese, Continental : ₹1,000 for two :  Kavoor, Mangalore
+Diesel Cafe : 4.9 : American, Continental, Italian, Desserts, Beverages : ₹1,000 for two :  Balmatta, Mangalore
+The Curry Wok : 4.4 : North Indian, Continental, Chinese : ₹700 for two :  Hampankatta, Mangalore
+Maharaja Restaurant : 4.2 : Seafood, Mangalorean, North Indian, Fast Food, Mughlai, Chinese, Beverages, Sichuan : ₹700 for two :  Balmatta, Mangalore
+24 Carat Resto Bar : 4.1 : Chinese, Seafood, Asian, Fast Food, North Indian, South Indian, Mughlai, Bar Food : ₹1,000 for two :  Kulai, Mangalore
+The Asian Patio : 4.2 : Asian, Salad, Sushi, Fast Food, Desserts : ₹800 for two :  Hampankatta, Mangalore
+Tandoor : 4.2 : Seafood, North Indian, Biryani : ₹600 for two :  Balmatta, Mangalore
+The Coconut Groove : 4.2 : North Indian, Chinese, Biryani, Oriental, Salad, Desserts : ₹1,200 for two :  Hampankatta, Mangalore
+Naturals Just Sundaes : 3.8 : Desserts : ₹350 for two :  Kodailbail, Mangalore
+KFC : 4.1 : Burger, Fast Food, Rolls : ₹450 for two :  City Center Mall, Hampankatta, Mangalore
+Hotel Sai Palace : 3.6 : North Indian, South Indian, Chinese, Continental, Mughlai, Biryani, Beverages, Sichuan : ₹700 for two :  Hampankatta, Mangalore
+Brick House : 4.3 : Continental, Chinese, Fast Food, North Indian, Desserts, Beverages : ₹500 for two :  Hampankatta, Mangalore
+Mumbai Masalaa : 4.0 : North Indian, Mughlai, Biryani, Seafood, Chinese, Fast Food, Beverages : ₹1,000 for two :  Lalbagh, Mangalore
+Spindrift : 4.9 : Continental, Pizza, Italian, Steak, Thai, Finger Food, Sichuan : ₹1,000 for two :  Bharath Mall, Lalbagh, Mangalore
+Pizza Hut : 4.5 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Kadri, Mangalore
+Barbeque Nation : 4.6 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,750 for two :  Kankanady, Mangalore
+Pabba's Ideal Cafe : 4.3 : North Indian, South Indian, Sandwich, Chinese, Fast Food, Ice Cream, Shake, Juices : ₹200 for two :  Lalbagh, Mangalore
+Gajalee Sea Food : 4.9 : Seafood, North Indian : ₹700 for two :  Kadri, Mangalore
+Thyme Family Restaurant : 4.5 : Continental, Oriental, North Indian, Desserts, Beverages : ₹750 for two :  Lalbagh, Mangalore
+Aayan's Kitchen : 4.5 : North Indian, Arabian, Mughlai, Lebanese, Beverages : ₹750 for two :  Attavar, Mangalore
+Froth On Top : 4.0 : Mangalorean, Seafood, Goan, Chinese, Fast Food, Beverages, Desserts : ₹700 for two :  Balmatta, Mangalore
+Cherry Square : 3.8 : North Indian, South Indian, Chinese, Fast Food : ₹600 for two :  Kankanady, Mangalore
+Ideal Cafe : 4.4 : South Indian, Ice Cream, North Indian, Cafe, Desserts, Juices : ₹300 for two :  Hampankatta, Mangalore
+The Liquid Lounge : 4.9 : Finger Food, North Indian, Continental, Italian, Beverages : ₹800 for two :  Balmatta, Mangalore
+The Stairway Bakery & Cafe : 4.2 : Cafe, Bakery, Beverages, Desserts, Shake, Pizza, Sandwich : ₹400 for two :  Attavar, Mangalore
+Ira Fresh Kitchen : 3.3 : Italian, Mediterranean, Pizza : ₹1,000 for two :  Mangala Nagar, Mangalore
+Domino's Pizza : 3.7 : Pizza, Fast Food, Desserts, Italian, Pasta : ₹400 for two :  Kulashekara, Mangalore
+Hao Ming : 4.0 : Chinese, Fast Food, Seafood, Sichuan : ₹600 for two :  Balmatta, Mangalore
+Martin's Multi-Cuisine Restaurant : 4.6 : Chinese, Mangalorean, North Indian, Beverages, Sichuan : ₹700 for two :  Kankanady, Mangalore
+The Grand Kitchen By AJ Grand Hotel : 4.1 : Chinese, Fast Food, North Indian, Continental, Seafood, South Indian, Italian : ₹1,000 for two :  Balmatta, Mangalore
+Hotel Narayana : 4.6 : Mangalorean, Seafood : ₹300 for two :  Bunder, Mangalore
+Pallkhi Restaurant : 4.3 : Mangalorean, Seafood, North Indian, Chinese, Mughlai, Beverages, Desserts, Shake : ₹1,200 for two :  Balmatta, Mangalore
+By The Way : 3.6 : Thai, Asian, North Indian, Mughlai, Chinese, Biryani, Salad, Desserts : ₹1,200 for two :  Kodailbail, Mangalore
+Burger Lounge : 3.6 : Burger, Fast Food, Beverages : ₹300 for two :  Kodailbail, Mangalore
+ONYX- Air Lounge and Kitchen : 4.0 : Pizza, Finger Food, North Indian : ₹900 for two :  Kodailbail, Mangalore
+Wok And Fork : 3.0 : Burger, Shake, Beverages : ₹350 for two :  Attavar, Mangalore
+Hotel Sai Palace - Udipi Cafe Veg : 3.6 : South Indian, Beverages, Street Food, Chinese, North Indian, Mithai, Desserts, Shake : ₹600 for two :  Hampankatta, Mangalore
+Kadri Cafe : - : South Indian, Street Food, Desserts, Shake, Juices, Beverages : ₹300 for two :  Kadri, Mangalore
+Cochin Village Restaurant : 4.3 : South Indian, Biryani : ₹300 for two :  Kankanady, Mangalore
+Big Fat Roll : 3.8 : Rolls, Burger, Fast Food : ₹250 for two :  Derlakatte, Mangalore
+Manha's Mandi : 3.7 : Mandi, Arabian, North Indian, Ice Cream, Desserts, Juices, Shake, Beverages : ₹1,100 for two :  Thokottu, Mangalore
+Bonbons : - : South Indian : ₹1,000 for two :  Mallikatte, Mangalore
+Hamburg Street Food Cafe : 3.6 : Sandwich, Burger, Fast Food, Wraps : ₹200 for two :  Kankanady, Mangalore
+New Hao Hao : 3.9 : Chinese, Asian : ₹500 for two :  Bendoor, Mangalore
+Malnad Donne Biryani- MDB : 3.2 : Biryani, Street Food, North Indian, Seafood : ₹300 for two :  Kodailbail, Mangalore
+Kesari Military Hotel : 3.7 : South Indian, Seafood : ₹500 for two :  Balmatta, Mangalore
+Arabian Treat Family Restaurant : 3.3 : Fast Food, Shake, Sichuan : ₹450 for two :  Derlakatte, Mangalore
+Grand Madhuvan Nx Veg Restaurant : 4.3 : South Indian, Fast Food, Chinese, North Indian, Desserts, Beverages : ₹1,000 for two :  Balmatta, Mangalore
+Brio Cafe And Grill : 3.8 : Italian, Fast Food, Continental, Steak, Chinese, Desserts, Beverages : ₹1,000 for two :  Hampankatta, Mangalore
+Sizzler's Ranch : 4.4 : Continental, BBQ, Seafood, Beverages, Shake, Chinese, Desserts, Sichuan : ₹700 for two :  Hampankatta, Mangalore
+Shri Shankara Bhavana : 3.3 : North Indian : ₹300 for two :  Kavoor, Mangalore
+Royal Treat : 4.4 : North Indian, Chinese : ₹800 for two :  Bendoor, Mangalore
+Uttam Panjabi Dhaba : 4.2 : North Indian, Chinese : ₹250 for two :  Kottara, Mangalore
+Basil Cafe : 4.2 : Continental, Salad, Chinese : ₹500 for two :  Kapikad, Mangalore
+Tandoor Kitchen : - : Mughlai, North Indian, Chinese, Fast Food, Kebab, Sichuan : ₹450 for two :  Vamanjoor, Mangalore
+Chicken Tikka Halal Restaurant : 3.5 : Biryani, North Indian, Mughlai, Chinese, Rolls, Desserts, Juices, Beverages : ₹600 for two :  Lalbagh, Mangalore
+Ghoomar Traditional Thali Restaurant : 3.3 : Rajasthani, North Indian : ₹1,200 for two :  City Center Mall, Hampankatta, Mangalore
+Punjabi Dhaba : 4.0 : North Indian, Biryani, Juices : ₹500 for two :  Hampankatta, Mangalore
+Hotel Janatha Deluxe Veg - Pathumudi Soudha : 4.2 : South Indian, North Indian, Fast Food, Street Food, Beverages, Desserts : ₹500 for two :  Lalbagh, Mangalore
+Big Bollywood Adda : 3.9 : Continental, Mangalorean, Fast Food, Desserts, Beverages, Sichuan : ₹900 for two :  Balmatta, Mangalore
+Top House : 3.9 : South Indian, Continental, Chinese : ₹1,200 for two :  Hampankatta, Mangalore
+Flow : 3.9 : Asian, Chinese, Fast Food, Burger, Pizza, Momos, Desserts, Beverages : ₹900 for two :  Ashok Nagar, Mangalore
+Sherlock's Lounge And Kitchen : 3.8 : Bar Food, Mangalorean, Chinese, Continental, Italian, Seafood, Biryani, North Indian : ₹500 for two :  Attavar, Mangalore
+Asian House : 3.4 : Asian, Thai : ₹1,000 for two :  Kapikad, Mangalore
+Chutney : 4.2 : South Indian, Mangalorean, Beverages, Shake : ₹600 for two :  Hotel Deepa Comforts, Mangalore
+Sagar Ratna : 4.4 : South Indian, North Indian, Chinese, Fast Food, Shake : ₹250 for two :  The Ocean Pearl, Kodailbail, Mangalore
+Shetty Lunch Home : 4.1 : Mangalorean, North Indian, Mughlai, Biryani, Kebab, Seafood, Chinese : ₹1,000 for two :  Balmatta, Mangalore
+Swadisht Kitchen : 4.1 : North Indian, Chinese, Mughlai, Biryani, Beverages, Ice Cream, Shake : ₹600 for two :  Kankanady, Mangalore
+Brott : 3.9 : Cafe, Coffee, Desserts : ₹500 for two :  Mangala Nagar, Mangalore
+Vanas : 3.2 : South Indian, Seafood : ₹400 for two :  Mallikatte, Mangalore
+Dinki Dine : 4.1 : North Indian, South Indian, Desserts, Beverages, Shake : ₹300 for two :  Kadri, Mangalore
+Shiv Sagar : 3.4 : South Indian, North Indian, Shake : ₹500 for two :  Kadri, Mangalore
+Bamboo Restaurant : 4.0 : Biryani, North Indian, Chinese, Fast Food, Beverages : ₹700 for two :  Kankanady, Mangalore
+Seven Leisure Cake & Desserts : 3.5 : Burger, Sandwich, Rolls, Fast Food, Street Food, Shake, Beverages, Bakery : ₹300 for two :  Hampankatta, Mangalore
+Hotel Thanmay : - : Chinese, Biryani : ₹300 for two :  Mallikatte, Mangalore
+Aladdin Shawarma : 3.2 : Lebanese, Fast Food, Beverages : ₹400 for two :  Bendoor, Mangalore
+Palmgrove : 3.8 : South Indian, North Indian, Chinese : ₹500 for two :  Kottara, Mangalore
+Jazz Lounge & Bar : 4.4 : Finger Food : ₹600 for two :  The Ocean Pearl, Kodailbail, Mangalore
+Aladdin Shawarma : - : Rolls, Shawarma : ₹300 for two :  Kankanady, Mangalore
+Natural Ice Cream : 4.2 : Ice Cream, Desserts : ₹200 for two :  Kadri, Mangalore
+Mannagudda Shawarma : - : Shawarma : ₹200 for two :  Lalbagh, Mangalore
+Shake Factory : 4.0 : Beverages, Fast Food, Shake : ₹400 for two :  Hampankatta, Mangalore
+Hotel Mangalore Donne Biryani : 4.0 : South Indian, Biryani : ₹350 for two :  Lalbagh, Mangalore
+Roast & Brew : 3.0 : Burger, Fast Food, Chinese, Desserts, Beverages, Sichuan : ₹400 for two :  Derlakatte, Mangalore
+Bombay Lucky Restaurant : 4.1 : North Indian, Mughlai, Juices, Beverages, Desserts, Shake : ₹500 for two :  Bunder, Mangalore
+Swirlyo : 3.3 : Ice Cream, Desserts, Beverages : ₹400 for two :  Hampankatta, Mangalore
+K9 Restro : 4.1 : Continental, North Indian, Chinese, Pasta, Shake : ₹500 for two :  Kadri, Mangalore
+Mangala Restaurant & Bar : 4.4 : North Indian, Chinese, Mangalorean, Seafood, Finger Food, Biryani : ₹700 for two :  Kankanady, Mangalore
+Pop Tate's Eatery : 4.2 : Fast Food, North Indian : ₹400 for two :  Kodailbail, Mangalore
+Janatha Lunch Home : - : Seafood, South Indian, Biryani : ₹500 for two :  Kankanady, Mangalore
+Hotel Ajji Ill : 3.4 : South Indian, North Indian, Seafood, Biryani : ₹400 for two :  Attavar, Mangalore
+Frozen Bottle - Milkshakes, Desserts And Ice Cream : - : Shake, Beverages, Desserts, Ice Cream, Waffle, Healthy Food : ₹300 for two :  Attavar, Mangalore
+Popeyes : - : Roast Chicken, Burger, Beverages : ₹500 for two :  Attavar, Mangalore
+Laziz Pizza : 4.0 : Pizza, Fast Food, Sandwich, Burger, Chinese, Beverages, Sichuan : ₹400 for two :  Kottara, Mangalore
+Ideal Cream Parlour : 4.5 : Ice Cream, South Indian, Shake, Sandwich, Fast Food : ₹300 for two :  Hampankatta, Mangalore
+MFC Food Mart : - : Burger, Shawarma, Wraps, Fast Food, Biryani : ₹500 for two :  Hampankatta, Mangalore
+Olive Street Food Cafe : 4.0 : Beverages, Burger, Ice Cream, Fast Food, Sandwich, Shake : ₹300 for two :  Kodailbail, Mangalore
+Kaai : - : American, Italian : ₹1,000 for two :  Padubidri, Mangalore
+Wok & Fork : 3.3 : Chinese, Momos, Fast Food, Beverages, Sichuan : ₹600 for two :  Lalbagh, Mangalore
+Big Fat Roll : 3.9 : Rolls, Fast Food, Beverages : ₹500 for two :  Bendoor, Mangalore
+Mangala : 3.9 : South Indian, North Indian, Chinese, Desserts : ₹800 for two :  Moti Mahal Hotel, Bendoor, Mangalore
+Ridan Mandi : - : Arabian : ₹300 for two :  Kallapu, Mangalore
+Kudla : 4.0 : Seafood, North Indian, Chinese, Shake : ₹500 for two :  Balmatta, Mangalore
+Swadika : - : Oriental, Chinese, Seafood, Thai, Sichuan, Shake, Beverages : ₹1,400 for two :  Lalbagh, Mangalore
+Knight Street Restro Cafe : 3.7 : Burger, Pizza, Wraps, Sandwich, Fast Food, Beverages : ₹600 for two :  Attavar, Mangalore
+Taco Street : 2.7 : Fast Food, Burger, Beverages, Shake : ₹350 for two :  Kodailbail, Mangalore
+Royal Darbar : 4.3 : Mughlai, Biryani, North Indian, Desserts, Beverages : ₹600 for two :  Kankanady, Mangalore
+La Pino'z Pizza : 4.0 : Pizza, Pasta, Italian, Fast Food : ₹800 for two :  Kankanady, Mangalore
+Sherlock's Pub : 4.8 : Bar Food, Finger Food, Mangalorean : ₹800 for two :  Balmatta, Mangalore
+Raj Kamal Veg Restaurant : 3.7 : South Indian, North Indian, Chinese, Beverages, Shake, Street Food : ₹200 for two :  Kankanady, Mangalore
+Woodlands : 3.9 : South Indian, North Indian : ₹450 for two :  Balmatta, Mangalore
+Arnav Restaurant : - : South Indian, North Indian : ₹1,000 for two :  Kodikal, Mangalore
+Suman Sagar Restaurant : 3.4 : South Indian, North Indian, Beverages : ₹600 for two :  Bendoor, Mangalore
+Town Table : 4.0 : Mughlai, Arabian, Desserts, Biryani, Beverages : ₹700 for two :  Attavar, Mangalore
+Andhra House : 4.1 : Biryani, South Indian, Andhra : ₹500 for two :  Kadri, Mangalore
+Coco Coopa : - : Burger, Fast Food : ₹300 for two :  Kadri, Mangalore
+Anmol Family Veg Restaurant : 4.1 : South Indian, North Indian, Chinese, Desserts, Beverages, Shake : ₹400 for two :  Kapikad, Mangalore
+Waah Momos : New : Momos, Chinese, Burger, Fast Food, Ice Cream, Beverages : ₹400 for two :  Balmatta, Mangalore
+Macchhi : 3.8 : Mangalorean, Seafood, Biryani : ₹500 for two :  Kapikad, Mangalore
+McDonald's : 3.7 : Burger, Fast Food, Cafe : ₹500 for two :  City Center Mall, Hampankatta, Mangalore
+Pereira's Restaurant : 4.4 : North Indian, Chinese, South Indian : ₹500 for two :  Hampankatta, Mangalore
+Trattoria : 4.2 : Pizza, Continental, Chinese, Sichuan : ₹750 for two :  Balmatta, Mangalore
+HOTEL DONNE BIRYANI BALMATTA (MDB) : - : Biryani, Mughlai : ₹400 for two :  Balmatta, Mangalore
+Aramane Ice Cream Parlour : 3.9 : Ice Cream, Desserts, Shake : ₹200 for two :  Kavoor, Mangalore
+London Street : 4.0 : North Indian, South Indian, Chinese, Sichuan : ₹1,000 for two :  Kodailbail, Mangalore
+Taco Bell : 2.9 : Mexican : ₹500 for two :  Kodailbail, Mangalore
+Chicking : 3.4 : Fast Food, Burger, Pizza : ₹400 for two :  City Center Mall, Hampankatta, Mangalore
+Tandoor Family Restaurant Since 1984 : - : North Indian, Biryani, Chinese : ₹400 for two :  Balmatta, Mangalore
+Pai Tiffins : 3.9 : South Indian, North Indian, Chinese, Oriental, Beverages, Desserts, Juices, Fast Food : ₹200 for two :  Kodailbail, Mangalore
+Amul Ice Cream Parlour : 3.5 : Desserts, Ice Cream, Shake, Juices, Beverages, Street Food : ₹150 for two :  Derlakatte, Mangalore
+Deepa Comforts : - : North Indian, Street Food : ₹300 for two :  Kodailbail, Mangalore
+Shreya's Sweets : 4.8 : Mithai, Desserts, Street Food : ₹250 for two :  Kodailbail, Mangalore
+Vegeenation : 3.4 : South Indian, North Indian, Chinese, Fast Food, Street Food, Desserts, Beverages, Shake : ₹600 for two :  Thokottu, Mangalore
+Danish Food Court : 3.8 : Arabian, Beverages : ₹500 for two :  Kankanady, Mangalore
+Buco : 4.3 : Bakery : ₹500 for two :  Balmatta, Mangalore
+Drnk Lab : 3.2 : Cafe, Burger, Italian, Chinese, Sichuan : ₹500 for two :  Surathkal, Mangalore
+Kairali Adukkala : 4.1 : Biryani, Kerala, North Indian, Mughlai, Chinese, Desserts, Sichuan : ₹600 for two :  Kankanady, Mangalore
+Bukhari Biryani : 3.7 : Biryani, North Indian : ₹500 for two :  Kankanady, Mangalore
+Coral : 4.1 : North Indian, South Indian, Chinese, Shake : ₹1,000 for two :  The Ocean Pearl, Kodailbail, Mangalore
+Hotel Evergreen & Bakery : 3.2 : South Indian, Beverages : ₹400 for two :  Bunder, Mangalore
+Onesta : 4.3 : Pizza, Italian, Fast Food, Beverages, Desserts : ₹600 for two :  Kankanady, Mangalore
+Roast And Brew : - : Sandwich, Burger, Fast Food, Momos, Chinese, Sichuan, Desserts, Beverages : ₹400 for two :  Kankanady, Mangalore
+House Of Chef : 4.2 : North Indian, Asian, Fast Food, Desserts, Beverages : ₹500 for two :  Kottara, Mangalore
+Swathi Pure Veg Restaurant : - : South Indian, North Indian, Chinese, Desserts, Juices, Beverages : ₹850 for two :  Lalbagh, Mangalore
+Belgian Waffle Waves : 3.7 : Desserts, Beverages, Coffee, Shake : ₹300 for two :  Kodailbail, Mangalore
+Froiyo : - : Ice Cream, Desserts, Bakery, Tea, Coffee, Bubble Tea, Beverages : ₹300 for two :  Derlakatte, Mangalore
+Dolphin : 4.0 : Seafood, South Indian, Mangalorean : ₹700 for two :  Kadri, Mangalore
+Whiteroom Deli : - : Cafe, Coffee, Continental, Pizza, Burger, Salad, Desserts, Beverages : ₹600 for two :  Bendoor, Mangalore
+The Baklava Company : 3.9 : Mithai, Desserts : ₹300 for two :  Attavar, Mangalore
+Surabhii Rooftop Garden Restaurant : 4.0 : North Indian, Chinese, Biryani, Mangalorean, Finger Food, Sichuan : ₹800 for two :  Lalbagh, Mangalore
+Taj Mahal Restaurant : 3.0 : South Indian : ₹300 for two :  Hampankatta, Mangalore
+Gudmo Restaurant : - : South Indian, North Indian, Street Food, Mughlai, Chinese, Shawarma, Ice Cream, Beverages : ₹500 for two :  Thokottu, Mangalore
+Tai Chien : 3.7 : Chinese, Momos, North Indian : ₹950 for two :  Moti Mahal Hotel, Bendoor, Mangalore
+Hashtag Cafe : 3.7 : Beverages, Fast Food, Burger, Rolls, Shake : ₹450 for two :  Derlakatte, Mangalore
+Juice Romantic : 4.2 : Biryani, North Indian, Mughlai, Chinese, Beverages, Shake, Sichuan : ₹400 for two :  Kadri, Mangalore
+Ali's Kitchen : 3.1 : South Indian, Chinese, Arabian, Beverages, Shake : ₹450 for two :  Derlakatte, Mangalore
+Tandoori Night : - : Biryani, Fast Food, Chinese, Shawarma, Juices : ₹300 for two :  Marnamikatte, Mangalore
+Ayodhya : 3.9 : North Indian, South Indian, Chinese : ₹500 for two :  Kodailbail, Mangalore
+Trishna Hotels : 3.6 : South Indian, North Indian, Seafood, Chinese, Beverages, Sichuan : ₹700 for two :  Trishna Hotels, Mangalore
+Polar Bear : 3.8 : Ice Cream, Desserts, Beverages, Shake : ₹400 for two :  Kodailbail, Mangalore
+Diet N Protein : 3.4 : Healthy Food, Italian, North Indian, Shake : ₹300 for two :  Hampankatta, Mangalore
+Tide : 3.2 : Continental, Asian, North Indian, Pasta, Shake : ₹1,000 for two :  The Ocean Pearl, Kodailbail, Mangalore
+Santhosh Bar & Restaurant : 3.9 : Bar Food, North Indian, Biryani, Chinese : ₹1,000 for two :  Kapikad, Mangalore
+Re-Cycle The Lounge : 3.9 : North Indian, Fast Food : ₹900 for two :  Hampankatta, Mangalore
+Toddy Palace : 3.9 : South Indian, Seafood, Beverages : ₹300 for two :  Padukodi, Mangalore
+Juice Point : - : Shake, Juices, Ice Cream, Beverages : ₹200 for two :  Lalbagh, Mangalore
+Samak Dine Family Restaurant : 3.9 : South Indian, North Indian, Chinese, Shake : ₹400 for two :  Balmatta, Mangalore
+The Grand Shivabagh Cafe : New : North Indian, South Indian, Chinese, Fast Food, Sandwich, Street Food, Shake, Beverages : ₹450 for two :  Bendoor, Mangalore
+Mango Berry's Fresh Natural Ice Creams : 3.2 : Juices, Ice Cream, Desserts, Shake : ₹200 for two :  Kodailbail, Mangalore
+Pizza Valley : - : Pizza : ₹450 for two :  Bendoor, Mangalore
+Shetty's Lunch Box : 3.7 : South Indian, Rolls, Chinese : ₹350 for two :  Kottara, Mangalore
+KL 10 Restro : - : Kerala, Chinese, Shake, Beverages : ₹300 for two :  Kottara, Mangalore
+Kuzhi Mandi Restaurant : - : Mandi, Arabian : ₹1,100 for two :  Kankanady, Mangalore
+CKK Kitchens Of Maharaja : 3.5 : Seafood, North Indian, Chinese, Biryani, Sichuan, Fast Food : ₹600 for two :  Lalbagh, Mangalore
+Shetty's Kori Rotti : 3.9 : North Indian, South Indian, Chinese : ₹550 for two :  Kodailbail, Mangalore
+Pizza Lazzaro : - : Pizza, Fast Food, Desserts : ₹400 for two :  Bendoor, Mangalore
+Night Feast : - : Mangalorean, Chinese, Sandwich, Pasta, Wraps, Fast Food, Waffle, Shake : ₹500 for two :  Ashok Nagar, Mangalore
+The Chocolate Confectionery : 3.4 : Desserts, Waffle, Pancake, Pizza, Fast Food, Coffee, Shake, Cafe : ₹400 for two :  Attavar, Mangalore
+The Old Prax : 3.8 : Burger, Seafood, Chinese, Fast Food : ₹350 for two :  Kadri, Mangalore
+SLK Restaurants- Highwave Route 66 : 3.1 : Mangalorean, Continental, Finger Food, North Indian, Mughlai, Chinese : ₹1,200 for two :  Kottara, Mangalore
+New Kudla : 3.7 : North Indian, Chinese, Seafood, Shake : ₹500 for two :  Ashok Nagar, Mangalore
+Hotel Sushmitha : - : South Indian, Biryani, North Indian : ₹300 for two :  Kapikad, Mangalore
+Hotel Sri Krishna Vilas : 3.9 : South Indian, North Indian, Chinese, Street Food, Shake, Beverages : ₹400 for two :  Ashok Nagar, Mangalore
+Waffee House : 4.0 : Desserts, Beverages : ₹300 for two :  Kankanady, Mangalore
+Siya Cafe & Restro : 4.3 : Shake, Pizza, Burger, Chinese, Beverages, North Indian, Lebanese, Pasta : ₹550 for two :  Bharath Mall, Lalbagh, Mangalore
+Celebration Costal Cuisines : 3.1 : Chinese, Biryani, Mangalorean, Seafood : ₹400 for two :  Lalbagh, Mangalore
+Lemons : 3.9 : Fast Food, Beverages, Shake : ₹300 for two :  Derlakatte, Mangalore
+Hotel Maya International : 3.9 : Chinese, North Indian, Biryani, South Indian : ₹600 for two :  Bendoor, Mangalore
+Ginger House Family Restaurant : 2.8 : Chinese, North Indian, Mughlai, Biryani, Fast Food, Lebanese, Desserts, Beverages : ₹800 for two :  Kottara, Mangalore
+Chintu Da Dhaba : 3.9 : North Indian, South Indian, Shake : ₹300 for two :  Kulai, Mangalore
+Capella Patisserie : 3.6 : Bakery, Desserts : ₹500 for two :  Mallikatte, Mangalore
+Master Baker : - : Rolls, Juices : ₹200 for two :  Kavoor, Mangalore
+Donjons : New : Frozen Yogurt, Ice Cream, Shake, Beverages : ₹350 for two :  Hampankatta, Mangalore
+Red Rock : 3.0 : North Indian, Chinese, Sichuan : ₹400 for two :  Surathkal, Mangalore
+Palm Springs Restaurant : 3.9 : South Indian, North Indian, Chinese, Mughlai, Biryani, Seafood, Desserts, Beverages : ₹1,200 for two :  Surathkal, Mangalore
+Karthik Family Restaurant : 4.0 : North Indian, Arabian, Chinese, South Indian, Shake, Sichuan : ₹350 for two :  Thokottu, Mangalore
+G Food 'N' Fun : 4.1 : Modern Indian, Arabian, Continental, Chinese, Fast Food : ₹1,000 for two :  Bendoor, Mangalore
+Hotel Janatha Deluxe : 4.0 : South Indian, North Indian, Fast Food, Street Food, Beverages, Desserts : ₹500 for two :  Hampankatta, Mangalore
+Rathna's Wine Gate : 3.8 : Fast Food, Mangalorean, Seafood, Sichuan : ₹500 for two :  Kodailbail, Mangalore
+Kobe Sizzlers : - : Continental, Chinese, Sandwich, Fast Food, Beverages, Pizza, Pasta, Seafood : ₹500 for two :  Hampankatta, Mangalore
+Royal Kitchen : 3.9 : North Indian, Mangalorean, Biryani : ₹800 for two :  Hotel Deepa Comforts, Mangalore
+Pabbas : 4.8 : Ice Cream, Sandwich, Fast Food, Beverages, Shake : ₹300 for two :  Lalbagh, Mangalore
+Nava Aras Biryani Palace : 3.0 : Biryani, North Indian, Shawarma : ₹450 for two :  Kankanady, Mangalore
+Nama Pure Veg : 3.2 : South Indian, North Indian, Chinese, Fast Food, Desserts, Beverages, Shake, Sichuan : ₹300 for two :  Kodailbail, Mangalore
+Soushee Bites : 4.2 : Fast Food, Rolls, North Indian, Momos, Beverages : ₹200 for two :  Kodailbail, Mangalore
+Smoky The Sheesha Lounge : 4.2 : Continental, Italian, Chinese, Sandwich, Salad, Beverages : ₹1,100 for two :  Empire Mall, Lalbagh, Mangalore
+Maduvan Veg Restaurant : 3.7 : South Indian, North Indian, Chinese, Beverages, Shake : ₹400 for two :  Moti Mahal Hotel, Bendoor, Mangalore
+Shree Rathnam Restaurant : 3.3 : South Indian : ₹400 for two :  Thokottu, Mangalore
+Liquor Lounge Family Restaurant & Bar : - : North Indian, Mughlai, Biryani, Chinese, Kebab : ₹1,000 for two :  Kottara, Mangalore
+Bourn Bon : 3.4 : Cafe, Bakery, Biryani, North Indian, Fast Food : ₹300 for two :  Kodailbail, Mangalore
+Hive : 3.9 : Desserts, Healthy Food : ₹200 for two :  Kodailbail, Mangalore
+Rinku Punjabi Kadai : 4.2 : North Indian, Mughlai, Chinese, Biryani, Shake : ₹600 for two :  Marnamikatte, Mangalore
+Frozen Scoops : 3.5 : Desserts, Fast Food, Ice Cream, Beverages, Sichuan : ₹400 for two :  Thokottu, Mangalore
+Oriental Flavours - Summer Sands Beach Resort : 3.5 : South Indian, North Indian, Chinese, Seafood, Mangalorean : ₹800 for two :  Summer Sands Beach Resort, Mangalore
+Nisarga : 3.9 : North Indian, South Indian, Seafood : ₹500 for two :  Kottara, Mangalore
+Kudla Veg Restaurant : 3.3 : South Indian, North Indian, Chinese, Street Food, Desserts, Beverages, Shake : ₹500 for two :  Balmatta, Mangalore
+Macchhi : 3.5 : Seafood, Mangalorean : ₹600 for two :  Thokottu, Mangalore
+Food Junction : 3.9 : South Indian, North Indian, Chinese, Biryani, Beverages, Sichuan : ₹400 for two :  Balmatta, Mangalore
+Aroma : 4.2 : Chinese, North Indian, Mughlai, Seafood, Sichuan : ₹1,000 for two :  Hotel Deepa Comforts, Mangalore
+Kizza Cafe : - : Cafe, Fast Food : ₹550 for two :  Derlakatte, Mangalore
+Food Factory : 3.4 : North Indian, Shawarma, Chinese, Street Food, Wraps, Sichuan, Beverages : ₹300 for two :  Kavoor, Mangalore
+Utsav Restaurant : 4.0 : South Indian, North Indian, Shake : ₹500 for two :  Hampankatta, Mangalore
+Pink Salt Resto - Cafe : - : Chinese, Pizza, Sandwich, Burger, Beverages, Wraps, Fast Food : ₹350 for two :  Hampankatta, Mangalore
+The Curry Spoon : 3.1 : North Indian, South Indian, Chinese, Desserts, Fast Food, Beverages, Sichuan : ₹500 for two :  Surathkal, Mangalore
+The Mangalore Cafe : 3.9 : Fast Food, Rolls, Beverages : ₹350 for two :  Marnamikatte, Mangalore
+Charminar Restaurant : 3.3 : Hyderabadi, North Indian, Mughlai, Chinese, Biryani, Desserts : ₹500 for two :  Hampankatta, Mangalore
+Sharaabi Bar & Family Restaurant : 4.3 : North Indian, South Indian, Chinese, Sichuan : ₹700 for two :  Kadri, Mangalore
+Cafe Coffee Day : 3.7 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹650 for two :  Forum Mall, Attavar, Mangalore
+Black Sugar : 3.9 : Cafe, Fast Food, Beverages : ₹400 for two :  Thokottu, Mangalore
+New Biryani Paradise : 3.9 : Biryani, North Indian, Chinese : ₹350 for two :  Kankanady, Mangalore
+Gauji Gammath : 4.5 : South Indian, Seafood, North Indian, Mughlai, Chinese, Salad, Desserts, Beverages : ₹1,000 for two :  Hotel Roopa, Balmatta, Mangalore
+Ribbons And Balloons : 3.5 : Bakery, Desserts : ₹300 for two :  Bendoor, Mangalore
+Tikka Hut Fast Food : 4.1 : North Indian, Fast Food : ₹300 for two :  Surathkal, Mangalore
+Ramponni : 3.4 : Mangalorean, North Indian, Chinese, South Indian, Continental, Desserts, Beverages : ₹700 for two :  Thokottu, Mangalore
+Hotel Salwa : 3.9 : Biryani, Kerala, Arabian, South Indian : ₹500 for two :  Hampankatta, Mangalore
+Hotel Rajdhani : - : Chinese, North Indian, Mughlai, Mangalorean, Seafood, Desserts, Shake, Beverages : ₹1,000 for two :  Kavoor, Mangalore
+The Olive Restaurant : - : Iranian, Chinese, Seafood, North Indian, Biryani, Juices, Shake, Beverages : ₹600 for two :  Lalbagh, Mangalore
+7th Heaven - A Slice of Happiness : 3.2 : Bakery, Desserts : ₹400 for two :  Attavar, Mangalore
+Ni-Hao : 3.2 : Chinese : ₹300 for two :  Bharath Mall, Lalbagh, Mangalore
+The Chocolate Room : 4.0 : Cafe, Desserts, Italian : ₹600 for two :  Kodailbail, Mangalore
+Green Bamboo Restaurant : 3.9 : South Indian, Chinese, North Indian, Arabian, Beverages, Sichuan : ₹600 for two :  Hampankatta, Mangalore
+Cruise N Dine - The Floating Restaurant : 3.8 : Seafood, Mangalorean : ₹800 for two :  Bunder, Mangalore
+Shetty's Food Court : 3.4 : Fast Food, Chinese, Sichuan : ₹200 for two :  Kottara, Mangalore
+VoW - Village On Wheels : 3.6 : Mangalorean, South Indian, North Indian, Pizza, Chinese, Biryani, Seafood, Continental : ₹1,000 for two :  Kavoor, Mangalore
+Hotel Kudla Donne Biryani - KDB : 3.3 : Biryani, Andhra : ₹300 for two :  Bhavathi, Mangalore
+Starbucks Coffee : - : Cafe, Coffee, Fast Food, Beverages, Desserts : ₹300 for two :  Hampankatta, Mangalore
+Bar Code : 3.5 : North Indian, Mughlai, Mangalorean, Chinese, Biryani, Continental : ₹700 for two :  Derlakatte, Mangalore
+The Leela's Kitchen : 3.9 : Chinese, Biryani, North Indian, Rolls, Mughlai, Beverages, Sichuan : ₹400 for two :  Kottara, Mangalore
+Mayur Restaurant : 4.2 : Mangalorean, Seafood, Chinese, South Indian, North Indian, Sichuan : ₹400 for two :  Kottara, Mangalore
+Shree Dwara Veg Restaurant : 3.1 : South Indian, Chinese, Biryani, Shake : ₹300 for two :  Baikampady, Mangalore
+Aman Biryani : 4.0 : Biryani : ₹300 for two :  Kankanady, Mangalore
+Mexican Hot N Spicy : 3.9 : Arabian, Biryani, BBQ, North Indian, Wraps, Rolls, Shake : ₹400 for two :  Kankanady, Mangalore
+Snackies Cafe : 3.8 : Fast Food, Desserts, Bakery, Beverages, Sichuan : ₹200 for two :  Attavar, Mangalore
+Danish Bamboo House : - : Kebab, Mughlai, Biryani, Chinese, Beverages, North Indian, Shake : ₹550 for two :  Kankanady, Mangalore
+Fish Market Restaurant : - : Seafood, South Indian, BBQ, Biryani, Chinese, Beverages, Sichuan : ₹450 for two :  Balmatta, Mangalore
+Dinki Dine : - : South Indian, North Indian : ₹300 for two :  Maroli, Mangalore
+Knight Owl : 3.1 : Fast Food, Shake : ₹550 for two :  Balmatta, Mangalore
+Ribbons And Balloons : 4.2 : Bakery, Desserts : ₹450 for two :  Lalbagh, Mangalore
+Ullas Bar and Restaurant : 4.4 : Biryani, Chinese, Seafood, North Indian, South Indian : ₹1,000 for two :  Vamanjoor, Mangalore
+DFC- Danish Fried Chicken : - : Fast Food, Beverages : ₹400 for two :  Kankanady, Mangalore
+Shades Of Flames : - : Chinese, Sushi, Pizza, Sandwich, Fast Food, Ice Cream, Shake, Beverages : ₹1,100 for two :  Lalbagh, Mangalore
+The Avatar Gourmet : - : Asian, Shake : ₹1,500 for two :  Attavar, Mangalore
+Tow Sea Food & Multicuisine Restaurant : - : North Indian, Mangalorean, Chinese, Sichuan : ₹1,000 for two :  Kodailbail, Mangalore
+Janata Juice Palace : 3.8 : Beverages : ₹150 for two :  Bharath Mall, Lalbagh, Mangalore
+The Coffee House : - : Cafe, Coffee, Sandwich, Desserts, Beverages : ₹400 for two :  Kodailbail, Mangalore
+Sri Sai Beach Ice Cream Cafe : 3.7 : Ice Cream, Desserts, Fast Food, Beverages, Chinese, Shake, Sichuan : ₹300 for two :  Surathkal, Mangalore
+Maya Bar & Family Restaurant : 3.8 : Mangalorean, Seafood, North Indian, Chinese, Sichuan : ₹800 for two :  Thokottu, Mangalore
+Hotel Rajkamal : 4.0 : Biryani, South Indian, Mangalorean, North Indian, Chinese, Seafood : ₹400 for two :  Hampankatta, Mangalore
+Attane : 3.1 : Chinese, North Indian, Beverages, Mangalorean, Kebab, Sichuan : ₹600 for two :  Maroli, Mangalore
+Shreya's Sweets : 3.5 : Mithai, Street Food : ₹400 for two :  Hampankatta, Mangalore
+New Diner's Paradise : 3.5 : Biryani, Chinese, Arabian, North Indian, Mughlai, Kebab, Seafood : ₹600 for two :  Kadri, Mangalore
+Mango Berrys Fresh Natural Ice Cream : 3.6 : Desserts, Beverages : ₹300 for two :  Marnamikatte, Mangalore
+Chick & Grill : 3.3 : North Indian, Chinese, Lebanese, Sichuan : ₹450 for two :  Maroli, Mangalore
+Mango Grove : 3.7 : South Indian, Street Food, Shake, Sichuan : ₹300 for two :  Balmatta, Mangalore
+Infiniti : 4.1 : Chinese, Kebab, North Indian : ₹450 for two :  Balmatta, Mangalore
+Machili Adda : 3.9 : Chinese, South Indian : ₹300 for two :  Kottara, Mangalore
+Teaze : 3.0 : Beverages, Fast Food, Sandwich, Momos, Shake, Sichuan : ₹400 for two :  Lalbagh, Mangalore
+Wild Spirits : 3.9 : South Indian, Biryani, North Indian : ₹700 for two :  Vamanjoor, Mangalore
+Empark Resturant : - : South Indian, Biryani : ₹350 for two :  Surathkal, Mangalore
+Malabar Bites : - : North Indian, Chinese, Biryani, Sichuan, Mandi, Juices, Shake, Beverages : ₹500 for two :  Attavar, Mangalore
+Tikka Street - Arabian Fusion : 4.4 : Lebanese, Arabian, North Indian, Beverages, Shake, BBQ : ₹400 for two :  Shiva Nagar, Mangalore
+Subway : 3.2 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  City Center Mall, Hampankatta, Mangalore
+GetAWay - Ice Creams & Desserts : - : Ice Cream, Healthy Food, Desserts, Bakery : ₹400 for two :  Kodailbail, Mangalore
+Urban House : 2.9 : Chinese, Continental, Asian, Beverages, Desserts, North Indian, South Indian : ₹1,100 for two :  Bendoor, Mangalore
+Punjabi Rasoi : 3.1 : North Indian, Chinese, Fast Food : ₹350 for two :  Derlakatte, Mangalore
+BBQ Kitchen : 3.7 : BBQ, North Indian, Kebab : ₹1,000 for two :  City Center Mall, Hampankatta, Mangalore
+Pavithram Restaurant : 3.9 : North Indian, South Indian, Chinese, Street Food, Beverages, Shake : ₹450 for two :  Surathkal, Mangalore
+Ishwar’s Shree Guru Home Food : 3.5 : Mangalorean, Seafood : ₹300 for two :  Ashok Nagar, Mangalore
+Starbucks Coffee : - : Beverages, Desserts : ₹300 for two :  Attavar, Mangalore
+Just Bake : 3.8 : Bakery, Desserts, Beverages : ₹400 for two :  Kankanady, Mangalore
+Ideal Ice Cream : - : Ice Cream, Beverages, Juices : ₹200 for two :  Attavar, Mangalore
+Meeting Point Bar And Restaurant : 4.1 : South Indian, Seafood, Chinese : ₹600 for two :  Derlakatte, Mangalore
+Cookie Man : 3.8 : Desserts, Ice Cream, Bakery : ₹250 for two :  Forum Mall, Attavar, Mangalore
+Hotel Malabar : 3.8 : North Indian, Chinese, Shake, Beverages, Sichuan : ₹300 for two :  Hampankatta, Mangalore
+Kairali Bhavan : 3.4 : North Indian, Chinese, Biryani, Seafood, Beverages : ₹600 for two :  Attavar, Mangalore
+Kebabci Mediterranean Grills & Rolls : 3.9 : Arabian, Kebab, Juices, North Indian : ₹300 for two :  Kodailbail, Mangalore
+Hotel Sai Tudar : 4.0 : Biryani, Mangalorean, South Indian, Chinese, Sichuan : ₹400 for two :  Lalbagh, Mangalore
+Cloud Shisha Cafe : 3.9 : Cafe, Beverages, Fast Food, Italian, Chinese, Shake : ₹400 for two :  Kankanady, Mangalore
+Red Chilli Hut : 3.7 : Biryani, Arabian, North Indian, Shake, Chinese, Juices, Sichuan : ₹500 for two :  Mallikatte, Mangalore
+Chicken Lagoon : 3.7 : Biryani, North Indian, Chinese, Charcoal Chicken, Lebanese, Sichuan : ₹600 for two :  Lalbagh, Mangalore
+Hotel National Palace : 4.0 : South Indian, Chinese, Juices, Biryani : ₹350 for two :  Hampankatta, Mangalore
+Taste of Parika : 3.6 : North Indian, Biryani, Chinese, Lebanese, Pasta, Shake, Juices, Sichuan : ₹500 for two :  Kapikad, Mangalore
+Raos South Street : - : South Indian, North Indian, Mughlai, Chinese : ₹1,000 for two :  Kottara, Mangalore
+Kudla Rasa Prakash : 4.0 : South Indian, Street Food, Chinese, North Indian, Ice Cream, Desserts, Juices, Beverages : ₹400 for two :  Lalbagh, Mangalore
+Hotel Karthik : 3.2 : South Indian, North Indian : ₹300 for two :  Kottara, Mangalore
+Sapthagiri Family Restaurant : 3.8 : South Indian, North Indian, Fast Food, Chinese, Sichuan : ₹350 for two :  Kavoor, Mangalore
+National Darbar : 4.1 : Mughlai : ₹300 for two :  Bunder, Mangalore
+Baker's Treat From Mariam's Kitchen : 3.9 : Fast Food, Beverages, Desserts : ₹400 for two :  Lalbagh, Mangalore
+Hotel Chicken Hut : 3.4 : Chinese, Fast Food, North Indian, Arabian, Shake, Sichuan : ₹500 for two :  Marnamikatte, Mangalore
+Hotel Vaibhava : 3.8 : Chinese, North Indian, South Indian, Ice Cream, Beverages : ₹500 for two :  Hampankatta, Mangalore
+Mane Oota : 4.0 : Seafood, Mangalorean, Biryani : ₹250 for two :  Hampankatta, Mangalore
+Juice Magic Shalimar : 3.8 : North Indian, South Indian, Chinese, Lebanese, Rolls, Kebab, Mughlai, Sichuan : ₹600 for two :  Bunder, Mangalore
+Costa Hotel : 3.2 : Konkan, Mangalorean, Biryani, Chinese, Seafood : ₹400 for two :  Kankanady, Mangalore
+Retox Lounge Bar : 4.3 : Finger Food, Bar Food, Continental, Chinese, South Indian, Beverages : ₹800 for two :  Hampankatta, Mangalore
+Jordanian Restaurant Veg & Non Veg : 3.6 : Biryani, South Indian, North Indian, Juices, Beverages, Shake, Ice Cream : ₹750 for two :  Lalbagh, Mangalore
+Chicken Fantasy Hot & Spicy : 3.8 : Biryani, North Indian, Charcoal Chicken, Chinese, Arabian, Rolls, Sichuan : ₹350 for two :  Kapikad, Mangalore
+Grand 7 : - : Bar Food, Oriental, Pizza, South Indian, Chinese, Biryani, Desserts, Beverages : ₹2,000 for two :  Balmatta, Mangalore
+The Town Cafe : - : South Indian, Sandwich, Burger, Rolls, Pasta, Street Food, Shake, Beverages : ₹350 for two :  Ashok Nagar, Mangalore
+Westburg : 3.3 : Burger, Fast Food, Beverages : ₹500 for two :  Thokottu, Mangalore
+Donut Magic : 4.1 : Desserts, Sandwich, Burger, Fast Food, Beverages : ₹300 for two :  Kodailbail, Mangalore
+The Kaffeine Hub : 3.8 : Cafe, Continental, Italian, Desserts, Beverages : ₹300 for two :  Balmatta, Mangalore
+Juice World : 3.6 : Juices, Desserts, Shake : ₹150 for two :  Kankanady, Mangalore
+Sri Devi Family Restaurant : 3.9 : South Indian, North Indian, Chinese, Shake : ₹300 for two :  Kavoor, Mangalore
+Blue Park Bar & Restaurant : 3.9 : North Indian : ₹800 for two :  Kankanady, Mangalore
+Mamamaas : 3.4 : Seafood, Mangalorean, South Indian : ₹300 for two :  Kodailbail, Mangalore
+Tikka Street - Grill Resto : 3.9 : Lebanese, Arabian, North Indian, Beverages, Shake, BBQ : ₹400 for two :  Mangala Nagar, Mangalore
+Mexican Hot N Spicy : 4.1 : Arabian, Mexican, Chinese, Fast Food, Mughlai, Desserts, Beverages, Sichuan : ₹500 for two :  Thokottu, Mangalore
+Arabian Food Court : 3.2 : North Indian, Chinese, Beverages : ₹400 for two :  Kodailbail, Mangalore
+Punjabi Dhaba : 3.6 : North Indian, Chinese, Sichuan : ₹300 for two :  Surathkal, Mangalore
+Sabka Dine : 3.9 : North Indian, Hyderabadi, Chinese, Beverages : ₹400 for two :  Bendoor, Mangalore
+Hotel Nisarga : 3.6 : North Indian : ₹300 for two :  Kavoor, Mangalore
+Mehfil : 4.3 : Bar Food : ₹1,000 for two :  Moti Mahal Hotel, Bendoor, Mangalore
+Taste Of Kerala : 3.9 : Chinese, Mangalorean, Biryani, Kerala : ₹600 for two :  Marnamikatte, Mangalore
+Pizza Mark : 3.9 : Pizza, Burger, Wraps, Fast Food, Rolls : ₹400 for two :  Attavar, Mangalore
+The Lassi Shop : 3.7 : Beverages, Fast Food, Shake : ₹250 for two :  Lalbagh, Mangalore
+Mynt – All Day Dining : - : Continental, North Indian : ₹3,000 for two :  Vivanta Bunder, Mangalore
+Tikka Garage : 3.7 : Shawarma, Chinese, North Indian, Biryani, South Indian, Beverages : ₹300 for two :  Kottara, Mangalore
+Hotel New Taj : 3.4 : Kerala, North Indian, Chinese, Sichuan : ₹400 for two :  Derlakatte, Mangalore
+Hub Afghan Majlis : 3.4 : Desserts, Ice Cream, Fast Food, Beverages : ₹500 for two :  Derlakatte, Mangalore
+Navmi Veg Resto : - : South Indian, North Indian, Chinese, Biryani, Fast Food, Ice Cream, Desserts, Beverages : ₹1,000 for two :  Mangala Nagar, Mangalore
+Shesha Family Restaurant : - : South Indian, North Indian, Chinese, Mughlai, Seafood, Biryani : ₹900 for two :  Surathkal, Mangalore
+Royal Daawat : 3.9 : Mughlai : ₹700 for two :  Vamanjoor, Mangalore
+The Empire Famiy Restaurant : 3.4 : Tamil, Lebanese, Chinese, South Indian, Beverages : ₹400 for two :  Hampankatta, Mangalore
+Maya Lunch Home : 3.6 : Chinese, Mangalorean : ₹300 for two :  Hampankatta, Mangalore
+Cool Elements : 4.0 : Arabian, Biryani, Kebab, Chinese, Sichuan : ₹600 for two :  Bendoor, Mangalore
+Nazrana Family Restaurant : 3.7 : North Indian, South Indian, Chinese, Lebanese, Juices, Beverages, Shake : ₹300 for two :  Surathkal, Mangalore
+Vinu Bar & Restaurant : 3.9 : Mangalorean, Bar Food, Biryani, Chinese, Sichuan : ₹600 for two :  Kavoor, Mangalore
+Ashirvad Jolada Rotti Center : - : Fast Food, South Indian, North Indian : ₹200 for two :  Kodailbail, Mangalore
+Just Juice : 3.4 : Beverages, Juices, Street Food, North Indian, Chinese, Desserts, Fast Food, Shake : ₹600 for two :  Lalbagh, Mangalore
+Pistha House : 3.4 : Fast Food, Juices, Shake : ₹200 for two :  Thokottu, Mangalore
+The Fish Sea Food Family Restaurant : 3.8 : Seafood, Mangalorean, Biryani : ₹800 for two :  Lalbagh, Mangalore
+Drunken Monkey : 3.3 : Beverages, Juices, Shake, Coffee, Healthy Food, Sandwich, Mexican, Wraps : ₹400 for two :  Kankanady, Mangalore
+Hotel Divyashree : 3.9 : Seafood, South Indian : ₹250 for two :  Kodailbail, Mangalore
+Bombay Kapoor Kulfi : 3.9 : Desserts, Ice Cream, Beverages : ₹100 for two :  City Center Mall, Hampankatta, Mangalore
+Deepak Bar & Restaurant : 3.9 : Chinese, Mangalorean, Biryani, Mughlai, Bar Food, North Indian, Sichuan : ₹400 for two :  Surathkal, Mangalore
+Hangyo Ice Creams : 3.1 : Desserts, Ice Cream : ₹250 for two :  Kodailbail, Mangalore
+The Lassi Corner : 3.6 : Shake, Juices, Cafe, Beverages, Ice Cream, Desserts, Fast Food, Street Food : ₹300 for two :  Kodailbail, Mangalore
+Hotel Verna : 3.7 : North Indian, South Indian, Chinese, Beverages, Desserts : ₹400 for two :  Hampankatta, Mangalore
+Coastal Bar And Restaurant : 3.8 : Mangalorean, South Indian, Chinese, Mughlai, Biryani, Sichuan : ₹500 for two :  Kottara, Mangalore
+Vidya Restaurant : 3.6 : Mangalorean, Chinese, North Indian, South Indian, Momos, Shake, Beverages : ₹350 for two :  Kottara, Mangalore
+Food Land : 3.8 : Mangalorean, North Indian, Chinese, Kebab, Biryani, Street Food, Shake, Sichuan : ₹600 for two :  Lalbagh, Mangalore
+Suvarna Fast Food : 4.0 : North Indian, South Indian, Chinese : ₹500 for two :  Kodailbail, Mangalore
+Fish Factory : 3.8 : South Indian, Seafood : ₹400 for two :  Balmatta, Mangalore
+The Juice D Cafe : 3.9 : Beverages, Juices, Desserts, Fast Food : ₹400 for two :  Hampankatta, Mangalore
+Nirvana : 4.2 : North Indian, South Indian, Chinese, Sichuan, Desserts : ₹800 for two :  Hampankatta, Mangalore
+Just Juice : 3.2 : Beverages, Shake : ₹200 for two :  City Center Mall, Hampankatta, Mangalore
+The Kitchen : 4.3 : North Indian, South Indian : ₹250 for two :  Kapikad, Mangalore
+Roberts Blue Kitchen : 3.4 : Chinese, South Indian, Biryani : ₹250 for two :  Kankanady, Mangalore
+Pumpwell Food Court : - : South Indian, Mughlai, Biryani, Chinese, Fast Food, Shawarma, Juices, Shake : ₹300 for two :  Pumpwell, Mangalore
+Hotel Atilda Illu : 3.5 : Mangalorean, Fast Food, South Indian, Chinese, Shake, Seafood, Juices, Street Food : ₹450 for two :  Kankanady, Mangalore
+Savi Kudla Kitchen : 3.5 : South Indian, Chinese, Street Food, Lebanese : ₹350 for two :  Kulashekara, Mangalore
+Kook : - : Burger, Fast Food, Pizza, Wraps, Biryani, North Indian, Chinese, Beverages : ₹500 for two :  Balmatta, Mangalore
+Ghee Rice Cafe : 3.7 : North Indian, Street Food, Biryani : ₹200 for two :  Kodailbail, Mangalore
+Hotel Karavali : 4.0 : South Indian : ₹400 for two :  Kankanady, Mangalore
+Jain Restaurant : 3.1 : Chinese, South Indian, Juices, Beverages, Shake : ₹200 for two :  Bhavathi, Mangalore
+Mixx The Lounge Bar : - : Pancake, Desserts : ₹1,000 for two :  Balmatta, Mangalore
+Exotica : 3.9 : North Indian, South Indian, Chinese, Seafood, Beverages : ₹800 for two :  Kulashekara, Mangalore
+Fish N Chicken County : 3.2 : Mangalorean : ₹400 for two :  Baikampady, Mangalore
+Gadiyar Restaurant : 3.8 : South Indian, Mangalorean, Chinese : ₹400 for two :  Kottara, Mangalore
+Grub 'N' Stuff : 4.0 : Burger, Fast Food, Beverages, Shake : ₹300 for two :  Attavar, Mangalore
+Just Hunger - Resto Cafe : 3.5 : Pizza, Burger, Wraps, Fast Food, Chinese, Juices, Shake, Beverages : ₹450 for two :  Derlakatte, Mangalore
+NV Shawarma Paradise : 3.6 : Lebanese, Chinese : ₹400 for two :  Pumpwell, Mangalore
+Indo Arabian Family Restaurant : 3.5 : North Indian, Chinese, Mughlai, Fast Food : ₹500 for two :  Surathkal, Mangalore
+Zagor’s Kitchen : 3.8 : South Indian, Chinese, Beverages, Shake : ₹200 for two :  Balmatta, Mangalore
+Kudla Food Factory : 3.9 : Chinese, Beverages : ₹100 for two :  Kankanady, Mangalore
+MHZ Cafe : 3.7 : Burger, Fast Food, Pizza, Beverages, Shake : ₹300 for two :  Shiva Nagar, Mangalore
+Anchan Bar & Restaurant : 3.9 : South Indian, Chinese : ₹500 for two :  Kadri, Mangalore
+Oye Lassi Cafe Lounge : 3.6 : Burger, Fast Food, Street Food, Ice Cream, Desserts, Beverages : ₹400 for two :  Marnamikatte, Mangalore
+Chacha Chaiwala : 3.9 : Street Food, Beverages, Juices, Tea, Ice Cream : ₹300 for two :  Casa Grande Mall, Attavar, Mangalore
+Crumbz : 3.5 : Bakery : ₹300 for two :  Bendoor, Mangalore
+Hotel Abhinandan : 3.2 : South Indian, North Indian, Chinese, Beverages, Street Food, Shake : ₹400 for two :  Kadri, Mangalore
+Shetty's Darbar : 3.9 : Biryani, Seafood : ₹400 for two :  Bunder, Mangalore
+Hotel Shree Dwara Bar And Restaurant : 2.8 : South Indian, North Indian : ₹500 for two :  Kulai, Mangalore
+Ice Magic : 3.9 : Cafe, Burger, Sandwich, Pizza, Rolls, Fast Food, Desserts, Beverages : ₹750 for two :  Kankanady, Mangalore
+Hotel Royal Town : 3.9 : Chinese, Arabian, Mangalorean, Shake, Sichuan : ₹500 for two :  Pumpwell, Mangalore
+Kuzhi Mandi : - : Mandi, Arabian, North Indian, Chinese : ₹1,000 for two :  Kadri, Mangalore
+Hotel Kadal : 4.0 : South Indian : ₹200 for two :  Kadri, Mangalore
+Anupama : 3.8 : North Indian, Kebab, Chinese : ₹800 for two :  Kadri, Mangalore
+Nakshatra Condiments : 3.9 : South Indian, Street Food, Chinese : ₹200 for two :  Kottara, Mangalore

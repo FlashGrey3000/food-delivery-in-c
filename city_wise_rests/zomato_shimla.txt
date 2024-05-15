@@ -1,0 +1,447 @@
+The Corner Cafe : 4.2 : North Indian, Chinese, Italian, Continental, Mughlai, Biryani, Desserts, Beverages : ₹800 for two :  Sanjauli, Shimla
+Xero Degrees : 4.9 : Cafe, Mexican, Pizza, Sandwich, Pasta, Fast Food, Waffle, Beverages : ₹750 for two :  Longwood, Shimla
+Hide Out Cafe : 4.9 : Cafe, North Indian, Chinese, Fast Food, Pizza, Sandwich, Desserts, Beverages : ₹700 for two :  Summer Hill, Shimla
+Amayaa : 4.9 : Chinese, Salad, North Indian, Continental, Italian, Asian, Beverages, Desserts : ₹1,400 for two :  Longwood, Shimla
+Pyramid MicroBrewery : 4.3 : Cafe, Bar Food : ₹750 for two :  Longwood, Shimla
+The Restaurant - The Oberoi Cecil : 3.9 : North Indian, Continental, Desserts : ₹2,200 for two :  The Oberoi Cecil - Shimla Summer Hill, Shimla
+Honey Hut : 4.3 : Bakery, Cafe, Beverages, Fast Food, Desserts, Sandwich : ₹450 for two :  Summer Hill, Shimla
+Auckland Hotel & Restaurant : 3.4 : Street Food, North Indian, Chinese, Mughlai : ₹800 for two :  Longwood, Shimla
+Indian Coffee House : 3.8 : Cafe, Fast Food, South Indian, Beverages : ₹350 for two :  Longwood, Shimla
+Embassy Icecream : 4.2 : Desserts, Ice Cream, Beverages : ₹200 for two :  Longwood, Shimla
+Cafe 103 : - : Cafe, Beverages, Continental, Fast Food, Chinese, North Indian, Mughlai, Desserts : ₹1,000 for two :  Chakkar, Shimla
+Celebrations Cafe : 4.9 : Fast Food, Sandwich, Pizza, Chinese, North Indian, Desserts, Beverages : ₹400 for two :  Kasumpti, Shimla
+45 The Central : 4.3 : Mughlai, North Indian, Chinese, Continental : ₹800 for two :  Longwood, Shimla
+New Diamond Restaurant : 3.9 : North Indian, Chinese, South Indian, Fast Food, Desserts : ₹650 for two :  Sanjauli, Shimla
+Domino's Pizza : 4.1 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  Longwood, Shimla
+Buddy's Food Joint : 4.8 : Fast Food, Chinese, North Indian, Beverages : ₹500 for two :  Sanjauli, Shimla
+Hotel Combermere : 4.0 : North Indian, Mughlai, Chinese, Thai, Sichuan : ₹800 for two :  Longwood, Shimla
+Tripti Restaurant : 3.3 : North Indian, South Indian : ₹300 for two :  Longwood, Shimla
+Pakwan : 4.8 : North Indian, Chinese : ₹1,000 for two :  Longwood, Shimla
+Himani's Restaurant & Bar : - : North Indian, Finger Food, Mughlai, Chinese, Continental : ₹800 for two :  Longwood, Shimla
+Que Cafe : 3.5 : Cafe, Chinese, Street Food, Fast Food, Beverages, Sichuan : ₹500 for two :  Kasumpti, Shimla
+37 The Central : 4.1 : North Indian, Biryani, Chinese, Rolls, Fast Food, Shake, Beverages, Desserts : ₹400 for two :  Longwood, Shimla
+Shimla Momos : 3.8 : Momos, Chinese : ₹250 for two :  Sanjauli, Shimla
+China Town : 3.6 : Chinese : ₹350 for two :  Longwood, Shimla
+Sher-E-Punjab : 3.9 : North Indian, Chinese, Biryani, Beverages : ₹800 for two :  Phagli, Shimla
+Jashan Terrace Restaurant : 3.8 : North Indian, Mughlai : ₹1,000 for two :  Longwood, Shimla
+Chung Fa Dhaba Chinese Food Shop : - : Chinese, Rolls : ₹400 for two :  Longwood, Shimla
+Cafe Shimla Heart : - : Cafe, Continental, Chinese, Fast Food, North Indian, Shake : ₹600 for two :  Sanjauli, Shimla
+Radisson Hotel : 3.9 : South Indian, North Indian, Kebab, Continental, Oriental, Desserts : ₹1,000 for two :  Longwood, Shimla
+Taste Buds : 4.1 : North Indian, Chinese, Fast Food : ₹500 for two :  Panthaghati, Shimla
+Vafh'z : 3.9 : North Indian, Mughlai, Chinese, Fast Food, Beverages, Pizza, Burger, Rolls : ₹500 for two :  Sanjauli, Shimla
+Cafe Amigos : New : Sandwich, Fast Food, Chinese, North Indian, Desserts : ₹400 for two :  Chakkar, Shimla
+Frozen Hut : 3.8 : Pizza, Sandwich, Burger, Pasta, Fast Food, Momos, Shake, Beverages : ₹350 for two :  Longwood, Shimla
+Sher-E-Punjab Dhaba : - : North Indian, Chinese, Street Food : ₹400 for two :  Chakkar, Shimla
+City Point : - : North Indian, Continental, Chinese, South Indian : ₹600 for two :  Sanjauli, Shimla
+Aunty's Kitchen : - : Fast Food, Chinese : ₹300 for two :  Longwood, Shimla
+Amar's Bhojanalya : 3.9 : North Indian : ₹200 for two :  Longwood, Shimla
+Cafe Vindhyas : - : South Indian, North Indian, Fast Food, Desserts, Beverages : ₹1,800 for two :  Sanjauli, Shimla
+Wood Street Cafe : - : Cafe : ₹500 for two :  Longwood, Shimla
+Seventh Heaven : - : Thai, North Indian, Continental, Chinese : ₹2,500 for two :  Longwood, Shimla
+Scandal Delights Cafe Bar : 3.1 : North Indian, Continental : ₹1,000 for two :  Longwood, Shimla
+Hills Edge Restaurant : New : Continental, North Indian : ₹800 for two :  Longwood, Shimla
+Pappi Da Dhaba : - : North Indian : ₹350 for two :  Sanjauli, Shimla
+The Great Urban Dhaba : 4.1 : North Indian, Chinese, Fast Food : ₹500 for two :  Chakkar, Shimla
+Zafraan Restaurant : 3.3 : North Indian, Mughlai, Chinese, Fast Food, Himachali : ₹700 for two :  Kasumpti, Shimla
+DX Fast Food : 3.7 : Fast Food, Beverages : ₹200 for two :  Sanjauli, Shimla
+Ashiana Restaurant : 3.9 : North Indian, Chinese : ₹1,000 for two :  Longwood, Shimla
+Singh's Tandoor : 4.9 : North Indian, Chinese, Mughlai, Seafood, Beverages : ₹500 for two :  Longwood, Shimla
+VIK'S Kitchen : 3.9 : Afghan, American, Fast Food : ₹450 for two :  Kasumpti, Shimla
+Hunger'z : - : Pizza, Fast Food : ₹300 for two :  Sanjauli, Shimla
+Himachali Rasoi : 3.9 : Himachali : ₹500 for two :  Longwood, Shimla
+Sweet Sensations : 3.8 : Cafe, Coffee, Bakery, Desserts, Sandwich, Tea, Shake, Beverages : ₹900 for two :  Longwood, Shimla
+Parallel 96 : 3.0 : North Indian, Chinese, Mughlai, Fast Food, Burger, Pizza, Shake, Beverages : ₹450 for two :  Sanjauli, Shimla
+The House of Glass : 3.6 : Oriental, Continental, North Indian : ₹2,000 for two :  Sanjauli, Shimla
+Devicos Restaurant : 4.2 : South Indian, North Indian, Fast Food, Chinese, Street Food, Mughlai : ₹800 for two :  Longwood, Shimla
+Ashiana Sweets Restaurant & Bar : - : Bakery, Bar Food, Mithai, Fast Food, Street Food, North Indian : ₹1,000 for two :  Kasumpti, Shimla
+Logo Cafe : 3.6 : Cafe, Chinese, Fast Food, Pizza, North Indian, Desserts, Beverages : ₹600 for two :  Longwood, Shimla
+Khambir : 3.8 : North Indian, Chinese, Oriental, Continental, Biryani : ₹2,000 for two :  Chakkar, Shimla
+New Singh's Tandoor : - : North Indian, Mughlai, Seafood, Chinese, Beverages : ₹400 for two :  Longwood, Shimla
+Just Baked By Tripti : 4.7 : Bakery, North Indian : ₹400 for two :  Longwood, Shimla
+Chhaang : New : Bar Food, North Indian : ₹1,000 for two :  Chakkar, Shimla
+Food Shop 2 : 3.9 : Burger, Pizza, Fast Food, Street Food : ₹350 for two :  Longwood, Shimla
+The Royal Jardin : 3.7 : Chinese, North Indian, Mughlai, Biryani, Fast Food, Desserts, Beverages : ₹700 for two :  Mashobra, Shimla
+Dark Moon : 3.6 : Biryani : ₹250 for two :  Panthaghati, Shimla
+Hoody Foody : - : Fast Food : ₹300 for two :  Sanjauli, Shimla
+Hunger'z : 3.7 : Fast Food, North Indian : ₹300 for two :  Chakkar, Shimla
+HPTDC Goofa Ashiana Bar and Restaurant : 3.5 : North Indian, Beverages, Mughlai, Fast Food : ₹1,000 for two :  Longwood, Shimla
+Waza - Cafe & Restaurant : 2.9 : North Indian, Kashmiri, Biryani, Chinese, Beverages : ₹1,000 for two :  Longwood, Shimla
+Laxmi Food Corner : - : Street Food : ₹250 for two :  Kasumpti, Shimla
+Bamboo Hut : 3.9 : North Indian, Mughlai, Chinese, Beverages : ₹400 for two :  Sanjauli, Shimla
+Four Winds 360 Revolving Restaurant : 3.7 : North Indian, Chinese, Street Food, Biryani, Fast Food, Desserts, Beverages, Salad : ₹1,000 for two :  Chakkar, Shimla
+The Northern Vibes Restaurant : 3.5 : North Indian, Chinese : ₹1,000 for two :  Chakkar, Shimla
+Rads Everyday : 4.0 : Burger, Wraps : ₹300 for two :  Sanjauli, Shimla
+Brews & Books Cafe : - : Cafe, Coffee, Beverages, Pizza, Burger, Fast Food : ₹500 for two :  Longwood, Shimla
+Shimla British Resort : - : North Indian, Chinese, Fast Food, Street Food, Beverages, Mithai : ₹800 for two :  Longwood, Shimla
+Cake Masters : 4.1 : Bakery, Desserts, Fast Food : ₹350 for two :  Longwood, Shimla
+The Hidden Gem Coffee House : - : Cafe, Coffee, Mexican, Pasta, Pizza, Continental, Burger, Desserts : ₹1,100 for two :  Mashobra, Shimla
+La Pino'z Pizza : 3.4 : Pizza, Fast Food, Pasta : ₹300 for two :  Longwood, Shimla
+Zaika Restaurant : 3.2 : North Indian : ₹300 for two :  Chakkar, Shimla
+Xero : - : Fast Food : ₹200 for two :  Sanjauli, Shimla
+Sahib's Punjabi Tadka : - : North Indian, Chinese, Fast Food : ₹250 for two :  Chakkar, Shimla
+Ashiana Sweets And Fast Food : - : Mithai, Fast Food : ₹400 for two :  Sanjauli, Shimla
+Shimla Cafe : - : Chinese, North Indian, Beverages : ₹400 for two :  Sanjauli, Shimla
+Red Chilly Punjabi Dhaba & Sweets : - : North Indian, Chinese, Beverages : ₹400 for two :  Mashobra, Shimla
+Hotel Landmark : - : Chinese, North Indian, Mughlai, Salad, Fast Food, Desserts, Tea, Beverages : ₹1,300 for two :  Phagli, Shimla
+Chennai Maratha : - : South Indian : ₹300 for two :  Longwood, Shimla
+Delhi Darbar : - : North Indian, Mughlai : ₹500 for two :  Longwood, Shimla
+Cafe Under Tree : - : Cafe : ₹1,200 for two :  Longwood, Shimla
+Cafe Pesto : - : Italian, Pizza, Beverages, Coffee, Fast Food, Desserts : ₹700 for two :  Longwood, Shimla
+Zero One By Sterling : - : Cafe, Coffee, North Indian, Chinese, Fast Food, Desserts : ₹750 for two :  Longwood, Shimla
+Cafe 11:11 : - : Cafe, Chinese : ₹500 for two :  Longwood, Shimla
+Xero Dhalli : - : Fast Food, Sandwich, Beverages : ₹450 for two :  Sanjauli, Shimla
+The Baker's Nest Cafe : - : Bakery, North Indian : ₹400 for two :  Kasumpti, Shimla
+Rads : - : Fast Food, Beverages : ₹300 for two :  Panthaghati, Shimla
+Tara Bhojnalya : - : North Indian, Beverages : ₹400 for two :  Phagli, Shimla
+Mr. Momos : - : Chinese, Modern Indian, North Indian : ₹200 for two :  Chakkar, Shimla
+Boca Mario Restaurant - The Manor : 4.2 : North Indian, Italian, Fast Food, Mughlai, Chinese, Desserts, Beverages : ₹700 for two :  Mashobra, Shimla
+Pure Veg Highway Dhaba : - : North Indian, Chinese, Fast Food, Beverages : ₹400 for two :  Chakkar, Shimla
+Kay Cee : - : Chinese, Fast Food, North Indian, Biryani, Beverages : ₹350 for two :  Longwood, Shimla
+Inayssa Restaurant : - : North Indian, Continental : ₹1,000 for two :  Phagli, Shimla
+Tara Bhojnalaya : - : North Indian : ₹200 for two :  Phagli, Shimla
+Sharma Bhojnalya : - : North Indian : ₹300 for two :  Chakkar, Shimla
+Brother's Sher E Punjab : - : North Indian : ₹200 for two :  Longwood, Shimla
+Paljees Refreshments : - : Street Food, Tea : ₹150 for two :  Longwood, Shimla
+Namastasya : - : North Indian, South Indian, Momos, Fast Food, Beverages : ₹350 for two :  Kasumpti, Shimla
+Asha Non Veg Fast Food : 3.9 : North Indian, Fast Food : ₹300 for two :  Phagli, Shimla
+Gianis-Ice Cream, Shakes & Sundaes : - : Ice Cream, Shake : ₹200 for two :  Hotel Combermere, The Mall, Shimla
+Punjabi Rasoi : - : North Indian : ₹300 for two :  Mashobra, Shimla
+Sixteen 69 Lounge Bar : - : North Indian, Bar Food : ₹1,500 for two :  Phagli, Shimla
+Milap Dhaba : - : North Indian : ₹400 for two :  Longwood, Shimla
+Sangram Ji Ka Dhaba : - : North Indian : ₹800 for two :  Longwood, Shimla
+Dham Burst : - : North Indian, Chinese : ₹500 for two :  Kasumpti, Shimla
+Queens Book Cafe : - : Pasta, Wraps, Sandwich, Pizza, Chinese, Ice Cream : ₹300 for two :  Longwood, Shimla
+Sirena Club : - : North Indian : ₹1,000 for two :  Sanjauli, Shimla
+Azad Sher-E-Punjab Pure Vegetarian : - : North Indian : ₹300 for two :  Longwood, Shimla
+Mehfil Restaurant : - : North Indian, Chinese, Street Food, Shake, Beverages : ₹600 for two :  Sanjauli, Shimla
+Royal Food Plaza : - : North Indian, Chinese : ₹400 for two :  Kasumpti, Shimla
+Kamat Restaurant : - : South Indian, North Indian, Chinese, Beverages, Shake : ₹600 for two :  Summer Hill, Shimla
+Cedar Grand : - : North Indian, Bar Food, Chinese, Mughlai : ₹1,000 for two :  Phagli, Shimla
+Cloud Nine Bar : - : Bar Food : ₹800 for two :  Longwood, Shimla
+Delhi Darbar : - : North Indian : ₹550 for two :  Sanjauli, Shimla
+Tibetan Friends Restaurant : - : Chinese, Momos : ₹450 for two :  Longwood, Shimla
+Maan Shere-E-Punjab : - : North Indian : ₹300 for two :  Longwood, Shimla
+Xero : - : Fast Food, Beverages : ₹300 for two :  Kasumpti, Shimla
+Ananta All Day Dining : 4.5 : Chinese, North Indian, Continental : ₹1,100 for two :  Chakkar, Shimla
+Dawat Bhojanalay : - : North Indian : ₹300 for two :  Sanjauli, Shimla
+Agarwal Bhojanalaya Veg Restaurant : - : South Indian, North Indian : ₹200 for two :  Longwood, Shimla
+Old Skool Cafe : - : North Indian, Pizza, Fast Food, Chinese, Street Food, Beverages : ₹350 for two :  Chakkar, Shimla
+The Crimson Bar & Garden Restaurant : - : North Indian : ₹1,000 for two :  Kasumpti, Shimla
+Penny & Bunny's : - : Cafe, Fast Food : ₹600 for two :  Longwood, Shimla
+Dragon Express : - : Momos, Chinese : ₹300 for two :  Longwood, Shimla
+Nature Lover Cafe & Baker : - : Bakery, North Indian, Street Food, Fast Food, Beverages, Chinese : ₹250 for two :  Kasumpti, Shimla
+Choice Chinese Food : - : Chinese, North Indian : ₹400 for two :  Longwood, Shimla
+Eat Tree Cafe : - : North Indian, Chinese : ₹500 for two :  Phagli, Shimla
+Kapoor Vaishno Bhojnalya : - : North Indian : ₹200 for two :  Mashobra, Shimla
+Pappi Da Dhaba : - : North Indian : ₹300 for two :  Phagli, Shimla
+Roof Top Cafe : - : Chinese, Fast Food, North Indian : ₹250 for two :  Kasumpti, Shimla
+New Daawat Restaurant : - : North Indian, Chinese : ₹200 for two :  Kasumpti, Shimla
+Small Victories Mountain Cafe : - : North Indian, Chinese : ₹600 for two :  Mashobra, Shimla
+Hotel Majestic Grand : - : Asian, Bakery, Beverages, Chinese, Cuisine Varies, North Indian : ₹1,500 for two :  Longwood, Shimla
+Lord's Cafe : - : North Indian, Chinese : ₹200 for two :  Summer Hill, Shimla
+Momos Shop Veg : - : Momos, Chinese : ₹200 for two :  Longwood, Shimla
+Friends Cafe : - : North Indian, Fast Food : ₹400 for two :  Chakkar, Shimla
+Dashmesh Eggless Bakery : - : Bakery, Fast Food : ₹200 for two :  Chakkar, Shimla
+Shimla Food Corner : - : North Indian, Chinese : ₹250 for two :  Longwood, Shimla
+Moti Mahal Delux : - : North Indian, Chinese, Mughlai, Fast Food, Italian : ₹1,200 for two :  Kasumpti, Shimla
+Sip & Slice : - : Chinese, Momos, Fast Food, Pizza, North Indian, Beverages : ₹650 for two :  Longwood, Shimla
+Sidhu Da Dhabha : - : North Indian : ₹300 for two :  Longwood, Shimla
+Dhalli Delight Dhaba : - : North Indian, Chinese, Fast Food : ₹300 for two :  Sanjauli, Shimla
+Cafe Khoblu : - : North Indian, Pizza : ₹1,000 for two :  Sanjauli, Shimla
+ABC Bar & Restaurant : - : North Indian, Chinese : ₹1,000 for two :  Sanjauli, Shimla
+The Green Table Kitchen : - : North Indian, Chinese : ₹300 for two :  Sanjauli, Shimla
+Temptation Food Joint : - : North Indian, Chinese : ₹400 for two :  Phagli, Shimla
+Brewbakes : - : Sandwich, Pizza, Fast Food, Street Food, Desserts, Beverages : ₹300 for two :  Longwood, Shimla
+Hotel Ashiana Clarks : - : North Indian, Chinese, Biryani, Fast Food, Salad, Desserts : ₹1,000 for two :  Kasumpti, Shimla
+Natraj Bar & Restaurant : - : Bar Food, Himachali : ₹1,000 for two :  Kasumpti, Shimla
+Tibetan Namnas Dhabha : - : Chinese : ₹200 for two :  Panthaghati, Shimla
+Twins Corner : - : Bakery, Desserts, Fast Food : ₹200 for two :  Sanjauli, Shimla
+Kalyan Dhaba : - : Himachali, North Indian : ₹300 for two :  Longwood, Shimla
+Kaushal's Rasoi : - : North Indian, Beverages : ₹350 for two :  Sanjauli, Shimla
+Mashobra Valley Restaurant : - : North Indian, Chinese : ₹300 for two :  Sanjauli, Shimla
+Five Star Chicken : - : Fast Food : ₹300 for two :  Kasumpti, Shimla
+Pali Da Dhaba : - : North Indian : ₹500 for two :  Longwood, Shimla
+Quick Tandoori Momos : New : Fast Food, Chinese, Momos : ₹300 for two :  Longwood, Shimla
+Panwar Jees Sweet Shop & Dhaba : - : Mithai, North Indian : ₹300 for two :  Kasumpti, Shimla
+Sharma Sweets : - : Mithai, Street Food : ₹300 for two :  Longwood, Shimla
+Fast Food Corner : - : Fast Food, Chinese, North Indian, Beverages : ₹300 for two :  Longwood, Shimla
+Sky Lark Bhojanalya : - : Chinese, North Indian : ₹200 for two :  Longwood, Shimla
+Desi Chinese Fast Food Corner : - : Chinese, Fast Food : ₹200 for two :  Sanjauli, Shimla
+Green Leaf : - : North Indian : ₹1,000 for two :  Longwood, Shimla
+Dalziel Restaurant : - : North Indian : ₹500 for two :  Longwood, Shimla
+Amrit Dhaba : - : North Indian, Beverages : ₹400 for two :  Phagli, Shimla
+Euphoria Grand : - : North Indian : ₹1,000 for two :  Chakkar, Shimla
+D.F.C. Restaurant : - : North Indian, Chinese, Shake : ₹300 for two :  Summer Hill, Shimla
+City Heart : - : Fast Food : ₹500 for two :  Summer Hill, Shimla
+Five Star : - : Fast Food, Rolls, Burger : ₹200 for two :  Chakkar, Shimla
+New India Foods & Sweet Shop : - : North Indian, Mithai : ₹200 for two :  Sanjauli, Shimla
+Pinxx : - : North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages : ₹1,000 for two :  Chakkar, Shimla
+Brightland Hotel : - : North Indian, Chinese, Sandwich, Desserts : ₹1,400 for two :  Phagli, Shimla
+Sharma Bhojnalya : - : North Indian : ₹300 for two :  Phagli, Shimla
+Hungry Head : - : North Indian, Chinese : ₹200 for two :  Longwood, Shimla
+Vafh'z - Vachi Food Hub : - : North Indian, Mughlai, Chinese, Sandwich, Pizza, Burger, Momos, Fast Food : ₹1,000 for two :  Sanjauli, Shimla
+Crazy Bites : - : North Indian, Chinese, Street Food : ₹200 for two :  Sanjauli, Shimla
+Mirchilly : - : Fast Food, Beverages : ₹300 for two :  Longwood, Shimla
+Shiva Food Corner : - : North Indian : ₹200 for two :  Sanjauli, Shimla
+Amdo Tibetn Dhabha : - : Tibetan, Chinese : ₹300 for two :  Longwood, Shimla
+Dining Thirteen 17 : - : North Indian : ₹400 for two :  Phagli, Shimla
+Loveena Restaurant : - : Fast Food : ₹200 for two :  Longwood, Shimla
+Cafe Sid : - : North Indian, Chinese : ₹400 for two :  Kasumpti, Shimla
+The Terrace : - : Cafe, American : ₹800 for two :  Longwood, Shimla
+Raj Kitchen : New : Fast Food, North Indian, Chinese, Desserts, Beverages : ₹300 for two :  Longwood, Shimla
+Cart View Restaurant : - : North Indian, Chinese : ₹3,500 for two :  Phagli, Shimla
+New Punjabi Dhaba : - : North Indian : ₹200 for two :  Kasumpti, Shimla
+Vee Kay's Food Point : - : Fast Food, Chinese, Finger Food : ₹200 for two :  Chakkar, Shimla
+Mini Monk Cafe : - : North Indian : ₹300 for two :  Sanjauli, Shimla
+Flavours : - : North Indian : ₹1,000 for two :  Sanjauli, Shimla
+The Grand Welcome : - : North Indian, Chinese, South Indian : ₹700 for two :  Panthaghati, Shimla
+Pirthi's : - : Mithai : ₹250 for two :  Sanjauli, Shimla
+Santushti Restaurant : - : Himachali, North Indian : ₹400 for two :  Kasumpti, Shimla
+Singh Chic Fish : - : Seafood : ₹300 for two :  Phagli, Shimla
+Navrattan Restaurant : - : North Indian, Chinese : ₹1,200 for two :  Sanjauli, Shimla
+Desi Urban Chai : - : Tea, Fast Food : ₹200 for two :  Longwood, Shimla
+Papa's Cafe : - : Sandwich, Chinese, Burger, Pizza, Shake, Beverages : ₹500 for two :  Sanjauli, Shimla
+Food Shop 2 : - : Burger, Pizza : ₹300 for two :  Phagli, Shimla
+Bake & Bite : - : Bakery, Mithai : ₹300 for two :  Sanjauli, Shimla
+Sai Sweets : - : Street Food, Mithai : ₹150 for two :  Sanjauli, Shimla
+Sunila Veg Dhaba : - : North Indian : ₹200 for two :  Phagli, Shimla
+Dinesh Vaishnav Bhojnalaya : - : North Indian : ₹250 for two :  Chakkar, Shimla
+Tamanna Fast Food : - : Chinese, Fast Food, North Indian : ₹200 for two :  Summer Hill, Shimla
+Eat Best : - : Chinese : ₹200 for two :  Sanjauli, Shimla
+City Point Bar & Restaurant : - : Bar Food : ₹1,000 for two :  Chakkar, Shimla
+Hotel Narayan By Triund Hotels : - : North Indian, Chinese, Mughlai : ₹500 for two :  Sanjauli, Shimla
+Thakur Bhojanalya : - : North Indian : ₹250 for two :  Phagli, Shimla
+Amar Sons Refreshment : - : North Indian : ₹150 for two :  Longwood, Shimla
+Dawat Restaurant : - : North Indian, Mughlai, Chinese : ₹300 for two :  Kasumpti, Shimla
+New Plaza Restaurant : - : North Indian, Chinese, Mughlai, Seafood, Continental, Desserts, Beverages : ₹900 for two :  Longwood, Shimla
+Hotel Grand Majestic : - : North Indian, Chinese : ₹600 for two :  Summer Hill, Shimla
+Sachin Fast Food Point : - : Street Food : ₹250 for two :  Panthaghati, Shimla
+New Jaswal Bhojanalya : - : Himachali, North Indian : ₹200 for two :  Longwood, Shimla
+Amazing Chicken Corner : - : North Indian, Biryani : ₹450 for two :  Phagli, Shimla
+Satkar Eating Point : - : North Indian, Fast Food : ₹200 for two :  Chakkar, Shimla
+Hotel Crystal Palace : - : Fast Food, Modern Indian : ₹250 for two :  Longwood, Shimla
+Om Sai Fast Food : - : Fast Food, Chinese : ₹300 for two :  Longwood, Shimla
+Thakur Dhaba : 3.8 : North Indian : ₹300 for two :  Phagli, Shimla
+Chick Fish : 4.1 : North Indian : ₹250 for two :  Phagli, Shimla
+Roll Master’s : - : Rolls : ₹200 for two :  Sanjauli, Shimla
+Snowland Restaurant : - : Chinese, North Indian, Fast Food, Beverages : ₹600 for two :  Sanjauli, Shimla
+Chinese Food Zone : - : Chinese : ₹200 for two :  Phagli, Shimla
+The Chinese Street : - : Chinese : ₹200 for two :  Chakkar, Shimla
+Sai Khana Khajana : - : North Indian, Chinese : ₹300 for two :  Phagli, Shimla
+Matta Sher - E - Punjab Dhaba : - : North Indian : ₹250 for two :  Phagli, Shimla
+Prakash Vaishnav Dhaba : - : North Indian : ₹200 for two :  Mashobra, Shimla
+Vaishnav Bhojanalay : - : North Indian : ₹200 for two :  Chakkar, Shimla
+Om Bhojanalya : - : Chinese, Fast Food, North Indian : ₹250 for two :  Chakkar, Shimla
+The Food Chariot : - : Fast Food, Beverages : ₹300 for two :  Panthaghati, Shimla
+Next Level : - : North Indian, Chinese, Mughlai, Biryani, Pizza, Desserts : ₹1,000 for two :  Sanjauli, Shimla
+Sonu Tea Stall : - : Tea : ₹100 for two :  Chakkar, Shimla
+Puneet Bhojnalya : - : North Indian : ₹200 for two :  Sanjauli, Shimla
+Amritsari Rasoi : - : North Indian, Chinese, Mughlai : ₹400 for two :  Longwood, Shimla
+Thakur Bhojnalaya : - : North Indian : ₹200 for two :  Kasumpti, Shimla
+Pait pooja : - : Chinese, Fast Food, North Indian, Mughlai, Beverages : ₹500 for two :  Longwood, Shimla
+Rasoi Food Point : - : North Indian : ₹1,000 for two :  Sanjauli, Shimla
+Linesh Vaishno Dhaba : - : Himachali, Chinese, North Indian, Street Food, Beverages : ₹300 for two :  Sanjauli, Shimla
+Mealstonecafe & Restaurant : - : Fast Food, Chinese, North Indian, Mughlai, Desserts, Beverages : ₹400 for two :  Sanjauli, Shimla
+New Aunty Dhaba : - : North Indian : ₹300 for two :  Phagli, Shimla
+Sanjay Fast Food : - : Fast Food, North Indian : ₹400 for two :  Chakkar, Shimla
+Saatvik Sweets : - : Mithai, Desserts, Street Food : ₹150 for two :  Longwood, Shimla
+Hotel Nagsons : - : North Indian, Chinese, Mughlai, Beverages : ₹550 for two :  Longwood, Shimla
+Bhojan : - : North Indian : ₹200 for two :  Phagli, Shimla
+Sharma Dhaaba : - : North Indian, Fast Food : ₹250 for two :  Sanjauli, Shimla
+Kamla Kitchen : - : Chinese, North Indian, Biryani, Beverages : ₹1,000 for two :  Phagli, Shimla
+Tibetan Dhaba : - : Chinese, Tibetan, Tea, Beverages, Momos : ₹300 for two :  Longwood, Shimla
+Punjabi Zayaka : - : North Indian : ₹300 for two :  Phagli, Shimla
+Sai Jees : - : North Indian : ₹300 for two :  Chakkar, Shimla
+New O.K. Dhaba : - : North Indian : ₹200 for two :  Longwood, Shimla
+Heaven Stars : - : Fast Food, Beverages : ₹200 for two :  Phagli, Shimla
+Aahaar Restaurant : - : North Indian, Biryani, Chinese, Street Food, Beverages : ₹350 for two :  Phagli, Shimla
+Sharma Food : - : North Indian : ₹200 for two :  Longwood, Shimla
+Banjaara Food : - : North Indian : ₹250 for two :  Panthaghati, Shimla
+Nee Green Rajpoot Dhaba : - : Beverages, North Indian : ₹100 for two :  Summer Hill, Shimla
+Father's Fast Food & Kitchen : - : Fast Food, Chinese, Beverages : ₹300 for two :  Sanjauli, Shimla
+Fouji Da Dhaba : - : North Indian, Chinese : ₹200 for two :  Sanjauli, Shimla
+Hotel Ganga : - : North Indian, Chinese : ₹300 for two :  Longwood, Shimla
+Hateshwari Food Point : - : North Indian, Fast Food : ₹150 for two :  Summer Hill, Shimla
+Keshav Madhav Rasoi : - : North Indian, Chinese, Fast Food, Shake, Beverages : ₹450 for two :  Longwood, Shimla
+Pacific Food Paradise : New : Chinese, North Indian : ₹500 for two :  Sanjauli, Shimla
+South Spice Kitchen : - : South Indian, Chinese, North Indian, Beverages, Shake, Fast Food : ₹300 for two :  Longwood, Shimla
+Silver Oak Restaurant : - : North Indian, Continental : ₹800 for two :  Longwood, Shimla
+Nishu Food Joint : - : North Indian : ₹200 for two :  Phagli, Shimla
+Sachin's Dragon Villa : - : North Indian, Chinese : ₹500 for two :  Longwood, Shimla
+Party Time Corner : - : North Indian, Street Food : ₹300 for two :  Longwood, Shimla
+Italian's Pizzeria : - : Pizza, Fast Food : ₹300 for two :  Chakkar, Shimla
+Thakur Vaishno Bhojanalya : - : North Indian : ₹200 for two :  Chakkar, Shimla
+Golden Hour : - : North Indian : ₹200 for two :  Phagli, Shimla
+Black Pepper : - : North Indian, Salad : ₹1,000 for two :  Sanjauli, Shimla
+Sfc Food Corner : - : Mughlai : ₹300 for two :  Chakkar, Shimla
+Akanksha Food Corner : - : North Indian, Chinese : ₹300 for two :  Kasumpti, Shimla
+Food Lover Cafe : - : Chinese, South Indian : ₹200 for two :  Longwood, Shimla
+Varnika Fast Food : 4.3 : Momos, Chinese : ₹200 for two :  Phagli, Shimla
+Om Fast Food : - : Fast Food : ₹200 for two :  Phagli, Shimla
+Mezbaan Bar & Restaurant : - : Bar Food, North Indian : ₹1,000 for two :  Phagli, Shimla
+Rotary Ashray Canteen : - : North Indian, Beverages, Street Food : ₹200 for two :  Longwood, Shimla
+Value Variety & Victory : - : North Indian, Chinese : ₹200 for two :  Longwood, Shimla
+Pinku Jee : - : North Indian, Street Food : ₹300 for two :  Phagli, Shimla
+The Beans : - : Cafe, Coffee, North Indian, Chinese, Pasta, Sandwich, Fast Food, Beverages : ₹550 for two :  Phagli, Shimla
+Bhandari Tea Stall : - : Tea : ₹100 for two :  Longwood, Shimla
+Meal Centre : - : North Indian : ₹500 for two :  Chakkar, Shimla
+Five Hills Restaurant : - : North Indian, Pizza, Fast Food, Street Food, Tea, Shake, Beverages : ₹300 for two :  Phagli, Shimla
+AG Food Corner : - : Fast Food, North Indian, Biryani : ₹300 for two :  Phagli, Shimla
+Sharma Fast Food : - : Fast Food, North Indian : ₹300 for two :  Sanjauli, Shimla
+Food App : - : North Indian, Chinese : ₹200 for two :  Sanjauli, Shimla
+LMK Cafe : - : North Indian : ₹200 for two :  Sanjauli, Shimla
+Ansh Fast Food : - : Fast Food, Chinese, Himachali : ₹300 for two :  Phagli, Shimla
+Rendezvous : - : North Indian, Chinese, Bar Food, Shake : ₹1,000 for two :  Longwood, Shimla
+Mehru's : - : Mithai, Street Food : ₹250 for two :  Longwood, Shimla
+Mountains Pizza Club : - : Pizza, Fast Food : ₹400 for two :  Sanjauli, Shimla
+Sharma Sweet Shop : - : Mithai, North Indian, Street Food, Desserts : ₹150 for two :  Kasumpti, Shimla
+Home Made : - : North Indian, Fast Food, Chinese : ₹400 for two :  Longwood, Shimla
+Nathuram Lachmann Dass : - : Mithai, Desserts, Street Food : ₹300 for two :  Longwood, Shimla
+Banshira Bakers : - : Bakery : ₹300 for two :  Longwood, Shimla
+Sharma Sweet Shop : - : Mithai, North Indian, Street Food : ₹100 for two :  Longwood, Shimla
+RK Chinese Fast Food : - : Chinese, Fast Food : ₹250 for two :  Sanjauli, Shimla
+Beekays : 3.9 : Fast Food : ₹350 for two :  Longwood, Shimla
+Zayka New Singh's Tandoor : 3.4 : Cuisine Varies, North Indian, Chinese : ₹500 for two :  Longwood, Shimla
+Que Express : - : Fast Food, Italian, Burger, North Indian, Beverages : ₹200 for two :  Longwood, Shimla
+Welcom Cafe Cedar : 3.9 : North Indian, Continental, Chinese : ₹800 for two :  Mashobra, Shimla
+Hungry Point : 3.5 : Pizza, Burger, Shake, Sandwich, Pasta : ₹400 for two :  Sanjauli, Shimla
+Singh's Tandoor : 3.9 : North Indian : ₹400 for two :  Sanjauli, Shimla
+Street Rasoi : 3.8 : Chinese : ₹350 for two :  Longwood, Shimla
+Gupta Vashnavi Bhojanalaya : 3.5 : North Indian : ₹300 for two :  Phagli, Shimla
+Maan Sher-E-Punjab : 3.5 : North Indian : ₹500 for two :  Longwood, Shimla
+Yummy's : 3.7 : Chinese, Fast Food, North Indian : ₹300 for two :  Panthaghati, Shimla
+South Corner : 2.7 : South Indian, Beverages : ₹250 for two :  Kasumpti, Shimla
+Sharma Sher-e-Punjab Dhaba : 3.0 : North Indian, Mughlai : ₹500 for two :  Longwood, Shimla
+Mehak Chinese And Tibetan Food : - : Chinese, Tibetan : ₹300 for two :  Longwood, Shimla
+Kaabil Kitchen : New : Shawarma, North Indian, Biryani, Chinese : ₹450 for two :  Longwood, Shimla
+Khana Khajana : - : North Indian, Fast Food, Chinese : ₹500 for two :  Panthaghati, Shimla
+Pizza Art & Bakers : - : Pizza, Fast Food, Desserts, Beverages : ₹300 for two :  Longwood, Shimla
+Shimla Cafe : - : Chinese, Fast Food, North Indian : ₹500 for two :  Sanjauli, Shimla
+Neapolitan Desi : - : North Indian, Fast Food : ₹1,400 for two :  Panthaghati, Shimla
+Satwik Restaurant : - : Chinese, North Indian, Beverages : ₹450 for two :  Kasumpti, Shimla
+Crazy Grills : - : North Indian, Chinese, Fast Food, Beverages, Mughlai : ₹400 for two :  Kasumpti, Shimla
+Cardinal Royale Retreat : - : North Indian, Sandwich, Chinese, Pizza, Kebab, Desserts, Beverages : ₹600 for two :  Phagli, Shimla
+Siri Ram Deepak Kumar : - : Street Food, Beverages, Desserts, Mithai : ₹150 for two :  Longwood, Shimla
+Zayka Food Corner : - : North Indian, Chinese, Fast Food : ₹450 for two :  Panthaghati, Shimla
+Mirchilly : - : North Indian : ₹200 for two :  Longwood, Shimla
+The Plateau : - : Chinese, Fast Food : ₹300 for two :  Kasumpti, Shimla
+Aahar Villa : - : North Indian : ₹500 for two :  Mashobra, Shimla
+Tealogy Cafe : - : Chinese, Fast Food, Coffee, Beverages, Sandwich : ₹350 for two :  Kasumpti, Shimla
+Radhe Radhe Gupta Ji Restaurant : - : North Indian : ₹200 for two :  Longwood, Shimla
+Thakur Himachali Dhaba : - : North Indian : ₹300 for two :  Sanjauli, Shimla
+The Blossoms : New : Fast Food, Beverages : ₹250 for two :  Summer Hill, Shimla
+Deepak Vaishnav Bhojanalya Pizza Paradise : - : Chinese, Fast Food, Italian, Momos, Beverages : ₹400 for two :  Longwood, Shimla
+Traditional Food Point : - : Fast Food, North Indian : ₹100 for two :  Chakkar, Shimla
+Delicacy Point : - : North Indian : ₹400 for two :  Sanjauli, Shimla
+TMK Cafe : - : Sandwich, Tea, Coffee : ₹200 for two :  Summer Hill, Shimla
+Cafe Homies : - : Fast Food : ₹500 for two :  Kasumpti, Shimla
+Nazir's Zayka : - : Chinese, North Indian, Beverages : ₹200 for two :  Longwood, Shimla
+Chowmein And Momos Center : - : Chinese, Fast Food : ₹100 for two :  Chakkar, Shimla
+Brunch : - : Biryani, North Indian, Street Food : ₹250 for two :  Longwood, Shimla
+Just Baked : - : Bakery, Coffee, Desserts, Fast Food : ₹500 for two :  Kasumpti, Shimla
+Sharma Chaat Shop : - : Chinese, Fast Food, North Indian : ₹100 for two :  Summer Hill, Shimla
+Tasty Parantha Shop : - : North Indian, Street Food : ₹300 for two :  Phagli, Shimla
+Milap Pure Vegetarian : - : North Indian, Chinese : ₹300 for two :  Longwood, Shimla
+Cafe Kamdhenu : - : North Indian, Fast Food : ₹300 for two :  Summer Hill, Shimla
+Krishna Bhojnalya : - : North Indian : ₹200 for two :  Longwood, Shimla
+Krishna Sweets : - : Mithai : ₹200 for two :  Kasumpti, Shimla
+Prithvichand Amarnath Sweet Shop : - : Mithai, Street Food : ₹150 for two :  Sanjauli, Shimla
+Mahendra Bhai Fast Food : - : Chinese : ₹100 for two :  Summer Hill, Shimla
+Hygienic Fast Food : - : Fast Food, North Indian, Chinese, Street Food : ₹300 for two :  Longwood, Shimla
+Bytes Of Amritsar : - : North Indian, South Indian, Juices, Beverages : ₹150 for two :  Sanjauli, Shimla
+Zayka Fast Food : - : Fast Food : ₹250 for two :  Chakkar, Shimla
+aOne Restaurant : - : North Indian, Chinese, Beverages : ₹300 for two :  Sanjauli, Shimla
+Amdo Tibetan Dhaba : - : Tibetan, Chinese : ₹250 for two :  Sanjauli, Shimla
+Riyansh Fast Food Corner : - : Chinese, Pasta, Momos : ₹250 for two :  Kasumpti, Shimla
+Ajay Tea Stall : - : North Indian, Tea : ₹200 for two :  Longwood, Shimla
+Naman Fast Food Pizza Hub : - : Pizza, Fast Food : ₹300 for two :  Chakkar, Shimla
+Him Baker's : - : Bakery, Desserts : ₹200 for two :  Longwood, Shimla
+Sharma Bhojnalya : - : North Indian : ₹300 for two :  Phagli, Shimla
+Deepak Dhaba : - : North Indian, Chinese : ₹200 for two :  Chakkar, Shimla
+The Food Court : - : Chinese : ₹300 for two :  Longwood, Shimla
+Bombay Bites : - : South Indian, Chinese, North Indian, Sandwich, Beverages : ₹400 for two :  Longwood, Shimla
+Frontier Chat Shop : - : Street Food, Fast Food : ₹200 for two :  Longwood, Shimla
+Lovely Chicken & Fish Shop : - : Himachali, Seafood : ₹300 for two :  Longwood, Shimla
+Score: The Vintage Sports Bar : - : North Indian, Continental : ₹1,000 for two :  Longwood, Shimla
+Kanwar Dhaba : - : North Indian : ₹200 for two :  Mashobra, Shimla
+Quick Tandoori Momos : - : Chinese, Momos : ₹400 for two :  Longwood, Shimla
+Highland Cafe : - : Fast Food, Beverages : ₹250 for two :  Longwood, Shimla
+Kamvar Chicken Corners : - : North Indian : ₹400 for two :  Chakkar, Shimla
+Sharma Dhaba : - : North Indian, Himachali : ₹300 for two :  Kasumpti, Shimla
+Vaishno Dhaba : - : North Indian : ₹200 for two :  Longwood, Shimla
+Fauji Dhaba : - : North Indian, Chinese, Seafood, Beverages, Mughlai : ₹500 for two :  Kasumpti, Shimla
+Banshira Dhaba : - : North Indian, Chinese, Fast Food, Beverages : ₹500 for two :  Longwood, Shimla
+Annpurna Bhojnalaya : - : North Indian : ₹200 for two :  Sanjauli, Shimla
+Swadisht Bhojnalya : - : North Indian : ₹150 for two :  Longwood, Shimla
+Mother's Kitchen : - : North Indian, Chinese, Beverages : ₹400 for two :  Phagli, Shimla
+Krishna Dhaba : - : North Indian : ₹100 for two :  Mehli, Shimla
+Rajpoot Dhaba : - : North Indian : ₹250 for two :  Sanjauli, Shimla
+Thakur Tea Stall : - : North Indian, Tea : ₹100 for two :  Sanjauli, Shimla
+Lucky Fast Food : - : Fast Food : ₹200 for two :  Phagli, Shimla
+Sharma Bhojnalaya : - : North Indian : ₹200 for two :  Panthaghati, Shimla
+Kewal Ka Dhaba : - : North Indian : ₹500 for two :  Sanjauli, Shimla
+Vinay Fast Food : - : Fast Food : ₹200 for two :  Longwood, Shimla
+Khwaish Eat And Treat : - : Bakery, Beverages, Chinese, Fast Food : ₹300 for two :  Chakkar, Shimla
+Sunil Street Food : - : Street Food : ₹200 for two :  Sanjauli, Shimla
+Prem Chinese Fast Food : - : Chinese, Fast Food : ₹200 for two :  Longwood, Shimla
+Dixit Fast Food : - : Fast Food : ₹200 for two :  Mehli, Shimla
+Lord's Fast Food : - : Fast Food, Chinese, Beverages : ₹250 for two :  Kasumpti, Shimla
+Lotus Refreshment : - : North Indian, Chinese : ₹300 for two :  Panthaghati, Shimla
+Madhu Cafe : - : North Indian : ₹200 for two :  Kasumpti, Shimla
+Militia Eatery : - : North Indian, Mughlai : ₹1,000 for two :  Sanjauli, Shimla
+Shan - E - Kinnor : - : North Indian : ₹300 for two :  Kasumpti, Shimla
+Shyamala Juice And Fast Food Corner : - : Juices, Beverages : ₹200 for two :  Summer Hill, Shimla
+Rattan Dhaba : - : North Indian : ₹200 for two :  Kasumpti, Shimla
+BRB Foodz : - : Chinese, Fast Food : ₹200 for two :  Kasumpti, Shimla
+The Legacy Hotel : - : North Indian, South Indian, Fast Food, Street Food : ₹800 for two :  Longwood, Shimla
+Nibble Paradise : - : Chinese : ₹300 for two :  Chakkar, Shimla
+Palam Tea Shop : - : Fast Food, Tea, Coffee : ₹100 for two :  Longwood, Shimla
+Sho - White Tea & Fast Food : - : Fast Food, Tea : ₹100 for two :  Summer Hill, Shimla
+Food Sadan : - : Shake, Beverages : ₹200 for two :  Chakkar, Shimla
+Dawat Restaurant : - : North Indian, Chinese : ₹200 for two :  Sanjauli, Shimla
+Quality Fast Food : - : Chinese : ₹150 for two :  Sanjauli, Shimla
+Aay Bee Zaika : - : North Indian : ₹200 for two :  Chakkar, Shimla
+Sharma Food Corner : - : Himachali, North Indian : ₹200 for two :  Longwood, Shimla
+Rudra Cafe : - : Fast Food, Beverages : ₹150 for two :  Chakkar, Shimla
+Shanu Tea Stall : - : Tea, North Indian : ₹200 for two :  Sanjauli, Shimla
+Asraf Khan Momos Shop : - : Momos, Chinese : ₹200 for two :  Longwood, Shimla
+Your's Chinese Food : - : Chinese : ₹200 for two :  Sanjauli, Shimla
+The Choice : - : North Indian, Chinese, Fast Food, Street Food, Desserts, Shake, Beverages : ₹500 for two :  Kasumpti, Shimla
+Sharma Chaat Shop : - : Street Food : ₹100 for two :  Longwood, Shimla
+Rimpy Refreshment Corner : - : North Indian : ₹200 for two :  Longwood, Shimla
+Hot Track : - : North Indian, Fast Food : ₹200 for two :  Sanjauli, Shimla
+Smile N Bite : - : North Indian, Fast Food, Desserts, Pasta, Momos : ₹300 for two :  Sanjauli, Shimla
+Foodies Point : - : Chinese, North Indian, Street Food, Beverages : ₹300 for two :  Longwood, Shimla
+Suraj Dhabha : - : North Indian : ₹200 for two :  Sanjauli, Shimla
+5 Bench Tea And Maggie Cafe : - : Beverages, Street Food : ₹300 for two :  Longwood, Shimla
+Tandoori Nights : - : North Indian : ₹200 for two :  Kasumpti, Shimla
+Ambe Sweets : - : Mithai : ₹200 for two :  Chakkar, Shimla
+Aanhar Bites : - : Chinese, Rolls : ₹300 for two :  Longwood, Shimla
+One Bite : - : Pizza, Wraps, Pasta, Sandwich, Burger, Waffle : ₹300 for two :  Sanjauli, Shimla
+Siddu Corner : - : Himachali : ₹100 for two :  Phagli, Shimla
+Truck Delight : - : Sandwich, Pizza, Burger, Pasta, Beverages : ₹200 for two :  Chakkar, Shimla
+Ameesha Sweets And Confectionery : - : Street Food, Fast Food : ₹200 for two :  Chakkar, Shimla
+Chai Sutta Bar : - : Tea, Coffee, Burger, Sandwich, Pizza, Fast Food, Street Food, Shake : ₹250 for two :  Sanjauli, Shimla
+Ram Shankar Food : - : Fast Food, Street Food : ₹100 for two :  Longwood, Shimla
+Pizzariya Paradise : - : Pizza : ₹300 for two :  Chakkar, Shimla
+Guptajees Vaishnav Bhojanalya : - : North Indian : ₹400 for two :  Summer Hill, Shimla
+Five Star : New : Fast Food, Burger, Rolls : ₹200 for two :  Longwood, Shimla
+Hotel Taj View : 3.9 : North Indian, Chinese, Salad, Sandwich, Desserts, Beverages : ₹900 for two :  Mashobra, Shimla
+Little Morocco : - : North Indian, Chinese : ₹3,500 for two :  Mashobra, Shimla
+The Cavalry Bar : - : Bar Food : ₹800 for two :  Wildflower Hall - Mashobra, Shimla
+Khadu Cafe : - : North Indian, Continental : ₹300 for two :  Mashobra, Shimla
+Lakshmi Dhaba : - : North Indian : ₹300 for two :  Chakkar, Shimla
+Verma Dhaba : - : North Indian, Street Food, Beverages : ₹300 for two :  Mashobra, Shimla
+Food Plaza : - : Fast Food, North Indian, Street Food, Beverages, Desserts : ₹450 for two :  Chakkar, Shimla
+Kanak Bhojnalya : - : Chinese, North Indian : ₹200 for two :  Chakkar, Shimla
+Aranyavilas : - : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Chakkar, Shimla
+Aahar Cafe & Sweets : - : Mithai, North Indian : ₹200 for two :  Chakkar, Shimla
+Aroma & U : - : North Indian, South Indian, Street Food, Chinese, Fast Food, Beverages, Shake : ₹400 for two :  Mashobra, Shimla
+Thakur fast food corner : - : North Indian, Fast Food, Chinese : ₹200 for two :  Mashobra, Shimla
+The Glide Inn : - : North Indian, Chinese, Continental : ₹500 for two :  Mehli, Shimla
+Aradhya Food Zone : - : South Indian, Chinese, Fast Food, North Indian : ₹200 for two :  Chakkar, Shimla
+MM Cafeteria : - : North Indian : ₹200 for two :  Mashobra, Shimla
+Krishna Foods Hotel : - : Himachali, North Indian : ₹400 for two :  Summer Hill, Shimla
+Hadimba Bhojanalya : - : North Indian, Chinese, Fast Food, Street Food, Shake, Beverages : ₹250 for two :  Chakkar, Shimla
+Hadimba Fast Food : - : Chinese, Fast Food, North Indian, Street Food, Shake, Beverages : ₹300 for two :  Summer Hill, Shimla
+Whistling Pine Bakers : - : Bakery : ₹100 for two :  Chakkar, Shimla

@@ -1,0 +1,501 @@
+Roof Cafe : 3.7 : Chinese, Continental, Italian, Sandwich, Salad, Desserts, Beverages : ₹1,000 for two :  Bhangagarh, Guwahati
+FTV Bar & Lounge : 4.1 : Chinese, Continental, North Indian : ₹1,800 for two :  Christian Basti, Guwahati
+Aurora - Mayflower : 3.4 : South Indian, North Indian, Continental, Chinese, Mughlai, Kebab : ₹1,100 for two :  Pan Bazaar, Guwahati
+The Deck Cafe : - : North Indian, Chinese, Continental : ₹800 for two :  Pan Bazaar, Guwahati
+Rang De Basanti Dhaba - Diner : 4.3 : North Indian, Bar Food, Biryani : ₹1,200 for two :  Christian Basti, Guwahati
+The Whiskey Bar & Grill : 4.9 : Continental, Pizza, Italian, American, Burger : ₹1,200 for two :  Zoo Tiniali, Guwahati
+Urban Mantra : 4.3 : North Indian, Italian, Chinese, Pizza : ₹1,400 for two :  Zoo Tiniali, Guwahati
+11th Avenue Cafe Bistro : 4.2 : Cafe, Coffee, Italian, Continental, Fast Food, Desserts, Beverages : ₹700 for two :  Chandmari, Guwahati
+The Spice Route : 4.3 : Chinese, North Indian, Continental, Shake : ₹900 for two :  Dispur, Guwahati
+AB's - Absolute Barbecues : 4.4 : Biryani, BBQ, Kebab, North Indian, Desserts : ₹1,550 for two :  Bhangagarh, Guwahati
+Pirates Of Grill : 4.3 : Chinese, Salad, North Indian, BBQ, Mughlai, Oriental, Desserts : ₹3,000 for two :  Christian Basti, Guwahati
+Uptown Escape Cafe & Cocktail Bar : 4.5 : Japanese, Continental, Asian, Modern Indian, Beverages, Italian, Desserts : ₹1,500 for two :  Christian Basti, Guwahati
+The BBQ Company : 4.4 : North Indian, Salad, Desserts : ₹1,000 for two :  Christian Basti, Guwahati
+Sunga & Sparta : 4.0 : Mediterranean, Pizza, Chinese, North Indian, Fast Food, Italian, Asian, Desserts : ₹1,300 for two :  Dispur, Guwahati
+Mocha Cafe And Bar : 4.9 : Cafe, Italian, Asian, European, North Indian, Pizza, Burger, Desserts : ₹550 for two :  Anil Plaza, Christian Basti, Guwahati
+Botanee : 4.4 : North Indian, Asian, Italian, Mexican, Desserts : ₹1,000 for two :  Ulubari, Guwahati
+THE JOLLY ANGLER : New : European, Continental : ₹1,000 for two :  Uzan Bazaar, Guwahati
+The Root Barrel : 4.3 : North Indian, Continental, Italian, Asian, Chinese, Korean, Beverages, Desserts : ₹1,800 for two :  Zoo Tiniali, Guwahati
+Mamagoto : 4.6 : Asian, Japanese, Sushi, Thai, Chinese, Salad, Desserts : ₹1,500 for two :  Christian Basti, Guwahati
+The Maroon Room : 4.2 : Asian, Sushi, Thai, Korean, Japanese : ₹2,000 for two :  Dispur, Guwahati
+Terra Mayaa Restaurant And Lounge : 4.4 : Continental, Italian, Asian, Fast Food : ₹1,700 for two :  Anil Plaza, Christian Basti, Guwahati
+Biryani By Kilo : 4.4 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  Ulubari, Guwahati
+Cafe Bellevue : 4.0 : Cafe, Continental, Mexican, Italian, Fast Food, Beverages, Desserts : ₹750 for two :  Uzan Bazaar, Guwahati
+Abacus Brewing Co & Kitchen : 4.9 : Asian, Continental, Modern Indian, Beverages : ₹2,000 for two :  Khanapara, Guwahati
+Kori's : 4.3 : Korean, Asian, Cafe, Japanese, Seafood, Sushi, Beverages, Momos : ₹1,000 for two :  Zoo Tiniali, Guwahati
+Leaf Deck Cafe : 3.9 : Cafe, Chinese, Beverages, North Indian : ₹550 for two :  Dispur, Guwahati
+Khao Gully : 3.8 : North Indian, South Indian, Street Food, Chinese : ₹500 for two :  Christian Basti, Guwahati
+The Square - Novotel Guwahati GS Road : 4.1 : Asian, Continental, French : ₹3,350 for two :  Novotel Six Mile, Guwahati
+Olive Garden : 4.2 : Mexican, Continental, Italian, North Indian, Chinese, Fast Food, Beverages, Kebab : ₹1,800 for two :  Christian Basti, Guwahati
+Barbeque Nation : 4.9 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,750 for two :  Ulubari, Guwahati
+Lush The Cafe : 3.9 : Mexican, Continental, Fast Food, Salad, Sandwich, Pasta, Pizza, Burger : ₹800 for two :  Uzan Bazaar, Guwahati
+Bagan Cafe : 4.2 : Continental, Fast Food, Italian, Desserts : ₹850 for two :  Khanapara, Guwahati
+Cut The Damn Cake : 3.9 : Bakery, Desserts, Sandwich : ₹800 for two :  Silpukhuri, Guwahati
+Playboy Beer Garden : 3.9 : North Indian, Chinese, Continental, Italian, Asian, Japanese, Beverages : ₹2,000 for two :  Bhangagarh, Guwahati
+Daddy : 4.0 : Continental, Italian, Beverages : ₹1,400 for two :  Beltola, Guwahati
+Aminia Restaurant : 3.5 : North Indian, Rolls, Biryani, Kebab : ₹1,000 for two :  Ulubari, Guwahati
+11th Avenue Cafe Bistro : 4.0 : Coffee, Continental, Italian, Beverages, Burger, Sandwich, Salad, Shake : ₹800 for two :  Six Mile, Guwahati
+Dhaba - Estd 1986 Delhi : 4.5 : North Indian, Kebab, Desserts, Mughlai : ₹2,000 for two :  Christian Basti, Guwahati
+Yoko Sizzlers : 4.4 : North Indian, Continental, Desserts, Shake, Beverages : ₹1,500 for two :  Ganeshguri, Guwahati
+Confucius : 4.2 : Chinese, Thai, Seafood, Sichuan, Desserts : ₹1,000 for two :  Christian Basti, Guwahati
+Kalita Spectrum : 4.7 : North Indian, Oriental, Continental, Salad, Biryani, Desserts : ₹1,200 for two :  Six Mile, Guwahati
+Lama By Yeti : 4.6 : Tibetan, Assamese, Chinese, Momos, Desserts, Shake : ₹1,200 for two :  Christian Basti, Guwahati
+Ghoomar Traditional Thali Restaurant : 3.6 : Rajasthani, North Indian : ₹1,000 for two :  Ulubari, Guwahati
+The Alchemy Grill And Lounge : 3.9 : Continental, Chinese, Mexican : ₹1,000 for two :  Zoo Tiniali, Guwahati
+Donna Belle : New : North Indian, Chinese, Continental, Sushi, Italian, Asian, Biryani, Beverages : ₹1,400 for two :  Ahomgaon, Guwahati
+Mising Kitchen : 4.8 : Assamese, North Eastern : ₹800 for two :  Ganeshguri, Guwahati
+Freemason's Brewworks : 4.4 : Continental, Pasta, North Indian, Fast Food, Beverages : ₹2,000 for two :  Christian Basti, Guwahati
+Skye - Novotel Guwahati : 3.9 : Bar Food, North Indian, Italian : ₹2,000 for two :  Dispur, Guwahati
+Nuts & Brew : 4.2 : Bar Food, Burger, Pasta, Beverages, Chinese : ₹1,200 for two :  Dispur, Guwahati
+Bayleaf Guwahati Cafe and Restaurant : New : North Indian, Chinese, Rolls, Sichuan : ₹400 for two :  Uzan Bazaar, Guwahati
+Dockyard By Cafe Bellevue : 3.7 : Cafe, Continental, Asian, Italian, Chinese, Fast Food, Beverages, Desserts : ₹800 for two :  Noonmati, Guwahati
+Shanghai Salsa : 4.1 : Continental, Fast Food, Chinese, Mexican : ₹1,000 for two :  Zoo Tiniali, Guwahati
+Taco Bell : 3.6 : Mexican : ₹400 for two :  Christian Basti, Guwahati
+Metta The Heritage Brewing Co : 3.7 : Continental, North Eastern, Fast Food, Desserts, Sichuan : ₹800 for two :  Silpukhuri, Guwahati
+Piazza : 4.5 : Pizza, Continental, Oriental, Italian, North Indian, Finger Food : ₹1,000 for two :  Ulubari, Guwahati
+OTT Cafe : 3.8 : North Indian, Continental, Pizza, Fast Food, Street Food, Desserts, Beverages, Shake : ₹1,600 for two :  Beltola, Guwahati
+Dakshin Udyavan : - : South Indian, Seafood, Biryani, Andhra : ₹550 for two :  Zoo Tiniali, Guwahati
+Breathe - Ristorante e Bar : 3.7 : Italian, Continental, Pasta, Fast Food, Beverages, Desserts, Cafe : ₹1,000 for two :  Christian Basti, Guwahati
+Bread & Circus : New : Chinese, Fast Food, Street Food : ₹200 for two :  Jalukbari, Guwahati
+Vanilla Grain - Bakery & Cafe : 4.1 : Bakery, Cafe, Continental, Italian, Fast Food, Beverages, Desserts : ₹900 for two :  Zoo Tiniali, Guwahati
+Khorikaa Restaurant : 4.1 : Assamese, Salad, Desserts : ₹700 for two :  Ulubari, Guwahati
+Café B-You - Hotel Radisson Blu : 4.0 : Cafe, Chinese, Assamese, Continental, Thai, South Indian, Italian, North Indian : ₹2,000 for two :  Hotel Radisson Blu, Guwahati, Guwahati
+KFC : 3.8 : Burger, Fast Food, Rolls : ₹450 for two :  Silpukhuri, Guwahati
+Seven - Vivanta By Taj - Guwahati : 4.0 : Continental, South Indian, Italian, Sandwich, Pizza, Assamese, Desserts, Beverages : ₹2,800 for two :  Vivanta By Taj, Khanapara, Guwahati
+Chaipho21 : 3.7 : Tea, Beverages, Sandwich, Chinese, Momos, Fast Food, Street Food : ₹250 for two :  Uzan Bazaar, Guwahati
+Attic-The Restro Cafe : 4.0 : North Indian, Chinese, Italian, Continental, Desserts, Beverages : ₹1,000 for two :  Christian Basti, Guwahati
+The Corner Cafe : 3.9 : Cafe, Continental, North Indian, Italian, Chinese, Biryani : ₹900 for two :  Uzan Bazaar, Guwahati
+Confucius : 3.8 : Chinese, Thai, Malaysian : ₹1,000 for two :  Six Mile, Guwahati
+The Hideout Cafe : 3.9 : Chinese, Sichuan, Rolls, Momos, Beverages, Continental, Grilled Chicken : ₹1,000 for two :  Narengi Tinali, Guwahati
+Burger Tree : 3.4 : Burger, Sandwich, Fast Food : ₹300 for two :  Zoo Tiniali, Guwahati
+The View Restaurant & Lounge : 4.5 : North Indian, Chinese, Continental, Sichuan, Asian, Desserts, Salad, Thai : ₹1,500 for two :  Zoo Tiniali, Guwahati
+SkyScape : 3.9 : Chinese, North Indian, Mughlai, Italian, Salad, Desserts : ₹1,100 for two :  Zoo Tiniali, Guwahati
+Tandooriwala Guwahati : 4.4 : North Indian, Chinese, Continental, Seafood, Biryani, Mughlai, Desserts, Beverages : ₹2,000 for two :  Christian Basti, Guwahati
+Oriental Bistro : 4.2 : Chinese, Thai, Sichuan, Bar Food : ₹1,500 for two :  Ulubari, Guwahati
+Hotel Nandan Trans Curry : 4.2 : North Indian, Continental, Chinese : ₹850 for two :  Hotel Nandan, Paltan Bazaar, Guwahati
+JB's : 4.1 : North Indian, Italian, South Indian, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Ganeshguri, Guwahati
+House Of Madira : 4.1 : Bar Food, Asian, North Indian, Continental, Italian, Pizza, Pasta, Fast Food : ₹1,500 for two :  Central Mall, Christian Basti, Guwahati
+Michinga : 4.5 : Assamese, Oriental, Naga : ₹1,000 for two :  Uzan Bazaar, Guwahati
+Unique 5 Cafe : New : North Indian, Fast Food, Chinese, Shake : ₹350 for two :  Zoo Tiniali, Guwahati
+Recipes Train Restaurant : 4.0 : North Indian, Chinese, Continental, Sushi, Kebab, Beverages : ₹1,000 for two :  Bhangagarh, Guwahati
+Ethnic Taste - A Fusion Cafè : 4.0 : Salad, Fast Food, Sandwich, Momos, Beverages : ₹300 for two :  Kala Pahar, Guwahati
+Paradise : 4.0 : Assamese, Chinese, Beverages : ₹800 for two :  Paradise Hotel, Silpukhuri, Guwahati
+Nyx Lounge & Deck : 4.3 : Chinese, North Indian, South Indian, Continental : ₹1,500 for two :  Khanapara, Guwahati
+AS 01 Cafe : 4.2 : North Indian, Chinese, Fast Food, Biryani, Salad, Momos, Tea, Beverages : ₹450 for two :  Chandmari, Guwahati
+Envo Cafe : 3.9 : Cafe, Fast Food, Desserts, Burger, Wraps, Pizza, Pasta, Coffee : ₹400 for two :  Six Mile, Guwahati
+Keiko Ultra Lounge : 4.1 : Thai, Japanese, Asian, Chinese, Continental : ₹900 for two :  Christian Basti, Guwahati
+Thukpa Authentic Tibetan Food : 3.2 : Chinese, Tibetan, Fast Food, Beverages : ₹500 for two :  Chandmari, Guwahati
+Quarters Pauva Bar : 4.3 : North Indian, Chinese, Fast Food, Italian, Oriental, Bar Food, Beverages : ₹1,600 for two :  Ganeshguri, Guwahati
+The Little Bistro : 4.4 : Chinese, Continental, Fast Food, Beverages : ₹450 for two :  Chandmari, Guwahati
+EXORO The Rooftop Pub : 3.8 : Asian : ₹1,500 for two :  Roodraksh Mall, Bhangagarh, Guwahati
+Bhartiya Jalpan : 3.3 : North Indian, Street Food, Fast Food, Desserts, Beverages : ₹500 for two :  Christian Basti, Guwahati
+Souk - The Mandi Place : 3.6 : Mandi, Kebab, Mughlai, North Indian : ₹1,600 for two :  Silpukhuri, Guwahati
+Jholoekiya : 3.3 : Chinese, Salad, Continental, North Indian, Fast Food, Desserts : ₹2,000 for two :  Beltola, Guwahati
+Ballygunge Cuisine : 4.4 : Bengali, Seafood, Desserts : ₹1,000 for two :  Ulubari, Guwahati
+One Stop Kitchen : 3.8 : Burger, Wraps, Fast Food, Asian : ₹500 for two :  Uzan Bazaar, Guwahati
+Quick Pick : 3.8 : Chinese, Momos, Sichuan, Kebab, Pizza, Burger, Beverages : ₹400 for two :  Silpukhuri, Guwahati
+Naga Kitchen : 4.2 : Naga, Assamese, Seafood, Chinese, Asian, Beverages : ₹1,000 for two :  Zoo Tiniali, Guwahati
+Hummus : 2.9 : Fast Food, Street Food, North Indian, Beverages : ₹450 for two :  Pan Bazaar, Guwahati
+Nagameez : 4.2 : Naga, Chinese, Momos : ₹600 for two :  Beltola, Guwahati
+Mughal Garden : 4.3 : Mughlai, North Indian, Biryani, Rolls : ₹400 for two :  Ulubari, Guwahati
+Uruka : 4.2 : Assamese, Healthy Food : ₹1,000 for two :  Silpukhuri, Guwahati
+Typically Indian Bar & Grill : 3.5 : Bar Food, Assamese, Continental, Beverages : ₹1,000 for two :  Central Mall, Christian Basti, Guwahati
+Taii Singpho : 4.6 : Naga, Assamese, Thai : ₹1,000 for two :  Chandmari, Guwahati
+Ascend Resto Lounge & Bar : - : Bar Food, Konkan, Asian, North Indian, Continental, Desserts : ₹1,000 for two :  Christian Basti, Guwahati
+Public Domain : 4.7 : North Indian, Sandwich, Burger, Fast Food, Chinese, Pizza, Desserts, Beverages : ₹500 for two :  Khanapara, Guwahati
+Aroma : Modern Dining : 3.9 : North Indian, Chinese, Italian, Assamese, Continental : ₹1,000 for two :  Khanapara, Guwahati
+The Guwahati Address : 3.9 : Assamese, Bengali, North Indian, Asian, Pasta, Continental : ₹1,200 for two :  Zoo Tiniali, Guwahati
+Raja Mircha By Bedanta : 4.5 : Assamese, North Indian, Naga : ₹400 for two :  Silpukhuri, Guwahati
+Chang Mai : 4.4 : Asian, Thai, Japanese, Korean : ₹1,000 for two :  Uzan Bazaar, Guwahati
+O Maa Go : 3.7 : Bengali, Desserts : ₹800 for two :  Ulubari, Guwahati
+Chennai Kitchen : 4.2 : South Indian, Street Food, Beverages : ₹400 for two :  Christian Basti, Guwahati
+Momo Ghar : 4.0 : Tibetan, Chinese, Momos : ₹350 for two :  Bharalumukh, Guwahati
+Red Hot Chilli Pepper : 4.4 : Asian, Beverages : ₹1,500 for two :  Ganeshguri, Guwahati
+The Great Kabab Factory - Hotel Radisson Blu : 4.1 : North Indian, Mughlai, Kebab, Biryani : ₹2,000 for two :  Hotel Radisson Blu, Guwahati, Guwahati
+Mast Biryani - Fresh Indian Kitchen : 4.4 : Biryani, Kebab, North Indian : ₹550 for two :  Zoo Tiniali, Guwahati
+Chittchore - Bikaner Gharana : 3.5 : Mithai, North Indian, Chinese, Sandwich, South Indian, Street Food, Bakery, Beverages : ₹400 for two :  Bhangagarh, Guwahati
+Canopy Kitchen : 3.8 : Chinese, Rolls, North Indian : ₹350 for two :  Six Mile, Guwahati
+Sachika Hotels : - : South Indian, North Indian, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,100 for two :  Amingaon, Guwahati
+Burger King : 4.1 : Burger, Fast Food, Beverages : ₹400 for two :  Ulubari, Guwahati
+Hotel Maa : 3.9 : Bengali, North Indian : ₹500 for two :  Kala Pahar, Guwahati
+Yaaro Ka Adda : - : North Indian, Chinese, Beverages : ₹250 for two :  Beltola, Guwahati
+KarenG The Ahom Kitchen : 4.1 : Assamese, Chinese, North Indian : ₹800 for two :  Beltola, Guwahati
+Fat Belly : 4.2 : Chinese, Momos, Tibetan : ₹700 for two :  Chandmari, Guwahati
+Verandah - A Book Cafe : 3.7 : Cafe, Coffee, Salad, Continental, Sandwich, Burger, Desserts, Beverages : ₹1,400 for two :  Zoo Tiniali, Guwahati
+Zen9 : 3.9 : North Indian, Chinese, Rolls, Momos, Pizza, Pasta, Seafood, Fast Food : ₹1,200 for two :  Christian Basti, Guwahati
+Gopal Maharaj : 4.3 : North Indian, Chinese, Beverages : ₹1,000 for two :  Fancy Bazaar, Guwahati
+Vaibhavam Sweets & Restaurant : 4.1 : North Indian, South Indian, Chinese, Continental, Mithai, Shake, Beverages : ₹800 for two :  Zoo Tiniali, Guwahati
+Uma Yetii - The Himalayan Kitchen : 3.7 : Nepalese, Tibetan, North Indian, Beverages : ₹1,000 for two :  Bhangagarh, Guwahati
+XS - The Place To Be : 4.3 : Continental, Chinese, Thai, Italian, North Indian : ₹2,400 for two :  Anil Plaza, Christian Basti, Guwahati
+The Momo Point : New : Momos, Chinese, Rolls : ₹300 for two :  Ahomgaon, Guwahati
+Kimchi - Eonni Chuka : 3.9 : Naga, Korean : ₹650 for two :  Six Mile, Guwahati
+Octave - Vivanta By Taj - Guwahati : 4.5 : Finger Food, Continental : ₹2,000 for two :  Vivanta By Taj, Khanapara, Guwahati
+Chinese Restaurant : 3.6 : Chinese, Street Food : ₹100 for two :  Jalukbari, Guwahati
+Cafe 23 : New : Chinese, Sichuan, North Indian, Rolls, Continental, Pasta : ₹400 for two :  Amingaon, Guwahati
+Agarwal Sweets & Snacks : New : Mithai, Street Food : ₹200 for two :  Khanapara, Guwahati
+Tehzeeb : 4.0 : North Indian, Mughlai : ₹1,000 for two :  Dispur, Guwahati
+The Socialite : 4.1 : North Indian, Continental : ₹1,200 for two :  Christian Basti, Guwahati
+Umami - Vivanta By Taj - Guwahati : 4.9 : Chinese, Japanese : ₹3,500 for two :  Vivanta By Taj, Khanapara, Guwahati
+Cafe Mocha Bean : 3.9 : Cafe, Chinese, Pasta, Momos, Fast Food, Street Food, Desserts, Beverages : ₹700 for two :  Jalukbari, Guwahati
+Beatrix : 3.6 : Chinese, North Indian, Assamese, Fast Food : ₹750 for two :  Uzan Bazaar, Guwahati
+Makhan Bhog : 4.0 : North Indian, South Indian, Chinese, Continental, Street Food, Desserts, Beverages : ₹400 for two :  Ulubari, Guwahati
+Berco's - If You Love Chinese : 3.5 : Chinese, Thai, Asian : ₹500 for two :  Dispur, Guwahati
+Naga Flavour : 4.3 : Naga, North Eastern, Beverages : ₹500 for two :  Beltola, Guwahati
+Tandoor - Dynasty : 4.2 : North Indian, Chinese, Kebab, Mughlai : ₹3,000 for two :  Dynasty, Fancy Bazaar, Guwahati
+Mynah’s : Bar & Bistro : 4.2 : Finger Food : ₹1,000 for two :  Khanapara, Guwahati
+China Town : 4.3 : Chinese, Seafood : ₹600 for two :  Zoo Tiniali, Guwahati
+Bamboo Heights : 3.9 : Assamese, North Indian, Chinese : ₹800 for two :  Khanapara, Guwahati
+Sura Vie : 4.1 : North Indian, Continental, Chinese, Mexican, Italian, Desserts : ₹2,500 for two :  The Hub, Bhangagarh, Guwahati
+Kalita Cafe : 4.3 : Korean, Oriental, Pizza, Pasta, Burger, Fast Food, Beverages : ₹1,200 for two :  Six Mile, Guwahati
+Gogoi Pork : 3.8 : Assamese, Chinese : ₹300 for two :  Dispur, Guwahati
+Niru's Dhaba : 4.0 : North Indian, Chinese, Mughlai, North Eastern, Sichuan : ₹500 for two :  Beltola, Guwahati
+NestAsia - Hotel Radisson Blu : 4.3 : Asian, Seafood, Chinese, Salad, Desserts, Beverages : ₹3,500 for two :  Hotel Radisson Blu, Guwahati, Guwahati
+Pizza Hut : 3.5 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Hatigaon, Guwahati
+Hot Pot Restaurant : 3.9 : Asian, Chinese, North Indian, Sichuan : ₹600 for two :  Uzan Bazaar, Guwahati
+McDonald's : 3.3 : Burger, Fast Food, Desserts, Coffee, Beverages, Cafe : ₹400 for two :  Ganeshguri, Guwahati
+The Yellow Chilli : 3.8 : Chinese, Continental, North Indian, Desserts, Beverages : ₹1,200 for two :  The Hub, Bhangagarh, Guwahati
+Kiranshree Sweets & Snacks : 4.1 : South Indian, North Indian, Chinese, Mithai, Street Food, Pizza, Beverages : ₹800 for two :  Bharalumukh, Guwahati
+Hard Rock Cafe : 4.1 : Fast Food, Desserts, Beverages : ₹1,500 for two :  Zoo Tiniali, Guwahati
+Culina : 4.6 : North Indian, Continental, Chinese, Mughlai, Pizza, Fast Food, Biryani, Bar Food : ₹1,100 for two :  Ulubari, Guwahati
+Greenwood Resort Temptation : - : Desserts : ₹150 for two :  Uzan Bazaar, Guwahati
+Chawlas 2 : 3.6 : North Indian, Mughlai, Kebab, Chinese, Fast Food : ₹1,000 for two :  Six Mile, Guwahati
+Barista Coffee : 3.2 : Cafe, Coffee, Desserts, Sandwich, Tea : ₹500 for two :  Uzan Bazaar, Guwahati
+Maska A Family Restaurant : 3.9 : North Indian, Chinese, Continental, Salad, Rolls : ₹600 for two :  Beltola, Guwahati
+Namma Chennai Dosa Express : 3.6 : South Indian : ₹300 for two :  Zoo Tiniali, Guwahati
+Lunar Bar & Restaurant : New : Bar Food, North Indian, Biryani, Italian, Chinese, Salad, Desserts, Beverages : ₹1,200 for two :  Ahomgaon, Guwahati
+Grill Republica : 3.3 : Chinese, North Indian, Fast Food : ₹250 for two :  Zoo Tiniali, Guwahati
+Shahi Darbar : 4.7 : North Indian, Chinese, Beverages : ₹800 for two :  Fancy Bazaar, Guwahati
+Loyans : 4.8 : Bakery, Fast Food, Shawarma, Rolls, Desserts : ₹400 for two :  Uzan Bazaar, Guwahati
+Borluit : 3.9 : Assamese, North Indian, Chinese, Biryani : ₹500 for two :  Amingaon, Guwahati
+Paaro Jodi Khaa : 3.6 : North Indian, Assamese, Chinese : ₹450 for two :  Six Mile, Guwahati
+Kasturi Restaurant : 4.1 : Bengali, Seafood, Desserts, Beverages : ₹1,000 for two :  Ulubari, Guwahati
+Boro's Kitchen : - : Chinese, Rolls, Biryani, Burger, Street Food, North Indian : ₹800 for two :  Ganeshguri, Guwahati
+Malt - Novotel Guwahati : 4.9 : French, Mediterranean : ₹1,400 for two :  Novotel Six Mile, Guwahati
+Hurum The Rustic Cafe : 3.9 : North Indian, Fast Food, North Eastern, Beverages, Burger, Sandwich, Momos : ₹400 for two :  Zoo Tiniali, Guwahati
+Munchies Bite's : - : North Indian, Chinese, Fast Food, Pizza, Burger, Sandwich, Street Food, Beverages : ₹400 for two :  Bharalumukh, Guwahati
+Maihang : 4.3 : Assamese, North Eastern : ₹300 for two :  Ganeshguri, Guwahati
+John Chang's Kitchen : 4.3 : Chinese, Momos, Sichuan, Street Food : ₹400 for two :  Christian Basti, Guwahati
+Raktim’s Kitchen : - : North Indian, Mughlai, Chinese, Rolls, Momos : ₹400 for two :  Bharalumukh, Guwahati
+Mezban Biryani : - : Biryani, Momos : ₹350 for two :  Silpukhuri, Guwahati
+Cafe GHY 35 : 3.7 : Chinese, North Indian, Pizza, Pasta, Burger, Fast Food, Rolls, Desserts : ₹800 for two :  Kala Pahar, Guwahati
+The Grill Avenue : 4.1 : Biryani, North Indian, Chinese, Continental, Fast Food : ₹900 for two :  Bhangagarh, Guwahati
+Cafe City Streets : 3.8 : Pizza, Chinese, Fast Food, Shake, Street Food, Momos, Rolls, Beverages : ₹400 for two :  Chandmari, Guwahati
+Rabha Hotel : - : Assamese, North Indian, Mughlai : ₹350 for two :  Ganeshguri, Guwahati
+Shawarma Ji Ka Beta : New : Shawarma, Wraps : ₹300 for two :  Christian Basti, Guwahati
+Epic Bites : New : Fast Food, Sandwich, Street Food, Momos : ₹300 for two :  Zoo Tiniali, Guwahati
+Eat Fit Cooking : 3.7 : North Indian, Fast Food, Sandwich, Rolls, Chinese, Mughlai, Street Food : ₹300 for two :  Ulubari, Guwahati
+Spice 'n' Rice : New : North Indian, Fast Food, Rolls : ₹200 for two :  Maligaon, Guwahati
+The Bean Journal : 4.0 : Cafe, Coffee, Chinese, Mediterranean, Asian, Italian, Desserts, Beverages : ₹600 for two :  Uzan Bazaar, Guwahati
+Santa Fantasea : 4.2 : Assamese, Seafood, Chinese, Asian : ₹1,000 for two :  Zoo Tiniali, Guwahati
+Souka : 4.0 : Assamese, Chinese, North Indian, Sichuan, Momos, Mughlai : ₹1,000 for two :  Beltola, Guwahati
+Maihang : 3.9 : Fast Food, Chinese, Momos : ₹1,000 for two :  Six Mile, Guwahati
+7 Heaven's : 3.9 : North Indian, Chinese, Street Food, Fast Food, Beverages : ₹450 for two :  Maligaon, Guwahati
+Dine Way Platz : 3.9 : North Indian, Chinese, Mongolian, Mughlai, Continental, Kebab, Salad, Desserts : ₹1,200 for two :  Khanapara, Guwahati
+Bagan Patio Cafe : - : North Indian, Chinese : ₹1,500 for two :  Beltola, Guwahati
+Kitchen Hub : 3.9 : Assamese, North Indian, Mughlai, Biryani, Chinese, Sichuan, Rolls : ₹1,000 for two :  Uzan Bazaar, Guwahati
+Centre Point Dhaba : 4.4 : North Indian, Mughlai, Chinese : ₹300 for two :  Amingaon, Guwahati
+Olio : 4.2 : Chinese, European, North Indian, Greek, Mediterranean, Continental : ₹700 for two :  Dispur, Guwahati
+Cafe Luna : 3.7 : Chinese, Momos, Asian : ₹500 for two :  Zoo Tiniali, Guwahati
+The Table : 3.3 : North Indian, Chinese, Continental, Kebab : ₹1,000 for two :  Christian Basti, Guwahati
+Piquant : 2.6 : Cafe, Coffee, European, Continental, Salad, Bakery, Desserts, Beverages : ₹1,100 for two :  Ganeshguri, Guwahati
+Annapurnam : 3.9 : South Indian, North Indian, Fast Food, Street Food, Beverages : ₹1,000 for two :  Christian Basti, Guwahati
+Retro Town : 3.9 : North Indian, Chinese, Mughlai, Italian, Rolls, Fast Food, Desserts, Beverages : ₹1,200 for two :  Khanapara, Guwahati
+Karim's Restaurant Since 1913 : - : North Indian, Mughlai, Biryani, Rolls, Kebab : ₹1,200 for two :  Six Mile, Guwahati
+Taste Of Paradise : 3.9 : South Indian, Fast Food, Chinese, Biryani : ₹250 for two :  Borjhar, Guwahati
+Ikigai : - : Asian, Desserts : ₹1,500 for two :  Christian Basti, Guwahati
+Soystix : - : Asian, Seafood, Chinese, Japanese, Thai, Salad, Desserts, Beverages : ₹1,550 for two :  Uzan Bazaar, Guwahati
+Chaska : 4.3 : North Indian, Chinese, Continental : ₹800 for two :  Pragati Manor, Christian Basti,, Guwahati
+Kake Di Hatti : 3.6 : North Indian, Chinese, Shake, Desserts, Beverages : ₹1,000 for two :  Bharalumukh, Guwahati
+Ambee's Restaurant : 3.8 : North Indian, Chinese, Assamese, Fast Food, Rolls, Street Food : ₹400 for two :  Dispur, Guwahati
+Bulls & Beers : 4.2 : North Indian, Finger Food, Seafood, Fast Food, Desserts : ₹900 for two :  Bhangagarh, Guwahati
+The Dhaba : 4.1 : North Indian, Chinese, Mughlai, Desserts : ₹500 for two :  Silpukhuri, Guwahati
+Sagar Ratna : 4.2 : South Indian, North Indian, Chinese, Sichuan, Desserts : ₹1,000 for two :  Paltan Bazaar, Guwahati
+D' Momo Club : 3.6 : Momos, Chinese, Rolls : ₹200 for two :  Jalukbari, Guwahati
+Madina Hotel : 3.5 : Biryani, Mughlai : ₹200 for two :  Hatigaon, Guwahati
+Food Baby : 3.6 : North Indian, Chinese, Fast Food, Sichuan : ₹500 for two :  Hengerabari, Guwahati
+Saffron Spice : New : North Indian, Continental, Chinese, Italian, Biryani, Salad, Desserts, Beverages : ₹1,100 for two :  Ahomgaon, Guwahati
+Waffle Stories : 3.8 : Desserts : ₹200 for two :  Christian Basti, Guwahati
+Reboti Chat House : 4.0 : Fast Food, Chinese : ₹200 for two :  Pan Bazaar, Guwahati
+Ki Mozzaa : 3.7 : Fast Food, Momos, North Indian, Chinese, Beverages : ₹250 for two :  Borjhar, Guwahati
+Ahaar Restaurant : 3.2 : Chinese, North Indian, Sichuan : ₹250 for two :  Maligaon, Guwahati
+Hotel Kamakhya Grand : 3.0 : North Indian, South Indian, Chinese, Street Food : ₹450 for two :  Borjhar, Guwahati
+Subway : 3.7 : Healthy Food, Fast Food, Sandwich, Salad, Beverages, Wraps : ₹400 for two :  Christian Basti, Guwahati
+Alohi Restaurant : 4.0 : Assamese, Chinese, Fast Food : ₹800 for two :  Hatigaon, Guwahati
+Oriental Restaurant : 3.9 : Momos, Asian, Chinese, Sichuan : ₹500 for two :  Narengi Tinali, Guwahati
+Cloud 7 : 4.4 : Finger Food : ₹500 for two :  Christian Basti, Guwahati
+Buddy's Kitchen : 3.5 : Chinese, Momos, Rolls, Fast Food, Sichuan : ₹200 for two :  Silpukhuri, Guwahati
+Food Exx : 3.5 : Biryani, North Indian, Fast Food : ₹600 for two :  Bhangagarh, Guwahati
+Neexotica Restaurant : 3.4 : North Indian, Chinese, Continental : ₹500 for two :  Borjhar, Guwahati
+Saffron : 3.7 : Assamese, North Indian, Chinese : ₹300 for two :  Amingaon, Guwahati
+HRB Kharoli : - : Assamese : ₹300 for two :  Jalukbari, Guwahati
+Reign - Bar & Lounge - Hotel Radisson Blu : 4.5 : Continental, Chinese, North Indian : ₹3,500 for two :  Hotel Radisson Blu, Guwahati, Guwahati
+Starbucks Coffee : 3.9 : Cafe, Beverages, Desserts : ₹600 for two :  Christian Basti, Guwahati
+Cafe Hendrix : 4.3 : Continental, Chinese, North Indian, Biryani, Kebab : ₹1,200 for two :  Six Mile, Guwahati
+Mosaic Bar And Restaurant : 3.9 : Chinese, North Indian, Continental, Assamese : ₹1,700 for two :  Dispur, Guwahati
+The Dispur Dhaba : 3.5 : North Indian, Chinese, Biryani, Fast Food : ₹600 for two :  Ganeshguri, Guwahati
+Food.com : 2.4 : North Indian, South Indian, Chinese, Beverages, Ice Cream, Desserts, Rolls : ₹450 for two :  Six Mile, Guwahati
+Café Shillong - TGA : 3.9 : Cafe, North Eastern, Asian, Continental, Fast Food, Beverages : ₹1,000 for two :  Zoo Tiniali, Guwahati
+Yaara - Multi Cuisine Restaurant : - : North Indian, Chinese, Momos, Pasta, Rolls : ₹1,000 for two :  Christian Basti, Guwahati
+TribeTown Kitchen : 4.0 : Naga, Assamese, North Eastern, Seafood : ₹700 for two :  Dispur, Guwahati
+11 July Fine Dine Restaurant : 3.9 : North Indian, Chinese, Pasta, Shake, Desserts, Beverages : ₹900 for two :  Bharalumukh, Guwahati
+Twilight - A Riverside Resort : 3.9 : North Indian, Chinese, Street Food, Desserts : ₹700 for two :  Narengi Tinali, Guwahati
+Scotty's : 3.9 : Fast Food : ₹550 for two :  Kala Pahar, Guwahati
+Kolkata Arsalan Biryani : - : Biryani, Rolls : ₹300 for two :  Chandmari, Guwahati
+Vatika - The Kitchen Garden : 3.5 : Pizza, Fast Food, Chinese, Biryani, North Indian : ₹750 for two :  Maligaon, Guwahati
+Barbeque Grill By Atithi : 4.1 : BBQ, North Indian, Salad, Desserts : ₹1,300 for two :  Paltan Bazaar, Guwahati
+Bang'wi! Pan Asian Bistro : - : Asian, Chinese, Japanese, Fast Food, Rolls, Juices, Beverages : ₹1,000 for two :  Borjhar, Guwahati
+Cafe 7 : - : North Indian, Chinese, Rolls : ₹450 for two :  Six Mile, Guwahati
+Mughal Chacha : 3.9 : Mughlai, North Indian, Kebab, Rolls : ₹400 for two :  Christian Basti, Guwahati
+Quick Pick : 3.9 : Chinese, Momos, Sichuan : ₹500 for two :  Uzan Bazaar, Guwahati
+47 Grey House Cafe : - : Assamese, Chinese : ₹300 for two :  Uzan Bazaar, Guwahati
+Nehars - The Mughlai Darbar : 4.0 : Mughlai, North Indian, Biryani : ₹1,000 for two :  Bhangagarh, Guwahati
+Boba Tree : - : Tea, Sandwich, Fast Food : ₹700 for two :  Central Mall, Christian Basti, Guwahati
+Patty Oh! : 4.1 : Burger, Sandwich, Fast Food, Italian, Pasta, Momos, Rolls, Beverages : ₹1,000 for two :  Uzan Bazaar, Guwahati
+Kolkata Arsalan Biryani : - : Biryani, Rolls : ₹300 for two :  Kala Pahar, Guwahati
+Giani : - : Ice Cream, Desserts, Beverages : ₹300 for two :  Ganeshguri, Guwahati
+Gourmet Kitchen (Hotel Bharalu Residency) : 3.6 : North Indian, Chinese, Kebab, Continental : ₹700 for two :  Bhangagarh, Guwahati
+Drop City Night Lounge : - : North Indian, Chinese, Bar Food, Fast Food : ₹1,000 for two :  Roodraksh Mall, Bhangagarh, Guwahati
+Flames : 3.9 : Chinese, North Indian : ₹350 for two :  Kala Pahar, Guwahati
+Keventers - Milkshakes & Desserts : 3.7 : Beverages, Shake : ₹400 for two :  Ganeshguri, Guwahati
+Michinga : 3.3 : Chinese, Naga, Assamese, Beverages, Sichuan : ₹1,000 for two :  Six Mile, Guwahati
+Desh Pardes - By Shahi Darbar : 3.9 : North Indian, South Indian, Chinese, Sandwich : ₹400 for two :  Fancy Bazaar, Guwahati
+Centre Point Restaurant : 4.3 : Biryani, North Indian, Chinese, Seafood, BBQ : ₹800 for two :  Amingaon, Guwahati
+16 Anna Bengali Restaurant : 3.5 : Bengali : ₹400 for two :  Ulubari, Guwahati
+The Palms - Dynasty : 4.2 : North Indian, Continental, Chinese, Fast Food : ₹1,800 for two :  Dynasty, Fancy Bazaar, Guwahati
+King Chilly - Hotel Gateway Grandeur : 3.9 : Assamese, Seafood, BBQ : ₹1,000 for two :  Hotel Gateway Grandeur, Christian Basti, Guwahati
+The Echo : - : North Indian, Chinese : ₹1,000 for two :  Beltola, Guwahati
+The Lounge - Dynasty : 3.9 : Chinese, Continental : ₹2,000 for two :  Dynasty, Fancy Bazaar, Guwahati
+BrewBakes : 4.6 : Cafe, Continental, Chinese, Italian, Fast Food, Desserts, Beverages : ₹1,000 for two :  Six Mile, Guwahati
+G Adda : 4.4 : Chinese, North Indian, Continental, Pasta, Beverages : ₹1,100 for two :  Christian Basti, Guwahati
+Khushboo Restaurant : 4.0 : South Indian : ₹250 for two :  Fancy Bazaar, Guwahati
+Xofu : - : Cafe, Coffee, North Indian, Chinese, Pizza, Fast Food, Shake, Beverages : ₹500 for two :  Narengi Tinali, Guwahati
+Dunkin Oza : 4.1 : Finger Food, North Indian, Pizza, Momos, Pasta, Kebab, Seafood, Beverages : ₹2,000 for two :  Six Mile, Guwahati
+BY The Way : 4.3 : Chinese, Italian, Fast Food, Sichuan, Pizza, Salad : ₹500 for two :  Zoo Tiniali, Guwahati
+The Biryani Kingdum : - : Biryani, North Indian : ₹500 for two :  Zoo Tiniali, Guwahati
+Kolkata Chicken Dum Biryani : - : Biryani : ₹250 for two :  Khanapara, Guwahati
+Prabhuji Pure Food : 3.7 : Mithai, South Indian, Sandwich, Beverages, Chinese, Street Food, Gujarati : ₹300 for two :  Zoo Tiniali, Guwahati
+Gossip Sky Restaurant : 3.8 : Chinese, North Indian, Fast Food, Beverages, Salad, Shake : ₹600 for two :  Bhangagarh, Guwahati
+Hungry Hope : - : North Indian, Chinese : ₹200 for two :  Hatigaon, Guwahati
+Royal Punjabi Dhaba : - : North Indian, Mughlai, Chinese, Biryani, Rolls, Momos : ₹600 for two :  Borjhar, Guwahati
+Domino's Pizza : 4.1 : Pizza, Italian, Desserts, Beverages : ₹400 for two :  Maligaon, Guwahati
+Chawla's : 4.1 : North Indian, Chinese : ₹700 for two :  Christian Basti, Guwahati
+Nagameez : 4.2 : Naga, Chinese : ₹800 for two :  Silpukhuri, Guwahati
+Cafe Coffee Day : - : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹750 for two :  Amingaon, Guwahati
+Foodiegram : New : North Indian, Chinese, Pizza, Burger, Sandwich, Pasta, Fast Food, Momos : ₹400 for two :  Bhangagarh, Guwahati
+The Food Factory : New : North Indian, Chinese, Beverages : ₹450 for two :  Chandmari, Guwahati
+The Fusion Bar : - : Finger Food : ₹1,500 for two :  Khanapara, Guwahati
+Olmak : 3.7 : North Indian, Fast Food, Middle Eastern, Arabian, Mexican, Beverages : ₹500 for two :  Beltola, Guwahati
+Noodle Kitchen : 4.2 : Chinese, Fast Food, Momos : ₹300 for two :  Christian Basti, Guwahati
+Rice Tales : 3.8 : Assamese, Chinese, Seafood, Salad : ₹1,200 for two :  Narengi Tinali, Guwahati
+Heritage Khorikaa : 4.1 : Assamese, Desserts : ₹800 for two :  Silpukhuri, Guwahati
+7th Heaven : 3.7 : Bakery, Desserts : ₹300 for two :  Dispur, Guwahati
+Zarwo The Bodo Kitchen : 3.9 : Assamese, Fast Food, Beverages : ₹600 for two :  Chandmari, Guwahati
+34 Chowringhee Lane : 3.8 : Rolls, Momos : ₹250 for two :  Uzan Bazaar, Guwahati
+Skyhy Rooftop Restaurant : New : Continental : ₹1,000 for two :  Six Mile, Guwahati
+Adora Cafe : - : Chinese, Rolls : ₹250 for two :  Ulubari, Guwahati
+Wan Li : 4.1 : Chinese, Seafood : ₹800 for two :  Hengerabari, Guwahati
+The Tea Story : 3.7 : Fast Food, Chinese, Momos, Burger, Desserts : ₹500 for two :  Uzan Bazaar, Guwahati
+Florentine - Hotel Gateway Grandeur : 4.1 : North Indian, Chinese, Continental, Kebab, Desserts, Beverages : ₹1,000 for two :  Hotel Gateway Grandeur, Christian Basti, Guwahati
+New Citi Dhaba : 3.7 : North Indian, Biryani, Chinese : ₹700 for two :  Bhangagarh, Guwahati
+The Breadsmith : 3.8 : Bakery, Fast Food, Street Food, Momos, Beverages : ₹500 for two :  Dispur, Guwahati
+Chai Piyo : 2.9 : North Indian, Fast Food, Beverages, Sichuan : ₹550 for two :  Christian Basti, Guwahati
+Kolkata Arsalan Biryani : New : Biryani, Rolls : ₹400 for two :  Beltola, Guwahati
+Xtreme Sports Bar And Grill : 4.5 : Beverages, Continental, Chinese, Japanese : ₹1,200 for two :  Christian Basti, Guwahati
+Mama Yumm : - : Chinese, Fast Food : ₹500 for two :  Six Mile, Guwahati
+Momomia-Love In Every Bite : - : Chinese, Fast Food, Street Food, Momos, Sandwich, Burger, Rolls, Beverages : ₹400 for two :  Borjhar, Guwahati
+Ashok Sweets : 4.8 : Mithai, Desserts : ₹500 for two :  Ulubari, Guwahati
+Niri's Park View Restaurant : - : North Indian, Assamese, Mughlai, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,700 for two :  Pan Bazaar, Guwahati
+Kharkaa Bar And Restaurant : New : Bar Food, North Indian, Chinese, Momos, Kebab : ₹1,100 for two :  Beltola, Guwahati
+Yo! Dimsum : - : Chinese, Momos, Rolls, Burger, Shake, Beverages : ₹350 for two :  Beltola, Guwahati
+Albaik : 3.1 : Arabian, Fast Food, Beverages : ₹500 for two :  Christian Basti, Guwahati
+Tip Top Food And Juice : New : Chinese, Pizza, Juices : ₹450 for two :  Ulubari, Guwahati
+Taniya Fast Food : - : Fast Food, Chinese, Street Food : ₹200 for two :  Sonapur, Guwahati
+Patisserie Operaa : 4.1 : Bakery, Desserts, Beverages, Fast Food, Coffee, Shake : ₹350 for two :  Ulubari, Guwahati
+Black Art Coffee : 4.2 : Cafe, Fast Food, Beverages, Sandwich, Mexican, Burger : ₹500 for two :  Bharalumukh, Guwahati
+Cloud 7 Sheesha Lounge : 3.8 : Chinese, North Indian, Continental : ₹400 for two :  Bhangagarh, Guwahati
+Virasat : 4.1 : North Indian, Chinese, Fast Food, Desserts : ₹1,000 for two :  Ulubari, Guwahati
+Swad Ghar A Family Restaurant : - : Assamese, North Indian, Mughlai, Chinese, Rolls : ₹550 for two :  Ganeshguri, Guwahati
+Bite & Beans 2D cafe : - : Cafe, Coffee, Korean, Japanese : ₹800 for two :  Chandmari, Guwahati
+Karak Tea : New : Tea, Burger, Fast Food, Street Food : ₹200 for two :  Uzan Bazaar, Guwahati
+Addicted : 3.9 : Cafe, Fast Food, Desserts, Beverages : ₹450 for two :  Zoo Tiniali, Guwahati
+Nouva Chu : 4.2 : Naga : ₹250 for two :  Narengi Tinali, Guwahati
+Eats And Beats : 3.0 : Fast Food, Chinese, North Indian, Seafood, Momos, Biryani, Assamese : ₹400 for two :  Beltola, Guwahati
+Davat Restaurant : 3.7 : North Indian, Chinese, Fast Food, Beverages, Shake, Sichuan : ₹800 for two :  Hotel Prag Continental, Pan Bazaar, Guwahati
+House Of Spices : 3.9 : North Indian, Chinese : ₹800 for two :  Zoo Tiniali, Guwahati
+The Table Talk Cafe : 3.8 : Cafe, Chinese, Burger, Pizza, Asian, Continental, Beverages : ₹800 for two :  Uzan Bazaar, Guwahati
+Freza's Bakery & Confectionery : 3.0 : Bakery, Desserts, Fast Food, Continental : ₹300 for two :  Hatigaon, Guwahati
+Broncco : 3.9 : Continental, Chinese, North Indian : ₹800 for two :  Ulubari, Guwahati
+Spectrum Bar : 4.5 : Seafood, Thai, European, Beverages : ₹1,500 for two :  Six Mile, Guwahati
+Oriental Restaurant & Juice : 3.1 : Burger, American, Fast Food, Beverages : ₹400 for two :  Narengi Tinali, Guwahati
+Soul Craft Cafe : 4.5 : Chinese, Fast Food, Sichuan : ₹350 for two :  Uzan Bazaar, Guwahati
+Ok Chicken : - : North Indian : ₹300 for two :  Ulubari, Guwahati
+Hangout : 4.1 : Cafe, Chinese, Fast Food, Beverages, Shake, Sichuan : ₹400 for two :  Uzan Bazaar, Guwahati
+Cafe Craft : 3.9 : Sandwich, Pizza, Pasta, Chinese, Beverages : ₹600 for two :  Silpukhuri, Guwahati
+The Pork Company : 3.9 : North Eastern, Assamese, Momos, Chinese, Sichuan : ₹1,000 for two :  Zoo Tiniali, Guwahati
+Jo Sag : 3.9 : Assamese, North Indian, Chinese, Beverages : ₹550 for two :  Khanapara, Guwahati
+The Kitchen : 3.5 : North Indian, Chinese, Rolls : ₹300 for two :  Beltola, Guwahati
+Koupat : 3.0 : Assamese : ₹450 for two :  Christian Basti, Guwahati
+De Kav : - : North Indian, Mughlai, Biryani : ₹1,200 for two :  Christian Basti, Guwahati
+Maa Kali Hotel : 3.8 : North Indian, Bengali : ₹250 for two :  Paltan Bazaar, Guwahati
+Tibet Kitchen : 4.1 : Chinese, Tibetan, Shake, Sichuan : ₹500 for two :  Paltan Bazaar, Guwahati
+La Pino'z Pizza : 3.4 : Pizza, Pasta, Italian, Fast Food : ₹500 for two :  Six Mile, Guwahati
+The Dhaba : 3.9 : North Indian, Chinese, Continental, Desserts, Beverages : ₹600 for two :  Zoo Tiniali, Guwahati
+Whistling Woods : 4.0 : North Indian, Chinese, Fast Food : ₹1,000 for two :  Maligaon, Guwahati
+Hemalata Dhaba : 3.5 : Chinese, Mughlai : ₹1,000 for two :  Maligaon, Guwahati
+Feed Me Cafe : - : North Indian, Chinese, Street Food, Biryani, Mughlai, Seafood, Shake : ₹400 for two :  Kahilipara, Guwahati
+The Cheese Wagon : 3.9 : American, Chinese : ₹200 for two :  Six Mile, Guwahati
+The Taipo Center : - : Tibetan, Chinese : ₹300 for two :  Six Mile, Guwahati
+Legacy : 4.0 : Thai, Chinese, North Indian, South Indian, Continental : ₹1,000 for two :  Khanapara, Guwahati
+Zaika Muradabadi & Hyderabadi : 3.7 : Biryani, North Indian : ₹550 for two :  Hatigaon, Guwahati
+Buddy's Only Pork And Chicken : 4.3 : North Indian, Chinese, Street Food : ₹300 for two :  Six Mile, Guwahati
+Sunflower Restaurant : 3.4 : North Indian, Chinese, Seafood, Ice Cream, Continental : ₹900 for two :  Pan Bazaar, Guwahati
+Yellow 29 Food Boutique : 3.9 : Asian, Chinese, Fast Food, Sichuan : ₹500 for two :  Chandmari, Guwahati
+Bhut Jolokia : 3.5 : Assamese : ₹600 for two :  Zoo Tiniali, Guwahati
+Chinese Hut : 3.7 : Momos, Fast Food, Seafood, North Indian : ₹450 for two :  Ulubari, Guwahati
+PK Da Dhaba : 4.0 : Chinese, North Indian, Assamese, Mughlai, Biryani, Fast Food, Street Food, Seafood : ₹600 for two :  Dispur, Guwahati
+Rolls Mania : 4.0 : Rolls, Fast Food, Street Food : ₹450 for two :  Bhangagarh, Guwahati
+The Momo Hut : 4.0 : Chinese, North Indian, Fast Food : ₹400 for two :  Beltola, Guwahati
+Café Wings : 3.5 : Cafe, Sandwich, Fast Food, North Indian : ₹700 for two :  Six Mile, Guwahati
+RJ Bistro : 4.0 : Chinese, North Indian, Rolls : ₹350 for two :  Zoo Tiniali, Guwahati
+Yaaro Ka Adda : 3.5 : Fast Food, Chinese, Momos : ₹300 for two :  Bhangagarh, Guwahati
+Night Food Service : 3.8 : North Indian, Chinese, Rolls : ₹1,000 for two :  Ganeshguri, Guwahati
+Banzaara - Hotel Rajmahal : 3.9 : Chinese, North Indian : ₹800 for two :  Hotel Rajmahal, Paltan Bazaar, Guwahati
+Swad Sweets & Snacks : 3.7 : Mithai, Street Food, North Indian, South Indian, Chinese, Beverages : ₹500 for two :  Paltan Bazaar, Guwahati
+Kerala Bhavan Family Restaurant : 4.0 : South Indian, Fast Food, Mughlai : ₹350 for two :  Paltan Bazaar, Guwahati
+Green Pepper's : 4.3 : Chinese, Fast Food, Pizza, Pasta : ₹700 for two :  Beltola, Guwahati
+Red Pizza : 3.9 : North Indian, Fast Food, Pizza, Burger : ₹400 for two :  Silpukhuri, Guwahati
+Naga Dish : 3.6 : Naga : ₹600 for two :  Christian Basti, Guwahati
+Jora Ilish : New : Seafood, Bengali : ₹1,000 for two :  Maligaon, Guwahati
+Saigon Kitchen : 3.8 : Vietnamese, Burger, Beverages, Rolls, Salad, Desserts : ₹500 for two :  Uzan Bazaar, Guwahati
+Sema Naga Kitchen : 3.6 : North Eastern, North Indian : ₹250 for two :  Beltola, Guwahati
+Petoo : 4.0 : Momos, Rolls, North Indian, Sandwich, Fast Food, Street Food : ₹300 for two :  Chandmari, Guwahati
+Pork Kitchen : - : Assamese, Chinese : ₹300 for two :  Khanapara, Guwahati
+Roots : 3.8 : Continental, North Indian, Asian, Mughlai : ₹1,200 for two :  Six Mile, Guwahati
+Bajwi Hotel : - : Assamese, North Indian : ₹400 for two :  Ahomgaon, Guwahati
+Desi Chulha : - : Fast Food, Chinese, North Indian, Burger, Rolls : ₹400 for two :  Ulubari, Guwahati
+The Naga Kitchen : 3.6 : Naga, Chinese : ₹500 for two :  Borjhar, Guwahati
+Spring Valley : 4.3 : Bakery, Desserts, Street Food, Beverages : ₹200 for two :  Chandmari, Guwahati
+Athmangala : 4.3 : Assamese, North Indian, Beverages : ₹500 for two :  Narengi Tinali, Guwahati
+Baskin Robbins - Ice Cream Desserts : 4.2 : Ice Cream, Desserts, Bakery, Shake : ₹400 for two :  Uzan Bazaar, Guwahati
+Cafe Tenzo : 3.9 : Chinese, North Indian, Fast Food, Continental, Pasta, Momos, Sandwich, Burger : ₹200 for two :  Kahilipara, Guwahati
+Baker's Special By Repose : 3.4 : Bakery, Fast Food, Sandwich, Desserts, Beverages : ₹300 for two :  Maligaon, Guwahati
+Club 99 : 3.5 : Chinese, Fast Food, Beverages : ₹500 for two :  Uzan Bazaar, Guwahati
+Gio Pizza : 3.4 : Pizza, Fast Food : ₹400 for two :  Jalukbari, Guwahati
+Naga Food Court : 4.2 : North Eastern, Street Food : ₹250 for two :  Fancy Bazaar, Guwahati
+South House : 4.0 : South Indian, Street Food, Fast Food : ₹250 for two :  Beltola, Guwahati
+Pure Desi : 4.0 : South Indian, North Indian, Street Food, Chinese : ₹350 for two :  Uzan Bazaar, Guwahati
+Kiranshree Sweets : 3.2 : Chinese, North Indian, South Indian, Street Food, Fast Food, Mithai, Beverages : ₹400 for two :  Kala Pahar, Guwahati
+Recipes : 4.2 : Chinese, North Indian, Mughlai, Sichuan : ₹1,100 for two :  Bhangagarh, Guwahati
+Utopia Sky Lounge & Restaurant : 3.2 : North Indian, Chinese : ₹1,000 for two :  Beltola, Guwahati
+J 14 : 4.0 : Rolls, Fast Food, North Indian, Momos : ₹500 for two :  Bhangagarh, Guwahati
+The Chicken Company : 3.9 : Fast Food, Pasta, Pizza, Sandwich, North Indian, Beverages : ₹250 for two :  Ulubari, Guwahati
+Chufang The Kitchen : 3.9 : Chinese, North Indian, Assamese, Momos, Rolls, Burger, Salad : ₹350 for two :  Zoo Tiniali, Guwahati
+37 Street Affair : 4.1 : Fast Food, Chinese, Burger, North Indian : ₹700 for two :  Khanapara, Guwahati
+Foo Yung - Hotel Lily : 3.9 : Chinese, Thai, Japanese : ₹900 for two :  Khanapara, Guwahati
+Pot House Cafe : 3.9 : Chinese, Fast Food, Beverages, Sichuan : ₹400 for two :  Silpukhuri, Guwahati
+The Kaffeine Klub : 4.1 : North Indian, Continental, Chinese, Italian, Seafood, Fast Food, Desserts, Beverages : ₹1,000 for two :  Beltola, Guwahati
+Kitchen Bar & Restaurant : 4.1 : North Indian, Chinese : ₹1,200 for two :  Ganeshguri, Guwahati
+Cafe Choco Craze : 4.5 : Fast Food, Desserts, Beverages, Pizza, Burger, Wraps, Pasta, Shake : ₹600 for two :  Uzan Bazaar, Guwahati
+Suresh Dhaba : 3.8 : North Indian : ₹200 for two :  Beltola, Guwahati
+Laxmi Cabin : 4.4 : Mithai, Desserts, Street Food : ₹150 for two :  Fancy Bazaar, Guwahati
+Eagle Arden : 3.1 : North Indian, Chinese, Fast Food : ₹350 for two :  Zoo Tiniali, Guwahati
+Food Central : 3.8 : Fast Food, Chinese, Momos : ₹300 for two :  Bhangagarh, Guwahati
+Kolkata Roll : 3.9 : Rolls, Fast Food, Burger, Momos : ₹200 for two :  Beltola, Guwahati
+Gandarbh : 3.3 : North Indian, Chinese, Street Food : ₹550 for two :  Dispur, Guwahati
+New Gobinda Dhaba : 4.6 : North Indian, Biryani, Rolls : ₹250 for two :  Amingaon, Guwahati
+De'licious - Hotel Royale De Casa : 4.0 : North Indian, Continental, Chinese, Seafood, Shake, Sichuan, Biryani, Kebab : ₹2,000 for two :  Hotel Royal De Casa, Beltola, Guwahati
+Darjeeling Momo : - : Momos, Pasta, Rolls : ₹500 for two :  Paltan Bazaar, Guwahati
+Al Halal Dining : 3.7 : North Indian, Biryani, Mughlai, Desserts, Beverages : ₹800 for two :  Hatigaon, Guwahati
+Royal Naga Restaurant : 4.0 : Naga, Chinese : ₹300 for two :  Paltan Bazaar, Guwahati
+Food Villa : 3.3 : Fast Food, Chinese, Beverages, Momos, North Indian : ₹500 for two :  Food Villa, Pan Bazaar, Guwahati
+Atmosphere - Kiranshree Portico : 4.1 : Finger Food : ₹1,500 for two :  Kiranshree Portico, Paltan Bazaar, Guwahati
+Lajeez : 3.4 : North Indian, Chinese, Rolls, Sichuan : ₹400 for two :  Narengi Tinali, Guwahati
+Naga Hut : 4.1 : Naga : ₹350 for two :  Dispur, Guwahati
+David's Cafe & Restaurant : 3.9 : Continental, Pasta, Burger, Oriental, Salad, Sandwich, Fast Food, Hot dogs : ₹400 for two :  Uzan Bazaar, Guwahati
+Punjab Cabin : 3.6 : North Indian : ₹300 for two :  Chandmari, Guwahati
+The Greenhouse Cafe : 3.4 : Chinese, Continental, North Indian, Beverages : ₹450 for two :  Six Mile, Guwahati
+Burgs & Fries : 3.9 : Fast Food, Beverages, Burger, Street Food : ₹300 for two :  Jalukbari, Guwahati
+Pudina Pure Veg Restaurant : 3.8 : North Indian, South Indian : ₹300 for two :  Paltan Bazaar, Guwahati
+Smons Cafe : 3.5 : Chinese, Fast Food : ₹300 for two :  Christian Basti, Guwahati
+Mughal Darbar : 3.9 : Biryani, Mughlai : ₹300 for two :  Fancy Bazaar, Guwahati
+Rasa - The Flavour Of India : 3.5 : Mithai, North Indian, Street Food, South Indian, Chinese, Bakery, Beverages : ₹500 for two :  Ulubari, Guwahati
+Bapi Chat House : 3.8 : Biryani, Street Food, North Indian : ₹300 for two :  Maligaon, Guwahati
+Highlander's Shawarma : 4.2 : Fast Food, Rolls, Shawarma, Sandwich, Chinese : ₹250 for two :  Six Mile, Guwahati
+Cafe Karma : - : Cafe, Continental, Fast Food : ₹500 for two :  Silpukhuri, Guwahati
+Indie Grub : 3.7 : Momos, Chinese, North Indian, Rolls, Sichuan : ₹250 for two :  Pan Bazaar, Guwahati
+Brown Bean Cafe : 3.6 : Cafe, Coffee, Chinese, North Indian, Continental, Beverages : ₹700 for two :  Uzan Bazaar, Guwahati
+Fat Tiger : 3.0 : Burger, Pizza, Fast Food, Momos, Shake, Beverages : ₹500 for two :  Bharalumukh, Guwahati
+Bakes And Fries : 3.9 : Chinese, Fast Food, Rolls, Sandwich, Momos, Pasta, Beverages, Continental : ₹400 for two :  Hatigaon, Guwahati
+Nabhoj Restaurant : 4.1 : Assamese, Chinese, North Indian, Mughlai, Seafood : ₹600 for two :  Pan Bazaar, Guwahati
+Manipuri Kitchen : 3.8 : North Indian, Assamese, Chinese : ₹300 for two :  Beltola, Guwahati
+Hotel Millennium : 3.2 : North Indian, Italian, Chinese : ₹600 for two :  Hotel Millennium, Athgaon, Guwahati
+The Masala Wok : 3.8 : South Indian, North Indian, Chinese, Rolls, Momos, Beverages : ₹400 for two :  Paltan Bazaar, Guwahati
+Delicacy Dhaba : 3.4 : Assamese, North Indian, Chinese, Biryani, Burger, Kebab, Mughlai, Desserts : ₹1,000 for two :  Maligaon, Guwahati
+Milky Way - A Family Restaurant : 3.8 : Biryani, North Indian, Chinese, Fast Food, Pizza, Burger, Beverages : ₹350 for two :  Amingaon, Guwahati
+Club Dine Music Dance & Tulip Restaurant : 4.0 : North Indian, Chinese, Bar Food, Biryani, Desserts : ₹1,000 for two :  Six Mile, Guwahati
+J 14 : 3.9 : Rolls, Burger, Kebab, Chinese, Beverages : ₹300 for two :  Chandmari, Guwahati
+BurgerZilla Gourmet Burger : 4.1 : Fast Food : ₹550 for two :  Chandmari, Guwahati
+Epic Momos : 3.9 : Chinese, Momos, Sichuan : ₹300 for two :  Six Mile, Guwahati
+Yatai Food Cart : 3.8 : Japanese, North Indian : ₹350 for two :  Zoo Tiniali, Guwahati
+Appetizer : 4.2 : Fast Food, Assamese : ₹350 for two :  Ulubari, Guwahati
+Fires & Flavours : - : Continental, Thai, Indonesian, Filipino : ₹1,000 for two :  Khanapara, Guwahati
+Kiya : - : North Indian, Chinese, Desserts : ₹1,500 for two :  Beltola, Guwahati
+Club Elite : New : Oriental, Kebab, Sushi, Chinese, Continental, Beverages, Bar Food : ₹1,700 for two :  Khanapara, Guwahati
+Vinyl Cafe : 3.1 : Salad, Chinese, North Indian, Momos, Desserts, Beverages : ₹400 for two :  Christian Basti, Guwahati
+Drink Your Selfie : 4.0 : Fast Food, Desserts, Beverages, Ice Cream, Shake, Bakery, Street Food, Waffle : ₹400 for two :  Christian Basti, Guwahati
+Indralay Bar : 3.9 : Fast Food, Continental, Seafood : ₹800 for two :  Zoo Tiniali, Guwahati
+Idli Dosa : 4.1 : South Indian, Chinese, Fast Food : ₹200 for two :  Silpukhuri, Guwahati
+Desi Kitchen : 3.3 : North Indian, Chinese, Fast Food : ₹500 for two :  Hatigaon, Guwahati
+JB Restaurant : 3.5 : Biryani, North Indian : ₹350 for two :  Jalukbari, Guwahati
+New Momo Ghar : 3.8 : Momos, Chinese, Rolls : ₹200 for two :  Chandmari, Guwahati
+SR's Cafe De Woodland's : 3.7 : South Indian, North Indian, Chinese, Continental, Beverages, Ice Cream, Desserts : ₹450 for two :  Paltan Bazaar, Guwahati
+The Vintage Bar : 3.8 : Finger Food, North Indian, Continental, Fast Food, Beverages, Juices : ₹800 for two :  Hotel Prag Continental, Pan Bazaar, Guwahati
+Cups & Cues Sports Cafe : 4.0 : Fast Food, North Indian, Chinese, Continental, Desserts, Beverages : ₹600 for two :  Six Mile, Guwahati
+Thanda Ka Dukaan : - : Juices, Shake, Beverages, Sandwich, Fast Food, Street Food : ₹300 for two :  Ulubari, Guwahati
+Regal Multi Cuisine Restaurant : 3.9 : Chinese, North Indian, South Indian : ₹1,000 for two :  Maligaon, Guwahati
+Sweet Cult : 4.4 : Desserts, Waffle, Fast Food, Shake, Beverages : ₹500 for two :  Silpukhuri, Guwahati
+One Bite : 3.9 : Burger, Pizza, Wraps, Pasta, Sandwich, Fast Food, Waffle, Beverages : ₹400 for two :  Borjhar, Guwahati
+The Good Food Company : 3.9 : Chinese, Fast Food, Beverages, Shake : ₹400 for two :  Jalukbari, Guwahati
+Shahi Biryani : 3.3 : Biryani, North Indian : ₹500 for two :  Ganeshguri, Guwahati
+Sri Hari's : 3.5 : North Indian, South Indian, Biryani, Chinese : ₹400 for two :  Ulubari, Guwahati
+Sharma and Sons : 4.0 : Fast Food, Bakery : ₹100 for two :  Beltola, Guwahati
+Citi Dhaba 6th Mile : 3.8 : North Indian, Biryani, Seafood, Chinese, Mughlai, Fast Food, Rolls : ₹500 for two :  Six Mile, Guwahati
+Tasty Food Haat : 3.6 : Assamese, North Indian, Chinese, Mughlai, Biryani, Momos, Sandwich, Fast Food : ₹800 for two :  Beltola, Guwahati
+Matka Biryani : 3.5 : Biryani, North Indian, Chinese, Mughlai : ₹450 for two :  Uzan Bazaar, Guwahati
+My Froyoland : New : Desserts : ₹200 for two :  Paltan Bazaar, Guwahati
+The X Factor - Mixologist Pub : - : North Indian, Bar Food, Continental, Beverages : ₹1,000 for two :  Christian Basti, Guwahati
+Chilled Hut : 3.9 : North Indian, Chinese, Mughlai : ₹400 for two :  Six Mile, Guwahati
+Lets Eat : 3.8 : Chinese, North Indian : ₹200 for two :  Kahilipara, Guwahati
+Madhushala - Hotel Rajmahal : 3.5 : Finger Food, Continental, Chinese, Beverages : ₹700 for two :  Hotel Rajmahal, Paltan Bazaar, Guwahati
+YOKO Restaurant : 3.3 : North Indian, Chinese, Fast Food : ₹300 for two :  Beltola, Guwahati
+Akou Aahibo : 4.3 : Continental, Chinese, North Indian, Rolls, Momos : ₹300 for two :  Silpukhuri, Guwahati
+Robin Cabin : 3.7 : North Indian, Chinese, Fast Food, South Indian, Biryani : ₹450 for two :  Fancy Bazaar, Guwahati
+New Delhi Darbar Biryani Restaurant Spl. Muradabadi And Hyderabadi Chicken Biryani : 3.9 : North Indian, Mughlai, Biryani : ₹300 for two :  Zoo Tiniali, Guwahati
+Hungry Jack's : 4.0 : Chinese, Fast Food : ₹300 for two :  Dispur, Guwahati
+Bani Chat House : 4.2 : Chinese, North Indian, South Indian : ₹300 for two :  Paltan Bazaar, Guwahati
+Chai Time : 3.8 : Fast Food : ₹250 for two :  Zoo Tiniali, Guwahati
+Golden Red Chinese : 3.7 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Zoo Tiniali, Guwahati
+28 Street Jam Cafe : 4.2 : Fast Food, Chinese : ₹500 for two :  Beltola, Guwahati
+The Paratha Factory : 3.4 : North Indian : ₹200 for two :  Ulubari, Guwahati
+Three Star Manipuri Rice Hotel : 3.9 : North Eastern, Mughlai : ₹500 for two :  Paltan Bazaar, Guwahati
+My Lounge - D Courtyard : 3.9 : North Indian, South Indian, Italian, Chinese, Kebab, Thai, Desserts, Beverages : ₹1,700 for two :  Ganeshguri, Guwahati
+Jayshree Ki Rasoi : 3.3 : North Indian : ₹550 for two :  Fancy Bazaar, Guwahati
+The Food Centre : 3.9 : Chinese, Asian, Momos, Rolls, Fast Food : ₹300 for two :  Zoo Tiniali, Guwahati
+Breakfast and More : 4.0 : South Indian, Street Food : ₹200 for two :  Food Villa, Pan Bazaar, Guwahati
+Hotel Tokyo Tower : 3.9 : North Indian, Chinese, Continental, Oriental, Beverages, Sichuan : ₹1,000 for two :  Beltola, Guwahati
+Jagdish Juice Bar : 4.6 : Beverages : ₹200 for two :  Narengi Tinali, Guwahati
+Hi Asia : 4.3 : Asian : ₹400 for two :  Beltola, Guwahati
+Dosa Bites : 3.9 : South Indian : ₹200 for two :  Christian Basti, Guwahati
+Momo Magic Cafe : 3.9 : Momos, Fast Food, Chinese, Sichuan : ₹350 for two :  Ulubari, Guwahati
+MRB (Momo Roll Burger) : 4.2 : Burger, Chinese, Rolls, Fast Food, Beverages : ₹350 for two :  Hatigaon, Guwahati
+Tipsy Bowl : 3.8 : Chinese, North Indian, Rolls, Sichuan : ₹250 for two :  Bhangagarh, Guwahati
+The Lotus : 3.8 : North Indian, Chinese, Desserts, Mithai, Fast Food, Street Food, Beverages, Shake : ₹500 for two :  Kala Pahar, Guwahati
+Prime Bakes : 3.3 : Bakery, Rolls, Sandwich, North Indian, Chinese, Shake : ₹500 for two :  Beltola, Guwahati
+Govind's : 3.9 : South Indian, North Indian, Chinese : ₹400 for two :  Paltan Bazaar, Guwahati
+The Tiny Café : 4.3 : Assamese, Fast Food : ₹350 for two :  Uzan Bazaar, Guwahati
+Hotel Rajdhani Regency : 3.6 : North Indian, Chinese, Continental : ₹1,000 for two :  Hotel Rajdhani Regency, Dispur, Guwahati
+Centre Point : 3.4 : North Indian, Momos, Chinese, Sichuan : ₹500 for two :  Maligaon, Guwahati
+Darbar : 3.7 : Chinese, North Indian, Fast Food, Rolls : ₹500 for two :  Jalukbari, Guwahati
+Chiken O Flavor : 3.7 : North Indian, Chinese, Mughlai, Rolls, Sichuan : ₹250 for two :  Hatigaon, Guwahati
+The Chocolate Room : 3.9 : Coffee, Shake, Desserts, Fast Food, Sandwich, Pizza, Ice Cream : ₹400 for two :  Hatigaon, Guwahati
+F Connexion : 3.9 : North Indian, Salad : ₹700 for two :  Ganeshguri, Guwahati

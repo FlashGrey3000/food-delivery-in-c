@@ -1,0 +1,453 @@
+Belfrance Bakers & Chocolatiers : 4.3 : Coffee, Continental, Italian, Bakery, Fast Food, Beverages, Desserts, Cafe : ₹1,200 for two :  Main Market, Sarabha Nagar, Ludhiana
+The Yellow Chilli : 4.1 : Mughlai, North Indian, Chinese, Desserts, Beverages : ₹1,200 for two :  Main Market, Sarabha Nagar, Ludhiana
+Gautams O Dine : 4.0 : Italian, Fast Food, Thai, Chinese, North Indian, Coffee, Desserts : ₹1,500 for two :  Sarabha Nagar, Ludhiana
+The GT Road : 4.0 : North Indian, Mughlai : ₹1,900 for two :  Silver Arc Mall, Gurdev Nagar, Ludhiana
+Castle's Barbeque : 4.4 : North Indian, Salad : ₹1,300 for two :  Aggar Nagar, Ludhiana
+Finch : 4.0 : Continental, North Indian, Asian, Italian, Sushi, Biryani, Beverages, Desserts : ₹1,700 for two :  Aggar Nagar, Ludhiana
+Under The Mango Tree : 4.1 : North Indian, Modern Indian, Continental, Asian : ₹2,000 for two :  Civil Lines, Ludhiana
+Gola Sizzlers : 4.2 : North Indian, Chinese, Pasta, Pizza, Seafood, Salad, Coffee, Beverages : ₹2,000 for two :  Aggar Nagar, Ludhiana
+Hot Breads : 4.3 : Continental, Chinese, Italian, Bakery, Fast Food, Beverages, Desserts : ₹800 for two :  Main Market, Sarabha Nagar, Ludhiana
+Punjab Grill : 4.0 : North Indian, Kebab, Biryani, Mughlai : ₹2,000 for two :  Aggar Nagar, Ludhiana
+The Lake House : 4.0 : North Indian, Pizza, Chinese, Continental : ₹2,000 for two :  Rajguru Nagar, Ludhiana
+Tim Hortons : 4.3 : Coffee, Cafe, Beverages, Italian, Sandwich, Fast Food : ₹700 for two :  Sarabha Nagar, Ludhiana
+Mamagoto : 4.6 : Asian, Sushi, Japanese, Thai, Chinese, Salad, Desserts : ₹2,000 for two :  Sarabha Nagar, Ludhiana
+Kitchen At 95 - Hyatt Regency Ludhiana : 4.9 : Mediterranean, Chinese, Continental, North Indian : ₹3,500 for two :  Hyatt Regency, Rajguru Nagar, Ludhiana
+Underdoggs Brewery & Kitchen : 4.3 : North Indian, Continental, Asian, Pizza, Oriental, Beverages : ₹2,100 for two :  Gurdev Nagar, Ludhiana
+Biryani By Kilo : 4.4 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  Gurdev Nagar, Ludhiana
+The Brew Estate : 4.5 : North Indian, Continental, Italian, Fast Food, Pizza, Burger, Rolls, Beverages : ₹2,000 for two :  Sarabha Nagar, Ludhiana
+Basant : 4.0 : North Indian, Chinese, Continental, Fast Food, Ice Cream, Desserts, Beverages : ₹800 for two :  Sector 32, Ludhiana
+Roadies Koffee Houz : 3.8 : North Indian, Salad, Sandwich, Pizza, Burger, Waffle, Pancake : ₹1,550 for two :  Aggar Nagar, Ludhiana
+Baklavi Bar & Kitchen : 3.9 : North Indian, Seafood, Asian, Pasta, Pizza, Desserts, Beverages : ₹2,500 for two :  Aggar Nagar, Ludhiana
+Elgin Cafe : 3.4 : Chinese, Salad, Asian : ₹1,000 for two :  Aggar Nagar, Ludhiana
+Bistro Flamme Bois : 4.4 : Continental, Salad : ₹800 for two :  Gurdev Nagar, Ludhiana
+Cafe Delhi Heights : 4.4 : North Indian, Asian, Continental, Chinese, Desserts, Shake, Coffee, Beverages : ₹1,500 for two :  MBD Neopolis Mall, Rajguru Nagar, Ludhiana
+The Mongolian : 3.9 : North Indian, Seafood, Biryani, Wraps, Street Food, Fast Food, Beverages : ₹300 for two :  Sarabha Nagar, Ludhiana
+Barbeque Nation : 4.7 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,850 for two :  Sarabha Nagar, Ludhiana
+Studio Xo Bar : 3.7 : Fast Food : ₹1,400 for two :  Aggar Nagar, Ludhiana
+The Olivia Bar & Kitchen : 3.1 : Italian, North Indian, Chinese, Fast Food : ₹700 for two :  Dugri, Ludhiana
+Heebee Coffee : 3.3 : Coffee, Beverages : ₹400 for two :  Sarabha Nagar, Ludhiana
+SHANGZ : 4.3 : Chinese, Asian, Momos, Desserts, Beverages : ₹1,000 for two :  BRS Nagar, Ludhiana
+Bira 91 The Brewery : New : Bar Food, North Indian, Mexican, Asian, Beverages : ₹2,700 for two :  Aggar Nagar, Ludhiana
+The Cream Way : 3.9 : Ice Cream, Desserts, Fast Food, Pizza, Shake, Beverages : ₹450 for two :  Model Town, Ludhiana
+Peddler's : 4.2 : North Indian, Finger Food, European, Italian, Beverages : ₹2,000 for two :  Sarabha Nagar, Ludhiana
+The Wildfire : 4.5 : North Indian, Chinese, Continental, Beverages : ₹1,200 for two :  Gurdev Nagar, Ludhiana
+Basant Restaurant : 3.9 : North Indian, Chinese, Pizza, Fast Food : ₹500 for two :  Dugri, Ludhiana
+Pirates Of Grill : 4.5 : North Indian, Salad, Oriental, Desserts, Beverages : ₹1,300 for two :  Gurdev Nagar, Ludhiana
+Kochi Express : 4.3 : North Indian, South Indian, Fast Food, Desserts : ₹1,000 for two :  Dugri, Ludhiana
+Basant : 4.2 : North Indian, Chinese, South Indian, Fast Food, Street Food : ₹650 for two :  Civil Lines, Ludhiana
+Smaaash Cafe & Brewpub : 4.9 : Finger Food, North Indian : ₹850 for two :  MBD Neopolis Mall, Rajguru Nagar, Ludhiana
+Khadak Singh Da Dhaba : 3.1 : North Indian, Mughlai, Kebab, Chinese, Momos, Rolls, Beverages : ₹500 for two :  Gurdev Nagar, Ludhiana
+Sheikhupurian Da Vaishno Dhaba : 3.8 : North Indian : ₹400 for two :  Ludhiana Junction, Ludhiana
+Moti Mahal Delux : 4.0 : North Indian, Chinese, Thai, Beverages, Sichuan : ₹1,500 for two :  Sector 32, Ludhiana
+Bon Gateau : 3.9 : Coffee, Chinese, Fast Food, Mughlai, Bakery, North Indian, Desserts : ₹500 for two :  Gurdev Nagar, Ludhiana
+Blaasé : 3.2 : Cafe, North Indian, Mexican, Italian, Asian, American, Sandwich, Beverages : ₹2,200 for two :  Pakhowal Road, Ludhiana
+Pizza Hut : 4.2 : Pizza, Fast Food, Desserts, Beverages : ₹600 for two :  Dugri, Ludhiana
+The Kylin Experience : 4.6 : Japanese, Chinese, Asian, Thai, Sichuan, Beverages : ₹2,000 for two :  A Hotel, Gurdev Nagar, Ludhiana
+Lub Lub-World Of Shawarmas : 3.8 : Shawarma, Arabian, Mediterranean, Seafood, Burger : ₹600 for two :  Sarabha Nagar, Ludhiana
+HeeBee Coffee : 4.4 : Coffee, Cafe, Beverages : ₹400 for two :  Civil Lines, Ludhiana
+Zaika The Emperors Kitchen : 4.3 : North Indian, Mughlai, Chinese, Continental, Italian, Beverages, Desserts : ₹2,000 for two :  Gurdev Nagar, Ludhiana
+Big Yellow Door : 4.1 : Burger, Pasta, Pizza, Continental, Beverages, North Indian : ₹800 for two :  Sarabha Nagar, Ludhiana
+Garden Cafe : 3.2 : Cafe, North Indian, Mughlai, Seafood, Salad, Asian, Pizza, Fast Food : ₹1,800 for two :  Sarabha Nagar, Ludhiana
+KFC : 4.1 : Burger, Fast Food, Rolls : ₹450 for two :  Sector 32, Ludhiana
+The Harbour : 3.7 : North Indian, Chinese, Continental, Pasta, BBQ : ₹400 for two :  Aggar Nagar, Ludhiana
+Foodway : New : Pizza, Burger, Fast Food, Shake, Beverages : ₹500 for two :  Industrial Area, Ludhiana
+Wok Singh : 4.3 : Thai, Fast Food, Continental, Chinese, Japanese, Shake, Beverages : ₹800 for two :  Sarabha Nagar, Ludhiana
+Wok Singh : 3.2 : Chinese, Seafood, Japanese, Rolls, Momos, Shake, Beverages : ₹1,500 for two :  Dugri, Ludhiana
+Xero Courtyard : 4.2 : Continental, Chinese, North Indian, Italian, Beverages, Desserts : ₹800 for two :  Aggar Nagar, Ludhiana
+Bistro Flamme Bois : - : North Indian, Italian, Continental, Oriental, Seafood, Asian, Fast Food, Desserts : ₹1,500 for two :  Aggar Nagar, Ludhiana
+Kalsang Restaurant : 3.9 : Chinese, Thai, Korean, Tibetan, Momos, Desserts, Beverages : ₹850 for two :  Aggar Nagar, Ludhiana
+Gourmet Studio - Maharaja Regency : 4.6 : North Indian, Continental, Mughlai, Chinese, Oriental, Salad, Desserts : ₹1,500 for two :  Hotel Maharaja Regency, Gurdev Nagar, Ludhiana
+The Table By Basant : 4.2 : North Indian, Pizza, Fast Food, Burger, South Indian, Chinese : ₹600 for two :  Gurdev Nagar, Ludhiana
+Baba Chicken : 4.4 : North Indian, Chinese, Mughlai, Kebab, Beverages : ₹1,400 for two :  Shastri Nagar, Ludhiana
+El Gastro Cafe And Restaurant : 3.3 : Cafe, Coffee, Shake, Chinese, Asian, Italian, Continental, Beverages : ₹1,000 for two :  BRS Nagar, Ludhiana
+Nik Bakers : 4.2 : Cafe, Bakery, Desserts, Coffee, Sandwich, Pizza, Burger, Fast Food : ₹800 for two :  Sarabha Nagar, Ludhiana
+The Borgo : New : North Indian, Pizza : ₹1,500 for two :  Gill Road, Ludhiana
+Cafe Olio : - : European, Continental : ₹1,600 for two :  Rajguru Nagar, Ludhiana
+Xero Degrees : 3.7 : Pizza, Burger, Sandwich, Fast Food, Desserts, Beverages : ₹500 for two :  Sarabha Nagar, Ludhiana
+Italian Master : 3.8 : Pizza, Burger : ₹300 for two :  Civil Lines, Ludhiana
+La Pino'z Pizza : 4.1 : Pizza, Italian, Pasta, Fast Food : ₹500 for two :  Dugri, Ludhiana
+Cafe Delish  - Radisson Blu Hotel : 4.0 : North Indian, Continental, Asian, Desserts : ₹3,000 for two :  Radisson Blu Hotel, Rajguru Nagar, Ludhiana
+Sagar Ratna : 3.9 : South Indian : ₹500 for two :  Sector 32, Ludhiana
+Barista Coffee : 3.9 : Cafe, Coffee, Fast Food, Bakery, Desserts, Beverages : ₹500 for two :  Model Town, Ludhiana
+By The Falls : - : North Indian, Chinese : ₹1,000 for two :  Aggar Nagar, Ludhiana
+Pyramid Cafe Lounge : 3.1 : Chinese, North Indian, Pizza, Fast Food, Biryani, Italian, Beverages : ₹500 for two :  Sarabha Nagar, Ludhiana
+The Holy Tree : 4.4 : Continental, Italian, Chinese, North Indian, Desserts, Shake, Salad, Beverages : ₹700 for two :  Pakhowal Road, Ludhiana
+Ice Cream Studio : 4.4 : Ice Cream, Desserts : ₹400 for two :  Sarabha Nagar, Ludhiana
+The Cat Caffé & Ristorant : 3.7 : Cafe, Coffee, Pizza, Sandwich, Fast Food, Beverages : ₹800 for two :  Civil Lines, Ludhiana
+Bistro 226 : 4.5 : Italian, Mexican, North Indian, Continental : ₹1,400 for two :  Civil Lines, Ludhiana
+New Delhi Riyasat : 4.3 : North Indian : ₹250 for two :  PAU, Ludhiana
+The Beer Cafe : - : Bar Food : ₹1,500 for two :  Aggar Nagar, Ludhiana
+Numi : - : Continental, Asian, Japanese : ₹3,000 for two :  Aggar Nagar, Ludhiana
+Crazy Grill : 2.9 : Burger, Pizza, Wraps, Pasta, Fast Food, Sandwich, Desserts, Shake : ₹650 for two :  Sector 32, Ludhiana
+ह-tea The Tea Hut : 4.2 : North Indian, Italian, Chinese, Fast Food, Beverages : ₹500 for two :  Sarabha Nagar, Ludhiana
+Snakkers : 3.3 : Burger, Sandwich, Pizza, Pasta, Wraps, Fast Food, Salad, Shake : ₹500 for two :  Pakhowal Road, Ludhiana
+Suto Cafe Prime : New : Burger, Pizza, Sandwich, Momos, Waffle, Street Food, Desserts, Beverages : ₹400 for two :  Shastri Nagar, Ludhiana
+LUNA : 3.5 : Continental, Italian, North Indian, Pizza, Bar Food, Kebab, Fast Food, Beverages : ₹2,600 for two :  Aggar Nagar, Ludhiana
+Colonel's Cabin : 4.7 : North Indian, Chinese, Continental, Mughlai, Kebab, Desserts, Beverages : ₹1,200 for two :  Shastri Nagar, Ludhiana
+The Gallery Bar - Hyatt Regency : 4.4 : Finger Food : ₹3,000 for two :  Hyatt Regency, Rajguru Nagar, Ludhiana
+Pluk Wok Singh : - : Asian, Bar Food, Chinese, Continental, Sushi, Fast Food, Mughlai, Desserts : ₹1,200 for two :  Aggar Nagar, Ludhiana
+R.E.D - Radisson Blu Hotel : 4.1 : Thai, Chinese, Japanese, North Indian, Seafood, Fast Food, Sushi : ₹1,800 for two :  Radisson Blu Hotel, Rajguru Nagar, Ludhiana
+Panj Aab Food Point 1839 : 3.4 : Chinese, Momos, Burger, Fast Food, Street Food : ₹200 for two :  Sector 32, Ludhiana
+Meshi's Vegetarian : 4.0 : Italian, Chinese, Continental, North Indian, Burger, Beverages, Desserts : ₹600 for two :  Model Town, Ludhiana
+Sharman Jain Sweets : 4.5 : Mithai, Street Food : ₹200 for two :  Civil Lines, Ludhiana
+Martini In The Cloud : 3.8 : Asian, Chinese, Italian, Japanese, Beverages, Bar Food : ₹1,500 for two :  Hotel Maharaja Regency, Gurdev Nagar, Ludhiana
+Kaka's Fine Dine Restaurant : 3.9 : North Indian, Chinese, Biryani : ₹500 for two :  Sector 32, Ludhiana
+Captain Sam's : 3.8 : Fast Food, Pizza, Burger, Shake : ₹700 for two :  Sarabha Nagar, Ludhiana
+The Bear House Cafe and Bar : New : Italian, Mexican, Chinese, North Indian : ₹1,200 for two :  Sarabha Nagar, Ludhiana
+Vipan Vaishno Dhaba : 4.0 : North Indian, Chinese, Beverages : ₹350 for two :  Janak Puri, Ludhiana
+The Small World Cafe : 3.8 : Cafe, Italian, Continental, Burger, Salad, Pizza, Desserts : ₹950 for two :  Silver Arc Mall, Gurdev Nagar, Ludhiana
+Burger Singh - Big Punjabi Burgers : 3.6 : Burger, Momos, Fast Food, Beverages, Desserts : ₹300 for two :  Sarabha Nagar, Ludhiana
+Ice Cream King : 3.2 : Desserts, Ice Cream, Shake : ₹300 for two :  Hargobind Nagar, Ludhiana
+Rishi Vegetarian Dhaba NK : 3.9 : North Indian : ₹250 for two :  Industrial Area, Ludhiana
+Hudson Chopsticks : - : Chinese, Street Food : ₹500 for two :  Sarabha Nagar, Ludhiana
+Gulati Vaishnu Dhaba : 4.0 : North Indian : ₹400 for two :  Ludhiana Junction, Ludhiana
+Natural Soups & Shakes : 4.1 : South Indian, Desserts, Shake, Pizza, Beverages, Street Food : ₹300 for two :  Civil Lines, Ludhiana
+Global Tea Cafe : 3.9 : Cafe, Coffee, Fast Food, Pizza, Burger, Sandwich, Pasta, Beverages : ₹600 for two :  Ludhiana Junction, Ludhiana
+Big B : 3.4 : North Indian, Chinese, Continental, Asian, Fast Food, Sichuan, Salad : ₹1,000 for two :  BRS Nagar, Ludhiana
+Made In India  - Radisson Blu Hotel : 4.4 : North Indian : ₹3,000 for two :  Radisson Blu Hotel, Rajguru Nagar, Ludhiana
+.Peg - Radisson Blu Hotel : 4.9 : Finger Food, Fast Food, Pizza, Kebab, Beverages : ₹2,500 for two :  Radisson Blu Hotel, Rajguru Nagar, Ludhiana
+Baba Chicken - A Fine Dine Family Restaurant : 3.9 : North Indian, Biryani, Kebab, Chinese, Seafood, Mughlai : ₹1,300 for two :  Dugri, Ludhiana
+Hong Kong II : 3.3 : Chinese, North Indian, Beverages, Fast Food, Seafood, Sichuan : ₹1,000 for two :  Main Market, Sarabha Nagar, Ludhiana
+J9 Bar Exchange : - : Italian, Continental, Mediterranean, Salad, Fast Food : ₹1,200 for two :  Aggar Nagar, Ludhiana
+Scrummys Cafe : 3.3 : Pizza, Burger, Fast Food, Beverages : ₹500 for two :  Sarabha Nagar, Ludhiana
+Big N Meats : 4.4 : North Indian, Mughlai, Kebab, Seafood, Pizza, Fast Food, Chinese : ₹500 for two :  Gurdev Nagar, Ludhiana
+Meshi Vaishnu Dhaba : 4.0 : North Indian : ₹300 for two :  Industrial Area, Ludhiana
+My Fresh Kitchen & Cafe : 3.5 : Salad : ₹500 for two :  Aggar Nagar, Ludhiana
+Green House Cafe : 3.3 : Salad, Pizza, Sandwich, Fast Food, Chinese, Coffee, Beverages, Seafood : ₹1,700 for two :  Aggar Nagar, Ludhiana
+Gopal Sweets : 4.0 : Mithai, North Indian, Bakery, Chinese, Fast Food : ₹400 for two :  Sarabha Nagar, Ludhiana
+Rishi Vaishno Dhaba : 4.1 : North Indian : ₹350 for two :  Industrial Area, Ludhiana
+Mukesh Sweets : 3.6 : Mithai, Burger, Pizza, Street Food, Chinese, North Indian, Bakery : ₹500 for two :  Sector 32, Ludhiana
+Cake Square : 4.1 : Cafe, Coffee, Fast Food, Sandwich, Italian, Bakery, Rolls, Beverages : ₹600 for two :  Gurdev Nagar, Ludhiana
+Krispy King : 4.0 : Chinese, Continental, North Indian, Mughlai, Sandwich, Burger, Rolls, Fast Food : ₹500 for two :  Gill Road, Ludhiana
+Gourmet Studio - Maharaja Palazzo : - : Fast Food, Oriental, North Indian, Pasta, Desserts, Salad, Biryani, Pizza : ₹600 for two :  Dugri, Ludhiana
+Burger King : 2.9 : Burger, Fast Food, Beverages, Desserts : ₹400 for two :  Model Town, Ludhiana
+Aman Chicken : 3.8 : North Indian, Mughlai, Biryani, Chinese : ₹400 for two :  Ludhiana Junction, Ludhiana
+Kumaran Dosa & Fast Food : 4.1 : South Indian, Fast Food : ₹350 for two :  Civil Lines, Ludhiana
+Penthouse : 4.2 : North Indian, Italian, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Sarabha Nagar, Ludhiana
+Sky Lounge : 3.9 : Finger Food : ₹1,600 for two :  Sarabha Nagar, Ludhiana
+BK's Punjabi Rasoi : 4.5 : North Indian, Chinese : ₹400 for two :  Shastri Nagar, Ludhiana
+Flamingo : 3.9 : Cafe, Coffee, Beverages, Fast Food, North Indian, Chinese, Mughlai, Biryani : ₹1,000 for two :  BRS Nagar, Ludhiana
+Delicious Bites : 3.9 : Cafe, Coffee, Tea, Shake, Beverages, Desserts, Fast Food, Street Food : ₹650 for two :  Model Town, Ludhiana
+Chawla's Vegetarian : 3.9 : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages : ₹500 for two :  Ludhiana Junction, Ludhiana
+Wicked CHKN : 3.9 : Fast Food, Mexican, Burger : ₹500 for two :  BRS Nagar, Ludhiana
+Hotam Hot : 3.1 : Pizza : ₹300 for two :  Industrial Area, Ludhiana
+Down Town : 4.2 : North Indian, Mughlai, Seafood, Chinese, Fast Food, Ice Cream, Desserts, Beverages : ₹1,200 for two :  Hotel Mahal, BRS Nagar, Ludhiana
+The Urban Flames : 3.6 : North Indian, Biryani : ₹1,000 for two :  Sector 32, Ludhiana
+Friends Dhaba : 4.2 : North Indian : ₹350 for two :  Ludhiana Junction, Ludhiana
+Chicken Plaza : 4.1 : North Indian, Fast Food, Chinese, Biryani : ₹500 for two :  PAU, Ludhiana
+Aman Chicken : 4.1 : North Indian, Mughlai : ₹1,200 for two :  Shastri Nagar, Ludhiana
+A-1 Veg And Non Veg Dhaba : New : North Indian, Mughlai : ₹600 for two :  Industrial Area, Ludhiana
+Hotel Rigal Blu : 3.5 : North Indian, Chinese, Biryani : ₹1,200 for two :  Sector 32, Ludhiana
+Rap's Kitchen : New : North Indian, Mughlai, Biryani, Rolls, Seafood : ₹500 for two :  Jawahar Nagar, Ludhiana
+McDonald's : 3.9 : Cafe, Burger, Fast Food, Beverages, Coffee : ₹500 for two :  Ludhiana Junction, Ludhiana
+Balwant Vegetarians Dhaba : 4.3 : North Indian, Biryani : ₹300 for two :  Industrial Area, Ludhiana
+Bawa Chicken : 4.1 : North Indian, Biryani, Kebab, Seafood : ₹600 for two :  Samrala Chowk, Ludhiana
+Day Night Store 24/7 : - : Pizza, Fast Food, Street Food, Beverages : ₹300 for two :  Aggar Nagar, Ludhiana
+Meshi Vegetarian Dhaba Corner Wala : 3.7 : North Indian : ₹250 for two :  Industrial Area, Ludhiana
+Kays Lovely : 4.1 : Bakery, North Indian, Chinese, Fast Food, Street Food, Beverages, Desserts : ₹400 for two :  Sector 32, Ludhiana
+Manchanda's Natural - 3 : 2.6 : North Indian, Beverages, Desserts : ₹400 for two :  Ludhiana Junction, Ludhiana
+Lyallpur Sweets : 4.2 : Mithai, Fast Food, Street Food : ₹200 for two :  Model Town, Ludhiana
+Subway : 3.7 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹300 for two :  Silver Arc Mall, Gurdev Nagar, Ludhiana
+Bake Fresh : 3.8 : Bakery, Fast Food : ₹250 for two :  Model Town, Ludhiana
+Pizza King : 3.7 : Pizza, Burger, Fast Food, Beverages : ₹350 for two :  Hargobind Nagar, Ludhiana
+Sartaj Sweets & Savouries : 4.4 : Mithai, Chinese, Burger, Sandwich, Pasta, Fast Food, Shake, Beverages : ₹400 for two :  Civil Lines, Ludhiana
+Cakes & Coffee : 4.0 : Coffee, Fast Food, Oriental, Pasta, Sandwich, Bakery, Desserts : ₹800 for two :  Gurdev Nagar, Ludhiana
+Buns N Pies : 3.1 : Pizza, Burger, Wraps, Salad, Fast Food, Street Food, Shake, Beverages : ₹300 for two :  Model Town, Ludhiana
+The Drawing Room : 3.4 : European, Italian, Street Food, Fast Food, Beverages, Desserts, Chinese, North Indian : ₹1,150 for two :  Sarabha Nagar, Ludhiana
+Cream Cafe : 4.1 : Continental, Fast Food, Pizza, Beverages, Shake, Coffee : ₹400 for two :  BRS Nagar, Ludhiana
+Boston & Co. : 3.9 : Fast Food, Street Food, Beverages, Pizza, Burger, Momos, Rolls, Desserts : ₹700 for two :  Aggar Nagar, Ludhiana
+Bhukkad Point : New : Burger, Momos, Chinese, Street Food : ₹150 for two :  Industrial Area, Ludhiana
+Sharman Jain Sweets : 3.0 : Mithai, Fast Food, Street Food, Beverages : ₹300 for two :  Sector 32, Ludhiana
+Hello Yummy : - : Fast Food, Street Food, Sandwich, Shake, Beverages : ₹400 for two :  Rajguru Nagar, Ludhiana
+Shahi Khansama : 4.0 : North Indian, Mughlai, Kebab, Chinese, Rolls, Fast Food, Desserts, Beverages : ₹1,000 for two :  Model Town, Ludhiana
+Starbucks Coffee : 3.3 : Cafe, Beverages, Desserts : ₹600 for two :  Sarabha Nagar, Ludhiana
+Pandit Ji De Paranthe : 3.8 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹400 for two :  Gurdev Nagar, Ludhiana
+Royal Ice Cream : 4.3 : Ice Cream, Desserts : ₹200 for two :  Samrala Chowk, Ludhiana
+Texas Barbeque : 4.1 : Kebab, Biryani, Mughlai : ₹900 for two :  Gurdev Nagar, Ludhiana
+Lime Tree : 3.5 : North Indian, Fast Food, Chinese, Biryani, Mughlai, Shake, Beverages : ₹1,200 for two :  Sector 32, Ludhiana
+Knork - The Palm Court : 3.9 : North Indian, Mughlai, Chinese, Continental : ₹1,500 for two :  BRS Nagar, Ludhiana
+Simz Coffee And Bakehouse : New : Cafe, Coffee, Sandwich, Shake : ₹550 for two :  Gurdev Nagar, Ludhiana
+The King's Kitchen : New : North Indian, Fast Food, Beverages : ₹100 for two :  Ludhiana Junction, Ludhiana
+Bansi Vaishno Dhaba : 3.8 : North Indian : ₹450 for two :  Shastri Nagar, Ludhiana
+Iron Chef : 3.5 : North Indian, Asian, Seafood, Pasta, Pizza, Desserts, Beverages : ₹1,500 for two :  Sarabha Nagar, Ludhiana
+The Edge : - : Bar Food, Continental : ₹2,000 for two :  Aggar Nagar, Ludhiana
+Heaven N Bite : - : Pizza, Sandwich, Burger, Wraps, Pasta, Fast Food, Salad, Beverages : ₹450 for two :  Industrial Area, Ludhiana
+The Italain Oven : - : Pizza, Burger, Fast Food, Shake, Beverages : ₹300 for two :  Samrala Chowk, Ludhiana
+Prabh Fast Food : New : Fast Food, Burger, Chinese : ₹350 for two :  Sector 32, Ludhiana
+Hello Food : 3.7 : Fast Food, Burger, Pizza, Beverages : ₹450 for two :  Model Town, Ludhiana
+Sardar Ji Amritsari Vaishno Dhaba : 3.8 : North Indian : ₹300 for two :  Ludhiana Junction, Ludhiana
+Bansi Pure Vegetarian : 3.8 : North Indian, Chinese, Fast Food : ₹400 for two :  Dugri, Ludhiana
+Baba Chicken : 4.1 : North Indian, Mughlai, Chinese, Beverages, Desserts, Pizza, Salad, Seafood : ₹800 for two :  Sector 32, Ludhiana
+Nizam E Khaas : 4.1 : North Indian, Chinese, Mughlai, Rolls, Kebab, Seafood : ₹1,000 for two :  Gurdev Nagar, Ludhiana
+Panorama - Park Plaza : 3.6 : North Indian, Italian, Fast Food, Desserts, Beverages : ₹1,600 for two :  Park Plaza, Gurdev Nagar, Ludhiana
+Old Rishi Dhaba N K : - : North Indian : ₹400 for two :  Industrial Area, Ludhiana
+Pizza Haveli : New : Pizza, Sandwich, Fast Food, Beverages : ₹200 for two :  Samrala Chowk, Ludhiana
+Shiv Chat : 2.3 : Street Food, South Indian : ₹300 for two :  Civil Lines, Ludhiana
+Sahu Fast Food : New : Fast Food, Chinese : ₹300 for two :  Sector 32, Ludhiana
+Town Square Cafe : 3.9 : North Indian, Fast Food, Oriental, Mughlai, Mexican, Italian, Pasta, Desserts : ₹1,000 for two :  Gurdev Nagar, Ludhiana
+Cafe Culture : 3.9 : Italian, Fast Food, Sandwich, Continental, Salad, Chinese, Beverages : ₹1,000 for two :  Civil Lines, Ludhiana
+King's Tandoori Chaap : 3.6 : North Indian, Fast Food, Rolls, Roast Chicken, Burger : ₹400 for two :  Hargobind Nagar, Ludhiana
+Sindhi House Bakery : 4.2 : Bakery : ₹300 for two :  Civil Lines, Ludhiana
+Bake Fresh : - : Bakery, Desserts, Fast Food : ₹300 for two :  Model Town, Ludhiana
+Royal Pursharthi Dhaba : 3.7 : North Indian, Mughlai, Beverages, Desserts : ₹500 for two :  Ludhiana Junction, Ludhiana
+A3 Restaurant : 3.7 : North Indian, Chinese, Biryani : ₹1,000 for two :  Gurdev Nagar, Ludhiana
+Janta Bakery : - : Bakery, Fast Food, Chinese, North Indian, Beverages : ₹250 for two :  Gill Road, Ludhiana
+Mongolian : - : North Indian, Mughlai, Wraps, Fast Food, Seafood, Chinese, Shake, Beverages : ₹700 for two :  Sarabha Nagar, Ludhiana
+Cafe After Hours : 3.3 : Thai, Chinese, North Indian, Salad, Desserts, Momos, Pasta, Sandwich : ₹1,000 for two :  Sarabha Nagar, Ludhiana
+Rishi Vegetarian Dhaba (RVN) : 3.8 : North Indian, Beverages : ₹400 for two :  Model Town, Ludhiana
+Lambu Bombay Pav Bhaji & Bhel Puri : 3.6 : Street Food : ₹200 for two :  Samrala Chowk, Ludhiana
+Harry's Daughters : 3.9 : Cafe, Beverages, Sandwich, Desserts : ₹500 for two :  Shastri Nagar, Ludhiana
+Smaaash : 4.0 : Continental, North Indian, Italian, Bar Food : ₹1,600 for two :  Pavilion Mall, Civil Lines, Ludhiana
+Shama Chicken Point : 3.1 : Mughlai, North Indian, Biryani : ₹600 for two :  Dugri, Ludhiana
+Aamchoor : - : North Indian, Chinese, Kebab, Pizza, Fast Food, Salad, Desserts, Beverages : ₹1,000 for two :  Rajguru Nagar, Ludhiana
+Tummy Tikler's : 4.3 : Fast Food, Beverages, Shake : ₹300 for two :  Model Town, Ludhiana
+New New York Pizzeria : 4.3 : Pizza, Fast Food : ₹300 for two :  Model Town, Ludhiana
+Fauji Dhaba Apni Rasoi : 3.6 : North Indian : ₹300 for two :  Model Town, Ludhiana
+39's Backyard : 3.6 : Fast Food : ₹350 for two :  Model Town, Ludhiana
+Cafe De Alimento : 3.9 : North Indian, Pizza, Kebab, Sandwich, Street Food, Fast Food, Shake, Beverages : ₹500 for two :  Pakhowal Road, Ludhiana
+Chilli Spray : 4.0 : Pizza, Burger, Sandwich, Fast Food, Shake, Beverages : ₹300 for two :  Civil Lines, Ludhiana
+Shimago Pizzeria : 3.3 : Pizza, Burger, Wraps, Pasta, Sandwich, Fast Food, Shake, Beverages : ₹500 for two :  BRS Nagar, Ludhiana
+Bakes & Beans : 4.0 : Coffee, Salad, Sandwich, Pizza, Fast Food, Continental, Desserts, Shake : ₹1,000 for two :  Pakhowal Road, Ludhiana
+Roli Poli : 4.0 : Rolls, North Indian, Fast Food, Chinese, Burger, Sandwich, Beverages : ₹400 for two :  PAU, Ludhiana
+Sajan Sweets : 4.2 : Mithai, Chinese, Fast Food, Sandwich, Pizza, Desserts : ₹300 for two :  Gill Road, Ludhiana
+Dilli Darbar & Jonti's Baker : - : North Indian, South Indian, Continental, Chinese, Burger, Sandwich, Shake, Beverages : ₹1,200 for two :  Gill Road, Ludhiana
+J9 : - : Bar Food, Beverages : ₹1,000 for two :  Aggar Nagar, Ludhiana
+Raasta Cafe : 3.0 : Chinese, Fast Food, North Indian, Pasta, Pizza, Beverages, Shake : ₹300 for two :  Dugri, Ludhiana
+Raju Superhit Pizza : 3.7 : Pizza : ₹250 for two :  Model Town, Ludhiana
+Pizza Express : 3.0 : Pizza, Fast Food, Sandwich, Pasta, Wraps, Burger, Beverages : ₹450 for two :  Civil Lines, Ludhiana
+My Country Cafe Bar : 3.3 : Fast Food, Pizza, Burger, Rolls, Shake, Beverages : ₹500 for two :  Dugri, Ludhiana
+Yummy Truck : 4.4 : Burger : ₹150 for two :  Sector 32, Ludhiana
+Spasso : - : North Indian, Mughlai, Asian, Italian, Salad, Biryani, Desserts, Beverages : ₹1,800 for two :  Sarabha Nagar, Ludhiana
+RC Food Junction : 3.3 : Fast Food, Burger, Street Food, Shake : ₹350 for two :  Model Town, Ludhiana
+Shef's Canadian Pizza : 3.4 : Pizza, Fast Food, Burger, Pasta, Street Food : ₹400 for two :  Dugri, Ludhiana
+Oliva Lounge Bar : 4.2 : Italian, Continental, Thai, Mexican, Pizza : ₹1,600 for two :  Gurdev Nagar, Ludhiana
+Nik Baker's : - : Bakery, Mexican, Italian, Thai, Sandwich, Pizza, Waffle, Desserts : ₹1,400 for two :  Aggar Nagar, Ludhiana
+Theobroma : - : Bakery, Desserts : ₹200 for two :  Sarabha Nagar, Ludhiana
+Bar-ish : 3.9 : Bar Food, North Indian, Shake, Beverages : ₹1,500 for two :  Samrala Chowk, Ludhiana
+Munchkins : 3.7 : North Indian, Chinese, Continental, Sandwich, Burger, Pizza, Fast Food, Beverages : ₹1,500 for two :  Gurdev Nagar, Ludhiana
+Nawabs Of Nihari : - : North Indian, Kebab, Biryani, Mughlai, Desserts : ₹1,000 for two :  Gurdev Nagar, Ludhiana
+The Upper Housee : 4.4 : North Indian, Chinese, Continental, European, Mughlai, Biryani, Desserts, Beverages : ₹2,500 for two :  Sarabha Nagar, Ludhiana
+Karnataka Cafe : - : South Indian, Chinese, Sichuan, Beverages : ₹350 for two :  Hargobind Nagar, Ludhiana
+Jimmy's Salt N Pepper : 4.4 : Burger, Pizza, Wraps, Fast Food, Shake, Beverages : ₹400 for two :  PAU, Ludhiana
+Rishi Vegeterian Dhaba : 3.3 : North Indian, Chinese : ₹400 for two :  Sector 32, Ludhiana
+Hutea - The Tea Hut : New : Tea, North Indian, Chinese, Italian, Sandwich, Fast Food, Shake : ₹1,000 for two :  Rajguru Nagar, Ludhiana
+Coffea - Brew On The Rocks : - : Cafe, Fast Food : ₹300 for two :  Model Town, Ludhiana
+Club 91 : - : Continental, Chinese, Salad : ₹600 for two :  Aggar Nagar, Ludhiana
+Cozy Cafe : 3.7 : Chinese, Fast Food, Street Food, Pizza, Burger, Sandwich, Beverages, Shake : ₹600 for two :  Gurdev Nagar, Ludhiana
+Thapa Fast Food : 3.8 : Fast Food, Chinese, Momos, Rolls, Burger, Street Food : ₹200 for two :  Dugri, Ludhiana
+Delhi Riyasat : 3.7 : North Indian : ₹200 for two :  PAU, Ludhiana
+Mohan Bakery : - : Bakery, Fast Food, Salad, Pizza, Street Food, Desserts, Shake, Beverages : ₹750 for two :  Civil Lines, Ludhiana
+The Belgian Waffle Co. : 4.8 : Waffle, Pancake, Desserts, Beverages, Ice Cream : ₹400 for two :  Shastri Nagar, Ludhiana
+Doner & Gyros - Salad , Shawarma & Falafel House : New : Middle Eastern, Wraps, Fast Food, Desserts, Beverages : ₹550 for two :  Sarabha Nagar, Ludhiana
+Hera Feri Fries : 4.7 : Fast Food, Street Food, Burger, Pizza, Chinese, Beverages, Desserts : ₹400 for two :  Sarabha Nagar, Ludhiana
+Sonu's Kitchen : 4.1 : North Indian, Chinese, Mughlai : ₹1,000 for two :  BRS Nagar, Ludhiana
+Bai Ji Malai Chaap Wale : 3.3 : North Indian, Rolls, Momos : ₹400 for two :  Sector 32, Ludhiana
+The Diet Studio : 4.1 : Sandwich, Continental, Salad : ₹300 for two :  Gurdev Nagar, Ludhiana
+Sharman Jain Sweets : - : Chinese, North Indian, South Indian, Fast Food, Street Food, Italian, Desserts, Beverages : ₹550 for two :  Dugri, Ludhiana
+The King Baker'z : New : Fast Food, Pizza, Burger, Shake, Beverages : ₹250 for two :  Gill Road, Ludhiana
+Gyan Vaishnav  Dhaba : 3.6 : North Indian : ₹400 for two :  Industrial Area, Ludhiana
+Keventers - Milkshakes & Desserts : - : Beverages, Shake, Ice Cream, Desserts : ₹300 for two :  Sarabha Nagar, Ludhiana
+Oscar's : - : Chinese, North Indian, Mughlai, Bar Food, Continental, Italian, Biryani, Desserts : ₹1,500 for two :  Gurdev Nagar, Ludhiana
+Pinky Bakery : 3.4 : Bakery, Fast Food, Street Food : ₹500 for two :  Sector 32, Ludhiana
+Joker Cafe : New : Chinese, Pizza, Burger, Fast Food, Street Food, Shake : ₹450 for two :  Gill Road, Ludhiana
+De Rollz : 4.0 : Rolls : ₹300 for two :  Shastri Nagar, Ludhiana
+Pizza Time : 3.7 : Fast Food, Pizza, Chinese, Burger, Sandwich : ₹250 for two :  Ludhiana Junction, Ludhiana
+Delhi Food Junction : 3.4 : Fast Food, South Indian, Chinese, Beverages, Pizza, Burger, Shake : ₹400 for two :  Civil Lines, Ludhiana
+Roshan Vaishno Dhaba : 3.8 : North Indian : ₹300 for two :  Ludhiana Junction, Ludhiana
+MS  Kumaran Dosa : - : South Indian : ₹200 for two :  Model Town, Ludhiana
+Orient Blade - Park Plaza : 4.2 : Chinese, Thai, Seafood, Sushi, Sichuan : ₹2,000 for two :  Park Plaza, Gurdev Nagar, Ludhiana
+Gup Shup House : - : Pizza, Sandwich, Burger, Salad, Fast Food, Shake, Beverages : ₹250 for two :  Ludhiana Junction, Ludhiana
+Abbott's Cafe N Bistro : 3.9 : Cafe, Italian, Sandwich, Pizza, Fast Food, Beverages, Desserts : ₹700 for two :  Model Town, Ludhiana
+Hero Bakers : 3.8 : Bakery : ₹500 for two :  Pakhowal Road, Ludhiana
+Sartaj Sweets & Savouries : 3.9 : Mithai, Street Food : ₹200 for two :  Jawahar Nagar, Ludhiana
+Barbeque Point : New : BBQ, Fast Food, Pizza, Chinese, Momos : ₹400 for two :  Industrial Area, Ludhiana
+Pahwa Ice Cream & Fast Food : 3.8 : Ice Cream, Desserts, Fast Food, Pizza, Chinese, Beverages : ₹400 for two :  Hargobind Nagar, Ludhiana
+Indian Summer : 4.4 : North Indian, Biryani, Chinese, Seafood, Mughlai, Bar Food, Desserts, Beverages : ₹1,400 for two :  Hotel Indian Summer, Industrial Area, Ludhiana
+Pawan Aujla Diary Farm Product Sweet And Dhaba : - : North Indian, Chinese, Sandwich, Fast Food, Street Food, Desserts, Shake, Beverages : ₹350 for two :  Aggar Nagar, Ludhiana
+The Gully House : 3.9 : North Indian, Chinese, Italian, Fast Food, Desserts : ₹2,000 for two :  Aggar Nagar, Ludhiana
+New Friends Vaishno Dhaba : 4.1 : North Indian : ₹400 for two :  Ludhiana Junction, Ludhiana
+The Natural Food Point : - : South Indian, North Indian, Chinese, Italian : ₹200 for two :  Aggar Nagar, Ludhiana
+The Healthy House : - : Healthy Food : ₹300 for two :  Ludhiana Junction, Ludhiana
+The Nutrition Cafe : 3.8 : Healthy Food, Italian, Salad, European, Burger, Pizza, Pasta, Desserts : ₹500 for two :  Gurdev Nagar, Ludhiana
+New York Pizzaria : 3.1 : Pizza, Fast Food : ₹450 for two :  Civil Lines, Ludhiana
+New Basant : - : North Indian, Chinese, Mughlai, Rolls, Burger, Pasta, Momos, Street Food : ₹600 for two :  Dugri, Ludhiana
+The Thali Waala : - : North Indian, South Indian, Chinese, Street Food, Pizza, Burger : ₹450 for two :  PAU, Ludhiana
+Snacks Bar : 3.8 : Chinese, Fast Food, Pizza, Burger : ₹300 for two :  Ludhiana Junction, Ludhiana
+Bake 4 U : - : Bakery, Chinese, Fast Food, Coffee, Desserts, Beverages : ₹500 for two :  Civil Lines, Ludhiana
+A-One Vegetarian : 3.9 : Chinese, North Indian, Desserts : ₹600 for two :  Sector 32, Ludhiana
+Hungry Point : 4.1 : Fast Food, Pizza, Sandwich, Burger, Desserts, Shake, Beverages : ₹300 for two :  Aggar Nagar, Ludhiana
+Dosa Chutneyz : - : South Indian : ₹300 for two :  Pakhowal Road, Ludhiana
+Just Baked Cafe & Bakery : - : Bakery, Beverages : ₹300 for two :  Civil Lines, Ludhiana
+Mela Ram & Sons : - : Street Food : ₹100 for two :  Ludhiana Junction, Ludhiana
+Royal South Vegetarians Paradise : 4.0 : Chinese, North Indian, South Indian, Beverages, Desserts, Mithai : ₹400 for two :  Sector 32, Ludhiana
+Abiss Restaurant : 4.1 : North Indian, Mughlai, Chinese, Continental, Desserts : ₹1,500 for two :  PAU, Ludhiana
+Mr. Smoothy : New : Shake, Beverages, Ice Cream, Sandwich, Rolls : ₹300 for two :  Dugri, Ludhiana
+Shree Khatu Shyam Ji Food Corner : - : Sandwich, Pizza : ₹350 for two :  Ludhiana Junction, Ludhiana
+Anmol Gym Diet : - : North Indian, Fast Food : ₹300 for two :  PAU, Ludhiana
+Cookup Shookup : - : North Indian, Momos : ₹350 for two :  Civil Lines, Ludhiana
+B7 Restaurant : 4.2 : North Indian, Chinese, Continental, Biryani, Mughlai, Fast Food : ₹1,000 for two :  A Hotel, Gurdev Nagar, Ludhiana
+Bahlz Rishi Vegetarian Dhaba : 3.9 : North Indian, Biryani : ₹400 for two :  PAU, Ludhiana
+F Bar Brewery and Lounge : 4.4 : North Indian, Chinese, Continental : ₹1,200 for two :  Pavilion Mall, Civil Lines, Ludhiana
+The Yellow Chilli : 3.9 : North Indian, Chinese, Mughlai, Seafood, Biryani, Beverages : ₹1,500 for two :  Janak Puri, Ludhiana
+Raju Fast Food And Chat Bhandaar : 4.2 : Fast Food, Chinese : ₹250 for two :  Aggar Nagar, Ludhiana
+Deep Chicken : - : North Indian, Fast Food, Street Food : ₹350 for two :  Industrial Area, Ludhiana
+Uoof Pizzeria : New : Pizza, Burger, Sandwich, Pasta, Wraps, Shake, Beverages : ₹600 for two :  Rajguru Nagar, Ludhiana
+Cinnabon : 3.1 : Bakery, Sandwich, Desserts, Coffee : ₹300 for two :  Aggar Nagar, Ludhiana
+Miyan Ji Food Junction : 3.0 : Street Food, North Indian : ₹300 for two :  Industrial Area, Ludhiana
+Punjabi Rasoi : 3.1 : North Indian, Fast Food, Beverages : ₹400 for two :  Civil Lines, Ludhiana
+Sethi Sweets & Vaishno Dhaba : 2.9 : North Indian, Chinese, Street Food, Mithai, Ice Cream : ₹300 for two :  Sector 32, Ludhiana
+Bistro DID : 3.7 : Cafe, Coffee, Sandwich, Fast Food, Desserts, Beverages : ₹500 for two :  Model Town, Ludhiana
+Rutba : 4.4 : Chinese, Continental, North Indian, Desserts, Beverages, Biryani : ₹1,800 for two :  Gurdev Nagar, Ludhiana
+Baba Chicken : 3.9 : North Indian, Mughlai, Chinese : ₹500 for two :  Industrial Area, Ludhiana
+Veer Ji Malai Chaap Wale : 3.8 : North Indian, Rolls, Momos, Biryani : ₹400 for two :  Shastri Nagar, Ludhiana
+Domino's Pizza : 3.8 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹400 for two :  MBD Neopolis Mall, Rajguru Nagar, Ludhiana
+SitaRam's : 3.9 : Mithai, Street Food : ₹400 for two :  Dugri, Ludhiana
+Dashmesh Dhaba : - : North Indian : ₹300 for two :  Hargobind Nagar, Ludhiana
+Pritam Chaap And Fast Food : New : North Indian, Biryani, Burger, Fast Food, Chinese : ₹450 for two :  Rajguru Nagar, Ludhiana
+The Ice Cream Masters : 3.3 : Ice Cream, Waffle, Desserts, Shake, Beverages : ₹550 for two :  Model Town, Ludhiana
+Sharma Sweets And Dhaba : New : Mithai, North Indian, Street Food, Beverages : ₹200 for two :  Sector 32, Ludhiana
+Chawla's 2 : 4.1 : North Indian, Mughlai, Chinese : ₹800 for two :  Model Town, Ludhiana
+Chai Sutta Bar : 3.8 : Cafe, Coffee, Fast Food, Burger, Pizza, Sandwich, Tea, Beverages : ₹300 for two :  Gurdev Nagar, Ludhiana
+Steaming Mugs : 4.4 : Cafe, Sandwich, Fast Food, Bakery, Desserts, Beverages, Street Food : ₹800 for two :  Aggar Nagar, Ludhiana
+Hotel Smily : 3.7 : North Indian, Chinese : ₹1,000 for two :  Sector 32, Ludhiana
+Crunch Bell : 3.9 : Pizza, Fast Food, Beverages, Desserts, Shake : ₹400 for two :  Rajguru Nagar, Ludhiana
+Sharry Vaishno Dabba : - : North Indian, Beverages : ₹150 for two :  Janak Puri, Ludhiana
+Makkar's Punjabi Dhaba : - : North Indian, Chinese, Fast Food, Street Food, Beverages : ₹200 for two :  Civil Lines, Ludhiana
+Jammu Delight : New : Kashmiri, Street Food, Tea : ₹150 for two :  Shastri Nagar, Ludhiana
+Mr. Rolls & Shakes Co. : 3.7 : Rolls, Beverages : ₹300 for two :  BRS Nagar, Ludhiana
+SK Food Plaza : 3.8 : Fast Food, Chinese, North Indian : ₹300 for two :  Ludhiana Junction, Ludhiana
+Food Hee Food by Pindiz Plaza : 4.5 : Fast Food, Burger, Pizza, Chinese, Beverages : ₹400 for two :  Janak Puri, Ludhiana
+Shri Umesh Son's Soya Chaap : 3.9 : Street Food, North Indian, Rolls : ₹450 for two :  Sector 32, Ludhiana
+Freak Baker : - : Pizza, Fast Food : ₹700 for two :  BRS Nagar, Ludhiana
+Rishav Burger Hut : 4.1 : Pizza, South Indian, Burger, Fast Food, North Indian, Chinese, Rolls, Momos : ₹300 for two :  Samrala Chowk, Ludhiana
+Pritam Pyara Sweets : 3.9 : Mithai, Street Food, Fast Food : ₹200 for two :  Dugri, Ludhiana
+Khushi Ram & Sons : 4.0 : Chinese, Sandwich, Street Food, Desserts, Beverages : ₹200 for two :  Sarabha Nagar, Ludhiana
+Hot Spicy : 4.0 : Rolls, Fast Food, Chinese, Burger, Pizza, Sandwich, Beverages, Street Food : ₹400 for two :  Gill Road, Ludhiana
+Madras Leaf : 3.5 : South Indian : ₹400 for two :  MBD Neopolis Mall, Rajguru Nagar, Ludhiana
+Kings Food Garage : 4.6 : Chinese, Pizza, Fast Food, Burger, Shake : ₹300 for two :  Ludhiana Junction, Ludhiana
+Kapital Kitchen : 4.1 : North Indian, Fast Food : ₹450 for two :  Ludhiana Junction, Ludhiana
+Confusion Off : 4.1 : North Indian, Chinese, Fast Food, Sandwich, Burger, Pizza : ₹850 for two :  Janak Puri, Ludhiana
+Le Antares : - : North Indian, Asian, Fast Food : ₹1,000 for two :  Aggar Nagar, Ludhiana
+Basant : 3.8 : North Indian, Mughlai : ₹600 for two :  Rajguru Nagar, Ludhiana
+Burger Hut : 3.8 : Fast Food, Burger, Pizza, Chinese : ₹300 for two :  Ludhiana Junction, Ludhiana
+Salsa Spice 'N' Grill : 2.7 : Pizza, Italian, South Indian, North Indian, Chinese, Burger, Beverages, Sandwich : ₹400 for two :  BRS Nagar, Ludhiana
+The Urban Bru : 3.4 : Cafe, Fast Food, Burger, Pizza, Beverages, Desserts : ₹400 for two :  Sector 32, Ludhiana
+Dabbu Di Hatti : 4.0 : North Indian : ₹500 for two :  Industrial Area, Ludhiana
+Rinku Vaishno Dhaba : 4.0 : North Indian : ₹300 for two :  Dugri, Ludhiana
+Pb 91 Special Mah Lacha Parantha : 3.7 : North Indian : ₹300 for two :  PAU, Ludhiana
+Main Street Dugri : 3.7 : Shake, Beverages, Fast Food, Sandwich, Pizza, Burger, Street Food : ₹300 for two :  Model Town, Ludhiana
+Lucchhe The Hunger Filler : 3.5 : Fast Food, Chinese, Italian, Beverages : ₹300 for two :  Sector 32, Ludhiana
+Lark Dhaba : 3.3 : North Indian, Mughlai : ₹500 for two :  Ludhiana Junction, Ludhiana
+Kanpur Gyan's Vegetarian (KGV) : 4.1 : North Indian, South Indian, Chinese, Fast Food : ₹200 for two :  Ludhiana Junction, Ludhiana
+Daman Chicken : 4.2 : North Indian, Kebab, Seafood, Mughlai : ₹700 for two :  Samrala Chowk, Ludhiana
+Parkash Dhaba : 4.3 : North Indian, Seafood, Beverages : ₹600 for two :  Industrial Area, Ludhiana
+Banaras : 2.9 : North Indian, Biryani, Chinese, Fast Food, Pizza, Street Food, Desserts, Beverages : ₹400 for two :  Dugri, Ludhiana
+Mongolian : 2.7 : Fast Food, Chinese, Wraps, Beverages, Street Food, Momos, Mongolian : ₹400 for two :  Sarabha Nagar, Ludhiana
+Urban Turban 24/7 : 3.3 : Burger, Pizza, Sandwich, Fast Food, Street Food, Beverages : ₹200 for two :  Hargobind Nagar, Ludhiana
+Sher-E-Punjab : 3.7 : North Indian, Mughlai, Street Food, Beverages : ₹400 for two :  Ludhiana Junction, Ludhiana
+Lion's Pizza Land : 4.0 : Fast Food, Pizza, Beverages : ₹400 for two :  Sector 32, Ludhiana
+The Cheesy Place : 3.2 : Pizza, Burger, Sandwich, Wraps, Fast Food, Street Food, Ice Cream, Beverages : ₹350 for two :  Sector 32, Ludhiana
+Burger Bites : - : Burger, Sandwich, Wraps, Pizza, Pasta, Fast Food, Shake, Beverages : ₹500 for two :  Sector 32, Ludhiana
+Pizza Cafe : 3.7 : Pizza, Burger, Sandwich, Fast Food, Shake : ₹400 for two :  Dugri, Ludhiana
+Basant Ice Cream Parlour : 4.2 : Ice Cream, Desserts, Beverages, Shake : ₹200 for two :  Ludhiana Junction, Ludhiana
+Hoshiarpuri Chat Bhandar : 4.1 : Street Food : ₹200 for two :  Ludhiana Junction, Ludhiana
+Bikaner Mishthan Bhandar : 4.0 : Mithai, Bakery : ₹300 for two :  Dugri, Ludhiana
+Darbari's Kitchen : 3.9 : North Indian, Mughlai, Pizza, Burger, Momos, Rolls, Shake, Fast Food : ₹400 for two :  Dugri, Ludhiana
+Dabbu Chicken Corner : 3.6 : North Indian : ₹500 for two :  BRS Nagar, Ludhiana
+Khalsa Ice Cream : 4.0 : Ice Cream, Desserts, Mithai, Beverages, Shake, Juices : ₹300 for two :  Ludhiana Junction, Ludhiana
+Shankar Churmur : 3.9 : Street Food, Chinese, Fast Food, Sichuan : ₹700 for two :  Shastri Nagar, Ludhiana
+Umesh South Indian Dosa : 3.9 : South Indian : ₹200 for two :  Gill Road, Ludhiana
+Preet Dhaba : 3.7 : North Indian, Fast Food, Burger, Street Food : ₹400 for two :  Haibowal Kalan, Ludhiana
+The Tiger's Kitchen : 3.9 : Fast Food, Chinese, North Indian, Beverages, Pizza, Burger : ₹800 for two :  Gill Road, Ludhiana
+Hero Bakery Since 1970 : 3.9 : Bakery, Fast Food : ₹150 for two :  Shastri Nagar, Ludhiana
+Pandit Ji Bombay Spl Pav Bhaji : 3.9 : Street Food : ₹300 for two :  Ludhiana Junction, Ludhiana
+Sohan Vegetarian Dhaba : 4.1 : North Indian, Chinese, Mughlai, Desserts : ₹350 for two :  Ludhiana Junction, Ludhiana
+Eat Up : 4.0 : Fast Food, Burger, Beverages : ₹300 for two :  Civil Lines, Ludhiana
+Red Mango : 3.6 : Desserts : ₹200 for two :  Sarabha Nagar, Ludhiana
+The Fruit Studio : 3.9 : Fast Food, Beverages : ₹250 for two :  PAU, Ludhiana
+The Jalandhar Vegetarian : - : North Indian : ₹350 for two :  Shastri Nagar, Ludhiana
+Gujral Vaishno Dhaba : 3.0 : North Indian, Chinese : ₹250 for two :  Jawahar Nagar, Ludhiana
+Kwality House : 3.7 : Fast Food, Pizza, Burger : ₹300 for two :  Ludhiana Junction, Ludhiana
+Chacha Wow Fast Food : 3.6 : Pizza, Fast Food, Chinese : ₹300 for two :  Model Town, Ludhiana
+The Food Lawyer's Cafe : 3.6 : Chinese, Fast Food, Pizza, Sandwich, Burger, Pasta, Shake, Beverages : ₹300 for two :  Sector 32, Ludhiana
+The Juice Cafe : 3.1 : Juices, Fast Food, Healthy Food, Beverages : ₹350 for two :  MBD Neopolis Mall, Rajguru Nagar, Ludhiana
+Maharaja Chicken : 4.2 : North Indian, Seafood : ₹500 for two :  Shastri Nagar, Ludhiana
+Chawla's Vegetarian : 3.9 : North Indian, South Indian, Biryani, Chinese, Pizza, Fast Food, Desserts, Shake : ₹1,000 for two :  Gurdev Nagar, Ludhiana
+Pandit Ji Da Chulha : 2.7 : North Indian, Rolls, Desserts, Beverages : ₹500 for two :  Civil Lines, Ludhiana
+Milkshake and Co. : 4.6 : Burger, Fast Food, Beverages, Shake : ₹400 for two :  Model Town, Ludhiana
+Dovka Bar - Nirvana Hotel Banquets Club : 4.5 : North Indian, Finger Food, Oriental, Beverages : ₹1,500 for two :  Nirvana Hotel Banquets Club, PAU, Ludhiana
+Dyal Sweets : 4.1 : Mithai, Street Food : ₹100 for two :  Industrial Area, Ludhiana
+Cookie Craft : - : Bakery : ₹600 for two :  Civil Lines, Ludhiana
+Unplugged Cafe N Bar : 4.2 : Continental, American, Asian, Italian, Momos, Beverages : ₹1,700 for two :  Sarabha Nagar, Ludhiana
+Rose Creation Bakers : 3.9 : Bakery, Desserts, Fast Food, Pizza : ₹500 for two :  Shastri Nagar, Ludhiana
+Malik Vaishno Dhaba : 3.8 : North Indian : ₹300 for two :  Ludhiana Junction, Ludhiana
+Chawla's 2 - South City : 3.0 : North Indian, Chinese, Pizza, Burger, Fast Food : ₹1,000 for two :  Aggar Nagar, Ludhiana
+Chaat Ka Chaska : 3.7 : South Indian, Chinese, Street Food, Fast Food, Desserts, Cafe, Coffee, Beverages : ₹700 for two :  Model Town, Ludhiana
+Mrs Bector's Cremica : 4.0 : Desserts, Ice Cream : ₹150 for two :  Main Market, Sarabha Nagar, Ludhiana
+R2P - Right To Party : 4.0 : North Indian, Chinese, Italian, Mexican, Bar Food, Pasta, Desserts, Beverages : ₹2,000 for two :  Aggar Nagar, Ludhiana
+New 10 Durs : 4.1 : North Indian, Chinese, Fast Food : ₹300 for two :  Civil Lines, Ludhiana
+Spaghetti Club : 3.6 : Continental, Burger, Fast Food, Street Food, Beverages : ₹500 for two :  MBD Neopolis Mall, Rajguru Nagar, Ludhiana
+Chicago Pizzeria : 3.6 : Italian, Fast Food, Beverages : ₹400 for two :  Sector 32, Ludhiana
+King's Vegetarian : - : North Indian, Chinese, Rolls, Pizza, Fast Food, Biryani : ₹400 for two :  Model Town, Ludhiana
+Sethi Special Bhature Chole : 3.9 : Street Food, Mithai, Bakery, Fast Food : ₹300 for two :  Samrala Chowk, Ludhiana
+Bake & Cake : 3.5 : Bakery, Desserts : ₹400 for two :  Hargobind Nagar, Ludhiana
+The Courtyard By Park Plaza : 3.9 : North Indian, Chinese, Continental : ₹1,500 for two :  Park Plaza, Gurdev Nagar, Ludhiana
+New Shakti Om Vegetarian Dhaba : 4.1 : North Indian : ₹400 for two :  Industrial Area, Ludhiana
+Snakkers : 4.2 : Fast Food, Beverages : ₹400 for two :  PAU, Ludhiana
+The Urban Momos : 3.6 : Burger, Momos, Wraps, Fast Food, Shake, Beverages : ₹300 for two :  BRS Nagar, Ludhiana
+Satpal Chicken Dhaba : 4.3 : North Indian, Street Food : ₹450 for two :  Industrial Area, Ludhiana
+Havmor Ice Cream : - : Ice Cream, Desserts : ₹200 for two :  Dugri, Ludhiana
+Hygienic AC Dhaba : 4.2 : North Indian, Chinese : ₹300 for two :  Industrial Area, Ludhiana
+Amar Sweet Shop : 3.7 : Mithai : ₹200 for two :  Ludhiana Junction, Ludhiana
+Dashmesh Veg Point : 4.4 : North Indian, Pizza, Burger, Sandwich : ₹300 for two :  Model Town, Ludhiana
+Bourbon Broadway : 4.2 : North Indian, Chinese, Italian, Rolls, Mughlai, Fast Food, Salad, Beverages : ₹2,000 for two :  Aggar Nagar, Ludhiana
+Pishori Shahi Kabab : 4.1 : North Indian : ₹250 for two :  Sector 32, Ludhiana
+Taal Fast Food : 3.4 : North Indian, Biryani, South Indian, Chinese, Street Food, Ice Cream, Beverages : ₹500 for two :  Ludhiana Junction, Ludhiana
+Bindra Chicken & Fish Corner : 4.2 : North Indian : ₹600 for two :  Industrial Area, Ludhiana
+Das Garib Das Vaishno Dhaba : 3.7 : North Indian : ₹200 for two :  Sector 32, Ludhiana
+Snackz Hub : 4.0 : Fast Food, Shake : ₹500 for two :  Shastri Nagar, Ludhiana
+New Mukesh Sweets : 3.8 : Mithai, Fast Food, South Indian, North Indian, Chinese, Street Food, Beverages : ₹400 for two :  Sector 32, Ludhiana
+New Special Jammu Puri : 3.8 : North Indian, Biryani, South Indian : ₹400 for two :  Civil Lines, Ludhiana
+Vanjali Family Resturant : 3.7 : North Indian, Chinese : ₹500 for two :  Ludhiana Junction, Ludhiana
+Mba Chai Wala : 3.6 : Tea, Shawarma, Beverages, Fast Food, Street Food, Momos : ₹300 for two :  PAU, Ludhiana
+Hotel Friends Regency Restaurant : 4.1 : North Indian, Salad, Chinese, Continental, Kebab, Biryani, Oriental, Desserts : ₹1,100 for two :  Gurdev Nagar, Ludhiana
+Wah Ji Wah : 3.1 : North Indian, Chinese, Fast Food : ₹300 for two :  Shastri Nagar, Ludhiana
+Guru Nanak Dhaba : 4.0 : North Indian : ₹250 for two :  Model Town, Ludhiana
+Amit Foods : - : North Indian, South Indian, Chinese : ₹300 for two :  Sector 32, Ludhiana
+Dosa Express : - : South Indian, Street Food : ₹300 for two :  Industrial Area, Ludhiana
+The Juice Cafe : 3.5 : Fast Food, Salad, Beverages, Desserts : ₹400 for two :  Pavilion Mall, Civil Lines, Ludhiana
+Champs Sports Bar - Park Plaza : 4.8 : Finger Food : ₹2,000 for two :  Park Plaza, Gurdev Nagar, Ludhiana
+Bangali Chicken Dhaba : 3.2 : Bengali, North Indian, Chinese, Mughlai : ₹500 for two :  Industrial Area, Ludhiana
+Ludhiana Junction : 3.9 : North Indian, Fast Food, Pizza, Chinese : ₹400 for two :  Civil Lines, Ludhiana
+Lilwood Burger's & Snacks : 4.0 : Fast Food, Pizza : ₹300 for two :  Sector 32, Ludhiana
+Hutea- The Tea Hut : - : Tea, Beverages, Street Food, Chinese, Fast Food, North Indian : ₹550 for two :  Sector 32, Ludhiana
+Laddu Fish & Chicken Corner : 3.9 : North Indian, Mughlai : ₹500 for two :  Janak Puri, Ludhiana
+Pindi'z Plaza : 3.7 : Pizza, North Indian, Chinese, Burger, Salad, Fast Food, Beverages : ₹500 for two :  Janak Puri, Ludhiana
+Basant Ice Cream : 3.7 : Ice Cream, Desserts : ₹200 for two :  Civil Lines, Ludhiana
+Endless Pizza : 4.1 : Pizza, Fast Food : ₹300 for two :  Sector 32, Ludhiana
+Krishna Veg Dhaba : 3.9 : North Indian : ₹300 for two :  Samrala Chowk, Ludhiana
+Saluja Fast Food : 4.1 : Chinese, Fast Food : ₹200 for two :  Hargobind Nagar, Ludhiana
+Sanjay's Snack Bar : 3.9 : Fast Food, Street Food, Momos, Chinese : ₹200 for two :  PAU, Ludhiana
+Hong Kong Restaurant : 4.2 : Chinese, Finger Food : ₹800 for two :  Ludhiana Junction, Ludhiana
+Naresh Sweets : 3.8 : Mithai, Street Food : ₹200 for two :  Janak Puri, Ludhiana
+The Bhukkad Chef : 3.9 : Pizza, Burger, Fast Food, Chinese : ₹250 for two :  Ludhiana Junction, Ludhiana
+Baba Chicken : 3.9 : North Indian, Mughlai, Seafood : ₹1,000 for two :  Gurdev Nagar, Ludhiana
+Bittu Fast Food : 4.1 : Fast Food, Pizza : ₹200 for two :  Samrala Chowk, Ludhiana
+Shivam Mishthan Bhandar : 4.3 : Mithai, Street Food : ₹300 for two :  Samrala Chowk, Ludhiana
+Krishan's : 3.6 : South Indian, Beverages, Chinese, Desserts, Fast Food : ₹300 for two :  Ludhiana Junction, Ludhiana
+Shakti Om Vegetarian Dhaba : 3.9 : North Indian, Chinese, Fast Food, Desserts, Ice Cream, Beverages : ₹650 for two :  Samrala Chowk, Ludhiana
+Fat Tiger : - : North Indian, Pizza, Momos, Burger, Fast Food, Desserts, Tea, Shake : ₹500 for two :  Sarabha Nagar, Ludhiana
+Malerkotla Biryani Point : 3.3 : Biryani, North Indian : ₹350 for two :  Hargobind Nagar, Ludhiana
+Suresh Pizza Wala : 3.7 : Italian, North Indian, Fast Food, Beverages, Pizza, Shake : ₹300 for two :  Shastri Nagar, Ludhiana
+King's Tandoori Food : 4.0 : North Indian, Pizza, Sandwich, Fast Food, Salad : ₹300 for two :  Model Town, Ludhiana
+Apna Dhabha : 4.3 : North Indian, Street Food : ₹400 for two :  Dugri, Ludhiana
+Deochan Doris : 3.7 : North Indian, Chinese, Continental : ₹1,500 for two :  Shastri Nagar, Ludhiana
+Samosa Junction : 4.0 : Fast Food, Sandwich, Pizza, Street Food : ₹250 for two :  Civil Lines, Ludhiana
+Panday Dosa : 3.8 : South Indian : ₹250 for two :  PAU, Ludhiana
+Kanpuria Da Dhaba : 3.3 : North Indian, Mughlai, Seafood, Biryani : ₹600 for two :  Dugri, Ludhiana
+The Cake Shoppe : - : Bakery, Desserts, Fast Food, Street Food : ₹300 for two :  PAU, Ludhiana
+Arora Refreshment : 3.9 : Street Food, Beverages : ₹300 for two :  Civil Lines, Ludhiana
+Cafe Coffee Day : 3.9 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹600 for two :  Civil Lines, Ludhiana
+Champ Food House : - : Fast Food : ₹250 for two :  Ludhiana Junction, Ludhiana
+Balaki's : 3.6 : North Indian, Mughlai, Chinese : ₹600 for two :  Rajguru Nagar, Ludhiana
+Choice Foods : 3.8 : Chinese, Fast Food, Street Food, Pizza : ₹300 for two :  Industrial Area, Ludhiana

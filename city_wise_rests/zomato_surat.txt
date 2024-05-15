@@ -1,0 +1,93 @@
+Wok On Fire : 4.0 : Chinese, Thai, Momos, Beverages : ₹1,000 for two :  Golden Square, City Light, Surat
+The Bungalow Cafe : 3.3 : Cafe, Beverages, Pizza : ₹800 for two :  Adajan Gam, Surat
+Pavilion : 4.4 : North Indian, Continental, Mexican, Italian : ₹1,000 for two :  Vesu, Surat
+Spice Villa : 4.3 : North Indian, Continental, Chinese : ₹1,200 for two :  Iscon Mall, Piplod, Surat
+Leonardo Italian Mediterranean Dining : 4.3 : Italian, Mexican, Fast Food, Mediterranean, Desserts : ₹1,400 for two :  Piplod, Surat
+Coffee King Vesu : 4.3 : Cafe, Beverages, Desserts, Italian, Finger Food, Fast Food : ₹800 for two :  Vesu, Surat
+Masala Mania : 3.1 : North Indian, Chinese, Continental, Fast Food, Pizza, Desserts, Beverages : ₹1,500 for two :  Vesu, Surat
+Spice Petals : 4.7 : North Indian, Chinese, Continental, Desserts, Beverages, Mughlai, Fast Food : ₹1,100 for two :  Vesu, Surat
+Table 101 - Surat Marriott Hotel : 4.5 : Continental : ₹3,000 for two :  City Light, Surat
+Zest House : 3.9 : North Indian, Continental, Fast Food, Beverages : ₹1,500 for two :  Athwa, Surat
+Spice Petals : 3.6 : North Indian, Mexican, Oriental, Chinese, Pizza, Desserts, Shake, Beverages : ₹1,500 for two :  Pal Gam, Surat
+East Asia : 4.3 : Asian, Pizza, Pasta, Fast Food, Desserts, Beverages, Shake, Coffee : ₹900 for two :  Vesu, Surat
+Vintage Asia : 4.5 : Asian, Sushi, Chinese, Desserts, Beverages : ₹2,000 for two :  Marriott Hotel Surat City Light, Surat
+Urban Punjab : 4.3 : North Indian, Chinese, Rolls, Fast Food, Desserts, Beverages, Sichuan : ₹700 for two :  Vesu, Surat
+Cafe Mewaco : 3.9 : Cafe, Coffee, Fast Food, Shake, Beverages : ₹600 for two :  Piplod, Surat
+Coffee King : 4.5 : Cafe, Beverages, Desserts, Italian, Finger Food, Fast Food : ₹800 for two :  Adajan Gam, Surat
+It's Mirchi : 4.0 : North Indian, Chinese, Fast Food, Pizza, Pasta, Salad, Desserts, Beverages : ₹1,350 for two :  Adajan Gam, Surat
+Mykonos : 4.1 : Cafe, Coffee, Oriental, Italian, North Indian, Chinese, Desserts, Shake : ₹1,200 for two :  Vesu, Surat
+Cafe Beats Arena : 3.8 : Cafe, Coffee, Chinese, Continental, Fast Food, Street Food, Desserts, Beverages : ₹800 for two :  Piplod, Surat
+7 Colours : 3.9 : North Indian, South Indian, Chinese, Continental, Fast Food, Desserts, Beverages : ₹900 for two :  Pal Gam, Surat
+Thyme & Whisk : 4.0 : Cafe, Coffee, North Indian, Asian, Pizza, Continental, Desserts, Shake : ₹1,900 for two :  Piplod, Surat
+Thalaivaa : 4.5 : South Indian, Desserts, Beverages : ₹600 for two :  City Light, Surat
+Taste Of Bhagwati (TOB) : 4.0 : North Indian, Chinese, Oriental, Italian, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  New Textile Market, Surat
+Jassi De Parathe : 3.9 : North Indian, Fast Food, Street Food, Desserts : ₹500 for two :  Vesu, Surat
+Unvind Cafe - Best Place To Unwind : - : Cafe, Coffee, Continental, Sandwich, Fast Food, Desserts, Shake, Beverages : ₹800 for two :  City Light, Surat
+Fannito Pizza : 3.6 : Pizza, Pasta, Fast Food : ₹500 for two :  Kapodara, Surat
+K's Charcoal : 4.6 : Italian, Fast Food, Beverages : ₹600 for two :  Piplod, Surat
+1441 Pizzeria : 4.2 : Pizza, Italian, Pasta, Beverages, Desserts : ₹600 for two :  Vesu, Surat
+The Chocolate Room : 3.8 : Desserts, Mexican, Pizza : ₹800 for two :  Vesu, Surat
+Uncle Goons : 3.0 : Desserts, Bakery : ₹330 for two :  Piplod, Surat
+The Garlic Knot : 3.7 : Cafe, Pizza, Pasta, Fast Food : ₹600 for two :  Piplod, Surat
+Café Noir Raw : 4.1 : Cafe, Coffee, Mexican, Italian, Japanese, Spanish, Arabian, Desserts : ₹1,500 for two :  Vesu, Surat
+K's Verandah : 3.0 : North Indian, Asian, Beverages, Sichuan : ₹500 for two :  Piplod, Surat
+Xero Degrees : 3.9 : Cafe, Coffee, Shake, Beverages, Pizza, Burger, Sandwich, Fast Food : ₹800 for two :  Vesu, Surat
+Berco's : 4.0 : Chinese, Thai, Asian : ₹1,000 for two :  Piplod, Surat
+Moukshitha - The Real South Indian Hub : 3.9 : South Indian, Chinese, Street Food : ₹400 for two :  Adajan Gam, Surat
+Sale & Pepe - Ristorante Italiano : 3.9 : Italian, Pizza, Desserts, Beverages : ₹1,200 for two :  Piplod, Surat
+Nomads : 2.7 : Fast Food, Bakery, Chinese, North Indian : ₹400 for two :  Dumas, Surat
+KFC : 4.0 : Burger, Fast Food, Rolls : ₹400 for two :  Adajan Gam, Surat
+Lucid : 4.5 : Asian, Oriental, Sushi, Continental, North Indian, Desserts, Beverages : ₹2,000 for two :  Magdalla, Surat
+Anytime at K’s : - : Bakery, Coffee, Sushi : ₹850 for two :  Athwa, Surat
+Barbeque Nation : 4.8 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,850 for two :  Golden Square, City Light, Surat
+Deck 9 : - : North Indian, Mexican, Oriental, Pizza, Salad, Italian, Desserts, Beverages : ₹1,200 for two :  Piplod, Surat
+4M Kitchen : 3.4 : Gujarati, North Indian : ₹800 for two :  Adajan Patiya, Surat
+JackMex : 3.5 : Mexican, Fast Food, Beverages : ₹550 for two :  Vesu, Surat
+Puffizza : 2.9 : Pizza, Fast Food, Beverages : ₹300 for two :  Adajan Gam, Surat
+Delissio : - : Cafe, Coffee, North Indian, Chinese, Japanese, Desserts, Shake, Beverages : ₹1,000 for two :  Piplod, Surat
+Brewing Brokers Cafe : 3.5 : Cafe, Coffee, Pizza, Pasta, Italian, Mexican, Sandwich, Burger : ₹1,000 for two :  Vesu, Surat
+Dil Se Re : 3.9 : North Indian, Asian, Italian, Chinese : ₹1,300 for two :  Adajan Gam, Surat
+SBC - Surat Marriott Hotel : 4.0 : Continental, Sandwich, Pizza, Burger, Beverages : ₹1,200 for two :  Surat Marriott Hotel Athwa, Surat
+Cafe Beats : 4.4 : Italian, Sandwich, Wraps, Burger, North Eastern, Pizza, Chinese, Beverages : ₹500 for two :  Nana Varachha, Surat
+Ghalib & Company : 4.3 : Continental, Fast Food, Desserts, Chinese, Shake, Beverages : ₹450 for two :  Piplod, Surat
+Girnar Multi Cuisine Restaurant : - : Pizza, Pasta : ₹1,000 for two :  Adajan Gam, Surat
+Green Gujarat : New : Gujarati, North Indian, Continental : ₹1,400 for two :  Adajan Gam, Surat
+Lord Petrick Burger & Coffee : 3.8 : Burger, Coffee : ₹300 for two :  Nana Varachha, Surat
+Golden Dragon : 4.4 : Chinese, Seafood, Sichuan : ₹800 for two :  Athwa, Surat
+Cafe White Eye : - : Fast Food, Street Food : ₹350 for two :  Vesu, Surat
+Pashto : - : North Indian, Mughlai, Arabian, Kebab, Biryani : ₹1,100 for two :  Piplod, Surat
+The Bungalow Coffee House : 4.2 : Cafe, Continental, Fast Food, Beverages, Lebanese, British : ₹1,000 for two :  Vesu, Surat
+Taste Of Bhagwati : 3.4 : Beverages, Sandwich, Fast Food, Sichuan : ₹400 for two :  Adajan Gam, Surat
+Petra Surat : 2.8 : Pizza, Pasta, Mexican : ₹500 for two :  Dumas, Surat
+3Seventy Kitchen : 4.5 : North Indian, Chinese, Continental, Desserts, Beverages, Sichuan : ₹1,000 for two :  Pal Gam, Surat
+Haldiram's Restaurant : 4.0 : Mithai, North Indian, South Indian, Sandwich, Street Food, Biryani, Beverages : ₹500 for two :  Athwa, Surat
+Dome Pizzeria : 4.0 : Pizza, Pasta, Desserts, Beverages : ₹1,500 for two :  Piplod, Surat
+Radha Krishna Restaurant : 3.9 : South Indian, Sandwich, Burger, Pizza, Chinese, Fast Food, Desserts, Beverages : ₹500 for two :  Pal Gam, Surat
+Levvel 5 Restaurant : 4.2 : Continental, North Indian, Pizza, Chinese, Beverages, Desserts : ₹1,500 for two :  Adajan Gam, Surat
+Hummus House : 3.2 : Fast Food, Lebanese, Mexican, Pizza, Pasta : ₹600 for two :  City Light, Surat
+Baskin Robbins - Ice Cream Desserts : 3.5 : Ice Cream, Bakery, Desserts, Shake, Beverages : ₹500 for two :  Adajan Gam, Surat
+Zorko - Brand Of Food Lovers : 3.4 : Pizza, Sandwich, Burger, Pasta, Fast Food, Street Food, Shake, Beverages : ₹300 for two :  Vesu, Surat
+Steam : 4.4 : North Indian, Chinese, Mexican, Italian, Desserts, Beverages : ₹1,500 for two :  Valentine Mall, Dumas, Surat
+De' Villa Garden Restro Lounge : 3.8 : North Indian, Chinese, Continental, Beverages : ₹1,000 for two :  Pal Gam, Surat
+TTS Burgers : 3.3 : Burger : ₹500 for two :  Vesu, Surat
+Kinaara - The Cafe : 4.0 : Cafe, Oriental, Chinese, Italian, Pizza, Sandwich, Coffee, Shake : ₹500 for two :  Vesu, Surat
+Masala Canteen : 3.9 : North Indian, Chinese, Desserts, Beverages, Sichuan : ₹350 for two :  Piplod, Surat
+P. Bhagat Tarachand : 2.6 : North Indian, Chinese, Desserts, Beverages : ₹800 for two :  Vesu, Surat
+Blue Basil : 4.9 : North Indian, Chinese, Continental, Desserts, Beverages : ₹2,500 for two :  Vesu, Surat
+Burgrill - The Win Win Burger : 3.1 : Burger : ₹300 for two :  Athwa, Surat
+18.19 Cafe Lounge : 3.7 : Continental : ₹700 for two :  Vesu, Surat
+Cafe Beats : - : Cafe, Coffee, Pizza, Sandwich, Fast Food, Chinese, Shake, Beverages : ₹500 for two :  Mota Varachha, Surat
+Livestream Coffee : 3.3 : Cafe, Coffee, Ice Cream, Beverages, Fast Food : ₹500 for two :  Vesu, Surat
+Burger King : 3.4 : Burger, Fast Food, Desserts, Beverages : ₹400 for two :  Katargam, Surat
+Table Talk : 4.1 : North Indian : ₹600 for two :  City Light, Surat
+Shree Khodiyar Kathiyawadi Dhaba : 4.0 : Gujarati, North Indian, Desserts : ₹500 for two :  Pal Gam, Surat
+Biggies Burger : 3.7 : Burger, Fast Food, Beverages : ₹500 for two :  Vesu, Surat
+TOT - Taste Of Town : 3.3 : North Indian, South Indian, Chinese, Fast Food, Street Food : ₹350 for two :  Adajan Gam, Surat
+Amar Fast Food Restaurant : 3.9 : Street Food, Chinese, North Indian, Pizza, Fast Food, South Indian, Desserts, Beverages : ₹600 for two :  Piplod, Surat
+Sarvottam Restaurant : 4.1 : North Indian, Chinese, Pizza, Sandwich, Ice Cream, Shake : ₹800 for two :  Udhna Gam, Surat
+Banana Patra : 4.1 : South Indian, Biryani, Desserts, Beverages : ₹400 for two :  Varachha, Surat
+Cafe Ashiana : 3.0 : Cafe, Coffee, Chinese, North Indian, Continental, Mexican, Desserts, Beverages : ₹800 for two :  Vesu, Surat
+Huber & Holly : 3.6 : Ice Cream, Desserts, Pizza, Sandwich, Pasta, Beverages : ₹600 for two :  Piplod, Surat
+Tulsi Restaurant : 4.2 : North Indian, Chinese, Mughlai, Biryani, Beverages, Gujarati, Pizza, Sandwich : ₹600 for two :  New Textile Market, Surat
+Chandan Omlette Center : 4.2 : Gujarati, Street Food : ₹300 for two :  City Light, Surat
+Bombay A-1 Chicken Dum Biryani : 3.7 : Biryani : ₹300 for two :  Bhestan, Surat

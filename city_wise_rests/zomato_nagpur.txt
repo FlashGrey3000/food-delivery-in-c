@@ -1,0 +1,372 @@
+Dali - The Art Cafe : 4.2 : Pizza, Salad, Oriental, Coffee, Beverages, Desserts : ₹1,000 for two :  Wardha Road, Nagpur
+Pablo - The Art Cafe' Lounge : 4.5 : Continental, Italian, North Indian, American, Bar Food : ₹1,100 for two :  Civil Lines, Nagpur
+Tales & Spirits Bistro : 4.4 : Rolls, Asian, Italian, Continental, Desserts, Beverages : ₹650 for two :  Dharampeth, Nagpur
+Yamazaki Pan Asian Cuisine : 4.4 : Asian, Japanese, Thai, Korean, Burmese : ₹1,100 for two :  Bajaj Nagar, Nagpur
+High Steaks - Pool Side : 4.9 : Continental, North Indian, Chinese, Desserts, Beverages : ₹1,400 for two :  Ramdaspeth, Nagpur
+Jaffer Bhai's Delhi Darbar : 4.5 : North Indian, Biryani, Seafood, Mughlai, Chinese, Rolls, Desserts, Beverages : ₹900 for two :  Dhantoli, Nagpur
+Thirty Sixty : 4.2 : North Indian, Chinese, Pasta, Fast Food, Oriental, Beverages : ₹1,000 for two :  Ayodhya Nagar, Nagpur
+Uptown 501 : 3.7 : North Indian, Chinese, Continental, Fast Food, Beverages : ₹1,200 for two :  Dharampeth, Nagpur
+Barbeque Nation : 4.4 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,850 for two :  Sitabuldi, Nagpur
+Corridor Seven Coffee Roasters : 4.5 : Cafe, Coffee, Healthy Food, Fast Food, Desserts, Beverages : ₹800 for two :  Sitabuldi, Nagpur
+La Pasta Fresca Deli : 4.4 : Italian, Pasta, Pizza, Steak, Beverages, Continental, French : ₹1,600 for two :  Pratap Nagar, Nagpur
+Cyclone - Modern Dine In & Club : 3.0 : Continental, Chinese, North Indian, Fast Food, Bar Food, Desserts : ₹1,200 for two :  Dharampeth, Nagpur
+Side Walk - Hotel Hardeo : 4.7 : North Indian, Chinese, Continental, Fast Food, Desserts, Salad, Juices, Beverages : ₹1,400 for two :  Hotel Hardeo, Sitabuldi, Nagpur
+Ice Lounge - Hotel Hardeo : 4.5 : North Indian, Seafood, Salad, Pizza, Pasta, Biryani : ₹1,000 for two :  Hotel Hardeo, Sitabuldi, Nagpur
+Asian Bistro : 4.1 : Asian, Chinese, Sushi, Japanese, Beverages : ₹800 for two :  Bajaj Nagar, Nagpur
+Penthaus By Hotel Brijinn : 4.1 : Maharashtrian, North Indian, Mughlai, Chinese, Biryani, Pizza, Pasta, Desserts : ₹1,500 for two :  Gandhibagh, Nagpur
+Kiana Restaurant : 4.5 : North Indian, Kebab, Chinese : ₹1,000 for two :  Sadar, Nagpur
+The Nagpur Ashok : 4.9 : North Indian, Chinese, Beverages, Desserts, Bar Food : ₹1,600 for two :  Bajaj Nagar, Nagpur
+Tattwam : 4.9 : North Indian, South Indian, Desserts, Beverages : ₹900 for two :  Ramdaspeth, Nagpur
+Moti Mahal Delux Restaurant : 4.6 : North Indian, South Indian, Mughlai, Kebab, Biryani, Shake, Beverages : ₹1,000 for two :  Sitabuldi, Nagpur
+Jimo : 4.0 : North Indian, Beverages : ₹600 for two :  Bajaj Nagar, Nagpur
+Lush House : 4.6 : Continental, Italian, Beverages, Desserts, Healthy Food, Shake, Coffee, Pizza : ₹600 for two :  Bajaj Nagar, Nagpur
+TAO - Asian Kitchen : 4.4 : Asian, Japanese, Chinese, Thai, Oriental, Sushi : ₹1,900 for two :  Civil Lines, Nagpur
+Biryani.Inc : 4.5 : Biryani, Kebab, North Indian, Beverages : ₹1,000 for two :  Bajaj Nagar, Nagpur
+Grill Inn : New : Fast Food, Pizza, Burger, Pasta, Desserts, Beverages : ₹500 for two :  Dharampeth, Nagpur
+Two Joes : 4.4 : North Indian, Bar Food, Mexican, Chinese, Fast Food, Continental, Desserts, Beverages : ₹1,000 for two :  Bajaj Nagar, Nagpur
+The Pizza Project : 4.3 : Pizza, Italian : ₹700 for two :  Dharampeth, Nagpur
+Hideout Cafe : 4.2 : Sandwich, Fast Food, Street Food, Pasta, Pizza, Salad, Chinese, Beverages : ₹500 for two :  Dharampeth, Nagpur
+Ohno : 4.5 : North Indian, Continental, Italian, Seafood, Desserts : ₹1,500 for two :  Civil Lines, Nagpur
+Taco Bell : 4.0 : Mexican, Fast Food, Wraps : ₹400 for two :  Dhantoli, Nagpur
+Little Italy : 4.3 : Italian, Pizza, Pasta, Continental, Desserts, Healthy Food, Beverages : ₹1,200 for two :  Civil Lines, Nagpur
+McDonald's : 4.8 : Burger, Fast Food, Cafe : ₹500 for two :  Ayodhya Nagar, Nagpur
+The Creative Kitchen - Radisson Blu Hotel : 4.9 : North Indian, Continental, Chinese, Desserts, Beverages, Finger Food, Fast Food, Salad : ₹2,500 for two :  Radisson Blu Hotel, Nagpur, Nagpur
+Drifters Tap Station : 4.2 : North Indian, Mughlai, Continental : ₹1,000 for two :  Ramdaspeth, Nagpur
+Mogra Multicuisine Restaurant : 4.2 : North Indian, Continental, Beverages, BBQ : ₹1,600 for two :  Civil Lines, Nagpur
+Naivedhyam : 4.6 : North Indian, Chinese : ₹1,100 for two :  Sitabuldi, Nagpur
+Delhi Grill : 4.4 : North Indian, Mughlai, Rolls, Biryani, Beverages, Shake, Seafood : ₹550 for two :  Chaoni, Nagpur
+The Common Ground Sports Cafe & Restro : 3.9 : Chinese, North Indian, Pizza, Fast Food, Sandwich, Burger, Shake, Beverages : ₹1,000 for two :  Bajaj Nagar, Nagpur
+Little Owl Cafe : 3.8 : Cafe, Beverages : ₹700 for two :  Pratap Nagar, Nagpur
+Amaira : 4.2 : North Indian : ₹1,300 for two :  Civil Lines, Nagpur
+Pours & Plate : 3.9 : Cafe, Coffee, Continental, Bakery : ₹800 for two :  Bajaj Nagar, Nagpur
+Barbecue : 4.3 : North Indian, Kebab, Chinese, Mughlai : ₹600 for two :  Sadar, Nagpur
+Bouffage : 3.5 : North Indian, Continental, Seafood, Beverages, Fast Food, Chinese, Mughlai, Salad : ₹1,000 for two :  Sadar, Nagpur
+Esco Bar And Cafe Lounge : 3.9 : Chinese, Pizza, Pasta, Sandwich, Fast Food, Seafood, North Indian, Mughlai : ₹1,500 for two :  Sitabuldi, Nagpur
+Three Beans Coffee And Eatery : 3.9 : Maharashtrian, Desserts : ₹400 for two :  Civil Lines, Nagpur
+Flame And Fire : 4.6 : Chinese, Fast Food, North Indian, Biryani, Beverages, Rolls, Pizza, Momos : ₹500 for two :  Civil Lines, Nagpur
+Step Inn : 4.4 : North Indian, Saoji, Chinese, Biryani, Sichuan : ₹1,100 for two :  Dharampeth, Nagpur
+Ashoka Restaurant : 3.9 : North Indian, Mughlai, Chinese, Biryani, Continental, Desserts, Beverages, Salad : ₹1,500 for two :  Sadar, Nagpur
+Salt - All Day Brew : 3.9 : Chinese, North Indian, Mughlai, Biryani, Pizza, Sandwich, Fast Food : ₹1,000 for two :  Civil Lines, Nagpur
+Nagpal's Chole Bhature : 2.6 : North Indian : ₹300 for two :  Ramdaspeth, Nagpur
+Pizza Hut : 4.5 : Pizza, Fast Food, Desserts, Beverages : ₹1,000 for two :  Wardhaman Nagar, Nagpur
+9 3/4 Central Perk Cafe : 4.1 : Cafe, Coffee, Seafood, Chinese, Italian, Fast Food, Desserts, Beverages : ₹1,000 for two :  Dharampeth, Nagpur
+Farmhouse Kitchen : 3.9 : North Indian, Mughlai, Chinese : ₹1,000 for two :  Bajaj Nagar, Nagpur
+Ashhh : 3.6 : Pasta, Pizza, Hot dogs, Street Food, Tea, Beverages : ₹500 for two :  Gayatri Nagar, Nagpur
+Regenta Central - Feliz Cafe : 4.1 : North Indian, Continental, Chinese : ₹1,100 for two :  Nandanvan, Nagpur
+Greens Pure Veg Multicuisine Restaurant : 4.0 : North Indian, Continental, Sandwich, Fast Food, Biryani, Beverages : ₹1,300 for two :  Gokulpeth, Nagpur
+Anna Idli : 4.4 : South Indian, Desserts, Fast Food, Beverages : ₹300 for two :  Bajaj Nagar, Nagpur
+Chill N Grill : 4.0 : Chinese, Continental, North Indian, Sandwich, Biryani, Thai, Sichuan : ₹1,400 for two :  Sadar, Nagpur
+Yello Cafe & Restro : 3.9 : Italian, Rolls, Chinese, North Indian, Mughlai, Street Food, Beverages, Pizza : ₹500 for two :  Civil Lines, Nagpur
+Cafe Seven O' Eleven : 4.2 : Cafe, Coffee, Mexican, Italian, Burger, Fast Food, Desserts, Beverages : ₹500 for two :  Bajaj Nagar, Nagpur
+Tanjore - Enter The Deccan : 4.0 : South Indian, Beverages, North Indian : ₹400 for two :  Bajaj Nagar, Nagpur
+Golden Harvest - Airport Centre Point : 3.2 : North Indian, Mughlai, Continental, Chinese, Italian, Seafood, Rolls, Beverages : ₹1,000 for two :  Sadar, Nagpur
+Yamazaki Iora Restaurant : 3.5 : North Indian, Chinese, Oriental, Fast Food, Italian, Desserts : ₹1,200 for two :  Wardhaman Nagar, Nagpur
+Brewin Cafe : 4.1 : Cafe, Coffee, Fast Food, Street Food, Sandwich, Salad, Desserts, Beverages : ₹500 for two :  Bajaj Nagar, Nagpur
+Shruti Veg Restaurant : 3.7 : North Indian, Maharashtrian, Chinese, South Indian : ₹500 for two :  Vivekanand Nagar, Nagpur
+Ni Hao - Radisson Blu Hotel : 3.7 : North Indian, Oriental, Continental, Desserts, Fast Food, Finger Food, Beverages : ₹3,500 for two :  Radisson Blu Hotel, Nagpur, Nagpur
+The Frontier Post : 3.5 : North Indian, Mughlai, Kebab, Desserts : ₹1,000 for two :  Sadar, Nagpur
+The Opera House : 3.8 : French, Continental, Oriental, Thai, Chinese, Desserts, Salad, Fast Food : ₹1,200 for two :  Sitabuldi, Nagpur
+Shashi's Barbeque Kitchen : 3.4 : Momos : ₹250 for two :  Seminary Hills, Nagpur
+Meeting Point : 4.1 : Mughlai, Chinese, North Indian, Continental, Biryani, Desserts : ₹1,300 for two :  Ramdaspeth, Nagpur
+Pizzzenia : 3.9 : Pizza, Pasta, Sandwich, Fast Food : ₹500 for two :  Pratap Nagar, Nagpur
+Hungry Puttar : 4.2 : Biryani, North Indian, Desserts, Beverages : ₹700 for two :  Bajaj Nagar, Nagpur
+FSB : 4.3 : North Indian, Continental, Asian, Italian, Chinese, Desserts, Shake, Salad : ₹1,000 for two :  Dhantoli, Nagpur
+Xero Degrees : 4.2 : Cafe, Fast Food, Italian, Burger, Pizza, Street Food, Shake, Desserts : ₹500 for two :  Chaoni, Nagpur
+Frullato : 4.9 : Beverages, Desserts : ₹300 for two :  Bajaj Nagar, Nagpur
+Al Rahman : 4.4 : North Indian, Mughlai, Chinese, Biryani, Kebab : ₹700 for two :  Mankapur, Nagpur
+Board's & Brew's : 3.2 : Cafe, North Indian, Italian, Continental, Mughlai, Oriental, Desserts, Beverages : ₹700 for two :  Ravi Nagar, Nagpur
+Filtr 16 Brew Bar : 4.1 : Cafe, Coffee, Fast Food : ₹400 for two :  Bajaj Nagar, Nagpur
+The Beer Cafe : 4.1 : Bar Food, Beverages : ₹1,000 for two :  Ravi Nagar, Nagpur
+The Bettr Store : 3.2 : Fast Food, Sandwich, Salad, Wraps, Continental, Desserts, Shake, Beverages : ₹500 for two :  Bajaj Nagar, Nagpur
+ACP Express Restaurant By Airport Centre Point : 4.4 : North Indian, Biryani, Continental, Middle Eastern, Oriental, Chinese, Desserts, Beverages : ₹1,500 for two :  Sadar, Nagpur
+Street Food Corner : 4.6 : Street Food, Chinese, Pizza, Sandwich, Fast Food, Coffee, Shake, Beverages : ₹300 for two :  Wardhaman Nagar, Nagpur
+Cafe Illusions : 3.4 : Cafe, Coffee, Chinese, Asian, Continental, Waffle, Italian, Desserts : ₹1,000 for two :  Dharampeth, Nagpur
+Ideal Restaurant : 3.8 : North Indian, Chinese, South Indian, Fast Food : ₹300 for two :  Wardhaman Nagar, Nagpur
+KFC : 3.8 : Burger, Fast Food, Rolls : ₹400 for two :  Bajaj Nagar, Nagpur
+Mr. Hops Brew Cafe and Taproom : 3.5 : Fast Food, North Indian, Chinese, Mughlai, Continental, Beverages, Finger Food : ₹2,000 for two :  Vivekanand Nagar, Nagpur
+Yummi Momos : New : Momos : ₹200 for two :  Chaoni, Nagpur
+Winq Cafe & Bistro : 4.2 : Cafe, Mediterranean, North Indian, Oriental, Italian, Mexican, Beverages, Desserts : ₹1,000 for two :  Civil Lines, Nagpur
+Koyla 29 - Kebabs and More : 3.9 : Kebab, Rolls, North Indian : ₹550 for two :  Dharampeth, Nagpur
+Sugar Quotes Cafe : New : Fast Food, Sandwich, Pizza, Burger : ₹1,000 for two :  Wardhaman Nagar, Nagpur
+Uttar Dakshin By Naivedhyam : New : South Indian, North Indian, Beverages : ₹400 for two :  Mohan Nagar, Nagpur
+The Chocolate Room : 3.9 : Cafe, Mexican, Italian, Desserts, Pizza, Continental, Sandwich, Shake : ₹600 for two :  Ravi Nagar, Nagpur
+Shree Ganesh Sagar : 3.9 : North Indian, South Indian, Chinese, Ice Cream, Sandwich, Pizza, Desserts, Beverages : ₹500 for two :  Dhantoli, Nagpur
+Huber & Holly : 3.7 : Ice Cream, Desserts, Pizza, Sandwich, Fast Food, Shake : ₹600 for two :  Dharampeth, Nagpur
+Ruoofh 180 : 4.3 : Continental, Italian, Chinese, Finger Food, Desserts, Fast Food : ₹1,200 for two :  Hotel Tuli Imperial, Ramdaspeth, Nagpur
+The Seven Hotel : 4.0 : North Indian, Chinese, Continental, Biryani, Desserts : ₹1,300 for two :  Vivekanand Nagar, Nagpur
+H & B Thaat Restaurant : 3.5 : Maharashtrian, North Indian, Biryani, Chinese : ₹1,000 for two :  Ayodhya Nagar, Nagpur
+House Of Candy : 3.1 : Desserts : ₹200 for two :  Dhantoli, Nagpur
+Falani Mastani : 3.9 : Desserts, Beverages, Shake : ₹350 for two :  Dharampeth, Nagpur
+Regenta Central - Deja Brew : 4.7 : Fast Food, North Indian, Beverages : ₹1,400 for two :  Nandanvan, Nagpur
+Chaat Shaala : 4.5 : Fast Food, Street Food, Sandwich, Desserts, Bakery : ₹250 for two :  Ravi Nagar, Nagpur
+Saoji Jagdish Bhojnalaya : 3.6 : North Indian, Mughlai, Chinese, Fast Food : ₹1,000 for two :  Gandhibagh, Nagpur
+Al Taj Darbar Family Restaurant : New : Maharashtrian : ₹300 for two :  Nandanvan, Nagpur
+The H Cafe : 4.0 : Cafe, Coffee, Sandwich, Fast Food, Italian, Waffle, Desserts, Beverages : ₹1,000 for two :  Dharampeth, Nagpur
+Sardaar Ji : - : North Indian, Rolls, Mughlai, Momos, Seafood, Biryani, Desserts : ₹550 for two :  Ramdaspeth, Nagpur
+Fluff Artisan Cafe : New : Cafe, Coffee, Sandwich, Fast Food, Desserts, Beverages : ₹700 for two :  Bajaj Nagar, Nagpur
+Haldiram's Restaurant : 3.5 : North Indian, Fast Food, South Indian, Desserts, Healthy Food, Mithai : ₹400 for two :  Sitabuldi, Nagpur
+Agent Jack's Bar : 4.4 : Sandwich, Fast Food, Pizza, Desserts : ₹1,000 for two :  Ayodhya Nagar, Nagpur
+Firangish Cafe & Courtyard : 4.3 : Cafe, North Indian, Sandwich, Pizza, Burger, Fast Food, Chinese, Desserts : ₹500 for two :  Dharampeth, Nagpur
+Vishnuji Ki Rasoi : 4.6 : Maharashtrian, North Indian, Desserts : ₹600 for two :  Bajaj Nagar, Nagpur
+Hotel Ashoka Imperial : 3.4 : North Indian, Chinese, South Indian, Biryani, Sichuan, Salad, Desserts, Beverages : ₹850 for two :  Manish Nagar, Nagpur
+Indiya Oye - Radisson Blu Hotel : New : North Indian, Mughlai, Oriental, Fast Food, Desserts, Beverages, Finger Food : ₹2,500 for two :  Radisson Blu Hotel, Nagpur, Nagpur
+The Unlimited Biryani : - : Biryani, North Indian, Chinese, Seafood, Kebab, Mughlai, Rolls : ₹1,000 for two :  Gayatri Nagar, Nagpur
+Nanking's : 4.3 : Chinese, Asian, Seafood, Sichuan : ₹1,000 for two :  Civil Lines, Nagpur
+222 Backyard : 4.2 : Cafe, Coffee, Sandwich, Italian, Pizza, Fast Food, Beverages : ₹500 for two :  Dharampeth, Nagpur
+Lord Of The Drinks : 4.0 : Bar Food, Italian, Fast Food, North Indian, Chinese, Desserts, Shake, Beverages : ₹2,000 for two :  Dharampeth, Nagpur
+Collective Blends Coffee : 3.0 : Cafe, Coffee, Burger, Mexican, Sandwich, Pasta, Shake, Beverages : ₹1,000 for two :  Dharampeth, Nagpur
+Babbu's Food Plaza : 4.1 : North Indian, Biryani, Mughlai : ₹450 for two :  Sadar, Nagpur
+Hyderabad Biryani.com : 4.0 : Biryani, Hyderabadi : ₹500 for two :  Civil Lines, Nagpur
+Frosty Panda : 3.9 : Waffle, Desserts, Shake, Beverages : ₹250 for two :  Pratap Nagar, Nagpur
+Firangish 2.0 : 4.4 : Cafe, Coffee, Shake, Beverages, Desserts, Pizza, Burger, Fast Food : ₹500 for two :  Mohan Nagar, Nagpur
+Drink n Dream : 3.7 : Beverages, Juices, Shake : ₹250 for two :  Wardhaman Nagar, Nagpur
+Kareem's : 4.1 : North Indian, Mughlai, Biryani, Desserts : ₹800 for two :  Chaoni, Nagpur
+Uttarayan Pure Veg Restaurant : 3.5 : Maharashtrian, North Indian, Chinese : ₹550 for two :  Pratap Nagar, Nagpur
+Zinq : 3.9 : Continental, Italian, North Indian, Chinese, Thai, Sandwich, Pizza, Fast Food : ₹2,200 for two :  Civil Lines, Nagpur
+Gulshan Bakery & Cafe : 4.0 : Bakery, Pizza, Sandwich, Burger, Fast Food, Chinese, Shake, Beverages : ₹300 for two :  Pachpaoli, Nagpur
+Babbu's Galaxy Restaurant : 3.7 : North Indian, Mughlai : ₹1,000 for two :  Chaoni, Nagpur
+The Palate Restaurant : 3.9 : North Indian, Biryani, Kebab : ₹1,000 for two :  Dharampeth, Nagpur
+The Beach Story : - : North Indian, Seafood, Chinese, Mughlai, Beverages : ₹1,000 for two :  Mankapur, Nagpur
+Paratha Shop : 4.2 : North Indian : ₹400 for two :  Sadar, Nagpur
+Cafe Bella Rosa : 4.0 : Cafe, Coffee, Italian, Chinese, Continental, Desserts, Beverages : ₹600 for two :  Pratap Nagar, Nagpur
+Three Brothers Family Restaurant Lounge : 4.3 : North Indian, Chinese, Mughlai, Kebab, Biryani, Fast Food, Desserts, Beverages : ₹1,300 for two :  Jaripatka, Nagpur
+Yash Restro : - : North Indian, South Indian, Street Food, Tea, Beverages : ₹250 for two :  Nandanvan, Nagpur
+Checkers : 4.3 : Chinese, Continental, Fast Food, North Indian, Sandwich, Pasta, Beverages : ₹700 for two :  Sadar, Nagpur
+Assal Varahdi : 3.6 : Maharashtrian, Juices, Shake : ₹200 for two :  Pratap Nagar, Nagpur
+Centre Point Delivery : 4.1 : North Indian, Fast Food, Seafood, Chinese, Continental : ₹850 for two :  Ramdaspeth, Nagpur
+Baithak Saoji Bhojnalaya : 3.8 : Maharashtrian, North Indian : ₹400 for two :  Mankapur, Nagpur
+Aromas Cafe & Bistro : 3.2 : Cafe, Coffee, Desserts, Tea, Beverages : ₹600 for two :  Pratap Nagar, Nagpur
+Anaya Bakery 2.0 : 4.0 : Burger, Sandwich, Fast Food, Rolls, Bakery, Chinese, Desserts, Beverages : ₹350 for two :  Mominpura, Nagpur
+The Next Chapter Cafe : New : Cafe, Continental, Italian, Burger, Fast Food, Parsi, Beverages : ₹800 for two :  Dharampeth, Nagpur
+Lord Of Barbeque : New : North Indian, Chinese, Rolls, Sichuan, Biryani : ₹700 for two :  Pratap Nagar, Nagpur
+Ethyl - Radisson Blu Hotel : 3.9 : North Indian, Oriental, Fast Food, Desserts, Beverages : ₹3,500 for two :  Radisson Blu Hotel, Nagpur, Nagpur
+Babbu Hotel : 3.4 : North Indian, Mughlai, Biryani, Chinese, Kebab : ₹700 for two :  Mominpura, Nagpur
+Varhadi That : New : Maharashtrian, North Indian, Desserts : ₹350 for two :  Dhantoli, Nagpur
+Sangam Restaurant : 3.6 : South Indian, Mithai, Juices, Shake, Beverages : ₹300 for two :  Ayodhya Nagar, Nagpur
+Navratna Raghav : New : North Indian, Gujarati : ₹400 for two :  Sadar, Nagpur
+Varhadi Thali Centre : New : North Indian, Maharashtrian : ₹300 for two :  Pratap Nagar, Nagpur
+Pink Berry Cakes : 3.8 : Bakery, Desserts : ₹450 for two :  Bajaj Nagar, Nagpur
+East India Company : 4.3 : Chinese, Continental, North Indian, Biryani, Mughlai, Bar Food, Asian : ₹1,500 for two :  Civil Lines, Nagpur
+Chai Villa : 4.2 : Beverages, Fast Food, Tea, Shake, Street Food, Sandwich, Pizza : ₹200 for two :  Ramdaspeth, Nagpur
+Subway : 4.1 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹400 for two :  Ayodhya Nagar, Nagpur
+Hungry Eyes : 4.1 : North Indian, Chinese : ₹550 for two :  Sadar, Nagpur
+Amazing Blazing Cakes : 3.9 : Bakery, Beverages, Fast Food, Sichuan : ₹300 for two :  Dharampeth, Nagpur
+Moksh The Restro Lounge : 3.9 : Chinese, Mughlai, North Indian, Continental, Burmese, Kebab, Pizza, Asian : ₹2,000 for two :  Sitabuldi, Nagpur
+Starbucks Coffee : 3.9 : Coffee, Desserts : ₹600 for two :  Dharampeth, Nagpur
+Harrys Pastry Corner : 3.9 : Bakery, Desserts, Fast Food, Biryani : ₹400 for two :  Sadar, Nagpur
+Cluckers : - : Burger, Fast Food, Sandwich, Wraps : ₹400 for two :  Sadar, Nagpur
+Istaqbaal Restaurant : 4.0 : North Indian, Mughlai, Chinese, Biryani, Shake : ₹550 for two :  Sadar, Nagpur
+Varhadi Vyanjan : 2.6 : Maharashtrian, North Indian, Desserts : ₹300 for two :  Pratap Nagar, Nagpur
+Thali Wala : - : North Indian, Chinese, Street Food : ₹400 for two :  Dhantoli, Nagpur
+Burhanpur Juice Center : 4.3 : Beverages, Shake : ₹200 for two :  Dharampeth, Nagpur
+The Grand Cuisines : 4.2 : North Indian, Mughlai, Desserts, Beverages : ₹1,000 for two :  Dharampeth, Nagpur
+Matadin Ram Bhandar : 4.3 : Mithai, Fast Food, North Indian, South Indian, Chinese, Beverages, Desserts, Juices : ₹500 for two :  Pratap Nagar, Nagpur
+Bhatiya's Kitchen : 3.2 : North Indian, Chinese, Biryani, Mughlai, Kebab : ₹500 for two :  Jaripatka, Nagpur
+Bawarchi Restaurant : 3.9 : North Indian, Chinese, Fast Food, Kebab, South Indian, Pizza, Beverages, Sichuan : ₹1,000 for two :  Dharampeth, Nagpur
+Sam's Pizza : 3.7 : Italian, Pizza : ₹1,000 for two :  Wardhaman Nagar, Nagpur
+Hotel Orient Taibah : 3.6 : North Indian, Chinese, Biryani, Fast Food, Beverages : ₹1,000 for two :  Gandhibagh, Nagpur
+La Pino'z Pizza : 4.2 : Pizza, Pasta, Italian, Fast Food : ₹600 for two :  Dharampeth, Nagpur
+Merwin's : 3.7 : Fast Food, Sandwich, Goan, Beverages : ₹400 for two :  Ravi Nagar, Nagpur
+Gayatri Bhojnalaya : 3.5 : Maharashtrian, Desserts : ₹300 for two :  Dharampeth, Nagpur
+Pintu Saoji Restaurant : - : North Indian, Mughlai, Biryani : ₹800 for two :  Lakadganj, Nagpur
+Panino The Sandwich World : 3.8 : Sandwich, Fast Food, Burger, Pizza, Shake, Beverages : ₹400 for two :  Manish Nagar, Nagpur
+La Farine Patisserie And Cafe : 4.5 : Bakery, Desserts : ₹350 for two :  Bajaj Nagar, Nagpur
+Nature Of Spices : 3.4 : North Indian, Momos : ₹350 for two :  Nandanvan, Nagpur
+Desi Videsi : 3.9 : North Indian, Fast Food : ₹400 for two :  Somalwada, Nagpur
+Dastarkhwan : 3.1 : Mughlai, North Indian, Biryani, Chinese, Sichuan : ₹800 for two :  Mankapur, Nagpur
+Donuterie : 3.1 : Desserts : ₹200 for two :  Bajaj Nagar, Nagpur
+Magic 99 The Desi Dine : 3.9 : North Indian, Biryani : ₹400 for two :  Nandanvan, Nagpur
+D9 Restro Lounge : 4.2 : North Indian, Chinese, Mughlai, Beverages, Sichuan, South Indian, Continental, Desserts : ₹500 for two :  Sitabuldi, Nagpur
+Arabian Taj : 4.0 : Chinese, North Indian, Mughlai, Biryani, Sichuan : ₹1,000 for two :  Sadar, Nagpur
+Hotel Heritage Restaurant : 3.7 : North Indian, Chinese, Mughlai, Continental, Desserts, Seafood, Sichuan : ₹900 for two :  Civil Lines, Nagpur
+Food Garage : 3.1 : Maharashtrian, Pizza : ₹200 for two :  Gandhibagh, Nagpur
+Alberto The Kitchen : New : Asian, Pizza, Sandwich, Fast Food, Street Food, Beverages : ₹300 for two :  Nandanvan, Nagpur
+Megha Juice & Foods : - : Fast Food, Street Food, North Indian : ₹200 for two :  Vivekanand Nagar, Nagpur
+Six Degrees : 2.9 : North Indian, Chinese, Street Food, Fast Food, Pizza, Pasta, Beverages : ₹1,000 for two :  Gayatri Nagar, Nagpur
+Mustard Restro Lounge : 3.8 : Fast Food, North Indian, Chinese, Mughlai, Goan, Beverages : ₹1,500 for two :  Dharampeth, Nagpur
+Mad Frog Shawarma & Rolls : New : Shawarma, Rolls : ₹300 for two :  Wardha Road, Nagpur
+Garamshala : 4.4 : Fast Food, Beverages : ₹400 for two :  Chaoni, Nagpur
+Yello : 3.3 : Fast Food, Street Food, Pizza, Sandwich, Rolls, Pancake, Coffee, Beverages : ₹500 for two :  Pratap Nagar, Nagpur
+Pepper & Salt : 3.5 : Maharashtrian : ₹450 for two :  Gayatri Nagar, Nagpur
+ML Canteen : New : Biryani, North Indian, Chinese : ₹350 for two :  Mominpura, Nagpur
+The Kathi Crossing : New : Fast Food, Rolls : ₹300 for two :  Chaoni, Nagpur
+Sunbird Cafe : 4.1 : Chinese, Pizza, Sandwich, Pasta, Momos, Fast Food, Mexican, Beverages : ₹500 for two :  Bajaj Nagar, Nagpur
+Baskin Robbins - Ice Cream Desserts : 3.6 : Ice Cream, Desserts, Beverages, Bakery : ₹500 for two :  Dharampeth, Nagpur
+BBC Courtyard : 3.9 : North Indian, Chinese, Continental, Desserts, Beverages, Sichuan : ₹750 for two :  Kamptee Locality, Nagpur
+Shraddha's Dine : New : Maharashtrian, North Indian, Desserts : ₹300 for two :  Bajaj Nagar, Nagpur
+Hot Stone Pizzeria : 3.8 : Pizza, Burger, Sandwich, Fast Food, Street Food : ₹300 for two :  Pratap Nagar, Nagpur
+Eataly Cafe : 4.3 : Sandwich, Burger, Pizza, Fast Food, Shake, Juices, Beverages : ₹300 for two :  Civil Lines, Nagpur
+Fuel Headquaters : New : Pizza, European, Chinese, Continental, Healthy Food, Biryani, Beverages, Sichuan : ₹600 for two :  Bajaj Nagar, Nagpur
+Shree Ganesh Sagar : 3.8 : South Indian, North Indian, Beverages, Juices : ₹300 for two :  Dharampeth, Nagpur
+TOK- Taste Of Korea : 3.8 : Korean, Fast Food : ₹250 for two :  Civil Lines, Nagpur
+Natural Ice Cream : New : Ice Cream, Desserts : ₹300 for two :  Dharampeth, Nagpur
+Java The Coffee Club : 3.5 : Cafe, North Indian, Italian, Fast Food, Street Food, Coffee, Beverages, Desserts : ₹700 for two :  Gayatri Nagar, Nagpur
+MJ Soya Chaap Corner : 3.8 : North Indian, Fast Food, Desserts : ₹300 for two :  Lakadganj, Nagpur
+Desi Grill : 4.1 : Biryani, North Indian, Chinese, Mughlai, Seafood, Desserts, Beverages : ₹400 for two :  Nandanvan, Nagpur
+Jam's Cafe : 3.3 : Chinese, Sandwich, Pizza, Momos, Fast Food, Street Food, Shake, Beverages : ₹250 for two :  Ravi Nagar, Nagpur
+Gokul Restro : 3.9 : South Indian, Chinese, Fast Food, Pizza, Sandwich, Rolls, Street Food, Sichuan : ₹300 for two :  Gandhibagh, Nagpur
+Vina Vihar Restaurant : 3.8 : South Indian, Juices, Shake, Beverages : ₹250 for two :  Dhantoli, Nagpur
+Ottomans Kunafa : 3.2 : Desserts : ₹200 for two :  Chaoni, Nagpur
+Nosh Cafe : 3.6 : Sandwich, Pizza, Burger, Fast Food, Street Food, Tea, Shake, Beverages : ₹350 for two :  Chaoni, Nagpur
+Freakk De Bistro : 4.5 : Continental, Fast Food, Beverages, Bakery, Pancake : ₹1,000 for two :  Ramdaspeth, Nagpur
+Cafe Bonjour Mama : 3.7 : Sandwich, Pizza, Fast Food, Street Food, Chinese, Waffle, Desserts, Beverages : ₹400 for two :  Wardhaman Nagar, Nagpur
+Submarine Sandwiches : 3.8 : Sandwich, Pizza, Burger, Fast Food : ₹300 for two :  Pratap Nagar, Nagpur
+Hungry Holiday : 3.9 : Pizza, Sandwich, Rolls, Fast Food, Street Food, North Indian, Waffle, Shake : ₹450 for two :  Nandanvan, Nagpur
+Majestic Masala : 3.9 : Rajasthani, North Indian, Gujarati, Mughlai, Bar Food, Desserts, Biryani : ₹1,500 for two :  Hotel Tuli Imperial, Ramdaspeth, Nagpur
+Shere Punjab : 4.0 : Street Food, Mithai : ₹200 for two :  Pachpaoli, Nagpur
+Chai Sutta Cafe : 3.9 : Fast Food, Pizza, Sandwich, Beverages : ₹200 for two :  Nandanvan, Nagpur
+Cafe Koreanaa : - : North Indian, Sandwich, Coffee, Shake, Tea : ₹400 for two :  Civil Lines, Nagpur
+Shree Gayatri Bhojnalaya : 3.6 : North Indian : ₹400 for two :  Pratap Nagar, Nagpur
+99 Pancakes : 4.3 : Pancake, Waffle, Desserts, Pizza, Tea, Coffee, Shake : ₹350 for two :  Dharampeth, Nagpur
+Shahu G Food's : 3.7 : Chinese, North Indian : ₹350 for two :  Vayusena nagar, Nagpur
+JD's Just Dessertz : - : Ice Cream, Bakery, Desserts, Shake, Beverages : ₹350 for two :  Civil Lines, Nagpur
+Carnations : 3.3 : North Indian, Chinese, Mughlai, Continental, Biryani, Kebab, Desserts, Beverages : ₹1,500 for two :  Sadar, Nagpur
+Mini Punjab : 4.1 : Chinese, North Indian, Mughlai, Biryani, Kebab, Sichuan, Desserts, Rolls : ₹700 for two :  Dharampeth, Nagpur
+Sadanand's Fine Dine : 3.2 : Chinese, Beverages, Street Food, Fast Food, South Indian, Shake : ₹300 for two :  Sitabuldi, Nagpur
+NP's Cafe : 3.7 : Chinese, Pasta, Sandwich, Burger, Rolls, Fast Food, Street Food, Shake : ₹400 for two :  Nandanvan, Nagpur
+Vyanjanam-The Taste Of India : 2.5 : South Indian, North Indian, Chinese, Beverages : ₹800 for two :  Ramdaspeth, Nagpur
+Dosa Cafe : 3.8 : South Indian, North Indian, Street Food, Chinese, Beverages : ₹200 for two :  Sitabuldi, Nagpur
+Jubilee Bakery : New : Bakery, Burger, Sandwich, Fast Food, Desserts : ₹200 for two :  Chaoni, Nagpur
+The Indian Grill : 3.9 : North Indian, Mughlai, Kebab, Chinese, Asian, Desserts : ₹1,000 for two :  Jaripatka, Nagpur
+Liberty Family Restaurant : 3.5 : North Indian, Mughlai, Biryani, Chinese, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Sadar, Nagpur
+Kings Kitchen : 3.5 : North Indian, Mughlai, Biryani, Chinese, Fast Food : ₹1,000 for two :  Jaripatka, Nagpur
+Veeraswami : 3.2 : South Indian, Street Food : ₹300 for two :  Sadar, Nagpur
+The Vintage Cafe : 3.0 : Cafe, Fast Food, Sandwich, Pizza, Beverages, Sichuan : ₹400 for two :  Ravi Nagar, Nagpur
+Shahi Haandi Kebab & Biryani : 3.3 : North Indian, Mughlai, Seafood, Chinese, Biryani : ₹500 for two :  Gokulpeth, Nagpur
+Chick N Burg : 4.3 : Fast Food, Burger, Beverages : ₹350 for two :  Bajaj Nagar, Nagpur
+Babbu Plaza Restaurant : 2.8 : North Indian, Mughlai, Biryani, Beverages : ₹500 for two :  Sadar, Nagpur
+Hotel Al Rahman : 4.0 : North Indian, Mughlai, Biryani, Chinese : ₹450 for two :  Lakadganj, Nagpur
+Aaicha Swayampak Maharashtrian Restaurant : 3.8 : Maharashtrian, North Indian : ₹300 for two :  Vivekanand Nagar, Nagpur
+Southern Spice Dhaba : 3.7 : South Indian, North Indian, Chinese, Desserts, Shake, Beverages : ₹1,000 for two :  Ravi Nagar, Nagpur
+Calcutta Rolls : 4.2 : North Indian, Mughlai, Seafood, Chinese, Rolls, Fast Food, Ice Cream, Beverages : ₹1,000 for two :  Dharampeth, Nagpur
+The Other Side (TOS) : 4.3 : Continental, Chinese, North Indian, Mughlai, Fast Food, Beverages : ₹1,200 for two :  Sadar, Nagpur
+Kanchipuram South Indian Restaurant : 4.2 : South Indian, Beverages, Street Food, Desserts : ₹250 for two :  Ravi Nagar, Nagpur
+F&B Studio : 3.9 : Fast Food, Pizza, Sandwich, Beverages : ₹400 for two :  Dharampeth, Nagpur
+Maharaj Bag Lawn : 3.9 : North Indian, Chinese, Continental, Sandwich, Desserts, Beverages : ₹1,000 for two :  Amravati Road, Nagpur
+Rahi Savji Gharghuti Bhojnalay : 3.9 : North Indian : ₹300 for two :  Pratap Nagar, Nagpur
+Grill Inn : 3.6 : Burger, Pizza, Sandwich, Fast Food, Pasta, Shake, Beverages : ₹400 for two :  Sadar, Nagpur
+Classmate Cafe : 4.2 : Fast Food, Pizza, Japanese, Pasta : ₹900 for two :  Nandanvan, Nagpur
+Beijing Lu : New : Chinese, Thai, Street Food : ₹500 for two :  Sadar, Nagpur
+Masala by Hotel Brijinn : 3.8 : North Indian, Street Food : ₹600 for two :  Gandhibagh, Nagpur
+Coffeeboo : 3.9 : Cafe, Fast Food : ₹350 for two :  Chaoni, Nagpur
+Jay Ambika Bhojnalay : 3.7 : North Indian : ₹400 for two :  Gandhibagh, Nagpur
+Arabian Tandoor : 3.2 : North Indian, Chinese, Biryani, Desserts, Arabian, Sichuan : ₹600 for two :  Mankapur, Nagpur
+Sakuraa's - The Bubble World : 4.3 : Cafe, Coffee, Bubble Tea, Shake, Beverages, Sandwich, Fast Food, Waffle : ₹700 for two :  Nandanvan, Nagpur
+Khansama - Authentic Mughlai Restaurant : 3.6 : Mughlai, North Indian, Kebab : ₹500 for two :  Chaoni, Nagpur
+The Corner House : - : North Indian, Maharashtrian, Mughlai, Chinese, Sichuan : ₹1,200 for two :  Bajaj Nagar, Nagpur
+Burger Bar : - : Burger, Fast Food, Beverages, Desserts : ₹500 for two :  Bajaj Nagar, Nagpur
+Hotel Al-Zam Zam : 3.0 : Biryani, North Indian, Chinese, Mughlai, Saoji : ₹1,000 for two :  Vivekanand Nagar, Nagpur
+Krishnum Food Plaza : 3.8 : South Indian, North Indian, Chinese, Fast Food, Beverages, Desserts : ₹500 for two :  Civil Lines, Nagpur
+Mocoa : 3.3 : Cafe, Coffee, Shake, Beverages : ₹300 for two :  Dharampeth, Nagpur
+Maddtowns Sports Restrobar : 4.0 : Chinese, North Indian, Fast Food, Beverages, Desserts, Seafood, Italian, Salad : ₹1,700 for two :  Sadar, Nagpur
+All About Coffee : 4.1 : Cafe, Coffee, Shake, Tea, Beverages : ₹300 for two :  Seminary Hills, Nagpur
+Habits Restaurant : - : Chinese, Thai, Mongolian, Continental, North Indian, Fast Food, Desserts, Beverages : ₹1,000 for two :  Wardhaman Nagar, Nagpur
+The Sandwich Shop : - : Fast Food, Sandwich, Burger : ₹400 for two :  Ramdaspeth, Nagpur
+Story House : 4.0 : North Indian, Continental, Oriental, Fast Food, Pizza, Salad, Chinese, Beverages : ₹1,100 for two :  Pratap Nagar, Nagpur
+I Love Momo : 3.9 : Momos : ₹300 for two :  Pratap Nagar, Nagpur
+Cake N Chocolate : 3.7 : Bakery, Fast Food, Desserts : ₹250 for two :  Gandhibagh, Nagpur
+Chicago Pizza : 3.6 : Pizza : ₹450 for two :  Bajaj Nagar, Nagpur
+Veggietude : New : North Indian, Chinese, Ice Cream, Desserts : ₹1,000 for two :  Civil Lines, Nagpur
+Ice Cube : 3.4 : Chinese, North Indian, Mughlai, Bar Food, Biryani, Pizza, Sandwich, Desserts : ₹1,400 for two :  Sadar, Nagpur
+Shawarmaji : - : Shawarma, Fast Food, Chinese, Momos : ₹300 for two :  Gokulpeth, Nagpur
+The Cafe Barrel : 3.2 : North Indian, Pizza, Pasta, Chinese, Burger, Biryani, Desserts, Beverages : ₹1,000 for two :  Dharampeth, Nagpur
+Yakhani Biryani : 4.0 : Biryani, Kebab, North Indian, Chinese : ₹400 for two :  Pratap Nagar, Nagpur
+Calcutta Roll Center : 3.4 : North Indian, Rolls, Chinese, Beverages, Desserts, Sichuan : ₹350 for two :  Chaoni, Nagpur
+Delhi Chaap Corner : 4.3 : Momos, Rolls, North Indian : ₹400 for two :  Chaoni, Nagpur
+Reddy's Gokul Brindavan Restaurant : 3.8 : South Indian, Street Food, Beverages, Desserts : ₹200 for two :  Dharampeth, Nagpur
+Corner Point Family Restaurant And Lounge : 3.2 : North Indian, Chinese, Biryani, Mughlai : ₹650 for two :  Ayodhya Nagar, Nagpur
+The Brewed Leaf : - : Pasta, Fast Food : ₹550 for two :  Gokulpeth, Nagpur
+Crispy Vada Pav : 3.9 : Street Food, Fast Food : ₹250 for two :  Ravi Nagar, Nagpur
+Haldiram's Sweets and Namkeen : - : Mithai, Bakery, Desserts : ₹450 for two :  Sitabuldi, Nagpur
+Suryakant Saoji : 3.8 : Saoji, North Indian, Maharashtrian, Mughlai, Biryani : ₹500 for two :  Lakadganj, Nagpur
+Ambarsariya : 3.9 : Biryani, North Indian, Street Food, Beverages : ₹450 for two :  Ayodhya Nagar, Nagpur
+Checker's : 3.8 : Fast Food, Chinese, Pasta, Mughlai, Biryani, Continental, Shake, Beverages : ₹500 for two :  Civil Lines, Nagpur
+Biryaan Biryani : 3.6 : Biryani : ₹400 for two :  Wardha Road, Nagpur
+Highway's Family Restaurant : 4.5 : North Indian, Chinese, Mughlai, Biryani : ₹450 for two :  Sadar, Nagpur
+Hotel AL Quresh : 3.9 : North Indian, Mughlai, Biryani : ₹400 for two :  Mankapur, Nagpur
+Burger Or Chai : 3.8 : Burger, Tea, Fast Food, Shake, Beverages : ₹350 for two :  Bajaj Nagar, Nagpur
+The Orange Flame : - : North Indian, Chinese : ₹1,000 for two :  Jagrut Nagar, Nagpur
+Cake Walk : 4.1 : Bakery, Street Food : ₹200 for two :  Radisson Blu Hotel, Nagpur, Nagpur
+Ten 11 Cafe : 4.3 : Chinese, North Indian, Fast Food, Pizza, Sandwich, Beverages : ₹600 for two :  Jaripatka, Nagpur
+All That's Coffee : - : Coffee, Tea, Shake, Beverages : ₹300 for two :  Dharampeth, Nagpur
+Adda The Food Zone : 4.1 : Maharashtrian, Fast Food, Pizza, Burger, Sandwich, Momos, Street Food : ₹450 for two :  Pachpaoli, Nagpur
+Anaro Foodista : - : North Indian, Sandwich, Pizza, Burger, Momos, Hot dogs, Street Food, Beverages : ₹250 for two :  Ayodhya Nagar, Nagpur
+Vanilla Cafe : New : Cafe, Coffee, Burger, Italian, Chinese, Waffle, Bakery, Beverages : ₹500 for two :  Lakadganj, Nagpur
+Singh's : - : North Indian, Chinese, Mughlai, Biryani, Sichuan : ₹700 for two :  Dhantoli, Nagpur
+Rajeshahi Biryani : - : North Indian, Biryani, Fast Food : ₹250 for two :  Ayodhya Nagar, Nagpur
+Pohewala : - : Street Food, Finger Food, Shake, Coffee, Beverages : ₹400 for two :  Gandhibagh, Nagpur
+Shruti Food Express : 4.0 : South Indian, Maharashtrian, North Indian, Street Food, Sandwich, Pizza, Fast Food : ₹300 for two :  Vivekanand Nagar, Nagpur
+Kravers Mini Food Court : 3.9 : Pizza, Sandwich, Burger, Momos, Fast Food, Shake, Tea : ₹300 for two :  Pachpaoli, Nagpur
+Rudraksh Saoji Family Restaurant : 3.9 : North Indian, Chinese, Mughlai, Kebab, Seafood : ₹500 for two :  Nandanvan, Nagpur
+Shhort Order : New : North Indian, Fast Food, Chinese, Sichuan, Street Food, Bakery, Beverages : ₹500 for two :  Wardhaman Nagar, Nagpur
+The Pancake Story : New : Desserts, Fast Food, Beverages, Waffle, Shake : ₹400 for two :  Bajaj Nagar, Nagpur
+Tanveer Biryani Wala : New : Biryani, Desserts, Beverages : ₹300 for two :  Gandhibagh, Nagpur
+Chai Villa : 4.1 : Tea, Shake, Fast Food, Street Food : ₹250 for two :  Nandanvan, Nagpur
+Momo's Corner : - : Momos, Pizza, Burger, Sandwich, Pasta, Fast Food, Street Food : ₹450 for two :  Manish Nagar, Nagpur
+Swad Paratha Centre : - : North Indian, Desserts : ₹300 for two :  Ayodhya Nagar, Nagpur
+Muscleheadon The Health Cafe : 3.2 : Cafe, Healthy Food, Salad, Fast Food, Beverages, Sandwich : ₹600 for two :  Ramdaspeth, Nagpur
+Della Italia : New : Desserts, Beverages, Fast Food : ₹550 for two :  Civil Lines, Nagpur
+Mintleaf Restaurant : - : Chinese, Continental, Lebanese, Italian, South Indian, Beverages, Desserts, Shake : ₹1,500 for two :  Hotel Tuli Imperial, Ramdaspeth, Nagpur
+Friend's Fast Food : 3.8 : Biryani : ₹200 for two :  Pachpaoli, Nagpur
+Food Frenzy : 4.4 : Kebab, Momos : ₹300 for two :  Jagrut Nagar, Nagpur
+TCS - The Chappru Street : New : Chinese, Sandwich, Pizza, Fast Food, Momos, Burger, Beverages, Shake : ₹300 for two :  Lakadganj, Nagpur
+Euphoria Restaurant : - : North Indian, South Indian, Chinese, Pizza, Fast Food, Beverages : ₹1,000 for two :  Nandanvan, Nagpur
+The Kakori Conspiracy : New : North Indian, Mughlai, Asian, Kebab, Rolls : ₹1,500 for two :  Sadar, Nagpur
+Skywalk Restro & Cafe : 4.1 : North Indian, Chinese : ₹500 for two :  Nandanvan, Nagpur
+Samosazz : 3.4 : Street Food, Sandwich, Burger, Pizza, Fast Food, Momos, Tea, Beverages : ₹250 for two :  Gokulpeth, Nagpur
+The Chai Diary : 3.8 : Tea, Coffee, Shake, Pizza, Sandwich, Fast Food, Maharashtrian, Street Food : ₹250 for two :  Gandhibagh, Nagpur
+Ruchkar Assal Maharashtrian Vyanjan : 4.0 : Chinese, North Indian, Maharashtrian, Mughlai, Biryani, Desserts, Beverages : ₹600 for two :  Bajaj Nagar, Nagpur
+The Arvikar's Food Corner : - : North Indian, Chinese : ₹550 for two :  Manish Nagar, Nagpur
+Licksters : New : Ice Cream, Desserts, Beverages : ₹300 for two :  Dharampeth, Nagpur
+Hotel HKGN : 3.4 : Biryani : ₹300 for two :  Seminary Hills, Nagpur
+Red Cherry Cafe : 4.0 : Sandwich, Burger, Pizza, Rolls, Street Food, Chinese, Shake : ₹550 for two :  Sadar, Nagpur
+Durva Restaurant : 4.0 : North Indian, Chinese, Pizza, Fast Food, Ice Cream, Desserts, Beverages : ₹900 for two :  Dhantoli, Nagpur
+Cake-Links : 3.8 : Bakery : ₹300 for two :  Pratap Nagar, Nagpur
+Icing On The Cake : - : North Indian, Chinese, Pizza, Pasta, Fast Food, Shake, Bakery, Beverages : ₹600 for two :  Pratap Nagar, Nagpur
+Euphoria : New : Chinese, Street Food, Sichuan : ₹250 for two :  Nandanvan, Nagpur
+De Martini Lounge : 3.8 : North Indian, Chinese, Fast Food, Street Food : ₹1,000 for two :  Dharampeth, Nagpur
+Shabana's Bakery & Cafe : 4.5 : Bakery, Chinese, Sichuan, Sandwich, Pizza, Burger, Fast Food, Beverages : ₹300 for two :  Dharampeth, Nagpur
+Hotel President : 4.8 : Maharashtrian, North Indian, Chinese, South Indian, Beverages : ₹600 for two :  Sitabuldi, Nagpur
+Ramji's Food Plaza : New : Burger, Pizza, Sandwich, Fast Food, Chinese, South Indian, North Indian : ₹1,000 for two :  Ayodhya Nagar, Nagpur
+Hotel Taj : 4.0 : North Indian, Chinese : ₹450 for two :  Pachpaoli, Nagpur
+The Music Cafe : 3.4 : Chinese, Fast Food, Street Food, Burger, Rolls, Sandwich, Pizza, Shake : ₹400 for two :  Wardhaman Nagar, Nagpur
+SNS Multicuisne Restaurant : 3.6 : North Indian, Biryani, South Indian, Mughlai, Chinese, Desserts : ₹500 for two :  Nandanvan, Nagpur
+House Of Caffeine : 3.7 : Sandwich, Chinese, Street Food, Beverages : ₹250 for two :  Bajaj Nagar, Nagpur
+Yummi Momos And Restro : 4.1 : Momos, Fast Food : ₹300 for two :  Vayusena nagar, Nagpur
+Rasraj : 3.9 : Mithai, South Indian, North Indian, Chinese : ₹300 for two :  Pratap Nagar, Nagpur
+Punjab Restaurant Kartar Singh Da Dhaba : 4.0 : North Indian : ₹300 for two :  Mohan Nagar, Nagpur
+Rajkamal Mess & Restaurant : 4.3 : North Indian, Mughlai : ₹450 for two :  Ravi Nagar, Nagpur
+Mustard Restro Lounge And Bar : 3.8 : Continental, North Indian, Chinese, Bengali, Pizza, Biryani, Goan : ₹1,400 for two :  Sadar, Nagpur
+Goldy's Punjab Grill N Curry : 3.4 : North Indian, Biryani, Mughlai, Chinese : ₹500 for two :  Chaoni, Nagpur
+Bombay Chat Center : 3.8 : Fast Food, Maharashtrian, Street Food : ₹100 for two :  Pratap Nagar, Nagpur
+Chop N Hop : 3.8 : Sandwich, Street Food, Burger, North Indian, Chinese, Rolls, Fast Food, Beverages : ₹500 for two :  Civil Lines, Nagpur
+Fionaa Lounge And Restaurant : 3.3 : Continental, North Indian, Chinese, Italian, Pizza, Rolls, Street Food, Beverages : ₹1,000 for two :  Dharampeth, Nagpur
+Dinshaw's Cream Studio : 3.9 : Ice Cream, Desserts : ₹300 for two :  Sadar, Nagpur
+Kailash Parbat : - : North Indian, Street Food : ₹600 for two :  Ayodhya Nagar, Nagpur
+Fuel Station Cafe & Restro : 4.2 : Cafe, Coffee, Fast Food, Sandwich, Burger, Chinese, Street Food, Beverages : ₹500 for two :  Jaripatka, Nagpur
+Lahoree Deluxe Bar & Restaurant : 4.4 : North Indian, Chinese, Mughlai, Biryani, Finger Food, Continental, Beverages, Sichuan : ₹1,000 for two :  Dharampeth, Nagpur
+Nineties Cafe : 4.3 : Coffee, Fast Food, Pizza, Sandwich, Beverages, Shake, Burger, Street Food : ₹500 for two :  Dharampeth, Nagpur
+Khichadiwala : 4.2 : Healthy Food, North Indian, Beverages : ₹250 for two :  Ramdaspeth, Nagpur
+Kurtosshhh : 3.8 : European, Italian, Mexican, Healthy Food, Desserts, Beverages : ₹400 for two :  Bajaj Nagar, Nagpur
+Rhythm & Blues : 3.8 : North Indian, Continental, Italian, Fast Food, Desserts, Pizza, Pasta, Sandwich : ₹1,000 for two :  Sadar, Nagpur
+Rx - The Hideout Cafe : 4.0 : Pizza, Rolls, Sandwich, Burger, Fast Food, Chinese, Beverages, Sichuan : ₹400 for two :  Wardhaman Nagar, Nagpur
+The Kukku's Sandwiches : 4.2 : Fast Food, Sandwich, Chinese, Beverages : ₹400 for two :  Ravi Nagar, Nagpur
+Hot Sandwiches : 3.8 : Sandwich, Pizza, Burger, Chinese, Shake, Momos, Street Food, Fast Food : ₹250 for two :  Dhantoli, Nagpur
+Amrut Saoji Bhojnalay : 3.9 : Saoji, North Indian : ₹400 for two :  Sitabuldi, Nagpur
+Sagar Restaurant : 3.7 : North Indian, Chinese, Mughlai, Kebab, Seafood : ₹550 for two :  Mankapur, Nagpur
+Theody : 3.8 : Sandwich, Pizza, Fast Food, Beverages, Coffee, Shake : ₹500 for two :  Dharampeth, Nagpur
+Hungry Eyes : 4.2 : Fast Food, Chinese, Street Food : ₹450 for two :  Pachpaoli, Nagpur
+Siddiqui's Restaurant : 3.7 : North Indian, Mughlai, Chinese, Biryani, Seafood, Kebab : ₹1,000 for two :  Mankapur, Nagpur
+Food Mohalla : 3.0 : Pizza, Fast Food, Sandwich, Burger, Desserts, Beverages : ₹500 for two :  Bajaj Nagar, Nagpur
+House Of Chaap : 3.8 : North Indian, Rolls : ₹300 for two :  Dharampeth, Nagpur
+Hotel Tanveer : 4.0 : North Indian, Mughlai, Biryani : ₹600 for two :  Mominpura, Nagpur
+Rajesh Samosa : 2.8 : Street Food, Mithai, Desserts : ₹100 for two :  Vivekanand Nagar, Nagpur
+Dahiya Momos : 4.3 : Momos : ₹300 for two :  Pratap Nagar, Nagpur
+The Momo's Hut : 4.0 : Momos : ₹300 for two :  Dharampeth, Nagpur
+Solid Tandoori : 3.9 : Chinese, Sichuan, Mughlai, North Indian, Biryani, Rolls, Kebab : ₹350 for two :  Gittikhadan, Nagpur
+Moti Mahal Restaurant : 4.1 : North Indian, Mughlai, Biryani, Rolls, Desserts : ₹1,000 for two :  Mohan Nagar, Nagpur
+Hotel Bartania : 3.3 : North Indian, Chinese, Mughlai, Biryani, Salad : ₹600 for two :  Mominpura, Nagpur
+Hotel Darshan Towers - Amantran Restaurant : 3.5 : North Indian, Chinese, Biryani, Seafood, Beverages, Continental, Salad, Desserts : ₹1,500 for two :  Gandhibagh, Nagpur
+Eats & Treats : 3.9 : Chinese, Pizza, Sandwich, Fast Food, Burger, Sichuan, Shake, Beverages : ₹400 for two :  Nandanvan, Nagpur
+Shree Ganesh Bhandar : 4.0 : South Indian, North Indian, Chinese, Fast Food, Street Food, Pizza, Burger : ₹400 for two :  Gandhibagh, Nagpur
+Dessertino : 4.2 : Desserts, Shake : ₹400 for two :  Sadar, Nagpur

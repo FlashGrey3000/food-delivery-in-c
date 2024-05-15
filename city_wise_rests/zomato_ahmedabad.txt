@@ -1,0 +1,501 @@
+From The North : 4.3 : Asian, North Indian, Desserts, Beverages : ₹1,300 for two :  C G Road, Ahmedabad
+Makeba - The Lounge Cafe : 4.9 : Salad, North Indian, Italian, Fast Food, Desserts, Korean, Beverages : ₹1,800 for two :  Vastrapur, Ahmedabad
+Unlocked : 4.1 : Cafe, Fast Food, North Indian, Chinese, Desserts, Beverages, Italian : ₹1,200 for two :  Navrangpura, Ahmedabad
+Welcomcafe Ikkat : 3.2 : North Indian, Continental, Asian, Goan, Desserts, Beverages : ₹2,000 for two :  Ashram Road, Ahmedabad
+Scoby's : 3.7 : North Indian, Continental : ₹1,200 for two :  C G Road, Ahmedabad
+Pizza Don : 4.1 : Pizza, Coffee, Tea, Italian : ₹1,200 for two :  Navrangpura, Ahmedabad
+Sazzy Sizzlers : 4.7 : Chinese, Continental, Italian, Sandwich, Pizza, Asian, Salad, Desserts : ₹1,200 for two :  Naranpura, Ahmedabad
+Harmony Resto Cafe : 4.2 : North Indian, Kathiyawadi, Burger, Chinese, Panini, Sandwich, Gujarati, Coffee : ₹500 for two :  Navrangpura, Ahmedabad
+Uboat - Gourmet Subs : 3.9 : Sandwich, Wraps, Salad, Fast Food : ₹450 for two :  Navrangpura, Ahmedabad
+The Messy Door Cafe : 4.5 : Cafe, Coffee, Sandwich, Pizza, Pasta, Fast Food, Shake, Beverages : ₹850 for two :  Navrangpura, Ahmedabad
+Upper Crust : 4.4 : Chinese, BBQ, North Indian, Pasta, Italian, Fast Food : ₹850 for two :  Navrangpura, Ahmedabad
+Three Quarter Indian : 4.2 : North Indian, Continental, Italian, Chinese, Beverages, Desserts : ₹1,200 for two :  Satellite, Ahmedabad
+Niro By Nini's : 4.0 : Cafe, Coffee, Sandwich, Fast Food, Shake : ₹850 for two :  Gulbai Tekra, Ahmedabad
+Ishaara : 4.6 : North Indian, Mughlai, Kebab, Biryani, Rolls, Pizza, Desserts : ₹2,200 for two :  Palladium Mall, Ahmedabad
+Timpani - Radisson Blu : 3.9 : North Indian, Salad, Chinese, Continental, Desserts : ₹2,500 for two :  Radisson Blu, Ambavadi, Ahmedabad
+Mahamahal : 4.1 : North Indian, Gujarati, Italian, Thai, Chinese, South Indian, Mexican, Desserts : ₹1,000 for two :  Thaltej, Ahmedabad
+1989 By Sphere Lounge : 4.4 : Continental, Cafe, Mexican, North Indian, Italian, Salad, Desserts, Beverages : ₹1,700 for two :  Ambavadi, Ahmedabad
+Pepito : 3.0 : Asian, European, Modern Indian, Italian, Mexican, Coffee : ₹2,500 for two :  Thaltej, Ahmedabad
+Nini's Kitchen : 4.5 : North Indian, Italian, Continental, Shawarma, Pasta, Pizza, Desserts, Beverages : ₹1,400 for two :  C G Road, Ahmedabad
+The Shaka Cafe : 4.3 : Asian, Sushi, North Indian, Chinese, Cafe, Desserts, Beverages, Pizza : ₹1,000 for two :  Prahlad Nagar, Ahmedabad
+Kaffa Coffee Roasters : 4.3 : Continental, Fast Food, Pizza, Coffee, Desserts : ₹850 for two :  Vastrapur, Ahmedabad
+The Indian Channel : 4.0 : North Indian, Chinese, Italian, Japanese, Asian, Desserts : ₹2,500 for two :  Bodakdev, Ahmedabad
+Legends Of Punjab - By Pepperazi : 3.8 : North Indian, Fast Food, Chinese, Ice Cream, Desserts : ₹1,200 for two :  Gulbai Tekra, Ahmedabad
+Tim Tim Brew House : 4.9 : Chinese, Italian, Japanese, Spanish, Asian, Desserts : ₹2,100 for two :  Bodakdev, Ahmedabad
+Foo Ahmedabad : 4.5 : Chinese, Sushi, Asian, Japanese, Desserts : ₹1,500 for two :  Palladium Mall, Ahmedabad
+Masala County : 4.2 : North Indian, Chinese, Mughlai, Biryani, Ice Cream, Desserts, Beverages : ₹1,300 for two :  Shree Balaji Agora Mall, Chandkheda, Ahmedabad
+Mrs Mage - Hyatt Ahmedabad : 4.5 : Continental, Mexican, Modern Indian, Arabian, Beverages : ₹3,000 for two :  Hyatt, Vastrapur, Ahmedabad
+K's Charcoal : 3.2 : Pizza, Pasta, Italian, Fast Food, Salad, Desserts, Beverages : ₹1,500 for two :  Bodakdev, Ahmedabad
+Collage - Hyatt : 4.1 : South Indian, Continental, Fast Food, Pizza, Chinese, North Indian, Mughlai, Beverages : ₹2,500 for two :  Hyatt, Vastrapur, Ahmedabad
+The Fountain : 3.9 : Continental, North Indian : ₹1,500 for two :  Chandkheda, Ahmedabad
+Tomato's : 4.7 : North Indian, Chinese, Mexican, Asian, Italian, Oriental, Continental : ₹2,500 for two :  C G Road, Ahmedabad
+The Vibe-X Restro & Cafe : 4.1 : North Indian, Oriental, Sushi, Thai, Coffee, Pizza, Pasta : ₹1,200 for two :  Chandkheda, Ahmedabad
+Wow Dosa Fusion Of South Indian Food : 4.1 : South Indian, Desserts, Beverages, Coffee : ₹400 for two :  Gurukul, Ahmedabad
+Govinda's : 4.0 : North Indian, Chinese, Salad, Oriental, Pizza : ₹1,200 for two :  Satellite, Ahmedabad
+Pizza Don : New : Pizza, Continental, Italian, Chinese, Arabian : ₹1,000 for two :  Memnagar, Ahmedabad
+TG’s - The Oriental Grill - Hyatt : 4.9 : Oriental, Asian, Beverages : ₹3,000 for two :  Hyatt, Vastrapur, Ahmedabad
+Veranda Rooftop Restro Cafe : 3.6 : North Indian, Continental, Fast Food, Italian, Street Food, Shake, Beverages : ₹1,200 for two :  Satellite, Ahmedabad
+Punjab Grill : 4.1 : North Indian, Kebab, Biryani, Mughlai : ₹1,000 for two :  Palladium Mall, Ahmedabad
+Nomad Pizza : 3.4 : Pizza, Italian : ₹2,000 for two :  C G Road, Ahmedabad
+Poult : 4.5 : Burger, Fast Food, American : ₹1,000 for two :  Palladium Mall, Ahmedabad
+Food Stories By The Westend : 4.2 : North Indian, Tex-Mex, Italian, Beverages, Modern Indian, Desserts, Pasta, Mexican : ₹950 for two :  Thaltej, Ahmedabad
+Cha : 4.2 : Asian, Chinese : ₹1,800 for two :  Palladium Mall, Ahmedabad
+Kinjal Dining Hall : 3.6 : North Indian, Gujarati : ₹300 for two :  Shahibagh, Ahmedabad
+UKIYO-  Live In The Moment : 4.6 : Continental, North Indian, Salad, Fast Food, Italian, Desserts, Beverages : ₹1,100 for two :  Prahlad Nagar, Ahmedabad
+Roastery Cultur - The Coffee Company : 4.4 : Cafe, Fast Food, Italian, Coffee, Beverages, Desserts : ₹500 for two :  Bodakdev, Ahmedabad
+Burma Burma - Thaltej : 4.8 : Burmese, Asian, Salad, Bubble Tea, Ice Cream, Desserts : ₹1,800 for two :  Palladium Mall, Ahmedabad
+Pita Pita : 3.8 : Mediterranean, Healthy Food, Shawarma, Salad : ₹850 for two :  Bodakdev, Ahmedabad
+MayKA : New : North Indian, Modern Indian, Desserts, Chinese : ₹1,000 for two :  Bodakdev, Ahmedabad
+Bellasen Bistro : 4.2 : North Indian, Chinese, Continental, Salad, Asian, Kebab, Fast Food, Bakery : ₹1,900 for two :  Bodakdev, Ahmedabad
+@Mango : 4.1 : Continental, Italian, Chinese, North Indian, Pizza, Desserts, Beverages : ₹2,300 for two :  Bodakdev, Ahmedabad
+Massala Theoryy : 4.2 : North Indian, Mughlai, Chinese, Mexican, Biryani, Italian, Beverages : ₹500 for two :  Bodakdev, Ahmedabad
+Cilantro's Global Cuisine Restaurant : 4.5 : North Indian, Asian, Chinese, Pizza, Italian, Continental, Desserts, Beverages : ₹1,200 for two :  Airport Gandhinagar Highway, Gandhinagar
+Zoca Cafe : 3.9 : Cafe, Coffee, North Indian, Continental, Chinese, Pizza, Fast Food, Beverages : ₹800 for two :  Bodakdev, Ahmedabad
+Banjara- The Culinary Symphony : 4.3 : Chinese, Continental, Oriental, Desserts, Beverages : ₹1,700 for two :  Bodakdev, Ahmedabad
+Fozzie's Pizzaiolo : 4.2 : Cafe, Coffee, Pizza, Pasta, Mexican, Italian, Desserts, Beverages : ₹500 for two :  Bodakdev, Ahmedabad
+Sizzling Shihai : 4.3 : Chinese, Thai, Desserts, Beverages : ₹1,400 for two :  Shree Balaji Agora Mall, Chandkheda, Ahmedabad
+Chelvies Coffee : 3.8 : Cafe, Coffee, Bakery, Sandwich, Pizza, Fast Food, Desserts, Beverages : ₹1,500 for two :  Bodakdev, Ahmedabad
+Pep House : 4.3 : Modern Indian, North Indian, Italian, Oriental, Desserts, Beverages : ₹1,800 for two :  Bodakdev, Ahmedabad
+R Kitchen - Renaissance Hotel : 4.2 : North Indian, Chinese, Asian, Beverages, Desserts : ₹2,200 for two :  Renaissance Hotel, Sola, Ahmedabad
+Eat Punjab : 3.8 : North Indian, Chinese, Beverages, Biryani, Awadhi, Lucknowi, Desserts : ₹500 for two :  Chandkheda, Ahmedabad
+Amritsar Haveli : 3.9 : North Indian, Chinese, Street Food, Biryani, Desserts, Beverages : ₹900 for two :  Bodakdev, Ahmedabad
+Compass Kitchen : 4.4 : North Indian, Chinese, Sandwich, Pizza, Oriental, Street Food, Beverages, Pasta : ₹700 for two :  Chandkheda, Ahmedabad
+Kuro - Renaissance Hotel : 4.4 : Japanese, Asian, Chinese, Sushi : ₹2,500 for two :  Renaissance Hotel, Sola, Ahmedabad
+Maeva Restaurant & Banquet : 3.7 : Asian, North Indian, Pizza, Continental, Chinese, Fast Food, Biryani, Beverages : ₹1,200 for two :  Infocity, Gandhinagar
+Lithosphere By Upper Crust : 4.4 : Modern Indian, Asian, Continental, Italian, Pizza, North Indian, Biryani, Beverages : ₹1,800 for two :  Bodakdev, Ahmedabad
+Essence - Crowne Plaza : 4.2 : Continental, American, South Indian, Chinese, North Indian, Fast Food, Desserts, Beverages : ₹2,000 for two :  Crowne Plaza, Satellite, Ahmedabad
+Aura - Courtyard By Marriott SBR : 4.2 : Chinese, North Indian, Italian, Asian, Biryani, Beverages, Continental, Thai : ₹2,400 for two :  Courtyard By Marriott, Bodakdev, Ahmedabad
+Grilled Baked Boiled Restaurant : 3.9 : North Indian : ₹1,000 for two :  Bopal, Ahmedabad
+Casaro Fromagerie & Deli : 3.6 : Italian, Mediterranean, Salad, Pasta, Sandwich, Beverages : ₹1,000 for two :  Thaltej, Ahmedabad
+Java+ - Courtyard By Marriott : 4.0 : Italian, Fast Food, Street Food : ₹1,200 for two :  Courtyard By Marriott, Satellite, Ahmedabad
+The House Of Makeba : 4.2 : North Indian, Mexican, Italian, Shake, Beverages : ₹1,000 for two :  Bodakdev, Ahmedabad
+Taam Jhaam : 3.7 : North Indian, Chinese, Continental, Italian, Beverages, Desserts : ₹1,000 for two :  Bodakdev, Ahmedabad
+Pizzaiiolo - The Wood Fired Pizza : 4.4 : Pizza, Pasta, Italian, Sandwich, Fast Food, Shake, Beverages : ₹1,000 for two :  Thaltej, Ahmedabad
+Grill Kitchen : 4.2 : North Indian, Fast Food : ₹1,000 for two :  Prahlad Nagar, Ahmedabad
+Latte At Work  - Courtyard by Marriott : 4.2 : Cafe, Coffee, Fast Food, Italian, Shake, Beverages, Pizza, Sandwich : ₹1,200 for two :  Courtyard By Marriott, Bodakdev, Ahmedabad
+The Greenstraw House : 4.1 : Cafe, Fast Food, Tea, Beverages, Shake : ₹600 for two :  Ashram Road, Ahmedabad
+Core The Coffee Shop @ Lithosphere : 4.1 : Pizza, Burger, Pasta, Oriental, Cafe, Shake, Beverages : ₹2,000 for two :  Bodakdev, Ahmedabad
+Temptt Restro And Cafe : 4.3 : North Indian, Continental : ₹1,000 for two :  Chandkheda, Ahmedabad
+Mynt - Vivanta : 4.3 : North Indian, Mexican, Italian, Thai, Healthy Food : ₹3,500 for two :  Vivanta Ahmedabad, SG Highway, Ahmedabad
+The Pink Door : 3.9 : Street Food, Chinese, North Indian, Pizza, Desserts, Beverages : ₹1,600 for two :  Chandkheda, Ahmedabad
+Topspin : 4.6 : Cafe, Coffee, Tea, Shake, Bakery, Pizza, Sandwich, Continental : ₹1,200 for two :  Bodakdev, Ahmedabad
+The Trophy : 4.2 : North Indian, Mughlai, Oriental, Continental, Asian, Biryani, Pizza, Chinese : ₹1,700 for two :  Prahlad Nagar, Ahmedabad
+Dakshin Bhojnam : 4.3 : South Indian, Biryani, Beverages : ₹600 for two :  Sola, Ahmedabad
+Soul Square : 4.1 : Cafe, Italian, Mexican, Continental, Beverages : ₹1,000 for two :  Bodakdev, Ahmedabad
+Amritsar Haveli : 3.6 : North Indian, Chinese, Fast Food, Desserts, Shake, Beverages : ₹1,000 for two :  Prahlad Nagar, Ahmedabad
+Cucina Restaurant : 4.3 : Chinese, Continental, North Indian, Biryani, Pasta, Pizza : ₹1,000 for two :  Infocity, Gandhinagar
+The Secret Kitchen : 4.0 : North Indian, Sushi, Hot Pot, Beverages, Pasta, Pizza : ₹1,600 for two :  Bodakdev, Ahmedabad
+Florence At Nine : 3.7 : North Indian, Pizza, Italian, Fast Food, Desserts, Coffee, Beverages : ₹2,000 for two :  Bopal, Ahmedabad
+Sambar Cafe : 3.0 : South Indian : ₹300 for two :  Bodakdev, Ahmedabad
+Peppers By Pepperazzi : 4.1 : North Indian, Continental, Japanese, Asian : ₹1,500 for two :  C G Road, Ahmedabad
+Table Tales : 4.5 : North Indian, Italian, Wraps, Fast Food, Lebanese, Sandwich, Desserts, Beverages : ₹1,200 for two :  Bodakdev, Ahmedabad
+Fashiontv Cafe : New : North Indian, Italian, Asian, Salad, Fast Food, Desserts : ₹1,000 for two :  Palladium Mall, Ahmedabad
+Gwalia Vanakkam : 4.1 : South Indian, Desserts : ₹850 for two :  Venus Atlantis, Prahlad Nagar, Ahmedabad
+Micro Cafe : 3.9 : Burger : ₹250 for two :  Bodakdev, Ahmedabad
+Wok On Fire : 4.1 : Chinese, Asian : ₹1,000 for two :  Bodakdev, Ahmedabad
+Mirch Masala : 4.2 : North Indian, Mughlai, Biryani, Desserts, Beverages : ₹850 for two :  Subhash Bridge, Ahmedabad
+Jalpaan Restaurant : 3.8 : Street Food, Mexican, Italian, North Indian, Pizza, Chinese, Oriental, Desserts : ₹1,100 for two :  Thaltej, Ahmedabad
+Gordhan Thaal : 4.3 : Gujarati, North Indian : ₹700 for two :  Satellite, Ahmedabad
+Tres Amigos : 4.5 : Mexican, Continental, Fast Food : ₹500 for two :  Thaltej, Ahmedabad
+Tim Tim : 4.3 : Asian, Sushi, Beverages, North Indian : ₹500 for two :  Bodakdev, Ahmedabad
+Level 1 : New : North Indian, Asian, Italian, Mexican, Fast Food, Coffee, Shake, Beverages : ₹1,000 for two :  Thaltej, Ahmedabad
+Kanchiipuram : 4.3 : South Indian : ₹300 for two :  Bodakdev, Ahmedabad
+Angithi A Pure Veg Restaurant By Mirch Masala : 4.4 : North Indian, Street Food : ₹1,400 for two :  Bodakdev, Ahmedabad
+The Masala Stories : 4.1 : North Indian, Chinese, Biryani, Italian, Oriental, Fast Food, Desserts, Beverages : ₹1,600 for two :  Airport Gandhinagar Highway, Gandhinagar
+Poetry : 4.2 : Fast Food, Italian, Asian, Chinese, North Indian, Biryani, Desserts, Beverages : ₹1,300 for two :  Bodakdev, Ahmedabad
+Arbre : 3.9 : North Indian, Pizza, Pasta, Desserts : ₹1,000 for two :  Satellite, Ahmedabad
+Vintage Vibes : 3.9 : North Indian, Asian, Italian, Continental : ₹1,600 for two :  Thaltej, Ahmedabad
+Agashiye - The House Of MG : 4.6 : Gujarati : ₹2,500 for two :  Lal Darwaja, Ahmedabad
+Nosh : 4.0 : Mexican, Chinese, Italian, Beverages : ₹1,000 for two :  Thaltej, Ahmedabad
+Caffe Allora : 4.1 : Pizza, Italian, Pasta : ₹1,700 for two :  Palladium Mall, Ahmedabad
+Brick Kitchen - Five Petals : 4.4 : North Indian, Continental, Oriental, Salad, Desserts, Beverages : ₹1,400 for two :  Ghatlodia, Ahmedabad
+Riverside Deli : 4.2 : Cafe, Coffee, Fast Food, Shake, Beverages : ₹900 for two :  Ashram Road, Ahmedabad
+The Square - Hotel Novotel : 4.1 : North Indian, Continental, Asian : ₹3,000 for two :  Novotel, Ahmedabad, Ahmedabad
+Mocha : 4.4 : Italian, Pizza, Momos, Pasta, North Indian, Desserts, Beverages : ₹1,800 for two :  Bodakdev, Ahmedabad
+Aagrah : 4.2 : Gujarati, Desserts : ₹1,000 for two :  Shree Balaji Agora Mall, Chandkheda, Ahmedabad
+Narayani Multicuisine Restaurant : 4.0 : North Indian, Continental : ₹1,600 for two :  Airport Gandhinagar Highway, Gandhinagar
+Pink Palette : 4.4 : North Indian, Chinese, Pizza, Fast Food, Italian, Desserts, Coffee, Beverages : ₹1,400 for two :  Bodakdev, Ahmedabad
+Patang - The Revolving Restaurant : 3.5 : North Indian, Chinese, Continental : ₹3,500 for two :  Ashram Road, Ahmedabad
+Velvet Dine : 4.2 : North Indian, Italian, Chinese, Pizza, Desserts, Beverages : ₹1,500 for two :  Thaltej, Ahmedabad
+The Barnyard Co : 3.0 : North Indian, Italian : ₹1,000 for two :  Chandkheda, Ahmedabad
+Trevi - The Hillock : 4.0 : North Indian, Chinese, Italian, Fast Food, Asian, Beverages, Desserts : ₹2,500 for two :  Adalaj, Ahmedabad
+China House - Hyatt Regency : 4.6 : Chinese, Asian, Sichuan, Desserts : ₹3,500 for two :  Hyatt Regency, Ashram Road, Ahmedabad
+Pol 21 - Hotel Binori : 4.0 : North Indian, Chinese, South Indian, Salad, Biryani, Desserts, Beverages : ₹2,000 for two :  Hotel Binori, Thaltej, Ahmedabad
+MoMo Café - Courtyard By Marriott : 4.0 : North Indian, Asian, Fast Food, Chinese : ₹3,000 for two :  Courtyard By Marriott, Satellite, Ahmedabad
+Sale and Pepe - Ristorante Italiano : 4.3 : Italian, Pizza, Pasta : ₹1,400 for two :  Thaltej, Ahmedabad
+Cream Centre : 3.7 : Mexican, North Indian, Chinese, Sichuan, Street Food, Italian, Shake, Beverages : ₹1,400 for two :  Bodakdev, Ahmedabad
+Kovallam : 4.4 : South Indian, Beverages : ₹600 for two :  C G Road, Ahmedabad
+Tinello - Hyatt Regency : 4.3 : Italian, Continental, North Indian, South Indian, Asian, Sandwich, Desserts, Beverages : ₹4,000 for two :  Hyatt Regency, Ashram Road, Ahmedabad
+Taste & Tales : 4.1 : North Indian, Chinese, Mexican, Thai, Italian, Fast Food, Desserts, Shake : ₹800 for two :  Airport Gandhinagar Highway, Gandhinagar
+Mauve : 4.4 : Continental, Asian, Sushi, North Indian, Fast Food : ₹2,500 for two :  Thaltej, Ahmedabad
+Kake Di Hatti : 4.2 : North Indian, Chinese, Continental, Rolls, Pasta, Biryani : ₹1,700 for two :  Prahlad Nagar, Ahmedabad
+Umami By Curries : 4.2 : North Indian, Chinese, Mughlai, Fast Food, Beverages : ₹1,100 for two :  Vastrapur, Ahmedabad
+Cafe Where We Meet : New : Cafe, Coffee, Continental, Pizza, Fast Food, Tea, Beverages : ₹1,000 for two :  Memnagar, Ahmedabad
+Carry On Tomato's & Mirch Masala : 4.4 : North Indian, Continental, Italian, Chinese, Biryani, Fast Food : ₹1,200 for two :  Bopal, Ahmedabad
+Oozey : 3.8 : Fast Food, Healthy Food, Burger, Sandwich, Shake, Desserts, Pancake, Waffle : ₹500 for two :  Thaltej, Ahmedabad
+Rooh The Roofyard Cafe And Restaurant : 4.5 : Fast Food, North Indian, Sandwich, Burger : ₹2,000 for two :  Karai, Gandhinagar
+Zeus - A Creative Fleet Restro : New : Continental, Shake, Beverages : ₹1,400 for two :  Chandkheda, Ahmedabad
+Little French House : 4.0 : Cafe, Beverages, Continental, Italian, Mexican, Fast Food, Desserts, Waffle : ₹1,200 for two :  Navrangpura, Ahmedabad
+Novelchef Cafe & Lounge : 4.5 : Cafe, Continental, Italian, Fast Food, Desserts, Beverages : ₹950 for two :  Gulbai Tekra, Ahmedabad
+Cafezza : 4.1 : Cafe, Coffee, Tea, Juices, Sandwich, Pizza, Fast Food, Desserts : ₹1,100 for two :  Airport Gandhinagar Highway, Gandhinagar
+Acchija The Kachchhi Gujarati Thal : 3.9 : Gujarati : ₹1,000 for two :  Bodakdev, Ahmedabad
+Muse : 3.7 : Cafe, North Indian, Fast Food, Continental : ₹950 for two :  Bodakdev, Ahmedabad
+Sips & Stories : 3.3 : Cafe, Coffee, North Indian, Italian, Oriental, Shawarma, Desserts, Shake : ₹1,100 for two :  Thaltej, Ahmedabad
+Seesaw : New : Cafe, Continental, Tea, Beverages, Chinese, Pizza, Desserts : ₹1,000 for two :  Bodakdev, Ahmedabad
+Exquisitto : 3.4 : North Indian, Sandwich, Fast Food, Italian, Street Food, Coffee, Beverages : ₹700 for two :  Vastrapur, Ahmedabad
+Sam's Pizza : 3.9 : Pizza, Fast Food : ₹500 for two :  Navrangpura, Ahmedabad
+Ristretto - Behind The Rods : 4.3 : Continental, Chinese, North Indian, Lebanese, Italian, Fast Food, Desserts, Beverages : ₹500 for two :  Navrangpura, Ahmedabad
+Sante Spa Cuisine : 4.7 : Salad, Continental, Healthy Food, Arabian, Desserts, Shake, Beverages : ₹1,200 for two :  Thaltej, Ahmedabad
+Sip Of Hope - The Coffee House : 3.9 : Cafe, Coffee, Italian, Mexican, Sandwich, Bakery, Shake, Tea : ₹800 for two :  Bodakdev, Ahmedabad
+Momoman : 4.0 : Asian, Momos, Chinese : ₹350 for two :  Infocity, Gandhinagar
+Artisan - Regenta  Antarim : 3.8 : North Indian, Continental, Fast Food, Desserts, Beverages : ₹1,200 for two :  Navrangpura, Ahmedabad
+Urban Khichdi : 4.6 : North Indian, Healthy Food, Street Food, Beverages : ₹550 for two :  Vastrapur, Ahmedabad
+Southern Express : 4.1 : South Indian, Beverages : ₹400 for two :  Bopal, Ahmedabad
+Rustic Spices : 4.0 : North Indian, South Indian, Chinese, Continental, Mexican, Pizza, Pasta, Fast Food : ₹1,000 for two :  Satellite, Ahmedabad
+1944 - The Hocco Kitchen : 4.3 : North Indian, Pizza, Sandwich, Fast Food, Shake : ₹450 for two :  Infocity, Gandhinagar
+Terracotta : 4.3 : North Indian, Continental : ₹1,200 for two :  Airport Gandhinagar Highway, Gandhinagar
+WOW! China Diner : 4.3 : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹1,100 for two :  Palladium Mall, Ahmedabad
+Cafe Patio - Hotel Binori : 3.9 : North Indian, Fast Food, Chinese, Beverages, Desserts : ₹1,800 for two :  Hotel Binori, Thaltej, Ahmedabad
+Brooks : 3.9 : North Indian : ₹800 for two :  Tragad, Ahmedabad
+Lollo Rosso : 4.7 : Asian, Japanese, Sushi, Continental, Chinese, Mediterranean, Desserts : ₹1,200 for two :  Naranpura, Ahmedabad
+HOP - Double Tree By Hilton : 4.3 : Cafe, Fast Food, Shake : ₹1,200 for two :  Double Tree By Hilton, Bopal, Ahmedabad
+KFC : 3.8 : Burger, Fast Food, Rolls : ₹500 for two :  Ahmedabad One Mall, Vastrapur, Ahmedabad
+Dakshination : 4.1 : South Indian, Beverages : ₹400 for two :  Airport Gandhinagar Highway, Gandhinagar
+Vamja's : New : Italian, Mexican, Oriental, Japanese, Thai : ₹1,300 for two :  Gota, Ahmedabad
+Ree Story : 3.9 : Chinese, North Indian, Desserts : ₹400 for two :  Thaltej, Ahmedabad
+650 - The Global Kitchen : 4.3 : North Indian, Italian, Continental, Chinese : ₹1,400 for two :  Ambavadi, Ahmedabad
+Roastea : 4.0 : Cafe, Italian, Beverages, Desserts, Sandwich, Bakery, Fast Food, North Indian : ₹600 for two :  Vastrapur, Ahmedabad
+La Milano Pizzeria : 4.1 : Pizza, Pasta, Italian, American, Mexican, Desserts, Beverages, Fast Food : ₹400 for two :  Navrangpura, Ahmedabad
+Gwalbhog : 3.8 : Gujarati, North Indian : ₹850 for two :  Bodakdev, Ahmedabad
+Oaxaca : 3.3 : Mexican, Fast Food, Desserts, Beverages : ₹1,200 for two :  Navrangpura, Ahmedabad
+FTV Cafe & Restro : 3.8 : Cafe, Pasta, Salad, Chinese, Italian, Asian, Coffee, Beverages : ₹1,000 for two :  Thaltej, Ahmedabad
+Tandoor Story - Chur Chur Naan : 3.9 : North Indian, Biryani, Beverages : ₹250 for two :  Bodakdev, Ahmedabad
+EL'Olivo SBR : New : Italian, Asian : ₹1,000 for two :  Thaltej, Ahmedabad
+Meesaavi Cafe : 3.9 : Fast Food, Waffle, Sandwich, Pizza, Momos, Beverages : ₹350 for two :  Nikol, Ahmedabad
+The Mist : 3.4 : North Indian, Chinese, Beverages, Fast Food, Pizza : ₹450 for two :  Vastral, Ahmedabad
+Dine 9 Multicuisine Restaurant : 4.1 : North Indian, Chinese, Wraps, Pizza, Fast Food, Sandwich, Desserts, Shake : ₹450 for two :  Vastrapur, Ahmedabad
+Crazy Plant Lady - A Plant Boutique Cafe : 4.1 : Pizza, Healthy Food, Pasta, Mexican, Desserts, Chinese, Burger, Coffee : ₹1,250 for two :  Nava Vadaj, Ahmedabad
+Vintage Village : 3.9 : Gujarati, North Indian : ₹700 for two :  Naroda, Ahmedabad
+Punjabiyat - By Jassi De Parathe : 4.0 : North Indian, Street Food, Desserts, Beverages : ₹1,200 for two :  Thaltej, Ahmedabad
+Hungry Puppet : 3.9 : North Indian, Chinese, Mughlai, Fast Food, Desserts, Beverages : ₹1,200 for two :  Airport Gandhinagar Highway, Gandhinagar
+The Frying Pan : 3.0 : North Indian, Chinese, Italian, Mexican, Momos, Fast Food, Street Food, Beverages : ₹400 for two :  Bopal, Ahmedabad
+Jassi De Parathe : 4.3 : North Indian, Kebab, Street Food, Desserts, Beverages : ₹1,000 for two :  Vastrapur, Ahmedabad
+Peshawri - ITC Narmada : - : North Indian, Desserts : ₹3,000 for two :  ITC Narmada, Vastrapur, Ahmedabad
+Jacaranda - The Ummed : 3.8 : North Indian, Continental, Gujarati, Italian : ₹3,000 for two :  The Gateway Hotel Ummed, Hansol, Ahmedabad
+The Indian Heat : 4.0 : North Indian, Chinese, Arabian, Momos, Shake, Sichuan : ₹1,000 for two :  Ambavadi, Ahmedabad
+Yanki Sizzlerr : 4.4 : Chinese, Italian, Continental, Sandwich, Pizza, Desserts : ₹1,600 for two :  Navrangpura, Ahmedabad
+Gwalia Purani Delhi : 3.9 : North Indian, Gujarati : ₹1,000 for two :  Bopal, Ahmedabad
+La Crest : 3.2 : North Indian, Continental : ₹2,000 for two :  Infocity, Gandhinagar
+Barbeque Nation : 4.7 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,850 for two :  Vastrapur, Ahmedabad
+Mill & Co. - Renaissance Hotel : 4.3 : Salad, Street Food, Fast Food, Coffee, Shake, Beverages : ₹1,300 for two :  Renaissance Hotel, Sola, Ahmedabad
+Citrus Junction- The Leela : 4.4 : Asian, Continental, North Indian : ₹4,000 for two :  The Leela, Gandhinagar, Gandhinagar
+Toritos : 3.1 : Italian, Mexican, Continental, Desserts, Beverages : ₹1,400 for two :  Bodakdev, Ahmedabad
+Dakshini 24 : 4.1 : South Indian, Beverages : ₹400 for two :  Bodakdev, Ahmedabad
+Rustic Rays : 3.6 : North Indian, Asian, Coffee, Beverages : ₹1,300 for two :  Airport Gandhinagar Highway, Gandhinagar
+Goyaa The Bake House : New : Desserts, Beverages : ₹600 for two :  Bodakdev, Ahmedabad
+The Gourmet- An All Day Dining Restaurant By The Fern Residency : 3.7 : North Indian, Mughlai, Chinese, Pizza, Fast Food, Biryani, Desserts, Beverages : ₹1,600 for two :  Subhash Bridge, Ahmedabad
+Neem County : 4.1 : North Indian, Mediterranean, Continental, Gujarati, Mexican, Desserts, Beverages : ₹2,500 for two :  Under The Neem Trees, Bodakdev, Ahmedabad
+Roast & Toast : 4.2 : Cafe, Coffee, Bakery, Chinese, Italian, Pizza, Desserts, Beverages : ₹1,100 for two :  Infocity, Gandhinagar
+Pomodoro : 3.9 : Pizza : ₹600 for two :  Bodakdev, Ahmedabad
+Bento B - Japanese Diner : 3.3 : Japanese, Sushi, Asian, Oriental, Beverages : ₹1,500 for two :  Bopal, Ahmedabad
+Arsa : 3.9 : North Indian, Himachali, Desserts, Beverages : ₹1,000 for two :  Bopal, Ahmedabad
+Cafe 1st Story - Fairfield By Marriott : 3.9 : North Indian, South Indian, Mughlai, Biryani, Chinese, Oriental, Desserts, Beverages : ₹2,400 for two :  Fairfield By Marriott, Ashram Road, Ahmedabad
+Kith & Kin - Coffee and More : 3.9 : Cafe, Italian, Mexican, Desserts, Coffee : ₹500 for two :  Thaltej, Ahmedabad
+Coffee By Di Bella : 3.6 : Coffee, Fast Food, Desserts, Beverages : ₹800 for two :  Bodakdev, Ahmedabad
+South Leaf- The Food Chain : 4.4 : South Indian : ₹900 for two :  Prahlad Nagar, Ahmedabad
+Cuppuccino : 3.5 : Cafe, North Indian, Chinese, Mexican, Pizza, Pasta, Fast Food, Beverages : ₹850 for two :  Navrangpura, Ahmedabad
+Ministry Of Eggs : 3.9 : Street Food, Healthy Food, Rolls, Chinese : ₹400 for two :  Bopal, Ahmedabad
+WAVE - Double Tree By Hilton : 4.0 : Continental, North Indian : ₹3,000 for two :  Double Tree By Hilton, Bopal, Ahmedabad
+Micro Cafe : 4.2 : Burger, Fast Food : ₹300 for two :  Memnagar, Ahmedabad
+Cream Centre : New : Mexican, Italian, Chinese, North Indian, Ice Cream : ₹1,200 for two :  Thaltej, Ahmedabad
+The Chocolate Room Diner : 3.9 : Bakery, Desserts, Beverages, Italian, Pizza, Coffee, Sandwich, Fast Food : ₹600 for two :  Prahlad Nagar, Ahmedabad
+Silver Leaf : 3.9 : North Indian, Mughlai, Chinese, Parsi, Sandwich, Wraps, Desserts, Beverages : ₹1,800 for two :  Acropolis Mall, Thaltej, Ahmedabad
+DosBros - Fresh Mexican Grill : 3.6 : Mexican : ₹500 for two :  Ahmedabad One Mall, Vastrapur, Ahmedabad
+The Chocolate Room : 4.0 : Cafe, Coffee, Pizza, Italian, Bakery, Waffle, Shake, Beverages : ₹850 for two :  Navrangpura, Ahmedabad
+Roastea : 3.9 : Cafe, Italian, Bakery, Beverages, Desserts : ₹400 for two :  Navrangpura, Ahmedabad
+The Blue Oven : 4.1 : Cafe, Beverages, Pizza, Italian, Desserts : ₹600 for two :  Infocity, Gandhinagar
+Mleko : 4.7 : Cafe, Coffee, Bakery, Fast Food, Continental, Desserts, Beverages : ₹500 for two :  Navrangpura, Ahmedabad
+Bubblepop : 4.2 : Sandwich, Pasta, Pancake, Coffee, Beverages, Shake : ₹1,000 for two :  Thaltej, Ahmedabad
+Hocco Eatery : 4.2 : Pizza, Sandwich, Fast Food, Street Food, Ice Cream, Desserts, Shake, Burger : ₹600 for two :  SOBO Center, Bopal, Ahmedabad
+The Lifafa : 4.0 : Pizza, Burger, Sandwich, North Indian, Shake, Beverages : ₹1,200 for two :  Airport Gandhinagar Highway, Gandhinagar
+Grubous : 4.3 : Chinese, North Indian, Mughlai, Seafood, Biryani : ₹1,600 for two :  Bodakdev, Ahmedabad
+Rangeen : 4.2 : Continental, Italian : ₹2,000 for two :  Ambavadi, Ahmedabad
+Saffron : 3.8 : North Indian, Chinese, Shake : ₹950 for two :  Gurukul, Ahmedabad
+Grace Coffee Co. : 4.3 : Cafe, Sandwich, Wraps, Italian, Beverages : ₹500 for two :  Thaltej, Ahmedabad
+The Bawa Bistro : 4.5 : North Indian, Street Food, Kebab, Desserts : ₹500 for two :  Navrangpura, Ahmedabad
+VarieTea : 4.0 : Cafe, Coffee, Tea, Shake, Beverages, Italian, Sandwich, Fast Food : ₹950 for two :  Bodakdev, Ahmedabad
+A Gourmesserie : 4.5 : Cafe, Coffee, Italian, Continental, Bakery, Desserts, Beverages : ₹950 for two :  Prahlad Nagar, Ahmedabad
+Pizza Hut : 3.8 : Pizza, Pasta, Italian, Desserts, Beverages, North Indian : ₹700 for two :  Nikol, Ahmedabad
+Southernn : 4.2 : South Indian, Desserts, Shake, Beverages : ₹1,000 for two :  Gota, Ahmedabad
+Shararat : 4.0 : North Indian, Chinese, Pizza, Pasta, Fast Food, Shake, Beverages : ₹1,200 for two :  Bodakdev, Ahmedabad
+Leaf Restaurant : 3.1 : North Indian, Chinese : ₹1,100 for two :  Ashram Road, Ahmedabad
+Sale and Pepe - Ristorante Italiano : 3.9 : Italian, Desserts, Beverages, Pizza, Pasta : ₹1,500 for two :  Ambavadi, Ahmedabad
+Subway : 4.0 : Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages : ₹600 for two :  Bopal, Ahmedabad
+Kurry Karamat : 4.1 : North Indian, Mughlai, Biryani, Chinese, Rolls, Beverages : ₹500 for two :  Chandkheda, Ahmedabad
+Cafe Street Circus By TQI : New : Cafe, Coffee, Shake, North Indian, Street Food, Beverages : ₹1,000 for two :  Thaltej, Ahmedabad
+Silver Dine - Platinum Hotels : 4.3 : North Indian, Chinese, Continental, Asian, Fast Food : ₹800 for two :  Platinum Hotels, Vasna, Ahmedabad
+Barbeque World : 3.6 : North Indian, Chinese : ₹1,200 for two :   Sigma Legacy Building, Vastrapur, Ahmedabad
+Spiceville - By Hotel Nalanda : 4.1 : Chinese, North Indian, Salad, Mexican, Mughlai, Desserts, Beverages : ₹1,200 for two :  Navrangpura, Ahmedabad
+Mexicano By The Bay : 3.3 : Cafe, Mexican, Italian, Fast Food, Beverages : ₹950 for two :  Ashram Road, Ahmedabad
+Sankalp : 3.8 : South Indian, North Indian, Desserts, Beverages : ₹600 for two :  Gurukul, Ahmedabad
+The Potesta Restaurant : 3.5 : Chinese, Desserts, Pizza, North Indian : ₹1,500 for two :  Nikol, Ahmedabad
+Desi Rasoi : - : Gujarati, North Indian, Kathiyawadi, Rajasthani : ₹1,000 for two :  Satellite, Ahmedabad
+Dakshini 24 : 4.1 : South Indian, Beverages : ₹300 for two :  Bopal, Ahmedabad
+Mr & Mrs Somani - The Grand Bhagwati : 4.0 : North Indian, Mughlai : ₹1,700 for two :  The Grand Bhagwati, Bodakdev, Ahmedabad
+Pemdora-The Planet Of Food & Dessert : 3.0 : North Indian : ₹1,500 for two :  Sola, Ahmedabad
+Dosawala : New : South Indian, Biryani, Desserts, Shake, Juices, Beverages : ₹400 for two :  Thaltej, Ahmedabad
+Choice Snack Bar : 2.9 : Fast Food, Sandwich, Pizza, Panini, Street Food, Chinese, Ice Cream, Beverages : ₹350 for two :  Memnagar, Ahmedabad
+Cafe Piano - The Grand Bhagwati : 4.0 : Cafe, North Indian, Continental, Italian, South Indian, Fast Food, Desserts, Beverages : ₹1,100 for two :  The Grand Bhagwati, Bodakdev, Ahmedabad
+Bless Cafe : 3.7 : Fast Food, Street Food, Desserts, Shake : ₹200 for two :  Jamalpur, Ahmedabad
+Masala Maarke : 3.2 : North Indian, Salad, Chinese, Pizza, Pasta, Sandwich, Fast Food, Desserts : ₹800 for two :  Sola, Ahmedabad
+Rooftop Stories : 3.5 : Chinese, North Indian, Continental, Italian, Fast Food : ₹850 for two :  Thaltej, Ahmedabad
+The House Of Momo's : 4.2 : Momos, Chinese : ₹400 for two :  Mani Nagar, Ahmedabad
+Jugmug Thela : 3.9 : Cafe, Coffee, Pizza, Fast Food, Desserts, Beverages : ₹900 for two :  Thaltej, Ahmedabad
+South Palette : 3.9 : South Indian : ₹200 for two :  Ambavadi, Ahmedabad
+The Egg Eatery - Eggstremely Delicious : 3.9 : North Indian, Street Food : ₹450 for two :  Vastrapur, Ahmedabad
+Desi Bite's : New : Burger, Street Food, Fast Food, Sandwich : ₹200 for two :  Naroda, Ahmedabad
+Megma Restaurant & Banquets : 4.5 : North Indian, Oriental, Salad, Chinese : ₹1,400 for two :  Odhav, Ahmedabad
+Fiesta : 3.9 : North Indian, Momos, Fast Food, Ice Cream, Desserts, Beverages : ₹1,400 for two :  Bopal, Ahmedabad
+Swati Snacks : 4.5 : Gujarati, South Indian, Fast Food, Desserts, Beverages : ₹500 for two :  C G Road, Ahmedabad
+Prasang : 3.9 : Gujarati : ₹1,000 for two :  Sector 11, Gandhinagar
+Orchid By Fortune Inn Haveli : 4.1 : North Indian, Mughlai, Chinese, Oriental, Continental, Beverages : ₹2,200 for two :  Fortune Inn Haveli Restaurant, Sector 11, Gandhinagar, Gandhinagar
+Radhika's Authentic South Indian Food : 4.4 : South Indian, Beverages : ₹850 for two :  Navrangpura, Ahmedabad
+Sundew - Ramada : 3.9 : Continental, American, North Indian, Oriental, Fast Food, Desserts, Beverages : ₹2,200 for two :  Ramada, Prahlad Nagar, Ahmedabad
+Southern India : 4.0 : South Indian : ₹500 for two :  Sola, Ahmedabad
+Amritsar Punjab Paratha : 3.2 : North Indian, Chinese, Biryani, Street Food, Beverages : ₹400 for two :  Vastrapur, Ahmedabad
+Cafe De Italiano : 4.0 : Cafe, Shake, Pizza, Italian, Fast Food, Bakery, Healthy Food, Beverages : ₹750 for two :  Bodakdev, Ahmedabad
+The Jungle Joy Multi-Cuisine Restaurant : 3.2 : North Indian, Chinese, Fast Food, Shake, Beverages : ₹600 for two :  Sector 21, Gandhinagar
+Bluez Terrace Cafe : 3.9 : North Indian, Chinese, Fast Food, Sandwich, Pizza, Beverages : ₹950 for two :  C G Road, Ahmedabad
+Reati - Flavors Of Bhaarat : 3.8 : North Indian, Street Food, Desserts, Beverages : ₹400 for two :  Bopal, Ahmedabad
+Barbecue Culture : 3.4 : BBQ : ₹1,000 for two :  Thaltej, Ahmedabad
+Tantissimo : 3.8 : Italian, Salad, Healthy Food : ₹1,600 for two :  Bopal, Ahmedabad
+Shamiana By Taj Skyline : 3.6 : Asian, North Indian, Chinese, Italian : ₹3,500 for two :  Taj Skyline, Ahmedabad, Ahmedabad
+Turquoise Villa : 3.6 : Cafe, Continental, North Indian, Pizza, Desserts, Beverages : ₹1,400 for two :  Vastrapur, Ahmedabad
+Amrutam : 4.5 : Gujarati : ₹900 for two :  Nikol, Ahmedabad
+Sizzling BBQ : 3.3 : BBQ, North Indian : ₹1,000 for two :  Bodakdev, Ahmedabad
+Bowl Story : 4.5 : Italian, Mexican, North Indian, Continental : ₹400 for two :  Bodakdev, Ahmedabad
+Rasila's Kitchen : 4.0 : North Indian, Mughlai, Seafood, Fast Food, Chinese, Biryani, Desserts, Beverages : ₹1,300 for two :  Bodakdev, Ahmedabad
+The Nine Restaurant : 4.0 : Chinese, North Indian, Thai, South Indian, Seafood, Salad : ₹1,100 for two :  Prahlad Nagar, Ahmedabad
+D' Caf : 4.3 : Cafe, Beverages, Sandwich, Pizza, Wraps, Pasta, Fast Food, Desserts : ₹800 for two :  C G Road, Ahmedabad
+The Simply Salad : 3.2 : Healthy Food : ₹300 for two :  Bodakdev, Ahmedabad
+Tummy Bites : New : Sandwich, Fast Food, Street Food, Shake, Beverages : ₹250 for two :  Mani Nagar, Ahmedabad
+The Starry Foliage : 3.3 : Asian, Italian, North Indian, Continental, Biryani, Salad, Desserts, Beverages : ₹1,600 for two :  Prahlad Nagar, Ahmedabad
+Caffix - The Tech Cafe : 3.9 : Cafe, Pizza, North Indian, Biryani, Chinese, Mexican, Continental, Beverages : ₹1,200 for two :  Thaltej, Ahmedabad
+Sizzling Mania : 3.5 : Fast Food, Street Food, Sandwich, Italian, Mexican, Waffle, Desserts, Beverages : ₹350 for two :  Navrangpura, Ahmedabad
+Winni Cakes & More : 3.8 : Bakery, Desserts, Pizza, Street Food, Fast Food : ₹500 for two :  Satellite, Ahmedabad
+The Grill Street : 3.8 : BBQ, North Indian, Chinese, Beverages : ₹1,200 for two :  Satellite, Ahmedabad
+Thepla Junction : 3.1 : Gujarati : ₹200 for two :  Mani Nagar, Ahmedabad
+Iscon Thal : 4.0 : Gujarati : ₹850 for two :  Satellite, Ahmedabad
+Cafe Coffee Dose : 3.8 : Fast Food, Shake, Burger, Wraps, Sandwich, Pizza, Cafe : ₹600 for two :  Gota, Ahmedabad
+House Of Hobos : New : Italian, Sandwich, Fast Food, Burger : ₹1,000 for two :  Navrangpura, Ahmedabad
+Atithi : 4.1 : Gujarati : ₹700 for two :  Bodakdev, Ahmedabad
+Rageez : 4.3 : North Indian, Chinese, Mughlai, Biryani, Sichuan : ₹600 for two :  Bopal, Ahmedabad
+Tartine : 3.9 : Pizza, Fast Food, Desserts, Shake : ₹400 for two :  Thaltej, Ahmedabad
+Gormoh : 3.4 : North Indian, Chinese, Fast Food, Italian, Biryani, Beverages : ₹1,100 for two :  Bodakdev, Ahmedabad
+Mm's Pizzeria : 3.3 : Pizza, Fast Food, Italian, Pasta : ₹400 for two :  Satellite, Ahmedabad
+Neem Chowk : 3.8 : Gujarati, Street Food, Desserts, Ice Cream : ₹2,500 for two :  Under The Neem Trees, Bodakdev, Ahmedabad
+Green House - The House Of MG : 4.2 : Gujarati, North Indian, South Indian, Street Food, Fast Food, Italian, Desserts, Beverages : ₹900 for two :  Lal Darwaja, Ahmedabad
+VarieTEA Chai Masti & More : 4.4 : Cafe, Italian, Mexican, Chinese, Fast Food, Pasta, Tea, Beverages : ₹1,000 for two :  Sola, Ahmedabad
+Apna Fal : 4.1 : Juices, Beverages, Healthy Food, Desserts : ₹400 for two :  Satellite, Ahmedabad
+So Seoul - Korean Bakery & Cafe : New : Korean, Desserts, Beverages : ₹800 for two :  Vastrapur, Ahmedabad
+Amritsari Kulcha Express : 4.3 : North Indian : ₹400 for two :  Bodakdev, Ahmedabad
+The Mango Stories : 3.8 : North Indian, Biryani, Pizza, Asian, Chinese, Fast Food, Desserts : ₹1,000 for two :  Naroda, Ahmedabad
+Zodiac- Fortune Landmark : 4.4 : North Indian, Mughlai, Oriental, Continental, Chinese, Beverages, Desserts : ₹3,000 for two :  Fortune Landmark, Ashram Road, Ahmedabad
+Pandeyji Restaurant : 3.9 : North Indian, Chinese, Fast Food, Street Food : ₹500 for two :  Bodakdev, Ahmedabad
+Tero Restro & Cafe : New : Cafe, Coffee, North Indian, Salad, Shake : ₹400 for two :  Thaltej, Ahmedabad
+Madhavrao : 3.8 : Maharashtrian, Gujarati, Street Food, Beverages : ₹700 for two :  Prahlad Nagar, Ahmedabad
+Bombay Darbar Biryani : 4.0 : Biryani, North Indian : ₹150 for two :  Rakhial, Ahmedabad
+Burnt Turnt : 3.9 : North Indian : ₹600 for two :  Bopal, Ahmedabad
+Hunnybun : 4.1 : Fast Food, Street Food, Beverages, Sandwich, Burger, Sichuan : ₹400 for two :  Satellite, Ahmedabad
+Cafe Treat - The Pride Hotel : 3.3 : North Indian, Continental, Gujarati, Healthy Food, Fast Food, Desserts, Beverages : ₹1,800 for two :  The Pride Hotel, Bodakdev, Ahmedabad
+Cafe Cawfee Tawk : - : Cafe, Coffee, Sandwich, Fast Food, Mexican, Chinese, Shake, Beverages : ₹800 for two :  Airport Gandhinagar Highway, Gandhinagar
+Southern : 3.7 : South Indian, Desserts, Shake, Beverages : ₹400 for two :  Infocity, Gandhinagar
+Rooted & Raws : New : Pasta, Salad, Healthy Food, Sandwich, Beverages : ₹500 for two :  Infocity, Gandhinagar
+Mad Over Grills : 4.1 : BBQ, Salad, Fast Food, Desserts : ₹1,000 for two :  Navrangpura, Ahmedabad
+Pemdora : - : Desserts, Bakery : ₹600 for two :  Sola, Ahmedabad
+Jamie's Pizzeria : 3.9 : Italian : ₹1,000 for two :  Thaltej, Ahmedabad
+MYT Cafe : 4.0 : Coffee, Shake, Beverages, North Indian, BBQ, Pizza, Sandwich, Fast Food : ₹600 for two :  Ellis Bridge, Ahmedabad
+Chinese Wok Express : 4.0 : Chinese, Asian, Thai, Momos : ₹400 for two :  Bodakdev, Ahmedabad
+South Nation : 3.8 : South Indian : ₹1,000 for two :  Mani Nagar, Ahmedabad
+Mainland China : 4.1 : Chinese, Momos, Thai, Asian, Seafood, Sichuan : ₹2,000 for two :  Gulmohar Park, Satellite, Ahmedabad
+Chats Over Chaat : 4.2 : Street Food : ₹300 for two :  Vastrapur, Ahmedabad
+Jor Shor Restaurant : 3.7 : Gujarati, North Indian, Chinese : ₹800 for two :  Sola, Ahmedabad
+Lijjat Khaman : 3.5 : Gujarati, Street Food : ₹200 for two :  Mani Nagar, Ahmedabad
+Adalaj Pavilion : - : North Indian, Italian, Beverages : ₹1,200 for two :  ITC Narmada, Vastrapur, Ahmedabad
+Udipi Jaya : 4.4 : South Indian, Fast Food : ₹400 for two :  Lal Darwaja, Ahmedabad
+Pleasure Trove : 3.9 : North Indian, Mughlai, Chinese, Beverages : ₹1,200 for two :  Ashram Road, Ahmedabad
+Biskut : 4.8 : Bakery, Desserts : ₹300 for two :  Bodakdev, Ahmedabad
+No Great Shakes : 4.2 : Beverages, Coffee, Shake, Sandwich, Fast Food, Street Food, Waffle : ₹650 for two :  Prahlad Nagar, Ahmedabad
+Temptations - The Eatery : New : Italian, Pizza, Burger, Fast Food, Waffle, Desserts, Shake : ₹1,000 for two :  Airport Gandhinagar Highway, Gandhinagar
+Huber & Holly : 4.4 : Ice Cream, Desserts, Cake, Pizza, Sandwich, Pasta, Beverages : ₹600 for two :  Bodakdev, Ahmedabad
+Oliver Brown : 3.9 : Cafe, Coffee, Shake, Juices, Beverages, Waffle, Desserts, Ice Cream : ₹500 for two :  Palladium Mall, Ahmedabad
+Zodiac- Fortune Select : 4.2 : North Indian, Continental, Sandwich, Fast Food, Mughlai, Oriental, Beverages, Desserts : ₹2,500 for two :  Fortune Select, Sola, Ahmedabad
+Taste Of Heaven : 3.7 : North Indian, Asian : ₹1,000 for two :  Adalaj, Ahmedabad
+Chinese Wok : 2.8 : Chinese, Asian, Momos : ₹500 for two :  C G Road, Ahmedabad
+SandwichworkZ - The Fusion Street Cafe : 4.3 : North Indian, Fast Food, Sandwich, Rolls, Shake : ₹700 for two :  Ambavadi, Ahmedabad
+Bhookh Lagi Hai : 3.7 : North Indian, Chinese, Fast Food : ₹550 for two :  Satellite, Ahmedabad
+Super Donuts-The American Eatery & Bakery : 3.9 : Sandwich, Pasta, Fast Food, Bakery, Desserts, Shake, Beverages : ₹500 for two :  Prahlad Nagar, Ahmedabad
+22nd Parallel : 4.0 : South Indian, Beverages, Desserts : ₹1,000 for two :  Satellite, Ahmedabad
+Legends Of Punjab : 4.0 : North Indian, Biryani, Fast Food, Desserts : ₹850 for two :  Chandkheda, Ahmedabad
+The Street Cafe : 3.7 : North Indian, Chinese, Italian, Fast Food, Street Food, Tea, Shake, Beverages : ₹300 for two :  Gota, Ahmedabad
+New Mehfil Restaurant : 4.2 : North Indian, Chinese, Continental, Italian, Desserts, Beverages : ₹800 for two :  Shahpur, Ahmedabad
+Vishalla : 4.3 : Gujarati, Desserts : ₹1,700 for two :  Vasna, Ahmedabad
+The Chaap Junction : 3.9 : North Indian, Rolls, Momos : ₹450 for two :  Navrangpura, Ahmedabad
+Chatkara : 3.5 : North Indian, Street Food : ₹200 for two :  Thaltej, Ahmedabad
+The Peacock Restaurant : 3.8 : North Indian, Chinese, Continental, Fast Food : ₹1,600 for two :  Vatva, Ahmedabad
+Soul Of India : 3.5 : North Indian, Mughlai, Biryani, Chinese, Seafood, Kebab, Fast Food : ₹550 for two :  Infocity, Gandhinagar
+Cafe Alaska : 3.9 : Fast Food, Chinese, Continental, Beverages : ₹800 for two :  Thaltej, Ahmedabad
+Hari Mirch : 3.5 : North Indian : ₹300 for two :  Vatva, Ahmedabad
+Dakshinayan : 4.0 : South Indian, Desserts, Beverages : ₹950 for two :  Navrangpura, Ahmedabad
+Delhiterian Food : New : North Indian, Fast Food, Sandwich, Beverages : ₹300 for two :  Satellite, Ahmedabad
+Sankalp Signature : - : South Indian, North Indian, Gujarati : ₹1,000 for two :  Thaltej, Ahmedabad
+Swati Snacks : 4.0 : Gujarati, South Indian, Fast Food, Desserts, Beverages : ₹350 for two :  Bopal, Ahmedabad
+Cocoa Drama : 3.9 : Bakery, Desserts, Coffee, Beverages : ₹350 for two :  Vastrapur, Ahmedabad
+Coffee Culture : 4.0 : Salad, Italian, Continental, Fast Food, Pizza, Waffle, Coffee : ₹1,100 for two :  Bodakdev, Ahmedabad
+Khichdi Etc : 4.4 : North Indian : ₹600 for two :  Navrangpura, Ahmedabad
+Riviera Restaurant : 4.1 : North Indian, Chinese, Continental, Italian, Fast Food, Desserts : ₹850 for two :  Ashram Road, Ahmedabad
+Aura The Restaurant : 3.3 : North Indian, Chinese, Mexican, Continental, Salad, Biryani, Sandwich, Fast Food : ₹800 for two :  Chandkheda, Ahmedabad
+MYOS : 3.6 : Pizza, European : ₹450 for two :  Naranpura, Ahmedabad
+Banjaraa A Food Journey : 4.1 : North Indian, Chinese, Pizza, Pasta, Fast Food : ₹1,100 for two :  Bodakdev, Ahmedabad
+Mehfil Restaurant : - : North Indian, Chinese, Fast Food, Street Food, Desserts, Beverages : ₹500 for two :  Bopal, Ahmedabad
+Baked By Nini's : 3.9 : Bakery, Desserts : ₹350 for two :  Bopal, Ahmedabad
+The Poutinerie : 4.2 : Burger, Fast Food, Beverages, Coffee : ₹500 for two :  Thaltej, Ahmedabad
+Saladific : 3.2 : Salad, Wraps, Healthy Food, Sandwich, Juices, Beverages : ₹400 for two :  Infocity, Gandhinagar
+Mad Over Grills : 3.9 : North Indian, Chinese : ₹1,000 for two :  Thaltej, Ahmedabad
+Moksha Lounge - The Leela : 4.0 : Bakery, Sandwich, Desserts : ₹1,300 for two :  The Leela, Gandhinagar, Gandhinagar
+Ripples - Avalon Hotel : 3.9 : North Indian, Continental, Oriental, Fast Food, Desserts, Beverages : ₹1,300 for two :  Bodakdev, Ahmedabad
+56 Bhog : 3.1 : Chinese, Sichuan, Thai, Mexican, Gujarati, North Indian, South Indian, Desserts : ₹1,100 for two :  SG Road, Gandhinagar
+Galaxy Terrace Cafe : - : North Indian, Chinese, Pizza, Burger, Momos, Fast Food : ₹500 for two :  Naroda, Ahmedabad
+Marky Momos : 4.1 : Momos, Chinese, Seafood, Rolls, Pizza, Fast Food, Sichuan, Beverages : ₹500 for two :  Chandkheda, Ahmedabad
+Gwalia Vanakkam : 3.5 : South Indian, Coffee, Beverages : ₹450 for two :  Chandkheda, Ahmedabad
+The Shake Maker : 4.4 : Shake, Beverages, Fast Food, Desserts : ₹300 for two :  Satellite, Ahmedabad
+Champaran Ahuna Meat House : 2.9 : Mughlai, North Indian, Bihari : ₹400 for two :  Adalaj, Ahmedabad
+Wabi Sabi - Art Cafe : New : Beverages, Italian : ₹500 for two :  Bodakdev, Ahmedabad
+Pepper Fusion : 3.9 : North Indian, Chinese, Italian, Mexican, Beverages : ₹1,400 for two :  Thaltej, Ahmedabad
+Jajarmaan : 3.9 : North Indian, Chinese, Mexican, Gujarati, Italian, Biryani, Desserts, Beverages : ₹850 for two :  Thaltej, Ahmedabad
+Kamala Cafe : 4.3 : Street Food, Gujarati, Fast Food, Beverages : ₹400 for two :  Bodakdev, Ahmedabad
+Hoglatto : 3.9 : Ice Cream, Desserts, Coffee, Shake : ₹800 for two :  Ambavadi, Ahmedabad
+Koffee Stories : New : Cafe, Coffee, Pizza, Pasta, Fast Food, Tea, Shake, Beverages : ₹900 for two :  Ambavadi, Ahmedabad
+The Gir Vibes Kathiyawadi : New : Gujarati, North Indian, Beverages : ₹500 for two :  Bopal, Ahmedabad
+Desi Chaska : New : Gujarati, North Indian, Sandwich, Fast Food, Street Food, Beverages : ₹200 for two :  Satellite, Ahmedabad
+Season 9 : 3.7 : North Indian, Chinese, Continental, Thai, Fast Food, Desserts, Beverages : ₹600 for two :  Shivalik Yash, Naranpura, Ahmedabad
+London Yard Pizza : 3.2 : Pizza : ₹700 for two :  Prahlad Nagar, Ahmedabad
+Gamysticafe : 4.2 : Cafe, Beverages, Sandwich, Fast Food, Mexican, Chinese, Desserts, Shake : ₹950 for two :  Naranpura, Ahmedabad
+Silver Leaf - Cama Hotel : 4.1 : North Indian, Parsi, Chinese, Mughlai, Oriental, Fast Food, Desserts, Beverages : ₹1,900 for two :  Lal Darwaja, Ahmedabad
+Super Donuts - American Eatery & Bakery : 3.9 : Bakery, Burger, Wraps, Fast Food, Desserts, Coffee, Shake : ₹500 for two :  Thaltej, Ahmedabad
+The Seafood Lounge : 3.9 : Seafood, North Indian, Mughlai, Chinese, Biryani, Salad, Desserts : ₹1,000 for two :  Infocity, Gandhinagar
+Biryani Badshah : - : Biryani : ₹300 for two :  Kalupur, Ahmedabad
+Wind & Water- Fortune Landmark : 4.3 : Chinese, Continental, North Indian, Beverages, Desserts : ₹3,000 for two :  Fortune Landmark, Ashram Road, Ahmedabad
+Moi - The Dessert Studio : 4.2 : Bakery, Desserts, Coffee, Beverages : ₹1,200 for two :  Bodakdev, Ahmedabad
+Anytime At K's : 3.7 : Cafe, Coffee, Sandwich, North Indian, Italian, Mexican, Desserts, Beverages : ₹1,500 for two :  Bodakdev, Ahmedabad
+Epicurean Alley : 3.9 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹900 for two :  Ellis Bridge, Ahmedabad
+The Project Cafe : 3.5 : Italian, Continental : ₹950 for two :  Ambavadi, Ahmedabad
+Gourmet Kitchen - Maple 99 : 3.3 : North Indian, Chinese, Continental, Desserts, Shake, Beverages : ₹1,200 for two :  Maple99, Chandkheda, Ahmedabad
+The Lio' Pizza : 3.6 : Pizza, Burger, Wraps, Fast Food, Shake : ₹500 for two :  Amraiwadi, Ahmedabad
+Sea Salt Cafe : 3.5 : Cafe, Desserts, Coffee, Salad, Healthy Food, Bubble Tea, Beverages,  : ₹600 for two :  Satellite, Ahmedabad
+The Dessert Co. : 3.5 : Ice Cream, Waffle, Desserts, Shake : ₹350 for two :  Chandkheda, Ahmedabad
+Food Mohalla : 3.6 : Italian, Chinese, Pizza, Burger, Sandwich, Shake, Beverages : ₹400 for two :  Nikol, Ahmedabad
+Prime Dine Restaurant : 4.0 : North Indian, Chinese, Street Food, Mexican, Italian, Fast Food, Desserts, Beverages : ₹1,300 for two :  Satellite, Ahmedabad
+Khana Khazana /24 Carat Cafe - Inder Residency : 3.3 : Chinese, Sichuan, Italian, North Indian, Seafood, Biryani, Desserts, Beverages : ₹1,100 for two :  Hotel Inder Residency, Ellis Bridge, Ahmedabad
+Annapurna Idli Corner : 4.0 : South Indian : ₹250 for two :  Mani Nagar, Ahmedabad
+Regenta Inn Ranip By Royal Orchid Hotels : 3.5 : North Indian, Mughlai, Continental, Juices, Beverages, Shake : ₹950 for two :  Ranip, Ahmedabad
+London Yard Pizza : 3.5 : Pizza : ₹700 for two :  Gota, Ahmedabad
+Doner & Gyros : 4.1 : Healthy Food, Biryani, Wraps, Middle Eastern, Beverages, Burger : ₹700 for two :  Prahlad Nagar, Ahmedabad
+Falafel Express : 3.7 : Middle Eastern, Mediterranean, Wraps, Beverages : ₹700 for two :  Navrangpura, Ahmedabad
+Chur Chur Naan - Punjab Junction : - : North Indian, Chinese, Fast Food, Desserts : ₹350 for two :  Gulbai Tekra, Ahmedabad
+Naan Junction Amritsari Stuffed Chur Naan : 3.8 : North Indian, Biryani, Fast Food, Beverages : ₹500 for two :  Prahlad Nagar, Ahmedabad
+Birmies : 4.2 : North Indian, Chinese, Mexican, Pizza, Fast Food, Sichuan : ₹400 for two :  Vastrapur, Ahmedabad
+Stuff's Food : 4.6 : North Indian, Street Food : ₹850 for two :  Naranpura, Ahmedabad
+Kullads : 3.3 : Sandwich, Burger, Fast Food, Shake, Tea, Beverages : ₹400 for two :  SOBO Center, Bopal, Ahmedabad
+Taco Bell : 3.9 : Mexican, Fast Food, Wraps, Beverages : ₹350 for two :  Ahmedabad One Mall, Vastrapur, Ahmedabad
+Shree Marutinandan : 3.3 : Kathiyawadi, North Indian, Gujarati, Rajasthani, Chinese, Sandwich, Fast Food, Beverages : ₹900 for two :  Bodakdev, Ahmedabad
+Venus Restaurant : 4.1 : North Indian, Fast Food : ₹1,000 for two :  Chandkheda, Ahmedabad
+Literature Coffee : 3.9 : Cafe, Coffee, Tea, Shake, Beverages : ₹500 for two :  Airport Gandhinagar Highway, Gandhinagar
+Dairy Don : 3.2 : Shake, Ice Cream, Desserts : ₹300 for two :  Naroda, Ahmedabad
+Fayrouz : 4.4 : Seafood, North Indian, Mughlai, BBQ, Biryani, Chinese, Desserts, Beverages : ₹1,100 for two :  Prahlad Nagar, Ahmedabad
+Alpine Restaurant & Banquet : 3.9 : North Indian, Chinese, Fast Food, Desserts, Beverages : ₹700 for two :  Ellis Bridge, Ahmedabad
+Urban Zykaa : 4.1 : North Indian, Italian, Chinese, Pasta, Pizza, Desserts, Beverages : ₹950 for two :  Mani Nagar, Ahmedabad
+Annkut : - : Gujarati : ₹1,500 for two :  Prahlad Nagar, Ahmedabad
+Simran Farm : - : Continental, Chinese, North Indian, Seafood, Mughlai, Street Food, Beverages : ₹1,000 for two :  Hansol, Ahmedabad
+Xero Degrees : 4.0 : Cafe, Italian, Continental, Mexican, Fast Food, Beverages : ₹950 for two :  Bodakdev, Ahmedabad
+Daawat-E-Khaas : 4.4 : North Indian, Mughlai, Seafood, Biryani : ₹1,200 for two :  Navrangpura, Ahmedabad
+Oven The Bakery & Cafe : 4.4 : Cafe, Bakery, Waffle, Desserts, Beverages : ₹850 for two :  Sola, Ahmedabad
+The Thakkar's Thal : 3.3 : Gujarati : ₹500 for two :  Bopal, Ahmedabad
+Udupi Shree Darshini Restaurant : 4.5 : South Indian, Beverages : ₹300 for two :  Ellis Bridge, Ahmedabad
+Fresh Roast - Mani Mansion : 4.1 : North Indian, Gujarati, Continental, Fast Food, Beverages : ₹1,200 for two :  Paldi, Ahmedabad
+La Shanti : - : Coffee, Desserts, Sandwich : ₹800 for two :  Bodakdev, Ahmedabad
+William John's pizza : 3.9 : Pizza, Fast Food, Chinese : ₹450 for two :  Bapunagar, Ahmedabad
+The Dhaba : 4.1 : North Indian, Chinese, Pizza, Street Food, Beverages : ₹700 for two :  Prahlad Nagar, Ahmedabad
+The Grand Vinayak : 3.9 : North Indian, Chinese, Mexican, Fast Food, Shake, Sandwich : ₹1,100 for two :  Sector 21, Gandhinagar
+The Food Drama : 2.9 : North Indian, Chinese, Italian, Healthy Food, Desserts, Beverages : ₹1,000 for two :  Bodakdev, Ahmedabad
+Joy Restaurant : 4.1 : North Indian, South Indian, Chinese, Fast Food, Pizza, Sandwich, Sichuan : ₹600 for two :  Bapunagar, Ahmedabad
+Cellad Eatery : 4.0 : North Indian, Mexican, Italian : ₹1,350 for two :  Gulbai Tekra, Ahmedabad
+The Raj Thaal : 4.2 : Chinese, North Indian, Thai, Mexican, Gujarati, Desserts, Beverages : ₹850 for two :  The Raj Banquets & Hotels, Bopal, Ahmedabad
+Crush Coffee : 3.9 : Coffee, Beverages, Desserts : ₹550 for two :  Nikol, Ahmedabad
+Kake Di Hatti : 4.2 : North Indian, Fast Food : ₹1,000 for two :  Infocity, Gandhinagar
+From The Baker's Table : 4.1 : Desserts : ₹600 for two :  Bodakdev, Ahmedabad
+The Grand Thakar : 4.2 : Kathiyawadi, North Indian, Biryani, Chinese, Continental, Beverages : ₹850 for two :  Satellite, Ahmedabad
+Chaat King : - : Street Food : ₹250 for two :  Bopal, Ahmedabad
+Deszert Addict : 3.9 : Desserts, Ice Cream, Shake : ₹200 for two :  Thaltej, Ahmedabad
+Mr. Punjabi Restaurant : - : North Indian, Chinese, Fast Food : ₹350 for two :  Gota, Ahmedabad
+The Kerala Studio : 3.7 : South Indian, Desserts : ₹300 for two :  Bopal, Ahmedabad
+Dine In The Clouds : New : North Indian, South Indian, Pasta, Burger, Pizza, Fast Food, Shake, Beverages : ₹750 for two :  Thaltej, Ahmedabad
+Hotel Moti Mahal : 3.9 : North Indian, Chinese, Continental, Seafood, Fast Food, Mughlai, Ice Cream, Beverages : ₹1,000 for two :  Sarkhej, Ahmedabad
+Frankie On Fire : 4.0 : Fast Food, Mexican : ₹250 for two :  C G Road, Ahmedabad
+Drizzle's Pizza : 4.2 : Pizza, Fast Food : ₹400 for two :  Infocity, Gandhinagar
+Aaojee Khaojee : 3.9 : North Indian, Biryani, Pizza, Sandwich, Fast Food : ₹500 for two :  Chandkheda, Ahmedabad
+Cheers : 4.2 : Shake, Juices, Beverages, Ice Cream : ₹300 for two :  C G Road, Ahmedabad
+Bhavnaben Paani Puri : 4.0 : Street Food, Sandwich, Fast Food, Maharashtrian, Gujarati : ₹100 for two :  Satellite, Ahmedabad
+Palatables The Cafe : 3.7 : Coffee, Beverages, Fast Food, Pizza, Juices, Pasta, Sandwich, Shake : ₹550 for two :  Chandkheda, Ahmedabad
+Poptos : - : Fast Food, Coffee, Pizza, Burger, Shake : ₹350 for two :  Bodakdev, Ahmedabad
+Southern Grub The Taste of South : 4.0 : South Indian : ₹450 for two :  Memnagar, Ahmedabad
+Vadilal Now For Ever : 4.5 : Ice Cream, Desserts, Beverages, Fast Food, Pizza, Sandwich, Italian : ₹500 for two :  Bodakdev, Ahmedabad
+Gloria Restaurant : 3.8 : North Indian, Chinese, Continental, Pizza, Pasta, Desserts, Beverages : ₹1,200 for two :  Satellite, Ahmedabad
+Cheesy Crazy Cafe : 3.8 : Pizza, Sandwich, Burger, Pancake, Waffle, Fast Food, Cafe : ₹350 for two :  Chandkheda, Ahmedabad
+Mysterious Kitchen : 3.7 : North Indian, Chinese, Fast Food, Pizza, Sandwich, Coffee, Shake, Beverages : ₹2,000 for two :  Gulbai Tekra, Ahmedabad
+Eminence Restaurant And Banquet : 3.7 : North Indian, Chinese, Fast Food, Italian, Continental, Beverages, Desserts, Shake : ₹950 for two :  Naroda, Ahmedabad
+Swirl - Vivanta Ahmedabad : - : Bakery, Desserts : ₹1,500 for two :  Sola, Ahmedabad
+Bluez Garden Cafe & Restaurant : - : North Indian, Chinese, Salad, Burger, Pizza, Fast Food, Desserts, Beverages : ₹1,000 for two :  Bopal, Ahmedabad
+Taranovas Pizza : 3.9 : Pizza, Italian, Pasta, Fast Food, Street Food : ₹400 for two :  Infocity, Gandhinagar
+Tea Post : 4.0 : Tea, Coffee, Shake, Beverages, Sandwich, Fast Food, Street Food : ₹350 for two :  Gota, Ahmedabad
+Gokulam : New : South Indian : ₹250 for two :  Isanpur, Ahmedabad
+Chaai Seth : 3.5 : Tea, Beverages, Fast Food, Burger, Street Food : ₹350 for two :  Paldi, Ahmedabad
+Cafe Twenty 20 Restro : - : Cafe, Coffee, North Indian, Pizza, Burger, Chinese, Tea, Shake : ₹550 for two :  Gurukul, Ahmedabad
+Brewgarten : 4.5 : Cafe, Continental, Bakery, Shake, Beverages : ₹600 for two :  Navrangpura, Ahmedabad
+Aagman - The Family Garden Restaurant : - : North Indian, Kathiyawadi, Chinese, Biryani, Fast Food, Shake, Beverages : ₹1,000 for two :  Sector 21, Gandhinagar
+Ten 11 Lounge Cafe & Restro : 3.9 : North Indian, Chinese, Fast Food, Italian, Pizza, Coffee, Beverages : ₹1,000 for two :  Bodakdev, Ahmedabad
+RP's Pizzeria : 4.1 : Pizza, Fast Food, Italian, Pasta : ₹500 for two :  Paldi, Ahmedabad
+Sphere Lounge - Hotel Ramada : 4.2 : North Indian, Chinese, Fast Food, Italian, Street Food, Sandwich, Panini : ₹1,000 for two :  Ramada, Prahlad Nagar, Ahmedabad
+7 The Cafe : 3.6 : Cafe, Coffee, Pizza, Sandwich, Burger, Fast Food, Waffle, Wraps : ₹500 for two :  Satellite, Ahmedabad
+Starbucks Coffee : - : Cafe, Coffee, Fast Food, Beverages, Desserts : ₹600 for two :  Infocity, Gandhinagar
+Pitchza : New : Pizza : ₹600 for two :  Memnagar, Ahmedabad
+Chicago Pizza And Coffee Bar : - : Pizza, Beverages : ₹300 for two :  Bopal, Ahmedabad
+Murali Food Home : New : Burger, Fast Food, Street Food, Shake, Beverages : ₹300 for two :  Bodakdev, Ahmedabad
+Rowdy Momos Cafe : New : Momos, Fast Food, Waffle, Beverages : ₹300 for two :  Ashram Road, Ahmedabad
+Jamie Oliver Kitchen : - : Continental, Italian, Fast Food, Desserts, Coffee, Tea, Beverages : ₹900 for two :  Palladium Mall, Ahmedabad
+Zen Cafe : 4.1 : Fast Food, Chinese, Italian, Beverages, Desserts : ₹400 for two :  Satellite, Ahmedabad
+The Munch Box : New : Burger, Sandwich, Fast Food, Seafood : ₹300 for two :  Vejalpur, Ahmedabad
+Raj Chole Puri : - : North Indian, Chinese : ₹300 for two :  Gurukul, Ahmedabad
+Snacky Treats : - : Sandwich, Rolls, Fast Food, Street Food : ₹350 for two :  Satellite, Ahmedabad
+Momoman : 3.8 : Momos, Chinese, Oriental, Tibetan, Sichuan : ₹1,000 for two :  Gurukul, Ahmedabad
+Boot Camp Cafe & Restro : 3.9 : North Indian, Chinese, Fast Food, Continental, Pizza, Desserts : ₹1,000 for two :  Gota, Ahmedabad
+Amigo'z Pizza : 4.1 : Pizza, Italian, Pasta, Fast Food, Desserts, Shake, Beverages : ₹700 for two :  Prahlad Nagar, Ahmedabad
+Numeron : 3.8 : Chinese, Italian, Pizza, North Indian : ₹850 for two :  Bodakdev, Ahmedabad
+Ganesh Chaat House : New : Street Food : ₹100 for two :  Bopal, Ahmedabad
+Vaibhav Restaurant : 4.2 : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages : ₹500 for two :  Gulbai Tekra, Ahmedabad
+Martino'z Pizza : 4.3 : Pizza, Fast Food : ₹300 for two :  Bopal, Ahmedabad
+Gir Nehdo : - : Gujarati : ₹300 for two :  Naroda, Ahmedabad
+Rivaj Gujarati Rasthal : 3.5 : Gujarati : ₹600 for two :  Airport Gandhinagar Highway, Gandhinagar
+Rajkamal : 4.0 : North Indian, Chinese, Pasta, Pizza : ₹600 for two :  Shahibagh, Ahmedabad
+Sambar Cafe : 2.9 : South Indian, Beverages : ₹350 for two :  Bopal, Ahmedabad
+Surbhi Restaurant : 4.1 : North Indian, Chinese, Fast Food, Ice Cream, Beverages : ₹900 for two :  Galaxy Complex, Naroda, Ahmedabad
+Babadeepsingh Restaurant : 2.9 : North Indian, South Indian, Chinese : ₹500 for two :  Naroda, Ahmedabad
+Express Cafe : 3.7 : Cafe : ₹700 for two :  Prahlad Nagar, Ahmedabad
+Coffea : 3.9 : Cafe, Coffee, Chinese, Pasta, Pizza, Fast Food, Beverages : ₹500 for two :  Sola, Ahmedabad
+La Pino'z Pizza : 3.8 : Pizza, Pasta, Italian, Fast Food : ₹350 for two :  Ghatlodia, Ahmedabad
+Amala : 3.5 : North Indian, Pizza : ₹1,500 for two :  Bodakdev, Ahmedabad
+Greenz Restaurant : 3.9 : Chinese, North Indian, Fast Food, Continental, Italian, Mexican, Desserts, Beverages : ₹600 for two :  Infocity, Gandhinagar
+Creamoholic Cafe & Restaurant : 4.0 : Cafe, North Indian, Continental, Mexican, Chinese, Fast Food, Biryani, Beverages : ₹850 for two :  Airport Gandhinagar Highway, Gandhinagar
+McDonald's : 3.7 : Burger, Fast Food, Beverages : ₹400 for two :  Chandkheda, Ahmedabad
+Natural Ice Cream : 4.4 : Ice Cream, Desserts : ₹350 for two :  Bodakdev, Ahmedabad
+Merasa : 3.4 : North Indian, Continental, Beverages : ₹2,000 for two :  Bopal, Ahmedabad

@@ -1,0 +1,489 @@
+Loafer's Café : 4.2 : Cafe, Coffee, Tea, Shake, Beverages, Bakery, Fast Food, Pizza : ₹700 for two :  Lodipur, Patna
+The Farmhouse Cafe : 4.0 : North Indian, Chinese, Fast Food, Sandwich, Pizza : ₹1,000 for two :  Kankarbagh, Patna
+The Capetown Cafe : 4.6 : Cafe, Chinese, Modern Indian, Italian, Beverages : ₹800 for two :  Patliputra Colony, Patna
+Karim's : 4.0 : North Indian, Mughlai : ₹1,000 for two :  Khajpura, Patna
+Pista House : 2.8 : North Indian, Chinese : ₹1,400 for two :  Fraser Road Area, Patna
+The Downtown Cafe : 4.2 : North Indian, Biryani, Chinese, Continental, Cafe : ₹1,000 for two :  Kankarbagh, Patna
+Pirates Of Grill : New : North Indian, Salad, Oriental, Desserts : ₹1,000 for two :  Lodipur, Patna
+Afraa : 4.5 : Bengali, Continental, North Indian, Chinese, Asian, Biryani, Pizza, Desserts : ₹1,500 for two :  Lodipur, Patna
+Light House Cafe : 4.2 : Continental, Italian, Pizza, Desserts : ₹1,000 for two :  Lodipur, Patna
+Aasman : 4.3 : North Indian, Continental, Chinese, Fast Food, Desserts, Beverages, Sichuan, Seafood : ₹3,500 for two :  Fraser Road Area, Patna
+Craft Coffee : 4.5 : Coffee, Cafe, Continental, Pizza, Desserts, Pasta, Healthy Food : ₹800 for two :  Lodipur, Patna
+Austaara : 4.5 : North Indian, Mughlai, Continental, Italian, Chinese, Fast Food, Salad, Desserts : ₹1,800 for two :  Anandpuri, Patna
+AB's - Absolute Barbecues : 4.6 : Biryani, BBQ, Kebab, North Indian, Desserts : ₹1,550 for two :  Lodipur, Patna
+Barbeque Nation : 4.9 : North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts : ₹1,750 for two :  Patna One Mall, Fraser Road Area, Patna
+Indie Kulture : 4.4 : North Indian, Continental, Biryani, Seafood, Chinese, Italian, Beverages, Desserts : ₹1,200 for two :  Kankarbagh, Patna
+Biryani By Kilo : 4.3 : Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts : ₹600 for two :  Patliputra Colony, Patna
+Ghoomar Traditional Thali Restaurant : 4.4 : Rajasthani, North Indian, Desserts, Beverages : ₹1,000 for two :  Khajpura, Patna
+Khadak Singh Da Dhaba : 4.2 : North Indian, Mughlai, Rolls, Chinese, Biryani, Kebab, Momos : ₹500 for two :  Rukanpura, Patna
+Cafe Hideout : 4.4 : North Indian, Chinese, Continental, Biryani, BBQ, Coffee, Pizza, Pasta : ₹1,200 for two :  Kankarbagh, Patna
+Biryani Grills : 4.2 : Biryani, North Indian : ₹450 for two :  Kankarbagh, Patna
+The Pacifique - Café & Lounge : 4.2 : Chinese, North Indian, Continental, Pizza, Desserts, Burger, Rolls, Sandwich : ₹1,400 for two :  Kankarbagh, Patna
+Pind The Revolving restaurant : 3.3 : North Indian, Chinese, Mughlai, Desserts, Beverages, Kebab : ₹1,000 for two :  Lodipur, Patna
+Moti Mahal Delux Tandoori Trail : 4.2 : North Indian, Chinese, Salad, Kebab, Mughlai, Biryani, Desserts, Beverages : ₹1,200 for two :  Kankarbagh, Patna
+Sardar-Ji-Bakhsh Coffee : - : Coffee, Cafe : ₹400 for two :  Patliputra Colony, Patna
+Cafe Skylite : 4.1 : North Indian, Mughlai, Continental, Chinese, Salad, Biryani, Pizza, Fast Food : ₹1,000 for two :  Rukanpura, Patna
+Brewbakes : 4.0 : North Indian, Continental, Pizza, Momos, Desserts, Beverages : ₹650 for two :  Rukanpura, Patna
+Biryani Grills : 4.2 : Biryani, North Indian, Rolls, Desserts, Beverages, Kerala : ₹450 for two :  Khajpura, Patna
+The Glass Box : 4.2 : Continental, North Indian, Oriental, Chinese, Biryani, Asian, Desserts, Beverages : ₹1,400 for two :  Kankarbagh, Patna
+Biryani By Bihari's : 4.3 : Biryani, North Indian, Mughlai : ₹500 for two :  Rukanpura, Patna
+City Lights Cafe : 3.9 : Italian, Oriental, Chinese, Continental, Pizza, Momos, South Indian : ₹1,000 for two :  Sri Krishnapuri, Patna
+WOW! Chicken By WOW! Momo : 3.6 : American, Fast Food, Burger, Beverages : ₹200 for two :  P&M Mall, Kurji, Patna
+Foresto Paradise : 4.4 : North Indian, Chinese, Continental, Oriental, Kebab, European, Beverages : ₹1,100 for two :  Patliputra Colony, Patna
+Golden Flavour : 4.1 : North Indian, Chinese, Italian, Biryani, Mughlai, Desserts : ₹1,200 for two :  Sri Krishnapuri, Patna
+HOTEL RAMTA CONTINENTAL : 3.9 : North Indian, Chinese : ₹1,000 for two :  Adampur, Patna
+Kebab Bazar : New : Kebab, North Indian, Chinese, Rolls : ₹500 for two :  Rukanpura, Patna
+Mama Sexy The Aer Bar : 4.9 : North Indian, Mughlai, Fast Food, Chinese, Desserts, Beverages : ₹950 for two :  Khajpura, Patna
+WOW! Momo : 4.3 : Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts : ₹400 for two :  Anandpuri, Patna
+Harilal's : 4.2 : Mithai, South Indian, Street Food, North Indian, Chinese, Fast Food, Bakery : ₹300 for two :  Kankarbagh, Patna
+Dessertino Shakes And More : 3.5 : Desserts, Shake, Pizza : ₹350 for two :  Rajendra Nagar, Patna
+The Boring Cafe' : 4.5 : North Indian, Chinese, Continental, Oriental, Fast Food, Beverages : ₹1,000 for two :  Kidwaipuri, Patna
+WOW! China : 3.6 : Chinese, Oriental, Asian, Sichuan, Seafood, Momos : ₹700 for two :  Kurji, Patna
+Made Yum Pizza : 3.9 : Pizza, Burger, Rolls, Pasta : ₹300 for two :  Kankarbagh, Patna
+Amrapali Cafe : 4.6 : North Indian, Fast Food, Chinese, Biryani, Kebab : ₹1,000 for two :  Fraser Road Area, Patna
+Kapil Dev's Eleven : 4.4 : North Indian, Chinese, Continental, Asian, Mughlai, Desserts : ₹1,400 for two :  Fraser Road Area, Patna
+KFC : 3.9 : Burger, Fast Food, Rolls : ₹500 for two :  Kidwaipuri, Patna
+D' Hoot Cafe & Kitchen : 4.0 : North Indian, Chinese, Continental : ₹1,200 for two :  Rukanpura, Patna
+Basant Vihar : 4.2 : South Indian, Ice Cream, Street Food, Beverages : ₹500 for two :  Maurya Lok, Fraser Road Area, Patna
+Tao Bao Korean Cafe : New : Korean, Fast Food, Bubble Tea, Beverages, Asian : ₹500 for two :  Rukanpura, Patna
+Waffcha : 4.3 : Waffle, Ice Cream, Pancake, Desserts, Shake, Beverages : ₹350 for two :  Kankarbagh, Patna
+La Clove : New : North Indian, Mughlai, Biryani, Chinese, Continental, Desserts, Shake, Beverages : ₹1,200 for two :  Fraser Road Area, Patna
+McDonald's : 4.0 : Burger, Fast Food, Beverages, Coffee, Cafe : ₹500 for two :  Golambar, Patna
+LBW - Lounge Before Wicket : 4.0 : North Indian, Chinese, Fast Food, Mughlai, Continental, Biryani, Desserts, Beverages : ₹1,000 for two :  Rajbansi Nagar, Patna
+Melody Restaurant : 3.9 : North Indian, Chinese, Thai, Salad, Seafood, Street Food, Fast Food : ₹1,000 for two :  Khajpura, Patna
+Baba Dhaba : 4.0 : North Indian, Chinese : ₹500 for two :  Hajipur, Patna
+Chickaway : 3.6 : North Indian, Chinese, Biryani, Kebab, Sichuan, Street Food, Beverages : ₹550 for two :  Anandpuri, Patna
+Food Village : 3.7 : Cafe, North Indian, Continental, Chinese, Biryani, Pasta, Desserts, Beverages : ₹1,300 for two :  Kankarbagh, Patna
+Blue Moon : 3.4 : Chinese, Rolls, North Indian : ₹250 for two :  Kankarbagh, Patna
+The Barbeque Company : 3.6 : North Indian, Biryani, BBQ, Desserts : ₹1,500 for two :  Sri Krishnapuri, Patna
+CookBook Cafe : 3.6 : Asian, North Indian, Mediterranean, Continental, Chinese, Desserts, Beverages : ₹1,400 for two :  Patliputra Colony, Patna
+Silk Route - Hotel The Panache : 4.2 : Chinese, Continental, North Indian, South Indian, Desserts, Beverages : ₹1,400 for two :  Hotel The Panache, Golambar, Patna
+Pind Balluchi : 3.4 : North Indian, Biryani, Desserts : ₹1,000 for two :  Rukanpura, Patna
+Skyline Biryani House : 3.5 : Biryani, North Indian, Kebab : ₹500 for two :  Khajpura, Patna
+Paprika - Pramod Laddu Bhandar : 3.8 : North Indian, Chinese, South Indian, Fast Food, Mithai, Continental : ₹700 for two :  Rajendra Nagar, Patna
+The Great  Kabab Factory : 3.7 : North Indian, Kebab, Mughlai, Biryani, Desserts : ₹900 for two :  Khajpura, Patna
+Hungry Sardar : - : North Indian, Chinese : ₹1,000 for two :  Kankarbagh, Patna
+The Belgian Waffle Co. : 3.7 : Waffle, Pancake, Desserts, Beverages, Ice Cream : ₹550 for two :  Sri Krishnapuri, Patna
+Free Fire Cafe : 3.9 : Pizza : ₹250 for two :  Muhammadpur, Patna
+The Red Velvet Samarpan : 4.3 : North Indian, Chinese, South Indian, Continental, Salad, Fast Food, Beverages, Shake : ₹900 for two :  Kidwaipuri, Patna
+Pekoe : 3.4 : Tea, Fast Food, Street Food, Beverages : ₹250 for two :  Patliputra Colony, Patna
+Biryani Mahal : 4.0 : Biryani, Kebab, North Indian, Mughlai, Rolls, Chinese, Sichuan : ₹1,000 for two :  Kankarbagh, Patna
+Bollywood Treats : 3.8 : Biryani, Chinese, North Indian, Desserts, Beverages : ₹1,000 for two :  Khajpura, Patna
+Spice Court - Hotel Maurya : 4.9 : North Indian, Chinese, Biryani, Desserts, Beverages, Sichuan : ₹2,000 for two :  Hotel Maurya, Lodipur, Patna
+Imperial Hideout : 3.8 : Cafe, Coffee, Beverages, Chinese, North Indian, Fast Food, Healthy Food, Desserts : ₹1,100 for two :  Khajpura, Patna
+17 Degrees : 4.3 : North Indian : ₹800 for two :  Kurji, Patna
+Pour Tous : 3.6 : North Indian, Chinese, Rolls, Biryani : ₹600 for two :  Patliputra Colony, Patna
+Karwaan Restaurant : 3.8 : North Indian, Chinese : ₹400 for two :  Rukanpura, Patna
+Bistro - Hotel Patliputra Continental : 4.1 : North Indian, Asian, Chinese, Biryani, Desserts, Salad, Continental : ₹2,300 for two :  Anisabad, Patna
+Monginis : 3.9 : Bakery, Desserts : ₹400 for two :  Mithapur, Patna
+Bansi Vihar Restaurant : 4.3 : South Indian, Chinese : ₹600 for two :  Fraser Road Area, Patna
+Town Hall 29 : 3.3 : North Indian, Chinese, Sandwich, Biryani, Desserts, Cafe, Coffee, Beverages : ₹1,700 for two :  Kankarbagh, Patna
+Krishna Biryani & Fast Food : 3.4 : North Indian, Chinese, Rolls, Biryani : ₹300 for two :  Anisabad, Patna
+Biryani Mall : 3.1 : Biryani, North Indian, Mughlai, Chinese, Ice Cream, Rolls : ₹700 for two :  Fraser Road Area, Patna
+Somen19 : 2.6 : Chinese, North Indian, Fast Food, Biryani : ₹500 for two :  Sri Krishnapuri, Patna
+Patna Foodies Club : 4.4 : North Indian, Chinese, Momos, Biryani, Rolls, Fast Food : ₹500 for two :  Kidwaipuri, Patna
+Gokul : 4.3 : Mithai, North Indian, Chinese, Fast Food, Sandwich, Momos, Continental : ₹1,000 for two :  Golambar, Patna
+Regalia : 4.4 : North Indian, Kebab, Chinese, Continental, Shake, Sichuan, Desserts, Beverages : ₹3,500 for two :  Sri Krishnapuri, Patna
+Restaurant 357 : New : North Indian, Chinese : ₹1,000 for two :  Kankarbagh, Patna
+Pramod Laddu Bhandar : - : Mithai, Bakery : ₹300 for two :  Rukanpura, Patna
+Champaran Meat House : 3.6 : North Indian, Biryani, Chinese, Rolls : ₹200 for two :  Rajendra Nagar, Patna
+Burger Singh - Big Punjabi Burgers : - : Burger, Fast Food : ₹300 for two :  Kankarbagh, Patna
+Hi Q Foods : 3.9 : North Indian, Mughlai, Kebab, Chinese : ₹450 for two :  Gardanibagh, Patna
+The Biryani Mall : 4.3 : Biryani, Mughlai, Chinese, North Indian, Beverages, Ice Cream, Rolls : ₹600 for two :  Sri Krishnapuri, Patna
+Patnight's : - : North Indian, Chinese, Biryani, Pizza, Fast Food, Beverages : ₹550 for two :  Mithapur, Patna
+PEP : 3.9 : Cafe, Coffee, North Indian, Biryani, Chinese, Continental, Desserts, Beverages : ₹550 for two :  Patliputra Colony, Patna
+Chauka - Multi cuisine Restaurant : 3.7 : North Indian, Chinese, Fast Food, Beverages : ₹600 for two :  Sri Krishnapuri, Patna
+Swaaddesh : 4.4 : North Indian, Chinese, Kebab, Mughlai, Biryani, Momos, Ice Cream : ₹700 for two :  Sri Krishnapuri, Patna
+Lovely Shaolin Kitchen : New : Chinese, Sichuan, Rolls, Momos, Beverages : ₹350 for two :  Rajendra Nagar, Patna
+Domino's Pizza : 3.9 : Pizza, Italian, Pasta, Fast Food, Desserts : ₹500 for two :  Kidwaipuri, Patna
+The Royal Andhra : 3.7 : Andhra, South Indian, Biryani, Desserts, Beverages : ₹1,200 for two :  Sri Krishnapuri, Patna
+Takshila - Hotel Chanakya : 4.3 : Mughlai, North Indian, Desserts : ₹1,800 for two :  Hotel Chanakya, Sri Krishnapuri, Patna
+Cafe PikKuli : 2.8 : North Indian, Chinese, Fast Food, Pizza, Continental, Beverages, Biryani, Desserts : ₹700 for two :  Kankarbagh, Patna
+Veer Ji Malai Chaap Wale : 3.9 : North Indian, Rolls, Fast Food : ₹400 for two :  Kankarbagh, Patna
+Old Champaran Meat House : 3.8 : North Indian, Mughlai : ₹400 for two :  Fraser Road Area, Patna
+Yo China : 3.9 : Chinese, Continental, North Indian, Seafood, Ice Cream, Desserts, Beverages : ₹800 for two :  Khajpura, Patna
+Indian Summer Cafe : 4.2 : Oriental, Continental, North Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,200 for two :  Golambar, Patna
+Lazeez Gold : 3.5 : North Indian, Chinese, Biryani, Desserts, Beverages, Kebab : ₹1,000 for two :  Khajpura, Patna
+Hariram's : 4.0 : Mithai, Bakery, South Indian, Chinese, North Indian, Desserts : ₹700 for two :  Kankarbagh, Patna
+Samarat - Hotel Chanakya : 4.1 : North Indian, Chinese, Continental, Seafood, Desserts, Sichuan : ₹1,600 for two :  Hotel Chanakya, Sri Krishnapuri, Patna
+Burger King : 3.5 : Burger, Fast Food, Desserts, Beverages : ₹400 for two :  Lodipur, Patna
+The Underground Restaurant : 4.6 : Fast Food, Chinese, North Indian, Biryani, Desserts : ₹700 for two :  Sri Krishnapuri, Patna
+Nirvana : 4.2 : North Indian, Chinese, Mughlai, Fast Food, Street Food, Beverages, Desserts : ₹900 for two :  Sri Krishnapuri, Patna
+The Grindhouse By Cafe 13 : 3.5 : Fast Food, Asian, North Indian, Chinese, Coffee, Desserts, Beverages : ₹800 for two :  Kankarbagh, Patna
+Barkaas : New : North Indian, Biryani, Kebab, Mandi, Fast Food, Desserts : ₹1,200 for two :  Lodipur, Patna
+Big Break : 3.1 : Pizza, Chinese, Biryani, Rolls : ₹500 for two :  Kankarbagh, Patna
+Tandoor Hut : 3.9 : North Indian, Mughlai, Chinese, Kebab : ₹400 for two :  Fraser Road Area, Patna
+Cilantro India : 3.3 : North Indian, Biryani, Chinese, Continental, Fast Food : ₹1,200 for two :  Khajpura, Patna
+Persona : - : North Indian, Chinese, Burger, Italian, Steak, Biryani, Desserts : ₹2,000 for two :  Patliputra Colony, Patna
+Shantilal's Sweet : 3.3 : Street Food, Fast Food, Chinese, North Indian, South Indian, Desserts, Beverages : ₹350 for two :  Mithapur, Patna
+Hot Grills : 4.4 : North Indian, Italian, Biryani, Chinese, Roast Chicken, Rolls, Sandwich, Burger : ₹1,000 for two :  Kidwaipuri, Patna
+Daniyawan Fish Dhaba : 3.8 : Seafood, North Indian : ₹300 for two :  Rukanpura, Patna
+Arsalan Biryani : 4.1 : Biryani, Mughlai, North Indian, Rolls, Kebab : ₹850 for two :  Anisabad, Patna
+THE CAFE 69 : - : North Indian, Chinese, Rolls, Pizza, Fast Food, Momos, Desserts, Beverages : ₹450 for two :  Kankarbagh, Patna
+The Potbelly : 3.7 : North Indian, Fast Food, Bihari, Seafood : ₹400 for two :  Sri Krishnapuri, Patna
+Fat Tiger : 4.3 : Fast Food, Momos, Pasta, Pizza, Wraps, Desserts, Shake, Beverages : ₹850 for two :  Patliputra Colony, Patna
+Kamat Restaurant : 4.0 : North Indian, Chinese, Mughlai, Kebab, South Indian, Desserts, Beverages : ₹700 for two :  Patliputra Colony, Patna
+Pizza Hut : 4.1 : Pizza, Fast Food, Desserts, Beverages : ₹700 for two :  Rukanpura, Patna
+Bihari Baithak : 3.6 : North Indian, Chinese, Mughlai, Biryani, Seafood, Fast Food, Desserts, Shake : ₹1,300 for two :  Rukanpura, Patna
+The Foodie Mall : - : North Indian, Biryani, Chinese, Shawarma, Kebab : ₹500 for two :  Phulwari Sharif, Patna
+Bikaner Sweets : 4.1 : Mithai, Fast Food, Sandwich, Shake : ₹300 for two :  Kankarbagh, Patna
+Swad E Dawat : New : North Indian, Kebab, Chinese, Beverages : ₹400 for two :  Kankarbagh, Patna
+The BR01 Restaurant : - : North Indian, Mughlai, Biryani, Chinese, Seafood, Kebab, Fast Food : ₹1,000 for two :  Anisabad, Patna
+Gulabo Food Court : - : North Indian, Momos : ₹500 for two :  Sipara, Patna
+Thakur Jee Akaurwaley : 3.6 : North Indian, South Indian, Chinese, Fast Food, Momos, Street Food, Desserts, Beverages : ₹450 for two :  Begampur, Patna
+Oyk Yumms : 4.0 : North Indian, Mughlai, Chinese, Biryani, Rolls, Momos, Street Food, Sichuan : ₹700 for two :  Khajpura, Patna
+Caelum Restro : 3.3 : North Indian, Mughlai, Sandwich, Burger, Pizza, Pasta, Chinese : ₹1,000 for two :  Adampur, Patna
+Gandhali - Hotel Gargee Grand : 3.7 : North Indian, Chinese, Continental, Italian, Seafood, Salad : ₹2,000 for two :  Hotel Gargee Grand, Golambar, Patna
+Bhukkhad : 4.1 : North Indian, Biryani, Chinese, Beverages, South Indian : ₹400 for two :  Rajendra Nagar, Patna
+Mehfil - Hotel Vista Palace : 3.8 : North Indian, Mughlai, Kebab, Biryani, Chinese, Salad, Desserts, Beverages : ₹1,000 for two :  Kidwaipuri, Patna
+Sardarji's Kitchen House : 3.6 : North Indian, Chinese : ₹500 for two :  Fraser Road Area, Patna
+The Royal Haveli Cafe & Restaurant : 3.6 : North Indian, Chinese, Sandwich, Pizza, Momos, Fast Food, Desserts, Beverages : ₹1,000 for two :  Anisabad, Patna
+Haldiram's Prabhuji : 3.8 : North Indian, South Indian, Chinese, Fast Food, Street Food, Mishti, Beverages, Sandwich : ₹450 for two :  Rukanpura, Patna
+VRIHI SKYDECK-MAGADHI : 3.9 : Chinese, North Indian, Sichuan : ₹2,000 for two :  Patliputra Colony, Patna
+La Pino'z Pizza : 3.2 : Pizza, Pasta, Italian, Fast Food : ₹500 for two :  Sri Krishnapuri, Patna
+The Rock Fast Food : 4.0 : Chinese, Momos, Rolls, North Indian : ₹300 for two :  Khajpura, Patna
+Blue Mermaid Cafe And Kitchen : 4.0 : Cafe, Coffee, Fast Food, Street Food, North Indian, Chinese, Biryani, Desserts : ₹500 for two :  Kankarbagh, Patna
+The Soda Fountain & Milk Bar : 3.2 : South Indian, Fast Food, Chinese, Beverages, Desserts : ₹350 for two :  Golambar, Patna
+Cinema Cafe : 3.4 : North Indian, Mughlai, Biryani, Seafood, Chinese, Fast Food, Beverages, Desserts : ₹1,100 for two :  Rukanpura, Patna
+Kingdom Of Momos : 3.8 : Momos, Chinese, Rolls, Fast Food, North Indian : ₹350 for two :  Rajendra Nagar, Patna
+Raj Rasoi : 3.9 : Chinese, North Indian, South Indian, Biryani, Kebab, Sichuan : ₹1,200 for two :  Lodipur, Patna
+Chennai Tadka : 3.4 : South Indian : ₹250 for two :  Digha Ghat, Patna
+The Momo Hub : 3.9 : Momos, Kebab : ₹150 for two :  Kankarbagh, Patna
+RS Star Family Restaurant & Banquets : 3.9 : North Indian, Chinese, Beverages : ₹400 for two :  Anisabad, Patna
+Big Boyz Cafe : 4.0 : Fast Food, Beverages, Sandwich, Rolls : ₹300 for two :  Rajendra Nagar, Patna
+Momo Nation Cafe : 3.6 : Momos, Chinese, Fast Food, North Indian, Beverages : ₹400 for two :  Rukanpura, Patna
+MFC Restaurant : 3.9 : Fast Food, North Indian : ₹300 for two :  Mithapur, Patna
+Chai Sutta Bar : 3.1 : Tea, Shake, Burger, Sandwich, Pizza, Fast Food, Street Food : ₹400 for two :  Kankarbagh, Patna
+AER Bistro : 3.8 : Cafe, Coffee, North Indian, Chinese, Pizza, Fast Food, Mughlai, Beverages : ₹650 for two :  Fraser Road Area, Patna
+Koyla De Barbeque : 3.4 : BBQ, North Indian, Biryani, Fast Food, Beverages, Desserts, Chinese : ₹600 for two :  Kankarbagh, Patna
+Biryani Junction : 3.4 : North Indian : ₹150 for two :  Begampur, Patna
+Baba Hotel : 3.8 : North Indian, Chinese, Mughlai : ₹300 for two :  Fraser Road Area, Patna
+Cafe 11 To 11 : 3.6 : Sandwich, Momos, Pizza, Burger, Fast Food, Chinese, Beverages : ₹350 for two :  Phulwari Sharif, Patna
+Shantilal's Restaurant : - : North Indian, South Indian, Chinese, Fast Food, Bakery, Sandwich, Burger, Desserts : ₹550 for two :  Mainpura, Patna
+Friends Bhookh Cafe : 3.8 : Tea, Biryani, Burger, Street Food, Fast Food, Chinese, North Indian, Rolls : ₹350 for two :  Mithapur, Patna
+Lazeez Biryani : 3.7 : North Indian, Mughlai, Biryani, Kebab, Desserts, Beverages : ₹500 for two :  Kankarbagh, Patna
+Biryani Wala : 3.7 : Biryani, Chinese, North Indian, Mughlai : ₹300 for two :  Khajpura, Patna
+Dadan Handi Meat : 3.9 : North Indian : ₹500 for two :  Rukanpura, Patna
+Cafe Gardenia : 4.1 : North Indian, Chinese, Kebab, Continental, Mughlai, Desserts, Beverages, Sichuan : ₹600 for two :  Khajpura, Patna
+Monginis Cake Shop : - : Bakery : ₹300 for two :  Rukanpura, Patna
+Nature Foods Club : 3.6 : North Indian, Chinese, Mughlai, Rolls, Momos, Fast Food : ₹1,000 for two :  Mithapur, Patna
+Afra Tafri : 3.3 : Cafe, Coffee, Tea, Beverages, Fast Food, North Indian : ₹600 for two :  Kidwaipuri, Patna
+Chetan Hotel : 3.4 : North Indian, Chinese, Seafood : ₹200 for two :  Sadikpur, Patna
+Cafe Green Eye - Hotel The Panache : 4.3 : North Indian, Continental, Chinese : ₹1,400 for two :  Hotel The Panache, Golambar, Patna
+Rare Window : New : North Indian : ₹300 for two :  Patliputra Colony, Patna
+Khana Khazana : 3.3 : North Indian, Chinese, Kebab, Momos : ₹400 for two :  P&M Mall, Kurji, Patna
+Raj Darbar Family Restaurant : 4.1 : North Indian, Chinese, Mughlai, Biryani, Fast Food, Kebab, Desserts : ₹1,000 for two :  Golambar, Patna
+Orange Inn : 4.2 : Chinese, North Indian, Mughlai, Biryani, Pizza, Bakery, South Indian, Desserts : ₹700 for two :  Kankarbagh, Patna
+Lazeez : 4.1 : North Indian, Mughlai, Chinese, Beverages : ₹800 for two :  Patliputra Colony, Patna
+Pal Hotel : 4.0 : Mughlai, North Indian, South Indian, Biryani, Chinese, Desserts, Seafood : ₹450 for two :  Fraser Road Area, Patna
+Pyne Square : 3.9 : North Indian, Chinese, Fast Food, Pizza, Burger, Biryani, Desserts : ₹1,000 for two :  Kankarbagh, Patna
+Krishnashree : 3.9 : North Indian, Fast Food, Desserts, Mithai, Chinese, South Indian, Bakery, Shake : ₹500 for two :  Patliputra Colony, Patna
+Spice Odyssey : - : North Indian, Pizza, Sandwich, Burger, Fast Food, Chinese, Mughlai : ₹750 for two :  Kankarbagh, Patna
+Banjara Boring Road : - : North Indian, Fast Food : ₹200 for two :  Sri Krishnapuri, Patna
+Chicago Pizza : - : Pizza, Pasta, Fast Food, Beverages : ₹350 for two :  Mithapur, Patna
+Kolkata Biryani : 2.9 : Biryani : ₹300 for two :  Golambar, Patna
+Champaran Meat House TM : 4.1 : North Indian, Biryani : ₹400 for two :  Kankarbagh, Patna
+Zest Roof : - : Cafe, Coffee, Middle Eastern, Shawarma, Sandwich, Fast Food, Shake, Beverages : ₹500 for two :  Sri Krishnapuri, Patna
+Geetanjali Vihar Restaurant : - : Chinese, South Indian, Ice Cream, Beverages : ₹300 for two :  Khajpura, Patna
+Pannalal : 3.1 : Mithai, North Indian, Fast Food, Chinese, Street Food, Pizza, South Indian, Beverages : ₹350 for two :  Khajpura, Patna
+Patna Rasoi : 4.2 : South Indian, North Indian, Chinese : ₹550 for two :  Fraser Road Area, Patna
+The Dining Room : 3.9 : North Indian, Mughlai, Seafood, Continental, Chinese, Asian, Desserts, Beverages : ₹1,000 for two :  Khajpura, Patna
+Top In Town : 3.8 : North Indian, Chinese, Mughlai, Biryani, South Indian, Fast Food, Desserts, Beverages : ₹900 for two :  Anisabad, Patna
+A One Muradabadi Chicken Biryani Corner : - : Biryani, Mughlai : ₹600 for two :  Sri Krishnapuri, Patna
+The Artisan House - Bakery & Cafe : 4.0 : Cafe, Coffee, Bakery, Continental, Italian, Fast Food, Beverages, Desserts : ₹1,000 for two :  Kidwaipuri, Patna
+Dark Delight Restaurant & Cafe : 3.6 : North Indian, Biryani, Burger, Pizza, Street Food, Chinese, Desserts, Shake : ₹1,200 for two :  Anandpuri, Patna
+Delhi Chicken Biryani & Hyderabadi Chicken Biryani House : - : Biryani, Mughlai : ₹300 for two :  Hajipur, Patna
+The Picante Restrocafe : - : North Indian, Chinese, Mughlai, South Indian, Biryani : ₹1,100 for two :  Anisabad, Patna
+Laddoo Gopal Sweets : 4.0 : Chinese, North Indian, South Indian, Mithai : ₹900 for two :  Khajpura, Patna
+Platterz by The AVR : 3.9 : North Indian, Chinese, Biryani, Oriental, Continental, Salad, Desserts, Beverages : ₹1,400 for two :  Khajpura, Patna
+Garage Kitchen : 4.1 : Chinese, North Indian : ₹1,000 for two :  Kankarbagh, Patna
+Casa Picolla : 3.9 : Chinese, North Indian, Biryani, Desserts, Beverages, Sichuan : ₹400 for two :  Fraser Road Area, Patna
+Bollywood Cafe : New : North Indian, Coffee, Chinese, Pizza, Fast Food, Shake, Beverages : ₹1,300 for two :  Hajipur, Patna
+True Kebabs : - : Kebab, North Indian, Chinese, Mughlai, Biryani, Thai : ₹1,000 for two :  Sri Krishnapuri, Patna
+Cafe NH 83 : - : North Indian, South Indian, Chinese, Biryani, Italian, Mughlai, Kebab, Fast Food : ₹650 for two :  Sipara, Patna
+F.R.I.E.N.D.S Cafe : - : Beverages, Chinese, Fast Food, Shake, Sichuan : ₹300 for two :  Rajendra Nagar, Patna
+Polika : - : North Indian, Chinese, Biryani, Momos, Desserts : ₹1,000 for two :  Khajpura, Patna
+MAHI 7 STARS RESTAURANT : - : North Indian, Mughlai, Seafood, Chinese, Biryani, Rolls, Momos, Shake : ₹600 for two :  Bakerganj, Patna
+Pikachu Cafe : 3.9 : Chinese, North Indian, Mughlai, Momos, Biryani, Fast Food, Desserts, Beverages : ₹1,200 for two :  Anisabad, Patna
+TOB - The Only Burger : 4.3 : Burger, Fast Food, Beverages : ₹300 for two :  Kankarbagh, Patna
+Red Chilli : 4.0 : Chinese, Mughlai, Rolls, North Indian : ₹500 for two :  Anisabad, Patna
+Champaran Meat House : - : Bihari, Grilled Chicken : ₹400 for two :  Ranipur, Patna
+53 Cafe House : 3.6 : North Indian, Chinese, Biryani, Fast Food, Desserts, Beverages : ₹500 for two :  Patliputra Colony, Patna
+The Old Monk Cafe : 3.5 : Chinese, Momos, Oriental, North Indian, Kebab, Mughlai, Biryani, Fast Food : ₹1,000 for two :  Rukanpura, Patna
+The Jungle Safari : 3.7 : North Indian, Chinese, Biryani : ₹700 for two :  Digha Ghat, Patna
+Ghar Ka Thali : 3.6 : North Indian, Bihari : ₹300 for two :  Khajpura, Patna
+Aliza Kolkata Biryani : New : Biryani, North Indian, Rolls : ₹250 for two :  Agam Kuan, Patna
+Momo Nation Cafe : - : Momos, North Indian, Chinese, Pizza, Burger, Fast Food, Street Food, Sichuan : ₹500 for two :  Anisabad, Patna
+PFC : - : Fast Food, Burger, Shake, Beverages, BBQ : ₹250 for two :  Khajpura, Patna
+New Raj Rasoi : - : North Indian, Chinese, Rolls, Fast Food : ₹200 for two :  Ranipur, Patna
+Dana Paani Food Plaza : 4.0 : Chinese, North Indian, Fast Food : ₹350 for two :  Hajipur, Patna
+Mafia Lounge : - : Healthy Food, Salad, North Indian, Chinese, Fast Food, Beverages : ₹1,000 for two :  Rajendra Nagar, Patna
+Mast Magan Cafe & Restaurant : - : North Indian, Mughlai, Chinese, Biryani, Momos, Fast Food, Shake, Beverages : ₹1,000 for two :  Mainpura, Patna
+Angeethi : 3.0 : North Indian, Mughlai, Chinese, Biryani : ₹1,000 for two :  Khajpura, Patna
+Satrangi Dostana Restro : - : Cafe, Coffee, Tea, Beverages, North Indian, Goan, Kebab, Desserts : ₹450 for two :  Golambar, Patna
+The 1972 Cafe & Restaurant : New : Burger, Pizza : ₹1,000 for two :  Adampur, Patna
+Taste Affairs : - : North Indian, Mughlai, Chinese, Biryani, Fast Food, Momos, Desserts, Beverages : ₹250 for two :  Golambar, Patna
+Theek Hai?? Cafe : - : North Indian, Chinese, Biryani, Fast Food, Street Food, Beverages : ₹600 for two :  Rukanpura, Patna
+Radhaji Cafe And Restaurant : New : North Indian, South Indian, Chinese, Pizza, Sandwich, Fast Food, Street Food, Beverages : ₹400 for two :  Rajendra Nagar, Patna
+Biryani Palace : - : Chinese, North Indian, Biryani, Sichuan, Kebab, Salad, Desserts : ₹500 for two :  Begampur, Patna
+New Monopoli Restaurant & Juice Center : New : Fast Food, Pizza, Burger, Sandwich, Street Food, Juices, Shake, Desserts : ₹300 for two :  Lodipur, Patna
+Hungry Panda : - : North Indian, Chinese, Momos, Rolls : ₹200 for two :  Mithapur, Patna
+La Fume Cafe & Restro : 3.4 : North Indian, Mughlai, Biryani, Chinese, Ice Cream, Beverages : ₹1,000 for two :  Sri Krishnapuri, Patna
+Hello Restaurant And Café : 2.8 : Sandwich, Pizza, Chinese, North Indian, Fast Food, Desserts, Beverages : ₹900 for two :  Anandpuri, Patna
+Shiva Chappan Bhog : 3.9 : Mithai, Street Food : ₹350 for two :  Kankarbagh, Patna
+Om Vihar Restaurant : 4.1 : North Indian, Chinese, Biryani, Kebab : ₹500 for two :  Golambar, Patna
+Nirula's : 3.7 : Ice Cream, Burger, North Indian, Fast Food, Momos, Pizza, Shake, Beverages : ₹500 for two :  Rukanpura, Patna
+Handi Biryani Ghar : - : Biryani, Rolls : ₹350 for two :  Kankarbagh, Patna
+Bubble Berry : - : Rolls, Chinese : ₹350 for two :  Khajpura, Patna
+SSS - Swasthaya Swachata Swaad : New : North Indian, Mughlai, Healthy Food, Chinese, Fast Food, Biryani, Kebab, Beverages : ₹500 for two :  Kankarbagh, Patna
+Lajawaab Biryani : New : Biryani : ₹650 for two :  Khajpura, Patna
+PFC - Patna Fried Chicken : - : Fast Food, Beverages, Rolls, Burger, Momos, Desserts, Chinese : ₹300 for two :  Kankarbagh, Patna
+Pet Bhar Bhojanalaya : - : Bihari : ₹300 for two :  Kankarbagh, Patna
+Sanmit Hospitality : 3.6 : North Indian, Continental, Chinese, Salad, South Indian, Desserts, Beverages : ₹1,000 for two :  Golambar, Patna
+The London Shakes : - : Shake, Beverages, Fast Food : ₹400 for two :  Kankarbagh, Patna
+Restro & Cafe De'laila‎ : - : North Indian, Kebab, Biryani, Chinese, Arabian, Mughlai, Desserts, Beverages : ₹1,000 for two :  Fraser Road Area, Patna
+Bloom Kitchen : 4.2 : South Indian, North Indian, Chinese, Sichuan : ₹600 for two :  Kankarbagh, Patna
+Tasty Kitchen : 4.1 : North Indian, Chinese, Biryani, Mughlai, Kebab, Desserts : ₹550 for two :  Khajpura, Patna
+Balaji Dosa : - : South Indian : ₹350 for two :  Anisabad, Patna
+Baba's Cafe Kitchen : New : North Indian, Chinese, Pizza, Burger, Sandwich, Shake, Beverages, Cafe : ₹500 for two :  Sri Krishnapuri, Patna
+MW Bistro : - : North Indian, Biryani, Chinese, Sandwich, Pizza, Fast Food, Street Food, Tea : ₹350 for two :  Kurji, Patna
+Bidya Inn : - : Chinese, North Indian, Kebab, Mughlai : ₹500 for two :  Rukanpura, Patna
+Suis Restro : - : Chinese, Fast Food, Sandwich, Street Food, Shake, Beverages : ₹300 for two :  Rajendra Nagar, Patna
+Namaste Patna : New : North Indian, Rolls : ₹400 for two :  Rajbansi Nagar, Patna
+Food Heaven Cafe : - : Pizza, Sandwich, Fast Food, Street Food : ₹250 for two :  Fraser Road Area, Patna
+Green Bawarchi Sonpur : New : North Indian, Biryani, Chinese, Rolls : ₹300 for two :  Hajipur, Patna
+Bollywood Treats - Hotel Maurya : 3.6 : Chinese, Pizza, Sandwich, Fast Food, Beverages, Rolls, Street Food, South Indian : ₹500 for two :  Hotel Maurya, Lodipur, Patna
+Panghat Restaurant : New : Cafe, Coffee, North Indian, Mughlai, Italian, Chinese, Desserts, Beverages : ₹1,000 for two :  Sri Krishnapuri, Patna
+Bhagna Snacks Zone And Fast Food : - : Fast Food, Momos, Chinese, Rolls : ₹350 for two :  Phulwari Sharif, Patna
+Patel's Urban Pizza : 3.3 : Burger, Pizza : ₹250 for two :  Hajipur, Patna
+Open Heart Restaurant : - : North Indian, Chinese, Rolls : ₹350 for two :  Rajendra Nagar, Patna
+0612 Road Chef Open Air : 3.1 : North Indian, Chinese, Kebab, Fast Food, Rolls, Sichuan : ₹400 for two :  Sri Krishnapuri, Patna
+Mehfil On Marine : - : Fast Food, Momos, Beverages : ₹200 for two :  Kidwaipuri, Patna
+Singh Saheb : 4.1 : Fast Food, Chinese, Mughlai : ₹500 for two :  Rajendra Nagar, Patna
+One Take Away : - : North Indian, Biryani, Chinese, Rolls : ₹500 for two :  Rukanpura, Patna
+Chunchun Mom's Kitchen : New : North Indian, Biryani, Chinese, Rolls : ₹300 for two :  Anandpuri, Patna
+Ten 11 Grand : 4.0 : North Indian, Chinese, Biryani, Desserts, Beverages : ₹700 for two :  Khajpura, Patna
+Bonkers Cafe & Restaurant : 3.8 : North Indian, Chinese, Kebab, Continental, Biryani, Desserts, Sandwich, Fast Food : ₹1,200 for two :  Fraser Road Area, Patna
+Downtown Pizza : 3.8 : Pizza, Pasta, Fast Food : ₹500 for two :  Khajpura, Patna
+S. S. Food Track : New : North Indian : ₹300 for two :  Sadikpur, Patna
+UBQ by Barbeque Nation : 2.9 : North Indian, BBQ, Biryani, Street Food, Kebab, Beverages, Desserts : ₹500 for two :  Patna One Mall, Fraser Road Area, Patna
+EATPLAN8 : New : North Indian, Chinese, Kebab, Pizza, Fast Food, Desserts, Coffee, Shake : ₹1,000 for two :  Patliputra Colony, Patna
+Shri Hotel : - : North Indian, Chinese, Rolls : ₹300 for two :  Golambar, Patna
+Ankur Restaurant : 4.3 : North Indian, Chinese, Biryani, Fast Food, Beverages : ₹800 for two :  Sri Krishnapuri, Patna
+Hunger Hub : New : North Indian, Mughlai, Rolls, Street Food : ₹450 for two :  Hajipur, Patna
+King's : 4.1 : Fast Food, Rolls, Burger, Beverages : ₹300 for two :  Kurji, Patna
+Barista Coffee : 3.9 : Cafe, Coffee, Beverages, Sandwich, Fast Food, Desserts : ₹1,000 for two :  Lodipur, Patna
+Haldiram Bhujiawala : - : North Indian, South Indian, Chinese, Pizza, Fast Food, Street Food, Ice Cream, Shake : ₹500 for two :  Anisabad, Patna
+Sanwara : 3.8 : South Indian, North Indian, Chinese : ₹600 for two :  Fraser Road Area, Patna
+Dream  Shakes & Co. : 3.4 : Bakery, Desserts, Beverages, Shake : ₹350 for two :  Sri Krishnapuri, Patna
+Cafe D3 : 3.7 : North Indian, Mughlai, Kebab, Biryani, Chinese : ₹1,200 for two :  Hajipur, Patna
+Spice Roots : 3.5 : North Indian, Biryani, Chinese, Rolls, Fast Food : ₹500 for two :  Kankarbagh, Patna
+Bollywood Treats Express : 3.8 : North Indian, Kebab, Biryani, South Indian, Chinese, Pizza, Sandwich, Fast Food : ₹1,000 for two :  Hotel Maurya, Lodipur, Patna
+Bawarchi : 4.2 : North Indian, Chinese : ₹600 for two :  Kankarbagh, Patna
+Skyfall Rooftop Restaurant : - : North Indian, Chinese : ₹1,000 for two :  Kankarbagh, Patna
+Matkawala : 3.5 : North Indian, Mughlai, Biryani : ₹200 for two :  Patliputra Colony, Patna
+Peshawari 11 To 11 : 3.7 : North Indian, Biryani, Kebab, Chinese, Rolls : ₹450 for two :  Kidwaipuri, Patna
+Food Factory : 3.6 : Fast Food, Chinese, North Indian, Biryani, Salad, Rolls, Momos : ₹400 for two :  Kurji, Patna
+The Lime Light : 3.9 : Cafe, North Indian, Continental, Pizza, Rolls, Chinese, Biryani, Shake : ₹1,200 for two :  Kurji, Patna
+Banjara Vyanjan : 3.7 : North Indian, Chinese : ₹300 for two :  Kankarbagh, Patna
+The Chocolate Room : 3.5 : Cafe, Fast Food, Shake, Waffle, Desserts : ₹600 for two :  Sri Krishnapuri, Patna
+Anmol Pal Hotel : 4.1 : North Indian, Mughlai, Biryani, South Indian, Chinese, Street Food, Desserts : ₹450 for two :  Fraser Road Area, Patna
+Champaran Meat House : 4.1 : North Indian, Chinese, Biryani, Mughlai : ₹400 for two :  Golambar, Patna
+Mings Chimney : 4.4 : Chinese, Momos, North Indian, Kebab, Biryani : ₹400 for two :  Patliputra Colony, Patna
+7th Heaven : 4.1 : Bakery, Desserts, Chinese, Pizza, Fast Food, Coffee, Shake, Beverages : ₹450 for two :  Patliputra Colony, Patna
+BayLeaf Multicuisine Family Restaurant : 3.2 : North Indian, Mughlai, Biryani, Chinese, Desserts, Shake, Beverages : ₹1,000 for two :  Mithapur, Patna
+Berco's - If You Love Chinese : 4.3 : Asian, Thai, Chinese, Momos, Seafood, Desserts, Beverages, North Indian : ₹900 for two :  Golambar, Patna
+Cafe De-Light : 4.0 : North Indian, Momos, Chinese, Biryani : ₹600 for two :  Rukanpura, Patna
+Rasa  Restro & Banquet : 3.6 : North Indian, Chinese, Kebab, Biryani, Desserts : ₹1,000 for two :  Khajpura, Patna
+Rang De Basanti : 3.9 : North Indian, Biryani, Chinese, Pizza, Pasta, Sandwich, Fast Food, Beverages : ₹1,000 for two :  Kankarbagh, Patna
+Prime Bite Resto : 3.9 : North Indian, Mughlai, Kebab, Chinese, Biryani, Fast Food, Desserts, Beverages : ₹1,400 for two :  Fraser Road Area, Patna
+Cloud Kitchen : 4.1 : North Indian, Chinese : ₹400 for two :  Kankarbagh, Patna
+Well Food : 3.9 : North Indian, Mughlai, Chinese, Rolls, Desserts : ₹1,000 for two :  Kankarbagh, Patna
+Zaika : 3.8 : North Indian, Mughlai, Biryani, Kebab, Chinese, Seafood, Desserts : ₹500 for two :  Kankarbagh, Patna
+Keventers - Milkshakes & Desserts : 4.2 : Shake, Beverages, Desserts : ₹400 for two :  Kankarbagh, Patna
+Coca Mocha - Hotel Patliputra Continental : 3.9 : Bakery, Cafe, Continental, Fast Food : ₹600 for two :  Anisabad, Patna
+Chefbakes Cafe & Restaurant : 4.0 : Cafe, Beverages, North Indian, Chinese, Mughlai, Italian, Fast Food, Desserts : ₹700 for two :  Hajipur, Patna
+Novelty Corner : 4.1 : Bakery, Mithai : ₹350 for two :  Kankarbagh, Patna
+Grand Biryani Mahal : 4.2 : Biryani, Arabian, North Indian, Kebab, Chinese, Rolls : ₹500 for two :  Sadikpur, Patna
+Emperor Fast Food : 4.2 : North Indian, Chinese, Kebab, Biryani, Mughlai : ₹400 for two :  Sri Krishnapuri, Patna
+The Bridge - Clarks Inn : 3.9 : Continental, European, North Indian, Shake : ₹1,000 for two :  P&M Mall, Kurji, Patna
+Mutant Restro Cafe : 4.2 : Fast Food, Italian, BBQ, Chinese, Healthy Food, Desserts, Pizza, Salad : ₹700 for two :  Kankarbagh, Patna
+Noodles Corner : 3.9 : Chinese, North Indian, Rolls, Seafood : ₹300 for two :  Khajpura, Patna
+Ginni 99 Tasty : 3.5 : Street Food, North Indian : ₹100 for two :  Sri Krishnapuri, Patna
+Panda Junction : 3.7 : Fast Food, Shake : ₹400 for two :  P&M Mall, Kurji, Patna
+SK Kitchen's : - : North Indian, Biryani, Chinese, Kebab, Momos, Rolls : ₹450 for two :  Gardanibagh, Patna
+Mok:Mok Brunch : 3.9 : Momos, Tibetan, Fast Food : ₹200 for two :  Patliputra Colony, Patna
+Kha-Lo Restaurant : 3.9 : North Indian, Fast Food, Beverages, Chinese, Kebab, Biryani, Shake : ₹400 for two :  Golambar, Patna
+Cilantro : 4.1 : North Indian, Chinese, Rolls, Kebab, Sichuan : ₹400 for two :  Anandpuri, Patna
+Sunny Burger : - : Burger, Momos, Rolls : ₹100 for two :  Begampur, Patna
+Jain Food Hub : 3.8 : Chinese, North Indian, Street Food : ₹300 for two :  Bakerganj, Patna
+Monginis Cake Shop : - : Bakery : ₹300 for two :  Mithapur, Patna
+7th Heaven : 3.8 : Bakery, Desserts, Beverages, Shake : ₹500 for two :  Khajpura, Patna
+Rupam Fast Food & Restaurant : 3.8 : Chinese, North Indian, Mughlai, Rolls, South Indian, Fast Food, Beverages, Pizza : ₹500 for two :  Rajendra Nagar, Patna
+Summer Of 69 : 3.3 : North Indian, Chinese, Fast Food : ₹700 for two :  Patliputra Colony, Patna
+Hotpot : 3.9 : North Indian, Chinese, Kebab, Mughlai : ₹500 for two :  Khajpura, Patna
+Laziz Pizza - Gola Road : 3.9 : Pizza, Burger, Sandwich, Beverages, Desserts : ₹450 for two :  Khajpura, Patna
+Chennai Dosa Plaza : 3.7 : South Indian, Chinese, Ice Cream, Beverages, Sichuan : ₹300 for two :  Sri Krishnapuri, Patna
+Biryani King : 4.1 : Biryani, North Indian : ₹400 for two :  Bakerganj, Patna
+Calm Street Cafe : New : Cafe, Coffee, Pizza, Burger, Sandwich, Pasta, Fast Food, Beverages : ₹350 for two :  Rukanpura, Patna
+Champaran Meat House : 3.7 : North Indian, Bihari, Biryani : ₹400 for two :  Rukanpura, Patna
+Banjara Fast Food : 3.9 : Chinese, North Indian, Sichuan, Biryani : ₹300 for two :  Fraser Road Area, Patna
+New Bikanerwala Sweets : 3.9 : Mithai, Street Food, Desserts : ₹200 for two :  Kankarbagh, Patna
+The Highway Restaurant : 3.0 : North Indian, Chinese, South Indian, Mughlai, Street Food, Biryani, Beverages, Ice Cream : ₹700 for two :  Phulwari Sharif, Patna
+Old Champaran Mutton House : 3.6 : North Indian, Mughlai : ₹400 for two :  Khajpura, Patna
+Brijwashi Sweets And Restaurant : 2.9 : North Indian, South Indian, Chinese, Fast Food, Beverages, Desserts : ₹250 for two :  Khajpura, Patna
+Mr. Shawarma : 3.9 : Pasta, Rolls, Sandwich, Burger, Momos, Beverages, Shawarma, Shake : ₹400 for two :  Kankarbagh, Patna
+Madras Dosa House : 3.6 : South Indian : ₹200 for two :  Anandpuri, Patna
+Real Champaran Meat House : 3.4 : North Indian, Mughlai : ₹500 for two :  Kankarbagh, Patna
+Pankaj Sweets : 4.8 : Mithai, Bakery, Desserts : ₹400 for two :  Golambar, Patna
+Shakahari Restaurant : 4.0 : North Indian, South Indian, Chinese, Biryani : ₹200 for two :  Hajipur, Patna
+American Inn Cafe : 3.8 : Chinese, Fast Food, Sandwich, North Indian, Mughlai, Beverages : ₹400 for two :  Golambar, Patna
+Stash Cafe : 3.9 : Momos, Chinese, Pizza, Biryani, Continental, Rolls, Mughlai, Kebab : ₹350 for two :  Anisabad, Patna
+Dining Delight - Hotel Aurelia Pearl : 4.1 : Chinese, North Indian, Beverages : ₹1,000 for two :  Rukanpura, Patna
+Rasoi : 2.7 : North Indian, Chinese, Mughlai : ₹350 for two :  Khajpura, Patna
+Muskan Restaurant : 3.1 : North Indian, Bihari : ₹500 for two :  Hajipur, Patna
+The Outhide - Hotel Amalfi Grand : 3.9 : North Indian, Chinese, Italian, Sichuan : ₹600 for two :  Khajpura, Patna
+Zaika Vihar : 4.1 : North Indian, Mughlai, Chinese : ₹450 for two :  Sri Krishnapuri, Patna
+Kabab Mahal : 4.1 : North Indian, Biryani, Kebab, Rolls, Salad, Beverages, Mithai : ₹600 for two :  Kankarbagh, Patna
+Changu Mangu : 4.0 : North Indian, Mughlai, Chinese : ₹300 for two :  Sri Krishnapuri, Patna
+Ji Hujur : 4.0 : North Indian, Chinese, Rolls : ₹400 for two :  Kankarbagh, Patna
+Haldii Restaurant & Cafe : 3.8 : North Indian, Chinese, Biryani, Seafood, Kebab, Salad : ₹600 for two :  Patliputra Colony, Patna
+Foodaholic : 4.3 : North Indian, Biryani, Chinese, Street Food : ₹300 for two :  Patliputra Colony, Patna
+Laziz Pizza : 3.8 : Pizza, Fast Food, Burger, Sandwich, Beverages : ₹550 for two :  Phulwari Sharif, Patna
+The Coffee Courtyard : 3.9 : Coffee, Shake, Beverages, Fast Food : ₹400 for two :  Rajendra Nagar, Patna
+Ghar Aangan : 3.9 : North Indian, Continental, Chinese, Beverages, Sichuan : ₹600 for two :  Kurji, Patna
+Nice Biryani Corner : 4.1 : Biryani, Rolls, Chinese : ₹300 for two :  Kankarbagh, Patna
+Awadhi : - : North Indian, South Indian, Chinese, Fast Food, Street Food, Biryani, Desserts, Shake : ₹500 for two :  Patliputra Colony, Patna
+Sayeshaa Restro & Cafe : 2.9 : North Indian, Chinese, Mughlai, Fast Food, Ice Cream, Beverages : ₹500 for two :  Sri Krishnapuri, Patna
+Benzoz Pizza : 3.6 : Pizza, Pasta, Burger, Sandwich, Beverages, Desserts : ₹500 for two :  Kankarbagh, Patna
+New China Garden : 3.2 : Chinese, North Indian, South Indian, Sichuan, Biryani, Rolls, Pasta, Momos : ₹600 for two :  P&M Mall, Kurji, Patna
+Biryani @ Dry N' Fry : 3.9 : Biryani, North Indian : ₹350 for two :  Sri Krishnapuri, Patna
+The Bizz Cafe & Restaurant : 3.8 : North Indian, Biryani, Oriental, Continental, Chinese, Fast Food, Desserts, Beverages : ₹1,400 for two :  Sri Krishnapuri, Patna
+Castabill : 3.2 : Fast Food, Shawarma, Shake, Beverages : ₹500 for two :  Patliputra Colony, Patna
+Mom's Pizza & Cafe : 3.7 : Pizza, Burger, Fast Food, Beverages, Shake, Coffee : ₹500 for two :  Kidwaipuri, Patna
+Fifth Avenue Bakery & Cafe : 4.7 : Bakery, Continental, Italian, Desserts, Beverages : ₹1,200 for two :  Lodipur, Patna
+Meal On Time : 4.4 : North Indian, Biryani, Rolls : ₹300 for two :  Rukanpura, Patna
+Zafraan Restaurant : 3.9 : North Indian, Mughlai, Kebab, Biryani, Chinese, Asian, Continental : ₹1,000 for two :  Khajpura, Patna
+Madhu Kunj Restaurant & Hotel : 3.6 : North Indian, Mughlai, South Indian, Chinese, Street Food, Fast Food, Biryani : ₹400 for two :  Sadikpur, Patna
+Golden Curry : - : North Indian, Mughlai, Chinese : ₹250 for two :  Ranipur, Patna
+Bistro 57 : 3.8 : Pizza, Sandwich, Fast Food, Coffee, Shake, Beverages : ₹300 for two :  Sri Krishnapuri, Patna
+The Orange Family Restaurant : 3.8 : North Indian, Chinese, Biryani, Kebab, Mughlai, Street Food, Rolls : ₹300 for two :  Hajipur, Patna
+Galangal - Hotel Gargee Grand : 3.9 : Thai, Chinese, Sichuan, Desserts : ₹1,000 for two :  Hotel Gargee Grand, Golambar, Patna
+Darpan Restaurant : 3.9 : North Indian, Rolls, Salad, Chinese, Kebab : ₹400 for two :  Anisabad, Patna
+Lazeez : 3.8 : North Indian, Chinese, South Indian, Kebab, Seafood, Biryani : ₹700 for two :  Khajpura, Patna
+Kabab & Biryani Mahal : 3.9 : Biryani, Kebab, Rolls, North Indian, Salad, Beverages, Chinese : ₹300 for two :  Khajpura, Patna
+Googly 11 : 4.0 : South Indian, Chinese : ₹300 for two :  Phulwari Sharif, Patna
+Food Hut : 3.8 : North Indian, Chinese, Rolls, Biryani, Sandwich, Momos, Street Food : ₹500 for two :  Kankarbagh, Patna
+Cafe Coffee Day : 3.9 : Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts : ₹750 for two :  Patliputra Colony, Patna
+Patna Platter : 3.1 : Fast Food, Street Food, Chinese : ₹300 for two :  P&M Mall, Kurji, Patna
+Hungerhook Pizza : 3.8 : Pizza, Fast Food, Pasta : ₹350 for two :  Khajpura, Patna
+Tondumal Cafe And Restaurant : 3.7 : Sandwich, Burger, Rolls, Chinese, North Indian, Biryani, Fast Food, Beverages : ₹300 for two :  Kankarbagh, Patna
+Pokket Cafe : 3.9 : Fast Food, Chinese, Pizza, Sandwich, Ice Cream : ₹500 for two :  Golambar, Patna
+Laziz Tandoori : 3.0 : North Indian, Chinese, Mughlai, South Indian, Biryani, Kebab, Seafood, Sichuan : ₹400 for two :  Fraser Road Area, Patna
+Pappu Chaiwalla : 3.9 : Momos, Sandwich, Street Food, Shake, Beverages : ₹350 for two :  Golambar, Patna
+Lakhu Da Dhaba : 3.9 : North Indian, Chinese, Mughlai : ₹900 for two :  Fraser Road Area, Patna
+Take Away Express : 2.9 : Mughlai, North Indian, Chinese, Kebab : ₹300 for two :  Sri Krishnapuri, Patna
+Desi Licious : 4.5 : North Indian, Chinese, Rolls, Momos, Shake, Biryani : ₹500 for two :  Patliputra Colony, Patna
+Baskin Robbins - Ice Cream Desserts : 3.8 : Ice Cream, Desserts, Beverages : ₹200 for two :  Kidwaipuri, Patna
+Wonder Momos : 4.2 : Momos, Fast Food, Sichuan : ₹300 for two :  Sri Krishnapuri, Patna
+Grill Inn : 3.4 : Burger, Pizza, Sandwich, Fast Food, Beverages, Desserts : ₹400 for two :  Rajendra Nagar, Patna
+The Rock Fast Food : 4.1 : Fast Food, Chinese, Rolls, North Indian : ₹250 for two :  Khajpura, Patna
+Hyderabadi Chicken Biryani : 3.9 : Biryani, North Indian : ₹300 for two :  Kankarbagh, Patna
+Bimal Da Hotel : 3.9 : North Indian, Chinese : ₹300 for two :  Golambar, Patna
+7 Days Family Resturant : 3.9 : North Indian : ₹1,000 for two :  Hajipur, Patna
+Mama's Momos : 4.0 : Momos, Fast Food, Chinese, Street Food : ₹200 for two :  Kankarbagh, Patna
+Bombay Kulfi : 3.9 : Desserts, Ice Cream : ₹150 for two :  Anandpuri, Patna
+Swadeshi Zaika : 2.8 : North Indian, Chinese, Momos, Street Food, Tea : ₹300 for two :  Sri Krishnapuri, Patna
+Biryani Hut : 3.4 : Biryani, Chinese, North Indian, Rolls : ₹350 for two :  Hajipur, Patna
+M.O.S Cafe & Grill : 4.4 : Chinese, North Indian, Pizza, Burger, Sandwich, Italian, Coffee, Beverages : ₹550 for two :  Kidwaipuri, Patna
+Patna Patiala Express Biryani Mail : 4.0 : North Indian, Chinese, Desserts, Beverages, Biryani, Salad, Kebab : ₹500 for two :  Golambar, Patna
+3T Foodrink : 3.7 : Biryani, North Indian, Chinese, Fast Food, Kebab, Pizza, Burger : ₹400 for two :  Rajendra Nagar, Patna
+Elite Food Junction : 3.2 : North Indian, Chinese, Rolls, Biryani : ₹350 for two :  Rukanpura, Patna
+Cake 24x7 : 3.5 : Bakery : ₹550 for two :  Rajendra Nagar, Patna
+Amrapali Vatika Restaurant : 3.8 : North Indian, Chinese, Fast Food, Beverages : ₹500 for two :  Sri Krishnapuri, Patna
+Hotel Shivam : 4.0 : North Indian, Chinese, Biryani : ₹300 for two :  Sri Krishnapuri, Patna
+The Food Junction : 4.0 : North Indian, Chinese, Rolls, Biryani : ₹350 for two :  Khajpura, Patna
+7 Colour's Kabab Hut : 4.0 : Kebab, Biryani, North Indian, Mughlai, Rolls, Chinese : ₹400 for two :  Kidwaipuri, Patna
+Biryani By 99 : 3.5 : Biryani, North Indian : ₹250 for two :  Sri Krishnapuri, Patna
+Flavour & Fusion : New : Pizza, Burger, Fast Food, Shake, Beverages : ₹300 for two :  Phulwari Sharif, Patna
+Achal Restaurant Banquet & Cafe : 3.6 : North Indian, Continental, Fast Food, Chinese, Mughlai, Desserts, Beverages : ₹900 for two :  Sri Krishnapuri, Patna
+Cafe 13 : 4.4 : Cafe, Coffee, Beverages, Pizza, Pasta, Burger, Continental, Waffle : ₹600 for two :  Kidwaipuri, Patna
+Momo Magic Cafe : 3.7 : Momos, Chinese, Fast Food, Street Food, Beverages : ₹300 for two :  Rukanpura, Patna
+Step Up Cafe & Restaurant : 3.5 : Fast Food, Chinese, North Indian, Desserts, Beverages : ₹500 for two :  Kankarbagh, Patna
+Tera & Mera Restaurant : 3.4 : Chinese, North Indian, Mughlai, Kebab, Biryani, Momos, Fast Food : ₹300 for two :  Kankarbagh, Patna
+Dhaba & Kabab Wala : 4.0 : North Indian, Biryani, Chinese : ₹500 for two :  Kankarbagh, Patna
+The Biryani Queen : 3.7 : Biryani, North Indian, Mughlai, Rolls, Chinese : ₹400 for two :  Phulwari Sharif, Patna
+Cafe Lit : 4.0 : Cafe, Momos, Chinese, Beverages, Desserts, Shake, Rolls, Pasta : ₹500 for two :  Patna One Mall, Fraser Road Area, Patna
+New Biryani Mahal : 4.0 : Biryani, Mughlai, North Indian, Kebab, Rolls : ₹400 for two :  Golambar, Patna
+Hotel Apsara : 4.3 : North Indian, Mughlai, Biryani, Chinese, Fast Food, Desserts : ₹1,000 for two :  Golambar, Patna
+My First Flight Restaurant : 3.8 : North Indian, Chinese : ₹250 for two :  Hajipur, Patna
+Dragon Xpress : 4.0 : Biryani, Chinese, North Indian : ₹500 for two :  Kankarbagh, Patna
+Janki Foods : 3.3 : North Indian, Chinese, Rolls, Momos : ₹350 for two :  Hajipur, Patna
+Rasoiii Restaurant : 4.0 : North Indian, Mughlai, Biryani, Rolls, Fast Food : ₹400 for two :  Kankarbagh, Patna
+Rajdhani Hotel : 3.8 : North Indian, Chinese, Mughlai, Biryani, Kebab, Street Food : ₹400 for two :  Fraser Road Area, Patna
+Indian Food Court (IFC) : 3.6 : North Indian, Chinese, Beverages, Biryani : ₹250 for two :  Rajendra Nagar, Patna
+D' Spicy Club : 3.9 : North Indian, Beverages, Momos, Chinese, Desserts, Biryani, Kebab : ₹800 for two :  Adampur, Patna
+Surbhi Hotel & Sweets : 3.9 : Mithai, Street Food : ₹250 for two :  Begampur, Patna
+Hot Meals : 3.9 : North Indian, Chinese : ₹600 for two :  Rukanpura, Patna
+Savitri Rasoi : 3.9 : North Indian, Mughlai, Biryani, Chinese : ₹400 for two :  Kankarbagh, Patna
+Food Mohalla : 3.2 : Pizza, Mexican, Burger, Pasta, Fast Food, Street Food, Beverages : ₹500 for two :  Anisabad, Patna
+Saltwater : 3.8 : Fast Food, North Indian, Chinese : ₹350 for two :  Khajpura, Patna
+The Ultimate Bhukkhad Dhaba : 4.2 : North Indian, Chinese, Rolls, Momos, Kebab : ₹250 for two :  Anandpuri, Patna
+Bon Pizza : 4.0 : Pizza : ₹300 for two :  Kankarbagh, Patna
+Biryani Handi Ghar : 4.2 : Biryani, North Indian : ₹250 for two :  Kidwaipuri, Patna
+53 Cafe House : 3.5 : North Indian, Momos, Fast Food, Rolls, Biryani, Desserts, Shake, Beverages : ₹350 for two :  Kidwaipuri, Patna
+Hichkii Restaurant : 3.5 : North Indian, Chinese, Rolls, Fast Food : ₹400 for two :  Hajipur, Patna
+Kebab Knights : 3.9 : Kebab, North Indian : ₹300 for two :  Sadikpur, Patna
+Gobblers Rolls and Bowls : 3.7 : North Indian, Rolls, Chinese, Fast Food, Beverages : ₹300 for two :  Sri Krishnapuri, Patna
+The Sky Cafe : 2.9 : Chinese, Continental, Fast Food, Momos, Japanese, Pizza, Shake, Beverages : ₹450 for two :  Khajpura, Patna
+Hotel Picnic Garden : 3.5 : Bihari, North Indian, Chinese, Kebab : ₹650 for two :  Adampur, Patna
+Food Junction : 3.8 : Chinese, Street Food, North Indian : ₹300 for two :  Anandpuri, Patna
+Ram Babu Hotel And Restaurant : 4.1 : North Indian, Chinese, Biryani, Mughlai : ₹300 for two :  Kankarbagh, Patna
+Kanha Ki Rasoi : 3.2 : North Indian, Chinese, South Indian, Sandwich, Fast Food, Street Food, Beverages : ₹400 for two :  Rajendra Nagar, Patna
+Patna Da Dhaba : 3.6 : North Indian, Mughlai, Biryani, Chinese, Beverages : ₹1,000 for two :  Fraser Road Area, Patna
+The Royal Jail Restro : 3.2 : North Indian, Chinese : ₹500 for two :  Rukanpura, Patna
+Cafe Jomo : 3.5 : North Indian, Mughlai, Chinese, Burger, Pasta, Pizza, Shake, Beverages : ₹450 for two :  Kurji, Patna
+Chicago Pizza : - : Pizza, Shake, Italian : ₹500 for two :  Kankarbagh, Patna
+The Hive : 3.5 : North Indian, Chinese, Mughlai, Biryani, Beverages, Shake : ₹500 for two :  Khajpura, Patna
+Biryani Garden : 4.2 : North Indian, Chinese, Fast Food, Street Food, Beverages, Desserts : ₹500 for two :  Rukanpura, Patna
+Good Luck Soft Biryani : 2.3 : Biryani, North Indian : ₹200 for two :  Anandpuri, Patna
+Smokey Castle : 4.0 : North Indian, Mughlai, Kebab, Chinese, Fast Food, Desserts : ₹1,000 for two :  Rukanpura, Patna
+Raj Sahi Biryani : 4.1 : Biryani, Chinese : ₹300 for two :  Digha Ghat, Patna
+Mardi  Bakery And Cafe : 3.8 : Bakery, Desserts, Fast Food, Beverages : ₹350 for two :  Kankarbagh, Patna
+Desi Chulhaa : 3.8 : North Indian, Chinese, Rolls : ₹300 for two :  Kurji, Patna
+Biryani Lazeez : 4.2 : Biryani, Chinese, North Indian : ₹300 for two :  Sri Krishnapuri, Patna
+Rasam - Hotel Vijayshree Deluxe : 4.0 : North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages : ₹1,000 for two :  Golambar, Patna
+City Hotel : 3.9 : North Indian, Chinese, Mughlai, Fast Food, Beverages, Desserts : ₹500 for two :  Begampur, Patna
+The Grind House : - : Shake, Chinese, Bakery, North Indian, Fast Food, Desserts : ₹550 for two :  Kankarbagh, Patna
+Eat & Treat A Fine Dine Restaurant : 4.0 : Chinese, North Indian, Biryani, Fast Food, South Indian, Street Food, Bakery, Beverages : ₹1,000 for two :  Patliputra Colony, Patna
+The Pine : 4.3 : North Indian, Chinese, Kebab, Beverages, Desserts, Mughlai : ₹800 for two :  Patliputra Colony, Patna
+Kolkata Biryani : 3.7 : Biryani : ₹300 for two :  Bakerganj, Patna
+Roll Corner : 3.7 : North Indian, Rolls, Kebab, Chinese, Biryani : ₹350 for two :  Sri Krishnapuri, Patna
+Batido The Shake Paradise : 3.9 : Beverages, Fast Food, Desserts, Shake : ₹200 for two :  Phulwari Sharif, Patna
+Grill Inn : 3.9 : Fast Food, Pizza, Sandwich, Beverages, Desserts, Pasta : ₹300 for two :  Hajipur, Patna
+New Royal Biryani House : 3.8 : Rolls, Fast Food : ₹150 for two :  Bakerganj, Patna
+Bawarchi Restaurant - Hotel Patliputra Exotica : 4.0 : North Indian, Continental, Chinese, South Indian : ₹2,000 for two :  Hotel Patliputra Exotica, Golambar, Patna
+Dumsum : 4.1 : Chinese, North Indian, Rolls, Biryani, Momos, Kebab, Street Food : ₹350 for two :  Mithapur, Patna
+Punjabi Rasoi And Caterers : 4.0 : North Indian, Biryani, Chinese : ₹400 for two :  Kankarbagh, Patna
+Kolkata Biryani House : 4.0 : Biryani : ₹350 for two :  Bakerganj, Patna
+Amrit Bhog : 3.7 : Fast Food, Chinese, South Indian, Beverages, Mithai, North Indian : ₹400 for two :  Khajpura, Patna
+Red 2 Chilli - Hotel Aalcajars Inn : 4.0 : North Indian, Continental, Chinese : ₹1,000 for two :  Kankarbagh, Patna
+The Biryani Express : 4.0 : North Indian, Mughlai, Biryani, Chinese, Rolls : ₹400 for two :  Mithapur, Patna
+Jitendra Hotel : 4.2 : North Indian : ₹200 for two :  Kankarbagh, Patna
+Ustaad - Chanakya Inn : 3.9 : Biryani, Street Food, North Indian, Chinese : ₹500 for two :  Gardanibagh, Patna
+Mohan Sweets : 3.9 : Mithai, Desserts : ₹300 for two :  Anandpuri, Patna
+Foodie Junction : 4.5 : North Indian, Chinese, Rolls, Fast Food, Beverages, Biryani : ₹400 for two :  Sri Krishnapuri, Patna
+Sagar Restaurant : 4.1 : North Indian, Mughlai, Fast Food, Chinese, Kebab, Biryani, Beverages : ₹800 for two :  Kankarbagh, Patna
+The Sumo Fast Food : 3.7 : Chinese, Fast Food, Momos : ₹300 for two :  Khajpura, Patna
+Puja Hotel : 3.9 : North Indian, Chinese, Mughlai, Kebab, Biryani, Seafood : ₹350 for two :  Mithapur, Patna
+Dine Out Cafeteria & Restaurant : 3.4 : Biryani, Chinese, Mughlai, Kebab, Fast Food : ₹300 for two :  Phulwari Sharif, Patna
+Rupam : 4.1 : North Indian, Chinese, Fast Food : ₹400 for two :  Kankarbagh, Patna
+Gangotri - The Restaurant : 4.4 : North Indian, Mughlai, Chinese, Desserts, Beverages : ₹700 for two :  Fraser Road Area, Patna
+Elite Family Choice Restaurant : 3.7 : Chinese, North Indian, Fast Food, Biryani, Mughlai : ₹400 for two :  Hajipur, Patna
+Radhika Bakery Cake : 3.6 : Bakery, Desserts, Sandwich : ₹500 for two :  Kankarbagh, Patna
+The Lassi Corner : 3.6 : Beverages, Ice Cream, Shake, Fast Food, Street Food, Sandwich, Coffee, Juices : ₹200 for two :  Hajipur, Patna
+Kusum Rolls : 3.9 : Rolls, Chinese, Momos, North Indian, Biryani : ₹300 for two :  Lodipur, Patna
+Curry N Kebab : 3.9 : Chinese, North Indian, Biryani, Desserts, Beverages, Sichuan : ₹700 for two :  Sri Krishnapuri, Patna
+Happy Dosa House : 3.9 : South Indian, Street Food, Desserts : ₹200 for two :  Patliputra Colony, Patna
+KL 7 Hotel & Banquets : 3.9 : North Indian, Chinese, Mughlai, Biryani, Fast Food, Shake : ₹700 for two :  Golambar, Patna
+Khanak Bihar : 4.0 : North Indian : ₹300 for two :  Fraser Road Area, Patna

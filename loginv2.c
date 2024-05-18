@@ -4,7 +4,10 @@
 
 typedef struct {//user defined struct
     char username[50];
-    char address[100];
+    char housenum[10];
+    char street[15];
+    char area[20];
+    int pin;
     int phone;
     char password[50];
 
@@ -16,7 +19,7 @@ void save_user(User user) {//for storing user detail
         printf("Error opening file.\n");
         exit(1);
     }
-    fprintf(file, "%s,%s\n", user.username, user.password,user.address,user.phone);
+    fprintf(file, "%s,%s,%s,%s,%d,%d,%s\n", user.username, user.housenum,user.street,user.area,user.pin,user.phone,user.password);
     fclose(file);
 }
 
@@ -26,7 +29,7 @@ int load_users(User users[]) {//to count user, can modify to limit users count i
         return 0;
     }
     int count = 0;
-    while (fscanf(file, "%49[^,],%99[^,],%[^,],%49[^\n]\n", users[count].username,users[count].address,users[count].phone, users[count].password) != EOF) {
+    while (fscanf(file, "%[^,],%[^,],%[^,],%[^\n]\n", users[count].username, users[count].housenum,users[count].street,users[count].area,users[count].pin,users[count].phone,users[count].password) != EOF) {
         count++;
     }
     fclose(file);
@@ -44,18 +47,27 @@ int user_exists(const char *username, User users[], int user_count) {//to check
 
 void signup() {//for new user
     char username[50];
-    char password[50];
+    char housenum[10];
+    char street[15];
+    char area[20];
+    int pin;
     int phone;
-    int address[100];
+    char password[50];
 
     printf("Enter a username(without space): ");
-    scanf("%49s", username);
+    scanf("%s", username);
     printf("Enter a password: ");
-    scanf("%49s", password);
+    scanf("%s", password);
     printf("Enter phone no. :");
     scanf("%d",&phone);
-    printf("Enter address :");
-    scanf("%99s", address);
+    printf("Enter house number :");
+    scanf("%s", housenum);
+    printf("Enter street name :");
+    scanf("%s", street);
+    printf("Enter your area where you live :");
+    scanf("%s", area);
+    printf("Enter pin code :");
+    scanf("%d", &pin);
 
     User users[100];
     int user_count = load_users(users);
@@ -77,9 +89,9 @@ void login() {
     char password[50];
 
     printf("Enter your username: ");
-    scanf("%[]%*c", username);
+    scanf("%s", username);
     printf("Enter your password: ");
-    scanf("%49s", password);
+    scanf("%s", password);
 
     User users[100];
     int user_count = load_users(users);

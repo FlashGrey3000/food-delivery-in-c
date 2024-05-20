@@ -70,7 +70,7 @@ void signup() {//for new user
     scanf("%d", &pin);
 
     User users[100];
-    int user_count = load_users(users);
+    int  user_count = load_users(users);
 
     if (user_exists(username, users, user_count)) {
         printf("Username already exists. Please choose a different username.\n");
@@ -79,6 +79,11 @@ void signup() {//for new user
 
     User new_user;
     strcpy(new_user.username, username);
+    strcpy(new_user.housenum, housenum);
+    strcpy(new_user.street, street);
+    strcpy(new_user.area, area);
+    new_user.phone=phone;
+    new_user.pin=pin;
     strcpy(new_user.password, password);
     save_user(new_user);
     printf("Signup successful!\n");

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-typedef struct {//user defined struct
+typedef struct {
     char username[50];
     char housenum[10];
     char street[15];
@@ -10,33 +10,32 @@ typedef struct {//user defined struct
     int pin;
     int phone;
     char password[50];
-
 } User;
 
-void save_user(User user) {//for storing user detail
+void save_user(User user) {
     FILE *file = fopen("users.txt", "a");
     if (file == NULL) {
         printf("Error opening file.\n");
         exit(1);
     }
-    fprintf(file, "%s,%s,%s,%s,%d,%d,%s\n", user.username, user.housenum,user.street,user.area,user.pin,user.phone,user.password);
+    fprintf(file, "%s,%s,%s,%s,%d,%d,%s\n", user.username, user.housenum, user.street, user.area, user.pin, user.phone, user.password);
     fclose(file);
 }
 
-int load_users(User users[]) {//to count user, can modify to limit users count if needed
+int load_users(User users[]) {
     FILE *file = fopen("users.txt", "r");
     if (file == NULL) {
         return 0;
     }
     int count = 0;
-    while (fscanf(file, "%[^,],%[^,],%[^,],%[^\n]\n", users[count].username, users[count].housenum,users[count].street,users[count].area,users[count].pin,users[count].phone,users[count].password) != EOF) {
+    while (fscanf(file, "%[^,],%[^,],%[^,],%[^,],%d,%d,%s\n", users[count].username, users[count].housenum, users[count].street, users[count].area, &users[count].pin, &users[count].phone, users[count].password) != EOF) {
         count++;
     }
     fclose(file);
     return count;
 }
 
-int user_exists(const char *username, User users[], int user_count) {//to check
+int user_exists(const char *username, User users[], int user_count) {
     for (int i = 0; i < user_count; i++) {
         if (strcmp(users[i].username, username) == 0) {
             return 1;

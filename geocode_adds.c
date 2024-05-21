@@ -29,7 +29,7 @@ char* replace_percent2F_with_slash(const char* input) {
     size_t search_len = 3; // Length of "%2F"
     char* result = malloc(input_len + 1);
     if (!result) {
-        return NULL; // Memory allocation failed
+        return NULL;
     }
 
     const char *src = input;
@@ -44,13 +44,15 @@ char* replace_percent2F_with_slash(const char* input) {
         }
     }
 
-    *dst = '\0'; // Null-terminate the result
+    *dst = '\0';
     return result;
 }
 
-void get_coords(char *rest_name, char *rest_loc) {
+void get_rest_coords(char *rest_name, char *rest_loc) {
     CURL *curl = curl_easy_init();
     if (curl) {
+
+        //url encoding blah blah
         replace_commas_with_slashes(rest_loc);
         char *name = curl_easy_escape(curl, rest_name, 0);
         char *loc = curl_easy_escape(curl, rest_loc, 0);
@@ -91,7 +93,7 @@ void get_coords(char *rest_name, char *rest_loc) {
 }
 
 int main() {
-    char details[] = "The Thief : 4.2 : North Indian, Continental, Italian, Asian, Thai, Beverages, Desserts : ₹2,000 for two : No 50 New No 150, Kodambakkam High Road, Nungambakkam, Chennai, Tamil Nadu 600034 ";
+    char details[] = "The Beach Terrace : New : Pizza, Italian, Beverages, Cafe : ₹2,000 for two : VGP Golden Beach Resort, SH 49, Injambakkam, Chennai (Madras)";
     char rest_name[100];
     char rest_loc[200];
 
@@ -112,6 +114,6 @@ int main() {
     printf("Restaurant Name: %s\n", rest_name);
     printf("Restaurant Location: %s\n", trimmed_rest_loc);
 
-    get_coords(rest_name, trimmed_rest_loc);
+    get_rest_coords(rest_name, trimmed_rest_loc);
     return 0;
 }

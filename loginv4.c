@@ -118,7 +118,7 @@ void login() {
 int main() {
     while (1) {//used while
         char choice;
-        printf("Do you want to (1) Signup or (2) Login? (Enter 1 or 2, or 'q' to quit): ");
+        printf("Enter your option :\n1.Signup.\n2.Login. or 'q' to quit : ");
         scanf(" %c", &choice);
         if (choice == '1') {
             signup();

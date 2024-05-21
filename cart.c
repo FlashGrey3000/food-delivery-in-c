@@ -24,7 +24,7 @@ void print_cart(const cart *row) {
     printf("%s %s %s %s %s %s\n","S.No.:" , "Restaurant", "Food", "Quantity", "Price", "Total");0
     for (int i = 0; i < sizeof(row); i++) {
         if (row[i].food_name[0] != '\0') {
-            printf("%d %s %s %d %d %d\n", i+1, row[i].rest_name, row[i].food_name, row[i].quantity, row[i].price, row[i].total);
+            printf(" %d    %s     %s     %d    %d     %d\n", i+1, row[i].rest_name, row[i].food_name, row[i].quantity, row[i].price, row[i].total);
         }
     }
 }
@@ -60,8 +60,8 @@ int main() {
             case 0:
                 return 0;
             case 1:
+                 int price, i = 0;
                 while (1) {
-                    int price, i = 0;
                     printf("Enter 'q' to exit.\nEnter food: ");
                     scanf("%s", food);
                     if (food[0] == 'q' || food[0] == 'Q')

@@ -96,8 +96,7 @@ void parse_json_response_cordinates(const char *filename, double *latitude, doub
     free(data);
 }
 
-void parse_json_response_distance(const char* filename)
-{
+void parse_json_response_distance(const char *filename, float *trav_D, float *trav_T) {
     FILE *file = fopen(filename, "r");
     if (!file) {
         fprintf(stderr, "Could not open file %s for reading\n", filename);
@@ -138,6 +137,7 @@ void parse_json_response_distance(const char* filename)
     if (!cJSON_IsObject(resourceSet)) {
         fprintf(stderr, "First resourceSet is not an object\n");
         cJSON_Delete(json);
+        free(data);
         return;
     }
 
@@ -183,11 +183,11 @@ void parse_json_response_distance(const char* filename)
         return;
     }
 
-    printf("Travel Distance: %f\n", travelDistance->valuedouble);
-    printf("Travel Duration: %f\n", travelDuration->valuedouble);
+    *trav_D = travelDistance->valuedouble;
+    *trav_T = travelDuration->valuedouble;
 
     cJSON_Delete(json);
-    return;
+    free(data);
 }
 
 void update_user_coordinates(const char *addr1, const char *addr2, const char *city, const char *state, const int pincode, double *latitude, double *longitude) {
@@ -257,8 +257,7 @@ void update_user_coordinates(const char *addr1, const char *addr2, const char *c
     parse_json_response_cordinates("response.json", latitude, longitude);
 }
 
-void get_distance(double *org_lat, double *org_long, double *des_lat, double *des_long)
-{
+void get_distance(double org_lat, double org_long, double des_lat, double des_long, float *trav_D, float *trav_T) {
     CURL *curl = curl_easy_init();
     if (!curl) {
         fprintf(stderr, "Error initializing cURL.\n");
@@ -266,10 +265,15 @@ void get_distance(double *org_lat, double *org_long, double *des_lat, double *de
     }
 
     char url[1024];
-    snprintf(url, sizeof(url), "https://dev.virtualearth.net/REST/v1/Routes/DistanceMatrix?origins=%f,%f&destinations=%f,%f&travelMode=driving&key=%s", *org_lat, *org_long, *des_lat, *des_long, API_KEY);
+    snprintf(url, sizeof(url), "https://dev.virtualearth.net/REST/v1/Routes/DistanceMatrix?origins=%f,%f&destinations=%f,%f&travelMode=driving&key=%s", org_lat, org_long, des_lat, des_long, API_KEY);
     printf("Request URL: %s\n", url);
 
     FILE *response_file = fopen("response.json", "w");
+    if (!response_file) {
+        fprintf(stderr, "Error: Unable to open response file.\n");
+        curl_easy_cleanup(curl);
+        return;
+    }
 
     curl_easy_setopt(curl, CURLOPT_URL, url);
     curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_callback);
@@ -286,5 +290,5 @@ void get_distance(double *org_lat, double *org_long, double *des_lat, double *de
     fclose(response_file);
     curl_easy_cleanup(curl);
 
-    parse_json_response_distance("response.json");
+    parse_json_response_distance("response.json", trav_D, trav_T);
 }

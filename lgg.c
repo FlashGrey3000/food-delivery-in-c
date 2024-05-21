@@ -30,7 +30,7 @@ void registerUser();
 void signIn();
 void changePassword(const char* username);
 int user_exists(const char* username);
-void get_rest_dists(const double lattitude, const double longitude);
+void get_rest_dists(const char *username, const double lattitude, const double longitude);
 
 // Function to set text color
 void setTextColor(const char* colorCode) {
@@ -246,7 +246,7 @@ void signIn() {
                 resetTextColor();
                 break;
             } else if (userChoice == 3) {
-                get_rest_dists(user.name, user.address.lattitude, user.address.longitude);
+                get_rest_dists(username, user.address.lattitude, user.address.longitude);
             } else {
                 setTextColor(YELLOW);
                 printf("Invalid choice. Please try again.\n");
@@ -258,122 +258,104 @@ void signIn() {
     }
 }
 
-void get_rest_dists(const char *username,const double lattitude, const double longitude)
-{
+void get_rest_dists(const char *username, const double latitude, const double longitude) {
     FILE *file, *userFile;
     double rest_lat, rest_long;
     float rating;
-    char rest_name[100];
+    char rest_name[MAX_LENGTH];
     char line[1024];
     float travelTime, travelDistance;
-    
+
     char userFileName[MAX_LENGTH + 4];
     snprintf(userFileName, sizeof(userFileName), "%s.txt", username);
     userFile = fopen(userFileName, "a");
+    if (userFile == NULL) {
+        perror("Error opening user file");
+        exit(1);
+    }
+
     file = fopen("city_wise_rests/zomato_chennai.txt", "r");
     if (file == NULL) {
-        perror("Error opening file");
+        perror("Error opening restaurant file");
+        fclose(userFile);
         exit(1);
     }
 
     while (fgets(line, sizeof(line), file) != NULL) {
-        if (sscanf(line, "%s : %f : %*[^:]: %*[^:]: %*[^:]: %lf : %lf", rest_name, &rating, &rest_lat, &rest_long) == 2) {
-            get_distance(&lattitude, &longitude, &rest_lat, &rest_long, &travelDistance, &travelTime);
-            fprintf(userFile, "%s: %.2f:%f,%f", rest_name, rating, travelDistance, travelTime);
+        if (sscanf(line, "%[^:]: %f :%*[^:]:%*[^:]:%*[^:]: %lf : %lf", rest_name, &rating, &rest_lat, &rest_long) == 4) {
+            get_distance(latitude, longitude, rest_lat, rest_long, &travelDistance, &travelTime);
+            if (travelDistance >= 0 && travelTime >= 0) { // Ensure valid distances and times
+                fprintf(userFile, "%s: %.2f: Distance: %.2f km, Travel time: %.2f min\n", rest_name, rating, travelDistance, travelTime);
+            } else {
+                fprintf(stderr, "Error retrieving distance or time for %s\n", rest_name);
+            }
         } else {
             fprintf(stderr, "Error parsing latitude and longitude from line: %s\n", line);
         }
     }
-    fclose(userFile);
+
     fclose(file);
-
-    return;
+    fclose(userFile);
 }
-
 
 void changePassword(const char* username) {
     char newPassword[MAX_LENGTH];
-    User user;
-    FILE* usersFile, * tempFile;
+    char confPassword[MAX_LENGTH];
+    FILE *file, *tempFile;
+    char line[1024];
     int found = 0;
 
-    printf("Enter your new password: ");
+    printf("Enter new password: ");
     scanf("%s", newPassword);
+    printf("Confirm new password: ");
+    scanf("%s", confPassword);
 
-    // Open the users file in read mode
-    usersFile = fopen("users.txt", "r");
-    if (usersFile == NULL) {
+    if (strcmp(newPassword, confPassword) != 0) {
+        setTextColor(RED);
+        printf("Passwords do not match. Please try again.\n");
+        resetTextColor();
+        return;
+    }
+
+    file = fopen("users.txt", "r");
+    if (file == NULL) {
         perror("Error opening users.txt");
         exit(1);
     }
 
-    // Open a temporary file to write updated data
     tempFile = fopen("temp.txt", "w");
     if (tempFile == NULL) {
         perror("Error opening temp.txt");
-        fclose(usersFile);
+        fclose(file);
         exit(1);
     }
 
-    // Check each line in the users file for the matching username
-    while (fscanf(usersFile, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf", 
-                  user.name, user.username, user.password, user.phone, 
-                  user.address.addr1, user.address.addr2, user.address.city, 
-                  user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude) != EOF) {
-        if (strcmp(username, user.username) == 0) {
+    User user;
+    while (fgets(line, sizeof(line), file) != NULL) {
+        sscanf(line, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf", 
+               user.name, user.username, user.password, user.phone, 
+               user.address.addr1, user.address.addr2, user.address.city, 
+               user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude);
+
+        if (strcmp(user.username, username) == 0) {
+            strcpy(user.password, newPassword);
             found = 1;
-            fprintf(tempFile, "%s,%s,%s,%s,%s,%s,%s,%s,%s,%lf,%lf\n", 
-                  user.name, user.username, newPassword, user.phone, 
-                  user.address.addr1, user.address.addr2, user.address.city, 
-                  user.address.state, user.address.pinCode, user.address.lattitude, user.address.longitude);
-        } else {
-            fprintf(tempFile, "%s,%s,%s,%s,%s,%s,%s,%s,%s,%lf,%lf\n", 
-                  user.name, user.username, user.password, user.phone, 
-                  user.address.addr1, user.address.addr2, user.address.city, 
-                  user.address.state, user.address.pinCode, user.address.lattitude, user.address.longitude);
         }
+
+        fprintf(tempFile, "%s,%s,%s,%s,%s,%s,%s,%s,%s,%lf,%lf\n",
+                user.name, user.username, user.password, user.phone,
+                user.address.addr1, user.address.addr2, user.address.city,
+                user.address.state, user.address.pinCode, user.address.lattitude, user.address.longitude);
     }
 
-    fclose(usersFile);
+    fclose(file);
     fclose(tempFile);
 
     if (found) {
-        // Rename temp file to users.txt
-        if (remove("users.txt") != 0) {
-            perror("Error deleting original users.txt");
-            exit(1);
-        }
-        if (rename("temp.txt", "users.txt") != 0) {
-            perror("Error renaming temp.txt to users.txt");
-            exit(1);
-        }
-
-        // Update the user's individual file with the new password
-        char userFileName[MAX_LENGTH + 4];
-        snprintf(userFileName, sizeof(userFileName), "%s.txt", username);
-
-        FILE* userFile = fopen(userFileName, "a");
-        if (userFile == NULL) {
-            perror("Error opening user file");
-            exit(1);
-        }
-        rewind(userFile);
-
-        fprintf(userFile, "Name: %s\n", user.name);
-        fprintf(userFile, "Username: %s\n", user.username);
-        fprintf(userFile, "Password: %s\n", newPassword);
-        fprintf(userFile, "Phone: %s\n", user.phone);
-        fprintf(userFile, "Address line 1: %s\n", user.address.addr1);
-        fprintf(userFile, "Address line 2: %s\n", user.address.addr2);
-        fprintf(userFile, "City: %s\n", user.address.city);
-        fprintf(userFile, "State: %s\n", user.address.state);
-        fprintf(userFile, "Pin Code: %s\n", user.address.pinCode);
-        fprintf(userFile, "Lattitude: %lf\n", user.address.lattitude);
-        fprintf(userFile, "Longitude: %lf\n", user.address.longitude);
-        fclose(userFile);
-
+        remove("users.txt");
+        rename("temp.txt", "users.txt");
         setTextColor(GREEN);
-        printf("=============  Password reset successful  =============\n");
+        printf("Password changed successfully.\n");
         resetTextColor();
     } else {
         remove("temp.txt");
@@ -382,4 +364,5 @@ void changePassword(const char* username) {
         resetTextColor();
     }
 }
+
 

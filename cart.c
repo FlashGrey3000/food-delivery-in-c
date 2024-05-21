@@ -21,6 +21,7 @@ void add_cart(cart *row, int i, const char rest_name[], const char food_name[], 
 }
 
 void print_cart(const cart *row) {
+    printf("%s %s %s %s %s %s\n","S.No.:" , "Restaurant", "Food", "Quantity", "Price", "Total");0
     for (int i = 0; i < sizeof(row); i++) {
         if (row[i].food_name[0] != '\0') {
             printf("%d %s %s %d %d %d\n", i+1, row[i].rest_name, row[i].food_name, row[i].quantity, row[i].price, row[i].total);

@@ -21,10 +21,10 @@ void add_cart(cart *row, int i, const char rest_name[], const char food_name[], 
 }
 
 void print_cart(const cart *row) {
-    printf("%s %s %s %s %s %s\n","S.No.:" , "Restaurant", "Food", "Quantity", "Price", "Total");
+    printf("%s %s %s %s %s %s\n","S.No.:" , "Restaurant", "  Food  ", "Quantity", "Price", "Total");
     for (int i = 0; i < sizeof(row); i++) {
         if (row[i].food_name[0] != '\0') {
-            printf(" %d    %s     %s     %d    %d     %d\n", i+1, row[i].rest_name, row[i].food_name, row[i].quantity, row[i].price, row[i].total);
+            printf(" %d      %s        %s        %d       %d       %d\n", i+1, row[i].rest_name, row[i].food_name, row[i].quantity, row[i].price, row[i].total);
         }
     }
 }
@@ -51,13 +51,12 @@ int main() {
     char food[50];
 
     while (1) {
-        int choice;
+        int choice,price, i = 0;
         // Let's give 3 options: 1. Add to cart, 2. Remove from cart, 3. Print cart
         printf("0. Exit\n1. Add to cart\n2. Remove from cart\n3. Print cart\nEnter your option: ");
         scanf("%d", &choice);
 
         switch (choice) {
-            int price, i = 0;
             case 0:
                 return 0;
             case 1:
@@ -78,6 +77,7 @@ int main() {
                 printf("Enter food to remove: ");
                 scanf("%s", food);
                 remove_cart(row, food);
+                i--;
                 break;
             case 3:
                 print_cart(row);

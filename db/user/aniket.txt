@@ -1,0 +1,59 @@
+Name: aniket
+Username: aniket
+Password: 12345
+Phone: 1234568890
+Address Line 1: bharathidasan colony
+Address Line 2: kk nagar
+City: chennai
+State: TN
+Pin Code: 600083
+Lattitude: 13.032779
+Longitude: 80.204811
+Mamagoto : 4.50: Distance: 8.35 km, Travel time: 21.70 min
+Dhaba - Estd 1986 Delhi : 4.50: Distance: 8.27 km, Travel time: 21.27 min
+BTL : 3.90: Distance: 10.54 km, Travel time: 26.25 min
+Symphony : 4.10: Distance: 10.95 km, Travel time: 27.07 min
+Garrison : 4.70: Distance: 9.63 km, Travel time: 23.73 min
+Vivaha Bhojanambu : 3.70: Distance: 7.20 km, Travel time: 17.58 min
+Delhi Highway : 4.00: Distance: 9.30 km, Travel time: 22.80 min
+The Great Kabab Factory - Radisson Blu : 4.00: Distance: 9.92 km, Travel time: 24.80 min
+The Thief : 4.20: Distance: 6.64 km, Travel time: 16.65 min
+Oasis - Radisson Blu : 4.00: Distance: 9.91 km, Travel time: 24.78 min
+Sky | Curated Asian Dining - The Residency Towers : 4.40: Distance: 5.07 km, Travel time: 18.17 min
+Locofeast : 4.10: Distance: 7.58 km, Travel time: 20.17 min
+Secret Story : 4.30: Distance: 18.05 km, Travel time: 36.17 min
+Kappa Chakka Kandhari : 4.50: Distance: 8.67 km, Travel time: 21.58 min
+Zing : 4.20: Distance: 10.15 km, Travel time: 22.78 min
+Off The Record : 4.20: Distance: 6.86 km, Travel time: 17.07 min
+The Void : 4.30: Distance: 11.41 km, Travel time: 26.42 min
+Lord of the Drinks : 4.20: Distance: 7.47 km, Travel time: 19.60 min
+The Mayflower : 4.20: Distance: 4.28 km, Travel time: 15.30 min
+Pallavas : 4.10: Distance: 2.03 km, Travel time: 6.33 min
+Zonkk : 4.50: Distance: 13.39 km, Travel time: 30.23 min
+Paprika - Courtyard by Marriott : 3.90: Distance: 6.39 km, Travel time: 19.42 min
+Marmoris Beach Lounge : 4.30: Distance: 56.10 km, Travel time: 83.88 min
+Delhi Highway : 4.50: Distance: 9.30 km, Travel time: 22.80 min
+Tager : 4.60: Distance: 8.14 km, Travel time: 21.07 min
+Mustard Restaurant & Bar : 4.50: Distance: 7.30 km, Travel time: 20.35 min
+Hard Rock Cafe : 4.50: Distance: 7.95 km, Travel time: 20.52 min
+Far East : 4.50: Distance: 7.57 km, Travel time: 19.67 min
+Asvah 24 : 4.10: Distance: 12.23 km, Travel time: 28.03 min
+Pitchside Blue : 3.30: Distance: 8.40 km, Travel time: 22.37 min
+Dil Se Rasoi : 3.70: Distance: 2188.39 km, Travel time: 1974.73 min
+KUP Coffee Roasters : 4.40: Distance: 8.73 km, Travel time: 21.85 min
+Purple Chameleon : 4.40: Distance: 8.80 km, Travel time: 23.57 min
+Stix - Hyatt Regency : 4.20: Distance: 7.09 km, Travel time: 21.50 min
+Vasco's - Hilton Chennai : 4.20: Distance: 3.97 km, Travel time: 11.40 min
+B'Veg : 4.10: Distance: 8.68 km, Travel time: 23.43 min
+Monkey Bar : 4.40: Distance: 8.41 km, Travel time: 20.70 min
+Hub at ECR : 4.30: Distance: 18.46 km, Travel time: 39.70 min
+Kommune : 4.40: Distance: 5.18 km, Travel time: 17.68 min
+East Coast At Madras Square : 4.60: Distance: 13.49 km, Travel time: 28.47 min
+Dank : 4.40: Distance: 5.78 km, Travel time: 18.43 min
+La Cabana : 4.10: Distance: 7.73 km, Travel time: 19.50 min
+Asian Station : 4.10: Distance: 10.52 km, Travel time: 24.37 min
+Mezze : 4.70: Distance: 4.96 km, Travel time: 17.88 min
+Above Sea Level - The Raintree : 4.10: Distance: 6.60 km, Travel time: 22.75 min
+Cibo : 3.70: Distance: 1.79 km, Travel time: 5.78 min
+Chap Chay - The Raintree : 4.40: Distance: 6.11 km, Travel time: 21.48 min
+The Summer House Eatery : 4.20: Distance: 7.19 km, Travel time: 22.90 min

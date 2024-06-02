@@ -51,12 +51,12 @@ void remove_cart(cart *row, const char food_name[], int *size) {
 
 
 int main() {
-    char rest[] = "abc"; // A random restaurant
+    const char rest[] = "Restaurant_abc"; // A random restaurant
     char food[50];
     cart row[100] = {
-        {"Restaurant1", "Pizza", 2, 200, 400},
-        {"Restaurant2", "Burger", 1, 150, 150},
-        {"Restaurant3", "Pasta", 3, 210, 630}
+        {"Restaurant_abc", "Pizza", 2, 200, 400},
+        {"Restaurant_abc", "Burger", 1, 150, 150},
+        {"Restaurant_abc", "Pasta", 3, 210, 630}
     };
 
     int size = 3;
@@ -79,7 +79,7 @@ int main() {
                     else {
                         printf("Enter price: ");
                         scanf("%d", &price);
-                        add_cart(row, i, rest, food, price);
+                        add_cart(row, size, rest, food, price);
                         size++;
                     }
                 }
@@ -97,4 +97,5 @@ int main() {
                 printf("Invalid choice. Please try again.\n");
         }
     }
+    return 0;
 }

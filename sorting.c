@@ -27,6 +27,14 @@ int compare_by_distance(const void *a, const void *b) {
     return 0;
 }
 
+int compare_by_rating(const void *a, const void *b) {
+    float ratA = ((Restaurant *)a)->rating;
+    float ratB = ((Restaurant *)b)->rating;
+    if (ratA < ratB) return -1;
+    if (ratA > ratB) return 1;
+    return 0;
+}
+
 void store_rests(const char *username, const int n_rest) {
     char filename[112];
     sprintf(filename, "db/user/%s.txt", username);
@@ -42,14 +50,13 @@ void store_rests(const char *username, const int n_rest) {
 
     for (int i = 0; i < 11; i++) {
         if (!fgets(line, sizeof(line), file)) {
-            // If we reach the end of the file before reading 10 lines, handle it
             fclose(file);
             printf("Error: File has fewer than 10 lines.\n");
             return;
         }
     }
 
-    while (fgets(line, sizeof(line), file) && count < n_rest) {
+    while (fgets(line, sizeof(line), file)) {
         parse_line(line, &restaurants[count]);
         count++;
     }
@@ -59,20 +66,12 @@ void store_rests(const char *username, const int n_rest) {
     // Sort the restaurants based on distance
     qsort(restaurants, count, sizeof(Restaurant), compare_by_distance);
 
-    for (int i = 0; i < count; i++) {
+    for (int i = 0; i < n_rest; i++) {
         printf("Name: %s\n", restaurants[i].name);
         printf("Rating: %.2f\n", restaurants[i].rating);
         printf("Distance: %.2f km\n", restaurants[i].distance);
         printf("Travel Time: %.2f min\n", restaurants[i].travel_time);
         printf("\n");
+        
     }
-}
-
-int main() {
-    const char *username = "aniket";
-    const int n_rest = 10;
-
-    store_rests(username, n_rest);
-
-    return 0;
 }

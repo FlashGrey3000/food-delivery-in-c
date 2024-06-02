@@ -3,6 +3,8 @@
 #include <string.h>
 #include "colors.h"
 #include "map_functions.c"
+#include "weatherer.c"
+#include "sorting.c"
 
 #define MAX_LENGTH 100
 
@@ -24,13 +26,6 @@ typedef struct {
     char phone[MAX_LENGTH];
     Address address;
 } User;
-
-typedef struct {
-    char name[100];
-    float rating;
-    float distance;
-    float travel_time;
-} Restaurant;
 
 // Function prototypes
 void registerUser();
@@ -70,7 +65,9 @@ int main() {
                 signIn();
                 break;
             case 3:
+                setTextColor(BLUE);
                 printf("\nExiting the application... \n\n");
+                resetTextColor();
                 exit(0);
             default:
                 setTextColor(RED);
@@ -237,12 +234,15 @@ void signIn() {
     fclose(usersFile);
 
     if (found) {
-        printf("=============  Sign in successful  =============\n");
+        setTextColor(GREEN);
+        printf("\n=============  Sign in successful  =============\n\n");
+        resetTextColor();
         int userChoice;
         while (1) {
             printf("1. Change Password\n");
             printf("2. Sign Out\n");
             printf("3. Locate Nearby Restaurants\n");
+            printf("4. Show Nearby Restaurants\n");
             printf("Enter your choice: ");
             scanf("%d", &userChoice);
 
@@ -255,6 +255,8 @@ void signIn() {
                 break;
             } else if (userChoice == 3) {
                 get_rest_dists(username, user.address.lattitude, user.address.longitude);
+            } else if (userChoice == 4) {
+                store_rests(username, 10);
             } else {
                 setTextColor(YELLOW);
                 printf("Invalid choice. Please try again.\n");
@@ -262,7 +264,9 @@ void signIn() {
             }
         }
     } else {
+        setTextColor(YELLOW);
         printf("\n=============  Error: Incorrect username or password  =============\n\n");
+        resetTextColor();
     }
 }
 

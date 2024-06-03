@@ -10,33 +10,23 @@ typedef struct {
 } Restaurant;
 
 void parse_line(const char *line, Restaurant *restaurant) {
-    char name[100];
-    float rating, distance, travel_time;
-    sscanf(line, "%[^:]: %f: Distance: %f km, Travel time: %f min", name, &rating, &distance, &travel_time);
-    strcpy(restaurant->name, name);
-    restaurant->rating = rating;
-    restaurant->distance = distance;
-    restaurant->travel_time = travel_time;
+    sscanf(line, "%[^:]: %f: Distance: %f km, Travel time: %f min", restaurant->name, &restaurant->rating, &restaurant->distance, &restaurant->travel_time);
 }
 
 int compare_by_distance(const void *a, const void *b) {
     float distA = ((Restaurant *)a)->distance;
     float distB = ((Restaurant *)b)->distance;
-    if (distA < distB) return -1;
-    if (distA > distB) return 1;
-    return 0;
+    return (distA > distB) - (distA < distB); // returns -1, 0, or 1
 }
 
 int compare_by_rating(const void *a, const void *b) {
     float ratA = ((Restaurant *)a)->rating;
     float ratB = ((Restaurant *)b)->rating;
-    if (ratA < ratB) return -1;
-    if (ratA > ratB) return 1;
-    return 0;
+    return (ratB > ratA) - (ratB < ratA); // returns 1, 0, or -1 to sort in descending order
 }
 
-void store_rests(const char *username, const int n_rest) {
-    char filename[112];
+void store_rests(const char *username, Restaurant **restaurants, int *n_rest) {
+    char filename[128];
     sprintf(filename, "db/user/%s.txt", username);
     FILE *file = fopen(filename, "r");
     if (!file) {
@@ -44,11 +34,11 @@ void store_rests(const char *username, const int n_rest) {
         return;
     }
 
-    Restaurant restaurants[n_rest];
-    int count = 0;
     char line[512];
+    int count = 0;
 
-    for (int i = 0; i < 11; i++) {
+    // Skip the first 10 lines
+    for (int i = 0; i < 10; i++) {
         if (!fgets(line, sizeof(line), file)) {
             fclose(file);
             printf("Error: File has fewer than 10 lines.\n");
@@ -56,22 +46,62 @@ void store_rests(const char *username, const int n_rest) {
         }
     }
 
+    // Count the remaining lines
     while (fgets(line, sizeof(line), file)) {
-        parse_line(line, &restaurants[count]);
         count++;
     }
+    rewind(file);
+
+    // Skip the first 10 lines again
+    for (int i = 0; i < 10; i++) {
+        fgets(line, sizeof(line), file);
+    }
+
+    // Allocate memory for restaurants
+    *restaurants = malloc(count * sizeof(Restaurant));
+
+    // Parse the lines into the restaurants array
+    count = 0;
+    while (fgets(line, sizeof(line), file)) {
+        parse_line(line, &(*restaurants)[count]);
+        count++;
+    }
+    *n_rest = count;
 
     fclose(file);
+}
 
-    // Sort the restaurants based on distance
-    qsort(restaurants, count, sizeof(Restaurant), compare_by_distance);
+void sort_rests(int by, Restaurant *restaurants, int n_rest) {
+    if (by == 1) {
+        qsort(restaurants, n_rest, sizeof(Restaurant), compare_by_distance);
+    } else if (by == 2) {
+        qsort(restaurants, n_rest, sizeof(Restaurant), compare_by_rating);
+    }
 
-    for (int i = 0; i < n_rest; i++) {
+    for (int i = 0; i < 10; i++) {
         printf("Name: %s\n", restaurants[i].name);
         printf("Rating: %.2f\n", restaurants[i].rating);
         printf("Distance: %.2f km\n", restaurants[i].distance);
         printf("Travel Time: %.2f min\n", restaurants[i].travel_time);
         printf("\n");
-        
     }
+}
+
+int main() {
+    Restaurant *restaurants = NULL;
+    int n_rest = 0;
+
+    store_rests("aksh", &restaurants, &n_rest);
+
+    if (restaurants != NULL) {
+        printf("Sorted by distance:\n");
+        sort_rests(1, restaurants, n_rest);
+
+        printf("Sorted by rating:\n");
+        sort_rests(2, restaurants, n_rest);
+
+        free(restaurants);
+    }
+
+    return 0;
 }

@@ -5,13 +5,6 @@
 #include <cjson/cJSON.h>
 #define APIKEY "183b1bd833f24eb4983142217243105"
 
-size_t write_callback(char *ptr, size_t size, size_t nmemb, void *userdata) {
-    FILE *stream = (FILE *)userdata;
-    if (!stream) return 0;
-    size_t written = fwrite(ptr, size, nmemb, stream);
-    return written;
-}
-
 char * get_condition(char *filename) {
     FILE *file = fopen(filename, "r");
     if (!file) {

@@ -6,8 +6,8 @@ Punjab Grill : 4.4 : North Indian, Kebab, Biryani, Mughlai : ₹2,500 for two : 
 Soy Soi : 4.7 : Sushi, Asian, Seafood, Japanese, Thai, Desserts, Beverages : ₹1,700 for two : 2/10, Gandhi Mandapam Road, Kotturpuram, Chennai, Tamil Nadu : 13.019182 : 80.241273 : 63
 Hamsa : 4.5 : North Indian, Desserts, Beverages : ₹1,800 for two : New 40, Old 71A, B. Ramachandra Adithanar Road, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020 : 13.009696 : 80.252762 : 23
 Bombay Brasserie : 4.6 : Modern Indian, Bar Food, Biryani, Kebab, Fast Food, Desserts : ₹1,800 for two : 3, College Lane, Nungambakkam, Chennai, Tamil Nadu : 13.06725611 : 80.25208056 : 8
-Azzuri Bay : 4.2 : Italian, Mediterranean, Thai, Chinese, Asian, Seafood, Desserts, Beverages : ₹1,400 for two : 13, 1st Crescent Road, Gandhinagar, Adyar, Chennai, Tamil Nadu 600020 : 13.01306607 : 80.25210449 :34
-Annalakshmi Restaurant : 4.4 : South Indian, North Indian, Continental, Desserts, Beverages : ₹1,400 for two : 6, Mayor Ramanathan Salai, Spur Tank Road, Chetput, Chennai, Tamil Nadu : 13.0717054 : 80.2499788 :70
+Azzuri Bay : 4.2 : Italian, Mediterranean, Thai, Chinese, Asian, Seafood, Desserts, Beverages : ₹1,400 for two : 13, 1st Crescent Road, Gandhinagar, Adyar, Chennai, Tamil Nadu 600020 : 13.01306607 : 80.25210449 : 34
+Annalakshmi Restaurant : 4.4 : South Indian, North Indian, Continental, Desserts, Beverages : ₹1,400 for two : 6, Mayor Ramanathan Salai, Spur Tank Road, Chetput, Chennai, Tamil Nadu : 13.0717054 : 80.2499788 : 70
 Savoury Sea Shell : 4.1 : Arabian, Italian, Continental, North Indian, Chinese, Fast Food, Beverages : ₹1,200 for two : 3, E Block, 3rd Avenue, Anna Nagar East, Chennai, Tamil Nadu 600102 : 13.08873749 : 80.21934509 : 26
 The Flying Elephant - Park Hyatt : 4.3 : Asian, Italian, North Indian, Middle Eastern, Continental, Seafood, Desserts, Beverages : ₹4,000 for two : 39, Velachery Road, Guindy, Chennai, Tamil Nadu 600032 : 13.010794 : 80.223617 : 45
 Amelie's : 4.1 : Cafe, Continental, Grilled Chicken, BBQ, Pasta, Sandwich, Salad, Beverages : ₹1,100 for two : 6, Seshadri Road, Venus Colony, Alwarpet, Chennai, Tamil Nadu 600018 : 13.039951 : 80.255944 : 29

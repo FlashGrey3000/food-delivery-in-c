@@ -1,0 +1,7 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+Sigree, Paneer Tikka, ₹300, North Indian, all seasons
+Sigree, Chicken Tandoori, ₹350, North Indian, all seasons
+Sigree, Dal Makhani, ₹250, North Indian, all seasons
+Sigree, Naan, ₹50, North Indian, all seasons
+Sigree, Gajar Halwa, ₹150, Dessert, cold winters
+Sigree, Mango Lassi, ₹120, Beverage, hot sunny days

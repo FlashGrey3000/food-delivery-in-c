@@ -111,7 +111,7 @@ void registerUser() {
             break;
         } else {
             setTextColor(YELLOW);
-            printf("Passwords do not match. Please try again.\n");
+            printf("Passwords do not match. Please try again.\nEnter Again\n\n");
             resetTextColor();
         }
     } 
@@ -238,33 +238,35 @@ void signIn() {
         printf("\n=============  Sign in successful  =============\n\n");
         resetTextColor();
         int userChoice;
+        Restaurant *restaurants = NULL;
+        int n_rest = 0;
         get_rest_dists(username, user.address.lattitude, user.address.longitude);
-        store_rests(username, 10);
+        store_rests(username, &restaurants, &n_rest);
         while (1) {
             printf("1. Change Password\n");
-            printf("2. Sign Out\n");
-            printf("3. Show Nearby Restaurants\n");
+            printf("2. Show Restaurants\n");
+            printf("3. Sign Out\n");
             printf("Enter your choice: ");
             scanf("%d", &userChoice);
 
             if (userChoice == 1) {
                 changePassword(username);
-            } else if (userChoice == 2) {
+            } else if (userChoice == 3) {
                 setTextColor(BLUE);
                 printf("\nSigning out...\n\n");
                 resetTextColor();
                 break;
-            } else if (userChoice == 3) {
+            } else if (userChoice == 2) {
                 while (1) {
                     printf("By which parameter to sort by:-\n");
                     printf("1. Sort by Distance\n");
                     printf("2. Sort by Rating\n");
-                    printf("3. Exit\n")
+                    printf("3. Exit\n");
                     printf("Enter your choice: ");
                     scanf("%d", &userChoice);
 
-                    if (userChoice==1) sort_rests(1, &restaurants, n_rest);
-                    else if (userChoice==2) sort_rests(2, &restaurants, n_rest);
+                    if (userChoice==1) sort_rests(1, restaurants, n_rest);
+                    else if (userChoice==2) sort_rests(2, restaurants, n_rest);
                     else if (userChoice==3) break;
                     else {
                         setTextColor(YELLOW);

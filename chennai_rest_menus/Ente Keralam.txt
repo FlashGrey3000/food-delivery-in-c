@@ -1,0 +1,7 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+Ente Keralam, Malabar Parotta, ₹150, South Indian, all seasons
+Ente Keralam, Kerala Fish Curry, ₹300, South Indian, rainy seasons
+Ente Keralam, Appam with Stew, ₹250, South Indian, all seasons
+Ente Keralam, Prawn Mango Curry, ₹350, South Indian, hot sunny days
+Ente Keralam, Thalassery Biryani, ₹400, South Indian, all seasons
+Ente Keralam, Avial, ₹200, South Indian, all seasons

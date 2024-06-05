@@ -1,0 +1,7 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+Azzuri Bay, Margherita Pizza, ₹350, Italian, all seasons
+Azzuri Bay, Pasta Alfredo, ₹400, Italian, all seasons
+Azzuri Bay, Caesar Salad, ₹250, Continental, hot sunny days
+Azzuri Bay, Grilled Chicken, ₹400, Continental, all seasons
+Azzuri Bay, Tiramisu, ₹200, Dessert, all seasons
+Azzuri Bay, Lemon Iced Tea, ₹100, Beverage, hot sunny days

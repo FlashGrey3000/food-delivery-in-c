@@ -38,7 +38,7 @@ void store_rests(const char *username, Restaurant **restaurants, int *n_rest) {
     int count = 0;
 
     // Skip the first 10 lines
-    for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < 11; i++) {
         if (!fgets(line, sizeof(line), file)) {
             fclose(file);
             printf("Error: File has fewer than 10 lines.\n");
@@ -53,7 +53,7 @@ void store_rests(const char *username, Restaurant **restaurants, int *n_rest) {
     rewind(file);
 
     // Skip the first 10 lines again
-    for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < 11; i++) {
         fgets(line, sizeof(line), file);
     }
 
@@ -87,21 +87,3 @@ void sort_rests(int by, Restaurant *restaurants, int n_rest) {
     }
 }
 
-int main() {
-    Restaurant *restaurants = NULL;
-    int n_rest = 0;
-
-    store_rests("aksh", &restaurants, &n_rest);
-
-    if (restaurants != NULL) {
-        printf("Sorted by distance:\n");
-        sort_rests(1, restaurants, n_rest);
-
-        printf("Sorted by rating:\n");
-        sort_rests(2, restaurants, n_rest);
-
-        free(restaurants);
-    }
-
-    return 0;
-}

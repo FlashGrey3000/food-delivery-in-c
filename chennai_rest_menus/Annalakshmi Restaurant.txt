@@ -1,0 +1,7 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+Annalakshmi Restaurant, Masala Dosa, ₹150, South Indian, all seasons
+Annalakshmi Restaurant, Paneer Butter Masala, ₹220, North Indian, cold winters
+Annalakshmi Restaurant, Vegetable Biryani, ₹200, Indian, all seasons
+Annalakshmi Restaurant, Idli Sambar, ₹100, South Indian, hot sunny days
+Annalakshmi Restaurant, Rasam Rice, ₹180, South Indian, rainy seasons
+Annalakshmi Restaurant, Mango Lassi, ₹80, Beverage, hot sunny days

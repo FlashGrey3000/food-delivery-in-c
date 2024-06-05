@@ -1,0 +1,7 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+Junior Kuppanna, Mutton Biryani, ₹350, South Indian, all seasons
+Junior Kuppanna, Chicken 65, ₹280, South Indian, all seasons
+Junior Kuppanna, Fish Fry, ₹300, South Indian, hot sunny days
+Junior Kuppanna, Egg Kothu Parotta, ₹250, South Indian, all seasons
+Junior Kuppanna, Mutton Sukka, ₹320, South Indian, all seasons
+Junior Kuppanna, Curd Rice, ₹150, South Indian, hot sunny days

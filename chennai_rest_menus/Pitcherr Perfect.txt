@@ -1,0 +1,13 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+Pitcherr Perfect, Margherita Pizza, ₹350, Italian, all seasons
+Pitcherr Perfect, Spaghetti Carbonara, ₹400, Italian, all seasons
+Pitcherr Perfect, Sushi Platter, ₹500, Chinese, all seasons
+Pitcherr Perfect, Chicken Caesar Salad, ₹250, Continental, hot sunny days
+Pitcherr Perfect, Tiramisu, ₹200, Bakery, all seasons
+Pitcherr Perfect, Chocolate Milkshake, ₹150, Shake, hot sunny days
+Pitcherr Perfect, Kung Pao Chicken, ₹350, Sichuan, all seasons
+Pitcherr Perfect, Lemon Iced Tea, ₹100, Beverage, hot sunny days
+Pitcherr Perfect, Veg Spring Rolls, ₹200, Chinese, all seasons
+Pitcherr Perfect, Grilled Chicken, ₹400, Continental, all seasons
+Pitcherr Perfect, Garlic Bread, ₹150, Bakery, all seasons
+Pitcherr Perfect, Cappuccino, ₹150, Beverage, all seasons

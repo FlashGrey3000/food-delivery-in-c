@@ -1,0 +1,7 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+Tuscana Pizzeria, Margherita Pizza, ₹350, Italian, all seasons
+Tuscana Pizzeria, Quattro Formaggi Pizza, ₹450, Italian, all seasons
+Tuscana Pizzeria, Spaghetti Aglio e Olio, ₹400, Italian, all seasons
+Tuscana Pizzeria, Caesar Salad, ₹300, Continental, hot sunny days
+Tuscana Pizzeria, Tiramisu, ₹250, Dessert, all seasons
+Tuscana Pizzeria, Gelato, ₹150, Dessert, hot sunny days

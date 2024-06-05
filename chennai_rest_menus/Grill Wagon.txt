@@ -1,0 +1,13 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+Grill Wagon, Butter Chicken, ₹350, North Indian, all seasons
+Grill Wagon, Paneer Tikka, ₹300, North Indian, all seasons
+Grill Wagon, Dal Makhani, ₹250, North Indian, all seasons
+Grill Wagon, Chicken Fried Rice, ₹250, Chinese, all seasons
+Grill Wagon, Veg Spring Rolls, ₹200, Chinese, all seasons
+Grill Wagon, Grilled Fish, ₹400, Continental, all seasons
+Grill Wagon, Caesar Salad, ₹200, Continental, hot sunny days
+Grill Wagon, Chocolate Cake, ₹150, Desserts, all seasons
+Grill Wagon, Brownie Sundae, ₹200, Desserts, all seasons
+Grill Wagon, Garlic Naan, ₹50, North Indian, all seasons
+Grill Wagon, Mango Lassi, ₹80, Beverage, hot sunny days
+Grill Wagon, Chicken Noodles, ₹250, Chinese, all seasons

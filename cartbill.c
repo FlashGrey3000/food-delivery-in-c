@@ -79,19 +79,14 @@ void update_ratings(const char rest_name[], int user_rating) {
 }
 
 int main() {
-    const char rest[] = "Restaurant_abc"; // A random restaurant
-    char food[50];
-    cart row[100] = {
-        {"Restaurant_abc", "Pizza", 2, 200, 400},
-        {"Restaurant_abc", "Burger", 1, 150, 150},
-        {"Restaurant_abc", "Pasta", 3, 210, 630}
-    };
+    const char rest[50];
+    char food[30];
+    cart row[10];
 
     int size = 3;
 
     while (1) {
         int choice, price, i = size;
-         // Let's give 3 options: 1. Add to cart, 2. Remove from cart, 3. Print cart
         printf("0. Exit\n1. Add to cart\n2. Remove from cart\n3. Print cart\nEnter your option: ");
         scanf("%d", &choice);
 

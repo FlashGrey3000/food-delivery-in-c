@@ -6,76 +6,87 @@
 
 #define MAX_LENGTH 100
 
-typedef struct {
-    char addr1[MAX_LENGTH];
-    char addr2[MAX_LENGTH];
-    char city[MAX_LENGTH];
-    char state[MAX_LENGTH];
-    char pinCode[MAX_LENGTH];
-    double lattitude;
-    double longitude;
-} Address;
+// typedef struct {
+//     char addr1[MAX_LENGTH];
+//     char addr2[MAX_LENGTH];
+//     char city[MAX_LENGTH];
+//     char state[MAX_LENGTH];
+//     char pinCode[MAX_LENGTH];
+//     double lattitude;
+//     double longitude;
+// } Address;
 
-typedef struct {
-    char name[MAX_LENGTH];
-    char username[MAX_LENGTH];
-    char password[MAX_LENGTH];
-    char phone[MAX_LENGTH];
-    Address address;
-} User;
+// typedef struct {
+//     char name[MAX_LENGTH];
+//     char username[MAX_LENGTH];
+//     char password[MAX_LENGTH];
+//     char phone[MAX_LENGTH];
+//     Address address;
+// } User;
 
-void registerUser(GtkWidget *widget, gpointer data) {
-    User newUser;
-    FILE* usersFile, * userFile;
-    char conf_pass[MAX_LENGTH];
-    double lattitude, longitude;
+void setTextColor(const char* colorCode) {
+    printf("%s", colorCode);
+}
 
-    printf("Enter name: ");
-    scanf(" %[^\n]", newUser.name);
-    while (1) {
-        printf("Enter username: ");
-        scanf("%s", newUser.username);
+void resetTextColor() {
+    printf("\033[0m");
+}
 
-        if (user_exists(newUser.username) == 1) {
-            setTextColor(YELLOW);
-            printf("\n!! Username already taken !!\n");
-            resetTextColor();
-        } else break;
-    }
+// int user_exists(const char* username);
 
-    while (1) {
-        printf("Enter password: ");
-        scanf("%s", newUser.password);
-        printf("Confirm password: ");
-        scanf("%s", conf_pass);
 
-        if (strcmp(newUser.password, conf_pass) == 0) {
-            setTextColor(GREEN);
-            printf("Passwords match.\n");
-            resetTextColor();
-            break;
-        } else {
-            setTextColor(YELLOW);
-            printf("Passwords do not match. Please try again.\n");
-            resetTextColor();
-        }
-    }
+// void registerUser(GtkWidget *widget, gpointer data) {
+//     User newUser;
+//     FILE* usersFile, * userFile;
+//     char conf_pass[MAX_LENGTH];
+//     double lattitude, longitude;
 
-    printf("Enter phone number: ");
-    scanf("%s", newUser.phone);
-    printf("Enter address line 1: ");
-    scanf(" %[^\n]", newUser.address.addr1);
-    printf("Enter address line 2: ");
-    scanf(" %[^\n]", newUser.address.addr2);
-    printf("Enter city name: ");
-    scanf("%s", newUser.address.city);
-    printf("Enter state: ");
-    scanf(" %[^\n]", newUser.address.state);
-    printf("Enter pin code: ");
-    scanf("%s", newUser.address.pinCode);
+//     printf("Enter name: ");
+//     scanf(" %[^\n]", newUser.name);
+//     while (1) {
+//         printf("Enter username: ");
+//         scanf("%s", newUser.username);
 
-//     //update_user_coordinates(newUser.address.addr1, newUser.address.addr2, newUser.address.city, 
-//     //                        newUser.address.state, atoi(newUser.address.pinCode), &lattitude, &longitude);
+//         if (user_exists(newUser.username) == 1) {
+//             setTextColor(YELLOW);
+//             printf("\n!! Username already taken !!\n");
+//             resetTextColor();
+//         } else break;
+//     }
+
+//     while (1) {
+//         printf("Enter password: ");
+//         scanf("%s", newUser.password);
+//         printf("Confirm password: ");
+//         scanf("%s", conf_pass);
+
+//         if (strcmp(newUser.password, conf_pass) == 0) {
+//             setTextColor(GREEN);
+//             printf("Passwords match.\n");
+//             resetTextColor();
+//             break;
+//         } else {
+//             setTextColor(YELLOW);
+//             printf("Passwords do not match. Please try again.\n");
+//             resetTextColor();
+//         }
+//     }
+
+//     printf("Enter phone number: ");
+//     scanf("%s", newUser.phone);
+//     printf("Enter address line 1: ");
+//     scanf(" %[^\n]", newUser.address.addr1);
+//     printf("Enter address line 2: ");
+//     scanf(" %[^\n]", newUser.address.addr2);
+//     printf("Enter city name: ");
+//     scanf("%s", newUser.address.city);
+//     printf("Enter state: ");
+//     scanf(" %[^\n]", newUser.address.state);
+//     printf("Enter pin code: ");
+//     scanf("%s", newUser.address.pinCode);
+
+// //     //update_user_coordinates(newUser.address.addr1, newUser.address.addr2, newUser.address.city, 
+// //     //                        newUser.address.state, atoi(newUser.address.pinCode), &lattitude, &longitude);
 // }
 
 static void print_hello(GtkWidget *widget, gpointer data) {
@@ -83,10 +94,10 @@ static void print_hello(GtkWidget *widget, gpointer data) {
 }
 
 
-static void destroy_window(GtkWidget *widget, gpointer data) {
-    GtkWindow *window = GTK_WINDOW(data);
-    gtk_window_destroy(window);
-}
+// static void destroy_window(GtkWidget *widget, gpointer data) {
+//     GtkWindow *window = GTK_WINDOW(data);
+//     gtk_window_destroy(window);
+// }
 
 
 static void show_new_buttons(GtkWidget *window) {
@@ -110,9 +121,9 @@ static void show_new_buttons(GtkWidget *window) {
     gtk_window_set_child(GTK_WINDOW(window), new_box);
 }
 
-static void destroy_main_box_and_show_new_buttons(GtkWidget *widget, GtkWidget *window) {
-    show_new_buttons(window);
-}
+// static void destroy_main_box_and_show_new_buttons(GtkWidget *widget, GtkWidget *window) {
+//     show_new_buttons(window);
+// }
 
 static void activate(GtkApplication *app, gpointer user_data) {
     GtkWidget *window;
@@ -137,7 +148,7 @@ static void activate(GtkApplication *app, gpointer user_data) {
 
     g_signal_connect(button1, "clicked", G_CALLBACK(print_hello), NULL);
     g_signal_connect(button2, "clicked", G_CALLBACK(print_hello), NULL);
-    g_signal_connect(button3, "clicked", G_CALLBACK(destroy_window), window);
+    g_signal_connect(button3, "clicked", G_CALLBACK(/*destroy_window*/print_hello), window);
 
 
 
@@ -153,6 +164,7 @@ static void activate(GtkApplication *app, gpointer user_data) {
 int main(int argc, char **argv) {
     GtkApplication *app;
     int status;
+    printf("working");
 
     app = gtk_application_new("org.gtk.example", G_APPLICATION_FLAGS_NONE);
     g_signal_connect(app, "activate", G_CALLBACK(activate), NULL);

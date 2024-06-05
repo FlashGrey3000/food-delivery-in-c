@@ -1,0 +1,7 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+The Brew Room, Veg Burger, ₹300, Continental, all seasons
+The Brew Room, Chicken Alfredo Pasta, ₹400, Italian, all seasons
+The Brew Room, Greek Salad, ₹250, Mediterranean, hot sunny days
+The Brew Room, Waffles with Maple Syrup, ₹200, Dessert, all seasons
+The Brew Room, Espresso, ₹150, Beverage, all seasons
+The Brew Room, Lemon Iced Tea, ₹100, Beverage, hot sunny days

@@ -1,0 +1,7 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+Mamagoto, Sushi Platter, ₹800, Japanese, hot sunny days
+Mamagoto, Thai Green Curry, ₹600, Thai, rainy seasons
+Mamagoto, Japanese Ramen, ₹700, Japanese, cold winters
+Mamagoto, Chicken Teriyaki, ₹650, Japanese, all seasons
+Mamagoto, Asian Stir-Fried Vegetables, ₹500, Asian, hot sunny days
+Mamagoto, Tempura Prawns, ₹750, Japanese, all seasons

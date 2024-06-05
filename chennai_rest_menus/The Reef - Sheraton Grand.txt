@@ -1,0 +1,7 @@
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
+The Reef - Sheraton Grand, Caesar Salad, ₹250, Continental, hot sunny days
+The Reef - Sheraton Grand, Margherita Pizza, ₹300, Italian, all seasons
+The Reef - Sheraton Grand, Grilled Chicken, ₹350, Continental, all seasons
+The Reef - Sheraton Grand, Spaghetti Bolognese, ₹400, Italian, all seasons
+The Reef - Sheraton Grand, Cheesecake, ₹200, Dessert, all seasons
+The Reef - Sheraton Grand, Mojito, ₹150, Beverage, hot sunny days

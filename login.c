@@ -27,7 +27,6 @@ typedef struct {
     char password[MAX_LENGTH];
     char phone[MAX_LENGTH];
     Address address;
-    int user_is_loaded;
 } User;
 
 
@@ -148,9 +147,9 @@ void registerUser() {
     }
 
     
-    fprintf(usersFile, "%s,%s,%s,%s,%s,%s,%s,%s,%s,%lf,%lf,%d\n",newUser.name,newUser.username, newUser.password,
+    fprintf(usersFile, "%s,%s,%s,%s,%s,%s,%s,%s,%s,%lf,%lf\n",newUser.name,newUser.username, newUser.password,
                              newUser.phone, newUser.address.addr1, newUser.address.addr2, newUser.address.city, 
-                            newUser.address.state, newUser.address.pinCode, newUser.address.lattitude, newUser.address.longitude,newUser.user_is_loaded);
+                            newUser.address.state, newUser.address.pinCode, newUser.address.lattitude, newUser.address.longitude);
     fclose(usersFile);
 
     char userFileName[MAX_LENGTH + 12];
@@ -174,7 +173,6 @@ void registerUser() {
     fprintf(userFile, "Pin Code: %s\n", newUser.address.pinCode);
     fprintf(userFile, "Lattitude: %lf\n", newUser.address.lattitude);
     fprintf(userFile, "Longitude: %lf\n", newUser.address.longitude);
-    fprintf(userFile, "Loaded: %d\n", newUser.user_is_loaded);
     fclose(userFile);
 
     setTextColor(GREEN);
@@ -193,10 +191,10 @@ int user_exists(const char *username) {
 
     // Check each line in the users file for matching username
     User user;
-    while (fscanf(checkFile, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf,%d", 
+    while (fscanf(checkFile, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf", 
                   user.name, user.username, user.password, user.phone, 
                   user.address.addr1, user.address.addr2, user.address.city, 
-                  user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude, &user.user_is_loaded) != EOF) {
+                  user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude) != EOF) {
         if (strcmp(user.username, username) == 0) {
             found = 1;
             break;
@@ -226,10 +224,10 @@ void signIn() {
 
     // Check each line in the users file for matching username and password
     User user;
-    while (fscanf(usersFile, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf,%d", 
+    while (fscanf(usersFile, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf", 
                   user.name, user.username, user.password, user.phone, 
                   user.address.addr1, user.address.addr2, user.address.city, 
-                  user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude, &user.user_is_loaded) != EOF) {
+                  user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude) != EOF) {
         if (strcmp(username, user.username) == 0 && strcmp(password, user.password) == 0) {
             found = 1;
             break;
@@ -400,10 +398,10 @@ void changePassword(const char* username) {
 
     User user;
     while (fgets(line, sizeof(line), file) != NULL) {
-        sscanf(line, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf,%d", 
+        sscanf(line, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf", 
                user.name, user.username, user.password, user.phone, 
                user.address.addr1, user.address.addr2, user.address.city, 
-               user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude, &user.user_is_loaded);
+               user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude);
 
         if (strcmp(user.username, username) == 0) {
             strcpy(user.password, newPassword);

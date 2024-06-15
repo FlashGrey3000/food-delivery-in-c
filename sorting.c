@@ -37,8 +37,8 @@ void store_rests(const char *username, Restaurant **restaurants, int *n_rest) {
     char line[512];
     int count = 0;
 
-    // Skip the first 10 lines
-    for (int i = 0; i < 11; i++) {
+    // Skip the first 12 lines
+    for (int i = 0; i < 12; i++) {
         if (!fgets(line, sizeof(line), file)) {
             fclose(file);
             printf("Error: File has fewer than 10 lines.\n");
@@ -52,8 +52,8 @@ void store_rests(const char *username, Restaurant **restaurants, int *n_rest) {
     }
     rewind(file);
 
-    // Skip the first 10 lines again
-    for (int i = 0; i < 11; i++) {
+    // Skip the first 12 lines again
+    for (int i = 0; i < 12; i++) {
         fgets(line, sizeof(line), file);
     }
 

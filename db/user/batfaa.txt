@@ -57,3 +57,61 @@ Above Sea Level - The Raintree : 4.10: Distance: 15.22 km, Travel time: 36.37 mi
 Cibo : 3.70: Distance: 8.78 km, Travel time: 21.67 min
 Chap Chay - The Raintree : 4.40: Distance: 15.18 km, Travel time: 36.72 min
 The Summer House Eatery : 4.20: Distance: 14.59 km, Travel time: 35.63 min
+Mamagoto : 4.50: Distance: 11.22 km, Travel time: 26.92 min
+Paprika - Courtyard by Marriott : 3.90: Distance: 13.18 km, Travel time: 32.07 min
+Above Sea Level - The Raintree : 4.10: Distance: 15.22 km, Travel time: 36.37 min
+The Reef - Sheraton Grand : 4.30: Distance: 4.69 km, Travel time: 14.88 min
+Punjab Grill : 4.40: Distance: 17.80 km, Travel time: 42.47 min
+Soy Soi : 4.70: Distance: 16.11 km, Travel time: 37.78 min
+Hamsa : 4.50: Distance: 18.66 km, Travel time: 43.03 min
+Bombay Brasserie : 4.60: Distance: 11.44 km, Travel time: 27.40 min
+Azzuri Bay : 4.20: Distance: 19.38 km, Travel time: 45.47 min
+Annalakshmi Restaurant : 4.40: Distance: 10.39 km, Travel time: 24.30 min
+Savoury Sea Shell : 4.10: Distance: 6.20 km, Travel time: 18.50 min
+The Flying Elephant - Park Hyatt : 4.30: Distance: 16.12 km, Travel time: 37.75 min
+Amelie's : 4.10: Distance: 13.53 km, Travel time: 32.62 min
+Little Italy : 4.50: Distance: 21.28 km, Travel time: 49.67 min
+Ente Keralam : 4.30: Distance: 12.99 km, Travel time: 31.15 min
+Sandy's Chocolate Laboratory : 4.40: Distance: 10.96 km, Travel time: 26.42 min
+The Fat Boy : 4.30: Distance: 14.81 km, Travel time: 35.77 min
+MKC - Madras Kitchen Company : 4.70: Distance: 18.80 km, Travel time: 44.48 min
+Madras Pavilion - ITC Grand Chola : 4.30: Distance: 14.47 km, Travel time: 33.72 min
+Tuscana Pizzeria : 4.00: Distance: 11.81 km, Travel time: 31.28 min
+Sigree : 4.20: Distance: 7.06 km, Travel time: 18.48 min
+Cream Centre : 4.30: Distance: 5.11 km, Travel time: 15.57 min
+Junior Kuppanna : 3.10: Distance: 11.12 km, Travel time: 26.63 min
+The Brew Room : 4.30: Distance: 2.14 km, Travel time: 8.05 min
+Upper Deck - Taj Fisherman's Cove Resort & Spa : 4.40: Distance: 4.69 km, Travel time: 14.88 min
+Sangeetha Veg Restaurant : 4.20: Distance: 18.04 km, Travel time: 41.23 min
+Pitcherr Perfect : 4.30: Distance: 21.35 km, Travel time: 46.72 min
+The Alcove : 4.40: Distance: 24.68 km, Travel time: 52.23 min
+Grill Wagon : 3.40: Distance: 11.49 km, Travel time: 26.80 min
+Mamagoto : 4.50: Distance: 11.22 km, Travel time: 26.92 min
+Paprika - Courtyard by Marriott : 3.90: Distance: 13.18 km, Travel time: 32.07 min
+Above Sea Level - The Raintree : 4.10: Distance: 15.22 km, Travel time: 36.37 min
+The Reef - Sheraton Grand : 4.30: Distance: 4.69 km, Travel time: 14.88 min
+Punjab Grill : 4.40: Distance: 17.80 km, Travel time: 42.47 min
+Soy Soi : 4.70: Distance: 16.11 km, Travel time: 37.78 min
+Hamsa : 4.50: Distance: 18.66 km, Travel time: 43.03 min
+Bombay Brasserie : 4.60: Distance: 11.44 km, Travel time: 27.40 min
+Azzuri Bay : 4.20: Distance: 19.38 km, Travel time: 45.47 min
+Annalakshmi Restaurant : 4.40: Distance: 10.39 km, Travel time: 24.30 min
+Savoury Sea Shell : 4.10: Distance: 6.20 km, Travel time: 18.50 min
+The Flying Elephant - Park Hyatt : 4.30: Distance: 16.12 km, Travel time: 37.75 min
+Amelie's : 4.10: Distance: 13.53 km, Travel time: 32.62 min
+Little Italy : 4.50: Distance: 21.28 km, Travel time: 49.67 min
+Ente Keralam : 4.30: Distance: 12.99 km, Travel time: 31.15 min
+Sandy's Chocolate Laboratory : 4.40: Distance: 10.96 km, Travel time: 26.42 min
+The Fat Boy : 4.30: Distance: 14.81 km, Travel time: 35.77 min
+MKC - Madras Kitchen Company : 4.70: Distance: 18.80 km, Travel time: 44.48 min
+Madras Pavilion - ITC Grand Chola : 4.30: Distance: 14.47 km, Travel time: 33.72 min
+Tuscana Pizzeria : 4.00: Distance: 11.81 km, Travel time: 31.28 min
+Sigree : 4.20: Distance: 7.06 km, Travel time: 18.48 min
+Cream Centre : 4.30: Distance: 5.11 km, Travel time: 15.57 min
+Junior Kuppanna : 3.10: Distance: 11.12 km, Travel time: 26.63 min
+The Brew Room : 4.30: Distance: 2.14 km, Travel time: 8.05 min
+Upper Deck - Taj Fisherman's Cove Resort & Spa : 4.40: Distance: 4.69 km, Travel time: 14.88 min
+Sangeetha Veg Restaurant : 4.20: Distance: 18.04 km, Travel time: 41.23 min
+Pitcherr Perfect : 4.30: Distance: 21.35 km, Travel time: 46.72 min
+The Alcove : 4.40: Distance: 24.68 km, Travel time: 52.23 min
+Grill Wagon : 3.40: Distance: 11.49 km, Travel time: 26.80 min

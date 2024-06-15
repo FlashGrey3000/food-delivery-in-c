@@ -5,6 +5,8 @@
 #include "map_functions.c"
 #include "weatherer.c"
 #include "sorting.c"
+#include "search.c"
+
 
 #define MAX_LENGTH 100
 
@@ -25,9 +27,10 @@ typedef struct {
     char password[MAX_LENGTH];
     char phone[MAX_LENGTH];
     Address address;
+    int user_is_loaded;
 } User;
 
-// Function prototypes
+
 void registerUser();
 void signIn();
 void changePassword(const char* username);
@@ -35,12 +38,12 @@ int user_exists(const char* username);
 void get_rest_dists(const char *username, const double lattitude, const double longitude);
 
 
-// Function to set text color
+
 void setTextColor(const char* colorCode) {
     printf("%s", colorCode);
 }
 
-// Function to reset text color
+
 void resetTextColor() {
     printf("\033[0m");
 }
@@ -134,21 +137,22 @@ void registerUser() {
 
     newUser.address.lattitude = lattitude;
     newUser.address.longitude = longitude;
+    newUser.user_is_loaded = 0;
+    
 
-    // Open the users file in append mode
+    
     usersFile = fopen("db/users.txt", "a");
     if (usersFile == NULL) {
         perror("Error opening users.txt");
         exit(1);
     }
 
-    // Append the new user data to the users file
-    fprintf(usersFile, "%s,%s,%s,%s,%s,%s,%s,%s,%s,%lf,%lf\n",newUser.name,newUser.username, newUser.password,
+    
+    fprintf(usersFile, "%s,%s,%s,%s,%s,%s,%s,%s,%s,%lf,%lf,%d\n",newUser.name,newUser.username, newUser.password,
                              newUser.phone, newUser.address.addr1, newUser.address.addr2, newUser.address.city, 
-                            newUser.address.state, newUser.address.pinCode, newUser.address.lattitude, newUser.address.longitude);
+                            newUser.address.state, newUser.address.pinCode, newUser.address.lattitude, newUser.address.longitude,newUser.user_is_loaded);
     fclose(usersFile);
 
-    // Create a new file for the user with the username as the filename
     char userFileName[MAX_LENGTH + 12];
     snprintf(userFileName, sizeof(userFileName), "db/user/%s.txt", newUser.username);
 
@@ -170,6 +174,7 @@ void registerUser() {
     fprintf(userFile, "Pin Code: %s\n", newUser.address.pinCode);
     fprintf(userFile, "Lattitude: %lf\n", newUser.address.lattitude);
     fprintf(userFile, "Longitude: %lf\n", newUser.address.longitude);
+    fprintf(userFile, "Loaded: %d\n", newUser.user_is_loaded);
     fclose(userFile);
 
     setTextColor(GREEN);
@@ -188,10 +193,10 @@ int user_exists(const char *username) {
 
     // Check each line in the users file for matching username
     User user;
-    while (fscanf(checkFile, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf", 
+    while (fscanf(checkFile, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf,%d", 
                   user.name, user.username, user.password, user.phone, 
                   user.address.addr1, user.address.addr2, user.address.city, 
-                  user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude) != EOF) {
+                  user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude, &user.user_is_loaded) != EOF) {
         if (strcmp(user.username, username) == 0) {
             found = 1;
             break;
@@ -212,7 +217,7 @@ void signIn() {
     printf("Enter password: ");
     scanf("%s", password);
 
-    // Open the users file in read mode
+    
     usersFile = fopen("db/users.txt", "r");
     if (usersFile == NULL) {
         perror("Error opening users.txt");
@@ -221,10 +226,10 @@ void signIn() {
 
     // Check each line in the users file for matching username and password
     User user;
-    while (fscanf(usersFile, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf", 
+    while (fscanf(usersFile, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf,%d", 
                   user.name, user.username, user.password, user.phone, 
                   user.address.addr1, user.address.addr2, user.address.city, 
-                  user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude) != EOF) {
+                  user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude, &user.user_is_loaded) != EOF) {
         if (strcmp(username, user.username) == 0 && strcmp(password, user.password) == 0) {
             found = 1;
             break;
@@ -241,17 +246,19 @@ void signIn() {
         Restaurant *restaurants = NULL;
         int n_rest = 0;
         get_rest_dists(username, user.address.lattitude, user.address.longitude);
+
         store_rests(username, &restaurants, &n_rest);
         while (1) {
             printf("1. Change Password\n");
             printf("2. Show Restaurants\n");
-            printf("3. Sign Out\n");
+            printf("3. Search\n");
+            printf("4. Sign Out\n");
             printf("Enter your choice: ");
             scanf("%d", &userChoice);
 
             if (userChoice == 1) {
                 changePassword(username);
-            } else if (userChoice == 3) {
+            } else if (userChoice == 4) {
                 setTextColor(BLUE);
                 printf("\nSigning out...\n\n");
                 resetTextColor();
@@ -275,8 +282,34 @@ void signIn() {
                     }
                     
                 }
-            } else if (userChoice == 4) {
-                
+            } else if (userChoice == 3) {
+                while(1) {
+                    printf("\nWhat do you want to search for- \n");
+                    printf("1. Restaurants\n");
+                    printf("2. Food\n");
+                    printf("Enter your choice: ");
+                    scanf("%d", &userChoice);
+                    char search_string[30];
+                    if (userChoice==1) {
+                        printf("Enter restaurant name: ");
+                        getchar();
+                        fgets(search_string, sizeof(search_string), stdin);
+                        search_string[strlen(search_string)]='\0';
+                        search_rest(search_string);
+                    }
+                    else if (userChoice==2) {
+                        printf("Enter food name: ");
+                        getchar();
+                        fgets(search_string, sizeof(search_string), stdin);
+                        search_string[strlen(search_string)]='\0';
+                        search_food(search_string);
+                    }
+                    else {
+                        setTextColor(YELLOW);
+                        printf("Invalid option. Try again.");
+                        resetTextColor();
+                    }
+                }
             } else {
                 setTextColor(YELLOW);
                 printf("Invalid choice. Please try again.\n");
@@ -367,10 +400,10 @@ void changePassword(const char* username) {
 
     User user;
     while (fgets(line, sizeof(line), file) != NULL) {
-        sscanf(line, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf", 
+        sscanf(line, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf,%d", 
                user.name, user.username, user.password, user.phone, 
                user.address.addr1, user.address.addr2, user.address.city, 
-               user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude);
+               user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude, &user.user_is_loaded);
 
         if (strcmp(user.username, username) == 0) {
             strcpy(user.password, newPassword);
@@ -399,5 +432,3 @@ void changePassword(const char* username) {
         resetTextColor();
     }
 }
-
-

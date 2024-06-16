@@ -2,10 +2,33 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <ctype.h>
 #include "colors.h"
 #include "map_functions.c"
+#include "sorting.c"
+#include "search.c"
+#include "weatherer.c"
 
 #define MAX_LENGTH 100
+
+// typedef struct {
+//     char name[100];
+//     float rating;
+//     float distance;
+//     float travel_time;
+// } Restaurant;
+typedef struct {
+    char name[100];
+    float price;
+    int quantity;
+} MenuItem;
+
+typedef struct {
+    char restaurant_name[100];
+    MenuItem *menu_items;
+    int menu_count;
+} RestaurantMenu;
+
 
 typedef struct {
     char addr1[MAX_LENGTH];
@@ -27,14 +50,32 @@ typedef struct {
 
 // Function prototypes
 int user_exists(const char* username);
+
 void setTextColor(const char* colorCode);
 void resetTextColor();
-void show_message_dialog(GtkWindow *parent, const char *message);
+
+void on_restaurant_button_clicked(GtkWidget *widget, gpointer data);
 void on_register_clicked(GtkWidget *widget, gpointer data);
 void activate(GtkApplication *app, gpointer user_data);
 void activate_reg(GtkWidget *widget, gpointer data);
+RestaurantMenu read_menu(const char *restaurant_name);
+
+void show_message_dialog(GtkWindow *parent, const char *message);
 void print_hello(GtkWidget *widget, gpointer data);
 void destroy_Window(GtkWidget *widget, gpointer data);
+//backend prototype
+void changePassword(const char* username);
+void get_rest_dists(const char *username, const double latitude, const double longitude);
+Restaurant *restaurants = NULL;
+
+void setTextColor(const char* colorCode) {
+    printf("%s", colorCode);
+}
+
+
+void resetTextColor() {
+    printf("\033[0m");
+}
 
 static GtkWidget *name_entry, *username_entry, *password_entry, *phone_entry;
 static GtkWidget *addr1_entry, *addr2_entry, *city_entry, *state_entry, *pinCode_entry;
@@ -61,13 +102,316 @@ static GtkWidget *latitude_entry, *longitude_entry, *conform_password_entry;
 
 //     gtk_window_set_child(GTK_WINDOW(window), new_box);
 // }
+void strip_endspaces(char *str) {
+    int len = strlen(str);
+    int i;
 
-void search_by_food(GtkWidget *widget, gpointer data) {
+    // Traverse from the end of the string towards the beginning
+    for (i = len - 1; i >= 0; i--) {
+        if (!isspace(str[i])) {
+            break;
+        }
+    }
+
+    // Null-terminate the string at the first non-space character from the end
+    str[i + 1] = '\0';
+}
+
+void on_restaurant_button_clicked(GtkWidget *widget, gpointer data) {
+    char *restaurant_name = (char *)data;
+    g_print("Restaurant: %s\n", restaurant_name);
+    strip_endspaces(restaurant_name);
+    read_menu(restaurant_name); 
+}
+
+// Function to read menu from file
+RestaurantMenu read_menu(const char *restaurant_name) {
+    RestaurantMenu menu;
+    strncpy(menu.restaurant_name, restaurant_name, sizeof(menu.restaurant_name) -2);
+    //menu.restaurant_name[sizeof(menu.restaurant_name) - 2] = '\0';  // Ensure null-termination
+    
+    char filename[150];
+    
+    snprintf(filename, sizeof(filename), "chennai_rest_minus/%s.txt", menu.restaurant_name);
+    printf("%s\n",filename);
+
+    FILE *file = fopen(filename, "r");
+    if (!file) {
+        perror("Failed to open file");
+        exit(EXIT_FAILURE);
+    }
+
+    menu.menu_items = malloc(100 * sizeof(MenuItem));
+    if (!menu.menu_items) {
+        perror("Failed to allocate memory");
+        fclose(file);
+        exit(EXIT_FAILURE);
+    }
+
+    char line[256];
+    int index = 0;
+    while (fgets(line, sizeof(line), file)) {
+        
+        char *first_comma = strchr(line, ',');
+        if (!first_comma) {
+            continue;  // Invalid line format, skip
+        }
+        
+        char *second_comma = strchr(first_comma + 1, ',');
+        if (!second_comma) {
+            continue;  
+        }
+
+        // Extract the item name (part between first and second comma)
+        char *name_start = first_comma + 1;
+        int name_length = second_comma - name_start;
+        strncpy(menu.menu_items[index].name, name_start, name_length);
+        menu.menu_items[index].name[name_length] = '\0';  // Ensure null-termination
+
+        // Extract the price and quantity
+        sscanf(second_comma + 1, "%f,%d", &menu.menu_items[index].price, &menu.menu_items[index].quantity);
+        index++;
+    }
+    menu.menu_count = index;
+    fclose(file);
+
+    return menu;
+}
+
+// Function to handle quantity changes
+void on_quantity_changed(GtkWidget *widget, gpointer data) {
+    int *quantity = (int *)data;
+    if (strcmp(gtk_button_get_label(GTK_BUTTON(widget)), "+") == 0) {
+        (*quantity)++;
+    } else {
+        if (*quantity > 0) {
+            (*quantity)--;
+        }
+    }
+    char buffer[10];
+    snprintf(buffer, sizeof(buffer), "%d", *quantity);
+    gtk_button_set_label(GTK_BUTTON(widget), buffer);
+}
+
+// Function to handle confirm order
+void on_confirm_order_clicked(GtkWidget *widget, gpointer data) {
+    RestaurantMenu *menu = (RestaurantMenu *)data;
+
+    char filename[150];
+    snprintf(filename, sizeof(filename), "%s_order.txt", menu->restaurant_name);
+
+    FILE *file = fopen(filename, "w");
+    if (!file) {
+        perror("Failed to open file");
+        exit(EXIT_FAILURE);
+    }
+
+    for (int i = 0; i < menu->menu_count; i++) {
+        if (menu->menu_items[i].quantity > 0) {
+            fprintf(file, "%s,%.2f,%d\n", menu->menu_items[i].name, menu->menu_items[i].price, menu->menu_items[i].quantity);
+        }
+    }
+
+    fclose(file);
+    g_print("Order confirmed and saved to %s\n", filename);
+}
+
+// Function to create the menu window
+void show_menu_window(GtkWidget *widget, gpointer data) {
+    char *restaurant_name = (char *)data;
+    g_print("Restaurant: %s\n", restaurant_name);
+    strip_endspaces(restaurant_name);
+    //read_menu(restaurant_name); 
+    RestaurantMenu menu = read_menu(restaurant_name);
+
+    GtkWidget *window = gtk_window_new();
+    gtk_window_set_title(GTK_WINDOW(window), menu.restaurant_name);
+    gtk_window_set_default_size(GTK_WINDOW(window), 800, 600);
+
+    GtkWidget *scrolled_window = gtk_scrolled_window_new();
+    gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_AUTOMATIC);
+    gtk_window_set_child(GTK_WINDOW(window), scrolled_window);
+
+    GtkWidget *grid = gtk_grid_new();
+    gtk_grid_set_column_homogeneous(GTK_GRID(grid), TRUE);
+    gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), grid);
+
+    // Add headers
+    GtkWidget *header_label;
+    header_label = gtk_label_new("Serial No");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 0, 0, 1, 1);
+
+    header_label = gtk_label_new("Dish Name");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 1, 0, 1, 1);
+
+    header_label = gtk_label_new("Price");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 2, 0, 1, 1);
+
+    header_label = gtk_label_new("Quantity");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 3, 0, 1, 1);
+
+    header_label = gtk_label_new("Add");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 4, 0, 1, 1);
+
+    header_label = gtk_label_new("Remove");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 5, 0, 1, 1);
+
+    for (int i = 0; i < menu.menu_count; i++) {
+        char buffer[256];
+        snprintf(buffer, sizeof(buffer), "%d", i + 1);
+        GtkWidget *label = gtk_label_new(buffer);
+        gtk_grid_attach(GTK_GRID(grid), label, 0, i + 1, 1, 1);
+
+        label = gtk_label_new(menu.menu_items[i].name);
+        gtk_grid_attach(GTK_GRID(grid), label, 1, i + 1, 1, 1);
+
+        snprintf(buffer, sizeof(buffer), "%.2f", menu.menu_items[i].price);
+        label = gtk_label_new(buffer);
+        gtk_grid_attach(GTK_GRID(grid), label, 2, i + 1, 1, 1);
+
+        snprintf(buffer, sizeof(buffer), "%d", menu.menu_items[i].quantity);
+        GtkWidget *quantity_label = gtk_label_new(buffer);
+        gtk_grid_attach(GTK_GRID(grid), quantity_label, 3, i + 1, 1, 1);
+
+        GtkWidget *plus_button = gtk_button_new_with_label("+");
+        g_signal_connect(plus_button, "clicked", G_CALLBACK(on_quantity_changed), &menu.menu_items[i].quantity);
+        gtk_grid_attach(GTK_GRID(grid), plus_button, 4, i + 1, 1, 1);
+
+        GtkWidget *minus_button = gtk_button_new_with_label("-");
+        g_signal_connect(minus_button, "clicked", G_CALLBACK(on_quantity_changed), &menu.menu_items[i].quantity);
+        gtk_grid_attach(GTK_GRID(grid), minus_button, 5, i + 1, 1, 1);
+    }
+
+    GtkWidget *confirm_button = gtk_button_new_with_label("Confirm Order");
+    g_signal_connect(confirm_button, "clicked", G_CALLBACK(on_confirm_order_clicked), &menu);
+    gtk_grid_attach(GTK_GRID(grid), confirm_button, 0, menu.menu_count + 1, 6, 1);
+
+    gtk_widget_show(window);
+}
+
+
+
+
+void create_restaurant_buttons(GtkWidget *box, Restaurant *restaurants, int count) {
+    for (int i = 0; i < count; i++) {
+        char label_text[256];
+        snprintf(label_text, sizeof(label_text), "%d. %s\nRating: %.2f\nDistance: %.2f km\nTravel Time: %.2f min",
+                 i + 1, restaurants[i].name, restaurants[i].rating, restaurants[i].distance, restaurants[i].travel_time);
+
+        GtkWidget *button = gtk_button_new_with_label(label_text);
+        g_signal_connect(button, "clicked", G_CALLBACK(show_menu_window), g_strdup(restaurants[i].name));
+        gtk_box_append(GTK_BOX(box), button);
+    }
+}
+
+
+void on_Sort_by_Rating_clicked(GtkWidget *widget, gpointer data) {
+    GtkWidget *window;
+    int n_rest = 29;
+    //Restaurant *restaurants = NULL;
+
+    //store_rests(username, &restaurants, &n_rest);
+    sort_rests(2, restaurants, n_rest);
+    
+    window = gtk_window_new();
+    gtk_window_set_title(GTK_WINDOW(window), "Sort by Rating");
+    gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
+
+    // Create a scrolled window
+    GtkWidget *scrolled_window = gtk_scrolled_window_new();
+    gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_ALWAYS);
+    gtk_window_set_child(GTK_WINDOW(window), scrolled_window);
+
+    // Create a box to hold the restaurant buttons
+    GtkWidget *box = gtk_box_new(GTK_ORIENTATION_VERTICAL, 5);
+    gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), box);
+
+    // Create and add restaurant buttons to the box
+    create_restaurant_buttons(box, restaurants, n_rest);
+
+    gtk_widget_show(window);
     
 
 
+}
+void on_Sort_by_Distance_clicked(GtkWidget *widget, gpointer data) {
+    GtkWidget *window;
+    int n_rest = 29;
+    
+    //Restaurant *restaurants = NULL;
+     // Allocate memory for restaurants
+    //restaurants = malloc(100 * sizeof(Restaurant));
+    //if (!restaurants) {
+    //    perror("Failed to allocate memory");
+    //  exit(EXIT_FAILURE);
+    //}
+    //store_rests(username, &restaurants, &n_rest);
+    sort_rests(1, restaurants, n_rest);
 
+    window = gtk_window_new();
+    gtk_window_set_title(GTK_WINDOW(window), "Sorted by Distance");
+    gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
 
+    // Create a scrolled window
+    GtkWidget *scrolled_window = gtk_scrolled_window_new();
+    gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_ALWAYS);
+    gtk_window_set_child(GTK_WINDOW(window), scrolled_window);
+
+    // Create a box to hold the restaurant buttons
+    GtkWidget *box = gtk_box_new(GTK_ORIENTATION_VERTICAL, 5);
+    gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), box);
+
+    // Create and add restaurant buttons to the box
+    create_restaurant_buttons(box, restaurants, n_rest);
+
+    gtk_widget_show(window);
+     // Free allocated memory
+    //free(restaurants);
+}
+
+void on_search_by_food_clicked(GtkWidget *widget, gpointer data) {
+    GtkWidget *window;
+    GtkWidget *button1;
+    GtkWidget *button2;
+    GtkWidget *button3;
+    //GtkWidget *button4;
+    GtkWidget *grid;
+    //GtkWindow *parent_window = GTK_WINDOW(gtk_widget_get_ancestor(widget, GTK_TYPE_WINDOW));
+    
+    //GtkApplicationWindow *app = GTK_APPLICATION_WINDOW(data);
+    window = gtk_window_new();
+    gtk_window_set_title(GTK_WINDOW(window), "SORTING");
+    gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
+
+    grid = gtk_grid_new();
+    gtk_grid_set_row_spacing(GTK_GRID(grid), 7);
+    gtk_grid_set_column_spacing(GTK_GRID(grid), 5);
+    gtk_widget_set_halign(grid, GTK_ALIGN_CENTER);
+    gtk_widget_set_valign(grid, GTK_ALIGN_CENTER);
+
+    gtk_window_set_child(GTK_WINDOW(window), grid);
+
+    button1 = gtk_button_new_with_label("1. Sort by Distance");
+    button2 = gtk_button_new_with_label("2. Sort by Rating");
+    button3 = gtk_button_new_with_label("<--Back");
+    //button4 = gtk_button_new_with_label("4. Sign Out");
+
+    g_signal_connect(button1, "clicked", G_CALLBACK(on_Sort_by_Distance_clicked), window);
+    g_signal_connect(button2, "clicked", G_CALLBACK(on_Sort_by_Rating_clicked), window);
+    g_signal_connect(button3, "clicked", G_CALLBACK(destroy_Window), window);
+    //g_signal_connect(button4, "clicked", G_CALLBACK(destroy_Window), window);
+
+    gtk_grid_attach(GTK_GRID(grid), button1, 0, 0, 3, 1);
+    gtk_grid_attach(GTK_GRID(grid), button2, 0, 2, 3, 1);
+    gtk_grid_attach(GTK_GRID(grid), button3, 1, 4, 1, 1);
+    //gtk_grid_attach(GTK_GRID(grid), button4, 0, 6, 1, 1);
+
+    gtk_widget_set_visible(button1, TRUE);
+    gtk_widget_set_visible(button2, TRUE);
+    gtk_widget_set_visible(button3, TRUE);
+    //gtk_widget_set_visible(button4, TRUE);
+
+    gtk_window_present(GTK_WINDOW(window));
 }
 
 
@@ -79,6 +423,7 @@ void active_options(GtkWidget *widget, gpointer data) {
     GtkWidget *button4;
     GtkWidget *grid;
 
+    //GtkApplicationWindow *app = gtk_application_new("com.example.GtkApplication",G_APPLICATION_FLAGS_NONE);
     GtkApplication *app = GTK_APPLICATION(data);
     window = gtk_application_window_new(app);
     gtk_window_set_title(GTK_WINDOW(window), "SORTING");
@@ -99,8 +444,8 @@ void active_options(GtkWidget *widget, gpointer data) {
     button3 = gtk_button_new_with_label("3. Change Password");
     button4 = gtk_button_new_with_label("4. Sign Out");
 
-    g_signal_connect(button1, "clicked", G_CALLBACK(print_hello), NULL);
-    g_signal_connect(button2, "clicked", G_CALLBACK(print_hello), window);
+    g_signal_connect(button1, "clicked", G_CALLBACK(on_search_by_food_clicked), window);
+    g_signal_connect(button2, "clicked", G_CALLBACK(on_search_by_food_clicked), window);
     g_signal_connect(button3, "clicked", G_CALLBACK(print_hello), window);
     g_signal_connect(button4, "clicked", G_CALLBACK(destroy_Window), window);
 
@@ -158,13 +503,21 @@ void on_login_clicked(GtkWidget *widget, gpointer data) {
                   user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude) != EOF) {
         if (strcmp(username, user.username) == 0 && strcmp(password, user.password) == 0) {
             found = 1;
+
+            
+            
+            int n_rest = 0;
+            //undo the comment
+            //get_rest_dists(username, user.address.lattitude, user.address.longitude);
+            store_rests(username, &restaurants, &n_rest);
+
             break;
         }
     }
 
     fclose(usersFile);
 
-    if (found) {
+    if (found==1) {
         Next_button = gtk_button_new_with_label("Next-->");
         g_signal_connect(Next_button, "clicked", G_CALLBACK(active_options), app);
         gtk_grid_attach(GTK_GRID(grid), Next_button, 2, 7, 1, 1);
@@ -173,10 +526,10 @@ void on_login_clicked(GtkWidget *widget, gpointer data) {
 
         } else {
             
-        g_print("\n=============  Error: Incorrect username or password  =============\n\n");
+            g_print("\n=============  Error: Incorrect username or password  =============\n\n");
 
-        char *message = "User Name & Passwords do not match.\n Please try again.";
-        show_message_dialog(parent_window, message);
+            char *message = "User Name & Passwords do not match.\n Please try again.";
+            show_message_dialog(parent_window, message);
         }
 }
 
@@ -203,18 +556,18 @@ void on_register_clicked(GtkWidget *widget, gpointer data) {
     //}
 
     const char *password;
-    while (1) {
+    //while (1) {
         password = gtk_entry_buffer_get_text(gtk_entry_get_buffer(GTK_ENTRY(password_entry)));
         const char *conf_pass = gtk_entry_buffer_get_text(gtk_entry_get_buffer(GTK_ENTRY(conform_password_entry)));
 
         if (strcmp(password, conf_pass) == 0) {
-            break;
+            //break;
         } else {
             const char *message = "Passwords do not match. Please try again.";
             GtkWindow *popup_window = GTK_WINDOW(data);
             show_message_dialog(popup_window, message);
         }
-    }
+    //}
 
     const char *phone = gtk_entry_buffer_get_text(gtk_entry_get_buffer(GTK_ENTRY(phone_entry)));
     const char *addr1 = gtk_entry_buffer_get_text(gtk_entry_get_buffer(GTK_ENTRY(addr1_entry)));
@@ -517,4 +870,118 @@ void show_message_dialog(GtkWindow *parent, const char *message) {
 
     g_signal_connect(dialog, "response", G_CALLBACK(gtk_window_close), dialog);
     gtk_widget_show(dialog);
+}
+
+//getting resturant distance
+void get_rest_dists(const char *username, const double latitude, const double longitude) {
+    FILE *file, *userFile;
+    double rest_lat, rest_long;
+    float rating;
+    char rest_name[MAX_LENGTH];
+    char line[1024];
+    float travelTime, travelDistance;
+
+    char userFileName[MAX_LENGTH + 12];
+    snprintf(userFileName, sizeof(userFileName), "db/user/%s.txt", username);
+    userFile = fopen(userFileName, "a");
+    if (userFile == NULL) {
+        perror("Error opening user file");
+        exit(1);
+    }
+
+    file = fopen("city_wise_rests/zomato_chennai.txt", "r");
+    if (file == NULL) {
+        perror("Error opening restaurant file");
+        fclose(userFile);
+        exit(1);
+    }
+
+    int count = 0;
+
+    while ((fgets(line, sizeof(line), file) != NULL) && count<50) {
+        count++;
+        if (sscanf(line, "%[^:]: %f :%*[^:]:%*[^:]:%*[^:]: %lf : %lf", rest_name, &rating, &rest_lat, &rest_long) == 4) {
+            get_distance(latitude, longitude, rest_lat, rest_long, &travelDistance, &travelTime);
+            if (travelDistance >= 0 && travelTime >= 0) { // Ensure valid distances and times
+                fprintf(userFile, "%s: %.2f: Distance: %.2f km, Travel time: %.2f min\n", rest_name, rating, travelDistance, travelTime);
+            } else {
+                fprintf(stderr, "Error retrieving distance or time for %s\n", rest_name);
+            }
+        } else {
+            fprintf(stderr, "Error parsing latitude and longitude from line: %s\n", line);
+        }
+    }
+
+    fclose(file);
+    fclose(userFile);
+}
+
+
+//change password
+void changePassword(const char* username) {
+    char newPassword[MAX_LENGTH];
+    char confPassword[MAX_LENGTH];
+    FILE *file, *tempFile;
+    char line[1024];
+    int found = 0;
+
+    printf("Enter new password: ");
+    scanf("%s", newPassword);
+    printf("Confirm new password: ");
+    scanf("%s", confPassword);
+
+    if (strcmp(newPassword, confPassword) != 0) {
+        setTextColor(RED);
+        printf("Passwords do not match. Please try again.\n");
+        resetTextColor();
+        return;
+    }
+
+    file = fopen("db/users.txt", "r");
+    if (file == NULL) {
+        perror("Error opening users.txt");
+        exit(1);
+    }
+
+    tempFile = fopen("db/temp.txt", "w");
+    if (tempFile == NULL) {
+        perror("Error opening temp.txt");
+        fclose(file);
+        exit(1);
+    }
+
+    User user;
+    while (fgets(line, sizeof(line), file) != NULL) {
+        sscanf(line, "%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%99[^,],%lf,%lf", 
+               user.name, user.username, user.password, user.phone, 
+               user.address.addr1, user.address.addr2, user.address.city, 
+               user.address.state, user.address.pinCode, &user.address.lattitude, &user.address.longitude);
+
+        if (strcmp(user.username, username) == 0) {
+            strcpy(user.password, newPassword);
+            found = 1;
+        }
+
+        fprintf(tempFile, "%s,%s,%s,%s,%s,%s,%s,%s,%s,%lf,%lf\n",
+                user.name, user.username, user.password, user.phone,
+                user.address.addr1, user.address.addr2, user.address.city,
+                user.address.state, user.address.pinCode, user.address.lattitude, user.address.longitude);
+    }
+
+    fclose(file);
+    fclose(tempFile);
+
+    //goes into active password
+    if (found) {
+        remove("db/users.txt");
+        rename("db/temp.txt", "db/users.txt");
+        setTextColor(GREEN);
+        printf("Password changed successfully.\n");
+        resetTextColor();
+    } else {
+        remove("db/temp.txt");
+        setTextColor(RED);
+        printf("Error: Username not found.\n");
+        resetTextColor();
+    }
 }

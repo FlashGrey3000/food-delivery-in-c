@@ -1,7 +1,7 @@
-Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
-The Flying Elephant, BBQ Pork Ribs, ₹500, American, all seasons
-The Flying Elephant, Grilled Lamb Chops, ₹600, Continental, all seasons
-The Flying Elephant, Caesar Salad, ₹350, Continental, hot sunny days
-The Flying Elephant, Margherita Pizza, ₹400, Italian, all seasons
-The Flying Elephant, Chocolate Fondant, ₹250, Dessert, cold winters
-The Flying Elephant, Mango Smoothie, ₹200, Beverage, hot sunny days
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for, FID
+The Flying Elephant, BBQ Pork Ribs, ₹500, American, all seasons, 2601
+The Flying Elephant, Grilled Lamb Chops, ₹600, Continental, all seasons, 2602
+The Flying Elephant, Caesar Salad, ₹350, Continental, hot sunny days, 2603
+The Flying Elephant, Margherita Pizza, ₹400, Italian, all seasons, 2604
+The Flying Elephant, Chocolate Fondant, ₹250, Dessert, cold winters, 2605
+The Flying Elephant, Mango Smoothie, ₹200, Beverage, hot sunny days, 2606

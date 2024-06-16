@@ -1,7 +1,7 @@
-Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
-Savoury Seashell, Grilled Prawns, ₹450, Seafood, all seasons
-Savoury Seashell, Fish Curry, ₹400, Seafood, rainy seasons
-Savoury Seashell, Chicken Tikka, ₹350, North Indian, all seasons
-Savoury Seashell, Mutton Biryani, ₹400, Indian, all seasons
-Savoury Seashell, Paneer Butter Masala, ₹300, North Indian, all seasons
-Savoury Seashell, Lassi, ₹100, Beverage, hot sunny days
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for, FID
+Savoury Seashell, Grilled Prawns, ₹450, Seafood, all seasons, 2001
+Savoury Seashell, Fish Curry, ₹400, Seafood, rainy seasons, 2002
+Savoury Seashell, Chicken Tikka, ₹350, North Indian, all seasons, 2003
+Savoury Seashell, Mutton Biryani, ₹400, Indian, all seasons, 2004
+Savoury Seashell, Paneer Butter Masala, ₹300, North Indian, all seasons, 2005
+Savoury Seashell, Lassi, ₹100, Beverage, hot sunny days, 2006

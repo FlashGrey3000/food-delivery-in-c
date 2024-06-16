@@ -1,7 +1,7 @@
-Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
-The Fat Boy, BBQ Ribs, ₹450, American, all seasons
-The Fat Boy, Buffalo Wings, ₹300, American, all seasons
-The Fat Boy, Cheeseburger, ₹350, American, all seasons
-The Fat Boy, Loaded Fries, ₹250, American, all seasons
-The Fat Boy, Chocolate Milkshake, ₹180, Beverage, hot sunny days
-The Fat Boy, Pulled Pork Sandwich, ₹400, American, all seasons
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for, FID
+The Fat Boy, BBQ Ribs, ₹450, American, all seasons, 2501
+The Fat Boy, Buffalo Wings, ₹300, American, all seasons, 2502
+The Fat Boy, Cheeseburger, ₹350, American, all seasons, 2503
+The Fat Boy, Loaded Fries, ₹250, American, all seasons, 2504
+The Fat Boy, Chocolate Milkshake, ₹180, Beverage, hot sunny days, 2505
+The Fat Boy, Pulled Pork Sandwich, ₹400, American, all seasons, 2506

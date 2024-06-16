@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Define structures
 typedef struct {
     int* items;
     int count;
@@ -14,7 +13,7 @@ typedef struct {
     int support;
 } Itemset;
 
-// Function prototypes
+
 void generate_candidates(Itemset* previous_level, int previous_count, Itemset** candidates, int* candidate_count, int itemset_size);
 void count_support(Transaction* transactions, int transaction_count, Itemset* candidates, int candidate_count);
 void prune_candidates(Itemset** candidates, int* candidate_count, int min_support);

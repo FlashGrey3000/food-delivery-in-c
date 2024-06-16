@@ -78,6 +78,15 @@ void update_ratings(const char rest_name[], int user_rating) {
     }
 }
 
+void write_transaction(const cart *row, int size){
+    FILE *f = fopen("transactions.txt", "a");
+    for (int i = 0; i < size; i++) {
+        if (row[i].food_name[0] != '\0') {
+            fprintf(f, "%-6d %-20s %-20s %-10d %-10d %-10d\n", i + 1, row[i].rest_name, row[i].food_name, row[i].quantity, row[i].price, row[i].total);
+        }
+    }
+}
+
 int main() {
     const char rest[50];
     char food[30];
@@ -119,6 +128,7 @@ int main() {
                 printf("Enter your star rating (1-5) for this order: ");
                 scanf("%d", &user_rating);
                 update_ratings(rest, user_rating);
+                write_transaction(row, size)
                 break;
              default:
                 printf("Invalid choice. Please try again.\n");

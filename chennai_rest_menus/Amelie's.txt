@@ -1,7 +1,7 @@
-Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for
-Amelie's, French Onion Soup, ₹200, French, cold winters
-Amelie's, Caesar Salad, ₹250, Continental, hot sunny days
-Amelie's, Grilled Chicken Sandwich, ₹300, Continental, all seasons
-Amelie's, Classic Cheeseburger, ₹350, American, all seasons
-Amelie's, Spaghetti Carbonara, ₹400, Italian, all seasons
-Amelie's, Tiramisu, ₹150, Dessert, all seasons
+Restaurant Name, Dish Name, Price, Cuisine Type, Suitable for, FID
+Amelie's, French Onion Soup, ₹200, French, cold winters, 201
+Amelie's, Caesar Salad, ₹250, Continental, hot sunny days, 202
+Amelie's, Grilled Chicken Sandwich, ₹300, Continental, all seasons, 203
+Amelie's, Classic Cheeseburger, ₹350, American, all seasons, 204
+Amelie's, Spaghetti Carbonara, ₹400, Italian, all seasons, 205
+Amelie's, Tiramisu, ₹150, Dessert, all seasons, 206

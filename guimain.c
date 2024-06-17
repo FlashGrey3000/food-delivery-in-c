@@ -21,6 +21,7 @@ typedef struct {
     char name[100];
     float price;
     int quantity;
+    int fid;
 } MenuItem;
 
 typedef struct {
@@ -60,6 +61,7 @@ void activate(GtkApplication *app, gpointer user_data);
 void activate_reg(GtkWidget *widget, gpointer data);
 RestaurantMenu read_menu(const char *restaurant_name);
 
+void show_order_summary(GtkWidget *widget, gpointer data);
 void show_message_dialog(GtkWindow *parent, const char *message);
 void print_hello(GtkWidget *widget, gpointer data);
 void destroy_Window(GtkWidget *widget, gpointer data);
@@ -76,6 +78,26 @@ void setTextColor(const char* colorCode) {
 void resetTextColor() {
     printf("\033[0m");
 }
+
+void destroy_data(gpointer data) {
+    g_free(data);
+    printf("Data has been freed.\n");
+}
+
+void print_menu(RestaurantMenu* menu) {
+    printf("Restaurant Name: %s\n", menu->restaurant_name);
+    printf("Menu:\n");
+    printf("%-20s %-10s %-10s %-10s\n", "Dish Name", "Price", "Quantity", "FID");
+    printf("---------------------------------------------------------\n");
+    for (int i = 0; i < menu->menu_count; i++) {
+        printf("%-20s ₹%-9.2f %-10d %-10d\n",
+               menu->menu_items[i].name,
+               menu->menu_items[i].price,
+               menu->menu_items[i].quantity,
+               menu->menu_items[i].fid);
+    }
+}
+
 
 static GtkWidget *name_entry, *username_entry, *password_entry, *phone_entry;
 static GtkWidget *addr1_entry, *addr2_entry, *city_entry, *state_entry, *pinCode_entry;
@@ -124,16 +146,24 @@ void on_restaurant_button_clicked(GtkWidget *widget, gpointer data) {
     read_menu(restaurant_name); 
 }
 
+void on_confirm_order_clicked(GtkWidget *widget, gpointer data) {
+    printf("working\n");
+    RestaurantMenu *menu = (RestaurantMenu *)data;
+    printf("working\n");
+    show_order_summary(widget, menu);
+    printf("working\n");
+    
+}
+
 // Function to read menu from file
 RestaurantMenu read_menu(const char *restaurant_name) {
     RestaurantMenu menu;
-    strncpy(menu.restaurant_name, restaurant_name, sizeof(menu.restaurant_name) -2);
-    //menu.restaurant_name[sizeof(menu.restaurant_name) - 2] = '\0';  // Ensure null-termination
-    
+    strncpy(menu.restaurant_name, restaurant_name, sizeof(menu.restaurant_name) - 1);
+    menu.restaurant_name[sizeof(menu.restaurant_name) - 1] = '\0';  // Ensure null-termination
+
     char filename[150];
-    
-    snprintf(filename, sizeof(filename), "chennai_rest_minus/%s.txt", menu.restaurant_name);
-    printf("%s\n",filename);
+    snprintf(filename, sizeof(filename), "chennai_rest_menus/%s.txt", menu.restaurant_name);
+    printf("Opening file: %s\n", filename);
 
     FILE *file = fopen(filename, "r");
     if (!file) {
@@ -151,7 +181,13 @@ RestaurantMenu read_menu(const char *restaurant_name) {
     char line[256];
     int index = 0;
     while (fgets(line, sizeof(line), file)) {
+        // Skip header line
+        if (index == 0) {
+            index++;
+            continue;
+        }
         
+        // Find commas
         char *first_comma = strchr(line, ',');
         if (!first_comma) {
             continue;  // Invalid line format, skip
@@ -159,22 +195,48 @@ RestaurantMenu read_menu(const char *restaurant_name) {
         
         char *second_comma = strchr(first_comma + 1, ',');
         if (!second_comma) {
-            continue;  
+            continue;  // Invalid line format, skip
+        }
+
+        char *third_comma = strchr(second_comma + 1, ',');
+        if (!third_comma) {
+            continue;  // Invalid line format, skip
+        }
+
+        char *fourth_comma = strchr(third_comma + 1, ',');
+        if (!fourth_comma) {
+            continue;  // Invalid line format, skip
+        }
+
+        char *fifth_comma = strchr(fourth_comma + 1, ',');
+        if (!fifth_comma) {
+            continue;  // Invalid line format, skip
         }
 
         // Extract the item name (part between first and second comma)
         char *name_start = first_comma + 1;
         int name_length = second_comma - name_start;
-        strncpy(menu.menu_items[index].name, name_start, name_length);
-        menu.menu_items[index].name[name_length] = '\0';  // Ensure null-termination
+        strncpy(menu.menu_items[index - 1].name, name_start, name_length);
+        menu.menu_items[index - 1].name[name_length] = '\0';  // Ensure null-termination
 
-        // Extract the price and quantity
-        sscanf(second_comma + 1, "%f,%d", &menu.menu_items[index].price, &menu.menu_items[index].quantity);
+        // Extract the price
+        float price;
+        sscanf(second_comma + 2, "₹%f", &price);
+        menu.menu_items[index - 1].price = price;
+
+        // Extract the FID
+        int fid;
+        sscanf(fifth_comma + 1, "%d", &fid);
+        menu.menu_items[index - 1].fid = fid;
+
+        // Initialize quantity to 0
+        menu.menu_items[index - 1].quantity = 0;
+
         index++;
     }
-    menu.menu_count = index;
+    menu.menu_count = index - 1;  // Adjusting for the skipped header line
     fclose(file);
-
+    print_menu(&menu);
     return menu;
 }
 
@@ -191,37 +253,103 @@ void on_quantity_changed(GtkWidget *widget, gpointer data) {
     char buffer[10];
     snprintf(buffer, sizeof(buffer), "%d", *quantity);
     gtk_button_set_label(GTK_BUTTON(widget), buffer);
+    //quantity = gtk_spin_button_new_with_range(-90.0, 90.0, 0.0001);
 }
 
-// Function to handle confirm order
-void on_confirm_order_clicked(GtkWidget *widget, gpointer data) {
+// Additional function to handle quantity changes
+void on_quantity_value_changed(GtkWidget *widget, gpointer data) {
+    MenuItem *menu_item = (MenuItem *)data;
+    menu_item->quantity = gtk_spin_button_get_value_as_int(GTK_SPIN_BUTTON(widget));
+    //printf("%d",menu_item->quantity);
+}
+
+void show_order_summary(GtkWidget *widget, gpointer data) {
+    printf("working\n");
+    //GtkWindow *parent_window = GTK_WINDOW(gtk_widget_get_ancestor(widget, GTK_TYPE_WINDOW));
+    //RestaurantMenu *menu = (RestaurantMenu* )g_object_get_data(gtk_widget_get_ancestor(widget, G_OBJECT), "menu-data");
     RestaurantMenu *menu = (RestaurantMenu *)data;
+    print_menu(menu);
+    printf("working\n");
+    GtkWidget *window = gtk_window_new();
+    gtk_window_set_title(GTK_WINDOW(window), "Order Summary");
+    gtk_window_set_default_size(GTK_WINDOW(window), 800, 600);
 
-    char filename[150];
-    snprintf(filename, sizeof(filename), "%s_order.txt", menu->restaurant_name);
+    GtkWidget *scrolled_window = gtk_scrolled_window_new();
+    gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_AUTOMATIC);
+    gtk_window_set_child(GTK_WINDOW(window), scrolled_window);
 
-    FILE *file = fopen(filename, "w");
+    GtkWidget *grid = gtk_grid_new();
+    gtk_grid_set_column_homogeneous(GTK_GRID(grid), TRUE);
+    gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), grid);
+
+    // Add headers
+    GtkWidget *header_label;
+    header_label = gtk_label_new("S_NO.");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 0, 0, 1, 1);
+
+    header_label = gtk_label_new("Dish Name");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 1, 0, 1, 1);
+
+    header_label = gtk_label_new("Quantity");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 2, 0, 1, 1);
+
+    FILE *file = fopen("order_hist/fid_hist.txt", "a");
     if (!file) {
-        perror("Failed to open file");
+        perror("Failed to open fid_hist.txt");
         exit(EXIT_FAILURE);
     }
+    
+    print_menu(menu);
 
+    int row = 1;
     for (int i = 0; i < menu->menu_count; i++) {
+        printf("Working\%d\n",i);
         if (menu->menu_items[i].quantity > 0) {
-            fprintf(file, "%s,%.2f,%d\n", menu->menu_items[i].name, menu->menu_items[i].price, menu->menu_items[i].quantity);
+            printf("Working\%d\n",i);
+            char buffer[256];
+            
+
+            // Add Serial Number
+            snprintf(buffer, sizeof(buffer), "%d", row);
+            GtkWidget *label = gtk_label_new(buffer);
+            gtk_grid_attach(GTK_GRID(grid), label, 0, row, 1, 1);
+
+            // Add Dish Name
+            label = gtk_label_new(menu->menu_items[i].name);
+            gtk_grid_attach(GTK_GRID(grid), label, 1, row, 1, 1);
+
+            // Add Quantity
+            snprintf(buffer, sizeof(buffer), "%d", menu->menu_items[i].quantity);
+            label = gtk_label_new(buffer);
+            gtk_grid_attach(GTK_GRID(grid), label, 2, row, 1, 1);
+
+            fprintf(file, "%d\n", menu->menu_items[i].fid); // Log the FID
+
+            row++;
         }
     }
-
     fclose(file);
-    g_print("Order confirmed and saved to %s\n", filename);
+
+    // Add buttons at the bottom
+    GtkWidget *button1 = gtk_button_new_with_label("Button 1");
+    gtk_grid_attach(GTK_GRID(grid), button1, 0, row + 1, 1, 1);
+
+    GtkWidget *button2 = gtk_button_new_with_label("Button 2");
+    gtk_grid_attach(GTK_GRID(grid), button2, 1, row + 1, 1, 1);
+
+    GtkWidget *button3 = gtk_button_new_with_label("Button 3");
+    gtk_grid_attach(GTK_GRID(grid), button3, 2, row + 1, 1, 1);
+
+    gtk_widget_show(window);
 }
+
 
 // Function to create the menu window
 void show_menu_window(GtkWidget *widget, gpointer data) {
     char *restaurant_name = (char *)data;
     g_print("Restaurant: %s\n", restaurant_name);
     strip_endspaces(restaurant_name);
-    //read_menu(restaurant_name); 
+     
     RestaurantMenu menu = read_menu(restaurant_name);
 
     GtkWidget *window = gtk_window_new();
@@ -250,12 +378,7 @@ void show_menu_window(GtkWidget *widget, gpointer data) {
     header_label = gtk_label_new("Quantity");
     gtk_grid_attach(GTK_GRID(grid), header_label, 3, 0, 1, 1);
 
-    header_label = gtk_label_new("Add");
-    gtk_grid_attach(GTK_GRID(grid), header_label, 4, 0, 1, 1);
-
-    header_label = gtk_label_new("Remove");
-    gtk_grid_attach(GTK_GRID(grid), header_label, 5, 0, 1, 1);
-
+    
     for (int i = 0; i < menu.menu_count; i++) {
         char buffer[256];
         snprintf(buffer, sizeof(buffer), "%d", i + 1);
@@ -269,22 +392,27 @@ void show_menu_window(GtkWidget *widget, gpointer data) {
         label = gtk_label_new(buffer);
         gtk_grid_attach(GTK_GRID(grid), label, 2, i + 1, 1, 1);
 
-        snprintf(buffer, sizeof(buffer), "%d", menu.menu_items[i].quantity);
-        GtkWidget *quantity_label = gtk_label_new(buffer);
-        gtk_grid_attach(GTK_GRID(grid), quantity_label, 3, i + 1, 1, 1);
+        //snprintf(buffer, sizeof(buffer), "%d", menu.menu_items[i].quantity);
+        GtkWidget *quantity_spin_button = gtk_spin_button_new_with_range(0.0, 90.0, 1.0);
+        gtk_spin_button_set_value(GTK_SPIN_BUTTON(quantity_spin_button), menu.menu_items[i].quantity);
+        gtk_grid_attach(GTK_GRID(grid), quantity_spin_button, 3, i + 1, 1, 1);
 
-        GtkWidget *plus_button = gtk_button_new_with_label("+");
-        g_signal_connect(plus_button, "clicked", G_CALLBACK(on_quantity_changed), &menu.menu_items[i].quantity);
-        gtk_grid_attach(GTK_GRID(grid), plus_button, 4, i + 1, 1, 1);
-
-        GtkWidget *minus_button = gtk_button_new_with_label("-");
-        g_signal_connect(minus_button, "clicked", G_CALLBACK(on_quantity_changed), &menu.menu_items[i].quantity);
-        gtk_grid_attach(GTK_GRID(grid), minus_button, 5, i + 1, 1, 1);
+        g_signal_connect(quantity_spin_button, "value-changed", G_CALLBACK(on_quantity_value_changed), &menu.menu_items[i]);
+        printf("%d\n",menu.menu_items[i].quantity);
+    
     }
-
+    print_menu(&menu);
     GtkWidget *confirm_button = gtk_button_new_with_label("Confirm Order");
+
+    //g_object_set_data_full(G_OBJECT(confirm_button), "menu-data", &menu, destroy_data);
     g_signal_connect(confirm_button, "clicked", G_CALLBACK(on_confirm_order_clicked), &menu);
-    gtk_grid_attach(GTK_GRID(grid), confirm_button, 0, menu.menu_count + 1, 6, 1);
+    //g_object_set_data(G_OBJECT(confirm_button), "menu-data", &menu);
+
+    gtk_grid_attach(GTK_GRID(grid), confirm_button, 2, menu.menu_count + 1, 2, 1);
+
+    GtkWidget *back_button = gtk_button_new_with_label("<-- Back");
+    g_signal_connect(back_button, "clicked", G_CALLBACK(destroy_Window), &menu);
+    gtk_grid_attach(GTK_GRID(grid), back_button, 0, menu.menu_count + 1, 2, 1);
 
     gtk_widget_show(window);
 }

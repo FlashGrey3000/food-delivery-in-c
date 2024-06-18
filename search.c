@@ -3,6 +3,16 @@
 #include <stdlib.h>
 #include <math.h>
 
+// typedef struct {
+//     char name[100];
+//     float rating;
+//     float distance;
+//     float travel_time;
+// } Restaurant;
+
+// Restaurant *restaurants = NULL;
+
+
 char *rest_vocab[] = {
 "mamagoto",
 "paprika", "-", "courtyard", "by", "marriott",
@@ -597,5 +607,7 @@ char **search_rest(char *search_string) {
         }
     }
     
+    
+
     return result;
 }

@@ -359,7 +359,8 @@ void show_order_summary(GtkWidget *widget, gpointer data) {
     for(int i=0; i<menu.menu_count;i++)
         menu.menu_items[i].quantity = qtt[i];
 
-    printf("working\n");
+    write_menu_to_bin_file("temp.bin", &menu);
+
     GtkWidget *window = gtk_window_new();
     gtk_window_set_title(GTK_WINDOW(window), "Order Summary");
     gtk_window_set_default_size(GTK_WINDOW(window), 800, 600);
@@ -421,7 +422,8 @@ void show_order_summary(GtkWidget *widget, gpointer data) {
     fclose(file);
 
     // Add buttons at the bottom
-    GtkWidget *button1 = gtk_button_new_with_label("Button 1");
+    GtkWidget *button1 = gtk_button_new_with_label("<--Back");
+    g_signal_connect(button3, "clicked", G_CALLBACK(destroy_Window), window);
     gtk_grid_attach(GTK_GRID(grid), button1, 0, row + 1, 1, 1);
 
     //GtkWidget *button2 = gtk_button_new_with_label("Button 2");
@@ -520,10 +522,11 @@ void create_restaurant_buttons(GtkWidget *box, Restaurant *restaurants, int coun
 }
 
 void show_final_menu_window(GtkWidget *widget, gpointer data) {
-    restaurant_name = (char *)data;
-    g_print("Restaurant: %s\n", restaurant_name);
-    strip_endspaces(restaurant_name);
-    RestaurantMenu menu = read_menu(restaurant_name);
+    //restaurant_name = (char *)data;
+    //g_print("Restaurant: %s\n", restaurant_name);
+    //strip_endspaces(restaurant_name);
+    RestaurantMenu menu;
+    read_menu_from_bin_file("temp.bin", &menu);
 
     GtkWidget *window = gtk_window_new();
     gtk_window_set_title(GTK_WINDOW(window), menu.restaurant_name);

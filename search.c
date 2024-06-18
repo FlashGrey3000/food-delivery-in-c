@@ -503,20 +503,84 @@ char* find_most_similar_string(char **array, int array_size, const char *search_
     return array[best_match_index];
 }
 
-void search_food(char *search_string) {
-    char *most_similar = find_most_similar_string(food_array, food_arr_size, search_string, food_vocab, food_vocab_size);
-    if (most_similar != NULL) {
-        printf("Related Restaurants: %s\n", most_similar);
-    } else {
-        printf("No similar restaurants found.\n");
+// void search_food(char *search_string) {
+//     char *most_similar = find_most_similar_string(food_array, food_arr_size, search_string, food_vocab, food_vocab_size);
+//     if (most_similar != NULL) {
+//         printf("Related Restaurants: %s\n", most_similar);
+//     } else {
+//         printf("No similar restaurants found.\n");
+//     }
+// }
+
+// void search_rest(char *search_string) {
+//     char *most_similar = find_most_similar_string(rest_array, rest_arr_size, search_string, rest_vocab, rest_vocab_size);
+//     if (most_similar != NULL) {
+//         printf("Similar Food: %s\n", most_similar);
+//     } else {
+//         printf("No similar food found.\n");
+//     }
+// }
+
+void find_top_n_similar_strings(char **array, int array_size, const char *search_string, char **vocabulary, int vocab_size, char **top_n, int n) {
+    int search_vector[vocab_size];
+    memset(search_vector, 0, sizeof(search_vector));
+
+    tokenize_and_vectorize(search_string, search_vector, vocabulary, vocab_size);
+
+    double max_similarity[n];
+    int best_match_indices[n];
+
+    for (int i = 0; i < n; i++) {
+        max_similarity[i] = -1.0;
+        best_match_indices[i] = -1;
+    }
+
+    for (int i = 0; i < array_size; i++) {
+        int array_vector[vocab_size];
+        memset(array_vector, 0, sizeof(array_vector));
+        tokenize_and_vectorize(array[i], array_vector, vocabulary, vocab_size);
+
+        double similarity = cosine_similarity(search_vector, array_vector, vocab_size);
+
+        // Check if this similarity should be in the top n
+        for (int j = 0; j < n; j++) {
+            if (similarity > max_similarity[j]) {
+                // Shift lower similarities down
+                for (int k = n - 1; k > j; k--) {
+                    max_similarity[k] = max_similarity[k - 1];
+                    best_match_indices[k] = best_match_indices[k - 1];
+                }
+                // Insert new similarity
+                max_similarity[j] = similarity;
+                best_match_indices[j] = i;
+                break;
+            }
+        }
+    }
+
+    for (int i = 0; i < n; i++) {
+        if (best_match_indices[i] != -1) {
+            top_n[i] = array[best_match_indices[i]];
+        } else {
+            top_n[i] = NULL;
+        }
     }
 }
 
-void search_rest(char *search_string) {
-    char *most_similar = find_most_similar_string(rest_array, rest_arr_size, search_string, rest_vocab, rest_vocab_size);
-    if (most_similar != NULL) {
-        printf("Similar Food: %s\n", most_similar);
-    } else {
-        printf("No similar food found.\n");
+
+void search_food(char *search_string) {
+    char *top_3[3];
+    find_top_n_similar_strings(food_array, food_arr_size, search_string, food_vocab, food_vocab_size, top_3, 3);
+    printf("Similar Food:\n");
+    for (int i = 0; i < 3; i++) {
+        if (top_3[i] != NULL) {
+            printf("%s\n", top_3[i]);
+        }
     }
+}
+
+char *search_rest(char *search_string) {
+    char *top_3[3];
+    find_top_n_similar_strings(rest_array, rest_arr_size, search_string, rest_vocab, rest_vocab_size, top_3, 3);
+    return ((char *)top_3);
 }

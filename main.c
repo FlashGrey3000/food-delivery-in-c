@@ -60,7 +60,7 @@ void on_register_clicked(GtkWidget *widget, gpointer data);
 void activate(GtkApplication *app, gpointer user_data);
 void activate_reg(GtkWidget *widget, gpointer data);
 RestaurantMenu read_menu(const char *restaurant_name);
-
+void on_search_button_clicked(GtkWidget *widget, gpointer data);
 void show_order_summary(GtkWidget *widget, gpointer data);
 void show_message_dialog(GtkWindow *parent, const char *message);
 void print_hello(GtkWidget *widget, gpointer data);
@@ -417,7 +417,59 @@ void show_menu_window(GtkWidget *widget, gpointer data) {
     gtk_widget_show(window);
 }
 
+void search(GtkWidget *widget, gpointer data) {
+    char *search_str = (char *)data;
+    //char *top_3_food[3];
+    // char *top_3_rest[3];
+    // search_rest(search_str);
+    // top_3_rest[0] = search_rest(search_str);
+    // for (int i = 0; i < 3; i++) {
+    //     if (top_3_rest[i] != NULL) {
+    //         printf("%s\n", top_3_rest[i]);
+    //     }
 
+    g_print("%s\n", search_str);
+}
+
+void on_search_button_clicked(GtkWidget *widget, gpointer data){
+    GtkWidget *window;
+    GtkWidget *button;
+    GtkWidget *search_bar;
+    //GtkWidget *button4;
+    GtkWidget *grid;
+    //GtkWindow *parent_window = GTK_WINDOW(gtk_widget_get_ancestor(widget, GTK_TYPE_WINDOW));
+    
+    //GtkApplicationWindow *app = GTK_APPLICATION_WINDOW(data);
+    window = gtk_window_new();
+    gtk_window_set_title(GTK_WINDOW(window), "SEARCH");
+    gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
+
+    grid = gtk_grid_new();
+    gtk_grid_set_row_spacing(GTK_GRID(grid), 7);
+    gtk_grid_set_column_spacing(GTK_GRID(grid), 5);
+    gtk_widget_set_halign(grid, GTK_ALIGN_CENTER);
+    gtk_widget_set_valign(grid, GTK_ALIGN_CENTER);
+
+    gtk_window_set_child(GTK_WINDOW(window), grid);
+
+    search_bar = gtk_entry_new();
+
+    char *search_str = gtk_entry_buffer_get_text(gtk_entry_get_buffer(GTK_ENTRY(search_bar)));
+    gtk_entry_set_placeholder_text(GTK_ENTRY(search_bar), "Search");
+
+    button = gtk_button_new_with_label("SEARCH");
+
+    g_signal_connect(button, "clicked", G_CALLBACK(search), g_strdup(search_str));
+
+    gtk_grid_attach(GTK_GRID(grid), search_bar, 0, 0, 4, 1);
+    gtk_grid_attach(GTK_GRID(grid), button, 4, 0, 1, 1);
+    //gtk_grid_attach(GTK_GRID(grid), button4, 0, 6, 1, 1);
+
+    gtk_widget_set_visible(button, TRUE);
+    //gtk_widget_set_visible(button4, TRUE);
+
+    gtk_window_present(GTK_WINDOW(window));
+}
 
 
 void create_restaurant_buttons(GtkWidget *box, Restaurant *restaurants, int count) {
@@ -497,30 +549,18 @@ void on_Sort_by_Distance_clicked(GtkWidget *widget, gpointer data) {
     //free(restaurants);
 }
 
-void search(GtkWidget *widget, gpointer data) {
-    char *search_str = (char *)data;
-    //char *top_3_food[3];
-    char *top_3_rest[3];
-    search_rest(search_str);
-    top_3_rest[0] = search_rest(search_str);
-    for (int i = 0; i < 3; i++) {
-        if (top_3_rest[i] != NULL) {
-            printf("%s\n", top_3_rest[i]);
-        }
-    }
-}
-
 void on_search_by_food_clicked(GtkWidget *widget, gpointer data) {
     GtkWidget *window;
-    GtkWidget *button;
-    GtkWidget *search_bar;
+    GtkWidget *button1;
+    GtkWidget *button2;
+    GtkWidget *button3;
     //GtkWidget *button4;
     GtkWidget *grid;
     //GtkWindow *parent_window = GTK_WINDOW(gtk_widget_get_ancestor(widget, GTK_TYPE_WINDOW));
     
     //GtkApplicationWindow *app = GTK_APPLICATION_WINDOW(data);
     window = gtk_window_new();
-    gtk_window_set_title(GTK_WINDOW(window), "SEARCH");
+    gtk_window_set_title(GTK_WINDOW(window), "SORTING");
     gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
 
     grid = gtk_grid_new();
@@ -531,20 +571,24 @@ void on_search_by_food_clicked(GtkWidget *widget, gpointer data) {
 
     gtk_window_set_child(GTK_WINDOW(window), grid);
 
-    search_bar = gtk_entry_new();
+    button1 = gtk_button_new_with_label("1. Sort by Distance");
+    button2 = gtk_button_new_with_label("2. Sort by Rating");
+    button3 = gtk_button_new_with_label("<--Back");
+    //button4 = gtk_button_new_with_label("4. Sign Out");
 
-    char *search_str = gtk_entry_buffer_get_text(gtk_entry_get_buffer(GTK_ENTRY(search_bar)));
-    gtk_entry_set_placeholder_text(GTK_ENTRY(search_bar), "Search");
+    g_signal_connect(button1, "clicked", G_CALLBACK(on_Sort_by_Distance_clicked), window);
+    g_signal_connect(button2, "clicked", G_CALLBACK(on_Sort_by_Rating_clicked), window);
+    g_signal_connect(button3, "clicked", G_CALLBACK(destroy_Window), window);
+    //g_signal_connect(button4, "clicked", G_CALLBACK(destroy_Window), window);
 
-    button = gtk_button_new_with_label("SEARCH");
-
-    g_signal_connect(button, "clicked", G_CALLBACK(search), g_strdup(search_str));
-
-    gtk_grid_attach(GTK_GRID(grid), search_bar, 0, 0, 4, 1);
-    gtk_grid_attach(GTK_GRID(grid), button, 4, 0, 1, 1);
+    gtk_grid_attach(GTK_GRID(grid), button1, 0, 0, 3, 1);
+    gtk_grid_attach(GTK_GRID(grid), button2, 0, 2, 3, 1);
+    gtk_grid_attach(GTK_GRID(grid), button3, 1, 4, 1, 1);
     //gtk_grid_attach(GTK_GRID(grid), button4, 0, 6, 1, 1);
 
-    gtk_widget_set_visible(button, TRUE);
+    gtk_widget_set_visible(button1, TRUE);
+    gtk_widget_set_visible(button2, TRUE);
+    gtk_widget_set_visible(button3, TRUE);
     //gtk_widget_set_visible(button4, TRUE);
 
     gtk_window_present(GTK_WINDOW(window));
@@ -580,8 +624,8 @@ void active_options(GtkWidget *widget, gpointer data) {
     button3 = gtk_button_new_with_label("3. Change Password");
     button4 = gtk_button_new_with_label("4. Sign Out");
 
-    g_signal_connect(button1, "clicked", G_CALLBACK(on_search_by_food_clicked), window);
-    g_signal_connect(button2, "clicked", G_CALLBACK(show_menu_window), window);
+    g_signal_connect(button1, "clicked", G_CALLBACK(on_search_button_clicked), window);
+    g_signal_connect(button2, "clicked", G_CALLBACK(on_search_by_food_clicked), window);
     g_signal_connect(button3, "clicked", G_CALLBACK(print_hello), window);
     g_signal_connect(button4, "clicked", G_CALLBACK(destroy_Window), window);
 

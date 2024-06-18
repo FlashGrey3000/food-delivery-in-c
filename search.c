@@ -568,19 +568,34 @@ void find_top_n_similar_strings(char **array, int array_size, const char *search
 }
 
 
-void search_food(char *search_string) {
+char **search_food(char *search_string) {
     char *top_3[3];
     find_top_n_similar_strings(food_array, food_arr_size, search_string, food_vocab, food_vocab_size, top_3, 3);
-    printf("Similar Food:\n");
+    char **result = (char **)malloc(3 * sizeof(char *));
     for (int i = 0; i < 3; i++) {
         if (top_3[i] != NULL) {
-            printf("%s\n", top_3[i]);
+            result[i] = (char *)malloc((strlen(top_3[i]) + 1) * sizeof(char));
+            strcpy(result[i], top_3[i]);
+        } else {
+            result[i] = NULL;
         }
     }
+    
+    return result;
 }
 
-char *search_rest(char *search_string) {
+char **search_rest(char *search_string) {
     char *top_3[3];
     find_top_n_similar_strings(rest_array, rest_arr_size, search_string, rest_vocab, rest_vocab_size, top_3, 3);
-    return ((char *)top_3);
+    char **result = (char **)malloc(3 * sizeof(char *));
+    for (int i = 0; i < 3; i++) {
+        if (top_3[i] != NULL) {
+            result[i] = (char *)malloc((strlen(top_3[i]) + 1) * sizeof(char));
+            strcpy(result[i], top_3[i]);
+        } else {
+            result[i] = NULL;
+        }
+    }
+    
+    return result;
 }

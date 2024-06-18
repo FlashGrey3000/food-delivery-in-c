@@ -201,11 +201,10 @@ void on_restaurant_button_clicked(GtkWidget *widget, gpointer data) {
     char *restaurant_name = (char *)data;
     g_print("Restaurant: %s\n", restaurant_name);
     strip_endspaces(restaurant_name);
-    read_menu(restaurant_name); 
+    read_menu(restaurant_name);
 }
 
 void on_confirm_order_clicked(GtkWidget *widget, gpointer data) {
-    printf("working\n");
     RestaurantMenu *menu = (RestaurantMenu *)data;
     printf("working\n");
     show_order_summary(widget, menu);

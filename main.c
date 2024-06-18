@@ -321,7 +321,6 @@ void update_quantity (GtkSpinButton *button, gpointer quantity_ptr) {
 
 
 void show_order_summary(GtkWidget *widget, gpointer data) {
-    printf("working\n");
     //GtkWindow *parent_window = GTK_WINDOW(gtk_widget_get_ancestor(widget, GTK_TYPE_WINDOW));
     //RestaurantMenu *menu = (RestaurantMenu* )g_object_get_data(gtk_widget_get_ancestor(widget, G_OBJECT), "menu-data");
     RestaurantMenu menu;
@@ -332,7 +331,6 @@ void show_order_summary(GtkWidget *widget, gpointer data) {
         menu.menu_items[i].quantity = qtt[i];
 
     print_menu(&menu);
-    printf("working\n");
     GtkWidget *window = gtk_window_new();
     gtk_window_set_title(GTK_WINDOW(window), "Order Summary");
     gtk_window_set_default_size(GTK_WINDOW(window), 800, 600);
@@ -480,29 +478,81 @@ void show_menu_window(GtkWidget *widget, gpointer data) {
     gtk_widget_show(window);
 }
 
-void search(GtkWidget *widget, gpointer data) {
-    char *search_str = (char *)data;
-    //char *top_3_food[3];
-    // char *top_3_rest[3];
-    // search_rest(search_str);
-    // top_3_rest[0] = search_rest(search_str);
-    // for (int i = 0; i < 3; i++) {
-    //     if (top_3_rest[i] != NULL) {
-    //         printf("%s\n", top_3_rest[i]);
-    //     }
+void create_restaurant_buttons(GtkWidget *box, Restaurant *restaurants, int count) {
+    for (int i = 0; i < count; i++) {
+        char label_text[256];
+        snprintf(label_text, sizeof(label_text), "%d. %s\nRating: %.2f\nDistance: %.2f km\nTravel Time: %.2f min",
+                 i + 1, restaurants[i].name, restaurants[i].rating, restaurants[i].distance, restaurants[i].travel_time);
 
-    g_print("%s\n", search_str);
+        GtkWidget *button = gtk_button_new_with_label(label_text);
+        g_signal_connect(button, "clicked", G_CALLBACK(show_menu_window), g_strdup(restaurants[i].name));
+        gtk_box_append(GTK_BOX(box), button);
+    }
+}
+
+void on_food_button_clicked(GtkWidget *widget, gpointer data) {
+    GtkWidget *window;
+    int n_rest = 29;
+    //Restaurant *restaurants = NULL;
+
+    //store_rests(username, &restaurants, &n_rest);
+    //sort_rests(2, restaurants, n_rest);
+    
+    window = gtk_window_new();
+    gtk_window_set_title(GTK_WINDOW(window), "Sort by Rating");
+    gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
+
+    // Create a scrolled window
+    GtkWidget *scrolled_window = gtk_scrolled_window_new();
+    gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_ALWAYS);
+    gtk_window_set_child(GTK_WINDOW(window), scrolled_window);
+
+    
+    GtkWidget *box = gtk_box_new(GTK_ORIENTATION_VERTICAL, 5);
+    gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), box);
+
+    create_restaurant_buttons(box, restaurants, n_rest);
+
+    gtk_widget_show(window);
+}
+void on_rest_button_clicked(GtkWidget *widget, gpointer data) {
+    GtkWidget *window;
+    int n_rest = 29;
+    //Restaurant *restaurants = NULL;
+
+    //store_rests(username, &restaurants, &n_rest);
+    //sort_rests(2, restaurants, n_rest);
+    
+    window = gtk_window_new();
+    gtk_window_set_title(GTK_WINDOW(window), "Sort by Rating");
+    gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
+
+    GtkWidget *scrolled_window = gtk_scrolled_window_new();
+    gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_ALWAYS);
+    gtk_window_set_child(GTK_WINDOW(window), scrolled_window);
+
+    GtkWidget *box = gtk_box_new(GTK_ORIENTATION_VERTICAL, 5);
+    gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), box);
+
+    // Create and add restaurant buttons to the box
+    create_restaurant_buttons(box, restaurants, n_rest);
+
+    gtk_widget_show(window);
 }
 
 void on_search_button_clicked(GtkWidget *widget, gpointer data){
     GtkWidget *window;
-    GtkWidget *button;
+    GtkWidget *rest_button;
+    GtkWidget *food_button;
     GtkWidget *search_bar;
-    //GtkWidget *button4;
     GtkWidget *grid;
-    //GtkWindow *parent_window = GTK_WINDOW(gtk_widget_get_ancestor(widget, GTK_TYPE_WINDOW));
-    
-    //GtkApplicationWindow *app = GTK_APPLICATION_WINDOW(data);
+
+    char username[MAX_LENGTH];
+
+    FILE *ftemp = fopen("tempusername.txt", "r");
+    fscanf(ftemp, "%s", username);
+    fclose(ftemp);
+
     window = gtk_window_new();
     gtk_window_set_title(GTK_WINDOW(window), "SEARCH");
     gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
@@ -516,37 +566,23 @@ void on_search_button_clicked(GtkWidget *widget, gpointer data){
     gtk_window_set_child(GTK_WINDOW(window), grid);
 
     search_bar = gtk_entry_new();
-
-    char *search_str = gtk_entry_buffer_get_text(gtk_entry_get_buffer(GTK_ENTRY(search_bar)));
+    gtk_entry_buffer_get_text(gtk_entry_get_buffer(GTK_ENTRY(search_bar)));
     gtk_entry_set_placeholder_text(GTK_ENTRY(search_bar), "Search");
-
-    button = gtk_button_new_with_label("SEARCH");
-
-    g_signal_connect(button, "clicked", G_CALLBACK(search), g_strdup(search_str));
-
     gtk_grid_attach(GTK_GRID(grid), search_bar, 0, 0, 4, 1);
-    gtk_grid_attach(GTK_GRID(grid), button, 4, 0, 1, 1);
-    //gtk_grid_attach(GTK_GRID(grid), button4, 0, 6, 1, 1);
 
-    gtk_widget_set_visible(button, TRUE);
-    //gtk_widget_set_visible(button4, TRUE);
+    food_button = gtk_button_new_with_label("SEARCH BY FOOD");
+    g_signal_connect(food_button, "clicked", G_CALLBACK(on_food_button_clicked), search_bar);
+    gtk_grid_attach(GTK_GRID(grid), food_button, 0, 1, 2, 1);
+
+    rest_button = gtk_button_new_with_label("SEARCH BY RESTAURANT");
+    g_signal_connect(rest_button, "clicked", G_CALLBACK(on_rest_button_clicked), search_bar);
+    gtk_grid_attach(GTK_GRID(grid), rest_button, 2, 1, 2, 1);
+
+    gtk_widget_set_visible(food_button, TRUE);
+    gtk_widget_set_visible(rest_button, TRUE);
 
     gtk_window_present(GTK_WINDOW(window));
 }
-
-
-void create_restaurant_buttons(GtkWidget *box, Restaurant *restaurants, int count) {
-    for (int i = 0; i < count; i++) {
-        char label_text[256];
-        snprintf(label_text, sizeof(label_text), "%d. %s\nRating: %.2f\nDistance: %.2f km\nTravel Time: %.2f min",
-                 i + 1, restaurants[i].name, restaurants[i].rating, restaurants[i].distance, restaurants[i].travel_time);
-
-        GtkWidget *button = gtk_button_new_with_label(label_text);
-        g_signal_connect(button, "clicked", G_CALLBACK(show_menu_window), g_strdup(restaurants[i].name));
-        gtk_box_append(GTK_BOX(box), button);
-    }
-}
-
 
 void on_Sort_by_Rating_clicked(GtkWidget *widget, gpointer data) {
     GtkWidget *window;
@@ -737,6 +773,10 @@ void on_login_clicked(GtkWidget *widget, gpointer data) {
         perror("Error opening users.txt");
         exit(1);
     }
+
+    FILE *ftemp = fopen("tempusername.txt","w");
+    fprintf(ftemp, "%s", username);
+    fclose(ftemp);
 
     // Check each line in the users file for matching username and password
     User user;

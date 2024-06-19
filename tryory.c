@@ -22,7 +22,7 @@ Transaction* read_transactions(const char* filename, int* transaction_count);
 void free_transactions(Transaction* transactions, int transaction_count);
 void print_itemset(Itemset itemset);
 void free_itemsets(Itemset* itemsets, int count);
-void find_frequent_with(int number, Itemset* frequent_itemsets, int itemset_count);
+int* find_frequent_with(int number, Itemset* frequent_itemsets, int itemset_count, int* result_count);
 Itemset deep_copy_itemset(Itemset itemset);
 
 int main() {
@@ -110,10 +110,16 @@ int main() {
 
     // Example usage of find_frequent_with
     int number_to_check; // Change this to the number you want to check
+    int nums;
     printf("Enter number to check: ");
     scanf("%d", &number_to_check);
     printf("Numbers frequent with %d:\n", number_to_check);
-    find_frequent_with(number_to_check, frequent_itemsets, frequent_itemset_count);
+    int* result = find_frequent_with(number_to_check, frequent_itemsets, frequent_itemset_count, &nums);
+    printf("Items frequent with 1: ");
+    for (int i = 0; i < nums; i++) {
+        printf("%d ", result[i]);
+    }
+    printf("\n");
 
     // Free allocated memory
     free_transactions(transactions, transaction_count);
@@ -257,7 +263,10 @@ void free_itemsets(Itemset* itemsets, int count) {
     free(itemsets);
 }
 
-void find_frequent_with(int number, Itemset* frequent_itemsets, int itemset_count) {
+int* find_frequent_with(int number, Itemset* frequent_itemsets, int itemset_count, int* result_count) {
+    int* result = NULL;
+    *result_count = 0;
+
     for (int i = 0; i < itemset_count; i++) {
         Itemset itemset = frequent_itemsets[i];
         if (itemset.count == 2) { // Ensure we only consider itemsets of size 2
@@ -271,13 +280,20 @@ void find_frequent_with(int number, Itemset* frequent_itemsets, int itemset_coun
             if (found) {
                 for (int j = 0; j < itemset.count; j++) {
                     if (itemset.items[j] != number) {
-                        printf("%d ", itemset.items[j]);
+                        result = realloc(result, (*result_count + 1) * sizeof(int));
+                        if (!result) {
+                            perror("Failed to allocate memory");
+                            exit(EXIT_FAILURE);
+                        }
+                        result[*result_count] = itemset.items[j];
+                        (*result_count)++;
                     }
                 }
-                printf("\n");
             }
         }
     }
+
+    return result;
 }
 
 

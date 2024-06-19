@@ -1,0 +1,249 @@
+
+Above Sea Level - The Raintree, Seafood Platter, ₹600, Seafood, all seasons, 101
+Above Sea Level - The Raintree, Grilled Fish, ₹450, Seafood, all seasons, 102
+Above Sea Level - The Raintree, Prawn Cocktail, ₹400, Seafood, all seasons, 103
+Above Sea Level - The Raintree, Caesar Salad, ₹250, Continental, hot sunny days, 104
+Above Sea Level - The Raintree, Lemon Tart, ₹200, Dessert, all seasons, 105
+Above Sea Level - The Raintree, Mojito, ₹150, Beverage, hot sunny days, 106
+
+
+Amelie's, French Onion Soup, ₹200, French, cold winters, 201
+Amelie's, Caesar Salad, ₹250, Continental, hot sunny days, 202
+Amelie's, Grilled Chicken Sandwich, ₹300, Continental, all seasons, 203
+Amelie's, Classic Cheeseburger, ₹350, American, all seasons, 204
+Amelie's, Spaghetti Carbonara, ₹400, Italian, all seasons, 205
+Amelie's, Tiramisu, ₹150, Dessert, all seasons, 206
+
+
+Annalakshmi Restaurant, Masala Dosa, ₹150, South Indian, all seasons, 301
+Annalakshmi Restaurant, Paneer Butter Masala, ₹220, North Indian, cold winters, 302
+Annalakshmi Restaurant, Vegetable Biryani, ₹200, Indian, all seasons, 303
+Annalakshmi Restaurant, Idli Sambar, ₹100, South Indian, hot sunny days, 304
+Annalakshmi Restaurant, Rasam Rice, ₹180, South Indian, rainy seasons, 305
+Annalakshmi Restaurant, Mango Lassi, ₹80, Beverage, hot sunny days, 306
+
+
+Azzuri Bay, Margherita Pizza, ₹350, Italian, all seasons, 401
+Azzuri Bay, Pasta Alfredo, ₹400, Italian, all seasons, 402
+Azzuri Bay, Caesar Salad, ₹250, Continental, hot sunny days, 403
+Azzuri Bay, Grilled Chicken, ₹400, Continental, all seasons, 404
+Azzuri Bay, Tiramisu, ₹200, Dessert, all seasons, 405
+Azzuri Bay, Lemon Iced Tea, ₹100, Beverage, hot sunny days, 406
+
+
+Bombay Brasserie, Paneer Butter Masala, ₹350, North Indian, all seasons, 501
+Bombay Brasserie, Chicken Tikka, ₹400, North Indian, all seasons, 502
+Bombay Brasserie, Rogan Josh, ₹450, North Indian, cold winters, 503
+Bombay Brasserie, Butter Naan, ₹100, North Indian, all seasons, 504
+Bombay Brasserie, Lassi, ₹120, Beverage, hot sunny days, 505
+Bombay Brasserie, Gulab Jamun, ₹150, Dessert, all seasons, 506
+
+
+Cream Centre, Channa Bhatura, ₹300, North Indian, all seasons, 601
+Cream Centre, Sizzling Brownie, ₹250, Dessert, cold winters, 602
+Cream Centre, Italian Herbed Cheese Balls, ₹275, Italian, all seasons, 603
+Cream Centre, American Corn Cheese Balls, ₹275, American, all seasons, 604
+Cream Centre, Paneer Tikka Masala, ₹350, North Indian, all seasons, 605
+Cream Centre, Mexican Nachos, ₹225, Mexican, all seasons, 606
+
+
+Ente Keralam, Malabar Parotta, ₹150, South Indian, all seasons, 701
+Ente Keralam, Kerala Fish Curry, ₹300, South Indian, rainy seasons, 702
+Ente Keralam, Appam with Stew, ₹250, South Indian, all seasons, 703
+Ente Keralam, Prawn Mango Curry, ₹350, South Indian, hot sunny days, 704
+Ente Keralam, Thalassery Biryani, ₹400, South Indian, all seasons, 705
+Ente Keralam, Avial, ₹200, South Indian, all seasons, 706
+
+
+Grill Wagon, Butter Chicken, ₹350, North Indian, all seasons, 801
+Grill Wagon, Paneer Tikka, ₹300, North Indian, all seasons, 802
+Grill Wagon, Dal Makhani, ₹250, North Indian, all seasons, 803
+Grill Wagon, Chicken Fried Rice, ₹250, Chinese, all seasons, 804
+Grill Wagon, Veg Spring Rolls, ₹200, Chinese, all seasons, 805
+Grill Wagon, Grilled Fish, ₹400, Continental, all seasons, 806
+Grill Wagon, Caesar Salad, ₹200, Continental, hot sunny days, 807
+Grill Wagon, Chocolate Cake, ₹150, Desserts, all seasons, 808
+Grill Wagon, Brownie Sundae, ₹200, Desserts, all seasons, 809
+Grill Wagon, Garlic Naan, ₹50, North Indian, all seasons, 810
+Grill Wagon, Mango Lassi, ₹80, Beverage, hot sunny days, 811
+Grill Wagon, Chicken Noodles, ₹250, Chinese, all seasons, 812
+
+
+Hamsa, Paneer Tikka, ₹350, North Indian, all seasons, 901
+Hamsa, Dal Makhani, ₹300, North Indian, all seasons, 902
+Hamsa, Vegetable Biryani, ₹320, North Indian, all seasons, 903
+Hamsa, Butter Naan, ₹100, North Indian, all seasons, 904
+Hamsa, Gajar Ka Halwa, ₹150, Dessert, cold winters, 905
+Hamsa, Mango Lassi, ₹120, Beverage, hot sunny days, 906
+
+
+Junior Kuppanna, Mutton Biryani, ₹350, South Indian, all seasons, 1001
+Junior Kuppanna, Chicken 65, ₹280, South Indian, all seasons, 1002
+Junior Kuppanna, Fish Fry, ₹300, South Indian, hot sunny days, 1003
+Junior Kuppanna, Egg Kothu Parotta, ₹250, South Indian, all seasons, 1004
+Junior Kuppanna, Mutton Sukka, ₹320, South Indian, all seasons, 1005
+Junior Kuppanna, Curd Rice, ₹150, South Indian, hot sunny days, 1006
+
+
+Little Italy, Penne Arrabbiata, ₹350, Italian, all seasons, 1101
+Little Italy, Margherita Pizza, ₹300, Italian, all seasons, 1102
+Little Italy, Minestrone Soup, ₹200, Italian, cold winters, 1103
+Little Italy, Tiramisu, ₹180, Dessert, all seasons, 1104
+Little Italy, Bruschetta, ₹150, Italian, hot sunny days, 1105
+Little Italy, Gelato, ₹120, Dessert, hot sunny days, 1106
+
+
+Madras Pavilion - ITC Grand Chola, Chettinad Chicken, ₹350, South Indian, all seasons, 1201
+Madras Pavilion - ITC Grand Chola, Fish Moilee, ₹400, South Indian, all seasons, 1202
+Madras Pavilion - ITC Grand Chola, Veg Kurma, ₹300, South Indian, all seasons, 1203
+Madras Pavilion - ITC Grand Chola, Malabar Parotta, ₹150, South Indian, all seasons, 1204
+Madras Pavilion - ITC Grand Chola, Appam, ₹120, South Indian, all seasons, 1205
+Madras Pavilion - ITC Grand Chola, Payasam, ₹150, Dessert, all seasons, 1206
+
+
+Mamagoto, Sushi Platter, ₹800, Japanese, hot sunny days, 1301
+Mamagoto, Thai Green Curry, ₹600, Thai, rainy seasons, 1302
+Mamagoto, Japanese Ramen, ₹700, Japanese, cold winters, 1303
+Mamagoto, Chicken Teriyaki, ₹650, Japanese, all seasons, 1304
+Mamagoto, Asian Stir-Fried Vegetables, ₹500, Asian, hot sunny days, 1305
+Mamagoto, Tempura Prawns, ₹750, Japanese, all seasons, 1306
+
+
+MKC - Madras Kitchen Company, Chicken Chettinad, ₹350, South Indian, all seasons, 1401
+MKC - Madras Kitchen Company, Prawn Moilee, ₹400, South Indian, all seasons, 1402
+MKC - Madras Kitchen Company, Malabar Parotta, ₹150, South Indian, all seasons, 1403
+MKC - Madras Kitchen Company, Veg Biryani, ₹300, South Indian, all seasons, 1404
+MKC - Madras Kitchen Company, Filter Coffee, ₹50, Beverage, all seasons, 1405
+MKC - Madras Kitchen Company, Payasam, ₹150, Dessert, all seasons, 1406
+
+
+Paprika - Courtyard by Marriott, Caesar Salad, ₹300, Continental, hot sunny days, 1501
+Paprika - Courtyard by Marriott, Margherita Pizza, ₹350, Italian, all seasons, 1502
+Paprika - Courtyard by Marriott, Grilled Chicken, ₹400, Continental, all seasons, 1503
+Paprika - Courtyard by Marriott, Spaghetti Bolognese, ₹450, Italian, all seasons, 1504
+Paprika - Courtyard by Marriott, Cheesecake, ₹250, Dessert, all seasons, 1505
+Paprika - Courtyard by Marriott, Fresh Lime Soda, ₹120, Beverage, hot sunny days, 1506
+
+
+Pitcherr Perfect, Margherita Pizza, ₹350, Italian, all seasons, 1601
+Pitcherr Perfect, Spaghetti Carbonara, ₹400, Italian, all seasons, 1602
+Pitcherr Perfect, Sushi Platter, ₹500, Chinese, all seasons, 1603
+Pitcherr Perfect, Chicken Caesar Salad, ₹250, Continental, hot sunny days, 1604
+Pitcherr Perfect, Tiramisu, ₹200, Bakery, all seasons, 1605
+Pitcherr Perfect, Chocolate Milkshake, ₹150, Shake, hot sunny days, 1606
+Pitcherr Perfect, Kung Pao Chicken, ₹350, Sichuan, all seasons, 1607
+Pitcherr Perfect, Lemon Iced Tea, ₹100, Beverage, hot sunny days, 1608
+Pitcherr Perfect, Veg Spring Rolls, ₹200, Chinese, all seasons, 1609
+Pitcherr Perfect, Grilled Chicken, ₹400, Continental, all seasons, 1610
+Pitcherr Perfect, Garlic Bread, ₹150, Bakery, all seasons, 1611
+Pitcherr Perfect, Cappuccino, ₹150, Beverage, all seasons, 1612
+
+
+Punjab Grill, Butter Chicken, ₹350, North Indian, all seasons, 1701
+Punjab Grill, Paneer Tikka, ₹300, North Indian, all seasons, 1702
+Punjab Grill, Dal Makhani, ₹250, North Indian, all seasons, 1703
+Punjab Grill, Garlic Naan, ₹50, North Indian, all seasons, 1704
+Punjab Grill, Gulab Jamun, ₹100, Dessert, all seasons, 1705
+Punjab Grill, Mango Lassi, ₹80, Beverage, hot sunny days, 1706
+
+
+Sandy's Chocolate Laboratory, Dark Chocolate Cake, ₹250, Dessert, all seasons, 1801
+Sandy's Chocolate Laboratory, Chocolate Brownie, ₹200, Dessert, all seasons, 1802
+Sandy's Chocolate Laboratory, Chocolate Fondue, ₹300, Dessert, cold winters, 1803
+Sandy's Chocolate Laboratory, Hot Chocolate, ₹150, Beverage, cold winters, 1804
+Sandy's Chocolate Laboratory, Chocolate Milkshake, ₹200, Beverage, all seasons, 1805
+Sandy's Chocolate Laboratory, Tiramisu, ₹250, Dessert, all seasons, 1806
+
+
+Sangeetha Veg Restaurant, Rava Dosa, ₹150, South Indian, all seasons, 1901
+Sangeetha Veg Restaurant, Veg Biryani, ₹180, North Indian, all seasons, 1902
+Sangeetha Veg Restaurant, Onion Uttapam, ₹120, South Indian, all seasons, 1903
+Sangeetha Veg Restaurant, Aloo Paratha, ₹130, North Indian, all seasons, 1904
+Sangeetha Veg Restaurant, Gobi Manchurian, ₹160, Indo-Chinese, all seasons, 1905
+Sangeetha Veg Restaurant, Mango Lassi, ₹90, Beverage, hot sunny days, 1906
+
+
+Savoury Seashell, Grilled Prawns, ₹450, Seafood, all seasons, 2001
+Savoury Seashell, Fish Curry, ₹400, Seafood, rainy seasons, 2002
+Savoury Seashell, Chicken Tikka, ₹350, North Indian, all seasons, 2003
+Savoury Seashell, Mutton Biryani, ₹400, Indian, all seasons, 2004
+Savoury Seashell, Paneer Butter Masala, ₹300, North Indian, all seasons, 2005
+Savoury Seashell, Lassi, ₹100, Beverage, hot sunny days, 2006
+
+
+Sigree, Paneer Tikka, ₹300, North Indian, all seasons, 2101
+Sigree, Chicken Tandoori, ₹350, North Indian, all seasons, 2102
+Sigree, Dal Makhani, ₹250, North Indian, all seasons, 2103
+Sigree, Naan, ₹50, North Indian, all seasons, 2104
+Sigree, Gajar Halwa, ₹150, Dessert, cold winters, 2105
+Sigree, Mango Lassi, ₹120, Beverage, hot sunny days, 2106
+
+
+Soy Soi, Sushi Platter, ₹500, Japanese, hot sunny days, 2201
+Soy Soi, Ramen, ₹450, Japanese, cold winters, 2202
+Soy Soi, Dim Sum, ₹300, Chinese, all seasons, 2203
+Soy Soi, Pad Thai, ₹400, Thai, all seasons, 2204
+Soy Soi, Green Tea Ice Cream, ₹150, Dessert, hot sunny days, 2205
+Soy Soi, Mango Sticky Rice, ₹200, Dessert, all seasons, 2206
+
+
+The Alcove, Chicken Chettinad, ₹350, South Indian, all seasons, 2301
+The Alcove, Masala Dosa, ₹150, South Indian, all seasons, 2302
+The Alcove, Fish Curry, ₹300, South Indian, rainy seasons, 2303
+The Alcove, Fried Rice, ₹250, Chinese, all seasons, 2304
+The Alcove, Veg Hakka Noodles, ₹200, Chinese, all seasons, 2305
+The Alcove, Grilled Sandwich, ₹150, Continental, all seasons, 2306
+The Alcove, Chicken Burger, ₹200, Fast Food, all seasons, 2307
+The Alcove, Paneer Tikka, ₹250, Continental, all seasons, 2308
+The Alcove, Chocolate Brownie, ₹150, Dessert, all seasons, 2309
+The Alcove, Lemonade, ₹80, Beverage, hot sunny days, 2310
+The Alcove, Filter Coffee, ₹50, Beverage, all seasons, 2311
+The Alcove, Veg Manchurian, ₹200, Chinese, all seasons, 2312
+
+
+The Brew Room, Veg Burger, ₹300, Continental, all seasons, 2401
+The Brew Room, Chicken Alfredo Pasta, ₹400, Italian, all seasons, 2402
+The Brew Room, Greek Salad, ₹250, Mediterranean, hot sunny days, 2403
+The Brew Room, Waffles with Maple Syrup, ₹200, Dessert, all seasons, 2404
+The Brew Room, Espresso, ₹150, Beverage, all seasons, 2405
+The Brew Room, Lemon Iced Tea, ₹100, Beverage, hot sunny days, 2406
+
+
+The Fat Boy, BBQ Ribs, ₹450, American, all seasons, 2501
+The Fat Boy, Buffalo Wings, ₹300, American, all seasons, 2502
+The Fat Boy, Cheeseburger, ₹350, American, all seasons, 2503
+The Fat Boy, Loaded Fries, ₹250, American, all seasons, 2504
+The Fat Boy, Chocolate Milkshake, ₹180, Beverage, hot sunny days, 2505
+The Fat Boy, Pulled Pork Sandwich, ₹400, American, all seasons, 2506
+
+
+The Flying Elephant, BBQ Pork Ribs, ₹500, American, all seasons, 2601
+The Flying Elephant, Grilled Lamb Chops, ₹600, Continental, all seasons, 2602
+The Flying Elephant, Caesar Salad, ₹350, Continental, hot sunny days, 2603
+The Flying Elephant, Margherita Pizza, ₹400, Italian, all seasons, 2604
+The Flying Elephant, Chocolate Fondant, ₹250, Dessert, cold winters, 2605
+The Flying Elephant, Mango Smoothie, ₹200, Beverage, hot sunny days, 2606
+
+
+The Reef - Sheraton Grand, Caesar Salad, ₹250, Continental, hot sunny days, 2701
+The Reef - Sheraton Grand, Margherita Pizza, ₹300, Italian, all seasons, 2702
+The Reef - Sheraton Grand, Grilled Chicken, ₹350, Continental, all seasons, 2703
+The Reef - Sheraton Grand, Spaghetti Bolognese, ₹400, Italian, all seasons, 2704
+The Reef - Sheraton Grand, Cheesecake, ₹200, Dessert, all seasons, 2705
+The Reef - Sheraton Grand, Mojito, ₹150, Beverage, hot sunny days, 2706
+
+
+Tuscana Pizzeria, Margherita Pizza, ₹350, Italian, all seasons, 2801
+Tuscana Pizzeria, Quattro Formaggi Pizza, ₹450, Italian, all seasons, 2802
+Tuscana Pizzeria, Spaghetti Aglio e Olio, ₹400, Italian, all seasons, 2803
+Tuscana Pizzeria, Caesar Salad, ₹300, Continental, hot sunny days, 2804
+Tuscana Pizzeria, Tiramisu, ₹250, Dessert, all seasons, 2805
+Tuscana Pizzeria, Gelato, ₹150, Dessert, hot sunny days, 2806
+
+
+Upperdeck, Grilled Fish, ₹400, Continental, all seasons, 2901
+Upperdeck, Caesar Salad, ₹250, Continental, hot sunny days, 2902
+Upperdeck, Lamb Chops, ₹450, Continental, all seasons, 2903
+Upperdeck, Chicken Skewers, ₹350, Continental, all seasons, 2904
+Upperdeck, Tiramisu, ₹200, Dessert, all seasons, 2905
+Upperdeck, Mojito, ₹150, Beverage, hot sunny days, 2906

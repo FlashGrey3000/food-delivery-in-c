@@ -174,20 +174,7 @@ static GtkWidget *latitude_entry, *longitude_entry, *conform_password_entry;
 
 //     gtk_window_set_child(GTK_WINDOW(window), new_box);
 // }
-void strip_endspaces(char *str) {
-    int len = strlen(str);
-    int i;
 
-    // Traverse from the end of the string towards the beginning
-    for (i = len - 1; i >= 0; i--) {
-        if (!isspace(str[i])) {
-            break;
-        }
-    }
-
-    // Null-terminate the string at the first non-space character from the end
-    str[i + 1] = '\0';
-}
 
 void on_restaurant_button_clicked(GtkWidget *widget, gpointer data) {
     char *restaurant_name = (char *)data;
@@ -493,13 +480,41 @@ void create_restaurant_buttons(GtkWidget *box, Restaurant *restaurants, int coun
 void on_food_button_clicked(GtkWidget *widget, gpointer data) {
     GtkWidget *window;
     int n_rest = 29;
-    //Restaurant *restaurants = NULL;
+    Restaurant *restaurants = NULL;
+    char username[MAX_LENGTH];
 
-    //store_rests(username, &restaurants, &n_rest);
+    FILE *ftemp = fopen("tempusername.txt", "r");
+    fscanf(ftemp, "%s", username);
+    fclose(ftemp);
+    store_rests(username, &restaurants, &n_rest);
     //sort_rests(2, restaurants, n_rest);
-    
+
+    const char *food_name = gtk_entry_buffer_get_text(gtk_entry_get_buffer((GtkEntry *)(data)));
+
+    char *recommfoodname;
+    recommfoodname = search_food1(food_name);
+
+    printf("%s\n", recommfoodname);
+
+    int fid = get_food_id(recommfoodname);
+
+    char *rest_n = get_restaurant_name(fid);
+
+    printf("%s\n", rest_n);
+
+    Restaurant temp;
+    if (find_restaurant(restaurants, 29, rest_n, &temp)) {
+        printf("Restaurant found!\n");
+        printf("Name: %s\n", temp.name);
+        printf("Rating: %.1f\n", temp.rating);
+        printf("Distance: %.1f km\n", temp.distance);
+        printf("Travel Time: %.1f minutes\n", temp.travel_time);
+    } else {
+        printf("Restaurant not found.\n");
+    }
+
     window = gtk_window_new();
-    gtk_window_set_title(GTK_WINDOW(window), "Sort by Rating");
+    gtk_window_set_title(GTK_WINDOW(window), "Search by food");
     gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
 
     // Create a scrolled window
@@ -511,20 +526,49 @@ void on_food_button_clicked(GtkWidget *widget, gpointer data) {
     GtkWidget *box = gtk_box_new(GTK_ORIENTATION_VERTICAL, 5);
     gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), box);
 
-    create_restaurant_buttons(box, restaurants, n_rest);
+    create_restaurant_buttons(box, &temp, 1);
 
     gtk_widget_show(window);
 }
+
 void on_rest_button_clicked(GtkWidget *widget, gpointer data) {
     GtkWidget *window;
     int n_rest = 29;
-    //Restaurant *restaurants = NULL;
+    Restaurant *restaurants = NULL;
+    char username[MAX_LENGTH];
 
-    //store_rests(username, &restaurants, &n_rest);
+    FILE *ftemp = fopen("tempusername.txt", "r");
+    fscanf(ftemp, "%s", username);
+    fclose(ftemp);
+
+    store_rests(username, &restaurants, &n_rest);
+
+    //char *rest_n = gtk_entry_get_buffer_text((GtkWidget *)data);
+    const char *rest_n = gtk_entry_buffer_get_text(gtk_entry_get_buffer((GtkEntry *)(data)));
+    g_print("%s\n", rest_n);
+
+    //get_matched_restaurant_names(restaurants, n_rest, rest_n);
+
+    Restaurant *matched = get_matched_restaurant_names(restaurants, n_rest, rest_n);
+    if (matched != NULL) {
+        for (int i = 0; i < 3; i++) {
+            if (strlen(matched[i].name) > 0) {
+                printf("Matched Restaurant %d: %s, Rating: %.1f, Distance: %.1f, Travel Time: %.1f\n", 
+                        i + 1, matched[i].name, matched[i].rating, matched[i].distance, matched[i].travel_time);
+            } else {
+                printf("Matched Restaurant %d: Not found\n", i + 1);
+            }
+        }
+    } else {
+        printf("No matched restaurants found.\n");
+    }
+
     //sort_rests(2, restaurants, n_rest);
     
     window = gtk_window_new();
-    gtk_window_set_title(GTK_WINDOW(window), "Sort by Rating");
+    char title[200];
+    sprintf(title, "Search for - %s", matched[0].name);
+    gtk_window_set_title(GTK_WINDOW(window), title);
     gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
 
     GtkWidget *scrolled_window = gtk_scrolled_window_new();
@@ -535,7 +579,7 @@ void on_rest_button_clicked(GtkWidget *widget, gpointer data) {
     gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), box);
 
     // Create and add restaurant buttons to the box
-    create_restaurant_buttons(box, restaurants, n_rest);
+    create_restaurant_buttons(box, matched, 1);
 
     gtk_widget_show(window);
 }

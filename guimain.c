@@ -8,6 +8,8 @@
 #include "sorting.c"
 #include "search.c"
 #include "weatherer.c"
+#include "tryory.c"
+#include "update_rating.c"
 
 #define MAX_LENGTH 100
 
@@ -17,6 +19,213 @@
 //     float distance;
 //     float travel_time;
 // } Restaurant;
+typedef struct {
+    char foodname[100];
+    int fid;
+} Fooditem;
+
+
+
+Fooditem fooditems_array[] = {
+        {"Seafood Platter", 101},
+        {"Grilled Fish", 102},
+        {"Prawn Cocktail", 103},
+        {"Caesar Salad", 104},
+        {"Lemon Tart", 105},
+        {"Mojito", 106},
+        {"French Onion Soup", 201},
+        {"Caesar Salad", 202},
+        {"Grilled Chicken Sandwich", 203},
+        {"Classic Cheeseburger", 204},
+        {"Spaghetti Carbonara", 205},
+        {"Tiramisu", 206},
+        {"Masala Dosa", 301},
+        {"Paneer Butter Masala", 302},
+        {"Vegetable Biryani", 303},
+        {"Idli Sambar", 304},
+        {"Rasam Rice", 305},
+        {"Mango Lassi", 306},
+        {"Margherita Pizza", 401},
+        {"Pasta Alfredo", 402},
+        {"Caesar Salad", 403},
+        {"Grilled Chicken", 404},
+        {"Tiramisu", 405},
+        {"Lemon Iced Tea", 406},
+        {"Paneer Butter Masala", 501},
+        {"Chicken Tikka", 502},
+        {"Rogan Josh", 503},
+        {"Butter Naan", 504},
+        {"Lassi", 505},
+        {"Gulab Jamun", 506},
+        {"Channa Bhatura", 601},
+        {"Sizzling Brownie", 602},
+        {"Italian Herbed Cheese Balls", 603},
+        {"American Corn Cheese Balls", 604},
+        {"Paneer Tikka Masala", 605},
+        {"Mexican Nachos", 606},
+        {"Malabar Parotta", 701},
+        {"Kerala Fish Curry", 702},
+        {"Appam with Stew", 703},
+        {"Prawn Mango Curry", 704},
+        {"Thalassery Biryani", 705},
+        {"Avial", 706},
+        {"Butter Chicken", 801},
+        {"Paneer Tikka", 802},
+        {"Dal Makhani", 803},
+        {"Chicken Fried Rice", 804},
+        {"Veg Spring Rolls", 805},
+        {"Grilled Fish", 806},
+        {"Caesar Salad", 807},
+        {"Chocolate Cake", 808},
+        {"Brownie Sundae", 809},
+        {"Garlic Naan", 810},
+        {"Mango Lassi", 811},
+        {"Chicken Noodles", 812},
+        {"Butter Chicken", 901},
+        {"Paneer Tikka", 902},
+        {"Dal Makhani", 903},
+        {"Chicken Fried Rice", 904},
+        {"Veg Spring Rolls", 905},
+        {"Grilled Fish", 906},
+        {"Caesar Salad", 907},
+        {"Chocolate Cake", 908},
+        {"Brownie Sundae", 909},
+        {"Butter Chicken", 1001},
+        {"Dal Makhani", 1002},
+        {"Vegetable Biryani", 1003},
+        {"Butter Naan", 1004},
+        {"Gajar Ka Halwa", 1005},
+        {"Mango Lassi", 1006},
+        {"Penne Arrabbiata", 1101},
+        {"Margherita Pizza", 1102},
+        {"Minestrone Soup", 1103},
+        {"Tiramisu", 1104},
+        {"Bruschetta", 1105},
+        {"Gelato", 1106},
+        {"Chettinad Chicken", 1201},
+        {"Fish Moilee", 1202},
+        {"Veg Kurma", 1203},
+        {"Malabar Parotta", 1204},
+        {"Appam", 1205},
+        {"Payasam", 1206},
+        {"Sushi Platter", 1301},
+        {"Thai Green Curry", 1302},
+        {"Japanese Ramen", 1303},
+        {"Chicken Teriyaki", 1304},
+        {"Asian Stir-Fried Vegetables", 1305},
+        {"Tempura Prawns", 1306},
+        {"Chicken Chettinad", 1401},
+        {"Prawn Moilee", 1402},
+        {"Malabar Parotta", 1403},
+        {"Veg Biryani", 1404},
+        {"Filter Coffee", 1405},
+        {"Payasam", 1406},
+        {"Caesar Salad", 1501},
+        {"Margherita Pizza", 1502},
+        {"Grilled Chicken", 1503},
+        {"Spaghetti Bolognese", 1504},
+        {"Cheesecake", 1505},
+        {"Fresh Lime Soda", 1506},
+        {"Salted Lemon Fish", 1507},
+        {"Margherita Pizza", 1601},
+        {"Spaghetti Carbonara", 1602},
+        {"Sushi Platter", 1603},
+        {"Chicken Caesar Salad", 1604},
+        {"Tiramisu", 1605},
+        {"Chocolate Milkshake", 1606},
+        {"Kung Pao Chicken", 1607},
+        {"Lemon Iced Tea", 1608},
+        {"Veg Spring Rolls", 1609},
+        {"Grilled Chicken", 1610},
+        {"Garlic Bread", 1611},
+        {"Cappuccino", 1612},
+        {"Butter Chicken", 1701},
+        {"Paneer Tikka", 1702},
+        {"Dal Makhani", 1703},
+        {"Garlic Naan", 1704},
+        {"Gulab Jamun", 1705},
+        {"Mango Lassi", 1706},
+        {"Dark Chocolate Cake", 1801},
+        {"Chocolate Brownie", 1802},
+        {"Chocolate Fondue", 1803},
+        {"Hot Chocolate", 1804},
+        {"Chocolate Milkshake", 1805},
+        {"Tiramisu", 1806},
+        {"Rava Dosa", 1901},
+        {"Veg Biryani", 1902},
+        {"Onion Uttapam", 1903},
+        {"Aloo Paratha", 1904},
+        {"Gobi Manchurian", 1905},
+        {"Mango Lassi", 1906},
+        {"Grilled Prawns", 2001},
+        {"Fish Curry", 2002},
+        {"Chicken Tikka", 2003},
+        {"Mutton Biryani", 2004},
+        {"Paneer Butter Masala", 2005},
+        {"Lassi", 2006},
+        {"Paneer Tikka", 2101},
+        {"Chicken Tandoori", 2102},
+        {"Dal Makhani", 2103},
+        {"Naan", 2104},
+        {"Gajar Halwa", 2105},
+        {"Mango Lassi", 2106},
+        {"Sushi Platter", 2201},
+        {"Ramen", 2202},
+        {"Dim Sum", 2203},
+        {"Pad Thai", 2204},
+        {"Green Tea Ice Cream", 2205},
+        {"Mango Sticky Rice", 2206},
+        {"Chicken Chettinad", 2301},
+        {"Masala Dosa", 2302},
+        {"Fish Curry", 2303},
+        {"Fried Rice", 2304},
+        {"Veg Hakka Noodles", 2305},
+        {"Grilled Sandwich", 2306},
+        {"Chicken Burger", 2307},
+        {"Paneer Tikka", 2308},
+        {"Chocolate Brownie", 2309},
+        {"Lemonade", 2310},
+        {"Filter Coffee", 2311},
+        {"Veg Manchurian", 2312},
+        {"Veg Burger", 2401},
+        {"Chicken Alfredo Pasta", 2402},
+        {"Greek Salad", 2403},
+        {"Waffles with Maple Syrup", 2404},
+        {"Espresso", 2405},
+        {"Lemon Iced Tea", 2406},
+        {"BBQ Ribs", 2501},
+        {"Buffalo Wings", 2502},
+        {"Cheeseburger", 2503},
+        {"Loaded Fries", 2504},
+        {"Chocolate Milkshake", 2505},
+        {"Pulled Pork Sandwich", 2506},
+        {"BBQ Pork Ribs", 2601},
+        {"Grilled Lamb Chops", 2602},
+        {"Caesar Salad", 2603},
+        {"Margherita Pizza", 2604},
+        {"Chocolate Fondant", 2605},
+        {"Mango Smoothie", 2606},
+        {"Caesar Salad", 2701},
+        {"Margherita Pizza", 2702},
+        {"Grilled Chicken", 2703},
+        {"Spaghetti Bolognese", 2704},
+        {"Cheesecake", 2705},
+        {"Mojito", 2706},
+        {"Margherita Pizza", 2801},
+        {"Quattro Formaggi Pizza", 2802},
+        {"Spaghetti Aglio e Olio", 2803},
+        {"Caesar Salad", 2804},
+        {"Tiramisu", 2805},
+        {"Gelato", 2806},
+        {"Grilled Fish", 2901},
+        {"Caesar Salad", 2902},
+        {"Lamb Chops", 2903},
+        {"Chicken Skewers", 2904},
+        {"Tiramisu", 2905},
+        {"Mojito", 2906},
+    };
+int fooditems_array_size = sizeof(fooditems_array) / sizeof(fooditems_array[0]);
+
 typedef struct {
     char name[100];
     float price;
@@ -51,6 +260,9 @@ typedef struct {
 
 Restaurant *restaurants = NULL;
 char *restaurant_name;
+
+Itemset* frequent_itemsets = NULL;
+int frequent_itemset_count = 0;
 // Function prototypes
 int user_exists(const char* username);
 
@@ -156,6 +368,13 @@ void read_menu_from_bin_file(const char *filename, RestaurantMenu *menu) {
     fclose(file);
 }
 
+char *getfoodname(int fid){
+    for (int i=0; i<fooditems_array_size; i++){
+        if (fid == fooditems_array[i].fid){
+            return fooditems_array[i].foodname;
+        }
+    }
+}
 
 static GtkWidget *name_entry, *username_entry, *password_entry, *phone_entry;
 static GtkWidget *addr1_entry, *addr2_entry, *city_entry, *state_entry, *pinCode_entry;
@@ -204,15 +423,47 @@ void on_restaurant_button_clicked(GtkWidget *widget, gpointer data) {
     read_menu(restaurant_name); 
 }
 
-void on_confirm_order_clicked(GtkWidget *widget, gpointer data) {
-    printf("working\n");
-    RestaurantMenu *menu = (RestaurantMenu *)data;
-    printf("working\n");
-    show_order_summary(widget, menu);
-    printf("working\n");
-    
+void up_rating(GtkWidget *widget, gpointer data) {
+    RestaurantMenu menu;
+    read_menu_from_bin_file("temp.bin", &menu);
+    float *rate = gtk_entry_buffer_get_text(gtk_entry_get_buffer((GtkEntry *)(data)));
+    update_reviews(menu.restaurant_name, rate);
 }
 
+void feed_back(GtkWidget *widget, gpointer data) {
+    RestaurantMenu menu;
+    read_menu_from_bin_file("temp.bin", &menu);
+
+    GtkWidget *window = gtk_window_new();
+    gtk_window_set_title(GTK_WINDOW(window), "FEED BACK");
+    gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
+
+    GtkWidget *scrolled_window = gtk_scrolled_window_new();
+    gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_AUTOMATIC);
+    gtk_window_set_child(GTK_WINDOW(window), scrolled_window);
+
+    GtkWidget *grid = gtk_grid_new();
+    gtk_grid_set_column_homogeneous(GTK_GRID(grid), TRUE);
+    gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), grid);
+
+    // Add headers
+    GtkWidget *header_label;
+    header_label = gtk_label_new("THANK YOU\nPLEASE ENTER YOUR VALUABLE FEED BACK");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 0, 0, 1, 1);
+
+    GtkWidget *bar = gtk_entry_new();
+    gtk_entry_buffer_get_text(gtk_entry_get_buffer(GTK_ENTRY(bar)));
+    gtk_entry_set_placeholder_text(GTK_ENTRY(bar), "plese enter btw 0-5");
+    gtk_grid_attach(GTK_GRID(grid), bar, 3, 1, 3, 1);
+    
+
+    GtkWidget *button =  gtk_button_new_with_label("SUBMIT");
+    g_signal_connect(button, "clicked", G_CALLBACK(up_rating), bar);
+    g_signal_connect(button, "clicked", G_CALLBACK(exit), NULL);
+    gtk_grid_attach(GTK_GRID(grid), bar, 4, 2, 1, 1);
+    
+    gtk_widget_show(window);
+}
 // Function to read menu from file
 RestaurantMenu read_menu(const char *restaurant_name) {
     RestaurantMenu menu;
@@ -301,141 +552,39 @@ RestaurantMenu read_menu(const char *restaurant_name) {
 }
 
 // Function to handle quantity changes
-void on_quantity_changed(GtkWidget *widget, gpointer data) {
-    int *quantity = (int *)data;
-    if (strcmp(gtk_button_get_label(GTK_BUTTON(widget)), "+") == 0) {
-        (*quantity)++;
-    } else {
-        if (*quantity > 0) {
-            (*quantity)--;
-        }
-    }
-    char buffer[10];
-    snprintf(buffer, sizeof(buffer), "%d", *quantity);
-    gtk_button_set_label(GTK_BUTTON(widget), buffer);
-    //quantity = gtk_spin_button_new_with_range(-90.0, 90.0, 0.0001);
-}
-
-// Additional function to handle quantity changes
-// Function to handle quantity changes
 void update_quantity (GtkSpinButton *button, gpointer quantity_ptr) {
     int *qtt = (int *)quantity_ptr;
     *qtt = gtk_spin_button_get_value_as_int (button);
     printf("%d", *qtt);
 }
 
-void on_payment_clicked(GtkWidget *widget, gpointer data) {
-    RestaurantMenu *menu = (RestaurantMenu *)data;
+// void on_payment_clicked(GtkWidget *widget, gpointer data) {
+//     //RestaurantMenu *menu = (RestaurantMenu *)data;
     
-    char *username;
-    FILE *ftemp = fopen("tempusername.txt","r");
-    fscanf(ftemp, username);
-    fclose(ftemp);
+//     char *username;
+//     FILE *ftemp = fopen("tempusername.txt","r");
+//     fscanf(ftemp, username);
+//     fclose(ftemp);
 
-    char filename[150];
-    snprintf(filename, sizeof(filename), "%s_order.txt", username);
+//     char filename[150];
+//     snprintf(filename, sizeof(filename), "%s_order.txt", username);
 
-    FILE *file = fopen(filename, "w");
-    if (!file) {
-        perror("Failed to open file");
-        exit(EXIT_FAILURE);
-    }
+//     FILE *file = fopen(filename, "w");
+//     if (!file) {
+//         perror("Failed to open file");
+//         exit(EXIT_FAILURE);
+//     }
 
-    for (int i = 0; i < menu->menu_count; i++) {
-        if (menu->menu_items[i].quantity > 0) {
-            fprintf(file, "%s,%.2f,%d\n", menu->menu_items[i].name, menu->menu_items[i].price, menu->menu_items[i].quantity);
-        }
-    }
+//     for (int i = 0; i < menu->menu_count; i++) {
+//         if (menu->menu_items[i].quantity > 0) {
+//             fprintf(file, "%s,%.2f,%d\n", menu->menu_items[i].name, menu->menu_items[i].price, menu->menu_items[i].quantity);
+//         }
+//     }
 
-    fclose(file);
-    g_print("Order confirmed and saved to %s\n", filename);
-}
+//     fclose(file);
+//     g_print("Order confirmed and saved to %s\n", filename);
+// }
 
-void show_order_summary(GtkWidget *widget, gpointer data) {
-    printf("working\n");
-    RestaurantMenu menu;
-    read_menu_from_bin_file("temp.bin", &menu);
-    //in summary
-    int *qtt = (int *)data;
-    for(int i=0; i<menu.menu_count;i++)
-        menu.menu_items[i].quantity = qtt[i];
-
-    write_menu_to_bin_file("temp.bin", &menu);
-
-    GtkWidget *window = gtk_window_new();
-    gtk_window_set_title(GTK_WINDOW(window), "Order Summary");
-    gtk_window_set_default_size(GTK_WINDOW(window), 800, 600);
-
-    GtkWidget *scrolled_window = gtk_scrolled_window_new();
-    gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_AUTOMATIC);
-    gtk_window_set_child(GTK_WINDOW(window), scrolled_window);
-
-    GtkWidget *grid = gtk_grid_new();
-    gtk_grid_set_column_homogeneous(GTK_GRID(grid), TRUE);
-    gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), grid);
-
-    // Add headers
-    GtkWidget *header_label;
-    header_label = gtk_label_new("S_NO.");
-    gtk_grid_attach(GTK_GRID(grid), header_label, 0, 0, 1, 1);
-
-    header_label = gtk_label_new("Dish Name");
-    gtk_grid_attach(GTK_GRID(grid), header_label, 1, 0, 1, 1);
-
-    header_label = gtk_label_new("Quantity");
-    gtk_grid_attach(GTK_GRID(grid), header_label, 2, 0, 1, 1);
-
-    FILE *file = fopen("order_hist/fid_hist.txt", "a");
-    if (!file) {
-        perror("Failed to open fid_hist.txt");
-        exit(EXIT_FAILURE);
-    }
-    
-    print_menu(&menu);
-
-    int row = 1;
-    for (int i = 0; i < menu.menu_count; i++) {
-        printf("Working\%d\n",i);
-        if (menu.menu_items[i].quantity > 0) {
-            printf("Working\%d\n",i);
-            char buffer[256];
-            
-
-            // Add Serial Number
-            snprintf(buffer, sizeof(buffer), "%d", row);
-            GtkWidget *label = gtk_label_new(buffer);
-            gtk_grid_attach(GTK_GRID(grid), label, 0, row, 1, 1);
-
-            // Add Dish Name
-            label = gtk_label_new(menu.menu_items[i].name);
-            gtk_grid_attach(GTK_GRID(grid), label, 1, row, 1, 1);
-
-            // Add Quantity
-            snprintf(buffer, sizeof(buffer), "%d", menu.menu_items[i].quantity);
-            label = gtk_label_new(buffer);
-            gtk_grid_attach(GTK_GRID(grid), label, 2, row, 1, 1);
-
-            fprintf(file, "%d\n", menu.menu_items[i].fid); // Log the FID
-
-            row++;
-        }
-    }
-    fclose(file);
-
-    // Add buttons at the bottom
-    GtkWidget *button1 = gtk_button_new_with_label("<--Back");
-    g_signal_connect(button3, "clicked", G_CALLBACK(destroy_Window), window);
-    gtk_grid_attach(GTK_GRID(grid), button1, 0, row + 1, 1, 1);
-
-    //GtkWidget *button2 = gtk_button_new_with_label("Button 2");
-    //gtk_grid_attach(GTK_GRID(grid), button2, 1, row + 1, 1, 1);
-
-    GtkWidget *button3 = gtk_button_new_with_label("BILL");
-    g_signal_connect(button3, "clicked", G_CALLBACK(show_final_menu_window), restaurant_name);
-    gtk_grid_attach(GTK_GRID(grid), button3, 2, row + 1, 1, 1);
-
-    gtk_widget_show(window);
-}
 
 // Function to show the menu window
 void show_menu_window(GtkWidget *widget, gpointer data) {
@@ -531,7 +680,7 @@ void show_final_menu_window(GtkWidget *widget, gpointer data) {
 
     GtkWidget *window = gtk_window_new();
     gtk_window_set_title(GTK_WINDOW(window), menu.restaurant_name);
-    gtk_window_set_default_size(GTK_WINDOW(window), 800, 600);
+    gtk_window_set_default_size(GTK_WINDOW(window), 700, 400);
 
     GtkWidget *scrolled_window = gtk_scrolled_window_new();
     gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_AUTOMATIC);
@@ -574,11 +723,10 @@ void show_final_menu_window(GtkWidget *widget, gpointer data) {
             label = gtk_label_new(buffer);
             gtk_grid_attach(GTK_GRID(grid), label, 2, row, 1, 1);
 
-            GtkWidget *quantity_spin_button = gtk_spin_button_new_with_range(0.0, 90.0, 1.0);
-            gtk_spin_button_set_value(GTK_SPIN_BUTTON(quantity_spin_button), menu.menu_items[i].quantity);
-            g_object_set_data(G_OBJECT(quantity_spin_button), "menu-item", &menu.menu_items[i]);
-            //g_signal_connect(quantity_spin_button, "value-changed", G_CALLBACK(on_quantity_value_changed), &menu.menu_items[i]);
-            gtk_grid_attach(GTK_GRID(grid), quantity_spin_button, 3, row, 1, 1);
+            snprintf(buffer, sizeof(buffer), "%d", menu.menu_items[i].quantity);
+            label = gtk_label_new(buffer);
+
+            gtk_grid_attach(GTK_GRID(grid), label, 3, row, 1, 1);
 
             float total = menu.menu_items[i].price * menu.menu_items[i].quantity;
             snprintf(buffer, sizeof(buffer), "%.2f", total);
@@ -596,11 +744,11 @@ void show_final_menu_window(GtkWidget *widget, gpointer data) {
     gtk_grid_attach(GTK_GRID(grid), total_label, 3, row, 2, 1);
 
     GtkWidget *confirm_button = gtk_button_new_with_label("ONLINE PAYMENT");
-    g_signal_connect(confirm_button, "clicked", G_CALLBACK(on_payment_clicked), &menu);
+    g_signal_connect(confirm_button, "clicked", G_CALLBACK(feed_back), &menu);
     gtk_grid_attach(GTK_GRID(grid), confirm_button, 1, row + 1, 1, 1);
 
     GtkWidget *cancel_button = gtk_button_new_with_label("Cash On Dilivery");
-    g_signal_connect(cancel_button, "clicked", G_CALLBACK(on_cancel_order_clicked), window);
+    g_signal_connect(cancel_button, "clicked", G_CALLBACK(feed_back), window);
     gtk_grid_attach(GTK_GRID(grid), cancel_button, 2, row + 1, 1, 1);
 
     GtkWidget *back_button = gtk_button_new_with_label("<-- Back");
@@ -614,21 +762,18 @@ void show_final_menu_window(GtkWidget *widget, gpointer data) {
 void on_Sort_by_Rating_clicked(GtkWidget *widget, gpointer data) {
     GtkWidget *window;
     int n_rest = 29;
-    //Restaurant *restaurants = NULL;
 
-    //store_rests(username, &restaurants, &n_rest);
     sort_rests(2, restaurants, n_rest);
     
     window = gtk_window_new();
     gtk_window_set_title(GTK_WINDOW(window), "Sort by Rating");
     gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
 
-    // Create a scrolled window
     GtkWidget *scrolled_window = gtk_scrolled_window_new();
     gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_ALWAYS);
     gtk_window_set_child(GTK_WINDOW(window), scrolled_window);
 
-    // Create a box to hold the restaurant buttons
+
     GtkWidget *box = gtk_box_new(GTK_ORIENTATION_VERTICAL, 5);
     gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), box);
 
@@ -643,15 +788,6 @@ void on_Sort_by_Rating_clicked(GtkWidget *widget, gpointer data) {
 void on_Sort_by_Distance_clicked(GtkWidget *widget, gpointer data) {
     GtkWidget *window;
     int n_rest = 29;
-    
-    //Restaurant *restaurants = NULL;
-     // Allocate memory for restaurants
-    //restaurants = malloc(100 * sizeof(Restaurant));
-    //if (!restaurants) {
-    //    perror("Failed to allocate memory");
-    //  exit(EXIT_FAILURE);
-    //}
-    //store_rests(username, &restaurants, &n_rest);
     sort_rests(1, restaurants, n_rest);
 
     window = gtk_window_new();
@@ -671,8 +807,8 @@ void on_Sort_by_Distance_clicked(GtkWidget *widget, gpointer data) {
     create_restaurant_buttons(box, restaurants, n_rest);
 
     gtk_widget_show(window);
-     // Free allocated memory
-    //free(restaurants);
+     
+    
 }
 
 void on_food_button_clicked(GtkWidget *widget, gpointer data) {
@@ -1203,7 +1339,253 @@ int main(int argc, char **argv) {
     g_object_unref(app);
 
     return status;
+
+    
+    // Generate and prune itemsets iteratively
+    int itemset_size = 2;
+    //for food_recom
+    int transaction_count;
+    Transaction* transactions = read_transactions("transactions.txt", &transaction_count);
+
+    frequent_itemsets = NULL;
+    frequent_itemset_count = 0;
+
+    // Print the transactions
+    for (int i = 0; i < transaction_count; i++) {
+        printf("Transaction %d: ", i + 1);
+        for (int j = 0; j < transactions[i].count; j++) {
+            printf("%d ", transactions[i].items[j]);
+        }
+        printf("\n");
+    }
+
+    int min_support = 2;
+
+    // Determine the distinct items for initial candidates
+    int item_counts[1000] = {0};  // Assuming item IDs are less than 1000 for simplicity
+    for (int i = 0; i < transaction_count; i++) {
+        for (int j = 0; j < transactions[i].count; j++) {
+            item_counts[transactions[i].items[j]]++;
+        }
+    }
+
+    // Initialize candidates (single items)
+    int initial_candidate_count = 0;
+    for (int i = 0; i < 1000; i++) {
+        if (item_counts[i] > 0) {
+            initial_candidate_count++;
+        }
+    }
+
+    Itemset* candidates = (Itemset*)malloc(initial_candidate_count * sizeof(Itemset));
+    int candidate_index = 0;
+    for (int i = 0; i < 1000; i++) {
+        if (item_counts[i] > 0) {
+            candidates[candidate_index] = (Itemset){ .items = malloc(sizeof(int)), .count = 1, .support = 0 };
+            candidates[candidate_index].items[0] = i;
+            candidate_index++;
+        }
+    }
+    int candidate_count = initial_candidate_count;
+
+    // Count support and prune candidates
+    count_support(transactions, transaction_count, candidates, candidate_count);
+    prune_candidates(&candidates, &candidate_count, min_support);
+
+    
+    while (candidate_count > 0) {
+        printf("Frequent itemsets of size %d:\n", itemset_size - 1);
+        for (int i = 0; i < candidate_count; i++) {
+            print_itemset(candidates[i]);
+        }
+
+        // Append current candidates to frequent itemsets
+        frequent_itemsets = realloc(frequent_itemsets, (frequent_itemset_count + candidate_count) * sizeof(Itemset));
+        for (int i = 0; i < candidate_count; i++) {
+            frequent_itemsets[frequent_itemset_count + i] = deep_copy_itemset(candidates[i]);
+        }
+        frequent_itemset_count += candidate_count;
+
+        Itemset* new_candidates;
+        int new_candidate_count;
+        generate_candidates(candidates, candidate_count, &new_candidates, &new_candidate_count, itemset_size);
+        free_itemsets(candidates, candidate_count);
+
+        count_support(transactions, transaction_count, new_candidates, new_candidate_count);
+        prune_candidates(&new_candidates, &new_candidate_count, min_support);
+
+        candidates = new_candidates;
+        candidate_count = new_candidate_count;
+        itemset_size++;
+    }
+
 }
+
+void show_order_summary(GtkWidget *widget, gpointer data) {
+    RestaurantMenu menu;
+    read_menu_from_bin_file("temp.bin", &menu);
+    //in summary
+    int *qtt = (int *)data;
+    for(int i=0; i<menu.menu_count;i++)
+        menu.menu_items[i].quantity = qtt[i];
+
+    write_menu_to_bin_file("temp.bin", &menu);
+
+    GtkWidget *window = gtk_window_new();
+    gtk_window_set_title(GTK_WINDOW(window), "Order Summary");
+    gtk_window_set_default_size(GTK_WINDOW(window), 700, 600);
+
+    GtkWidget *scrolled_window = gtk_scrolled_window_new();
+    gtk_scrolled_window_set_policy(GTK_SCROLLED_WINDOW(scrolled_window), GTK_POLICY_AUTOMATIC, GTK_POLICY_AUTOMATIC);
+    gtk_window_set_child(GTK_WINDOW(window), scrolled_window);
+
+    GtkWidget *grid = gtk_grid_new();
+    gtk_grid_set_column_homogeneous(GTK_GRID(grid), TRUE);
+    gtk_scrolled_window_set_child(GTK_SCROLLED_WINDOW(scrolled_window), grid);
+
+    // Add headers
+    GtkWidget *header_label;
+    header_label = gtk_label_new("S_NO.");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 0, 0, 1, 1);
+
+    header_label = gtk_label_new("Dish Name");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 1, 0, 1, 1);
+
+    header_label = gtk_label_new("Quantity");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 2, 0, 1, 1);
+
+    FILE *file = fopen("transactions.txt", "a");
+    if (!file) {
+        perror("Failed to open fid_hist.txt");
+        exit(EXIT_FAILURE);
+    }
+    
+    print_menu(&menu);
+
+    int row = 1;
+    for (int i = 0; i < menu.menu_count; i++) {
+        printf("Working\%d\n",i);
+        if (menu.menu_items[i].quantity > 0) {
+            char buffer[256];
+            
+
+            // Add Serial Number
+            snprintf(buffer, sizeof(buffer), "%d", row);
+            GtkWidget *label = gtk_label_new(buffer);
+            gtk_grid_attach(GTK_GRID(grid), label, 0, row, 1, 1);
+
+            // Add Dish Name
+            label = gtk_label_new(menu.menu_items[i].name);
+            gtk_grid_attach(GTK_GRID(grid), label, 1, row, 1, 1);
+
+            // Add Quantity
+            snprintf(buffer, sizeof(buffer), "%d", menu.menu_items[i].quantity);
+            label = gtk_label_new(buffer);
+            gtk_grid_attach(GTK_GRID(grid), label, 2, row, 1, 1);
+
+            fprintf(file, "%d ", menu.menu_items[i].fid); // Log the FID
+
+            row++;
+        }
+    }
+    fprintf(file, "\n");
+    fclose(file);
+
+    header_label = gtk_label_new("RECOMENDED FOOD");
+    gtk_grid_attach(GTK_GRID(grid), header_label, 0, row + 1, 1, 1);
+
+    RestaurantMenu rec_menu;
+    int count = 0;
+
+    for (int i = 0; i < frequent_itemset_count; i++) {
+        int fid;
+        if (menu.menu_items[i].quantity>0)
+            fid = menu.menu_items[i].fid;
+        else continue;
+        Itemset itemset = frequent_itemsets[i];
+        if (itemset.count == 2) { // Ensure we only consider itemsets of size 2
+            int found = 0;
+            for (int j = 0; j < itemset.count; j++) {
+                if (itemset.items[j] == fid) {
+                    found = 1;
+                    break;
+                }
+            }
+            if (found) {
+                for (int j = 0; j < itemset.count; j++) {
+                    if (itemset.items[j] != fid) {
+                        printf("%d ", itemset.items[j]);
+                    }
+                }
+                printf("\n");
+            }
+        }
+    }
+    // for (int i =0; i<menu.menu_count; i++) {
+    //     //rec_menu.menu_items[i].fid = find_frequent_with(menu.menu_items[i].fid, frequent_itemsets, frequent_itemset_count);
+    //     if (rec_menu.menu_items[i].fid != 0){
+    //         count++;
+    //     }
+    // }
+    int k=1 ;
+    for (int j = row + 2; j < row + 2 + count ;j ++ ){
+        char buffer[256];
+        snprintf(buffer, sizeof(buffer), "%d", k);
+        GtkWidget *label = gtk_label_new(buffer);
+        gtk_grid_attach(GTK_GRID(grid), label, 0, row, 1, 1);
+
+            // Add Dish Name
+        label = gtk_label_new(menu.menu_items[k].name);
+        gtk_grid_attach(GTK_GRID(grid), label, 1, row, 1, 1);
+        //add dish price
+        //label = gtk_label_new(menu.menu_items[k].name);
+        //gtk_grid_attach(GTK_GRID(grid), label, 1, row, 1, 1);
+
+        GtkWidget *quantity_spin_button = gtk_spin_button_new_with_range(0.0, 90.0, 1.0);
+        gtk_grid_attach(GTK_GRID(grid), quantity_spin_button, 2, row, 1, 1);
+        g_signal_connect(GTK_SPIN_BUTTON(quantity_spin_button), "value-changed", G_CALLBACK(update_quantity), &qtt[k]);
+
+        k++;
+    }
+    write_menu_to_bin_file("temp2.bin",&rec_menu);
+    // FILE *file = fopen("temp.bin", "ab");
+    // if (file == NULL) {
+    //     perror("Failed to open file");
+    //     exit(EXIT_FAILURE);
+    // }
+    
+    // for (int i = 0; i < menu.menu_count; i++) {
+    //     continue;
+    // }
+    // // Write restaurant name
+    // //fwrite(menu->restaurant_name, sizeof(char), 100, file);
+    
+    // // Write menu count
+    // //fwrite(&(menu->menu_count), sizeof(int), 1, file);
+
+    // // Write each menu item
+    // for (int i = 0; i < menu.menu_count; i++) {
+    //     fwrite(&(menu.menu_items[i]), sizeof(MenuItem), 1, file);
+    // }
+
+    // fclose(file);
+
+    // Add buttons at the bottom
+    GtkWidget *button1 = gtk_button_new_with_label("<--Back");
+    g_signal_connect(button1, "clicked", G_CALLBACK(destroy_Window), window);
+    gtk_grid_attach(GTK_GRID(grid), button1, 0, row + 1, 1, 1);
+
+    //GtkWidget *button2 = gtk_button_new_with_label("Button 2");
+    //gtk_grid_attach(GTK_GRID(grid), button2, 1, row + 1, 1, 1);
+
+    GtkWidget *button3 = gtk_button_new_with_label("BILL");
+    g_signal_connect(button3, "clicked", G_CALLBACK(show_final_menu_window), window);
+    gtk_grid_attach(GTK_GRID(grid), button3, 2 , row + 1, 1, 1);
+
+    gtk_widget_show(window);
+}
+
+
 void print_hello(GtkWidget *widget, gpointer data) {
     g_print("WORKING\n");
 }

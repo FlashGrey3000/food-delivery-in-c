@@ -13,219 +13,6 @@
 
 #define MAX_LENGTH 100
 
-// typedef struct {
-//     char name[100];
-//     float rating;
-//     float distance;
-//     float travel_time;
-// } Restaurant;
-// typedef struct {
-//     char foodname[100];
-//     int fid;
-// } Fooditem;
-
-
-
-// Fooditem fooditems_array[] = {
-//         {"Seafood Platter", 101},
-//         {"Grilled Fish", 102},
-//         {"Prawn Cocktail", 103},
-//         {"Caesar Salad", 104},
-//         {"Lemon Tart", 105},
-//         {"Mojito", 106},
-//         {"French Onion Soup", 201},
-//         {"Caesar Salad", 202},
-//         {"Grilled Chicken Sandwich", 203},
-//         {"Classic Cheeseburger", 204},
-//         {"Spaghetti Carbonara", 205},
-//         {"Tiramisu", 206},
-//         {"Masala Dosa", 301},
-//         {"Paneer Butter Masala", 302},
-//         {"Vegetable Biryani", 303},
-//         {"Idli Sambar", 304},
-//         {"Rasam Rice", 305},
-//         {"Mango Lassi", 306},
-//         {"Margherita Pizza", 401},
-//         {"Pasta Alfredo", 402},
-//         {"Caesar Salad", 403},
-//         {"Grilled Chicken", 404},
-//         {"Tiramisu", 405},
-//         {"Lemon Iced Tea", 406},
-//         {"Paneer Butter Masala", 501},
-//         {"Chicken Tikka", 502},
-//         {"Rogan Josh", 503},
-//         {"Butter Naan", 504},
-//         {"Lassi", 505},
-//         {"Gulab Jamun", 506},
-//         {"Channa Bhatura", 601},
-//         {"Sizzling Brownie", 602},
-//         {"Italian Herbed Cheese Balls", 603},
-//         {"American Corn Cheese Balls", 604},
-//         {"Paneer Tikka Masala", 605},
-//         {"Mexican Nachos", 606},
-//         {"Malabar Parotta", 701},
-//         {"Kerala Fish Curry", 702},
-//         {"Appam with Stew", 703},
-//         {"Prawn Mango Curry", 704},
-//         {"Thalassery Biryani", 705},
-//         {"Avial", 706},
-//         {"Butter Chicken", 801},
-//         {"Paneer Tikka", 802},
-//         {"Dal Makhani", 803},
-//         {"Chicken Fried Rice", 804},
-//         {"Veg Spring Rolls", 805},
-//         {"Grilled Fish", 806},
-//         {"Caesar Salad", 807},
-//         {"Chocolate Cake", 808},
-//         {"Brownie Sundae", 809},
-//         {"Garlic Naan", 810},
-//         {"Mango Lassi", 811},
-//         {"Chicken Noodles", 812},
-//         {"Butter Chicken", 901},
-//         {"Paneer Tikka", 902},
-//         {"Dal Makhani", 903},
-//         {"Chicken Fried Rice", 904},
-//         {"Veg Spring Rolls", 905},
-//         {"Grilled Fish", 906},
-//         {"Caesar Salad", 907},
-//         {"Chocolate Cake", 908},
-//         {"Brownie Sundae", 909},
-//         {"Butter Chicken", 1001},
-//         {"Dal Makhani", 1002},
-//         {"Vegetable Biryani", 1003},
-//         {"Butter Naan", 1004},
-//         {"Gajar Ka Halwa", 1005},
-//         {"Mango Lassi", 1006},
-//         {"Penne Arrabbiata", 1101},
-//         {"Margherita Pizza", 1102},
-//         {"Minestrone Soup", 1103},
-//         {"Tiramisu", 1104},
-//         {"Bruschetta", 1105},
-//         {"Gelato", 1106},
-//         {"Chettinad Chicken", 1201},
-//         {"Fish Moilee", 1202},
-//         {"Veg Kurma", 1203},
-//         {"Malabar Parotta", 1204},
-//         {"Appam", 1205},
-//         {"Payasam", 1206},
-//         {"Sushi Platter", 1301},
-//         {"Thai Green Curry", 1302},
-//         {"Japanese Ramen", 1303},
-//         {"Chicken Teriyaki", 1304},
-//         {"Asian Stir-Fried Vegetables", 1305},
-//         {"Tempura Prawns", 1306},
-//         {"Chicken Chettinad", 1401},
-//         {"Prawn Moilee", 1402},
-//         {"Malabar Parotta", 1403},
-//         {"Veg Biryani", 1404},
-//         {"Filter Coffee", 1405},
-//         {"Payasam", 1406},
-//         {"Caesar Salad", 1501},
-//         {"Margherita Pizza", 1502},
-//         {"Grilled Chicken", 1503},
-//         {"Spaghetti Bolognese", 1504},
-//         {"Cheesecake", 1505},
-//         {"Fresh Lime Soda", 1506},
-//         {"Salted Lemon Fish", 1507},
-//         {"Margherita Pizza", 1601},
-//         {"Spaghetti Carbonara", 1602},
-//         {"Sushi Platter", 1603},
-//         {"Chicken Caesar Salad", 1604},
-//         {"Tiramisu", 1605},
-//         {"Chocolate Milkshake", 1606},
-//         {"Kung Pao Chicken", 1607},
-//         {"Lemon Iced Tea", 1608},
-//         {"Veg Spring Rolls", 1609},
-//         {"Grilled Chicken", 1610},
-//         {"Garlic Bread", 1611},
-//         {"Cappuccino", 1612},
-//         {"Butter Chicken", 1701},
-//         {"Paneer Tikka", 1702},
-//         {"Dal Makhani", 1703},
-//         {"Garlic Naan", 1704},
-//         {"Gulab Jamun", 1705},
-//         {"Mango Lassi", 1706},
-//         {"Dark Chocolate Cake", 1801},
-//         {"Chocolate Brownie", 1802},
-//         {"Chocolate Fondue", 1803},
-//         {"Hot Chocolate", 1804},
-//         {"Chocolate Milkshake", 1805},
-//         {"Tiramisu", 1806},
-//         {"Rava Dosa", 1901},
-//         {"Veg Biryani", 1902},
-//         {"Onion Uttapam", 1903},
-//         {"Aloo Paratha", 1904},
-//         {"Gobi Manchurian", 1905},
-//         {"Mango Lassi", 1906},
-//         {"Grilled Prawns", 2001},
-//         {"Fish Curry", 2002},
-//         {"Chicken Tikka", 2003},
-//         {"Mutton Biryani", 2004},
-//         {"Paneer Butter Masala", 2005},
-//         {"Lassi", 2006},
-//         {"Paneer Tikka", 2101},
-//         {"Chicken Tandoori", 2102},
-//         {"Dal Makhani", 2103},
-//         {"Naan", 2104},
-//         {"Gajar Halwa", 2105},
-//         {"Mango Lassi", 2106},
-//         {"Sushi Platter", 2201},
-//         {"Ramen", 2202},
-//         {"Dim Sum", 2203},
-//         {"Pad Thai", 2204},
-//         {"Green Tea Ice Cream", 2205},
-//         {"Mango Sticky Rice", 2206},
-//         {"Chicken Chettinad", 2301},
-//         {"Masala Dosa", 2302},
-//         {"Fish Curry", 2303},
-//         {"Fried Rice", 2304},
-//         {"Veg Hakka Noodles", 2305},
-//         {"Grilled Sandwich", 2306},
-//         {"Chicken Burger", 2307},
-//         {"Paneer Tikka", 2308},
-//         {"Chocolate Brownie", 2309},
-//         {"Lemonade", 2310},
-//         {"Filter Coffee", 2311},
-//         {"Veg Manchurian", 2312},
-//         {"Veg Burger", 2401},
-//         {"Chicken Alfredo Pasta", 2402},
-//         {"Greek Salad", 2403},
-//         {"Waffles with Maple Syrup", 2404},
-//         {"Espresso", 2405},
-//         {"Lemon Iced Tea", 2406},
-//         {"BBQ Ribs", 2501},
-//         {"Buffalo Wings", 2502},
-//         {"Cheeseburger", 2503},
-//         {"Loaded Fries", 2504},
-//         {"Chocolate Milkshake", 2505},
-//         {"Pulled Pork Sandwich", 2506},
-//         {"BBQ Pork Ribs", 2601},
-//         {"Grilled Lamb Chops", 2602},
-//         {"Caesar Salad", 2603},
-//         {"Margherita Pizza", 2604},
-//         {"Chocolate Fondant", 2605},
-//         {"Mango Smoothie", 2606},
-//         {"Caesar Salad", 2701},
-//         {"Margherita Pizza", 2702},
-//         {"Grilled Chicken", 2703},
-//         {"Spaghetti Bolognese", 2704},
-//         {"Cheesecake", 2705},
-//         {"Mojito", 2706},
-//         {"Margherita Pizza", 2801},
-//         {"Quattro Formaggi Pizza", 2802},
-//         {"Spaghetti Aglio e Olio", 2803},
-//         {"Caesar Salad", 2804},
-//         {"Tiramisu", 2805},
-//         {"Gelato", 2806},
-//         {"Grilled Fish", 2901},
-//         {"Caesar Salad", 2902},
-//         {"Lamb Chops", 2903},
-//         {"Chicken Skewers", 2904},
-//         {"Tiramisu", 2905},
-//         {"Mojito", 2906},
-//     };
-// int fooditems_array_size = sizeof(fooditems_array) / sizeof(fooditems_array[0]);
-
 typedef struct {
     char name[100];
     float price;
@@ -370,53 +157,14 @@ void read_menu_from_bin_file(const char *filename, RestaurantMenu *menu) {
     fclose(file);
 }
 
-// char *getfoodname(int fid){
-//     for (int i=0; i<fooditems_array_size; i++){
-//         if (fid == fooditems_array[i].fid){
-//             return fooditems_array[i].foodname;
-//         }
-//     }
-// }
+
 
 static GtkWidget *name_entry, *username_entry, *password_entry, *phone_entry;
 static GtkWidget *addr1_entry, *addr2_entry, *city_entry, *state_entry, *pinCode_entry;
 static GtkWidget *latitude_entry, *longitude_entry, *conform_password_entry;
 
 
-// void show_new_buttons(GtkWidget *window) {
-//     GtkWidget *new_box;
-//     GtkWidget *new_button1;
-//     GtkWidget *new_button2;
 
-//     new_box = gtk_box_new(GTK_ORIENTATION_VERTICAL, 2);
-//     gtk_widget_set_halign(new_box, GTK_ALIGN_CENTER);
-//     gtk_widget_set_valign(new_box, GTK_ALIGN_CENTER);
-
-//     new_button1 = gtk_button_new_with_label("NEW BUTTON 1");
-//     new_button2 = gtk_button_new_with_label("NEW BUTTON 2");
-
-//     g_signal_connect(new_button1, "clicked", G_CALLBACK(print_hello), NULL);
-//     g_signal_connect(new_button2, "clicked", G_CALLBACK(print_hello), NULL);
-
-//     gtk_box_append(GTK_BOX(new_box), new_button1);
-//     gtk_box_append(GTK_BOX(new_box), new_button2);
-
-//     gtk_window_set_child(GTK_WINDOW(window), new_box);
-// }
-// void strip_endspaces (char *str) {
-//     int len = strlen(str);
-//     int i;
-
-//     // Traverse from the end of the string towards the beginning
-//     for (i = len - 1; i >= 0; i--) {
-//         if (!isspace(str[i])) {
-//             break;
-//         }
-//     }
-
-//     // Null-terminate the string at the first non-space character from the end
-//     str[i + 1] = '\0';
-// }
 
 void on_restaurant_button_clicked(GtkWidget *widget, gpointer data) {
     char *restaurant_name = (char *)data;
@@ -560,32 +308,7 @@ void update_quantity (GtkSpinButton *button, gpointer quantity_ptr) {
     printf("%d", *qtt);
 }
 
-// void on_payment_clicked(GtkWidget *widget, gpointer data) {
-//     //RestaurantMenu *menu = (RestaurantMenu *)data;
-    
-//     char *username;
-//     FILE *ftemp = fopen("tempusername.txt","r");
-//     fscanf(ftemp, username);
-//     fclose(ftemp);
 
-//     char filename[150];
-//     snprintf(filename, sizeof(filename), "%s_order.txt", username);
-
-//     FILE *file = fopen(filename, "w");
-//     if (!file) {
-//         perror("Failed to open file");
-//         exit(EXIT_FAILURE);
-//     }
-
-//     for (int i = 0; i < menu->menu_count; i++) {
-//         if (menu->menu_items[i].quantity > 0) {
-//             fprintf(file, "%s,%.2f,%d\n", menu->menu_items[i].name, menu->menu_items[i].price, menu->menu_items[i].quantity);
-//         }
-//     }
-
-//     fclose(file);
-//     g_print("Order confirmed and saved to %s\n", filename);
-// }
 
 
 // Function to show the menu window
@@ -1625,55 +1348,9 @@ void show_order_summary(GtkWidget *widget, gpointer data) {
         g_signal_connect(GTK_SPIN_BUTTON(quantity_spin_button), "value-changed", G_CALLBACK(update_quantity), &qtt[0]);
 
 
-    // for (int i =0; i<menu.menu_count; i++) {
-    //     //rec_menu.menu_items[i].fid = find_frequent_with(menu.menu_items[i].fid, frequent_itemsets, frequent_itemset_count);
-    //     if (rec_menu.menu_items[i].fid != 0){
-    //         count++;
-    //     }
-    // }
-    // int k=0 ;
-    // for (int j = row + 2; j < row + 2 + count ;j ++ ){
-    //     char buffer[256];
-    //     snprintf(buffer, sizeof(buffer), "%d", k+1);
-    //     GtkWidget *label = gtk_label_new(buffer);
-    //     gtk_grid_attach(GTK_GRID(grid), label, 0, j, 1, 1);
 
-    //         // Add Dish Name
-    //     label = gtk_label_new(rec_menu.menu_items[k].name);
-    //     gtk_grid_attach(GTK_GRID(grid), label, 1, j, 1, 1);
-    //     //add dish price
-    //     sprintf(buffer, "%f", rec_menu.menu_items[k].price);
-    //     label = gtk_label_new(buffer);
-    //     gtk_grid_attach(GTK_GRID(grid), label, 2, j, 1, 1);
-
-    //     GtkWidget *quantity_spin_button = gtk_spin_button_new_with_range(0.0, 90.0, 1.0);
-    //     gtk_grid_attach(GTK_GRID(grid), quantity_spin_button, 3, j, 1, 1);
-    //     g_signal_connect(GTK_SPIN_BUTTON(quantity_spin_button), "value-changed", G_CALLBACK(update_quantity), &qtt[k]);
-
-    //     k++;
-    // }
     write_menu_to_bin_file("temp2.bin",&rec_menu);
-    // FILE *file = fopen("temp.bin", "ab");
-    // if (file == NULL) {
-    //     perror("Failed to open file");
-    //     exit(EXIT_FAILURE);
-    // }
-    
-    // for (int i = 0; i < menu.menu_count; i++) {
-    //     continue;
-    // }
-    // // Write restaurant name
-    // //fwrite(menu->restaurant_name, sizeof(char), 100, file);
-    
-    // // Write menu count
-    // //fwrite(&(menu->menu_count), sizeof(int), 1, file);
 
-    // // Write each menu item
-    // for (int i = 0; i < menu.menu_count; i++) {
-    //     fwrite(&(menu.menu_items[i]), sizeof(MenuItem), 1, file);
-    // }
-
-    // fclose(file);
 
     // Add buttons at the bottom
     GtkWidget *button1 = gtk_button_new_with_label("<--Back");

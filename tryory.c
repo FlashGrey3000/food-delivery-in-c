@@ -25,108 +25,108 @@ void free_itemsets(Itemset* itemsets, int count);
 int* find_frequent_with(int number, Itemset* frequent_itemsets, int itemset_count, int* result_count);
 Itemset deep_copy_itemset(Itemset itemset);
 
-int main() {
-    int transaction_count;
-    Transaction* transactions = read_transactions("transactions.txt", &transaction_count);
+// int main() {
+//     int transaction_count;
+//     Transaction* transactions = read_transactions("transactions.txt", &transaction_count);
 
-    // Print the transactions
-    for (int i = 0; i < transaction_count; i++) {
-        printf("Transaction %d: ", i + 1);
-        for (int j = 0; j < transactions[i].count; j++) {
-            printf("%d ", transactions[i].items[j]);
-        }
-        printf("\n");
-    }
+//     // Print the transactions
+//     for (int i = 0; i < transaction_count; i++) {
+//         printf("Transaction %d: ", i + 1);
+//         for (int j = 0; j < transactions[i].count; j++) {
+//             printf("%d ", transactions[i].items[j]);
+//         }
+//         printf("\n");
+//     }
 
-    int min_support = 4;
+//     int min_support = 4;
 
-    // Determine the distinct items for initial candidates
-    int item_counts[1000] = {0};  // Assuming item IDs are less than 1000 for simplicity
-    for (int i = 0; i < transaction_count; i++) {
-        for (int j = 0; j < transactions[i].count; j++) {
-            item_counts[transactions[i].items[j]]++;
-        }
-    }
+//     // Determine the distinct items for initial candidates
+//     int item_counts[1000] = {0};  // Assuming item IDs are less than 1000 for simplicity
+//     for (int i = 0; i < transaction_count; i++) {
+//         for (int j = 0; j < transactions[i].count; j++) {
+//             item_counts[transactions[i].items[j]]++;
+//         }
+//     }
 
-    // Initialize candidates (single items)
-    int initial_candidate_count = 0;
-    for (int i = 0; i < 1000; i++) {
-        if (item_counts[i] > 0) {
-            initial_candidate_count++;
-        }
-    }
+//     // Initialize candidates (single items)
+//     int initial_candidate_count = 0;
+//     for (int i = 0; i < 1000; i++) {
+//         if (item_counts[i] > 0) {
+//             initial_candidate_count++;
+//         }
+//     }
 
-    Itemset* candidates = (Itemset*)malloc(initial_candidate_count * sizeof(Itemset));
-    int candidate_index = 0;
-    for (int i = 0; i < 1000; i++) {
-        if (item_counts[i] > 0) {
-            candidates[candidate_index] = (Itemset){ .items = malloc(sizeof(int)), .count = 1, .support = 0 };
-            candidates[candidate_index].items[0] = i;
-            candidate_index++;
-        }
-    }
-    int candidate_count = initial_candidate_count;
+//     Itemset* candidates = (Itemset*)malloc(initial_candidate_count * sizeof(Itemset));
+//     int candidate_index = 0;
+//     for (int i = 0; i < 1000; i++) {
+//         if (item_counts[i] > 0) {
+//             candidates[candidate_index] = (Itemset){ .items = malloc(sizeof(int)), .count = 1, .support = 0 };
+//             candidates[candidate_index].items[0] = i;
+//             candidate_index++;
+//         }
+//     }
+//     int candidate_count = initial_candidate_count;
 
-    // Count support and prune candidates
-    count_support(transactions, transaction_count, candidates, candidate_count);
-    prune_candidates(&candidates, &candidate_count, min_support);
+//     // Count support and prune candidates
+//     count_support(transactions, transaction_count, candidates, candidate_count);
+//     prune_candidates(&candidates, &candidate_count, min_support);
 
-    Itemset* frequent_itemsets = NULL;
-    int frequent_itemset_count = 0;
+//     Itemset* frequent_itemsets = NULL;
+//     int frequent_itemset_count = 0;
 
-    // Generate and prune itemsets iteratively
-    int itemset_size = 2;
-    while (candidate_count > 0) {
-        printf("Frequent itemsets of size %d:\n", itemset_size - 1);
-        for (int i = 0; i < candidate_count; i++) {
-            print_itemset(candidates[i]);
-        }
+//     // Generate and prune itemsets iteratively
+//     int itemset_size = 2;
+//     while (candidate_count > 0) {
+//         printf("Frequent itemsets of size %d:\n", itemset_size - 1);
+//         for (int i = 0; i < candidate_count; i++) {
+//             print_itemset(candidates[i]);
+//         }
 
-        // Append current candidates to frequent itemsets
-        frequent_itemsets = realloc(frequent_itemsets, (frequent_itemset_count + candidate_count) * sizeof(Itemset));
-        for (int i = 0; i < candidate_count; i++) {
-            frequent_itemsets[frequent_itemset_count + i] = deep_copy_itemset(candidates[i]);
-        }
-        frequent_itemset_count += candidate_count;
+//         // Append current candidates to frequent itemsets
+//         frequent_itemsets = realloc(frequent_itemsets, (frequent_itemset_count + candidate_count) * sizeof(Itemset));
+//         for (int i = 0; i < candidate_count; i++) {
+//             frequent_itemsets[frequent_itemset_count + i] = deep_copy_itemset(candidates[i]);
+//         }
+//         frequent_itemset_count += candidate_count;
 
-        Itemset* new_candidates;
-        int new_candidate_count;
-        generate_candidates(candidates, candidate_count, &new_candidates, &new_candidate_count, itemset_size);
-        free_itemsets(candidates, candidate_count);
+//         Itemset* new_candidates;
+//         int new_candidate_count;
+//         generate_candidates(candidates, candidate_count, &new_candidates, &new_candidate_count, itemset_size);
+//         free_itemsets(candidates, candidate_count);
 
-        count_support(transactions, transaction_count, new_candidates, new_candidate_count);
-        prune_candidates(&new_candidates, &new_candidate_count, min_support);
+//         count_support(transactions, transaction_count, new_candidates, new_candidate_count);
+//         prune_candidates(&new_candidates, &new_candidate_count, min_support);
 
-        candidates = new_candidates;
-        candidate_count = new_candidate_count;
-        itemset_size++;
-    }
+//         candidates = new_candidates;
+//         candidate_count = new_candidate_count;
+//         itemset_size++;
+//     }
 
-    // Print all frequent itemsets
-    // printf("All frequent itemsets:\n");
-    // for (int i = 0; i < frequent_itemset_count; i++) {
-    //     print_itemset(frequent_itemsets[i]);
-    // }
+//     // Print all frequent itemsets
+//     // printf("All frequent itemsets:\n");
+//     // for (int i = 0; i < frequent_itemset_count; i++) {
+//     //     print_itemset(frequent_itemsets[i]);
+//     // }
 
-    // Example usage of find_frequent_with
-    int number_to_check; // Change this to the number you want to check
-    int nums;
-    printf("Enter number to check: ");
-    scanf("%d", &number_to_check);
-    printf("Numbers frequent with %d:\n", number_to_check);
-    int* result = find_frequent_with(number_to_check, frequent_itemsets, frequent_itemset_count, &nums);
-    printf("Items frequent with 1: ");
-    for (int i = 0; i < nums; i++) {
-        printf("%d ", result[i]);
-    }
-    printf("\n");
+//     // Example usage of find_frequent_with
+//     int number_to_check; // Change this to the number you want to check
+//     int nums;
+//     printf("Enter number to check: ");
+//     scanf("%d", &number_to_check);
+//     printf("Numbers frequent with %d:\n", number_to_check);
+//     int* result = find_frequent_with(number_to_check, frequent_itemsets, frequent_itemset_count, &nums);
+//     printf("Items frequent with 1: ");
+//     for (int i = 0; i < nums; i++) {
+//         printf("%d ", result[i]);
+//     }
+//     printf("\n");
 
-    // Free allocated memory
-    free_transactions(transactions, transaction_count);
-    free_itemsets(frequent_itemsets, frequent_itemset_count);
+//     // Free allocated memory
+//     free_transactions(transactions, transaction_count);
+//     free_itemsets(frequent_itemsets, frequent_itemset_count);
 
-    return 0;
-}
+//     return 0;
+// }
 
 void generate_candidates(Itemset* previous_level, int previous_count, Itemset** candidates, int* candidate_count, int itemset_size) {
     int max_candidates = previous_count * (previous_count - 1) / 2;

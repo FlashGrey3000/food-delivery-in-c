@@ -5,64 +5,87 @@
 #define MAX_LINE_LENGTH 100
 #define MAX_OPTION_LENGTH 50
 
-void updateRating(const char* filename, const char* option, int newRating) {
-    FILE *file = fopen(filename, "r");
+void update_reviews(const char* restaurant_name, float *new_rating) {
+    FILE *file = fopen("city_wise_rests/zomato_chennai.txt", "r");
     if (file == NULL) {
-        printf("Error opening file.\n");
+        perror("Error opening file");
         return;
     }
 
-    // Read the entire file and store lines
-    char lines[5][MAX_LINE_LENGTH]; // Assuming there are 5 options
-    int count = 0;
-    while (fgets(lines[count], MAX_LINE_LENGTH, file) && count < 5) {
-        count++;
-    }
-    fclose(file);
+    char line[1024];
+    char updated_lines[1024][1024]; // Store updated lines
+    int updated_lines_count = 0;
+    char lower_restaurant_name[100];
+    strcpy(lower_restaurant_name, restaurant_name);
+    to_lowercase(lower_restaurant_name);
 
-    // Update the rating for the chosen option
-    for (int i = 0; i < count; i++) {
-        char opt[MAX_OPTION_LENGTH];
-        int totalReviews;
-        float averageRating;
-        sscanf(lines[i], "'%[^']',%d,%f", opt, &totalReviews, &averageRating);
-        if (strcmp(opt, option) == 0) {
-            averageRating = ((averageRating * totalReviews) + newRating) / (totalReviews + 1);
-            totalReviews++;
-            sprintf(lines[i], "'%s',%d,%f\n", opt, totalReviews, averageRating);
-            break;
+    while (fgets(line, sizeof(line), file)) {
+        char original_line[1024];
+        strcpy(original_line, line);
+
+        char *name = strtok(line, " :");
+        char *averageRatingStr = strtok(NULL, " :");
+        char *rest = strtok(NULL, "\n");
+
+        if (name != NULL && averageRatingStr != NULL && rest != NULL) {
+            char lower_name[100];
+            strcpy(lower_name, name);
+            to_lowercase(lower_name);
+
+            if (strcmp(lower_restaurant_name, lower_name) == 0) {
+                float averageRating = atof(averageRatingStr);
+                char *last_colon = strrchr(rest, ':');
+                if (last_colon != NULL) {
+                    int totalReviews = atoi(last_colon + 1);
+
+                    averageRating = ((averageRating * totalReviews) + *new_rating) / (totalReviews + 1);
+                    totalReviews += 1;
+
+                    // Remove old total reviews from rest
+                    *last_colon = '\0';
+
+                    // Format updated line
+                    snprintf(original_line, sizeof(original_line), "%s : %.1f : %s : %d\n", name, averageRating, rest, totalReviews);
+                }
+            }
         }
+
+        strcpy(updated_lines[updated_lines_count++], original_line);
     }
 
-    // Write updated lines back to the file
-    file = fopen(filename, "w");
+    fclose(file);
+
+    // Reopen the file in write mode to overwrite it with updated content
+    file = fopen("city_wise_rests/zomato_chennai.txt", "w");
     if (file == NULL) {
-        printf("Error opening file.\n");
+        perror("Error reopening file");
         return;
     }
-    for (int i = 0; i < count; i++) {
-        fputs(lines[i], file);
+
+    for (int i = 0; i < updated_lines_count; i++) {
+        fputs(updated_lines[i], file);
     }
+
     fclose(file);
 }
 
-int main() {
-    const char* filename = "ratings.txt";
-    char option[MAX_OPTION_LENGTH];
-    int rating;
+// int main() {
+//     const char* filename = "ratings.txt";
+//     char option[MAX_OPTION_LENGTH];
+//     int rating;
 
-    printf("Please enter the option name: ");
-    scanf(" '%[^']'", option); // Read a string between single quotes
+//     printf("Please enter the option name: ");
+//     scanf(" '%[^']'", option); // Read a string between single quotes
 
-    printf("Please enter your rating (1-5): ");
-    scanf("%d", &rating);
+//     printf("Please enter your rating (1-5): ");
+//     scanf("%d", &rating);
 
-    if(rating < 1 || rating > 5) {
-        printf("Invalid rating. Please rate between 1 and 5.\n");
-        return 1;
-    }
+//     if(rating < 1 || rating > 5) {
+//         printf("Invalid rating. Please rate between 1 and 5.\n");
+//         return 1;
+//     }
 
-    updateRating(filename, option, rating);
+//     updateRating(filename, option, rating);
 
-    return 0;
-}
+//     return 0;
+// }
